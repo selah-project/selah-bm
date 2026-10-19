@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Possessive pronoun supplied before dugukolo; Hebrew construct suffixed already carries it"
+    },
+    {
+      "kind": "you",
+      "subject": "Hezekiah ka jaabi",
+      "rationale": "Direct address to Yawe in prayer, verse 17 opens Hezekiah's petition"
+    }
+  ],
+  "translation": "Tiɲɛ na, Yawe, Ashur (Asiri) masakɛw ye ⟨את⟩ siyaw ni ⟨את⟩ u dugukolow jɔsi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a1fec169dc978f33dfee8ceead9ce6e58419f54d30237224155216646c196cc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/19\/17-20.1791933192948.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Tiɲɛ na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ye … jɔsi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur (Asiri)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siyaw"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u dugukolow"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "u dugukolow"
+    }
+  ],
+  "timestamp": "2026-10-13T23:13:12.954695769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula 'ye' supplied; Hebrew 'this-is-the-word' has no verb."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "shemita\/shamot",
+      "rationale": "שמטה noun and שמוט verb share the root שמט — release noun\/release verb echo, flattened in Bambara."
+    },
+    {
+      "kind": "elision",
+      "subject": "משה ידו",
+      "rationale": "'loan of his hand' — Hebrew idiom of hand-as-means; 'a bolo' keeps the hand literally."
+    }
+  ],
+  "translation": "N'o de ye shemita ka kuma ye: min sɔɔdi tigi, min bɛ a bolo, a bɛ a bɔ a ɲɔgɔnna ma; a tɛ dɔgɔya ⟨את⟩ a ɲɔgɔnna ani ⟨את⟩ a balimakɛ, sabu Yawe ka shemita wele bɛ kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "951ea50b774bd73147206992756279a75d684f67502fc25ff20aa68c5ec78901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/15\/1-4.1791927923855.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "n'o de"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "shemita"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "tigi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "sɔɔdi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "di"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "a ɲɔgɔnna ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "dɔgɔya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ɲɔgɔnna"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a ɲɔgɔnna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a balimakɛ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "a balimakɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wele bɛ kɛ"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "shemita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:45:23.861577389Z",
+  "model": "glm-5.3"
+}

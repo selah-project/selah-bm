@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka ci kumasenw",
+      "rationale": "וישסע kɔrɔ tiɲɛ 'ka ge\/ka bɔ' — jɔyɔrɔ in kɔnɔ a kɔrɔ ye 'ka mɔgɔw ju kuma la'; ge-kɔrɔ bɛ datu."
+    },
+    {
+      "kind": "crux",
+      "subject": "labugu",
+      "rationale": "מערה = 'dɔgɔ-bugu'; 'labugu' (bun) dɔgɔyara tɔgɔ ma — 'labugu' walima 'dugubugu' bɛ se ka kɛ."
+    }
+  ],
+  "translation": "Dawida ye ⟨את⟩ a ka mɔgɔw ci kumasenw la, a ma yɛlɛ u ka wuli ka kɛ Sha ul ye. Sha ul ye wuli labugu la, ka taa sira kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/24\/5-8.1791930577183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "ka ci kumasenw"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka mɔgɔw"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "a ka mɔgɔw"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "kumasenw la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "yɛlɛ"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "wuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka kɛ … ye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha ul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Sha ul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "wuli"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "labugu la"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira kan"
+    }
+  ],
+  "timestamp": "2026-10-13T22:29:37.189495241Z",
+  "model": "glm-5.3"
+}

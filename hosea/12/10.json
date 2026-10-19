@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tents",
+      "rationale": "עוד אושיבך באהלים read either as a threat (back to wilderness wandering) or a promise (restored festival booths); 'again make you dwell in tents' kept literal."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dɔgɔkunun",
+      "rationale": "מועד is 'appointed time\/festival' broadly; the festival-loan narrows it toward Sukkot."
+    }
+  ],
+  "translation": "Nka ne ye Yawe, i ka Elohim, ka bɔ Mitsrayim (Misira) dugukolo la; ne bɛna kɛ fɔlɔ i sigin tantiw kɔnɔ, i n'a fɔ dɔgɔkunun-donw na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/12\/9-12.1791938239705.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "nka ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bɛna kɛ fɔlɔ"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "i sigin"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "tantiw kɔnɔ"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "i n'a fɔ … donw na"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "dɔgɔkunun"
+    }
+  ],
+  "timestamp": "2026-10-14T00:37:19.706237320Z",
+  "model": "glm-5.3"
+}

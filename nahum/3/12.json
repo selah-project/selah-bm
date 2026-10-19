@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 3:12",
+  "book": "nahum",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Nineveh",
+      "rationale": "second-person feminine address continues"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minbaga",
+      "rationale": "'the eater' = the besieging enemy, kept literally as 'one-who-eats'"
+    },
+    {
+      "kind": "addition",
+      "subject": "duguw",
+      "rationale": "plural added: Bamanankan 'mabɛn' needs the noun 'dugu' (town) for sense"
+    }
+  ],
+  "translation": "I mabɛn duguw bɛɛ bɛ taamu jiriw ye ni u fɔlɔ jiridenw ye; ni u bɛɲagami, u bɛna bɔ minbaga da kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b48b1f17ed541b62080927e7e822b6ae7594b3355a1e7e7a664f5da7501b1309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nahum\/3\/9-12.1791938882306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "i mabɛn duguw"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "taamu jiriw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "fɔlɔ jiridenw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "bɛɲagami"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "u bɛna bɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "minbaga"
+    }
+  ],
+  "timestamp": "2026-10-14T00:48:02.307258978Z",
+  "model": "glm-5.3"
+}

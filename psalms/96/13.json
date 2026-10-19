@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי בא כי בא",
+      "rationale": "Doubled 'for he comes, for he comes' — repetition builds certainty; Bamanankan repeats 'sabu a nana' to keep the beat."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dugukolo min mɔgɔw bɛ",
+      "rationale": "תבל is the inhabited world, distinct from הארץ (dugukolo); rendered descriptively since Bamanankan has no single word for it."
+    },
+    {
+      "kind": "crux",
+      "subject": "nana",
+      "rationale": "בא perfect: 'he is come' (jps\/ylt) vs 'he is coming' (bsb); Bamanankan 'a nana' keeps the perfective shape."
+    },
+    {
+      "kind": "invitation",
+      "subject": "verse",
+      "rationale": "The verse completes the summons of vv.11-12: all creation rejoices before Yawe who comes to judge."
+    }
+  ],
+  "translation": "Yawe ɲɛda fɛ, sabu a nana, sabu a nana ka dugukolo sariya-ɲɛnabɔ. A bɛna dugukolo min mɔgɔw bɛ ɲɛnabɔ ni sariya-ɲɛfɔli ye, ani jamaw ni a tiɲɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7608e0ee44926bb4a0ac680cae1383f608f02699b88e5e1ea78d579a01d91da7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/96\/13-13.1791941154876.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛda fɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ka sariya-ɲɛnabɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "bɛna sariya-ɲɛnabɔ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dugukolo min mɔgɔw bɛ"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ni sariya-ɲɛfɔli ye"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "ani jamaw"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "ni a tiɲɛ ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:54.876578363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fisa",
+      "rationale": "בלה 'wear out\/decay' rendered fisa 'make old' — the wasting picture, not a break."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשר \/ עור",
+      "rationale": "Flesh and skin paired as outer layers, then bones beneath — an outside-in anatomy of affliction kept in order."
+    }
+  ],
+  "translation": "A ye ne sogo ni ne furaninya fisa, a ye ne kolow woto.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/1-4.1791944892050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "a ye … fisa"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ne sogo"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "ni ne furaninya"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "a ye … woto"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ne kolow"
+    }
+  ],
+  "timestamp": "2026-10-14T02:28:12.060562357Z",
+  "model": "glm-5.3"
+}

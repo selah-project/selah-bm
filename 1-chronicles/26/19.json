@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 26:19",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bambara copula structure supplied; Hebrew noun clause has none."
+    },
+    {
+      "kind": "substitution",
+      "subject": "datɔgɔtigiw",
+      "rationale": "השערים literally 'the gatekeepers'; rendered as door-masters."
+    }
+  ],
+  "translation": "Nin ye Korachi denw ni Merari (Merari) denw ka datɔgɔtigi gangancogow ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e879bdd42e87a64f017a316ddc64c77ab2169f9b77a446994d38acd84e1d4d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/26\/17-20.1791948370601.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "gangancogow"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "datɔgɔtigiw"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "ni … denw"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    }
+  ],
+  "timestamp": "2026-10-14T03:26:10.602789702Z",
+  "model": "glm-5.3"
+}

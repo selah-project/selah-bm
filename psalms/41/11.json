@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "direct petition addressed to Yawe, turning from the enemies' speech to prayer"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "imperative marked with 'ka'; Hebrew uses bare imperfects of request"
+    }
+  ],
+  "translation": "Ni don, i ye Yawe, i ka ne dimi, i ka ne wili, ne bɛna u furakɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/41\/9-12.1791940124180.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ni don, i ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "i ka ne dimi"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "i ka ne wili"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "ne bɛna ... furakɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:44.180904076Z",
+  "model": "glm-5.3"
+}

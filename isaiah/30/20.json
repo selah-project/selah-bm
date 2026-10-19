@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 30:20",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מוריך",
+      "rationale": "KJV\/ASV 'thy teachers' (plural) vs JPS 'thy Teacher' (singular, God himself) — Yawe as the one who teaches Israel."
+    },
+    {
+      "kind": "crux",
+      "subject": "יכנף",
+      "rationale": "'hide\/withdraw into a corner' from כנף (wing); rendered here as 'faari' (hide), corner-image partially lost."
+    },
+    {
+      "kind": "idiom",
+      "subject": "buru min bɛ gɛlɛyala",
+      "rationale": "Construct 'bread of adversity' rendered as relative clause, Bambara has no bound construct."
+    },
+    {
+      "kind": "addition",
+      "subject": "K'a sɔrɔ",
+      "rationale": "Concessive frame ('though') supplied; Hebrew juxtaposes clauses without a connector."
+    }
+  ],
+  "translation": "K'a sɔrɔ Adonay b'aw di buru min bɛ gɛlɛyala, ani ji min bɛ naati kɔnɔ, aw ka kalanbagatigi tɛna tugun faari; aw ka ɲɛw bɛna ye ⟨את⟩ aw ka kalanbagatigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "405f1e30416ec8958597c0f5a80e5a0b41cc36227736eac3972f4dd5d6a51bc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/30\/20-20.1791950645342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "b'aw di"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ma"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buru"
+    },
+    {
+      "surface": "צר",
+      "gloss": "gɛlɛyala"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ani ji"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "naati kɔnɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "יכנף",
+      "gloss": "faari"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tugun"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "aw ka kalanbagatigi"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "bɛna"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "aw ka ɲɛw"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aw ka kalanbagatigi"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "aw ka kalanbagatigi"
+    }
+  ],
+  "timestamp": "2026-10-14T04:04:05.343010450Z",
+  "model": "glm-5.3"
+}

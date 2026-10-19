@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 1:42",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "Bambara needs 'wa' to carry the confident 'and you must be bringing good news'; Hebrew has only the infinitive."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cɛ seba",
+      "rationale": "אישׁ חיל literally 'man of substance\/valor'; rendered 'cɛ seba' (powerful man)."
+    }
+  ],
+  "translation": "A korɔbɛdɔ tun bɛ kuma da, yala, Yonatan, Abiyatar denkɛ, sarakalasebaga, naana; Adoniyahu ko: Na, bawo i ye cɛ seba ye, wa i bɛna kunnafoni dɔɔnin di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4ca43b0ba9238ec91b49c99242d574dc12c866bacaca837f02421d0338adfde8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/1\/41-44.1791931675776.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "a korɔbɛdɔ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tun bɛ kuma da"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "yala"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "naana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adoniyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bawo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "seba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "dɔɔnin"
+    },
+    {
+      "surface": "תבשר",
+      "gloss": "i bɛna kunnafoni di"
+    }
+  ],
+  "timestamp": "2026-10-13T22:47:55.781270634Z",
+  "model": "glm-5.3"
+}

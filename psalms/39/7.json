@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצלם",
+      "rationale": "'in an image\/phantom' — KJV 'vain show', JPS 'mere semblance', YLT 'an image'; rendered 'in a shadow-likeness'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אך … אך",
+      "rationale": "Double 'surely\/only' frames the two lines; Bambara repeats 'tiɲɛnamaya de' to keep the parallel."
+    },
+    {
+      "kind": "alternative",
+      "subject": "יהמיון",
+      "rationale": "From המה 'to hum, roar' — rendered 'they stir in turmoil'; could also be 'they clamor'."
+    }
+  ],
+  "translation": "Tiɲɛnamaya de: hadamaden bɛ taama dɛbi-cogoya kɔnɔ; tiɲɛnamaya de: u bɛ ɲɛsɔrɔ hebel na; a bɛ sanu ni wari nwini, a tɛ dɔn mun na bɛna o lajɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/39\/5-8.1791940183353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tiɲɛnamaya de"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dɛbi-cogoya kɔnɔ"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "bɛ taama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tiɲɛnamaya de"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "bɛ ɲɛsɔrɔ"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "bɛ … nwini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani a tɛ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "bɛna o lajɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:43.354269443Z",
+  "model": "glm-5.3"
+}

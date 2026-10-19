@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o de sabu",
+      "rationale": "ו prefixed-future in past narration; Bambara past frame supplied"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כצדקי \/ כבר",
+      "rationale": "paired כְ 'according-to' clauses, chiastic recompense formula, kept with parallel 'la cogo la'"
+    }
+  ],
+  "translation": "O de sabu Yawe y'a segin n ma, n ka tɔgɔdiya la cogo la, n ka bolo-mɛniya la cogo la a ɲɛnanw ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/25-28.1791939777026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "o de sabu y'a segin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n ma"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "n ka tɔgɔdiya la cogo la"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "n ka bolo-mɛniya la cogo la"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "a ɲɛ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "a ɲɛnanw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:57.026868926Z",
+  "model": "glm-5.3"
+}

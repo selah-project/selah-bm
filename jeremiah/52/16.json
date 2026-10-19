@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 52:16",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "forokɛlaw",
+      "rationale": "יגבים is literally 'diggers\/plowers'; versions render 'husbandmen' — 'field-workers' keeps the picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mɔgɔ nɔgɔyaw",
+      "rationale": "מדלות 'the dangling\/poorest ones' again, as in v15; rendered 'poor people'."
+    }
+  ],
+  "translation": "Nka Nebutsaradan, kɔnɔtɔnkɛlaw ka tigi, ye dugukolo mɔgɔ nɔgɔyaw dɔw to yen, ka kɛ jinɛkɛlaw ani forokɛlaw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "147537507fc136d2a289e7cf3030d02b180097892482214ddc60f25bb2116285",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/52\/13-16.1791936532831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדלות",
+      "gloss": "mɔgɔ nɔgɔyaw dɔw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo (mɔgɔw)"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ye … to yen"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebutsaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tigi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "kɔnɔtɔnkɛlaw"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "ka kɛ jinɛkɛlaw ye"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "ani forokɛlaw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:08:52.832534288Z",
+  "model": "glm-5.3"
+}

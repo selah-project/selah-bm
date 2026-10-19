@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 3:9",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew יקרא lacks an explicit subject; Bambara needs the pronoun for 'he calls you'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Shemuɛl",
+      "rationale": "Eli addresses Shemuɛl directly with imperatives: go, lie down, say"
+    }
+  ],
+  "translation": "Eli y'a ko Shemuɛl (Samuwɛl) ma: “Taa, i ka sigi siran la. Ni ⟨a⟩ wele i, i na kuma ko: Kuma, Yawe, sabu i ka sofi bɛ mɛn.” Shemuɛl taala, a siran a yɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0c5e13e9fa98e0373fdb0caf232f518294f5856e8159d0b5f8ddb99cf25a9221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/3\/9-12.1791929945724.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "y'a ko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "Shemuɛl ma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Taa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "sigi siran la"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "wele"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i na kuma ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bɛ mɛn"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i ka sofi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "taala"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuɛl"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "a siran"
+    },
+    {
+      "surface": "במקומו",
+      "gloss": "a yɔrɔ la"
+    }
+  ],
+  "timestamp": "2026-10-13T22:19:05.725781671Z",
+  "model": "glm-5.3"
+}

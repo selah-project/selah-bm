@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "זכור",
+      "rationale": "Imperative summons to Israel to remember the event of Miryam."
+    },
+    {
+      "kind": "you",
+      "subject": "זכור",
+      "rationale": "Direct address to plural Israel (בצאתכם) inside a law."
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Past marker supplied; Hebrew infinitive-construct בצאתכם carries no tense."
+    }
+  ],
+  "translation": "Miiri ⟨את⟩ ko min Yawe, i ka Ala, kɛra Miryam (Miriya) ma sira kan, ni aw tun bɛ bɔ Mitsrayim (Misira) la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cdf8b6e50b4230c3fef408b52b36eddd2e935af721eb46878f63230031d1d515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/24\/9-12.1791928125882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Miiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko min (min Yawe kɛra)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko min"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Ala"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miryam ma"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira kan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ni aw tun bɛ bɔ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:48:45.885224008Z",
+  "model": "glm-5.3"
+}

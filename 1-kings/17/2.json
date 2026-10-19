@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Bamanankan ka possessive particle added to link Yawe to kuma; Hebrew construct needs no particle"
+    }
+  ],
+  "translation": "Yawe ka kuma nana a ye, ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "48041c0401a9014acb30685077a62d88f0a54014b86549e2442ffac9cc2049db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/17\/2-3.1791950453719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-14T04:00:53.719901265Z",
+  "model": "glm-5.3"
+}

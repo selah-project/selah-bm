@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "si tɛ",
+      "rationale": "The Hebrew לא may read as a statement ('evil and good do not go out') or as a rhetorical question ('do not both go out?'); KJV\/BSB take the question, YLT the statement"
+    },
+    {
+      "kind": "you",
+      "subject": "Elyon",
+      "rationale": "The verse names El Elyon, the Most High, as the source of both evil and good"
+    }
+  ],
+  "translation": "Elyon ka da la, juguw ni ɲumanw si tɛ bɔ ⟨yala⟩?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a3d34480766170bf45fa38dc6a8b2628dd79137f0f017b588ec135423f0b1bab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/37-40.1791944872061.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "ka da la"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "juguw"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "ni ɲumanw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:27:52.065350824Z",
+  "model": "glm-5.3"
+}

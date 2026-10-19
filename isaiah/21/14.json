@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התיו",
+      "rationale": "verb tense: past 'they brought' (KJV) vs imperative 'bring ye' (JPS); the perfect can read as command in prophecy"
+    },
+    {
+      "kind": "elision",
+      "subject": "לקראת",
+      "gloss": "infinitive 'to meet the thirsty' unpacked into two Bambara clauses"
+    }
+  ],
+  "translation": "Jigotɔ ma, ji di! Tema dugukolo jamanadenw ye ji ta ka na; ka domokɛbaga ɲɛ, u ye buru di a ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/21\/13-16.1791933767637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "ka … ɲɛ (to meet)"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "jigotɔ"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "ye ji ta ka na"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "jamanadenw"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "ni buru ye"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "u ye … ɲɛ (went before)"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "domokɛbaga"
+    }
+  ],
+  "timestamp": "2026-10-13T23:22:47.640689385Z",
+  "model": "glm-5.3"
+}

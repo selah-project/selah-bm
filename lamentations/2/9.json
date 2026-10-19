@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 2:9",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew leaves the destroyer (Yawe) implicit in אבד\/ושבר; Bambara needs the subject pronoun"
+    },
+    {
+      "kind": "elision",
+      "subject": "אין תורה",
+      "rationale": "verbless clause 'no Torah' rendered 'Tora si tɛ yen' with negation si and existential yen supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jiro",
+      "rationale": "חזון is a sight\/revelation seen; jiro (vision) chosen, narrower than the Hebrew picture"
+    }
+  ],
+  "translation": "A dabɔw kolosira dugukolo la; ⟨a⟩ ye a gɔnɔnw saŋa ka tuguni fa; a masakɛ ni a mataraw bɛ siyaw la; Tora si tɛ yen; a nabiw fana ma jiro sɔrɔ Yawe fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8fc38a95343f5aa09460a62b0642f218cfb89b45f756efe1ea6bea2aa8d77776",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/2\/9-12.1791944966409.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "kolosira"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "שעריה",
+      "gloss": "a dabɔw"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "saŋa"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "tuguni-fa"
+    },
+    {
+      "surface": "בריחיה",
+      "gloss": "a gɔnɔnw"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "a masakɛ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "a mataraw"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "siyaw la"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "נביאיה",
+      "gloss": "a nabiw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "sɔrɔ"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "jiro"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yawe fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:29:26.410789882Z",
+  "model": "glm-5.3"
+}

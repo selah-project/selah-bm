@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sa-wulu",
+      "rationale": "'wulu min sa' — Heburukan ka yɛrɛ-ɲɛjugu-fɔli kɔrɔtaabinu ye; a toli a cogo la."
+    },
+    {
+      "kind": "addition",
+      "subject": "ne",
+      "rationale": "כמוני kelen de ye ('ne cogo'); 'ne' farali cogoya dɔrɔn."
+    }
+  ],
+  "translation": "A jinɛra ka kɔ, a ko: “I jon ye mun de, i y'i ɲɛ togi sa-wulu la min bɛ ⟨ne⟩ cogo?”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b2430ab23e4e3277b632c5ee95cb5df372b7c291bc8e1dfc03d75dfd1a533fb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/9\/5-8.1791931069777.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "a jinɛra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i jon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "de"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "i y'i ɲɛ togi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "wulu"
+    },
+    {
+      "surface": "המת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ne cogo"
+    }
+  ],
+  "timestamp": "2026-10-13T22:37:49.781822202Z",
+  "model": "glm-5.3"
+}

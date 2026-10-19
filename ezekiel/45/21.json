@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 45:21",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tan-ni-naani don",
+      "rationale": "Date fixed by count: fourteenth day of the first month, seven-day festival."
+    },
+    {
+      "kind": "substitution",
+      "subject": "don wolonwula don",
+      "rationale": "חג שבעות ימים literally 'festival of sevens of days'; שבעות is 'sevens\/weeks', its plural-of-strength shape flattened to 'wolonwula'."
+    },
+    {
+      "kind": "addition",
+      "subject": "o kalo",
+      "rationale": "Bambara needs the possessive phrase 'o kalo tile' where Hebrew has only 'day of the month' with one לחדש."
+    }
+  ],
+  "translation": "Kalo fɔlɔ na, o kalo tile tan-ni-naani don la, Pisah bɛna aw ye — don wolonwula don; buru min ma buzu, o bɛna dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "71fef6124124922a471a36a195be2d461eb7ba14c115d53cfe54d33f52cb6058",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/45\/21-24.1791937939137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בראשון",
+      "gloss": "fɔlɔ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "naani (tan-ni-naani)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pisah"
+    },
+    {
+      "surface": "חג",
+      "gloss": "don"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "dɔ-wolonwula"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "don"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buru min ma buzu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bɛna dun"
+    }
+  ],
+  "timestamp": "2026-10-14T00:32:19.138292883Z",
+  "model": "glm-5.3"
+}

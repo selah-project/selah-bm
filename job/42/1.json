@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "direct-object marker rendered ⟨את⟩ only; Bambara needs no such marker"
+    }
+  ],
+  "translation": "Iyobu ye ⟨את⟩ Yawe ɲini k'a ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "337925b4f59c9019b8c09265db7d608bfdf6cab2189c43495973388eb421693a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/42\/1-4.1791944453401.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ye ... ɲini"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "k'a ko"
+    }
+  ],
+  "timestamp": "2026-10-14T02:20:53.402012149Z",
+  "model": "glm-5.3"
+}

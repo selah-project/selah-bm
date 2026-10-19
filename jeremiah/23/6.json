@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 23:6",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקראו",
+      "rationale": "Verb is plural ('they will call him') though most versions read singular 'he shall be called'; plural kept visible in the gloss 'u bɛna … wele'."
+    },
+    {
+      "kind": "addition",
+      "subject": "a ye",
+      "rationale": "Bamanankan needs the object pronoun 'a ye' after 'wele'; the Hebrew participle carries it implicitly."
+    }
+  ],
+  "translation": "A donw na, Yuda (Juda) bɛna ɲɛsigi, ani Isirayɛlɩ (Isirayɛl) bɛna sigi hɛrɛ la; o tɔgɔ min bɛna u wele a ye ko: Yawe-Tsidkenu (Yawe An ka Ɲumanya).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1e60cac891bf77fb20372154fcb642d05eb6a27881f66a2d50131bfb83ec1fe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/23\/5-8.1791935575559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "a donw na"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "bɛna ɲɛsigi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda (Juda)"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ani Isirayɛlɩ (Isirayɛl)"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bɛna sigi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "hɛrɛ la"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ani o"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a tɔgɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "u bɛna … wele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צדקנו",
+      "gloss": "Tsidkenu (An ka Ɲumanya)"
+    }
+  ],
+  "timestamp": "2026-10-13T23:52:55.560337988Z",
+  "model": "glm-5.3"
+}

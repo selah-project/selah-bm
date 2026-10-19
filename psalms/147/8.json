@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "min bɛ",
+      "rationale": "Hebrew participles with article 'the-one-who…' rendered with Bambara relative 'min bɛ' (who is)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jiɲɛgɛnw",
+      "rationale": "עבים literally 'envelopes\/densities' — clouds; rendered with plain Bambara 'jiɲɛgɛnw'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המכסה\/המכין\/המצמיח",
+      "rationale": "three parallel participles with prefixed ה, structural rhythm lost in Bambara"
+    }
+  ],
+  "translation": "Min bɛ ⟨את⟩ sankolow datugu jiɲɛgɛnw la, min bɛ sanji labɛn dugukolo kama, min bɛ binka balo kulungow kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/147\/5-8.1791942041247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "min bɛ … datugu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "jiɲɛgɛnw la"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "min bɛ … labɛn"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dugukolo kama"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "sanji"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "min bɛ … balo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kulungow kan"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "binka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:41.248394462Z",
+  "model": "glm-5.3"
+}

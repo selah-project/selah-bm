@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nin de bɔra yen",
+      "rationale": "זה ילד שם 'this one was born there' — who speaks (God via the psalmist) and whether the nations are born in Zion or merely their own land registers them"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Rahab",
+      "rationale": "רהב 'boaster' as epithet of Egypt kept as name, its taunt-sense lost"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אזכיר",
+      "rationale": "'I cause to remember' could read as God as speaker: 'I will mention' — divine voice at the psalm's center"
+    }
+  ],
+  "translation": "Mɔgɔ minnu bɛ ne dɔn, ne bɛ Rahab (Ejipu) ni Babilɔn fɔ u ye: la, nin ye Peleshet (Filensti) ni Tsor (Tire), ale ni Kush (Etiopi) ye: nin de bɔra yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/87\/1-4.1791940936944.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ne bɛ ... fɔ"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab (Ejipu)"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "ni Babilɔn"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "mɔgɔ minnu bɛ ne dɔn"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "la"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet (Filensti)"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ni Tsor (Tire)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ale ni"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush (Etiopi)"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:16.945084988Z",
+  "model": "glm-5.3"
+}

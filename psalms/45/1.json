@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Shoshannim",
+      "rationale": "סɛbɛn-tɔgɔ min bɛ fɔ ko lilies; a tɔgɔ toora Heburu fɔcogo la"
+    },
+    {
+      "kind": "elision",
+      "subject": "משכיל",
+      "rationale": "Maskil: kalan-furakɛ sɛbɛn ka daɲɛ, tɔgɔ toora a yɛrɛ la"
+    }
+  ],
+  "translation": "Korah (Kora) denw ka sira, min bɛ ɲɛmɔgɔya Shoshannim (pɔrɔ-ɲɛnaw) kan: Maskil, kanuya-den sɛbɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/45\/1-4.1791940251348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "min bɛ ɲɛmɔgɔya"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denw ka"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "kanuya-den"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:51.348691313Z",
+  "model": "glm-5.3"
+}

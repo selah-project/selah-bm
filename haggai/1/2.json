@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עת … עת",
+      "rationale": "The people's quoted words repeat עת 'time' twice, an echo the Bambara repeats with 'waati … waati'."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "The second עת clause is construct-bound to בית; the Bambara supplies 'so' to carry the phrase 'Yawe ka so jɔli'."
+    },
+    {
+      "kind": "you",
+      "subject": "jama in",
+      "rationale": "Yawe's speech indicts 'this people' directly, quoting their own words back at them."
+    }
+  ],
+  "translation": "Cogo nin na Yawe Sebaayabɛɛtigi ko: jama in n'u ko: waati si tɛ na, Yawe ka so jɔli waati si tɛ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6065e47d61d55f1a724afda066f0142bc05d98de4125cbcfe9c6b59027cc189f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/haggai\/1\/1-4.1791939102225.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "cogo nin na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaayabɛɛtigi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko:"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "n'u ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waati"
+    },
+    {
+      "surface": "בא",
+      "gloss": "na"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "jɔli"
+    }
+  ],
+  "timestamp": "2026-10-14T00:51:42.226032722Z",
+  "model": "glm-5.3"
+}

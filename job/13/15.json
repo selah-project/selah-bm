@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 13:15",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ne tɛna to a ɲɛfɛ",
+      "rationale": "pointed לֹא אֲיַחֵל reads 'I will NOT wait\/hope'; some versions (KJV\/JPS with different vocalization) read 'yet I will trust in him'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲɛjirali",
+      "rationale": "אוכיח is argue\/argue-a-case, rendered 'justify\/show'"
+    },
+    {
+      "kind": "you",
+      "subject": "declaration before Eloah",
+      "rationale": "Job's resolve to argue his ways before God's face"
+    }
+  ],
+  "translation": "Sin, ni a ye ne fabɔ, ne tɛna to a ɲɛfɛ; dɔrɔn, ne siraw bɛna ɲɛjirali a ɲɛ datugu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "28a9d59e20e9fa2f8b6eb4b022750e0e8b03bccd4db98c27e95d5ef6662d1868",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/13\/13-16.1791943563413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "יקטלני",
+      "gloss": "ni a ye ne fabɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "to a ɲɛfɛ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dɔrɔn"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ne siraw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(da)"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "a ɲɛ datugu la"
+    },
+    {
+      "surface": "אוכיח",
+      "gloss": "ɲɛjirali"
+    }
+  ],
+  "timestamp": "2026-10-14T02:06:03.414389009Z",
+  "model": "glm-5.3"
+}

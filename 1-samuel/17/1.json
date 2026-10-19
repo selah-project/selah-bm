@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למלחמה",
+      "rationale": "Hebrew says 'for the battle'; Bambara needs the verb phrase 'ka taa kɛ ɲɛta la' for the infinitive construct."
+    },
+    {
+      "kind": "addition",
+      "subject": "kɔnɔ",
+      "rationale": "Locative 'in' supplied for the place-name phrase, absent as a separate word in Hebrew."
+    }
+  ],
+  "translation": "Filistinenw ye ⟨את⟩ u ka sow lajɛ ka taa kɛ ɲɛta la, u ye u lajɛ Shokoh (Soko) min bɛ Yuda, u ye so da Shokoh ni Azɛka (Azeka) cɛ, Ɛfɛs-Damim (Efes-Damim) kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/17\/1-4.1791930386804.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "y'u lajɛ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistinenw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka sow"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "u ka sow"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ka taa kɛ ɲɛta la"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "u ye u lajɛ"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Shokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "bɛ Yuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "u ye so da"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…cɛ"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Shokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ni … cɛ"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azɛka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "Ɛfɛs-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-10-13T22:26:26.805823428Z",
+  "model": "glm-5.3"
+}

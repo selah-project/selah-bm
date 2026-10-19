@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew participle has no explicit subject; Bambara requires one."
+    },
+    {
+      "kind": "measurement",
+      "subject": "stars",
+      "rationale": "The verse is about counting (מונה מספר) and naming — Yawe numbers the stars."
+    },
+    {
+      "kind": "crux",
+      "subject": "יקרא",
+      "rationale": "'He calls them by name' (summons) vs 'he gives them their names' (JPS) — same verb, two readings."
+    }
+  ],
+  "translation": "⟨A⟩ bɛ dolow jateden jate; u bɛɛ tɔgɔw, ⟨a⟩ b'u wele.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/147\/1-4.1791942050298.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "bɛ … jate"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "jateden"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "dolow"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "u bɛɛ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "tɔgɔw"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "b'u wele"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:50.299221305Z",
+  "model": "glm-5.3"
+}

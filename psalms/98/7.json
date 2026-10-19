@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka gba",
+      "rationale": "ירעם — sumaya gbali (kokura-kokura) — rendered as thunder-crash gba"
+    },
+    {
+      "kind": "alternative",
+      "subject": "dugukolo",
+      "rationale": "תבל — tevel — poetic 'world\/inhabited-earth'; dugukolo nɔgɔya a la"
+    }
+  ],
+  "translation": "Kɔgɔji ka gba, ni a ka faaba bɛɛ ye; dugukolo fana, ani mɔgɔw minnu bɛ a kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/98\/5-8.1791941197102.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ka gba"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ni a ka faaba bɛɛ ye"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ani mɔgɔw minnu bɛ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:37.103364376Z",
+  "model": "glm-5.3"
+}

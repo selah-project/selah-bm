@@ -1,0 +1,172 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 1:27",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בנותיה ×5",
+      "rationale": "'her daughters' repeated five times — Hebrew idiom for satellite villages; rendered as dugu-sisenw (village-children)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויואל",
+      "rationale": "'was willing\/determined' (JPS 'resolved', KJV 'would') vs YLT 'desirous'; rendered as 'y'a ɲini' (sought it)"
+    }
+  ],
+  "translation": "Menashe ma ⟨את⟩ Beti-Shan ni a ka dugu-sisenw bɔ, tɩ ⟨את⟩ Tanak ni a ka dugu-sisenw, tɩ ⟨את⟩ Dor sigidennw ni a ka dugu-sisenw, tɩ ⟨את⟩ Yibleam sigidennw ni a ka dugu-sisenw, tɩ ⟨את⟩ Megido sigidennw ni a ka dugu-sisenw; Kananikaw y'a ɲini ka sigi dugukolo in na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b2804b92da97afeeff116791ab6cc0e7326b5c49a1af8fe63bb969c9907a670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/1\/25-28.1791929204362.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Shan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "שאן",
+      "gloss": "Shan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ka dugu-sisenw"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "a ka dugu-sisenw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tanak"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Tanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ka dugu-sisenw"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "a ka dugu-sisenw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dor sigidennw"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sigidennw"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ka dugu-sisenw"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "a ka dugu-sisenw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yibleam sigidennw"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sigidennw"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "Yibleam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ka dugu-sisenw"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "a ka dugu-sisenw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Megido sigidennw"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sigidennw"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megido"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ka dugu-sisenw"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "a ka dugu-sisenw"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "y'a ɲini"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kananikaw"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ka sigi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo in na"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "in"
+    }
+  ],
+  "timestamp": "2026-10-13T22:06:44.365638193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עשנת בתפלת",
+      "rationale": "Hebrew 'you have smoked against the prayer' — idiom of burning anger; rendered with tasuma (smoke\/fire) to keep the picture"
+    },
+    {
+      "kind": "crux",
+      "subject": "שליש in v6, עד מתי here",
+      "rationale": "'fo jumɛn na' keeps the raw question 'until when?'; ancient versions smooth it"
+    }
+  ],
+  "translation": "Yawe, Elohim Tɔnbolobaaw tigi, fo jumɛn na i bɛna kɛ i ka jama ka lambaliya la, ni i ka dusukun yeelen tɛ fɔ — i ye tasuma kɛ i ka jamaw ka lambaliya kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bce9c4cb47de3c519a7356de021808b5a5c295bea022f83ed4bbb45227f3335f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/80\/5-8.1791940856134.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tɔnbolobaaw tigi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jumɛn na"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "i ye tasuma kɛ"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "lambaliya kan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i ka jamaw ka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:56.134533007Z",
+  "model": "glm-5.3"
+}

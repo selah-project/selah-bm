@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "kojiraw",
+      "rationale": "les paroles obscures (חידות) — le verset nomme ce qui est scellé, proposé à déchiffrer"
+    },
+    {
+      "kind": "substitution",
+      "subject": "misali",
+      "rationale": "משל est un proverbe métaphorique; « misali » (comparaison\/exemple) perd la pointe sentencieuse"
+    }
+  ],
+  "translation": "Walasa ka misali ni a ɲɛfɔli dɔn, hakɛdilaw ka kumaw ni u kojiraw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4b21d2a2ebb7d3f3dcc9b511e93c982f7f1074896c2058845e036a4c12dd5a3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/1\/5-8.1791942077656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להבין",
+      "gloss": "walasa ka dɔn"
+    },
+    {
+      "surface": "משל",
+      "gloss": "misali"
+    },
+    {
+      "surface": "ומליצה",
+      "gloss": "ni a ɲɛfɔli"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "hakɛdilaw"
+    },
+    {
+      "surface": "וחידתם",
+      "gloss": "ni u kojiraw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:41:17.657082903Z",
+  "model": "glm-5.3"
+}

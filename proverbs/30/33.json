@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מיץ ... יוציא",
+      "rationale": "Triple parallelism: squeezing (מיץ) and bringing-out (יוציא) repeat three times, clinching the proverb's logic"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפים",
+      "rationale": "אפים literally 'nostrils' (also אף 'nose' earlier), idiom for anger; rendered kɔngɔ, losing the nose-image that links v.32–33"
+    },
+    {
+      "kind": "substitution",
+      "subject": "misi ji",
+      "rationale": "חלב rendered as compound 'cow-water' since Bambara core vocabulary has no single milk word in the table"
+    }
+  ],
+  "translation": "Sabu min bɛ tu misi ji, o bɛ nɛnɛ bɔ, ani min bɛ tu munu, o bɛ joli bɔ, ani min bɛ tu ⟨kɔngɔ⟩, o bɛ kɛlɛ bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6d89eb614c47a3fa7d9ffde71e9bdbba190543e4c9075d866d25fd3f0e1f0ce7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/30\/33-33.1791943083175.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "min bɛ tu"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "misi ji"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "o bɛ ... bɔ"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "nɛnɛ"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ani min bɛ tu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "munu"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "o bɛ ... bɔ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "joli"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ani min bɛ tu"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kɔngɔ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "o bɛ ... bɔ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kɛlɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:58:03.175676812Z",
+  "model": "glm-5.3"
+}

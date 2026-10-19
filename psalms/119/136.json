@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sabu",
+      "rationale": "על (kan\/la) bɛ Kuma ɲɛfɔ Bamanankan 'sabu' (sababu) fɛ, Heburukan t'o sɔrɔ"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "nɔnabila minnu bɛ Tora mara tɛ, u farala a kan"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פלגי מים",
+      "rationale": "ji balen-balenw — o ye misalen ye min b'a jira ko wili-wili_san bɛ ji la i n'a fɔ ɲɛsaji"
+    }
+  ],
+  "translation": "Ji balen-balenw bɛ tugu n ninɛw na, sabu u ma mara ⟨את⟩ i Tora.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "26b1389558043b6ca67ee29ab6db0dce409fc27acbd42834369226cb999f96de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/133-136.1791941659192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "balen-balenw"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bɛ tugu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "n ninɛw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mara"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "i Tora"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:19.193702199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o bɛ",
+      "rationale": "Hebrew כן is an adverbial pivot; Bambara needs a subject pronoun."
+    },
+    {
+      "kind": "crux",
+      "subject": "יאריך",
+      "rationale": "'it is prolonged' — what endures: the land's order, the ruler's days, or the man himself; versions differ."
+    }
+  ],
+  "translation": "Dugukolo jurumu na, a masakɛw ka ca kosɛbɛ; nka hadamaden min dɔn n'o faama, o bɛ waati janya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/28\/1-4.1791943048396.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "jurumu na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ka ca kosɛbɛ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "a masakɛw"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "nka hadamaden"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "min dɔn"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "faama"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o bɛ"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "waati janya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:57:28.397029556Z",
+  "model": "glm-5.3"
+}

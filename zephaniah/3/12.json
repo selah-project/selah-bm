@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hayi",
+      "rationale": "חסו 'flee for shelter, confide' — rendered 'hayi … la' (take refuge in), KJV 'trust'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yerushalayim",
+      "rationale": "בקרבך continues the feminine address to Jerusalem."
+    }
+  ],
+  "translation": "Ani ne bɛna jama bila i kɔnɔ: min bɛ na son, ni son-mogɔw; olu bɛna Yawe tɔgɔ la hayi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "347d5c9c62fbd7f714dec636ba516060211290c361390daea79dbe3de5fba12b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zephaniah\/3\/9-12.1791938993519.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "ani ne bɛna … bila"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "i kɔnɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "עני",
+      "gloss": "min bɛ na son"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ni son-mogɔw"
+    },
+    {
+      "surface": "וחסו",
+      "gloss": "olu bɛna … hayi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "tɔgɔ la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T00:49:53.520929147Z",
+  "model": "glm-5.3"
+}

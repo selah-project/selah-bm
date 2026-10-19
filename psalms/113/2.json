@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "יהי (a kɛ) ma kɔrɔ 'ka duba' kuma-jɔcogo na Bamanankan kama"
+    },
+    {
+      "kind": "substitution",
+      "subject": "waati bɛɛ",
+      "rationale": "עולם kɔrɔ fɔlɔ ye 'fin-man-dilan' ye, n'o bɛ wele 'waati bɛɛ' (kɔrɔbɔyɔrɔ)"
+    }
+  ],
+  "translation": "Yawe tɔgɔ ka duba, sisan na ni waati bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/113\/1-4.1791941405697.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ka duba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "duba"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "sisan na"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waati bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:05.698261638Z",
+  "model": "glm-5.3"
+}

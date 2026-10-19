@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מכה\/הכה · הרג\/הרגיו",
+      "rationale": "Root repetition (strike-striker-struck, slay-slain) forms a balanced double question; kept as parallel repetition."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Object pronoun supplied for clarity: Hebrew suffix on verb already carries it."
+    },
+    {
+      "kind": "you",
+      "subject": "verse",
+      "rationale": "Rhetorical question addressed to Israel about how Yawe has struck it."
+    }
+  ],
+  "translation": "Yala a ye ⟨a⟩ bɔn i n'a fɔ a min bɔnnen ye? Walima a ye ku kɛ i n'a fɔ a kubagaw kunu cogo min na?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7c8ff48e480b5c6a3471f49fae736cd6e7c1cfa83cdd1cefdd810f1078904408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/27\/5-8.1791933878296.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "i n'a fɔ … bɔni"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "a min bɔn"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "a ye ⟨a⟩ bɔn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "walima"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "i n'a fɔ kununi"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "a kubagaw"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "a ye ku kɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:24:38.300630338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 38:20",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להושיעני",
+      "rationale": "infinitive 'to save me': JPS\/KJV read it as a statement 'YHWH is ready to save me'; taken here as address 'Yawe, save me \/ you save me'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nkoni",
+      "rationale": "stringed instrument rendered with the Bambara nkoni rather than a generic word."
+    },
+    {
+      "kind": "you",
+      "subject": "Hizikiya to Yawe",
+      "rationale": "the song closes by naming Yawe directly."
+    }
+  ],
+  "translation": "Yawe, i bɛ ne lasigi; an bɛna an ka donkiliw ni nkoni ye donki, an balo donw bɛɛ, Yawe ka so la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/38\/17-20.1791934231813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "i bɛ ne lasigi"
+    },
+    {
+      "surface": "ונגינותי",
+      "gloss": "an ka donkiliw ni nkoni ye"
+    },
+    {
+      "surface": "ננגן",
+      "gloss": "an bɛna … donki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "donw"
+    },
+    {
+      "surface": "חיינו",
+      "gloss": "an balo"
+    },
+    {
+      "surface": "על",
+      "gloss": "… la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T23:30:31.815377630Z",
+  "model": "glm-5.3"
+}

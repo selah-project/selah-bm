@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 65:18",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "emphatic particle pair rendered as single 'kɔrɔ'; אם elided"
+    },
+    {
+      "kind": "invitation",
+      "subject": "שישו וגילו",
+      "rationale": "plural imperatives summoning the hearers to joy"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גילה\/משוש",
+      "rationale": "Hebrew pairs cognate nouns of joy (gilah\/masos), also echoing v19 verbs; Bambara donya\/fisaya keeps the pairing but not the cognate root"
+    }
+  ],
+  "translation": "Kɔrɔ, aw na donya kɛ ani fisaya kɛ fo bɛɛ, mun na ne bɛ da; sabu aw ye: ne bɛ da ⟨את⟩ Yerushalayim (Jerusalɛmu) donya, ni a jamaw fisaya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cfa0544f317e76b0f275071bab4df302d851693681ada1023b677c6e8c6d10d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/65\/17-20.1791934873875.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kɔrɔ"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "שישו",
+      "gloss": "donya kɛ"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "fisaya kɛ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "bɛ da"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "bɛ da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "גילה",
+      "gloss": "donya"
+    },
+    {
+      "surface": "ועמה",
+      "gloss": "ni a jamaw"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "fisaya"
+    }
+  ],
+  "timestamp": "2026-10-13T23:41:13.877001251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעוג",
+      "rationale": "מעוג = burukɛnɛ (cake of bread, KJV 'in feasts' fɔcogo la) walima a bɛ tugu מעך kɔ (kuma-jugu, slander — JPS 'backbiting')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "diinɛjuguw",
+      "rationale": "חנפי ye 'minnu ye finw lasɔdi' (soiled with sin) — 'munaafikiw' (KJV 'hypocritical') ye a wɛrɛ ye, a tɛ a kɔrɔ tiɲɛ ye"
+    }
+  ],
+  "translation": "Diinɛjuguw ni lafigibagaw bɛɛ la, minnu bɛ burukɛnɛ lafiya ɲɛfɛ, u ye u ka danw dɔgɔya n kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/35\/13-16.1791940011737.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "diinɛjuguw bɛɛ la"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "lafigibagaw"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "burukɛnɛ lafiya ɲɛfɛ"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "u ye u ka danw dɔgɔya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n kan"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "danw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:51.739048490Z",
+  "model": "glm-5.3"
+}

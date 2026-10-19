@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משתין בקיר",
+      "rationale": "idiom ‘one who urinates against a wall’ = male; rendered literally ‘min bɛ bili ji kɔgɔji dɛrɛ la’ to keep the picture"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועצור ועזוב",
+      "rationale": "‘shut-up and left’ — taken as ‘captive and free’ (bsb ‘slave and free’) vs literal ‘confined and abandoned’; Bambara renders sigilen\/bɔra literally"
+    },
+    {
+      "kind": "substitution",
+      "subject": "והכרתי",
+      "gloss-note": "",
+      "rationale": "‘I will cut off’ rendered ‘ne bɛna … tuguni’ (I will remove\/finish), the cutting picture softened"
+    }
+  ],
+  "translation": "Ahab ka so bɛɛ bɛna sa, ne bɛna Ahab ka mɔgɔ o mɔgɔ min bɛ bili ji kɔgɔji dɛrɛ la, min sigilen don ani min bɔra, Isirayɛl la, bɛɛ tuguni.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ef9fc95e6c92bbced58637f31d26d1e5e1d72c43b026fda6bb4c0af57517bfe7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/9\/5-8.1791932766701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "bɛna sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ne bɛna … tuguni"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "min bɛ bili ji"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "kɔgɔji dɛrɛ la"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "min sigilen don"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "min bɔra"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isirayɛl la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:06:06.708125583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tabakɛw ɲɛmɔgɛ",
+      "rationale": "רב טבחים literally 'chief of the butchers', an executioner-guard title rendered as 'tabakɛw ɲɛmɔgɛ'."
+    },
+    {
+      "kind": "addition",
+      "subject": "olu",
+      "rationale": "Hebrew verb נתצו fronted before its subject; Bambara needs the subject pronoun before the verb."
+    }
+  ],
+  "translation": "Kasdiw (Kaldew) ka sure bɛɛ minnu b'ɛ tabakɛw ɲɛmɔgɛ la, olu ye ⟨את⟩ Yerushalayim dakolow min bɛ a tilennen bɛɛ bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/25\/9-12.1791933324734.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim dakolow"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "dakolow"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a tilennen bɛɛ"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "u y'u bɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sure"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdiw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ɲɛmɔgɛ"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabakɛw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:15:24.739696567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 5:13",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וכבודו",
+      "rationale": "'its glory' rendered as 'its nobles' (metonymy, as most versions) vs literal 'its splendor'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש in v14 nearby; here צחה 'parched' rendered as 'ɲagami' (dried\/shriveled), a body-image kept."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צחה צמא",
+      "rationale": "Verb-noun alliteration tsacheh tsama, 'parched with thirst', sound-pair lost in Bambara."
+    }
+  ],
+  "translation": "O la, n ka jama bɛ taa tunbun na dɔnni ma, a ka nɔmɔrɔw ye kunben mɔgɔw ye, a ka jamaa bɛ ɲagami ji komi la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "988038cb44c31336a7d8a568dd306b64c41acf14bf492a5add613d4a16eddeeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/5\/13-16.1791933498053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "O la"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "taa tunbun na"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n ka jama"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "dɔnni"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "a ka nɔmɔrɔw"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kunben"
+    },
+    {
+      "surface": "והמונו",
+      "gloss": "a ka jamaa"
+    },
+    {
+      "surface": "צחה",
+      "gloss": "ɲagami"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ji komi"
+    }
+  ],
+  "timestamp": "2026-10-13T23:18:18.054856143Z",
+  "model": "glm-5.3"
+}

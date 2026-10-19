@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Bawel",
+      "rationale": "יולך 'bɛna ta' needs a destination; the place-name Bawel is supplied a second time"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lajɛ",
+      "rationale": "פקד 'to visit\/attend to' rendered 'lajɛ' (to look at); JPS 'remember', KJV 'visit'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "את הכשדים",
+      "rationale": "this את is the preposition 'with\/against', not the direct-object marker, but kept under the marker convention"
+    }
+  ],
+  "translation": "Nka Bawel (Babilɔn) bɛna ⟨את⟩ Tsidkiyahu (Sedekiya) ta Bawel, ani a bɛ yen fo ne y'a ⟨אתו⟩ lajɛ, Yawe kuma ko: sabu aw Kaguw ni ⟨את⟩ Kashdim (Kalsidew) ye, aw tɛna ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d262bbcd2c219f3d218b162deac27f509959fe74538c6a6f89d504f6dfbcdff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/32\/5-8.1791935936127.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Nka Bawel"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "bɛna ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu (Sedekiya)"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ani a bɛ yen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a bɛ yen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "ne y'a lajɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "a (Tsidkiyahu)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yawe kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "aw Kaguw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kashdim"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kashdim (Kalsidew)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "aw tɛna ɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:58:56.128344622Z",
+  "model": "glm-5.3"
+}

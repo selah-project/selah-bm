@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 40:26",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "da",
+      "rationale": "לְחִי is jaw\/cheek specifically; Bambara uses the broader mouth word"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sunkɔ",
+      "rationale": "בְּחוֹחַ can be nose-ring or thorn; thorn kept for the literal picture"
+    },
+    {
+      "kind": "you",
+      "subject": "to Iyob",
+      "rationale": "Second rhetorical question in the series directed at Iyob"
+    }
+  ],
+  "translation": "Yala i bɛ gɛnɛ-sɛgɛn bila a nɔnun na, wa ani ka sunkɔ tigɛ a da la?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "565ea4ccf69a6538c939b80eabeb243ddfee7de669077c191546caba3b591281",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/40\/25-28.1791944310544.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשים",
+      "gloss": "bɛ ... bila"
+    },
+    {
+      "surface": "אגמון",
+      "gloss": "gɛnɛ-sɛgɛn"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "a nɔnun na"
+    },
+    {
+      "surface": "ובחוח",
+      "gloss": "ni sunkɔ ye"
+    },
+    {
+      "surface": "תקוב",
+      "gloss": "tigɛ"
+    },
+    {
+      "surface": "לחיו",
+      "gloss": "a da"
+    }
+  ],
+  "timestamp": "2026-10-14T02:18:30.546009369Z",
+  "model": "glm-5.3"
+}

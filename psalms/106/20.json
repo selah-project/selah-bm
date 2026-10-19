@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oya",
+      "rationale": "כָּבוֹד is literally 'weight\/heaviness', hence splendor; rendered with the Bambara word for honor"
+    },
+    {
+      "kind": "crux",
+      "subject": "their glory",
+      "rationale": "כְּבוֹדָם read as Yawe Himself (the Glory they traded away) vs their own honor as a people"
+    }
+  ],
+  "translation": "U y’u ka oya falen don ⟨את⟩ misi bolo, min bɛ bin dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6ecb4a25238a601130121a6744b391625754147a2e734289898fb826720aecff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/106\/17-20.1791941341291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "u ye … falen don"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka oya"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "u ka oya"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "misi bolo … cogo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "misi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "bɛ … dun"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bin"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:01.292527194Z",
+  "model": "glm-5.3"
+}

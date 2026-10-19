@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 21:7",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קשב רב קשב",
+      "rationale": "root קשב frames the word רב — 'hearkening, great hearkening'; the envelope is kept as namasa ba, namasa."
+    },
+    {
+      "kind": "alternative",
+      "subject": "riders",
+      "rationale": "KJV 'chariot of asses \/ chariot of camels' vs ASV\/JPS 'troop, riders on asses and camels'; kept the chariot-of shape."
+    }
+  ],
+  "translation": "A bɛna wɔrɔdɔda ye: sɔ-fila sɔtɔrɔ, wɔrɔdɔda min bɛ sɔrɔdɔ minɛn, ani wɔrɔdɔda min bɛ yɔrɔba minɛn; a bɛ a tuloya bila: namasa ba, namasa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b7182f630223fbd1087c8365412220fe075068049971970cb37fb53b34df13a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/21\/5-8.1791933823733.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "bɛna ye"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "wɔrɔdɔda"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "fila"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "so"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "wɔrɔdɔda"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "sɔrɔdɔ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "wɔrɔdɔda"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "yɔrɔba"
+    },
+    {
+      "surface": "והקשיב",
+      "gloss": "bɛ a tuloya bila"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "namasa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "namasa"
+    }
+  ],
+  "timestamp": "2026-10-13T23:23:43.739978566Z",
+  "model": "glm-5.3"
+}

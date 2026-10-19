@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יריע",
+      "rationale": "literally 'raise a shout'; rendered 'kɔnkɔrɔdili kɛ' (shout in triumph) rather than a generic 'triumph'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חפצת בי",
+      "rationale": "'you delight in me' — the verb חפץ is covenant-pleasure language; 'i bɛ ne fɛ' keeps the simple 'want\/delight' shape"
+    }
+  ],
+  "translation": "Nin fɛ ne b'a dɔn ko i bɛ ne fɛ, bawo ne ka jugutigi tɛ kɔnkɔrɔdili kɛ ne kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/41\/9-12.1791940124180.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "nin fɛ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ne b'a dɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "i bɛ ne fɛ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "kɔnkɔrɔdili kɛ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ne ka jugutigi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ne kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:44.181038113Z",
+  "model": "glm-5.3"
+}

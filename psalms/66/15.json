@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sarakaba",
+      "rationale": "עלה ka kɔrɔ ye 'min bɛ sanfɛ taa'; 'sarakaba' (saraka belebele) ye nɔgɔya daɲɛ ye — Heburu ka taabolo-yɔrɔ 'taasanfɛ' bɛ dogo"
+    },
+    {
+      "kind": "crux",
+      "subject": "junɛ",
+      "rationale": "מחים 'junɛ\/ka bon bagaw': barikama fɔlɔw bɛ fɔ 'fatlings' (baganw), wɛrɛw bɛ fɔ 'junɛ' dɔrɔn — n ye junɛ ta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלות\/אעלה",
+      "rationale": "עֹלֹת … אַעֲלֶה — kɔgɔjɔya kelen: saraka min bɛ taa sanfɛ ni 'n bɛ a taa sanfɛ' ye; o nafa bɛ dogo Bamanankan na"
+    }
+  ],
+  "translation": "N bɛna i ye junɛ sarakaba di, ni wasaw ka kilisi; n bɛna misi ni bakɛw kɛ. Sela.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ef6496500d961eddf099523221f693085f9844f360a45953e1f5b8115cf19cfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/66\/14-15.1791951216349.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "sarakaba"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "junɛ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "n bɛna … di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kilisi"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "wasaw"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "n bɛna … kɛ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "misi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "bakɛw"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:36.350317549Z",
+  "model": "glm-5.3"
+}

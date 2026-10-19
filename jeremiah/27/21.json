@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 27:21",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kɔnɔ",
+      "rationale": "Hebrew construct בית יהוה carries 'in' only by context; Bambara needs the locative"
+    },
+    {
+      "kind": "crux",
+      "subject": "על",
+      "rationale": "'concerning\/upon the vessels' — rendered ka kɛrɛnkɛrɛnnenya 'specifically about'"
+    }
+  ],
+  "translation": "Sabu nin cogo de, Yawe Tsevawot, Israyel ka Ala, fɔra ka kɛrɛnkɛrɛnnenya ko minɛnw minnu to Yawe ka so kɔnɔ, ani Yuda masakɛ ka so kɔnɔ, ani Yerushalayim (Jerusalɛmu) —",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "54296838c261d222fe26724bace3cab6eee9c0cea1cc7cc912cc1f416913b845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/27\/21-22.1791935685237.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nin cogo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fɔra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevawot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ka Ala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ko … kan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "minɛnw"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "minnu to"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ani … so"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ani Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-13T23:54:45.238156372Z",
+  "model": "glm-5.3"
+}

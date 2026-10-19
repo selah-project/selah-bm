@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lajɛ",
+      "rationale": "פקד 'visit\/remember\/attend' — 'lajɛ' (to examine) bɛ o laɲini nɔgɔya la, jps 'remembered' fana bɛ yen"
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Past-tense marker Bambara ka kan ka bi, Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Hana\/Shemuel",
+      "rationale": "Hana tɔgɔ ye 'kanuya\/filo' ye, Shemuel 'a tɔgɔ' — tɔgɔw ka ɲɛnamaw bɛ daminɛ na"
+    }
+  ],
+  "translation": "Sabu Yawe ye ⟨את⟩ Hana lajɛ, a tora balo, a ye denw fila tan-minɛ — denkɛw saba ani denmusow fila — denden Shemuel (Samuɛl) tun ka bonya Yawe nafolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/2\/21-24.1791929889998.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "lajɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "a tora balo"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a ye denw fila minɛ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "saba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ani fila"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "denmusow"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "tun ka bonya"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "denden"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nafolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T22:18:09.999528269Z",
+  "model": "glm-5.3"
+}

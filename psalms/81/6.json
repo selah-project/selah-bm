@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "waati min na",
+      "rationale": "Bamanankan needs an explicit temporal clause for בצאתו"
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "object pronoun added for אשמע, Hebrew verb carries it in its form"
+    },
+    {
+      "kind": "crux",
+      "subject": "שפת לא ידעתי אשמע",
+      "rationale": "'a lip I did not know I hear': God as speaker hearing Egyptian, vs Israel hearing an unknown tongue"
+    }
+  ],
+  "translation": "Seere min, a y'a bila Yehosɛfu (Yusufu) la, waati min na a bɔra Mitsrayim (Misira) dugukolo kan; kan min ma n dɔn, n mɛn ⟨o⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "94fdca8ca6aaef334c21bd796ac9eda16b9621d837b051e5b878dfb43c889a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/81\/5-8.1791940870265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "seere"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "Yehosɛfu la"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a y'a bila"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "a bɔli waati"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "n dɔn"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "n mɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:10.266490320Z",
+  "model": "glm-5.3"
+}

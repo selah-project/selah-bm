@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 31:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "n'ni",
+      "rationale": "נפש ye ni \/ kuntilena ye, tɛ 'soul' ye Tubabu cogo la"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מגור מסביב",
+      "rationale": "'siran ninkan-na-kan' — Heburu ka daɲɛ filan bɛɛ bɛ ɲɔgɔn mara"
+    }
+  ],
+  "translation": "Sabu ne ye mɔgɔcamaw ka mɔgɔfila kuma mɛn, siran bɛ n'kan ninkan-na-kan; u biilu ɲɔgɔn la ne kan, u dilaninyɔrɔ la walasa ka n'ni minɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "69a7a776067940c6d8c11359738eef81aac1f5e14588a2392c6139c92624bb75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/31\/13-16.1791939952611.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ne ye … mɛn"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "mɔgɔfila kuma"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mɔgɔcamaw"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "siran"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ninkan-na-kan"
+    },
+    {
+      "surface": "בהוסדם",
+      "gloss": "u biilu ɲɔgɔn la"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ɲɔgɔn ye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ne kan"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "walasa ka … minɛ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n'ni"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "u dilaninyɔrɔ la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:52.611652565Z",
+  "model": "glm-5.3"
+}

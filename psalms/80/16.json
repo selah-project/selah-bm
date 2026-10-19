@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "denkɛ",
+      "rationale": "בן is 'son': KJV reads 'branch' of the vine, BSB keeps 'son'; Hebrew says son"
+    },
+    {
+      "kind": "crux",
+      "subject": "dɛgɛ",
+      "rationale": "כנה is 'the planting' (from כּן); KJV 'vineyard', YLT 'root', ASV 'stock'"
+    },
+    {
+      "kind": "addition",
+      "subject": "i yɛrɛ ye",
+      "rationale": "לך 'for yourself' expanded with the pronoun Bambara needs"
+    }
+  ],
+  "translation": "ni dɛgɛ min i bolokeman ki, ani denkɛ min i y'a se ⟨i yɛrɛ ye⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/80\/13-16.1791940863466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "ni dɛgɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "i ki"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "i bolokeman"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani … kan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "i y'a se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yɛrɛ ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:03.467808719Z",
+  "model": "glm-5.3"
+}

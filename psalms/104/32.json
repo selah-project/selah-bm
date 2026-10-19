@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gansin",
+      "rationale": "ותרעד ka kɔrɔ ye 'ka kɛ waati-bɛɛ ye' — ni dɔgɔya ye 'gansin' (ka jɔgɔtɔ)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "si bila",
+      "rationale": "ויעשנו ye 'si bɛ bɔ ye' kɔrɔ la; 'si' (kɛnɛ) bɛ bayɛlɛma ni 'si bila' ye"
+    },
+    {
+      "kind": "alternative",
+      "subject": "min bɛ ɲɛda jira",
+      "rationale": "המביט ye h-participle kelen ye: 'min bɛ fo ye' — 'ɲɛsiladon' tun bɛ se kɛ"
+    }
+  ],
+  "translation": "Min bɛ dugukolo ɲɛda jira, a bɛ gansin; a bɛ bolo lafo kuluw la, u bɛ si bila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "87d03325659a1c00b9238e4eecb8d7d69cadaa306969dde170e5e4d20c4eeaf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/104\/32-32.1791951233456.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "min bɛ ɲɛda jira"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "a bɛ gansin"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "a bɛ bolo lafo"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "kuluw la"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "u bɛ si bila"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:53.456616974Z",
+  "model": "glm-5.3"
+}

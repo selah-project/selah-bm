@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "janya",
+      "rationale": "אף is literally 'nose\/nostril' — anger pictured as flaring nostrils; janya (anger) loses the body image."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מחרון אפך",
+      "rationale": "'Burning of your nose' = fierce anger; rendered tasuma bɔ i ka janya la (the burning of your anger)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת (85:2)\/השיבות",
+      "rationale": "Root shuv returns from v2 — God now 'turns back' His anger as He 'turned' the captivity; the echo is lost."
+    }
+  ],
+  "translation": "I ye i ka timisirili bɛɛ lajɛ, i y'i ka tasuma bɔ i ka janya la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/85\/1-4.1791940925830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "i ye … lajɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "i ka timisirili"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "i ye … bɔ"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "i ka janya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:05.830938604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלתי",
+      "rationale": "KJV reads 'Without me' (with God as subject); most versions read 'only\/nothing but' — 'nothing remains but to crouch among the captives'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "Literally 'his nose\/nostrils', an idiom for anger; rendered kɔngɔ (anger)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "refrain",
+      "rationale": "'His anger is not turned away, his hand is still stretched out' is the refrain of Isaiah 9:11,17,21 and 10:4 — chapter-ending drumbeat lost in isolation."
+    }
+  ],
+  "translation": "Dɛrɛn ka kun jigin minɛnw ɲɛma, ani ka tigɛ faaw ɲɛma. O bɛɛ la, a ka kɔngɔ ma segin, ka na o kun, a bolo bɛ janya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b7a0533bc715a8c1189f8babbc53ca1fb55913a3a12afc6efb9f0952c080c199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/10\/1-4.1791933621311.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "Dɛrɛn"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "ka kun jigin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ɲɛma"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "minɛnw"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ani ... ɲɛma"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "faaw"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ka tigɛ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "O ... la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "a ka kɔngɔ"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ka na o kun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "bɛ janya"
+    }
+  ],
+  "timestamp": "2026-10-13T23:20:21.318131032Z",
+  "model": "glm-5.3"
+}

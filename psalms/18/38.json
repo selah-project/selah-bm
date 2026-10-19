@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tense",
+      "rationale": "Hebrew imperfects here: past accomplishment (KJV) vs future resolve (ASV); Bambara progressive chosen"
+    }
+  ],
+  "translation": "Ne bɛ ne ka tɔɔrɔbagaaw ɲɛ, ne bɛ u muninen don, ani ne tɛna segin fo u ka ban kpɛmɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3592fb4a228b3904063d69dd3b8e8d0d462e7e6a2ba99387922a948eb95a95bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/37-40.1791939717701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "ne bɛ … ɲɛ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ne ka tɔɔrɔbagaaw"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "ne bɛ u muninen don"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani ne tɛna"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "u ka ban kpɛmɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:57.702410200Z",
+  "model": "glm-5.3"
+}

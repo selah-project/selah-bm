@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "mikhtam: daɲɛ min kɔrɔ tɛ fɔ ka tiɲɛ — 'sɛbɛn-sen' walima 'kabakurun-ka-sɛbɛn', a to la Heburu fɔcogo la."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל תשחת",
+      "rationale": "«Al-tashchet» — yɛlɛma kɛra Kaabakurun-sɛbɛn kɔnɔ (Isaia 16:1), nka tana sanu-sigili-ko-yɛlɛma (ban on destroying)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩",
+      "rationale": "Heburukan daɲɛ kɔrɔ tɛ kɔnɔ (duguma-suffix -ו), a ye suffix-ko kelen ye min de bɛ 'A' fɔ Heburukan kɔnɔ fana — suffix 3mp dɔrɔn de sɔrɔ yen."
+    }
+  ],
+  "translation": "Nasigilabaga ma — «A tɛɛ sanu» — Dawuda ta, mikhtam, Saulu ka cili la, u ye ⟨את⟩ so kɔlɔsi walasa ka ⟨A⟩ famaya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/59\/1-4.1791940466950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Nasigilabaga ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "A"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tɛɛ sanu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuda ta"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "ka cili la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulu"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "u ye ... kɔlɔsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "so"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "walasa ka famaya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:26.951352987Z",
+  "model": "glm-5.3"
+}

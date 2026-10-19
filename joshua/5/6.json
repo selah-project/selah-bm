@@ -1,0 +1,197 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 5:6",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiiminɛ",
+      "rationale": "זבת ye 'ji-wulu' ye; Bamanankan faamu 'tiiminɛ' (filin) — kuma jan fitinin dɔ bɛ samɛ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "san nwuli",
+      "rationale": "kununcogo san jate — waati-ɲɛfɔli ka nɔgba"
+    },
+    {
+      "kind": "addition",
+      "subject": "fɔ u ɲɛ",
+      "rationale": "הראותם kɔrɔ ye 'a bɛ se ka u ɲɛ ye' ye; ɲɛ-fɔli nɔnabila farala a kan"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשבע \/ שבע",
+      "rationale": "cikan-da kuma bɛ tugu wolonwula (שבע) la — Heburu ka fɔcogo dɔgɔya, a bɛ musakura Bamanankan na"
+    }
+  ],
+  "translation": "Sabu Isirayel (Isirayel) denkɛw taana san nwuli kunun, fo kɛɛn-jamanaw bɛɛ minnu bɔra Mitsrayim sa, sabu u ma Yawe ka kan mɛn. Yawe ye u la cikan da ko a tɛna ⟨את⟩ dugukolo o ye fɔ u ɲɛ — dugukolo min Yawe ye Isirayel baw la cikan da ko a na an di, dugukolo min tiiminɛ nɔgɔ ni donki.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0b61caaeffa52e2ccd2b329534fb2da4ce913a0ab708d9c86b98f947afb0cacc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/5\/5-8.1791928584163.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "nwuli"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "taana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayel"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kunu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "תם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "jamanaw"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kɛɛnw"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "kɛɛn-kɛlaw"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "minnu bɔra"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "cikan da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u la"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "הראותם",
+      "gloss": "fɔ u ɲɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "cikan da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "baw la"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "di"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "tiiminɛ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nɔgɔ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ni donki"
+    }
+  ],
+  "timestamp": "2026-10-13T21:56:24.238715031Z",
+  "model": "glm-5.3"
+}

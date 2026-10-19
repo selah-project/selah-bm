@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kisɛw",
+      "rationale": "זרע 'seed' is posterity\/descendants; Bambara keeps the literal picture 'kisɛw' (seeds)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרעם\/לזרותם",
+      "rationale": "zera'am (their seed) and l'zarotam (to scatter them) share the זר root, a paronomasia lost in Bambara"
+    }
+  ],
+  "translation": "Ka u kisɛw dogo siyaw kɔnɔ, ani ka u jɛ dugukolow kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/106\/25-28.1791941346349.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "ka dogo"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "u kisɛw"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "siyaw kɔnɔ"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "ka u jɛ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "dugukolow kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:06.350426120Z",
+  "model": "glm-5.3"
+}

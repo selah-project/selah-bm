@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זבובי מות",
+      "rationale": "'flies of death' — dead flies, or stinging\/deadly flies; renderings split between 'dying' and 'deadly'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bɛ bon⟩",
+      "rationale": "Hebrew comparison has no verb; Bambara requires one"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוקח",
+      "rationale": "perfumer\/perfumed oil — the maker or the perfume itself; 'balilen' takes the oil sense"
+    }
+  ],
+  "translation": "Sayirew minnu don saya, u bɛ kɛ balilen tulu la iko nɛgɛ kabakurun; dɔnniya ni sumaya bɛɛ la, foli fitinin ⟨bɛ bon⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/10\/1-4.1791945311515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבובי",
+      "gloss": "sayirew"
+    },
+    {
+      "surface": "מות",
+      "gloss": "saya"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "bɛ kɛ nɛgɛ kabakurun ye"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "bɛ bɔ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "tulu"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "balilen"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ka bon"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "dɔnniya"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "sumaya"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "foli"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "fitinin"
+    }
+  ],
+  "timestamp": "2026-10-14T02:35:11.516313980Z",
+  "model": "glm-5.3"
+}

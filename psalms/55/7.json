@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "Hebrew 'who will give me' is a wish formula ('oh that I had'); rendered as a question mun na i ne di."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kan",
+      "rationale": "אבר is pinion — the wing-tip feather, not the whole wing (כנף); 'kan' (feather) keeps the smallness."
+    }
+  ],
+  "translation": "N ko ko: mun na i ne di jiyɛn ka kan? Ne bɛna tin, ani ne bɛna sigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/55\/5-8.1791940328916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "n ko ko"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "na i di"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "jiyɛn"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "ne bɛna tin"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ani ne bɛna sigi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:08.917478629Z",
+  "model": "glm-5.3"
+}

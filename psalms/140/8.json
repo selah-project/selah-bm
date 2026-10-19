@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɛli",
+      "rationale": "נשק fɔcogo kelen-kelen bɛ Tanaki kɔnɔ; kɔrɔ ye sɔrɔdɔ-kan\/lanwali ye, Bamanankan ye 'kɛli' ye"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נשק",
+      "rationale": "daɲɛ in ye Tanaki fɔcogo kelen de ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "ביום נשק",
+      "rationale": "kumaden minnu: 'kɛli don' (jugo) ni 'sɔrɔdɔ-kan don' (dɔgɔ); dɔw bɛ fɔ 'sɔrɔdɔ-kan'"
+    }
+  ],
+  "translation": "Yawe, Adonay, ne bɔli-faama, i ye ne kun sumu kɛli don la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f06e768a26a834343732c1f2e13446a76b7c3e2d7ff917327d1302bb6fa497fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/140\/5-8.1791941907716.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "faama"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ne bɔli"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "i sumu"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ne kun"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don la"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "kɛli (sɔrɔdɔ-kan)"
+    }
+  ],
+  "timestamp": "2026-10-14T01:38:27.717876021Z",
+  "model": "glm-5.3"
+}

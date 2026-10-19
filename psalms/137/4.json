@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dugukolo",
+      "rationale": "אדמת ye adama-soil ye (dugubala jɛgɛnsira), dugukolo ye a ka surunyali ye Bamanankan na"
+    },
+    {
+      "kind": "idiom",
+      "subject": "cogo di na",
+      "rationale": "איך ye ɲininka-daɲɛ ye min bɛ bɔ a yɛrɛ kɔnɔ — kumasen in ye danbe-juguya ɲininka ye, a tɛ ɲininka tiɲɛ ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "min ye Yawe ta",
+      "rationale": "Hebrew construct שיר יהוה (bound) — Bamanankan tɛ construct jɔcogo dɔn o nɔ na, o la possessor-fra farala a kan"
+    },
+    {
+      "kind": "you",
+      "subject": "an",
+      "rationale": "Kumasen in bɛ wele jamana jan kɔnɔ yɔrɔ la — aw ni an ye Kudu-yɔrɔlanw ye, n'u bɛ ɲininka hɛrɛ-bɔli ko"
+    }
+  ],
+  "translation": "Cogo di na an bɛ lanbu ⟨את⟩ lanbu min ye Yawe ta, dugukolo jan na?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "82ab9a1222f5ae604b621797bd9a0a32434c946bd9b15dc3fb48036272537202",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/137\/4-4.1791951231557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "cogo di na"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "an bɛ lanbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lanbu min ye Yawe ta"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lanbu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "… na (kan)"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "jan"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:51.557790806Z",
+  "model": "glm-5.3"
+}

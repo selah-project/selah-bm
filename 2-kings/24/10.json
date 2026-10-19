@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "giligili",
+      "rationale": "מצור ye dugu boyo-boli ye; Bamanankan tɛ daɲɛ tilennen dɔ ta, 'giligili' (fanga bɛ dugu gili) ye sira nɔgɔman ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "waati",
+      "rationale": "בעת ההיא kofe-daɲɛ 'la' ni 'O waati' de b'a lamini"
+    }
+  ],
+  "translation": "O waati la, Nebukadnetsar (Nabukudunɛsɛr) Babilɔn masakɛ ka siraw nana Yerushalayim (Jerusalɛmu) kan, dugu kɛra giligili ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3ad16510bc1d15d94d1d5e5aeafc43e2bbbdb70e03cd8d2fbd51ade10da27b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/24\/9-12.1791933312670.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "O waati la"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "O"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nana ... kan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "siraw"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilɔn"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "kɛra ... ye"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "giligili"
+    }
+  ],
+  "timestamp": "2026-10-13T23:15:12.676724054Z",
+  "model": "glm-5.3"
+}

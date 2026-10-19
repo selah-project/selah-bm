@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 5:15",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בחור",
+      "rationale": "Pointed as 'choice\/selected' (bachar) but identical in consonants to בחור 'youth' — some render 'young man'; 'chosen' kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שש",
+      "rationale": "White stuff — white linen or white marble; 'white stone' chosen since pillars, not cloth, are founded on bases."
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "פז",
+      "rationale": "Refined\/pure gold, rare word; 'sanu tiɲɛ' (true gold) carries the refining sense."
+    }
+  ],
+  "translation": "A senw ye kabakurun fitinenw ka jɔlaw ye, minnu bilala sanu tiɲɛw ka dugumaw kan; a ɲɛta ye i n'a fɔ Lebanon ye, min ɲanan i n'a fɔ sedar jiriw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/5\/13-16.1791944565095.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוקיו",
+      "gloss": "a senw"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "jɔlaw"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kabakurun fitinen"
+    },
+    {
+      "surface": "מיסדים",
+      "gloss": "minnu bilala"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "dugumaw"
+    },
+    {
+      "surface": "פז",
+      "gloss": "sanu tiɲɛ"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "a ɲɛta"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "i n'a fɔ Lebanon"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "min ɲanan"
+    },
+    {
+      "surface": "כארזים",
+      "gloss": "i n'a fɔ sedar jiriw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:22:45.096418833Z",
+  "model": "glm-5.3"
+}

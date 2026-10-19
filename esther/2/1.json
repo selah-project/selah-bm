@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ju dɔɔnira",
+      "rationale": "כשך חמה ni 'ju dɔɔnira' ye: Heburukan fɔ ko ju tun bɛ kɛ ji ye, ka dɔɔni — Bamanankan b'a fɔ ko ju dɔɔnira"
+    },
+    {
+      "kind": "addition",
+      "subject": "y'a",
+      "rationale": "Bamanankan bɛ fɛn min na (a + a), Heburukan ma a sɔrɔ"
+    }
+  ],
+  "translation": "O kumaw nin kɔfɛ, ni masakɛ Ahashwerosh (Aswerɔs) ka ju dɔɔnira, a y'a xyɛnɛ ⟨את⟩ Wasiti, ni ⟨את⟩ min o kɛra, ni ⟨את⟩ min dantira a kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9bdd3d203ce627ff1a40a7847651526a09c59a571ec214639253a16270c51805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/2\/1-4.1791945504820.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "dɔɔnira"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ju"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashwerosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xyɛnɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Wasiti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Wasiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "min o kɛra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "o kɛra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "min dantira a kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "dantira"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kan"
+    }
+  ],
+  "timestamp": "2026-10-14T02:38:24.820912936Z",
+  "model": "glm-5.3"
+}

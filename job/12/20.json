@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 12:20",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שפה",
+      "rationale": "dɛgɛnyɛ (lip) → kuma (speech) — Heburukan bɛ dɛgɛnyɛ fɔ, a kɔrɔ ye kuma ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "טעם",
+      "rationale": "kosɔgɔ (taste) → hakili — 'taste' ye hakili ɲɛfɔli ye Heburukan na"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לנאמנים",
+      "rationale": "'trusted ones' walima 'faithful counsellors' (Geneva) — tiɲɛdafɔlaw ta la"
+    }
+  ],
+  "translation": "A bɛ tiɲɛdafɔlaw ka kuma bɔ, a bɛ mɔgɔkɔrɔw ka hakili ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ede8b6815b72dbc58c01fa43dbc10c68f1e59806c58a29cd48e4fa74998a0c30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/12\/17-20.1791943483309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "a bɛ ... bɔ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "לנאמנים",
+      "gloss": "tiɲɛdafɔlaw"
+    },
+    {
+      "surface": "וטעם",
+      "gloss": "hakili"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "mɔgɔkɔrɔw"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "a bɛ ... ta"
+    }
+  ],
+  "timestamp": "2026-10-14T02:04:43.310720649Z",
+  "model": "glm-5.3"
+}

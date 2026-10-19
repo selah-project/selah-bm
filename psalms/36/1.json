@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka salon",
+      "rationale": "Hebrew למנצח superscription lacks the word 'psalm'; Bambara needs it to read as a title"
+    },
+    {
+      "kind": "crux",
+      "subject": "למנצח",
+      "rationale": "'To the chief musician' vs 'to the one who glitters\/is eminent'; rendered literally as the-one-who-directs"
+    }
+  ],
+  "translation": "Ka kalan kalan-nimɔgɔ ma — Yawe ka dɛnbaga Dawid (Dawuda) ka salon.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/36\/1-4.1791940023264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kalan-nimɔgɔ ma"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "dɛnbaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:03.264934151Z",
+  "model": "glm-5.3"
+}

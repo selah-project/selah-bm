@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 6:1",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אנה הלך",
+      "rationale": "Literally 'whither has he walked'; rendered as a plain where-question, Hebrew's walking-verb lost."
+    },
+    {
+      "kind": "you",
+      "subject": "to the woman",
+      "rationale": "The companions address the fairest of women directly with questions."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנה ... אנה",
+      "rationale": "The doubled 'whither' frames the verse in parallel; repetition kept by repeating 'yɔrɔ min na'."
+    }
+  ],
+  "translation": "I ka kanuyatigi taa la yɔrɔ min na, tɔgɔce muso min ye musow la? I ka kanuyatigi jalaki la yɔrɔ min na, walasa an bɛ se ka a ɲini ni i ye?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/6\/1-4.1791944708850.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "yɔrɔ min na"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "taa"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "i ka kanuyatigi"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "tɔgɔce"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "musow la"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "yɔrɔ min na"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "jalaki"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "i ka kanuyatigi"
+    },
+    {
+      "surface": "ונבקשנו",
+      "gloss": "walasa an bɛ se ka a ɲini"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ni i ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:08.850749322Z",
+  "model": "glm-5.3"
+}

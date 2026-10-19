@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩ (Assur)",
+      "rationale": "no subject in the Hebrew; the marching one (Assyria) is supplied from context"
+    },
+    {
+      "kind": "measurement",
+      "subject": "route",
+      "rationale": "a place-name itinerary — Aiath, Migron, Michmash — the invader's march mapped station by station"
+    },
+    {
+      "kind": "alternative",
+      "subject": "bɛ … sigi",
+      "rationale": "יפקיד can mean 'deposits\/stores his baggage' or 'mustering'; deposit chosen"
+    }
+  ],
+  "translation": "⟨A⟩ (Assur) na Ayat kan, a tɛmɛna Migiron kɔnɔ, Mikimash la a bɛ a ka fɛnw sigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "438a605020493ef5f74ec52fb910c7bb1b24fe4985580ad1fe993c939d1c7771",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/10\/25-28.1791933585223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עית",
+      "gloss": "Ayat"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tɛmɛna"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "Migiron kɔnɔ"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "Mikimash la"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "bɛ … sigi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "a ka fɛnw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:19:45.231488860Z",
+  "model": "glm-5.3"
+}

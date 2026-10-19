@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 14:6",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מרדף",
+      "rationale": "KJV reads passive 'is persecuted, none hindereth'; most read active participle 'pursuing without restraint' — followed the active here"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סרה",
+      "rationale": "literally 'turning away\/departure' — the blows did not turn aside; rendered 'bɔ' (cease)"
+    }
+  ],
+  "translation": "Min bɛ jama peri yɛrɛ na, ni dɔgɔko min tɛ bɔ, min bɛ siyaw lasago jɛya na, min bɛ lendera, a tɛ diŋ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/14\/5-8.1791933693346.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מַכֶּה",
+      "gloss": "min bɛ peri"
+    },
+    {
+      "surface": "עַמִּים",
+      "gloss": "jama"
+    },
+    {
+      "surface": "בְּעֶבְרָה",
+      "gloss": "yɛrɛ na"
+    },
+    {
+      "surface": "מַכַּת",
+      "gloss": "dɔgɔko"
+    },
+    {
+      "surface": "בִּלְתִּי",
+      "gloss": "min tɛ"
+    },
+    {
+      "surface": "סָרָה",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "רֹדֶה",
+      "gloss": "lasago"
+    },
+    {
+      "surface": "בָאַף",
+      "gloss": "jɛya na"
+    },
+    {
+      "surface": "גוֹיִם",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "מֻרְדָּף",
+      "gloss": "lendera"
+    },
+    {
+      "surface": "בְּלִי",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "חָשָׂךְ",
+      "gloss": "diŋ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:21:33.349113176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Shitan",
+      "rationale": "שטן lacks the article here: 'an adversary' vs 'Satan' the arch-enemy; 2 Sam 24:1 parallel says YHWH's anger moved David."
+    },
+    {
+      "kind": "substitution",
+      "subject": "yamaruya",
+      "rationale": "ויסת literally 'pricked\/stung' — incited; rendered as alluring\/persuading."
+    },
+    {
+      "kind": "measurement",
+      "subject": "jate",
+      "rationale": "census-taking — counting of Israel begins here."
+    }
+  ],
+  "translation": "Shitan ye wuli ka ɲɛsin Yisraɛl (Israɛl) ma, a ye ⟨את⟩ Dawid (Dawuda) yamaruya ka ⟨את⟩ Yisraɛl jate.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "92a75c249f8f7cfbe7959122378f62ccf14d7d934b12e7b8df875cf3a6b6fa89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/21\/1-4.1791948155615.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ye wuli"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "Shitan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ɲɛsin…ma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "yamaruya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "ka…jate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    }
+  ],
+  "timestamp": "2026-10-14T03:22:35.615823005Z",
+  "model": "glm-5.3"
+}

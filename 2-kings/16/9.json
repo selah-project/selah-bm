@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ka mɔgɔw",
+      "rationale": "ויגלה קירה has only the city suffix -ה; 'its people' is supplied by context"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויגלה",
+      "rationale": "'exiled\/carried captive' — the verb is the same one used for Israel's exile; 'wasted' (Wycliffe) softens it"
+    }
+  ],
+  "translation": "Ashur ka masakɛ ye a mɛn, Ashur ka masakɛ ye Damasek (Damasiki) kan taa, a ye kɔgɔji minɛ, a ye ⟨a ka mɔgɔw⟩ lasiri Kir, a ye ⟨את⟩ Retsin faga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3f5a3c3a15a134d6fd3a7c24ab0c2ebd57780981d4bee32555c5aa6748ff70ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/16\/9-12.1791933066419.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ye a mɛn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ye … kan taa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "ye minɛ"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "ye lasiri"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "faga"
+    }
+  ],
+  "timestamp": "2026-10-13T23:11:06.428069844Z",
+  "model": "glm-5.3"
+}

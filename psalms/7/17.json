@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ועל",
+      "rationale": "Bamanankan postposition -la on kunbɔrɔ already covers על; the conjunction waw joins clauses without a separate word here"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kojuguya",
+      "rationale": "עמל is toil\/wearing effort; kojuguya (bad deed\/trouble) captures the mischief sense, losing the 'labor' picture"
+    }
+  ],
+  "translation": "A ka kojuguya bɛna segin a kun na, a ka zangoya bɛna na a kunbɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/7\/17-18.1791939593425.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "bɛna segin"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "a ka kojuguya"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "a kun na"
+    },
+    {
+      "surface": "ועל",
+      "gloss": ""
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "a kunbɔrɔ la"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "a ka zangoya"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bɛna na"
+    }
+  ],
+  "timestamp": "2026-10-14T00:59:53.426270614Z",
+  "model": "glm-5.3"
+}

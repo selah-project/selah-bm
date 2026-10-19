@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 33:27",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔrɔma-kɔnɔ",
+      "rationale": "קדם means 'front\/East\/ancient time'; 'kɔrɔma-kɔnɔ' takes the time sense — the East\/direction sense is lost."
+    },
+    {
+      "kind": "crux",
+      "subject": "השמד",
+      "rationale": "'B'a fa!' (destroy him) as imperative addressed to Israel; some read it as a cry against the enemy, others as a command to Israel."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person address: 'i ka ɲɛ na' — Yawe speaks of\/through Moshe to Israel."
+    }
+  ],
+  "translation": "Sigiyɔrɔ ye kɔrɔma-kɔnɔ Elohim ye; a ka bolow minnu bɛ duguma, olu bɛ yen waati bɛɛ; a y' ⟨את⟩ tusuntɔ bɔ i ka ɲɛ na, ka fɔ ko: B'a fa!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "67f3d8fca57661e18ca252ddd0319b9708581d1a1571610ed31b1af14c4eb4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/33\/25-28.1791928458793.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "sigiyɔrɔ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kɔrɔma-kɔnɔ"
+    },
+    {
+      "surface": "ומתחת",
+      "gloss": "… bɛ duguma"
+    },
+    {
+      "surface": "זרעת",
+      "gloss": "bolow"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waati bɛɛ"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "a y'a bɔ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "i ka ɲɛ na"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "tusuntɔ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ka fɔ ko"
+    },
+    {
+      "surface": "השמד",
+      "gloss": "B'a fa"
+    }
+  ],
+  "timestamp": "2026-10-13T21:54:18.797263270Z",
+  "model": "glm-5.3"
+}

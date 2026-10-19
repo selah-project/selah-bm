@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבות\/בנים chiasm",
+      "rationale": "Mirror structure fathers-sons \/ sons-fathers; the balanced repetition carries the law's symmetry and is kept."
+    },
+    {
+      "kind": "crux",
+      "subject": "יומתו",
+      "rationale": "Passive 'be put to death' vs 'die'; legal-execution nuance rendered with 'bɔn' (put to death), not plain 'sa'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Statute of individual responsibility in the covenant code."
+    }
+  ],
+  "translation": "Faw tɛna bɔn denw ye, denw tɛna bɔn faw ye; mɔgɔ kelen-kelen bɛna bɔn a ka jurumu ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6aaea6d8910b8e00cf423ccccbde75dab512cc0914e1836a2a4df4845ad17941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/24\/13-16.1791928171498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bɔn"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "faw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "denw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bɔn"
+    },
+    {
+      "surface": "על",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "faw"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen-kelen"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "a ka jurumu ye"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bɔn"
+    }
+  ],
+  "timestamp": "2026-10-13T21:49:31.503318411Z",
+  "model": "glm-5.3"
+}

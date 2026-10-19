@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 2:31",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kɛmɛ-saba ni wolonwula-bi-tan",
+      "rationale": "Battle-casualty count: 360 dead, set against the nineteen of v30."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכו",
+      "gloss": "faga",
+      "rationale": "Hebrew 'struck of Benjamin'; Bamanankan needs the plural object dɔw to keep the partitive sense of מן."
+    }
+  ],
+  "translation": "Nka Dawid ka baarakɛlaw ye Binyamin dɔw ni Abner ka mɔgɔw dɔw faga; mɔgɔ kɛmɛ-saba ni wolonwula-bi-tan ye sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8fc01c8cb23ca676ecffd623e89ea82ab929163f8006a9dd50a8f21d558b66a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/2\/30-31.1791950320993.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ו�עבדי",
+      "gloss": "Dawid ka baarakɛlaw"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ye … faga"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "Binyamin dɔw"
+    },
+    {
+      "surface": "ובאנשי",
+      "gloss": "ni … ka mɔgɔw dɔw"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kɛmɛ-saba (daminɛ)"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "wolonwula-bi-tan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ye sa"
+    }
+  ],
+  "timestamp": "2026-10-14T03:58:40.994005102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "la \/ ye",
+      "rationale": "Bambara kɔfɛ-daɲɛw ni wale-daɲɛ 'ye' wajibiyara, Heburukan ma u sɔrɔ"
+    },
+    {
+      "kind": "elision",
+      "subject": "בשלום",
+      "gloss-note": "",
+      "rationale": "hɛrɛ de b'a fɔ; 'ni hɛrɛ ye' ka kɛ a bɔko tilennen ye"
+    }
+  ],
+  "translation": "Yehoshafat, Yuda masakɛ, seginna a so la ni hɛrɛ ye, Yerushalayim (Jerusalɛmu) la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e9694e9d2244538fe6f12e2b81ecf85492e25723d736071a90d79fa0dd309c55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/19\/1-4.1791949217243.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "seginna"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a so"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ni hɛrɛ ye"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayim la"
+    }
+  ],
+  "timestamp": "2026-10-14T03:40:17.243741044Z",
+  "model": "glm-5.3"
+}

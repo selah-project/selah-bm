@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ɲɔgɔn wele",
+      "rationale": "נועדו is 'made appointment\/met' — latigɛ 'agreed' (KJV) is the traditional reading"
+    },
+    {
+      "kind": "mystery",
+      "subject": "rhetorical question",
+      "rationale": "opening of the seven-question chain, answer assumed"
+    }
+  ],
+  "translation": "Yala mɔgɔ fila bɛna ta ɲɔgɔn fɛ, ni u ma ɲɔgɔn wele wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/amos\/3\/1-4.1791938427141.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "bɛna ta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mɔgɔ fila"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɲɔgɔn fɛ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ni ... ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wa"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ɲɔgɔn wele"
+    }
+  ],
+  "timestamp": "2026-10-14T00:40:27.142587143Z",
+  "model": "glm-5.3"
+}

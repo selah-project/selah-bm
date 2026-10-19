@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nɔkun",
+      "rationale": "באף ye nɔkun ye nka a fɔcogo kɔrɔ bɛ Sɛbɛn na kɛ sira ye a duko kama, a tɛ Yawe tɔgɔ ye nin ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "Yawe",
+      "rationale": "Heburukan daɲɛ min bɛ fɔ nin ye (a), Bamanankan de wajibiya ka a fɔ, nka sɛbɛnni ma min fɔ a ma"
+    }
+  ],
+  "translation": "Sigen wulira Yawe nɔkun na, ani tasuma b'a da lan na bɛ dun; tasuma kurubaw tun bɛ tuli o (tasuma) la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9cf51954dd183cfb042f9c423f4bdb6e91bd98f8166bde785bb175b0addbb432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/9-12.1791939747498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "wulira"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "sigen"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "a nɔkun na"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ani tasuma"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "b'a da lan na"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "bɛ dun"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "tasuma kurubaw"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "tun bɛ tuli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "o (tasuma) la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:27.499534443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 49:11",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨n⟩",
+      "rationale": "First-person suffix implied by the verb 'I will make'; supplied pronoun bracketed."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kulu ta kɛ sira ye",
+      "rationale": "'Mountains become a road' — the image of leveling obstacles kept literally."
+    }
+  ],
+  "translation": "N bɛna ⟨n⟩ kulubɛɛ bɛɛ ta kɛ sira ye, n ka bilasiraw bɛna kɔrɔsi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7f4086d9c5a2a6125499986a54837830c95fae4f1cf39a2f3997a8c37f02a3cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/49\/9-12.1791934469075.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "N bɛna … ta kɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "kulubɛɛ"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "sira ye"
+    },
+    {
+      "surface": "ומסלתי",
+      "gloss": "n ka bilasiraw"
+    },
+    {
+      "surface": "ירמון",
+      "gloss": "bɛna kɔrɔsi"
+    }
+  ],
+  "timestamp": "2026-10-13T23:34:29.077344561Z",
+  "model": "glm-5.3"
+}

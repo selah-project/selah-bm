@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 5:21",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוט לשון",
+      "rationale": "lash-of-tongue: near-rhyme of šōṭ\/lašōn, lost in Bamanankan"
+    },
+    {
+      "kind": "elision",
+      "subject": "תחבא",
+      "rationale": "Hebrew 'you will hide yourself' rendered as 'i bɛ sumaya' (you will be hidden); the middle sense is ambiguous"
+    },
+    {
+      "kind": "you",
+      "subject": "to Job",
+      "rationale": "Elifaz continues his direct address to Iyov (Job)"
+    }
+  ],
+  "translation": "Lasɔn ka lasa la, i bɛ sumaya; i tɛ bɔbɔ siran ni a na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "325f672c65ba168587457e0045b3f75e41c77dfda36e1be0051939b904abf201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/5\/21-24.1791943370920.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשוט",
+      "gloss": "lasa"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lasɔn"
+    },
+    {
+      "surface": "תחבא",
+      "gloss": "i bɛ sumaya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i tɛ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "siran"
+    },
+    {
+      "surface": "משד",
+      "gloss": "bɔbɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "a na"
+    }
+  ],
+  "timestamp": "2026-10-14T02:02:50.921605021Z",
+  "model": "glm-5.3"
+}

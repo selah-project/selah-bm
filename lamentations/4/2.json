@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 4:2",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kasaw",
+      "rationale": "נבלי חרש skin-bottles\/earthen jars rendered 'kasaw' (earthen pots), nearest vessel word."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ye!⟩",
+      "rationale": "Predicate marker and exclamation added by Bambara syntax; Hebrew has bare apposition."
+    }
+  ],
+  "translation": "Tsiyon (Ziɔn) denw, minnu ka bo, minnu lasaraden sanu tiɲɛ la — cogo di na u jate ka kɛ kasaw ye, dilanbaga bolow ka baara ye!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/4\/1-4.1791944978775.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon (Ziɔn)"
+    },
+    {
+      "surface": "היקרים",
+      "gloss": "minnu ka bo"
+    },
+    {
+      "surface": "המסלאים",
+      "gloss": "minnu lasaraden"
+    },
+    {
+      "surface": "בפז",
+      "gloss": "sanu tiɲɛ la"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "cogo di na"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "u jate"
+    },
+    {
+      "surface": "לנבלי",
+      "gloss": "ka kɛ kasaw ye"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "yɛrɛyɛrɛlen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bolow"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "dilanbaga"
+    }
+  ],
+  "timestamp": "2026-10-14T02:29:38.776668856Z",
+  "model": "glm-5.3"
+}

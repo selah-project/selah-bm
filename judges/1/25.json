@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "Hebrew 'mouth of the sword' = edge of the sword; rendered literally in Bambara as 'with the sword'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משפחתו",
+      "rationale": "'his family\/clan' rendered as 'a ka mɔgɔbɛɛ' (his people), Bambara lacks a single word for clan"
+    }
+  ],
+  "translation": "A ye ⟨את⟩ dugu ka don-so jira u ye, u ye ⟨את⟩ dugu in fo ni npan ye, nka ⟨את⟩ mɔgɔ in ni ⟨את⟩ a ka mɔgɔbɛɛ, u y'u bila yo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b2804b92da97afeeff116791ab6cc0e7326b5c49a1af8fe63bb969c9907a670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/1\/25-28.1791929204362.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "a ye ... jira u ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "don-so (dugu ka don-so)"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "don-so"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "u ye ... fo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ni ... ye"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "npan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mɔgɔ in"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mɔgɔ in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ka mɔgɔbɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "a ka mɔgɔbɛɛ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "u y'u bila yo"
+    }
+  ],
+  "timestamp": "2026-10-13T22:06:44.364255218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 18:21",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Yawe⟩",
+      "rationale": "Hebrew verse has no speaker for second ויאמר; context (v20) requires naming Yawe, bracketed as supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "lying spirit",
+      "rationale": "רוח שקר — 'spirit of falsehood': some read 'wind\/breath' (fiɲɛ covers both wind and spirit in Bambara)"
+    },
+    {
+      "kind": "secret",
+      "subject": "heavenly council",
+      "rationale": "verse reports a scene hidden from mortals — the divine council's deliberation"
+    }
+  ],
+  "translation": "A ko: Ne bɛna taa, k'a kɛ fiɲɛ ye min bɛ fuya, ⟨a⟩ nabiw bɛɛ da la. ⟨Yawe⟩ ko: I bɛna a lasɔrɔ, ani i bɛ se; ta taa, k'a kɛ o cogo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fae8c2c7076a31189d2533d0f2f1f735342ae7467796b68617a00dae8fa13fbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/18\/21-24.1791949214938.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ne bɛna taa"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "k'a kɛ … ye"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "min bɛ fuya"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "da la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "נביאיו",
+      "gloss": "a nabiw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תפתה",
+      "gloss": "i bɛna a lasɔrɔ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "i bɛ se"
+    },
+    {
+      "surface": "צא",
+      "gloss": "ta taa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o cogo ye"
+    }
+  ],
+  "timestamp": "2026-10-14T03:40:14.939258745Z",
+  "model": "glm-5.3"
+}

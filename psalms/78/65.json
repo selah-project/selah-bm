@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתרונן מיין",
+      "rationale": "ginkɛ min bɛ ɲɔgɔnna kɛ diwɛn kɔnɔ — 'shouting from wine' (KJV) versus 'recovering from wine' (JPS); root רנן fɔcogo fɔlɔ ye ɲɔgɔnnakɛli ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויקץ",
+      "rationale": "'to awake' bayɛlɛmana ni 'ye sunɔgɔ bali' ye — Heburukan daɲɛ kelen bɛɛ bɛ fɔ cogo kelen na"
+    }
+  ],
+  "translation": "Adonay ye sunɔgɔ bali, i n'a fɔ mɔgɔ min sunɔgɔra, i n'a fɔ ginkɛ seba min bɛ ɲɔgɔnna kɛ diwɛn kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/65-68.1791940833431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "bali"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "i n'a fɔ mɔgɔ min sunɔgɔra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "i n'a fɔ ginkɛ seba"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "min bɛ ɲɔgɔnna kɛ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "diwɛn kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:33.431562085Z",
+  "model": "glm-5.3"
+}

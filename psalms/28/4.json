@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תן … תן",
+      "rationale": "Repetition of 'give' builds the verse's insistence; preserved by repeating 'a di u ma'."
+    },
+    {
+      "kind": "addition",
+      "subject": "cogo min \/ cogo la",
+      "rationale": "Bambara comparatives need 'cogo min' (the way that) where Hebrew כ prefix alone carries 'according to'."
+    }
+  ],
+  "translation": "A di u ma ni u ka baara bɛ cogo min, ani ni u ka miiri jugu bɛ cogo min; u bolo baara cogo la, a di u ma; u ka gɛlɛya segin u ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/28\/1-4.1791939925087.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "a di u ma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "ni u ka baara bɛ cogo min"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "ani u ka jugucogo"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "u ka baarakɛli"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "baara cogo la"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "u bolo"
+    },
+    {
+      "surface": "תן",
+      "gloss": "a di u ma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "השב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "u ka gɛlɛya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:25.088742948Z",
+  "model": "glm-5.3"
+}

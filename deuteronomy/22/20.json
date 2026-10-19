@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בתולים",
+      "rationale": "'tokens of virginity not found' — physical evidence vs the father's cloth of v.17; the penalty of v.21 follows."
+    },
+    {
+      "kind": "elision",
+      "subject": "לנער",
+      "gloss_note": "",
+      "rationale": "prefixed ל rendered as fɛ 'for\/at' the damsel rather than as a separate word."
+    }
+  ],
+  "translation": "Nka ni kuma in tiɲɛ don — batulim ma sɔrɔ denmuso in fɛ —",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0b35c2ca1cf594574b21e168d5e357c8aab3c76385631338aeca2915d17316f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/22\/17-20.1791928197295.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "nka ni"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "don"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "sɔrɔ"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "batulim"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "denmuso in fɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:49:57.299812507Z",
+  "model": "glm-5.3"
+}

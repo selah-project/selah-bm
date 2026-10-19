@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Hebrew verb 'vayaggedu' is impersonal 'they told'; Bamanankan needs an explicit subject 'u'"
+    }
+  ],
+  "translation": "U ye Sisera ma fɔ ko Baraki, Abinoami (Abinoamu) denkɛ, ye jan ka taa Tabori kulu kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "39128d9f5cd1ea89fc00d6ea3be1ac112c3edf8892b3a7efddd80eec11265859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/4\/9-12.1791929276423.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "u ye … ma fɔ"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "Sisera ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ye jan ka taa"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Abinoami"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tabori"
+    }
+  ],
+  "timestamp": "2026-10-13T22:07:56.432355291Z",
+  "model": "glm-5.3"
+}

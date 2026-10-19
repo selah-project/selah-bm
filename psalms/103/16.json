@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "a yɔrɔ tɛna a ye kɔrɔ",
+      "rationale": "Hebrew personifies the place 'knowing' the man no more; rendered as 'its place will not see it again', a near-literal personification."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוח is wind\/breath\/spirit; 'fiɲɛ' (wind\/breeze) is the plain-noun branch of the glossary."
+    }
+  ],
+  "translation": "Sabu fiɲɛ dɔ bɛ taa o kan, ka o bila, a yɔrɔ fana tɛna a ye kɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/103\/13-16.1791941204984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "bɛ taa … kan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ka o bila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "tɛna a ye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kɔrɔ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "a yɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:44.985067574Z",
+  "model": "glm-5.3"
+}

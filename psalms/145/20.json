@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dabɔ",
+      "rationale": "שׁמד ye 'ka yɔrɔ tiɲɛ bali-ka-dilan' kɔrɔ; 'dabɔ' de ka surun Bamanankan na"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שומר \/ ישמיד",
+      "gloss": "sh-m-r (mara) ni sh-m-d (bali-dilan) taamasiyɛn-fasokan; a tɛ ye Bamanankan na"
+    }
+  ],
+  "translation": "Yawe bɛ ⟨את⟩ a kanubagaw bɛɛ mara, ani ⟨את⟩ jurumubagaw bɛɛ, a bɛna u fairu bɛɛ dabɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/145\/17-20.1791942015938.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "bɛ … mara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kanubagaw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "a kanubagaw"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "jurumubagaw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "jurumubagaw"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "bɛna … dabɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:15.939824459Z",
+  "model": "glm-5.3"
+}

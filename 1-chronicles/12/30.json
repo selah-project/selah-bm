@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 12:30",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "la-layidu mara",
+      "rationale": "mishmeret is a watch\/custody rendered as keeping the covenant-duty; ASV has 'allegiance', KJV 'ward'"
+    },
+    {
+      "kind": "crux",
+      "subject": "mara vs tugu",
+      "rationale": "shamar here = loyalty\/guard duty to Saul's house, not physical guarding"
+    }
+  ],
+  "translation": "Benyamin (Binjamin) denw la, Shawl (Sawulu) balimaw, mɔgu saba alafi; fo bi ma, u ka caman-dɔ ye Shawl so la-layidu mara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "721468fea0e62d791f5415c9137fe995e84cddddca962d41856c50249c760be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/12\/29-32.1791947945753.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "balimaw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawl"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "alafi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bi ma"
+    },
+    {
+      "surface": "מרביתם",
+      "gloss": "u ka caman-dɔ"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ye … mara"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "la-layidu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawl"
+    }
+  ],
+  "timestamp": "2026-10-14T03:19:05.754866749Z",
+  "model": "glm-5.3"
+}

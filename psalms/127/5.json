@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ba shaar kɔnɔ",
+      "rationale": "'In the gate' — the city gate as the place of public judgment and dispute; 'duga da kɔnɔ' keeps the picture literally"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maɔgɔya",
+      "rationale": "yevoshu is 'to pale\/be ashamed'; maɔgɔya covers shame\/disgrace"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "duga da",
+      "rationale": "Hebrew sha'ar means both gate and opening; Bambara da likewise covers door and mouth, keeping the double sense"
+    },
+    {
+      "kind": "you",
+      "subject": "cɛ min",
+      "rationale": "beatitude formula addresses the hearer through the blessed man, like v.1 ashre"
+    }
+  ],
+  "translation": "Sumaya don cɛ min ye ⟨את⟩ a tono ye u ye, a tɛna maɔgɔya, sabu a bɛna kuma ni ⟨את⟩ sumaw ye duga da kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e9d87ba12ccdb924ae9984211be8974e22e990c6516ffcd2b95a87ffd082225d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/127\/5-5.1791941692431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "sumaya don"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "min"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "ye ... ye"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "a tono"
+    },
+    {
+      "surface": "אַשְׁפָּתוֹ",
+      "gloss": "a tono"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "u"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "maɔgɔya"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יְדַבְּר֖וּ",
+      "gloss": "bɛna kuma"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sumaw"
+    },
+    {
+      "surface": "אוֹיְבִים",
+      "gloss": "sumaw"
+    },
+    {
+      "surface": "בַּשָּׁעַר",
+      "gloss": "duga da kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:52.432396719Z",
+  "model": "glm-5.3"
+}

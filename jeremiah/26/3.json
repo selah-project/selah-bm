@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 26:3",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ונחמתי",
+      "rationale": "root נחם = to sigh\/breathe strongly, 'relent\/repent'; rendered 'hakili to' (change one's mind)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "literal 'from the face of' = 'because of'; rendered 'sabu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "walasa",
+      "rationale": "purpose conjunction supplied to link the hearing\/turning with the relenting"
+    }
+  ],
+  "translation": "Yal'u bɛ mɛn, k'u yɛrɛ ka bɔ u ka gɛlɛya-sira la, walasa ne hakili to ka bɔ fitinɛ min ne bɛ miirnɛ ka kɛ u ye, u ka baara juguw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "16963932ebbb02ace0ce6ccd56bb2c043ada6eb4ddc3491dc41e54e45a8ec27f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/26\/1-4.1791935654281.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "yala"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "u bɛ mɛn"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "k'u yɛrɛ ka bɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen-kelen bɛɛ"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "a sira la"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "וונחמתי",
+      "gloss": "ne hakili to",
+      "surface_actual": "ונחמתי"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "fitinɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "bɛ miirnɛ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "u ka baara juguw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:54:14.282816674Z",
+  "model": "glm-5.3"
+}

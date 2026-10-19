@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "eyes to the hand",
+      "rationale": "Hebrew idiom: servants watch the master's hand for a signal or gift; kept literal in Bamanankan"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "servant\/maid, master\/mistress",
+      "rationale": "balanced paired simile (masculine then feminine), kept as chiasm of pairs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hakɛ jɔnjɔn",
+      "rationale": "חננו is 'be gracious, bend in kindness' — rendered as mercy idiom"
+    }
+  ],
+  "translation": "Yɛlɛ — i n'a fɔ sofaw ka ɲɛw bɛ i ye u masaw ka bolo la, i n'a fɔ so-muso ka ɲɛ bɛ i ye a musotigi ka bolo la, nin cogo min na an ka ɲɛw bɛ i ye Yawe kan, an ka Elohim, fo a ka hakɛ jɔnjɔn di an ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/123\/1-4.1791941795965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yɛlɛ"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "i n'a fɔ … ka ɲɛw"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sofaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bɛ i ye"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "u masaw ka"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "i n'a fɔ … ka ɲɛ"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "so-muso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bɛ i ye"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "a musotigi ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nin cogo min na"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "an ka ɲɛw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bɛ i ye … kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "a ka hakɛ jɔnjɔn di an ma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:35.966430529Z",
+  "model": "glm-5.3"
+}

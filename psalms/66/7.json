@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "musical pause mark kept as the transliterated token Sela, untranslatable"
+    },
+    {
+      "kind": "crux",
+      "subject": "lelein bɛɛ",
+      "rationale": "עולם rendered 'forever' (kjb) vs 'to the age' (ylt); literal sense is 'concealed\/vanishing point' of time"
+    }
+  ],
+  "translation": "A b'a ka sebakɛba la mara lelein bɛɛ; a ka ɲɛw bɛ siyaw kan ɲɛɔgɔntɔ; minnu b'a bali, kana u yɛlɛma kɔrɔdɔ. Sela.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/66\/5-8.1791940470323.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "a bɛ mara"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "a ka sebakɛba la"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lelein bɛɛ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "a ka ɲɛw"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "siyaw kan"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "bɛ ɲɛɔgɔntɔ"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "minnu b'a bali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "u yɛlɛma kɔrɔdɔ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "u"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:30.323946141Z",
+  "model": "glm-5.3"
+}

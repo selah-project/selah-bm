@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "Infinitive absolute: 'dying he shall die' — the doubled root intensifies the decree; Bambara renders 'saya tiŋɛ' (truly death)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "min bɔ",
+      "rationale": "Hebrew participle 'the one striking' rendered as Bambara relative 'the one who strikes' with mɔgɔ repeated for the object"
+    }
+  ],
+  "translation": "Min bɔ mɔgɔ tasuma ka mɔgɔ sa, o yɛrɛ bɛna sa, saya tiŋɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f981f1c98672136fce8ef7a7c6e6289319c4739b3781e50d63afefdda5d0100c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/21\/9-12.1791926833660.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "min bɔ ... tasuma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ka ... sa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "saya tiŋɛ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bɛna sa"
+    }
+  ],
+  "timestamp": "2026-10-13T21:27:13.757681191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 1:33",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Nka",
+      "rationale": "waw-conjunction rendered as contrastive 'Nka' since v.33 contrasts with v.32"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "third-person subject pronoun supplied — Hebrew participle 'the-one-hearing' carries no explicit pronoun"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ka bɔ ... na",
+      "rationale": "מן 'from fear' rendered with Bambara 'bɔ ... na' (out of) construction"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "wisdom's closing summons of chapter 1: whoever listens to me will dwell safe"
+    }
+  ],
+  "translation": "Nka min ye ne mɛn, a bɛna sigi bitɛɛ la, ani ka hɛrɛ ta ka bɔ ko juguw siran na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e2a1595d59f6c3fac5170605d870f2066561677b5e6099a75a631f3ace76e4db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/1\/33-33.1791942072882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "min ye ne mɛn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "a bɛna sigi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bitɛɛ la"
+    },
+    {
+      "surface": "ושאנן",
+      "gloss": "ani ka hɛrɛ ta"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ka bɔ siran na"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ko juguw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:41:12.882886282Z",
+  "model": "glm-5.3"
+}

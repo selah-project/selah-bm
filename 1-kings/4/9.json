@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "list of districts",
+      "rationale": "Solomon's twelve prefects listed by name and district — an administrative census."
+    },
+    {
+      "kind": "addition",
+      "subject": "yɛrɛ",
+      "rationale": "Hebrew list has no verb; Bamanankan listing needs the connective 'yɛrɛ' (namely)."
+    }
+  ],
+  "translation": "Ben-Deker (Ben-Deker) yɛrɛ, Makats (Makats), ani Shaalabim (Shaalabim), ani Bet-Shemesh (Bet-Shemesh), ani Elon-Bet-Hanan (Elon-Bet-Hanan).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7035d34557ff64cd5a83972db694a1f0a4cac4a69dffb39ca3d1a738d1b6e907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/4\/9-12.1791931777877.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben-Deker (den)"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "Makats la"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "ani Shaalabim la"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ani Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ani Elon-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Hanan"
+    }
+  ],
+  "timestamp": "2026-10-13T22:49:37.882085636Z",
+  "model": "glm-5.3"
+}

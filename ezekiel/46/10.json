@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 46:10",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ni u ye",
+      "rationale": "Hebrew says only 'he shall go in\/out in their midst'; 'with them' supplied from בתוכם."
+    },
+    {
+      "kind": "crux",
+      "subject": "יצאו",
+      "rationale": "verb form is plural ('they shall go out'); KJV takes prince as subject, ASV\/JPS read 'they go forth together'."
+    }
+  ],
+  "translation": "Masa bɛ u cɛmancɛ la: ni u don na, a bɛ don ni u ye; ni u bɔ ye, a bɛ bɔ ni u ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e464b1efdf259a2468d20b1cc404e25685bd10747235db0238fa721e5d4a6475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/46\/9-12.1791937957404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "u cɛmancɛ la"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ni u don na"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "a bɛ don"
+    },
+    {
+      "surface": "ובצאתם",
+      "gloss": "ni u bɔ ye"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "a bɛ bɔ ni u ye"
+    }
+  ],
+  "timestamp": "2026-10-14T00:32:37.405768482Z",
+  "model": "glm-5.3"
+}

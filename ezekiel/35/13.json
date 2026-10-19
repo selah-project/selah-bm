@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 35:13",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o ye",
+      "rationale": "Hebrew שמעתי has no explicit object; Bambara needs o to close the clause"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aw bonya kɛ",
+      "rationale": "ותגדילו literally 'make large' — magnify yourselves; role reading 'boast' avoided"
+    },
+    {
+      "kind": "you",
+      "subject": "to Edom",
+      "rationale": "second-person plural address against Edom continues from v.12"
+    }
+  ],
+  "translation": "Aw ye aw bonya kɛ N kan aw da ye, aw ka kumaw camanna N kan — ne, ne mɛn o ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "58bdb8b9e6c6602cbe353bf0cd3a4d48a405a819aa45bccfb3eadee6ea54179f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/35\/13-15.1791937609596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגדילו",
+      "gloss": "aw ye aw bonya kɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "N kan"
+    },
+    {
+      "surface": "בפיכם",
+      "gloss": "aw da ye"
+    },
+    {
+      "surface": "והעתרתם",
+      "gloss": "aw ka kumaw camanna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "N kan"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "aw ka kumaw"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ne mɛn o ye"
+    }
+  ],
+  "timestamp": "2026-10-14T00:26:49.596939904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מראה",
+      "rationale": "Word appears only here in the Tanakh; glossed as rebellious from the root מרה, and the city's rebellion is set against the lashing she gives herself"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היונה",
+      "rationale": "From the root ינה to oppress; the consonants spell the name Yonah, a resonance lost in Bambara"
+    },
+    {
+      "kind": "addition",
+      "subject": "hadamadenw",
+      "rationale": "The Hebrew participle oppressing-her implies the object; Bambara needs the explicit object hadamadenw"
+    }
+  ],
+  "translation": "Juguya! O de ye dugu ye min bunbali ani min jɔgɔya — dugu min bɛ hadamadenw ɲagami!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "55145628e3fe4c7b4f83faf509ed27ca8d44ccee802c73e77eab97dd692eb160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zephaniah\/3\/1-4.1791939074982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Juguya"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "bunbali"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "ani min jɔgɔya"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "hadamaden-ɲagamabaga"
+    }
+  ],
+  "timestamp": "2026-10-14T00:51:14.983060770Z",
+  "model": "glm-5.3"
+}

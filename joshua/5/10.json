@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kalo tan-ni-fillan don",
+      "rationale": "The verse dates the Passover precisely: fourteenth day of the month, at evening."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Pesa",
+      "rationale": "הפסח kept as the technical festival name rather than a descriptive phrase."
+    }
+  ],
+  "translation": "Israɛlw ka denkɛw ye ɛnɛ sigi Gilgal, u ye ⟨את⟩ Pesa (Pasaka) kɛ kalo tan-ni-fillan don na, wula fɛ, Yeriho (Jeriko) dalaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "662836b8102c407828ef7febc216b2e30182917de1914aaf2292651067490d66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/5\/9-12.1791928518233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "ye ɛnɛ sigi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israɛl"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesa"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "tan-ni-fillan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-fillan don)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "wula fɛ"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "dalaw"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    }
+  ],
+  "timestamp": "2026-10-13T21:55:18.234729221Z",
+  "model": "glm-5.3"
+}

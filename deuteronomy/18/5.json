@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 18:5",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בו",
+      "rationale": "the preposition 'on him' is absorbed into the verb phrase 'y'a bɔ' — chosen one is the Levite of v 1"
+    },
+    {
+      "kind": "substitution",
+      "subject": "shabatw",
+      "rationale": "שבט is literally a staff\/rod; here 'tribe', the rod as tribal emblem is lost"
+    }
+  ],
+  "translation": "Sabu Yawe i ka Elohim y'a bɔ i ka shabatw bɛɛ la, ka a sigi ka baara kɛ Yawe tɔgɔ la — a ni a denw, don bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d4f36b77386d4930422ae304e8b30a0bb4eee6c84b89fc106a55aca6020d6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/18\/5-8.1791927975593.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "y'a bɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "שבטיך",
+      "gloss": "i ka shabatw"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "ka a sigi"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ka baara kɛ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "tɔgɔ la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ni a denw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "donw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:15.594913890Z",
+  "model": "glm-5.3"
+}

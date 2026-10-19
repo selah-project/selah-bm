@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד tɛ Bamanankan daɲɛ kelen ye — a bɛ to Heburu fɔcogo la, k'a fɔ ka a dɔgɔya"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe ma",
+      "rationale": "kuma in bɛ tugu Adonay nɔ na — dɔnniyakɔrɔta kɛrɛfɛ weleli"
+    },
+    {
+      "kind": "crux",
+      "subject": "hesedw",
+      "rationale": "misaliw bɛ 'mercies' (jps) ni 'lovingkindnesses' (kjv) wele — hesed kɔrɔ ka jatigɛ 'kanuya' ma"
+    }
+  ],
+  "translation": "Matigi, i ka hesedw minnu tun ye fɔlɔlenw ye, olu bɛ min? I ye beya kɛ Dawid (Dawuda) fɛ i ka tiɲɛ kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e3f51ecf2da9f0eb77773a7dae2e3cc21d1992659dc20733ce0fddece9ea6211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/89\/49-52.1791941050184.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "bɛ min"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "i ka hesedw"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "fɔlɔlenw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Matigi"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "i ye beya kɛ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid fɛ"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "i ka tiɲɛ kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:10.185066530Z",
+  "model": "glm-5.3"
+}

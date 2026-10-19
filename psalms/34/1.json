@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a daɲɛ-cogo",
+      "rationale": "טעם ye 'daɲɛ\/kɔrɔdɔn' tiɲɛna; 'cogo-yɛlɛmali' (behavior) ye a fɔcogo dɔgɔnen ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשנותו",
+      "rationale": "shinna: 'ka yɛlɛma' walima 'ka fila kɛ'; Heburukan kɔrɔ lonko fila fɛ"
+    }
+  ],
+  "translation": "Dawid ka sɛbɛn, min na a ye ⟨את⟩ a daɲɛ-cogo yɛlɛma Abimeleki ɲɛfɛ, min ye a geseli, a ye taa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/34\/1-4.1791940015323.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ka"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "a ye … yɛlɛma waati min na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a daɲɛ-cogo"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "a daɲɛ-cogo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleki"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "min ye a geseli"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a ye taa"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:55.323637615Z",
+  "model": "glm-5.3"
+}

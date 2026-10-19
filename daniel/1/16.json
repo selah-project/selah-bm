@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המלצר",
+      "rationale": "Persian title of the steward; KJV takes it as proper name 'Melzar', others as 'the steward' — kept as title-name Melttsar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרענים",
+      "rationale": "Literally 'things sown' (vegetables\/pulse); rendered 'jɛminɛw' (growing things)."
+    }
+  ],
+  "translation": "O kɔ, Melttsar ye ⟨את⟩ u ka dumuni nin ta, ani diwɛn minnu bɛ u ka min; a ye jɛminɛw di u ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5067c7a39eaa2934fb4ef7273d34d8e92fb790d2e07d0b51cee22b89bdd7b5cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/1\/13-16.1791945587765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "o kɔ"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "Melttsar"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ye ... ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka dumuni nin"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "u ka dumuni nin"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ani diwɛn"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "minnu bɛ u ka min"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a ye ... di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "jɛminɛw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:39:47.766850368Z",
+  "model": "glm-5.3"
+}

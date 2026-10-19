@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 23:21",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ɲagami",
+      "rationale": "יורש ka kɔrɔ tiɲɛna ye 'ka bɔ tigi bolo, ka yɔrɔ minɛ' — 'ka bɔ' fɔcogoya dɔrɔn de bɛ Bamanankan na"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sin bɛna kɔbiri-jɔgɔnw don",
+      "rationale": "Heburukan kɔrɔ: 'sinsinja bɛna mɔgɔ ɲɔgɔn kɔbirijɔgɔnw la' — sin dɔrɔn de filɛ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "סבא",
+      "rationale": "סבא fana bɛ se ka kɛ 'diwɛn-ninɛba' ye"
+    }
+  ],
+  "translation": "Sabu min bɛ da-minɛ ni min bɛ sogo dun ka bonya, u bɛna ɲagami; ani sin bɛna kɔbiri-jɔgɔnw don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e92b0a7b96c6ca27ad0ed2e7d7f28bd931ca0350ca145a23445f7edfddcbb74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/23\/21-24.1791942831896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "da-minɛ"
+    },
+    {
+      "surface": "וזולל",
+      "gloss": "sogo-dunba"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "bɛna ɲagami"
+    },
+    {
+      "surface": "וקרעים",
+      "gloss": "kɔbiri-jɔgɔnw"
+    },
+    {
+      "surface": "תלביש",
+      "gloss": "bɛna … don"
+    },
+    {
+      "surface": "נומה",
+      "gloss": "sin"
+    }
+  ],
+  "timestamp": "2026-10-14T01:53:51.896675286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "a don",
+      "rationale": "יומו 'his day' — the wicked man's day of doom, rendered 'a don' with the possessive kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɛ a la miɲɛ",
+      "rationale": "ישחק 'laugh at him' — Bambara takes the preposition 'la' for the object of laughter."
+    }
+  ],
+  "translation": "Adonay bɛ a la miɲɛ, sabu a y'a ye ko a don bɛna na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/13-16.1791940104719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "bɛ miɲɛ la"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "y'a ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bɛna na"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "a don"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:24.720305069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אחלי",
+      "rationale": "Heburukan 'אחלי' = 'n'i ye !' (would that) — denmusokɔrɔ fitinin ka ɲɛfɛ-kumalan, 'naw' ye a Bamanankan ka ni ye."
+    },
+    {
+      "kind": "alternative",
+      "subject": "יאסף",
+      "rationale": "'lakuru' (gather\/remove): 'a bɛna bana bɔ a la' ka nɔgɔya, nka Heburukan daɲɛ yɛrɛ ye 'ka a lakuru ka bɔ' ye."
+    }
+  ],
+  "translation": "A ko a musokɔrɔbɔ ma: naw, a ka bo a Matigi kɛ Shomron (Samari) nabi in ɲɛ, o waati nabi in bɛna ⟨את⟩ a lakuru ka bɔ a kuranku-bana na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a6a8d8d4ea4a9f3edbaec983a33844bc88ff8242752b0e5901fa3784aa65c7c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/5\/1-4.1791932723546.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ma"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "a musokɔrɔbɔ"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "naw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "a Matigi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o waati"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "bɛna … lakuru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a (Naaman)"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "a kuranku-bana"
+    }
+  ],
+  "timestamp": "2026-10-13T23:05:23.552493590Z",
+  "model": "glm-5.3"
+}

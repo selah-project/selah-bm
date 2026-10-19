@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משכיל",
+      "rationale": "'maskil' — dɔnni-dɔnkili walima gɔgɔya-dɔnni fɛ; sɛbɛnbagaw bɛ a kɛ 'ni dɔnni ye' walima 'sababu-dɔnkili' ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye ... ye",
+      "rationale": "Bamanankan masakɛ-jɔyɔrɔ bɛ 'ye ... ye' wajibiya, Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "aw",
+      "rationale": "dɔnkili-weleli bɛ tugu"
+    }
+  ],
+  "translation": "Sabu Elohim ye dugukolo bɛɛ masakɛ ye; aw ye dɔnkili kɛ ni maskil ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/47\/5-8.1791940254936.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "aw ye dɔnkili kɛ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ni maskil ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:54.937881920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 25:29",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וְשִׁנָּא",
+      "rationale": "Ketiv שנא 'he hated' vs Qere שינה 'he changed'; tradition reads 'changed (his garments)'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "לפניו 'before his face' needs a possessor in Bambara; Hebrew pronoun suffix rendered as ⟨a⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tuma bɛɛ",
+      "rationale": "תמיד 'continually' fixes a daily regular allowance, a rationing formula"
+    }
+  ],
+  "translation": "A yɛlɛma ⟨את⟩ kɛlɛso-bɛnw, a dunan buru tuma bɛɛ ⟨a⟩ ɲɛfɛ, a ka balo donw bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/25\/29-30.1791933289382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנא",
+      "gloss": "yɛlɛma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kɛlɛso-bɛnw"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bɛnw"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "kɛlɛso"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dunan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buru"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tuma bɛɛ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "donw"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "a ka balo"
+    }
+  ],
+  "timestamp": "2026-10-13T23:14:49.387568835Z",
+  "model": "glm-5.3"
+}

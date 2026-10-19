@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חובר חברים",
+      "rationale": "Root חבר twice — 'charmer of charms'; the sound-pair is lost in Bambara."
+    },
+    {
+      "kind": "crux",
+      "subject": "חובר חברים מחכם",
+      "rationale": "Renderings divide: 'the most skilful charmer' vs 'though one charms ever so wisely'; read here as the skilful caster of spells."
+    }
+  ],
+  "translation": "Min tɛ bɛnɲɛnibagaw ka kan mɛn, hali ni bolomafali dafalen dɔ ka kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/58\/5-8.1791940390802.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "… ka kan"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "bɛnɲɛnibagaw"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "bolomafali kebaga"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "bolomafali"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "dafalen"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:10.802926903Z",
+  "model": "glm-5.3"
+}

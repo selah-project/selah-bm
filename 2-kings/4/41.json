@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "2-kings 4:41",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yen",
+      "rationale": "Hebrew היה plus בְּלֹא has no explicit location word; Bambara needs ⟨yen⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fɛn bɛman",
+      "rationale": "דבר רע literally 'evil word\/thing'; rendered as plain 'bad thing'"
+    },
+    {
+      "kind": "you",
+      "subject": "Elisha to jamaa",
+      "rationale": "Imperatives צק ויאכלו address the people through servants"
+    }
+  ],
+  "translation": "A ko: “Kongoyiri na ni.” A ye ⟨a⟩ lasɔrɔ digi kɔnɔ, a ko: “Digi kunu di jamaa ma, ka bɛ u dumɛ.” Digi kɔnɔ, fɛn bɛman si ma ⟨yen⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "16b0c5072114224bff22c13dbdd384c7f3b488ac72cd1e5646f87dea477b7c4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/4\/41-44.1791932630221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "na ni"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "kongoyiri"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "a ye lasɔrɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "digi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "צק",
+      "gloss": "digi kunu di"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "jamaa ma"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ka bɛ u dumɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "si ma"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fɛn"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɛman"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "digi kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:03:50.225055628Z",
+  "model": "glm-5.3"
+}

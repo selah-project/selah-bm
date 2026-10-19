@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 13:12",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sariya \/ baara",
+      "rationale": "משפט 'verdict\/rule\/custom' and מעשהו 'his deed\/work' — KJV 'how shall we order the child', YLT 'custom of the youth and his work'; rendered as 'rule' and 'work'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɛna kɛ tiɲɛ",
+      "rationale": "יבא 'come' for words rendered 'come true'; Hebrew's word-arrives picture lost in Bamanankan"
+    },
+    {
+      "kind": "you",
+      "subject": "Manowi k'a fɔ ciden ye",
+      "rationale": "direct address to the messenger asking about the child's future"
+    }
+  ],
+  "translation": "Manowi ko: “Sisan, i kumaw bɛna kɛ tiɲɛ — den in ka sariya bɛna kɛ mun, ani a ka baara?”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "08e0d94062cf289052628fe6672f026ca2b32edc30e037e0b2ceb3b0065cf357",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/13\/9-12.1791929557442.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manowi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Sisan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bɛna kɛ tiɲɛ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "i kumaw"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "den in"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "a ka baara"
+    }
+  ],
+  "timestamp": "2026-10-13T22:12:37.447306667Z",
+  "model": "glm-5.3"
+}

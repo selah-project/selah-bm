@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kelegu",
+      "rationale": "חץ kɔrɔ ye fɛn min bɛ don (pierce) — 'kelegu' ka surun a la, kelen-kelen taamasiyɛn bɛreyalen don"
+    },
+    {
+      "kind": "substitution",
+      "subject": "retama",
+      "rationale": "רתמם (retama) — Spanish broom ji; a sɛbɛnna Heburu fɔcogo la sabu Bambara t'o daɲɛ ye"
+    }
+  ],
+  "translation": "Kelegu sɛgɛsɛgɛnw, gbankɛmi ta, ni retama-kɔnbɔnw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/120\/1-4.1791941715145.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "kelegu"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gbankɛmi"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "sɛgɛsɛgɛnw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "kɔnbɔnw"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "retama"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:15.146850724Z",
+  "model": "glm-5.3"
+}

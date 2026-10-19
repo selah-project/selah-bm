@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Hebrew yɛlɛma-ko-ma-lon-baara; don ka kan ye k'a jira"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ינום יישן",
+      "rationale": "saba-dilan sɛbɛnni 4:3–4 — 'a tɛ sin don' lamini kɔrɔ, telisen don Bamanankan na"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraɛlɛ",
+      "rationale": "kuma bɛ fɔ Yisraɛlɛ ye"
+    }
+  ],
+  "translation": "Ye! A tɛ sin don, a tɛ dun don — Yisraɛlɛ ka kɔlɔsibaga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/121\/1-4.1791941729880.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ye!"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ … don"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a tɛ"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "dun don"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "kɔlɔsibaga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛlɛ (Isiraili)"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:29.881431408Z",
+  "model": "glm-5.3"
+}

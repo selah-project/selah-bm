@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 14:14",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידח\/נדח",
+      "rationale": "same root nāḥash pushed-off: the outcast (niddāḥ) shall not be outcast (yiddāḥ) — verb echo lost in Bambara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is throat\/life-force, not separable 'soul'; glossed ni per discipline table."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישא",
+      "rationale": "nāśāʾ nepeš: 'take away a life' vs 'respect a person' (KJV) vs 'swear' — verb ambiguity famous here."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ji min bɛ dogo dugukolo kan",
+      "rationale": "poured-out-water idiom for irreversibility of death, kept literal."
+    }
+  ],
+  "translation": "Sabu an bɛna sa kɛrɛnkɛrɛnnenya; an bɛ i n'a fɔ ji min bɛ dogo dugukolo kan, min tɛ se ka laminɛ kokura. Ala tɛ ⟨ni⟩ ta k'a bɔ, nka a bɛ sira dilan walasa bɔli tɛ ka bɔ a nɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6c4cf7e72d24194c3c071cd7d3dcd2898a28002f697263e99c84eb8c1ac22e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/14\/13-16.1791931369748.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "an bɛna sa"
+    },
+    {
+      "surface": "וכמים",
+      "gloss": "i n'a fɔ ji"
+    },
+    {
+      "surface": "הנגרים",
+      "gloss": "min bɛ dogo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dugukolo kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "u tɛ se ka laminɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani … tɛ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "a bɛ … dilan"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "sira"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "walasa … ma"
+    },
+    {
+      "surface": "ידח",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "a nɔ na"
+    },
+    {
+      "surface": "נדח",
+      "gloss": "bɔli"
+    }
+  ],
+  "timestamp": "2026-10-13T22:42:49.759426408Z",
+  "model": "glm-5.3"
+}

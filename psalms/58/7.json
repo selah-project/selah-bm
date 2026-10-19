@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohim ni Yawe",
+      "rationale": "Direct imperative address to Elohim\/Yawe to break the wicked's teeth."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כפירים",
+      "rationale": "כפיר is a young lion (warabaden), rendered with the age-shape kept."
+    }
+  ],
+  "translation": "Elohim, aw u dangɔrɔw kɛtɛ u da kɔnɔ; Yawe, aw warabadenw ka danbaw fasa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/58\/5-8.1791940390802.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "aw … kɛtɛ"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "u dangɔrɔw"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "u da kɔnɔ"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "danbaw"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "warabadenw"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "aw … fasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:10.803066737Z",
+  "model": "glm-5.3"
+}

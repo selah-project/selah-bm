@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 35:16",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o don nin na",
+      "rationale": "Hebrew word order puts the verb first; the fronted 'on that day' reflects the natural Bambara order — words are all in the Hebrew."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העלות עלות",
+      "rationale": "'to make ascend ascensions' — verb and noun share the root עלה (go up), kept by the repetition bili \/ saraka-tasuma but the sound-echo is lost."
+    }
+  ],
+  "translation": "O don nin na, Yawe ka baara bɛɛ tun labɛrna ka ⟨את⟩ Paska kɛ ani ka saraka-tasumaw bili Yawe ka sarakabɔlan kan, masakɛ Yoshiyahu (Josia) ka laseli cogo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d5007b1e9c4799e437850f4b1c94b052fc51bc488ff37a0354e9e878492c834a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/35\/13-16.1791949915351.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכון",
+      "gloss": "tun labɛrna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "baara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don nin na"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ka … kɛ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paska"
+    },
+    {
+      "surface": "והעלות",
+      "gloss": "ani ka … bili"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "saraka-tasumaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "… kan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarakabɔlan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "ka laseli cogo la"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    }
+  ],
+  "timestamp": "2026-10-14T03:51:55.353024031Z",
+  "model": "glm-5.3"
+}

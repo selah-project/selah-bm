@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "faga",
+      "rationale": "ארצח ye mɔgɔfaga-kɛ daɲɛ ye (murder), 'faga' nɔgɔya a la"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "siraw",
+      "rationale": "רחבות kɔrɔ ye 'yɔrɔ hirow' ye, a tɛ sira-kelen ye; dakunatɔ ka lasɔmini jira yɔrɔ min bɛ jama bɛ"
+    }
+  ],
+  "translation": "Dakunatɔ ko: waraba bɛ kunbɛ; siraw cɛma, ne bɛna faga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "de8831d75770576f1e06bb16dbb363391bbe0c6b65e0b9c0fc3ef89848958bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/22\/13-16.1791942845877.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "dakunatɔ"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "waraba"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kunbɛ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "cɛma"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "siraw"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "ne bɛna faga"
+    }
+  ],
+  "timestamp": "2026-10-14T01:54:05.878480588Z",
+  "model": "glm-5.3"
+}

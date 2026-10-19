@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person singular command continuing the Shema address."
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperative",
+      "rationale": "Chain of imperatives (write\/bind\/teach) drawing the hearer into practice."
+    }
+  ],
+  "translation": "K'u sɛbɛn i ka so dabolo kan ani i ka daw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d7fb53a9cfb304c68e6e3cd85885b49b85e4abe1083bee400de1bdf009fbcba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/6\/9-12.1791927591826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "k'u sɛbɛn"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "dabolo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "i ka so"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ani i ka daw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:39:51.827620704Z",
+  "model": "glm-5.3"
+}

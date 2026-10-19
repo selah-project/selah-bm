@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 6:10",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew נשבע has no pronoun; Bamanankan needs ⟨a⟩ for 'he swore'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשבע\/שבעת",
+      "rationale": "he-swore (v10, from 'seven oneself') and you-were-satisfied (v11) share the שבע root; the oath-satisfaction echo is lost in Bamanankan"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "second-person singular address continues the Shema section"
+    }
+  ],
+  "translation": "K'o kɛra, ni Yawe i ka Elohim b'i na dugukolo kɔnɔ, min na ⟨a⟩ ye i ka faaw ma layidu fɔ — Awraham (Ibrahima), Yitsak (Isaki) ni Yakub (Yakuba) ma — walasa k'o di i ye: dugu kaba ni dugu ɲumanw, minnu ma i ye u da.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f14ceba19fdd2bd1a284211ec43e689ea635c139c456e4a324b3920b5bc7814f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/6\/10-11.1791950061760.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "k'o kɛra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יביאך",
+      "gloss": "b'i na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min na"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ye layidu fɔ"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "i ka faaw ma"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Awraham (Ibrahima) ma"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsak (Isaki) ma"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "Yakub (Yakuba) ma"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "walasa k'o di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "kaba"
+    },
+    {
+      "surface": "וטבת",
+      "gloss": "ɲuman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בנית",
+      "gloss": "i ma u da"
+    }
+  ],
+  "timestamp": "2026-10-14T03:54:21.761344253Z",
+  "model": "glm-5.3"
+}

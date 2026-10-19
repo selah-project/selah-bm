@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בין ... ובין",
+      "rationale": "Hebrew repeats 'between... and between'; Bambara uses the single bipartite frame 'ni ... cɛ'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "gloss": "Past marker 'tun' added for the stative verb היתה."
+    }
+  ],
+  "translation": "Kɛlɛ tun bɛ Asa (Asa) ni Bayasha (Bayasa), Isirayeli masakɛ, cɛ u donw bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "af75ddac257919acf2995c6294cf714d52f54733920620d819af96331caa0b64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/15\/29-32.1791932273079.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "kɛlɛ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tun bɛ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa (Asa)"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bayasha (Bayasa)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "u donw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:57:53.086890698Z",
+  "model": "glm-5.3"
+}

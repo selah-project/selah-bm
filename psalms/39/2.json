@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "da-kana",
+      "rationale": "מחסום literally 'muzzle' (as on an ox, Deut 25:4); rendered as 'mouth-cage', a compound."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשמרה…אשמרה",
+      "rationale": "Same verb 'guard' repeated for ways and mouth; repetition kept with 'mara' twice."
+    }
+  ],
+  "translation": "N ye kuma ko: n bɛna n siraw mara walasa n ma jurumu kɛ ni n kan ye; n bɛna n da mara ni da-kana ye, ni mɔgɔ jugu bɛ n ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/39\/1-4.1791940146134.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "n ye kuma ko"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "n bɛna mara"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "n siraw"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "jurumu kɛ"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ni n kan ye"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "n bɛna mara"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "n da"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "da-kana"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ni … bɛ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mɔgɔ jugu"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "n ɲɛfɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:06.134819775Z",
+  "model": "glm-5.3"
+}

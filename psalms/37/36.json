@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "i na",
+      "rationale": "והנה (i na!) ye Heburu ka daɲɛ ye min bɛ fɔ ni ɲɛda ye; Bamanankan «i na» bɛ o ɲɔgɔnfaamali di"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ma yen dɔɔni",
+      "rationale": "איננו ye «a si ye» ye — nonentity daɲɛ; Bamanankan kɔgɔji ye o fɔ cogo min na"
+    }
+  ],
+  "translation": "A taara, i na, o ma yen dɔɔni; ne y'o ɲini, nka o ma ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e35d96f0cad5c91005cc3d5dbf35260abc95dbea183174aa42c81731a35b560c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/33-36.1791940086365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "A taara (a yɛ taa)"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i na"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "o ma yen dɔɔni"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "ne y'o ɲini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka … ma"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "o ma ɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:06.366419187Z",
+  "model": "glm-5.3"
+}

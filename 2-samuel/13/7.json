@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 13:7",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הביתה",
+      "rationale": "'Homeward' — David sent to Tamar at the house; rendered simply 'to Tamar's house'."
+    },
+    {
+      "kind": "you",
+      "subject": "David to Tamar",
+      "rationale": "Royal message with direct imperative addressed to Tamar."
+    }
+  ],
+  "translation": "Dawid y'a ci Tamar so, ko: \"Taa a bɛɛ awili, na Amnon i balimakɛ so, ka dumuni dilan a ye.\"",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fb4c93937e4b8a4d70d78c0ec791d06b860830217b7d140a3d35306967a69abf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/13\/5-8.1791931191995.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ci"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ye"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "so"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "taa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "awili"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "i balimakɛ"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "ka dilan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "dumuni"
+    }
+  ],
+  "timestamp": "2026-10-13T22:39:51.998610371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "segikɔrɔbaga",
+      "rationale": "יָשׁוּבוּ: 'bɛna segin' (yɛrɛ yɛrɛ) ni 'bɛna a lamɛn' (causative) — KJV fɔlɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sheol",
+      "rationale": "Sheol toogu bɛ mara — jahanama walima tasuma tɛ"
+    }
+  ],
+  "translation": "Bagan-jurumatɔw bɛna segin Sheol ma; siyaw bɛɛ, minnu ye ElohimBL biantigɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/9\/17-20.1791939635451.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bɛna segin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bagan-jurumatɔw"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "Sheol ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "biantigɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:35.451745638Z",
+  "model": "glm-5.3"
+}

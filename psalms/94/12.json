@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ya",
+      "rationale": "יה ye Tɔgɔ suman dɔ ye (Yawe sumannen) — «Matigi» walima laada daɲɛ si tɛ bila Tɔgɔ nɔ na"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Kumasen in bɛ Yawe fɔ to (ka a minɛ cogo la kalanw la «lasigi» nɔ na)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תיסרנו \/ תלמדנו",
+      "rationale": "lasigi ni kalan bɛ taamasiyɛn kelen na (jarakow ni kalankow) — v10 ka יסר n'a tugu参见"
+    }
+  ],
+  "translation": "Niɲɛ don cɛ min i bɛ lasigi, i b'a kalan ni i ka Tora ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e44314235dd6f7e33bfd17834b872df97f0fc478f6b1ca676f0faca882961b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/94\/9-12.1791941058072.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "niɲɛ don"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "i bɛ lasigi a ye"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "ni i ka Tora ye"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "i b'a kalan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:18.074009733Z",
+  "model": "glm-5.3"
+}

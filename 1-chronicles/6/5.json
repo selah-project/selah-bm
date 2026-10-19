@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "ל prefix (of\/belonging to) rendered with Bambara possessive 'ta' with bracketless structure of JPS-style listing"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "name list — Levitical lineage of Gershom's branch"
+    }
+  ],
+  "translation": "Gereshom (Gershom) ta: Libni a denkɛ, Yachath a denkɛ, Zimmah a denkɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5658c6265166edcaf929a5ffad7d701dd9f00b30a1817adeab50313f39113b62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/6\/5-8.1791947600485.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "Gereshom (Gershom) ta"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachath"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Zimmah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:13:20.485705853Z",
+  "model": "glm-5.3"
+}

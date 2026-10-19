@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לקאת ni כוס",
+      "rationale": "Kɔnɔ ninu tɔgɔw ma tiɲɛ dɔn: לקאת ye 'ji-minɛ kɔnɔba' walima kɔnɔ wɛrɛ ye; כוס ye 'kɔnɔ finman' (tɔlɔbila) walima 'kɔkɔtariku' ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔnɔba \/ kɔnɔ finman",
+      "rationale": "Bamanankan tɛ kɔnɔ ninu tɔgɔw ɲɛfɔ kelen-kelen ye — kɔnɔw ka daɲɛw de b'a falen."
+    },
+    {
+      "kind": "mystery",
+      "subject": "yɔrɔ minnu kera dɔgɔyɔrɔ ye",
+      "rationale": "חרבות bɛ fɔ yɔrɔ minnu bɛnna — dugu minnu tora dɔgɔyaw ye."
+    }
+  ],
+  "translation": "N ɲɛsɔrɔra ⟨kɔnɔba⟩ ye min bɛ yɔrɔ min na moyo bɛ; n kera ⟨kɔnɔ finman⟩ ye yɔrɔ minnu kera dɔgɔyɔrɔ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/102\/5-8.1791941178343.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "n ɲɛsɔrɔra ⟨kɔnɔba⟩ ye"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "⟨kɔnɔba⟩ (min bɛ ji la minɛ)"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yɔrɔ min na moyo bɛ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "n kera"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "⟨kɔnɔ finman⟩ i n'a fɔ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "yɔrɔ minnu kera dɔgɔyɔrɔ ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:18.344693332Z",
+  "model": "glm-5.3"
+}

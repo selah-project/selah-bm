@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɛra",
+      "rationale": "ויהי ye 'a kɛra \/ a banna' kɔrɔ ye, a tɛ copula ye fɛn min bɛ Bamanankan na"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "gloss": null,
+      "rationale": "Bamanankan bɛ 'ka' de wajibiya denkɛ n'a fa cɛ",
+      "note": "Bamanankan ye 'ka' de wajibiya denkɛ ni a ba cɛ marc la"
+    }
+  ],
+  "translation": "Yawe ka kuma kɛra Yona (Amisay ka denkɛ) la, ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a98d519c2fa335203127eaaf28ec894ecebff3f3a5cd68fc4aa20334c5f721d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jonah\/1\/1-4.1791938747366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amisay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko:"
+    }
+  ],
+  "timestamp": "2026-10-14T00:45:47.367221091Z",
+  "model": "glm-5.3"
+}

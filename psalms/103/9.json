@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יטור",
+      "rationale": "littéralement « garder », appliqué à la colère : garder rancune — kuma-jabi wali jago-mara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לנצח \/ לעולם",
+      "rationale": "deux mots hébreux pour « toujours » (le but lointain \/ le temps caché) rendus par deux expressions bamanankan different"
+    }
+  ],
+  "translation": "A tɛ yaji kɛ tuma bɛɛ, wa a tɛ a jagoya mara waati jan na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/103\/9-12.1791941187163.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "tuma bɛɛ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "yaji kɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wa a tɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waati jan na"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "a jagoya mara"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:27.163796694Z",
+  "model": "glm-5.3"
+}

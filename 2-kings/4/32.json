@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a datugu la",
+      "rationale": "Bambara needs the locative phrase for משכב (lying) before the bed; the Hebrew participle order is reshuffled."
+    }
+  ],
+  "translation": "Elisha (Elise) nana so kɔnɔ; y'an ye: dɛnbali sa, a datugu la a bɛ kɔrɔgɔ a ka dare kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9e0985edefff9edffb4a7e8361c2fdbfead6d1a1306d7c74515005a1fca730e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/4\/29-32.1791932680860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "so kɔnɔ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "y'an ye"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dɛnbali"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "a bɛ kɔrɔgɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "a ka dare"
+    }
+  ],
+  "timestamp": "2026-10-13T23:04:40.874008075Z",
+  "model": "glm-5.3"
+}

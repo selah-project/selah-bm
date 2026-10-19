@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 31:31",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "תנו \/ ויהללוה",
+      "rationale": "Plural imperatives summon the community to give and praise — the poem's closing call."
+    },
+    {
+      "kind": "addition",
+      "subject": "a baaraw de bɛ a fɔ",
+      "rationale": "Hebrew ויהללוה is 'let them praise her' with מעשיה as subject; rendering splits the verb across two clauses, adding a second 'her works'."
+    }
+  ],
+  "translation": "Aw ka a min a bolow ka jiriden na, aw ka a baaraw fɔ duguw da la — a baaraw de bɛ a fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "07edb7f87577324bea021f95e54fa2a37428de599886e4ee14f692a189de3177",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/31\/29-31.1791943130503.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "aw ka a min"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ka jiriden na"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "a bolow"
+    },
+    {
+      "surface": "ויהללוה",
+      "gloss": "aw ka a fɔ"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "duguw da la"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "a baaraw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:58:50.504751307Z",
+  "model": "glm-5.3"
+}

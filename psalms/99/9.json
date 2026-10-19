@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a ye⟩",
+      "rationale": "Bamanankan needs the copula ye for the predicate 'senuma'; Hebrew omits a verb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדשו\/קדוש",
+      "rationale": "root קדש repeated twice — 'his holy (mountain)' and 'holy (is Yawe)' — the echo frames the verse"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "two plural imperatives (רוממו, השתחוו) summon the congregation to exalt and bow down"
+    }
+  ],
+  "translation": "Aw ka Yawe, an ka Elohim, sanfɛbila, aw ka bɔ a kuntilanna la a kulukɔnɔ senuma kan, sabu Yawe an ka Elohim ye ⟨a ye⟩ senuma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8dda68d17645219ad927aa35bcd62768128258e2e667d0d4787e74b6284eaca3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/99\/9-9.1791941148062.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "sanfɛbila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "aw ka bɔ a kuntilanna la"
+    },
+    {
+      "surface": "להר",
+      "gloss": "a kulukɔnɔ kan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:48.063368382Z",
+  "model": "glm-5.3"
+}

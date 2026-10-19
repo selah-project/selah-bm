@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 24:7",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lobona",
+      "rationale": "לבונה kɔrɔ ko 'yeelen-bonso' (frankincense); 'lobona' ye nɔgɔya daɲɛ ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "alɛjɛkalan",
+      "rationale": "לאזכרה: 'alɛjɛkalan' (remembrance) walima 'dilen-fɛn' (portion given, jps 'memorial-part')"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan ka wajibi daɲɛ min Heburukan t'a la"
+    }
+  ],
+  "translation": "I bɛna lobona jɛnjɛn don minɛnkɛw kan, ka kɛ buru ye alɛjɛkalan ye, saraka-tasuma Yawe ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "66b9021a978b82b28b39c7df6b4a9233c302beb687fe437a3626edae49e097af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/24\/7-8.1791950025487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "i bɛna don"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "minɛnkɛw"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "lobona"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "jɛnjɛn"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ka kɛ … ye"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "buru"
+    },
+    {
+      "surface": "לאזכרה",
+      "gloss": "alɛjɛkalan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "saraka-tasuma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ye"
+    }
+  ],
+  "timestamp": "2026-10-14T03:53:45.487908046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sɛgɛsɛgɛli",
+      "rationale": "אף literally 'nose\/nostrils', idiom for anger; rendered as wrath"
+    },
+    {
+      "kind": "crux",
+      "subject": "שמי יהוה",
+      "rationale": "'heavens of YHWH' (KJV\/ASV) vs 'Your heavens' (BSB) vs simply 'the heavens' (Geneva); construct kept here"
+    }
+  ],
+  "translation": "I bɛ u tiɲɛ ni sɛgɛsɛgɛli ye, k'i b'a yɔrɔ ka bɔ Yawe ka sankolow jukɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ad5bfc20e7a4d870667b74c5019fed38db0c420434448a4ab9dd901fac76dde5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/65-66.1791944812363.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "i bɛ u tiɲɛ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ni sɛgɛsɛgɛli ye"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "k'i b'a yɔrɔ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "jukɔrɔ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T02:26:52.367027613Z",
+  "model": "glm-5.3"
+}

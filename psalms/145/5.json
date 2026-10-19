@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Bamanankan bɛ nɔnabila dajɛ construct-chain (הדר כבוד הודך) kɔnɔ"
+    },
+    {
+      "kind": "crux",
+      "subject": "miiri kuma",
+      "rationale": "אשיחה kɔrɔ bɛ daminɛ 'miiri yɛrɛ kɔnɔ' fo 'kuma jɛlen na': 'meditate' (KJV\/ASV) walima 'rehearse' (JPS)"
+    }
+  ],
+  "translation": "I kunbaya ka sumaya ɲɛnama, ani i ka fɛn doni-doni kumaw — ne bɛ u miiri kuma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/145\/5-8.1791941999309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "ɲɛnama"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sumaya"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "i kunbaya"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ani i ka kumaw"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "i ka fɛn doni-doni"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ne bɛ … miiri kuma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:39:59.310179540Z",
+  "model": "glm-5.3"
+}

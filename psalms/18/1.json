@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tɔgɔ ye",
+      "rationale": "Hebrew superscription has no verb; Bambara needs a framing copula"
+    },
+    {
+      "kind": "you",
+      "subject": "to the ɲɛmɔgɔ",
+      "rationale": "superscription addresses the director of the temple music"
+    }
+  ],
+  "translation": "ɲɛmɔgɔ ma, Yawe ka dɛnbaga Dawid (Dawuda) tɔgɔ ye, min ye Yawe fɔ ⟨את⟩ nin donkili kumaw la, don min na Yawe y'a bɔ ⟨את⟩ a datugulenw bɛɛ balo na, ani Shaul (Sawulu) bolo na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/1-4.1791939773521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ɲɛmɔgɔ ma"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "dɛnbaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nin donkili kumaw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "donkili"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don min na"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "y'a bɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "a"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "balo na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "datugulenw"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ani ... bolo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:53.522062315Z",
+  "model": "glm-5.3"
+}

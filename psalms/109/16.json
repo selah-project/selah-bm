@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "hesed",
+      "rationale": "חסד kept in Hebrew per discipline; the bracketed gloss kanuya-kɛli is supplied at first mention only"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dusukun tiŋɛnnen",
+      "rationale": "נכאה לבב is 'smitten of heart' — a passive participle of being struck; 'tiŋɛnnen' (broken) renders the picture"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר",
+      "rationale": "the accursed man 'did not remember' (זכר) to do hesed — while v14 asks that his fathers' iniquity be remembered (יזכר); the root threads the imprecation"
+    }
+  ],
+  "translation": "Sabu a ma lesara hesed (kanuya-kɛli) kɛ, nka a ye mɔgɔ dɛnbali ni mankanta kɔ, ani dusukun tiŋɛnnen, ka u sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/109\/13-16.1791941460683.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lesara"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "nka a yɛ kɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dɛnbali"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ani mankanta"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "ani tiŋɛnnen"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "ka sa"
+    }
+  ],
+  "timestamp": "2026-10-14T01:31:00.684355108Z",
+  "model": "glm-5.3"
+}

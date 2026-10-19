@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ורעו",
+      "rationale": "רעה 'pasture\/tend' picks up 'he shall feed' (5:4) — the shepherd-ruler shepherds Assyria with a sword; the pun is lost if rendered 'waste' (KJV)."
+    },
+    {
+      "kind": "crux",
+      "subject": "verse division",
+      "rationale": "KJV reads this verse as 'he shall be the peace… seven shepherds' (following a different Hebrew division); JPS reads 'they shall pasture the land of Assyria' — the tokens support the JPS line."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mara",
+      "rationale": "Bambara 'mara' covers both 'tend a flock' and 'guard\/rule', which keeps the shepherd-ruler double sense of רעה."
+    }
+  ],
+  "translation": "Ani u bɛ ⟨את⟩ Ashur (Assiri) dugukolo mara ni npan ye, ani ⟨את⟩ Nimrod dugukolo a da la; a bɛ an bɔ Ashur bolo, ni a na an ka dugukolo kɔnɔ, ani ni a bɛ taasi an ka dannu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8a0405cdaac9d4f8b11d0576239c7ade151d71a4101da006986a61128feb32a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/5\/5-8.1791938922451.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur dugukolo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "npan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod dugukolo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "a da la"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "bɛ an bɔ"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ashur bolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "an ka dugukolo kɔnɔ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ani ni"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "bɛ taasi"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "an ka dannu la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:48:42.452461546Z",
+  "model": "glm-5.3"
+}

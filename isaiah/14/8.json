@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שכבת",
+      "rationale": "'you lie down' = the tyrant dead; rendered 'i sigilen don sa la' (you are laid in death)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברושׁ",
+      "rationale": "tree identification uncertain — cypress, juniper, or fir; transliterated 'beroshi' rather than guessing"
+    },
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "quotation particle supplied for the trees' speech, which Hebrew introduces without a marker"
+    }
+  ],
+  "translation": "Beroshi-jiriw (siperi-jiri) nana i ye dyoli, Lubanan (Liban) kɛdɛru-jiriw fana, ko: bii i sigilen don sa la, jiri-furubaga si tɛ na an kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/14\/5-8.1791933693346.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "בְּרוֹשִׁים",
+      "gloss": "Beroshi-jiriw"
+    },
+    {
+      "surface": "שָׂמְחוּ",
+      "gloss": "nana ... ye dyoli"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "i"
+    },
+    {
+      "surface": "אַרְזֵי",
+      "gloss": "kɛdɛru-jiriw"
+    },
+    {
+      "surface": "לְבָנוֹן",
+      "gloss": "Lubanan"
+    },
+    {
+      "surface": "מֵאָז",
+      "gloss": "bii"
+    },
+    {
+      "surface": "שָׁכַבְתָּ",
+      "gloss": "i sigilen don"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "יַעֲלֶה",
+      "gloss": "na"
+    },
+    {
+      "surface": "הַכֹּרֵת",
+      "gloss": "jiri-furubaga"
+    },
+    {
+      "surface": "עָלֵינוּ",
+      "gloss": "an kan"
+    }
+  ],
+  "timestamp": "2026-10-13T23:21:33.350662729Z",
+  "model": "glm-5.3"
+}

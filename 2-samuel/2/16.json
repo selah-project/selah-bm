@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 2:16",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חלקת הצרים",
+      "rationale": "place-name 'field of the adversaries\/flints' occurs only here; kept as Helkat-Hasurim with bracketed gloss"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרים",
+      "rationale": "double sense — 'adversaries' and 'flints' — each man fell before his adversary; gloss keeps both"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨npan-ɲɛnamaw foro⟩",
+      "rationale": "supplied gloss of the opaque place-name for the Bambara reader"
+    }
+  ],
+  "translation": "Mɔgɔ kelen-kelen y'a kɛnɛ kun minɛ, ka a npan don a kɛnɛ lanwɔrɔ la; u bɛɛ bɛɲɛra kelen kɔrɔ. O yɔrɔ tɔgɔ ko Helkat-Hasurim ⟨npan-ɲɛnamaw foro⟩, min bɛ Givɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6c4ce391b96eae1ddd097e6d694ce540c563fad2f563e4eb1faf42e9fad40ac6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/2\/13-16.1791930863587.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזקו",
+      "gloss": "y'a … minɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen-kelen"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a kɛnɛ"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "a npan"
+    },
+    {
+      "surface": "בצד",
+      "gloss": "lanwɔrɔ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a kɛnɛ"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "bɛɲɛra"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kelen kɔrɔ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "tɔgɔ ko"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "yɔrɔ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Helkat"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "Hasurim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Givɔn"
+    }
+  ],
+  "timestamp": "2026-10-13T22:34:23.590275146Z",
+  "model": "glm-5.3"
+}

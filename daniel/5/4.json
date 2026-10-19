@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "alaw",
+      "rationale": "אלהי 'gods' — rendered with the sanctioned batofɛnw\/alaw term for objects of worship, not Tɔgɔ Elohim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "materials list",
+      "rationale": "six materials descending from precious to worthless (gold–silver–bronze–iron–wood–stone), the catalogue of idols set against the living God"
+    }
+  ],
+  "translation": "U yɛ diwɛn min, u ye sanu ni warigwɛ alaw, kupa, nɛgɛ, jiri ni kabakurun alaw sanga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0748b5f09da5ef67d67c82e650623ccc2f45c5c85e609034e46535625deb7528",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/5\/1-4.1791945914683.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "yɛ … min"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "diwɛn"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "u ye … sanga"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "alaw"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "nɛgɛ"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "kabakurun"
+    }
+  ],
+  "timestamp": "2026-10-14T02:45:14.684607877Z",
+  "model": "glm-5.3"
+}

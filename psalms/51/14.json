@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "fiɲɛ nimoya",
+      "rationale": "רוח נדיבה: 'willing\/generous spirit' (ASV\/JPS\/BSB) vs KJV 'thy free spirit' — no suffix in Hebrew; 'your' is supplied."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השיבה",
+      "rationale": "Root שוב here ('restore') echoes ישובו in v15 ('they will return') — the restored one becomes the means of others' return; lost in Bambara."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Continued direct petition to Yawe from the psalm's confession."
+    }
+  ],
+  "translation": "Segin n ma ⟨nin⟩ yɛlɛyeli min bɛ i ka balo kɔnɔ, ani fiɲɛ nimoya tɛna n falen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6f34abb6685ec7be3204cf3aacaf094bb3522eb44a278dfd18b15b1e3c437754",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/51\/14-15.1791951269760.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "segin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n ma"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "yɛlɛyeli"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "i ka balo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ani fiɲɛ"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "nimoya"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "tɛna n falen"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:29.760886137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עזך \/ עוזה",
+      "rationale": "עז (se) ni עוזה (se kɛ) — kuma fila minnu bɛ ɲɔgɔn lamini, Bamanankan na a tora la kalansen fan fɛ"
+    },
+    {
+      "kind": "crux",
+      "subject": "עוזה",
+      "rationale": "Kɛlɛ-bɛɛ: laseli ('laseli: se kɛ, Elohim') walima ka kuma-ko kɔrɔko ('Elohim ye se tila') — KJV ni JPS bɛ fɔ ko laseli, YLT ka fɔ ko ka kuma kɔrɔko"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Bamanankan ka kan ka nɔnabila di 'fɛn min' ma, Heburukan ma min fɔ"
+    }
+  ],
+  "translation": "I ka Elohim ye i ka se laseli; se kɛ ⟨a⟩ ka gɛlɛn, Elohim, fɛn min i ye ⟨a⟩ kɛ an ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/68\/29-32.1791940637653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "laseli kɛ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "i ka se"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "se kɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זו",
+      "gloss": "fɛn min"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "i ye … kɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:17.654195498Z",
+  "model": "glm-5.3"
+}

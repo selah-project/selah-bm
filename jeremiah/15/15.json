@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 15:15",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nin⟩",
+      "rationale": "Hebrew ידעת transitive 'you know' lacks an object; Bambara needs one supplied"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sunɔgɔ janneya",
+      "rationale": "'length of your nose\/anger' — Hebrew idiom for long-lasting anger; rendered 'length of your anger'"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Jeremiah's direct lament addressed to Yawe by Name"
+    }
+  ],
+  "translation": "I de, Yawe, i dɔn ⟨nin⟩; n lanu, n lajɛ, k'a kɛ ne bɔ ne marsabaliw fɛ; i ka sunɔgɔ janneya na, kana ne ta. Dɔn ko ne bɛ ɲiya minɛ i n'a fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bf44da90949b574866251e893d608753e57f1e78ad6bf3b7fe2cdcb921691d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/15\/13-16.1791935338222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "I de"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זכרני",
+      "gloss": "n lanu"
+    },
+    {
+      "surface": "ופקדני",
+      "gloss": "n lajɛ"
+    },
+    {
+      "surface": "והנקם",
+      "gloss": "na ne bɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "ne marsabaliw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "janneya na"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "i ka sunɔgɔ"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "ne ta"
+    },
+    {
+      "surface": "דע",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "ne bɛ ɲiya minɛ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ɲiya"
+    }
+  ],
+  "timestamp": "2026-10-13T23:48:58.223450233Z",
+  "model": "glm-5.3"
+}

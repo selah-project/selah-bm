@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובידו מלא",
+      "rationale": "'With his hand he fulfilled' — object supplied from context; Bambara uses 'a' (it) as KJV's 'it'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברוך",
+      "rationale": "Passive participle 'blessed be'; rendered by doubling 'duba-ka-duba' to carry the liturgical weight."
+    },
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "לאמר doubled: once as 'kunbɛn' clause opener, once as final 'ko' introducing quoted speech in v.16."
+    }
+  ],
+  "translation": "A ko: duba-ka-duba Yawe, Israel ka Elohim, min ye a nɛ fɛ fɔ ⟨את⟩ Dawid (Dawuda) ne fa ma, a bolo ye a kunbɛn, ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/13-16.1791931977114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "duba-ka-duba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "… ka Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ye … fɔ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "a nɛ fɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid ne fa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ne fa"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "a bolo ye"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kunbɛn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-13T22:52:57.121110671Z",
+  "model": "glm-5.3"
+}

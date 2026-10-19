@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fɔlisun",
+      "rationale": "זכר is 'memorial\/remembrance' — a concrete monument-word, rendered as reminder"
+    }
+  ],
+  "translation": "A ye a ka fɛn ɲagamibaw kɛ fɔlisun ye; Yawe ye dɛrɛma ni mɛerɛtigi ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/111\/1-4.1791941451005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "fɔlisun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "A ye … kɛ … ye"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "a ka fɛn ɲagamibaw"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "dɛrɛma"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "mɛerɛtigi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:51.007104878Z",
+  "model": "glm-5.3"
+}

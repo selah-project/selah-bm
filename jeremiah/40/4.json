@@ -1,0 +1,206 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 40:4",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "טוב\/רע בעיניך",
+      "rationale": "Hebrew 'good\/evil in your eyes' rendered as 'a ka ɲi \/ bɔni i ɲɛ na' — the eye-idiom kept literally."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אשים את עיני עליך",
+      "rationale": "'I will set my eye upon you' — idiom of care\/favor, kept literal in Bambara."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yirmeyahu",
+      "rationale": "Nevuzaradan the captain of the guard addresses Yirmeyahu directly, offering free choice."
+    },
+    {
+      "kind": "invitation",
+      "subject": "לך",
+      "rationale": "Repeated imperatives (come, forbear, see, go) summon the addressee to choose freely."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔrɔyɔrɔ",
+      "rationale": "שמה 'thither' rendered with 'kɔrɔyɔrɔ' (that place there); Bambara lacks a single thither-word."
+    }
+  ],
+  "translation": "Min na, an bɛ ye: ne ye bii tunu fo ka bɔ siranw na minnu b'i bolo la. Ni a ka ɲi i ɲɛ na ka na ⟨את⟩ ni ne ye Babel (Babilɔn) la, na, wa ne bɛna ⟨את⟩ n'ɲɛ bila i kan. Nka ni a ka bɔni i ɲɛ na ka na ⟨את⟩ ni ne ye Babel la, i k'a to. I yɛrɛ ye: dugukolo bɛɛ b'i ɲɛfɛ; yɔrɔ min ka ɲi ani min ka jɔ i ɲɛ na ka taa a kɔrɔyɔrɔ, taa o kɔrɔyɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f064af9efa9eb901d7e9b4117feb708511201c32adca99ad90ea876275a63c5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/40\/4-4.1791950890896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Min na"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "an bɛ ye"
+    },
+    {
+      "surface": "פתחתיך",
+      "gloss": "ne ye i tunu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "האזקים",
+      "gloss": "siranw na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "על",
+      "gloss": "b'i bolo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "a ka ɲi"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i ɲɛ na"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ka na"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ni ne ye"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel la"
+    },
+    {
+      "surface": "בא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "wa ne bɛna … bila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'ɲɛ (n ka ɲɛ)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "n'ɲɛ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "i kan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Nka ni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "a ka bɔni"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i ɲɛ na"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ka na"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ni ne ye"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel la"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "i k'a to"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "I yɛrɛ ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "b'i ɲɛfɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yɔrɔ min ka ɲi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɲi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani min ka jɔ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ka jɔ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i ɲɛ na"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "o kɔrɔyɔrɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taa"
+    }
+  ],
+  "timestamp": "2026-10-14T04:08:10.897490440Z",
+  "model": "glm-5.3"
+}

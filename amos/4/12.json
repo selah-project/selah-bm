@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 4:12",
+  "book": "amos",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "lit. 'heel' → 'because\/at last': YLT 'at last', KJV 'and because', JPS drops it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עקב",
+      "rationale": "noun 'heel' used adverbially as 'because'; bodily picture lost in Bambara sabu"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "vocative particle added before Isirayel; Hebrew has bare vocative"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "direct address to Israel, twice, closing the indictment"
+    },
+    {
+      "kind": "invitation",
+      "subject": "i labɛn",
+      "rationale": "imperative 'prepare yourself' summons hearer to meet Elohim"
+    }
+  ],
+  "translation": "O de sabu, nin de ne bɛna kɛ i ye, ⟨a⟩ Isirayel; sabu ni ne bɛ nin kɛ i ye, i labɛn ka na i Elohim la, ⟨a⟩ Isirayel.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "55e830a9a6d43b7d92dd757bb401ad9620597de234fea27216284540ff2e5e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/amos\/4\/12-12.1791950975636.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "o de sabu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nin de cogo la"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ne bɛna kɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayel"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ne bɛ kɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "הכון",
+      "gloss": "i labɛn"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ka na … la"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayel"
+    }
+  ],
+  "timestamp": "2026-10-14T04:09:35.637118358Z",
+  "model": "glm-5.3"
+}

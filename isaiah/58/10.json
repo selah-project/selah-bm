@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is life-force\/appetite, not 'soul'; rendered ni per vocabulary table"
+    },
+    {
+      "kind": "addition",
+      "subject": "i n'a fɔ",
+      "rationale": "Bambara simile needs i n'a fɔ ('like') twice where Hebrew uses prefixes only"
+    }
+  ],
+  "translation": "Ni i y'i ni digu kɔngɔmɛbaga ma, i na mugusobaga ni saba, i na yeelen na dibi kɔnɔ wuliku, i dibi na kɛ tile-cɛma i n'a fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "373d75e201c2c3def20911f6ad3da03ccf38db04ebb0fa32563814436fe4d6bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/58\/9-12.1791934764034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "i y'i ni digu"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "kɔngɔmɛbaga ma"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "i ni"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "kalilan ni"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "mugusobaga"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "i na saba"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "wuliku"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dibi kɔnɔ"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "i yeelen"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "i dibi"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "tile-cɛma i n'a fɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:39:24.036348180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i yɛrɛ⟩",
+      "rationale": "Reflexive pronoun supplied: Hebrew תתעלם 'hide yourself' carries it in the verb stem."
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Direct petition addressed to Elohim."
+    },
+    {
+      "kind": "invitation",
+      "subject": "prayer",
+      "rationale": "The verse opens with imperatives summoning God to hear."
+    }
+  ],
+  "translation": "Tulo di n ka juliya ma, Elohim, i kana dogi ⟨i yɛrɛ⟩ n ka ɲɛmisili kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/55\/1-4.1791940380203.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "tulo di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "n ka juliya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i kana"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "dogi"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "n ka ɲɛmisili"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:00.204448241Z",
+  "model": "glm-5.3"
+}

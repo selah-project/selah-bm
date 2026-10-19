@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשר תעשר",
+      "rationale": "infinitive absolute doubling: 'tithe you-shall-tithe'; rendered by repeating dasa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dasa",
+      "rationale": "tithe is literally a tenth (tanman) — a counting ordinance"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנה שנה",
+      "rationale": "repeated 'year year' = year by year; kept as 'san o san'"
+    }
+  ],
+  "translation": "Dasa, aw bɛ dasa ⟨את⟩ bɛɛ — aw ka kisɛ ni min bɛ bɔ foro la, san o san.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9f5fa4d4e7042bf1b5b4f102bb65fea618a0615844d291d29dc1b99a1929c48d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/14\/21-24.1791927868750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "dasa"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "aw bɛ dasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɛɛ (aw ka kisɛ bɛɛ)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ni (pwodwi)"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "aw ka kisɛ"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "min bɛ bɔ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "foro la"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "o san"
+    }
+  ],
+  "timestamp": "2026-10-13T21:44:28.760958124Z",
+  "model": "glm-5.3"
+}

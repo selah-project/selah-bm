@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "scales, ephah, bath",
+      "rationale": "Verse fixes standard measures: weighing scales, dry measure, liquid measure, each 'just'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדק ×3",
+      "rationale": "'Just, just, just' — threefold repetition of the same word, one per measure; kept by repeating tiɲɛ."
+    }
+  ],
+  "translation": "Jate-kabaw tiɲɛ, efa tiɲɛ, bat tiɲɛ — o ka kɛ aw ta ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "03ac006ed8195ed750984cd3e44b61199d42dc8a1a88cc70cc8d021dc40f9dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/45\/9-12.1791937943667.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "jate-kabaw"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "efa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "bat"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ta ye"
+    }
+  ],
+  "timestamp": "2026-10-14T00:32:23.668792132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אִתְּכֶם",
+      "rationale": "here preposition 'with you' (H854), not the direct-object marker (H853) — same letters, different word"
+    },
+    {
+      "kind": "you",
+      "subject": "Mowab masakɛ",
+      "rationale": "David directly addresses the king of Moab with a request"
+    },
+    {
+      "kind": "crux",
+      "subject": "לי",
+      "rationale": "'what God will do FOR me' vs 'TO me' — עשה ל can carry either"
+    }
+  ],
+  "translation": "Dawid taara yen taa Mitspe (Masefa), Mowab (Mɔabu) yɔrɔ; a ko Mowab masakɛ ma: n b'i dimi, i k'an bila, n fa ni n ba ⟨את⟩ ni aw ye, fo ne bɛna dɔn Elohim bɛna n min kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/22\/1-4.1791930650178.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "taara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "Mitspe (Masefa)"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowab (Mɔabu)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowab"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ka na"
+    },
+    {
+      "surface": "נא",
+      "gloss": "n b'i dimi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "n fa"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "n ba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ni aw ye",
+      "marks": "aw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne bɛna"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "מה",
+      "gloss": "min"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-13T22:30:50.181165804Z",
+  "model": "glm-5.3"
+}

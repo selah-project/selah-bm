@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שתתיה",
+      "rationale": "'Her foundations\/pillars' (ASV, JPS) vs 'its pools\/sluices' (KJV, Geneva); the lemma favors support-pillars."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אגמי",
+      "rationale": "Rare word read as 'sad, grieving' (from pond\/reed pool, אגם); literal picture uncertain."
+    }
+  ],
+  "translation": "A ka sigidaw bɛ tigɛ; sɔrɔdugaw bɛ nn-ya — ⟨a ka⟩ dusukun bɛ dunuya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "47530c4199bac5d775d2edccd5e9f5423491bf0c0560d1f4ff40a38fb5399c91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/19\/9-12.1791933745059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "bɛ kɛ"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "a ka sigidaw"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "bɛ tigɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sɔrɔdugaw"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "baarakɛlaw"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sɔrɔli"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "bɛ nn-ya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dusukun"
+    }
+  ],
+  "timestamp": "2026-10-13T23:22:25.065982946Z",
+  "model": "glm-5.3"
+}

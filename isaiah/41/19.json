@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "shitta, beroshi, tidahar, taashuur",
+      "rationale": "tree species unknown to Bambara botany kept as transliterated Hebrew names rather than guessed"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sanu-tulu jiri",
+      "rationale": "עץ שמן 'tree of oil' rendered 'oil-tree' (olive); lit. 'oil' kept"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "seven trees",
+      "rationale": "a full count of seven tree species echoing the water-of-life chain of v18"
+    }
+  ],
+  "translation": "Ne bɛna jiriw bilа dɛsɛ la: sedere, shitta, hadad-jiri ani sanu-tulu jiri; ne bɛna a bilа Araba dugukolo la: beroshi, tidahar ani taashuur-jiri, u bɛɛ ni ɲɔgɔn ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e9267529bbd15d38ffd36d17614ba395fa857cec3cddcd1349fa607d2db202ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/41\/17-20.1791934339950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "bɛna bilа"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dɛsɛ la"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedere"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "shitta"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "ani hadad-jiri"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ani … jiri"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "sanu-tulu"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "bɛna a bilа"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "Araba dugukolo la"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "beroshi"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "tidahar"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "ani taashuur-jiri"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "u bɛɛ ni ɲɔgɔn ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:19.953418634Z",
+  "model": "glm-5.3"
+}

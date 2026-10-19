@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 34:13",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gorola",
+      "rationale": "בגורל ye kabakurun dɔw ye minnu bɛ kɛ ka mɔgɔw lajɛ, nka bamanankan na 'gorola' (dɔgɔkunw ka filigoli) b'a cogoya jira"
+    },
+    {
+      "kind": "addition",
+      "subject": "kilen dɔgɔn",
+      "rationale": "Bamanankan tɛ 'matɔ dɔgɔn' fɔ cogo kelen na; 'kilen dɔgɔn' farala a kan ka חצי ka kɔrɔ jira"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Yisrayɛlidenw de bɛ wele yan, Moshe ka kuma u ma"
+    }
+  ],
+  "translation": "Moshe y'a da ⟨את⟩ Yisrayɛlidenw kan ko: nin ye dugukolo ye min bɛ aw na ⟨את⟩ gorola la, min Yawe y'a da k'a di matɔn segin-na ani matɔ kilen dɔgɔn ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "830569e4aaacb35d5c969e1e19d1a6c3976e2862d8517dea517f7381f7e05a07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/34\/13-16.1791927367077.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "y'a da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayɛlidenw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛla"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "תתנחלו",
+      "gloss": "bɛ aw na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "gorola"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "gorola la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "y'a da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "k'a di"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "matɔn segin-na"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "matɔn"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ani kilen dɔgɔn"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "matɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:36:07.078023737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Bamanankan bɛ taabolo-daɲɛ 'ka' wajibiya 'sɛbɛnni-kumadon' nɔ na, Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "למנצח",
+      "rationale": "'min bɛ ɲɛmɛnɛ' — Heburukan kɔrɔ ye 'min bɛ jiyan ka bɔ yɔrɔ jan na' (dilibaga, kaŋkɔbaŋɛtigi)"
+    }
+  ],
+  "translation": "Fɛn min bɛ tɔgɔkɔrɔkɔli ɲɛmɛnɛ, Dawuda (Dawid) ka sɛbɛnni-kumadon.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/21\/1-4.1791939799133.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "min bɛ ɲɛmɛnɛ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sɛbɛnni-kumadon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuda (Dawid) ta"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:19.134414922Z",
+  "model": "glm-5.3"
+}

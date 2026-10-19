@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 21:16",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nakɔdɔ",
+      "rationale": "כרם ye nakɔdɔ ye (nakɔ min na jiriw bilalen don), a tɛ 'foro' ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "Bamanankan tɛ 'kɛra' kuma daɲɛ dɔw sɔrɔ; 'tɔɔmɛn na' ye a kɔrɔ jira"
+    },
+    {
+      "kind": "addition",
+      "subject": "a yɛrɛ",
+      "rationale": "Heburukan bɛ nɔnabila si sɛbɛn 'ויקם' kɔnɔ; Bamanankan ka a mɔn"
+    }
+  ],
+  "translation": "Ahab (Ahabu) ni Nabot (Nabotu) sa tɔɔmɛn na, Ahab ye a yɛrɛ jɔ ka bole ka taa Nabot (Nabotu) ka Yizreɛliden (Yizireligɛ) nakɔdɔ la, walasa ka minɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ba496e28ee11a106bdcf25c8aff71893d6b047fa92138dc72f0e2180114cc426",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/21\/16-16.1791950503563.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tɔɔmɛn na"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ni … mɛn"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab (Ahabu)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot (Nabotu)"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ye a yɛrɛ jɔ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ka bole"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kaa … la"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "nakɔdɔ"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "Yizreɛliden (Yizireligɛ)"
+    },
+    {
+      "surface": "לרשתו",
+      "gloss": "walasa ka minɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:01:43.564331702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dasiri",
+      "rationale": "פתאם (suddenly) rendered dasiri; the surprise-attack nuance of the night march is kept."
+    },
+    {
+      "kind": "alternative",
+      "subject": "su bɛɛ a tunnula",
+      "rationale": "Hebrew puts 'all the night' first for emphasis; Bambara word order places it after the verb."
+    }
+  ],
+  "translation": "Yehoshua nana u la dasiri; su bɛɛ a tunnula Giligala (Giligala) fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c741e3fc4a09238b1d666fe19129aa6ca4422efa9a885629d9a0c5800d9f4c85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/10\/9-12.1791928730883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "u la"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "dasiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "su"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tunnula"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tila"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Giligala"
+    }
+  ],
+  "timestamp": "2026-10-13T21:58:50.884746016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מעל",
+      "rationale": "'ka bɔ Shawul gbɛ' — kɔfɛ-daɲɛ 'fɛ' de talan a ma Bamanankan na"
+    },
+    {
+      "kind": "addition",
+      "subject": "tun bɛ",
+      "rationale": "wale-tagateli daɲɛw farala a kan walasa k'a jira ko a bɛ kɛ tunu-yɛlɛma la (habituel)"
+    }
+  ],
+  "translation": "Dawida tun bɛ taa ni ka segin i ko Shawul fɛ, ka t'a fa saga mara ⟨את⟩ Betilehem.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "23aa79b4a96161e2fdadfdecfcc3ea83e6a7faa6eb8a60af0439364dbbfbb56a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/17\/13-16.1791930425623.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "taa"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ka segin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "Shawul fɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ka saga mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fa saga"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sagaw"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betilehem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Betilehem"
+    }
+  ],
+  "timestamp": "2026-10-13T22:27:05.625305569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bɛn",
+      "rationale": " אבה literally 'to breathe after, be willing'; 'accept\/agree' chosen for idiomatic 'would none of me'"
+    }
+  ],
+  "translation": "Nka ne ka jamaa ma ne ka kan mɛn; Yisraɛl ma ne bɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/81\/9-12.1791940836279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Nka ma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne ka jamaa"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "ne ka kan"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:36.280206015Z",
+  "model": "glm-5.3"
+}

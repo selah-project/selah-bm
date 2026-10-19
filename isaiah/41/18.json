@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 41:18",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sɔrɔdabaw",
+      "rationale": "שפיים 'bare heights' rendered 'bare hilltops'; the bareness kept, the height supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ji dugubaw",
+      "rationale": "אגם 'pool\/marsh' rendered as 'large water-pools', since Bambara lake vocabulary is thin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "water chain",
+      "rational": "rivers–fountains–pool–springs: four water images stacked, retained in full"
+    }
+  ],
+  "translation": "Ne bɛna bajiw da sɔrɔdabaw kan, ani kɔnɔkow bɔ ji funtuniw la; ne bɛna dɛsɛ yɛlɛma kɛ ji dugubaw ye, ani dugukolo min kunun, kɛ ji bɔyɔrɔw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e9267529bbd15d38ffd36d17614ba395fa857cec3cddcd1349fa607d2db202ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/41\/17-20.1791934339950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפתח",
+      "gloss": "bɛna … da"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "sɔrɔdabaw"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "bajiw"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "kɔnɔkɔnɔ"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "kɔnɔkow"
+    },
+    {
+      "surface": "מעינות",
+      "gloss": "ji funtuniw"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "bɛna … kɛ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dɛsɛ"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "ji dugubaw ye"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ani dugukolo"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "min kunun"
+    },
+    {
+      "surface": "למוצאי",
+      "gloss": "bɔyɔrɔw ye"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:19.952899881Z",
+  "model": "glm-5.3"
+}

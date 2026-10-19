@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואין \/ ואיננו",
+      "rationale": "Hebrew 'nothing\/not' verbs rendered with Bambara existential tɛ yen"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואין…ואיננו",
+      "rationale": "repetition of אין frames the verse: the wicked 'is not', his place 'is not' — kept as parallel tɛ yen"
+    }
+  ],
+  "translation": "Fo don fitinin dɔ, mɔgɔ jugu tɛna bɔ yen; i na a yɔrɔ ɲɛ, a tɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "94b52e3aa9128e32f461e630f0771a68e33165db4dbab5de9e058b803fd3b005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/9-12.1791940073921.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "don fitinin dɔ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tɛna bɔ yen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mɔgɔ jugu"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "i na … ɲɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨i na⟩"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "a yɔrɔ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "a tɛ yen"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:53.922661946Z",
+  "model": "glm-5.3"
+}

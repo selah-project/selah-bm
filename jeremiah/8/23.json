@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 8:23",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "Literally 'who will give?' — Hebrew wish-formula 'oh that…'; rendered with bracketed Bambara wish '⟨yala … tun na⟩'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kelegɛtɔw",
+      "rationale": "חללי literally 'the pierced-through ones' (slain); rendered 'the wounded\/slain ones'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yala⟩ … ⟨ye⟩",
+      "rationale": "Bambara wish construction and copula supplied; Hebrew has neither."
+    }
+  ],
+  "translation": "⟨Yala⟩ mɔgɔ dɔ tun na ne ka kun di ji ye, ani ne ka ɲɛ beeli ji jidisun ye, ne na beeli kɛ don ni su bɛɛ ⟨את⟩ ne ka jama denmuso kelegɛtɔw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "acb5b3cd3d21efab2b506d45b4e87f34cb07ab5fd115ec35ee4fe005956c2792",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/8\/21-23.1791935138259.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "mɔgɔ min"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ne ka kun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ani ne ka ɲɛ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "jidisun"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "beeli ji"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "ne na beeli kɛ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "don bɛɛ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ani su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka jama denmuso kelegɛtɔw"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "kelegɛtɔw"
+    },
+    {
+      "surface": "בת",
+      "gloss": "denmuso"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne ka jama"
+    }
+  ],
+  "timestamp": "2026-10-13T23:45:38.261585484Z",
+  "model": "glm-5.3"
+}

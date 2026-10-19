@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 4:8",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Bambara needs the harvest object 'a' (it) where Hebrew's suffix -הו is carried in the verb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "plow\/sow\/reap",
+      "rationale": "Agricultural chain: plow iniquity, sow toil, reap it — sowing and reaping kept literal so the sowing-reaping irony survives"
+    }
+  ],
+  "translation": "Cogo min na n ye fɔ: awɔn-forobagaw ani gɛlɛya-kisɛbilabagaw, u bɛ ⟨a⟩ lajɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/4\/5-8.1791943178082.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "n ye fɔ"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "forobagaw"
+    },
+    {
+      "surface": "און",
+      "gloss": "awɔn"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "ani kisɛbilabagaw"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "gɛlɛya"
+    },
+    {
+      "surface": "יקצרהו",
+      "gloss": "u bɛ ⟨a⟩ lajɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:59:38.084351955Z",
+  "model": "glm-5.3"
+}

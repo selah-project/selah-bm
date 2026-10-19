@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בעוז \/ כח",
+      "rationale": "Hebrew uses two different strength-words; Bambara has only 'fanga' for both, the pairing is flattened."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dɔnnitigi",
+      "rationale": "גבר…ואיש are two 'man' words; rendered as 'cɛ' and folded into 'dɔnnitigi' (knower) for the second."
+    }
+  ],
+  "translation": "Cɛ sago de ka fanga bon, nin dɔnnitigi bɛ fanga faaju.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8320fc7b200d794ac86d2bb4d59068a7f94c81280b8edc7b4f516a72ab04e693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/24\/5-8.1791942856183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sago"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "fanga"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "dɔnnitigi"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "faaju"
+    },
+    {
+      "surface": "כח",
+      "gloss": "fanga"
+    }
+  ],
+  "timestamp": "2026-10-14T01:54:16.183728588Z",
+  "model": "glm-5.3"
+}

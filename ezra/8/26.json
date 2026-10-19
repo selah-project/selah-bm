@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 8:26",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "talents",
+      "rationale": "Precise weights: 650 talents of silver, 100 of silver vessels, 100 of gold."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kikar",
+      "rationale": "ככר is a weight-unit (talent, literally 'circle\/round'); kept as kikar rather than a role-word."
+    },
+    {
+      "kind": "idiom",
+      "subject": "u bolo la",
+      "rationale": "על ידם 'upon their hand' rendered with the matching Bambara body idiom bolo la."
+    }
+  ],
+  "translation": "N ye a jon u bolo la: warigwɛ, kikarw tannin-ni-duru-ni-debe-ni-tan; ni warigwɛ-minɛnw keme kelen kikarw la; ni sanu keme kelen kikar.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0a91022af72fea19c8b6f85dd43a09b7596809dc2e5f8fa6f040b4cdee2cba31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/8\/25-28.1791946655222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשקלה",
+      "gloss": "N ye … jon"
+    },
+    {
+      "surface": "על",
+      "gloss": "… la"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "u bolo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "kikarw"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tannin-ni-"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "duru"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ni-debe-ni-tan"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ni warigwɛ-minɛnw"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "keme kelen"
+    },
+    {
+      "surface": "לככרים",
+      "gloss": "kikarw la"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "keme kelen"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikar"
+    }
+  ],
+  "timestamp": "2026-10-14T02:57:35.223475640Z",
+  "model": "glm-5.3"
+}

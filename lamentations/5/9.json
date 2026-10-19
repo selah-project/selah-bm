@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נביא",
+      "rationale": "'we bring in' (bɔ' in Hiphil) vs traditional 'we get\/gain': the Hebrew verb is literally 'we bring'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered 'ni' (life-force), not a separate word for 'peril' — 'with our soul' implies the risk"
+    }
+  ],
+  "translation": "An bɛ buru na ni an ka ni ye, dugujan npani ɲɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dad04d08ae50ed2f6dbdeef38a54c9b836a41977d4ed733eeddbd9d3e4a90712",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/5\/9-12.1791945067328.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "ni an ka ni ye"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "na"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "buru"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɲɛ la"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "npan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dugujan"
+    }
+  ],
+  "timestamp": "2026-10-14T02:31:07.329002412Z",
+  "model": "glm-5.3"
+}

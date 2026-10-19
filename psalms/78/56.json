@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jalaki",
+      "rationale": "ומרו literally 'made bitter' — KJV\/Geneva 'provoked', ASV 'rebelled'; the bitter-root picture is lost in both."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Elyon",
+      "rationale": "'Elohim Elyon' (God Most High) read as title, matching El Elyon; kept as name per D1."
+    }
+  ],
+  "translation": "U ye ⟨את⟩ Elohim Elyon kɔlɔsi, k'a jalaki, a ka seerew u ma mara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "235876a10c4c3a9ff0cc8b9400f0d479064f1e0007418d04a57222ffebbf93aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/53-56.1791940834058.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "jalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "a ka seerew"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mara"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:34.059470701Z",
+  "model": "glm-5.3"
+}

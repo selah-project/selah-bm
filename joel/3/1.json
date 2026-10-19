@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 3:1",
+  "book": "joel",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלמות יחלמון",
+      "rationale": "Infinitive absolute doubling 'dreams they shall dream'; Bambara repeats the noun but loses the root echo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוח is wind\/breath\/spirit one word; Bambara fiɲɛ covers wind-spirit, ninakili is breath."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person suffixes 'your sons, your daughters' address Israel directly."
+    }
+  ],
+  "translation": "O kɔfɛ, ne bɛn' ⟨את⟩ ne ka fiɲɛ minɛn sogo bɛɛ kan, aw denkɛw ni aw denmusow bɛna nabi-kuma fɔ, aw mɔgɔkɔrɔw bɛna bleminu ye, aw kaumadenw bɛna ɲɛjirili ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ddca5f210e9b183415c9563878292a6ef19bb5043533e29a4c388e56be191b07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joel\/3\/1-4.1791938438658.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "o bɛna kɛ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o kɔfɛ"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "ne bɛn' ... minɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka fiɲɛ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ne ka fiɲɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sogo"
+    },
+    {
+      "surface": "ונבאו",
+      "gloss": "bɛna nabi-kuma fɔ"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "aw denkɛw"
+    },
+    {
+      "surface": "ובנותיכם",
+      "gloss": "aw denmusow"
+    },
+    {
+      "surface": "זקניכם",
+      "gloss": "aw mɔgɔkɔrɔw"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "bleminu"
+    },
+    {
+      "surface": "יחלמון",
+      "gloss": "bɛna bleminu ye"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "aw kaumadenw"
+    },
+    {
+      "surface": "חזינות",
+      "gloss": "ɲɛjirili"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bɛna ye"
+    }
+  ],
+  "timestamp": "2026-10-14T00:40:38.659059246Z",
+  "model": "glm-5.3"
+}

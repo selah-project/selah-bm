@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bamanankan ka kan ka copula sɔrɔ; Heburukan ma min fɔ, masaya jɔcogo dɔrɔn de ye."
+    },
+    {
+      "kind": "elision",
+      "subject": "endureth",
+      "rationale": "Tubabukan sɛbɛnniw farala 'endureth' kan; Heburukan tɛ daɲɛ si sɔrɔ o yɔrɔ la."
+    },
+    {
+      "kind": "crux",
+      "subject": "waati bɛɛ",
+      "rationale": "עלמים: 'kɔrɔ-camancogo' (everlasting, KJV\/ASV) walima 'waati bɛɛ ta' (of all ages, JPS\/YLT); an ye jukɔrɔ dɔ ta."
+    }
+  ],
+  "translation": "I ka masaya ye masaya ye min bɛ waati bɛɛ la, ani i ka fanga bɛ to dugumaw bɛɛ la ⟨kɔnɔ⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/145\/13-16.1791942015319.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "I ka masaya"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "masaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "waati bɛɛ"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "ani i ka fanga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dugumaw"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "dugumaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:15.320248301Z",
+  "model": "glm-5.3"
+}

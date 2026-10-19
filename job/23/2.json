@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 23:2",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pusigili",
+      "rationale": "מרי: KJB\/ASV 'bitter' (pusigili) ni ASV 'rebellious' (bɛn-ni-ka-bali) — sugandili filaw bɛ yen"
+    },
+    {
+      "kind": "crux",
+      "subject": "bolo",
+      "rationale": "ידי: 'ne ka bolo' (JPS) walima 'a ka bolo' (BSB, Yawe ka bolo) — ni a ye Ala ta ye, a bɛ Yawe bolo jira"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ye … ye",
+      "rationale": "Bamanankan bɛ 'ye … ye' wajibiya kuma ni pusigili cɛ, Heburukan tɛ o la"
+    }
+  ],
+  "translation": "Bi tilennen na fana, ne ka kuma ye pusigili ye; ne ka bolo juguya ne ka wulila la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "62576246290b15d4db42de6a4c92262ea8b116995dabd069b6a4124b72aff7b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/23\/2-3.1791951392328.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi tilennen na"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "pusigili"
+    },
+    {
+      "surface": "שחי",
+      "gloss": "ne ka kuma"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ne ka bolo"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "ne ka wulila"
+    }
+  ],
+  "timestamp": "2026-10-14T04:16:32.328899055Z",
+  "model": "glm-5.3"
+}

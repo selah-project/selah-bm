@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bɛnbaga",
+      "rationale": "שטן ye daɲɛ nɔgɔman ye — 'bɛnbaga' — a tɛ Yawe ka kɔgɔdasi satan de ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויקץ",
+      "rationale": "Bayɛlɛmabaga bɛɛ tɛ o ye: 'a ye Israyɛl ɲɛbali' (KJV\/JPS) walima 'a ye mɔgɔw bɔ Israyɛl la' (YLK, iko 'datugu' suzuwi)"
+    }
+  ],
+  "translation": "A kɛra Israyɛl ka bɛnbaga ye Shelomo donw bɛɛ na, ka ⟨את⟩ Hadad ka iko fara o kan; a ye Israyɛl ɲɛbali, kaban a nana Aram (Siri) masaya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c5630a19817262dc5fbc53e060bca896f91f13ef2e1aeb57c26939812d2fa0d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/11\/25-28.1791932111286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "bɛnbaga"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "donw"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad ka iko (Hadad ka juguya)"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "ɲɛbali"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nana masaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "(kan)"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-13T22:55:11.288425341Z",
+  "model": "glm-5.3"
+}

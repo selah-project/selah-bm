@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "Either the direct-object marker with suffix ('engrave it with them \/ in their presence') or the preposition 'with them'; the ⟨את⟩ marker is preserved and 'u ɲɛ fɛ' bracketed."
+    },
+    {
+      "kind": "invitation",
+      "subject": "na … sɛbɛn",
+      "rationale": "Command addressed to Isaiah: come, write — a direct summons to the prophet."
+    },
+    {
+      "kind": "you",
+      "subject": "Isaiah",
+      "rationale": "The imperative 'go, write' is addressed to Isaiah."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ליום אחרון לעד עד עולם",
+      "rationale": "Time measured out — for the last day, for a witness, unto forever — duration heaped in three phrases."
+    }
+  ],
+  "translation": "Sisan, na, sɛbɛn a laji kan ⟨u ɲɛ fɛ⟩ ⟨את⟩, ani sɛbɛn dɔ kɔnɔnsɛbɛn-ka-t'a-kan, walasa ka kɛ don laban na seerekɛli ye, fo waati si tɛ ban.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f86a79f441d015c3194ba0b934e700b3fb902f89c004290e4fd563b6b813f74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/30\/5-8.1791934045929.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "sɛbɛn a"
+    },
+    {
+      "surface": "על",
+      "gloss": "… kan"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "laji"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u ɲɛ fɛ (laji in — the tablet)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani … kan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sɛbɛn dɔ"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "kɔnɔnsɛbɛn ka t'a kan"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "don … na"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "laban"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "seerekɛli ye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waati si tɛ ban"
+    }
+  ],
+  "timestamp": "2026-10-13T23:27:25.938109972Z",
+  "model": "glm-5.3"
+}

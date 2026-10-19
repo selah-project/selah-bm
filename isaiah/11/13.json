@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a la",
+      "rationale": "Hebrew verb וסרה lacks pronoun object; Bambara needs it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tigɛ",
+      "rationale": "יצר 'to cramp\/hem in' rendered as 'oppress\/press', no single Bambara word for the cramping picture"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפרים \/ יהודה",
+      "rationale": "chiastic repetition of the two names across the verse, structural mirror kept"
+    }
+  ],
+  "translation": "Efrajim ka konya na bɔ a la, ani o minnu bɛ Yuduw ka siran, u na kɛrɛ; Efrajim na konya ⟨a la⟩ Yudu kan, Yudu fana na tigɛ Efrajim.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9f61b4d71260feb10497706973338ffb27fa5354ddbb5a8b6c93c535b53fa45c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/11\/13-16.1791933660138.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "na bɔ a la"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "konya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "o minnu bɛ kati"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudu"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "u na kɛrɛ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "konya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yudu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yudu fana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "tigɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrajim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    }
+  ],
+  "timestamp": "2026-10-13T23:21:00.140374038Z",
+  "model": "glm-5.3"
+}

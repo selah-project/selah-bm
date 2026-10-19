@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 9:17",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lafanw",
+      "rationale": "הלוחת ye laman min bɛ poli ye — lafanw (tablet) ka ɲɛ n'a ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "ni jɛgɛn ye",
+      "rationale": "שבר bɛ bammarali ka bila — tugun ni jɛgɛn ye Bambara kalanw ye"
+    }
+  ],
+  "translation": "Anw, ye ⟨את⟩ lafanw fila min bɛ laman na, minnu ye tɛmɛ ne bolo fila la, n'u tugun ni jɛgɛn ye aw ɲɛnw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "30d10f1a0f7e3623327397264f4ece4e28958e777e1ffe26f774a600d74af970",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/9\/17-20.1791927714101.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתפש",
+      "gloss": "anw, ye … min bɛ laman na"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "fila"
+    },
+    {
+      "surface": "הלוחת",
+      "gloss": "lafanw"
+    },
+    {
+      "surface": "ואשלכם",
+      "gloss": "tugun ni jɛgɛn ye"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "tɛmɛ … la"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "fila"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ne bolo"
+    },
+    {
+      "surface": "ואשברם",
+      "gloss": "u tugun ni jɛgɛn ye"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "aw ɲɛnw la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:41:54.107112624Z",
+  "model": "glm-5.3"
+}

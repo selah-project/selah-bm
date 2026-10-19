@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חלכאים",
+      "rationale": "Rare word 'hapless ones' — subject of the falling, placed last in the Hebrew clause."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעצומיו",
+      "rationale": "'his strong ones': literal limbs\/paws of the lion image vs 'his might' (abstract); rendered with the strength sense."
+    }
+  ],
+  "translation": "A bɛ ɲɛda sigi duguma, a ka yɛrɛ kunŋolobila, dancɛbaliw bɛ fa a fanga bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "69f62e88b52dde268b8a777f9383ad20cf58fde3d420c1357272749c9bc674a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/10\/9-12.1791939619171.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "a bɛ ɲɛda sigi duguma"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "a ka yɛrɛ kunŋolobila"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "bɛ fa"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "a fanga bɛɛ la"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "dancɛbaliw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:19.172602729Z",
+  "model": "glm-5.3"
+}

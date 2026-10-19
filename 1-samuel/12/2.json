@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 12:2",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "H854 ka ‘ni’ kɔrɔ bɛ yen, a ma bayɛlɛma k’a sɔrɔ ⟨את⟩ taamasiyɛn to a la."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Shemuel bɛ kuma Isirayɛlɛ ma directement a ka fɔli-kɔrɔ la."
+    }
+  ],
+  "translation": "Sisan, nininɛ, masakɛ bɛ taama aw ɲɛfɛ; ne kɔrɔtɔra, isi faranna, nininɛ, ne ka denw bɛ ⟨את⟩ aw fɛ; ne tun ye taama aw ɲɛfɛ ne ka denbayɛ fɛ ka se dɔ nin ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8cd5788a29a0ef5ff52376b89afa0ca78dab6d9eae9face0727e1bcd513a3320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/12\/1-4.1791930225015.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nininɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "bɛ taama"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "aw ɲɛfɛ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "kɔrɔtɔra"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "isi faranna"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ne ka denw"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "nininɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw fɛ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ye taama kɛ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "aw ɲɛfɛ"
+    },
+    {
+      "surface": "מנערי",
+      "gloss": "ne ka denbayɛ fɛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka se…ma"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dɔ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin"
+    }
+  ],
+  "timestamp": "2026-10-13T22:23:45.017444356Z",
+  "model": "glm-5.3"
+}

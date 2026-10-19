@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩ ni ⟨u ka⟩",
+      "rationale": " Bambara object construction needs pronouns the Hebrew leaves implicit in the verb."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קיר",
+      "rationale": " same consonants as the 'wall' of v5 — if the name Kir (Assyria's ally) is intended, the text puns wall\/Kir; lost in Bambara."
+    },
+    {
+      "kind": "measurement",
+      "subject": "nations listed",
+      "rationale": " Elam and Kir named as components of the besieging force — a roll-call of Yahweh's instruments."
+    }
+  ],
+  "translation": "Elamu (Elam) ye ⟨i⟩ agasi fin ta hadamaden ka rɛkɛ kɔnɔ, sɔtigiw ye; Kir ye ⟨u ka⟩ gbana jira.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/22\/5-8.1791933890290.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "Elamu (Elam)"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ye … ta"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "agasi fin"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "rɛkɛ kɔnɔ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "sɔtigiw"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "ye … jira"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gbana"
+    }
+  ],
+  "timestamp": "2026-10-13T23:24:50.293473255Z",
+  "model": "glm-5.3"
+}

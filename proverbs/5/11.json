@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 5:11",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ki",
+      "rationale": "נהם is a growl\/howl like a lion; rendered with the plain Bambara weeping verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "farisogo",
+      "rationale": "שאר is a second flesh-word beside בשר; split into two Bambara flesh words to keep the pair"
+    }
+  ],
+  "translation": "i bɛna ki i ka laban na, ni i sogo ani i farisogo bɛ banna;",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "acca78593eb1d357b2716333b43bdc368747b41848d9c367b11235b5f92645bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/5\/9-12.1791942160811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהמת",
+      "gloss": "i bɛna ki"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "i ka laban na"
+    },
+    {
+      "surface": "בכלות",
+      "gloss": "ni ... bɛ banna"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "i sogo"
+    },
+    {
+      "surface": "ושארך",
+      "gloss": "ani i farisogo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:42:40.812595718Z",
+  "model": "glm-5.3"
+}

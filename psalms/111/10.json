@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשיהם",
+      "rationale": "'oli' nɔnabila (a lamɛnbaga: sariyaw walima kumaw minnu jira 9 tɛmɛsira kɔnɔ) — bayɛlɛmabaga caman b'a fɔ 'a fɛnw' (KJV 'his commandments'), JPS fɔ 'oli kɔfɛ'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye \/ nin",
+      "rationale": "Bambara copula ani fɛn-ɲɛnabɔbaga minnu Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jelifɔli",
+      "rationale": "תהלה ye laada-kumadon fɔli ye; jelifɔli ye Bamanankan la jeliw ka tɔgɔ-fɔli ye — a cikan dɔ bɔ yen"
+    }
+  ],
+  "translation": "Dɔnniya daminɛ ye Yawe siran ⟨ye⟩; minnu b'oli ke bɛɛ bɛ dɔnni ɲuman ⟨nin⟩; a jelifɔli bɛ jɔ fo bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3d0d79f417cfc063cb98df650bd48ac96a0a54a77425f65a217d1ebd36307cb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/111\/9-10.1791941414829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "daminɛ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "dɔnniya"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "siran"
+    },
+    {
+      "surface": "יהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "dɔnni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɲuman"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "minnu b'oli ke"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "a jelifɔli"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "bɛ jɔ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "fo bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:14.830265888Z",
+  "model": "glm-5.3"
+}

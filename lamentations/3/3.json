@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "janti a bolo",
+      "rationale": "הפך ידו 'turn his hand over' = act against repeatedly; rendered janti ne kan 'turns it against me'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישב \/ יהפך",
+      "rationale": "Twin verbs of turning (shuv\/hafakh) in one breath; the doubled turn is kept as seginna \/ janti."
+    }
+  ],
+  "translation": "Tiɲɛ na, a seginna ne kan; a bɛ a bolo janti ne kan don bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/1-4.1791944892050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tiɲɛ na"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ne kan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a seginna"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "a bɛ … janti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don"
+    }
+  ],
+  "timestamp": "2026-10-14T02:28:12.058660699Z",
+  "model": "glm-5.3"
+}

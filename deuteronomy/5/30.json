@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "so",
+      "rationale": "אהל 'tent' rendered with 'so' (house); Bambara lacks a distinct everyday word for tent in the core table"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moshe",
+      "rationale": "Yawe commands Moshe directly: go, tell them"
+    }
+  ],
+  "translation": "Taa, k'a fɔ u ye: aw ka segin aw yɛrɛ ma, aw so la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c9bc3ccc57b618854b98d44444d57d267375f009a111e98104de7b6bedf364ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/5\/29-32.1791927607374.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Taa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "k'a fɔ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "aw ka segin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw yɛrɛ ma"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "aw so la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:40:07.376890723Z",
+  "model": "glm-5.3"
+}

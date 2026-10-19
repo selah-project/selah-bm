@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 18:6",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨fenw⟩",
+      "rationale": "Hebrew says only 'David put in Aram Damascus' — the object (garrisons) is supplied by every version."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dɛmɛ",
+      "rationale": "ויושע is 'gave victory\/saved'; rendered with the plain verb 'helped'."
+    }
+  ],
+  "translation": "Dawid ye ⟨fenw⟩ sigi Aram Darmɛsɛk la, Aramw kɛra Dawid ye walebaga ye, minnu bɛ diya nama; Yawe ye Dawid dɛmɛ o yɔrɔ bɛɛ min na a tun taa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c6ed613fd6c065d2f47d03d3924fd2b838966767b468137ce4efba83e0146f94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/18\/5-8.1791948123578.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ye ⟨fenw⟩ sigi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "דרמשק",
+      "gloss": "Darmɛsɛk la"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra … ye"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramw"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawid ye"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "walebaga"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "minnu bɛ … nama"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "diya"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "ye … dɛmɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "o yɔrɔ bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tun taa"
+    }
+  ],
+  "timestamp": "2026-10-14T03:22:03.579525431Z",
+  "model": "glm-5.3"
+}

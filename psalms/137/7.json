@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ערו ערו",
+      "rationale": "The repeated 'aru, aru' — strip it bare, strip it — is Edom's jeering chant; the doubling is kept."
+    },
+    {
+      "kind": "crux",
+      "subject": "לבני אדום",
+      "rationale": "The lamed is 'against' (ASV\/JPS) or neutral 'for\/concerning' (YLt); I read 'kan' (against), the imprecation's demand."
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Direct address — imperatival prayer spoken to Yawe."
+    }
+  ],
+  "translation": "Mɛn, Yawe yo, Edɔmu (Edomu) denw kan ⟨את⟩ Yerushalayim don, minnu ko: Tu a, tu a, fo a jɔcogo ma!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/137\/5-8.1791941954140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Mɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe yo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denw kan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edɔmu (Edomu)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "don"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "minnu ko"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Tu a"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "tu a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "a jɔcogo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:39:14.140995435Z",
+  "model": "glm-5.3"
+}

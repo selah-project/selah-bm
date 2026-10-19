@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תנחני\/ותנהלני",
+      "rationale": "Near-duplicate verbs נחה and נהל both mean 'lead\/guide'; the Hebrew repeats the leading, Bambara splits into 'ɲɛsin sira la' and 'to ne da sira kan'."
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Continued direct address to Yawe, motive named as His name."
+    }
+  ],
+  "translation": "Sabu i ye ne kuru ye ani ne mara-bon ye; i tɔgɔ la, i bɛ ne ɲɛsin sira la, i bɛ to ne da sira kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/31\/1-4.1791939918507.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ne kuru"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ani ne mara-bon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i ye … ye"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "i tɔgɔ la"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i tɔgɔ"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "i bɛ ne ɲɛsin sira la"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "i bɛ to ne da sira kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:18.508521024Z",
+  "model": "glm-5.3"
+}

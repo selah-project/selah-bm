@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 8:7",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nka",
+      "rationale": "Hebrew juxtaposes without 'but'; Bambara needs the contrast conjunction."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראשיתך \/ אחריתך",
+      "rationale": "beginning\/end antithesis, the verse's rhetorical spine."
+    }
+  ],
+  "translation": "A bɛna kɛ ko i ka daminɛ ka dɔgɔ, nka i ka laban bɛna bon kosɛbɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dfe413fbc92753263dd6c5c295bde0023545c9410cf4c5314581b826b1a975d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/8\/5-8.1791943359531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "a bɛna kɛ ko"
+    },
+    {
+      "surface": "ראשיתך",
+      "gloss": "i ka daminɛ"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "dɔgɔ"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "nka i ka laban"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "bɛna bon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:02:39.533240640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Hebrew verbless clause needs a Bambara verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "anywi",
+      "rationale": "מוקש ye mɔgɔ minɛlen ye — baman bɛ faga o la"
+    },
+    {
+      "kind": "crux",
+      "subject": "jatigi",
+      "rationale": "רָע: jatigi (mɔgɔ jugu) walima jɔyɔrɔ jugu (kɛma) — KJV 'the wicked' ni YLT 'the evil' bɛ sila fila in fɔ"
+    }
+  ],
+  "translation": "Daɲɛgafe laboli la, jatigi bɛ anywi don; nka dɛnteryela bɛ bɔ gɛlɛya la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "568088875a3e3f67ab8b6df22578811a49054c1bbbfc42cb555f6085024591fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/12\/13-16.1791942436311.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "lɔgobaliya kɔnɔ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "daw"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "anywi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jɔyɔrɔjɔlen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a bɛ bɔ"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "gɛlɛya la"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "dɛnteryela"
+    }
+  ],
+  "timestamp": "2026-10-14T01:47:16.312139100Z",
+  "model": "glm-5.3"
+}

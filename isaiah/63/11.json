@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 63:11",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויזכר",
+      "rationale": "'he remembered' (God as subject, KJV) vs 'His people remembered' (JPS repointing the subject); 'a' leaves it open"
+    },
+    {
+      "kind": "elision",
+      "subject": "את רעי",
+      "rationale": "this את is the preposition 'with' (lemma nearness), not the object marker; kept as ⟨את⟩ standing for 'ni' (with) the shepherd"
+    },
+    {
+      "kind": "invitation",
+      "subject": "o bɛ min?",
+      "rationale": "two 'where is he?' questions put directly to the hearer inside the remembrance"
+    }
+  ],
+  "translation": "A ye kɔrɔ donw leko — Moshe (Musa) ni a jamaw: min ye u bɔ kɔgɔji la, ⟨את⟩ a saga dalen-tigi, o bɛ min? Min ye ⟨את⟩ a senuma fiɲɛ bla u kɔnɔ, o bɛ min?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bbdab2a86cd87b5b6ec99e36b4b7fc50cf5f43ab9a05a0e3102c13b9ed6189aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/63\/9-12.1791934745649.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "leko"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "donw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kɔrɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Musa)"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a jamaw"
+    },
+    {
+      "surface": "איה",
+      "gloss": "bɛ min"
+    },
+    {
+      "surface": "המעלם",
+      "gloss": "min ye u bɔ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kɔgɔji la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a saga dalen-tigi"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "dalen-tigi"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "a sagaw"
+    },
+    {
+      "surface": "איה",
+      "gloss": "bɛ min"
+    },
+    {
+      "surface": "השם",
+      "gloss": "min ye ... bla"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "u kɔnɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a senuma fiɲɛ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "senuma"
+    }
+  ],
+  "timestamp": "2026-10-13T23:39:05.652475496Z",
+  "model": "glm-5.3"
+}

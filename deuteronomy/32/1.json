@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛna",
+      "rationale": "Bambara requires a future\/coordination marker; Hebrew cohortative carries 'and I will speak' in the verb form"
+    },
+    {
+      "kind": "invitation",
+      "subject": "heavens and earth",
+      "rationale": "Song opens by summoning the heavens and earth as witnesses — direct imperative address"
+    },
+    {
+      "kind": "you",
+      "subject": "to the heavens, to the earth",
+      "rationale": "The verse imperatively addresses two cosmic addressees"
+    }
+  ],
+  "translation": "Sankolow, tulo-ji-minɛw, an ⟨bɛna⟩ kuma; dugukolo, mɛn n da kumaw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ea134ecc658e6dcff41e48ec371637446f66eb77588760d54d8fcd24bfc9dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/32\/1-4.1791928407774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "tulo-ji-minɛw"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "an ⟨bɛna⟩ kuma"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "פי",
+      "gloss": "n da"
+    }
+  ],
+  "timestamp": "2026-10-13T21:53:27.775286071Z",
+  "model": "glm-5.3"
+}

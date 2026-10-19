@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 14:2",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בין … ובין",
+      "rationale": "Hebrew repeats 'between' before each noun; Bambara single cɛ-construction with ni covers it"
+    },
+    {
+      "kind": "measurement",
+      "subject": "itinerary",
+      "rationale": "verse fixes precise camp geography — place names and spatial relations"
+    }
+  ],
+  "translation": "Kuma Israelya denw ma, k'u segin ka u dunso da Pi-Hahirot ɲɛ na, Migdol ni kɔgɔji cɛ, Baal-Tsefon ɲɛ na; a tilen ɲɛ fɛ, aw bɛna aw dunso da kɔgɔji kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ae79ed79448e939b4d7305993182dcd9c3fffa5fb5f9a41c185b12c793b16863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/14\/1-4.1791926925986.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelya"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "k'u segin"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ka u dunso da"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛ na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Pi"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "Hahirot"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "Migdol"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ni … cɛ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛ na"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsefon"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "tilen ɲɛ fɛ"
+    },
+    {
+      "surface": "תחנו",
+      "gloss": "aw bɛna aw dunso da"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    }
+  ],
+  "timestamp": "2026-10-13T21:28:45.988073793Z",
+  "model": "glm-5.3"
+}

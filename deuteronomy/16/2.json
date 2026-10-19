@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 16:2",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Verse is second-person command addressed to Israel at the covenant."
+    },
+    {
+      "kind": "crux",
+      "subject": "צאן ובקר",
+      "rationale": "Deuteronomy allows herd cattle for pesach unlike Exodus 12's lamb; render plainly 'saga ani misi' and let the tension stand."
+    }
+  ],
+  "translation": "I na Paseka saraka bɔ Yawe i Ala ma — saga ani misi — yɔrɔ min na Yawe bɛna latigɛ walasa a tɔgɔ ka sigi yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b234982ca4e2d768fa02d624bd34a7cd666579866331fcc017a84b954d884a77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/16\/2-3.1791950154833.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "i na saraka bɔ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ma"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i Ala"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "saga"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ani misi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yɔrɔ min na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "bɛna latigɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "walasa ka sigi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a tɔgɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    }
+  ],
+  "timestamp": "2026-10-14T03:55:54.834087256Z",
+  "model": "glm-5.3"
+}

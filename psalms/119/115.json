@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "mɔgɔ juguw",
+      "rationale": "Kuma da直接 bɛ mɔgɔ juguw ma — a u wele ka bɔ."
+    },
+    {
+      "kind": "idiom",
+      "subject": "walasa",
+      "rationale": "Hebrew we-coordinate ('and I will keep') rendered purposive as KJV\/JPS 'that I may keep'."
+    }
+  ],
+  "translation": "Mɔgɔ juguw, bɔ ne la, walasa ne bɛ ne Elohim ka wasaliw mara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0012912ccfab3190faede15b8ae883b42dc59729d781b0882da2feb139e89989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/113-116.1791941694302.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ne la"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mɔgɔ juguw"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "walasa ne bɛ ... mara"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "wasaliw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ne Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:54.303160019Z",
+  "model": "glm-5.3"
+}

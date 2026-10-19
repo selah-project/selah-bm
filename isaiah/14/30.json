@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 14:30",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "n (n bɛna … faga)",
+      "rationale": "Hebrew uses the first-person causative suffix in והמתי with no separate pronoun; Bambara needs the subject pronoun."
+    },
+    {
+      "kind": "crux",
+      "subject": "ושאריתך יהרג",
+      "rationale": "Active 'it\/he will slay your remnant' (KJV: famine personified) vs passive 'your remnant will be slain' (JPS, ASV)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרשך",
+      "rationale": "'your root' picks up the serpent's root from v.29 — Philistia is the second serpent whose root is now killed."
+    }
+  ],
+  "translation": "Mɔgɔ fitiniw ka fɔlɔdenw bɛna foro dili, miskinuw bɛna sigi danamaya la; n bɛna i ka sumaya faga ni kɔngɔ ye, i ka tɔɔrɔbila bɛna faga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7e1e192fb7568955d3ed558ea1362fe6b04dafa03faa455085855ec11e20a70a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/14\/29-32.1791933803972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "bɛna foro dili"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "fɔlɔdenw"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "mɔgɔ fitiniw"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "miskinuw"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "danamaya la"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "bɛna sigi"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "n bɛna … faga"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "ni kɔngɔ ye"
+    },
+    {
+      "surface": "שרשך",
+      "gloss": "i ka sumaya"
+    },
+    {
+      "surface": "ושאריתך",
+      "gloss": "i ka tɔɔrɔbila"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "bɛna faga"
+    }
+  ],
+  "timestamp": "2026-10-13T23:23:23.977074040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרג תהרגנו",
+      "rationale": "Infinitive-absolute + finite verb: 'kill you shall kill' — emphasis lost with single Bambara 'faga'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בראשונה \/ באחרנה",
+      "rationale": "First\/last antithesis frames the verse; kept as fɔlɔ-fɔlɔ \/ to la."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person singular command addressed to each Israelite."
+    }
+  ],
+  "translation": "Sabu i bɛna ⟨a⟩ faga; i bolo na kɛ a la fɔlɔ-fɔlɔ walasa k'a sa, ka jamaa bɛɛ bolo ka kɛ a la to la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e0f9ce1d132c843cd2c076639817602f421949aff458c2ad188426a7831943b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/13\/10-11.1791950111445.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "faga"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "i bɛna ⟨a⟩ faga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "i bolo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "na kɛ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "fɔlɔ-fɔlɔ"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "walasa k'a sa"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ka bolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "to la"
+    }
+  ],
+  "timestamp": "2026-10-14T03:55:11.445606301Z",
+  "model": "glm-5.3"
+}

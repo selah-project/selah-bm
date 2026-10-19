@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרע בל \/ קרס נבו",
+      "rationale": "Verbs chiastically inverted around the two god-names; the sound-echo of collapse is lost in Bamanankan."
+    },
+    {
+      "kind": "crux",
+      "subject": "לחיה ולבהמה",
+      "rationale": "'Upon the beasts and cattle' (idols loaded onto animals) vs 'became like beasts' — read here with the majority as load-bearing animals."
+    },
+    {
+      "kind": "elision",
+      "subject": "לעיפה",
+      "rationale": "Hebrew has no explicit 'beast' — 'to the weary one' supplies the animal from context."
+    }
+  ],
+  "translation": "Bel kununna, Newo jɔsira; u ka batofɛnw kɛra ⟨baganw ni misiw⟩ ye; ⟨aw⟩ lasɔrɔ-minnuw bilala, jiɲɛ dɔw ye ⟨bagan⟩ min bɛ yɔgɔ ⟨o⟩ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/46\/1-4.1791934450338.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "kununna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Bel"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "jɔsira"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Newo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kɛra … ye"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "u ka batofɛnw"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "baganw"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ni misiw"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "aw lasɔrɔ-minnuw"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "bilala"
+    },
+    {
+      "surface": "משא",
+      "gloss": "jiɲɛ"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "bagan-yɔgɔda"
+    }
+  ],
+  "timestamp": "2026-10-13T23:34:10.339948552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ne yɛrɛ⟩",
+      "rationale": "אנכי ye nɔnabila tilennen ye; Bamanankan ka emphatic cogoya wajibiya a ɲɛfɛli"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɛ fɔyon",
+      "rationale": "מוג kɔrɔ ye 'ka yelen walima ka bɔ ye' ye; 'fɔyon' (ka miiri) ye a jiralan ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "a muluw tigɛ",
+      "rationale": "תכן: 'ka jɔ', 'ka mara', walima 'ka bɔ yɔrɔ bɛɛ sɔsɔ' — 'ka tigɛ' ye yɔrɔ-ɲɛnabɔcogo dɔ ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "סלה ye dunun taamasiyɛn ye; a bɛ to a fɔcogo la, a tɛ bayɛlɛma"
+    }
+  ],
+  "translation": "Dugukolo ni a minɛnw bɛɛ bɛ fɔyon: ne ye ⟨ne yɛrɛ⟩ a muluw tigɛ. Selah.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "95b41eca14e72bd400d2dccca2f6c261e586540a5a3e5e89a18a85e5ad679e03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/75\/4-4.1791951239275.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "bɛ fɔyon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "a minɛnw"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "ne ye ... tigɛ"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "a muluw"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:59.275480603Z",
+  "model": "glm-5.3"
+}

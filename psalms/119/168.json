@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "n",
+      "rationale": "Pronoun added before siraw — Hebrew possessive suffix on דרכי carries it."
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Whole verse addressed to Yawe; all my ways are open before your face."
+    }
+  ],
+  "translation": "N y'i ka daliluw ni i ka seeredanew mara, sabu i yɛrɛ bɛ n siraw bɛɛ ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c402f04e34d7358455eb2e7a20b694f363265af7a05473592faf51ea6042ce07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/165-168.1791941628301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "n ye … mara"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "i ka daliluw"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "i ka seeredanew"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "n siraw"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "i ɲɛfɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:48.302020792Z",
+  "model": "glm-5.3"
+}

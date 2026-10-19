@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "Hebrew 'who will give' is a wish idiom; rendered as ability question 'mun bɛ se ka'"
+    },
+    {
+      "kind": "crux",
+      "subject": "si kelen tɛ yen",
+      "rationale": "לא אחד 'not one': 'no one can' (KJV) vs Wycliffe's 'thou, who art alone' addressing God; majority read 'no one'"
+    }
+  ],
+  "translation": "Mun bɛ se ka netɛ bɔ fɛn min tɛ netɛ ye? Si kelen tɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/14\/1-4.1791943678132.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bɛ se ka … di"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "netɛ"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "fɛn min tɛ netɛ ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a tɛ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "si kelen tɛ yen"
+    }
+  ],
+  "timestamp": "2026-10-14T02:07:58.135130537Z",
+  "model": "glm-5.3"
+}

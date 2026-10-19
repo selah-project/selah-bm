@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 29:15",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minɛ fanga",
+      "rationale": "רדות literally 'to tread down'; Bambara 'minɛ fanga' (take power) loses the treading picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Bambara requires the pronoun subject 'a' (Egypt) which the Hebrew verb form carries inside תהיה\/תתנשא."
+    },
+    {
+      "kind": "crux",
+      "subject": "dɔgɔman",
+      "rationale": "שפלה repeated from v.14; 'lowliest' vs 'basest' — kept as 'dɔgɔman' (lowly) both times."
+    }
+  ],
+  "translation": "Masakɛyaw bɛɛ la, a bɛna kɛ dɔgɔman di; a tɛna lagabali kokura siyaw kan, sabu ne y'u dɔgɔya, walasa a tɛna siyaw minɛ fanga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "00a3c21f6c0c765a94f3da14f6be68bd5d99a6b149d7d524f831055cd49a1fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/29\/14-15.1791951060620.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "…la"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "masakɛyaw"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "a bɛna kɛ"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "dɔgɔman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a tɛna"
+    },
+    {
+      "surface": "תתנשא",
+      "gloss": "lagabali"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kokura"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "והמעטתים",
+      "gloss": "ne y'u dɔgɔya"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "walasa a tɛna ma"
+    },
+    {
+      "surface": "רדות",
+      "gloss": "minɛ fanga"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "siyaw kan"
+    }
+  ],
+  "timestamp": "2026-10-14T04:11:00.621414324Z",
+  "model": "glm-5.3"
+}

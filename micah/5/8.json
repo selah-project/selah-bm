@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 5:8",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the remnant of Jacob",
+      "rationale": "Direct second-person address ('your hand, your adversaries') to the same remnant named in the third person just before."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɔge",
+      "rationale": "כרת 'cut off' is a cutting verb; rendered 'be finished off' since Bambara idiom does not cut enemies."
+    }
+  ],
+  "translation": "I bolo bɛna kunbɔ i kɛlɛtɔw kan, ani i ɲɛtigiw bɛɛ bɛnu bɔge.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8a0405cdaac9d4f8b11d0576239c7ade151d71a4101da006986a61128feb32a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/5\/5-8.1791938922451.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרום",
+      "gloss": "kunbɔ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "i bolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "kɛlɛtɔw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ɲɛtigiw"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bɔge"
+    }
+  ],
+  "timestamp": "2026-10-14T00:48:42.453088709Z",
+  "model": "glm-5.3"
+}

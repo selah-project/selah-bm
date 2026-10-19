@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארץ זבת חלב ודבש",
+      "rationale": "kɔkɔrɔda-kuma: 'dugukolo min bɛ nɛnɛ ni kɔnɔmɔji ɲagami' — cogo min bɛ se ka kuma kɔrɔ ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss-part": "na-ila min bɛ Bamanankan na kɔrɔda la"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הארץ \/ ארץ",
+      "rationale": "dugukolo toɔ-kɔlɔkolo, ni sɛbɛn-kuma kelen Bamanankan na"
+    }
+  ],
+  "translation": "A ye an minɛ na o yɔrɔ na, ani a ye ⟨את⟩ dugukolo nin di an ma — dugukolo min bɛ nɛnɛ ni kɔnɔmɔji ɲagami.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8560cf8f5f4299fe711a48670fcdc54ff5d314e86973bb6c853d03524715d695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/26\/9-12.1791928146922.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "a ye an minɛ na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(na)"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "o yɔrɔ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a ye … di"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo nin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "min bɛ … ɲagami"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nɛnɛ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "kɔnɔmɔji"
+    }
+  ],
+  "timestamp": "2026-10-13T21:49:06.925069207Z",
+  "model": "glm-5.3"
+}

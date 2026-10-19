@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "Aramaic אלהא (Elaha) rendered Elohim, the Name kept, not the common title Ala."
+    },
+    {
+      "kind": "crux",
+      "subject": "חנוכת",
+      "rationale": "Aramaic 'chanukkah' = consecration\/dedication; rendered daminɛ-afɛre (beginning-rite) rather than borrowing the festival name."
+    }
+  ],
+  "translation": "Yisrael denw — sarakalasebagaw, Lewidenw, ni gɛlɛya-kɔrɔ denw tɔ ɲɛfanw — ye Elohim so in ka daminɛ-afɛre kɛ ni dɛdɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "72de1c704595ee46de1896f85a8d5505a702ba54afd2c8898d526b79acdb2848",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/6\/13-16.1791946482807.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "ye … kɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "Lewidenw"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "tɔ ɲɛfanw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "gɛlɛya-kɔrɔ"
+    },
+    {
+      "surface": "חנוכת",
+      "gloss": "daminɛ-afɛre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "in"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "ni dɛdɛ ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:54:42.809316879Z",
+  "model": "glm-5.3"
+}

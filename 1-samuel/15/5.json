@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וירב",
+      "rationale": "lemma 'wrangle\/contend' ni 'ambush': e.g. ylt. 'layeth wait', wycliffe. 'buschementis' — an ka jɔcogo: dogoya-tileni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kolon",
+      "rationale": "נחל = ji-kolon (saanji-kolon) walima kolonkɛrɛncɛ; Bamanankan kelen tɛ o cɔgɔya fila bɛɛ."
+    }
+  ],
+  "translation": "Shaul (Sa ul) nana Amalek ka dugu ma, ka dogoya a kɛ kolon in na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/15\/5-8.1791930314040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ka dogoya a kɛ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "kolon in na"
+    }
+  ],
+  "timestamp": "2026-10-13T22:25:14.041459983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 6:21",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oyo",
+      "rationale": "Hebrew verb 'ate' carries no object; the passover from 6:20 supplied in brackets"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dancɛ (juguyɔrɔ)",
+      "rationale": "הגולה 'the exile' rendered as 'captivity\/place-of-suffering', no single Bambara word for golah"
+    },
+    {
+      "kind": "elision",
+      "subject": "אלהם 'unto them'",
+      "rationale": "preposition folded into 'ka kɛ u ye' rather than a standalone word"
+    }
+  ],
+  "translation": "Israyɛl denw minnu nana dancɛ (juguyɔrɔ) la segin, ani mɔgɔ bɛɛ min y'u yɛrɛ bo dugukolo siyaw ka tumankɔni la ka kɛ u ye, ka Yawe ɲinini, Israyɛl Ala ye, olu dun ⟨oyo⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "33cb85166db28eef2ae1bfbc2c2005bc44bb2a5bbb16baa2412f4c7409040926",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/6\/21-22.1791946446687.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "dun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "השבים",
+      "gloss": "minnu nana … segin"
+    },
+    {
+      "surface": "מהגולה",
+      "gloss": "dancɛ (juguyɔrɔ) la"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "הנבדל",
+      "gloss": "min y'u yɛrɛ bo"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "tumankɔni"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "u fɛ"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "ka ɲinini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    }
+  ],
+  "timestamp": "2026-10-14T02:54:06.689663133Z",
+  "model": "glm-5.3"
+}

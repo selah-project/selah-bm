@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔkɔrɔkɛlaw",
+      "rationale": "בוגדים ye mɔgɔ minnu bɛ a tɔgɔ tiɲɛni (treacherous) — 'kɔkɔrɔkɛlaw' daɲɛ jugu dɔ ta"
+    },
+    {
+      "kind": "addition",
+      "subject": "olu ka",
+      "rationale": "nɔnabila farala a kan walasa a ka clear kɔ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תנחם\/ושדם",
+      "rationale": "guide-vs-destroy filana tilennen — proverb ka jɔcogo, Bamanankan b'a mara"
+    }
+  ],
+  "translation": "Mɔgɔ tilennw ka tifinniya bɛ u ɲɛnabɔ; nka mɔgɔ minnu bɛ kɔkɔrɔ kɛ, olu ka kolokoroya bɛ u tiɲɛnbɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/11\/1-4.1791942480982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "tifinniya"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "mɔgɔ tilennw"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "bɛ u ɲɛnabɔ"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "ani kolokoroya"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "kɔkɔrɔkɛlaw"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "bɛ u tiɲɛnbɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:48:00.983412382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gɛlɛya",
+      "rationale": "בצר ye 'kɛnɛ datugulen yɔrɔ' kɔrɔ ye; 'gɛlɛya' (distress) ye a ka cogo tilennen ye Bamanankan na"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ye u da",
+      "rationale": "פצה שפתי 'ka kunminɛ lɔ' ye Heburu ka daɲɛ ye kɔrɔ 'kuma daminɛli'; Bamanankan fɔcogo 'ye u da'"
+    }
+  ],
+  "translation": "Minnu n ka kunminɛw ye u da, ani n ka da yɛ a fɔ n ka gɛlɛya la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ef6496500d961eddf099523221f693085f9844f360a45953e1f5b8115cf19cfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/66\/14-15.1791951216349.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "ye u da"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "n ka kunminɛw"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ani … yɛ a fɔ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "n ka da"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "gɛlɛya kɔnɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:36.350108359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Shaulu",
+      "rationale": "Direct imperative request, uncle pressing Saul"
+    },
+    {
+      "kind": "secret",
+      "subject": "kingship matter",
+      "rationale": "The uncle's probing question begins the theme of what Samuel told Saul, which Saul will withhold"
+    }
+  ],
+  "translation": "Shaulu kɔrɔkɛ ko: «K'a fɔ ne ye, i tigi, Shemuel y'aw ye kumalen mun?»",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "30eadc316bcb92e42884cbdd0e1e5a4b65f6e9d96542a71e6ad196854f356a50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/10\/13-16.1791930183085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kɔrɔkɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulu"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "K'a fɔ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "i tigi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kumalen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    }
+  ],
+  "timestamp": "2026-10-13T22:23:03.087113718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 9:31",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Hɛrɛ don wa, Zimri",
+      "rationale": "'Is it peace, Zimri?' — greeting to Jehu, or sarcastic insult calling him a regicide like Zimri (1 Kgs 16); KJV reads as question about Zimri, JPS as address"
+    },
+    {
+      "kind": "you",
+      "subject": "Izabel ko Yehu ye",
+      "rationale": "Jezebel's mocking direct address to Jehu at the gate"
+    },
+    {
+      "kind": "addition",
+      "subject": "min ye",
+      "rationale": "relative pronoun supplied; Hebrew juxtaposes bare participle 'killer of his master'"
+    }
+  ],
+  "translation": "Yehu ye don dugu da kɔnɔ, Izabel ko: “Hɛrɛ don wa, Zimri, min ye ⟨i⟩ matigi faga?”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/9\/29-32.1791932746776.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ye don"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "dugu da kɔnɔ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Hɛrɛ don wa"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "faga"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "a matigi"
+    }
+  ],
+  "timestamp": "2026-10-13T23:05:46.782585172Z",
+  "model": "glm-5.3"
+}

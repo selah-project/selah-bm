@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨don⟩",
+      "rationale": "Heburukan ma kumbo-daɲɛ sɔbɛ; Bamanankan b'a wajibiya"
+    },
+    {
+      "kind": "crux",
+      "subject": "עבות",
+      "rationale": "'kabaw' (jɛnsɛnw) — walima jate ni 'a y n bɔ kabaw la' i n'a fɔ BSB fɔcogo; KJV ni JPS bɛ 'kabaw tugun' fɔ"
+    }
+  ],
+  "translation": "Yawe ⟨don⟩ ɲɛmatigi; a ye jugutɔrɔw ka kabaw tugun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/129\/1-4.1791941743140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ɲɛmatigi"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "ye ... tugun"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "kabaw"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jugutɔrɔw ka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:43.141703700Z",
+  "model": "glm-5.3"
+}

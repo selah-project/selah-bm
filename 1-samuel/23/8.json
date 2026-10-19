@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ɲɛ jɔ",
+      "rationale": "לצור kɔrɔ ye 'ka gili \/ ka dogo' ye (besiege); 'ɲɛ jɔ' (kɛli-ɲɛ) nɔgɔyara Bamanankan na"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka bɔ a nɔ na",
+      "rationale": "לרדת (ka bɔ) kɔrɔ ka gɔrɔ; 'taa' de farala a kan Bamanankan na"
+    }
+  ],
+  "translation": "Shawul ye ⟨את⟩ jama bɛɛ wele ka kɛ kɛli-ba la, ka bɔ a nɔ na taa Kelila, ka Dawid ni a ka mɔgɔw ɲɛ jɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f765b91ec771635750517e5b559e3ada8496408aab9c43e04f844148f249c2e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/23\/5-8.1791930569536.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wele"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ka kɛ kɛli-ba la"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ka bɔ a nɔ na taa"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kelila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ka ... ɲɛ jɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "a ka mɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:29:29.541325572Z",
+  "model": "glm-5.3"
+}

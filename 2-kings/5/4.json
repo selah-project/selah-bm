@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כזאת וכזאת",
+      "rationale": "Heburukan 'nin ni nin' — mɔgɔ min bɛ kuma dɔnna, a bɛ a lakuraya cogo min na; sɛbɛnni-baga bɛɛ b'a fɔ 'thus and thus'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויבא",
+      "rationale": "Heburukan ma tɔgɔ sɔrɔ (Naaman de ti a kɔrɔta), KJV fana ma a fɔ 'one went in' — nka dɔnniya bɛ tɛmɛsira in na."
+    }
+  ],
+  "translation": "A na, a y'a fɔ a Matigi ye ko: denmusokɔrɔ min bɔra Isirayɛl (Izirayɛl) dugukolo na, o ko nin ni nin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a6a8d8d4ea4a9f3edbaec983a33844bc88ff8242752b0e5901fa3784aa65c7c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/5\/1-4.1791932723546.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a na"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a y'a fɔ … ye"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "a Matigi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ni nin"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "o ko"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "denmusokɔrɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    }
+  ],
+  "timestamp": "2026-10-13T23:05:23.553397197Z",
+  "model": "glm-5.3"
+}

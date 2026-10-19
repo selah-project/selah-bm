@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jiriden",
+      "rationale": "Hebrew says only 'the root of the righteous gives'; the object jiriden is supplied (as most versions do) and bracketed."
+    },
+    {
+      "kind": "crux",
+      "subject": "מצוד",
+      "rationale": "'net' vs 'prey\/plunder' (JPS) vs 'stronghold\/tower' — the root covers hunting-net and fortress; fila keeps the net."
+    }
+  ],
+  "translation": "Kɛngɛyamɔgɔ bɛ kɛngɛyamɔgɔw ka fila fɛ; nka ɲɛfɛ-dɔnnenw ka kɔgɔ bɛ ⟨jiriden⟩ di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/12\/9-12.1791942380636.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "bɛ ... fɛ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kɛngɛyamɔgɔ"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "fila"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kɛngɛyamɔgɔw"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "kɔgɔ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ɲɛfɛ-dɔnnenw"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bɛ ⟨jiriden⟩ di"
+    }
+  ],
+  "timestamp": "2026-10-14T01:46:20.638247331Z",
+  "model": "glm-5.3"
+}

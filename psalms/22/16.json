@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ne da",
+      "rationale": "מלקוחי is a dual, 'my jaws-two'; Bambara has no dual, singular 'da' used"
+    },
+    {
+      "kind": "crux",
+      "subject": "כארי",
+      "rationale": "not in this verse's consonantal text as given; the famous 'like a lion \/ pierced' crux belongs to the following clause variants"
+    },
+    {
+      "kind": "you",
+      "subject": "i ye ne bilala",
+      "rationale": "direct address to Yawe, who lays the speaker in the dust of death"
+    }
+  ],
+  "translation": "Ne seko ɲɔgɔnna i n'a fɔ kagolo, ne kan dɔnnenne ne da la; i ye ne bilala saya buguri la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/22\/13-16.1791939795656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "ɲɔgɔnna"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "i n'a fɔ kagolo"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ne seko"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ne kan"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "dɔnnenne"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "ne da"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "buguri"
+    },
+    {
+      "surface": "מות",
+      "gloss": "saya"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "i ye ne bilala … la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:15.657209842Z",
+  "model": "glm-5.3"
+}

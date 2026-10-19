@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "direct second-person address to God recalling the exodus march."
+    },
+    {
+      "kind": "addition",
+      "subject": "waati la",
+      "rationale": "Bambara needs a temporal frame ('when') for the infinitive construct בצאתך."
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "musical pause marker kept untranslated as Selah."
+    }
+  ],
+  "translation": "Elohim, i y'i bɔ i ka mɔgɔw ɲɛ fɛ waati la, i y'i tila dezɛrɛ kɔnɔ — Selah.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/68\/5-8.1791940539579.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "i y'i bɔ … waati la"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛ fɛ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i ka mɔgɔw"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "i y'i tila"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "dezɛrɛ kɔnɔ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-14T01:15:39.581089923Z",
+  "model": "glm-5.3"
+}

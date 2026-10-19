@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 14:27",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ma kuma",
+      "rationale": "דבר 'said not' vs 'had not decreed' (Geneva) — Hebrew is plain 'had not spoken', not a decree verb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tɔgɔ ma bɔ",
+      "rationale": "למחות את שם 'erase the name' — Hebrew picture of wiping\/smoothing away a memorial inscription"
+    }
+  ],
+  "translation": "Yawe ma kuma ko ⟨a bɛna⟩ Israyɛl ⟨את⟩ tɔgɔ ma bɔ sankolow jukɔrɔ; nka a y'u lasigi Yarobam (Yeroboam), Yowash (Joash) denkɛ bolo fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "364ac45cf1af0d5407fc22eff84f62a369f62a22f85853a48afd521829c006d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/14\/27-28.1791950688399.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "ko ka ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyɛl tɔgɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "jukɔrɔ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "a y'u lasigi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yowash"
+    }
+  ],
+  "timestamp": "2026-10-14T04:04:48.399645227Z",
+  "model": "glm-5.3"
+}

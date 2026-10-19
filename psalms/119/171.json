@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bɛ fɔ",
+      "rationale": "נבע literally means to gush forth (like a spring) — lips pour forth praise; rendered plain 'speak'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ne da",
+      "rationale": "Bambara lacks a fixed everyday word for שפה (lips); mouth 'da' used in its place."
+    }
+  ],
+  "translation": "Ne da bɛ duba fɔ, sabu i b'i sariya kalan ne ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4bde22fbd19dac0a7ab8e8cf603b0923a5a602e1046e230f27de7ea05fe86548",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/169-172.1791941620435.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "bɛ fɔ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ne da"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "duba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "i bɛ kalan ne ye"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i sariya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:40.436541885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 7:7",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סרני (seren)",
+      "rationale": "Philistine ruler-title 'seren' is foreign to Israelite vocabulary; rendered as sarannuw (lords)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויעלו",
+      "rationale": "'went up' rendered as kɛra (marched against), the military sense"
+    }
+  ],
+  "translation": "Pelisitiw ye a mɛn ko Israeldenw ye u lajɛ Mitspa; Pelisitiw ka sarannuw ye kɛra Israel fɛ. Israeldenw ye o mɛn, ka Pelisitiw siran.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f9cb12d297b8855d98cd3efedbc08ec8bcaf762f33d857d83c43ae0aab7e1073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/7\/6-7.1791950196865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "u ye a mɛn"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisitiw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "u ye u lajɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Israeldenw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "u ye kɛra"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "sarannuw"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisitiw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "u ye o mɛn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Israeldenw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ka siran"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…fɛ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisitiw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:56:36.866781886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "2-kings 4:44",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Object pronoun supplied: Hebrew ויתן gives before them without naming the thing"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויאכלו\/ויותרו",
+      "rationale": "Eat\/left-over echo the prophecy אכל והותר of v43 — fulfillment mirrors the word"
+    }
+  ],
+  "translation": "A ye ⟨a⟩ di u ɲɛfɛ; u ye dunu, fɛn tugura — i ko Yawe kuma ye cogo min na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "16b0c5072114224bff22c13dbdd384c7f3b488ac72cd1e5646f87dea477b7c4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/4\/41-44.1791932630221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a ye di"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "u ɲɛfɛ"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "u ye dunu"
+    },
+    {
+      "surface": "ויותרו",
+      "gloss": "fɛn tugura"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "i ko kuma ye cogo min na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T23:03:50.230973692Z",
+  "model": "glm-5.3"
+}

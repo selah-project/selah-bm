@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 3:13",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "land allocation",
+      "rationale": "Verse assigns territory to the half-tribe of Menashe with named regions and boundaries."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Refaim",
+      "rationale": "רפאים is rendered as the name 'Refaim'; some versions translate 'giants' (karamɔgɔw) instead of keeping the name."
+    },
+    {
+      "kind": "elision",
+      "subject": "חבל",
+      "rationale": "'Rope\/measuring-line → district' compressed to 'yɔrɔ'; the measuring-line picture is lost."
+    }
+  ],
+  "translation": "Ni Gilad tɔɔrɔ, ani Bashan bɛɛ, minnu ye Og ka masakɛya ye, ne ye i di Menashe bila tilefan ma; Argob yɔrɔ bɛɛ — Bashan bɛɛ min de ye, a bɛ wele Refaim duguye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c36051e3bc6d73039da18a663527e9820265d30406423c3d1cd34ce4cc5296e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/3\/13-16.1791927514012.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "tɔɔrɔ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "masakɛya"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ne ye … di"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "tilefan ma"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "bila"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "yɔrɔ"
+    },
+    {
+      "surface": "הארגב",
+      "gloss": "Argob"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ ye"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "min de ye"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "a bɛ wele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duguye"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    }
+  ],
+  "timestamp": "2026-10-13T21:38:34.013829321Z",
+  "model": "glm-5.3"
+}

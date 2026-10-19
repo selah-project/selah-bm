@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 6:1",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בית ספריא",
+      "rationale": "'sɛbɛn so' (house of books\/archives) — KJV 'house of the rolls', JPS 'house of the archives'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "gloss-note": "",
+      "rationale": "Bambara 'ani' covers the vav-consecutive; the prefix itself has no standalone word."
+    }
+  ],
+  "translation": "O waati la, Daryawesu (Daryusu) masakɛ ye dasi da, ani u ye ɲini sɛbɛn so kɔnɔ, min bɛ ganjamabaga so kɔnɔ min bɛ Babeli (Babyloni) kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "595d45e283f6e0427f6dd682868906ac09686f58d9c281b391173641c1fc8856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/6\/1-4.1791946559709.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "o waati la"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Daryawesu (Daryusu)"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ye … da"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "dasi"
+    },
+    {
+      "surface": "ובקרו",
+      "gloss": "ani u ye ɲini"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so kɔnɔ"
+    },
+    {
+      "surface": "ספריא",
+      "gloss": "sɛbɛnw"
+    },
+    {
+      "surface": "די",
+      "gloss": "min"
+    },
+    {
+      "surface": "גנזיא",
+      "gloss": "ganjamabagaw"
+    },
+    {
+      "surface": "מהחתין",
+      "gloss": "minnu bɛ bila"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Babeli (Babyloni) kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:55:59.710625075Z",
+  "model": "glm-5.3"
+}

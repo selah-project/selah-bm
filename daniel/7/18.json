@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 7:18",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elyon",
+      "rationale": "עליונין 'Most High' kept as the fixed name Elyon, not a common title."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלמא…עלם…עלמיא",
+      "rationale": "threefold pile-up of 'age' — age, and age of ages — the Hebrew\/Aramaic escalation is kept literally."
+    }
+  ],
+  "translation": "Senumaw — Elyon ka mɔgɔw — bɛna masaya minɛ, k'u bɛna masaya mara fo waati jan na, fo waati jan ni waati jannenw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "57f7ba244d0a93aba922325ef013d1568b5b79c9f932a01d7edd7c85c9cbed38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/7\/17-20.1791946101850.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבלון",
+      "gloss": "bɛna minɛ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "masaya"
+    },
+    {
+      "surface": "קדישי",
+      "gloss": "senumaw"
+    },
+    {
+      "surface": "עליונין",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ויחסנון",
+      "gloss": "bɛna mara"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "masaya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "waati jan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ni fo"
+    },
+    {
+      "surface": "עלם",
+      "gloss": "waati jan"
+    },
+    {
+      "surface": "עלמיא",
+      "gloss": "waati jannenw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:48:21.851167681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "jatebɔlanw",
+      "rationale": "The verse is an act of weighing: the king is put on the scales and measured."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תקל\/תקילתה",
+      "rationale": "The inscribed TEKEL is repeated as the verb 'you are weighed'; the pun is lost in Bamanankan."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nɔgɔya",
+      "rationale": "חסיר literally 'lacking\/deficient', weight that falls short; rendered 'i nɔgɔya don'."
+    }
+  ],
+  "translation": "Tekel — i jateya jatebɔlanw la, o y'i ye a ye ko i nɔgɔya don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0917f7e1ba5a53a8f508b95eefab6d0e9edd6cdf8adcb96d20f320efc93b522d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/5\/26-27.1791951476014.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "Tekel"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "i jateya"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "jatebɔlanw la"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "o y'i ye a ye"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "i nɔgɔya don"
+    }
+  ],
+  "timestamp": "2026-10-14T04:17:56.014613509Z",
+  "model": "glm-5.3"
+}

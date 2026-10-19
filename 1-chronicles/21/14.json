@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mugan kɛmɛ-tan mɔgɔ",
+      "rationale": "Counted toll: seventy thousand men; Hebrew אלף 'thousand' rendered by the Bambara kɛmɛ-tan."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bana",
+      "rationale": "דבר pestilence rendered by the generic bana (sickness); the specific plague-word has no single Bambara equivalent."
+    }
+  ],
+  "translation": "Yawe ye bana di Isirayili kɔnɔ, ani Isirayili mɔgɔ mugan kɛmɛ-tan bɛɛ sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6622344e411bed2f75dcdf45edb198fb3409d98dc2e8e2bc5adfd420d64f78cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/21\/13-16.1791948199298.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ye ... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isirayili kɔnɔ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Isirayili la"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mugan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kɛmɛ-tan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:23:19.300263881Z",
+  "model": "glm-5.3"
+}

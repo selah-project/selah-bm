@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שיחה",
+      "rationale": "same rare noun שיחה returns from v.97 — the refrain 'my meditation' binds the strophe; a single Bambara word keeps the echo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ko kɔrɔ⟩",
+      "rationale": "comparative מ prefix again rendered explicitly"
+    }
+  ],
+  "translation": "Ne ka dɔnni ka gɛn ⟨ko kɔrɔ⟩ ne ka kalanbagaw bɛɛ, sabu i ka seerew ye ne ka miirili ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/97-100.1791941672782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "⟨ko kɔrɔ⟩ … bɛɛ"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "ne ka kalanbagaw"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "ne ka dɔnni ka gɛn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "i ka seerew"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "miirili"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:32.783676905Z",
+  "model": "glm-5.3"
+}

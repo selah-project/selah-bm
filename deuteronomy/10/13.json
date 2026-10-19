@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "walasa ka",
+      "rationale": "infinitive prefix lamed rendered with purpose-linker since Bamanankan has no bound infinitive"
+    },
+    {
+      "kind": "invitation",
+      "subject": "dɔlɔw minnu bɛ laseli",
+      "rationale": "verse continues Moses' summons to Israel begun in v.12"
+    }
+  ],
+  "translation": "walasa ka ⟨את⟩ Yawe ka tagalitɔw ni ⟨את⟩ a ka sariyaw mara, minnu de ne b'i dalilu kɛ bi, i nafa kama.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "32f896c69cffcd09c14dbd825904cfcf2c6fbe5963b6e54df807c7bb4e7242c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/10\/13-16.1791927686558.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "walasa ka ... mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ka tagalitɔw"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tagalitɔw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ka sariyaw"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "a ka sariyaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "b'i dalilu kɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "i nafa kama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-10-13T21:41:26.561690535Z",
+  "model": "glm-5.3"
+}

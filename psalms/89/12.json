@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ye i ta ye⟩",
+      "rationale": "Heburukan תבל ye dɔrɔn 'aduniya' kɔrɔ (dugukolo min bɛ mogow sugandi) — Bamanankan tɛ o daɲɛ dɔnnen ta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aduniya",
+      "rationale": "Heburukan לך dugukolo ye dɔrɔn — Bamanankan 'ye … ye' jɔcogo de farala a kan, sabu תבל ye dɔrɔn 'aduniya' kɔrɔ"
+    }
+  ],
+  "translation": "Sankolow ⟨ye i ta ye⟩, dugukolo fana ⟨ye i ta ye⟩; aduniya ni a ka filla bɛɛ, I ye u da.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/89\/9-12.1791940978386.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "i ta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "aduniya"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ni a ka filla bɛɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "I"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "ye u da"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:58.387473609Z",
+  "model": "glm-5.3"
+}

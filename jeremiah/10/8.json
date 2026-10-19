@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 10:8",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבערו",
+      "rationale": "בער means both 'burn\/kindle' and 'be brutish' — the idol of wood is both fuel and fool; the pun is lost."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ובאחת",
+      "rationale": "'as one \/ at one time \/ in one thing' — rare construction; rendered 'u bɛɛ ye kelen ye' (together as one)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hɛbɛlɛw",
+      "rationale": "הבלים kept as the Hebrew marker-word 'hɛbɛlɛw' (vapors, vanities) rather than collapsed to 'batofɛnw'."
+    }
+  ],
+  "translation": "O kɔfɛ, u bɛɛ ye kelen ye, u bɛ ka gɛlɛya kɛ, u tɛ faamu: hɛbɛlɛw ka kalan ye jiri de ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3de59caafb89fa41a15557fd268c4eaef4097bcb65b90b88d8b024fab11557bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/10\/5-8.1791935136475.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאחת",
+      "gloss": "u bɛɛ ye kelen ye"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "bɛ ka gɛlɛya kɛ"
+    },
+    {
+      "surface": "ויכסלו",
+      "gloss": "tɛ faamu"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "hɛbɛlɛw"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-10-13T23:45:36.478945265Z",
+  "model": "glm-5.3"
+}

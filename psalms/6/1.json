@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השמינית",
+      "rationale": "Sheminit: jate-daɲɛ 'walanan', laseli min bɛ kɛ ni ngini wolonwula ye walima a daliluw la; KJV fɔ 'on the eighth'."
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "Sɔgɔsira daɲɛ min ka gɛlɛn: 'nɛmɔgɔ ma' (cantor\/superintendent) — sɛbɛnni-kɔrɔ minnu bɛ u kalan, u b'a fɔ 'to the chief musician'."
+    }
+  ],
+  "translation": "Dawuda (Dawid) ka mizimoro, nɛmɔgɔ ma, nginikɔfɛdaɲɛw la, walanan (sheminit) kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/6\/1-4.1791939494517.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "nɛmɔgɔ ma"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "nginikɔfɛdaɲɛw la"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "walanan (sheminit)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizimoro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuda (Dawid) ka"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:14.518122032Z",
+  "model": "glm-5.3"
+}

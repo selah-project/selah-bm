@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 6:20",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טהורים → jɛlenw",
+      "rationale": "Hebrew tahor is ceremonial purity, not mere cleanness; jɛlen (clean\/clear) is the nearest plain word."
+    },
+    {
+      "kind": "addition",
+      "subject": "y'u yɛrɛ",
+      "rationale": "Reflexive pronoun added: Bambara needs y'u yɛrɛ jɛ where Hebrew says simply 'they purified themselves'."
+    }
+  ],
+  "translation": "Sabu sarakalasebagaw ni Lewiyenw y'u yɛrɛ jɛ iyonfɛ bɛɛ ye, u bɛɛ jɛlenw don; u ye ⟨את⟩ Pesaki faga golodenw bɛɛ kama, ani u balimaw sarakalasebagaw kama, ani u yɛrɛ kama.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "390652fcd415b9f860c70f66242fd8778ea921a533c1b5cbc1d44cd70b6baf2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/6\/17-20.1791946443833.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הטהרו",
+      "gloss": "y'u yɛrɛ jɛ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ani Lewiyenw"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "iyonfɛ bɛɛ ye"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "u bɛɛ"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "jɛlenw"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "u ye ... faga"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "golo"
+    },
+    {
+      "surface": "ולאחיהם",
+      "gloss": "ani u balimaw"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "ani u yɛrɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:54:03.838793644Z",
+  "model": "glm-5.3"
+}

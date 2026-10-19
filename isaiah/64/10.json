@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Yawe",
+      "rationale": "Hebrew הללוך has only the suffix 'you' ('praised you'); the Name Yawe supplied as the object since the language requires an overt noun"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחמדינו",
+      "rationale": "'Our desirable things' rendered 'our things that are pleasing' — the Hebrew single word covers delight and desire"
+    }
+  ],
+  "translation": "An ka so senuma ni an ka kɔnɔgɔsira min kɔnɔ an ka baw ye Yawe ladiri, a kera tasuma ye; an ka fɛn minnu di, olu bɛɛ kera yɔrɔbali ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bc774ce81b29543c300c47e3d7ec7c3b2a3c0fa31742a26f175a7dc3efaeb8fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/64\/9-11.1791934826310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "an ka senuma"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "ni an ka kɔnɔgɔsira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min kɔnɔ"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "ye Yawe ladiri"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "an ka baw"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kera"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "tasuma ye"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "olu bɛɛ"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "an ka fɛn minnu di"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kera"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "yɔrɔbali ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:40:26.311968469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "superscription kept as address 'to the chief musician', no clause in Hebrew"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nginiw",
+      "rationale": "בנגינת is 'on stringed instruments'; ngini is the Bambara stringed instrument word"
+    }
+  ],
+  "translation": "Kɔnɔ ɲɛmɔgɔ ma, nginiw fɛ, Asaf (Asafi) ka sɛbɛn, donkili.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/76\/1-4.1791940671152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kɔnɔ ɲɛmɔgɔ ma"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "nginiw fɛ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf ka"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "donkili"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:51.153211892Z",
+  "model": "glm-5.3"
+}

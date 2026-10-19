@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "min ye … ye",
+      "rationale": "Bambara relative 'who is' supplied for the apposition 'son of Jesse'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "colophon",
+      "rationale": "Scribal closure marking the end of David's prayers (end of Book II of Psalms)."
+    }
+  ],
+  "translation": "Banna Dawid (Dawuda) ka kabaliliw, min ye Yishay (Isai) denkɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/72\/17-20.1791940679020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "banna"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "kabaliliw"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid (Dawuda)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay (Isai)"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:59.021899501Z",
+  "model": "glm-5.3"
+}

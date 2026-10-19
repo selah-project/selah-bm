@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sanu",
+      "rationale": "חלב 'dabolo\/sanu' (fat) bɛ fɔ 'ka gɛlɛn kosɛbɛ \/ ka nɔgɔya' na — misali: sanu ye chiwɛrɛ ka nɔgɔnya ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "wale-daɲɛ 'a' (Yawe) ma sɔrɔ Heburukan kɔnɔ; a bɛ fɔ ⟨a⟩ ye wale-daɲɛ la"
+    },
+    {
+      "kind": "crux",
+      "subject": "wale-yɛlɛma",
+      "rationale": "Heburukan bɛ fɔ tiɲɛ na ('a y'a dun'); KJV b'a fɔ 'a tun na a kɛ' — Yawe ka kuma min bɛ kɔrɔte la, ni jate-cogo yɛrɛ tun bɛ yen"
+    }
+  ],
+  "translation": "A y'a dun chiwɛrɛ ka sanu ye, ani kabakurun kunu na ne b' i ɲagami.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f17a751f62b004dc4f2d422c1e60b272b76d4dcecbeb206ea71fdef412e26ff1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/81\/17-17.1791940809336.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "a y'a dun"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ka sanu ye"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "chiwɛrɛ"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "ani kabakurun na"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "kunw"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "ne b' i ɲagami"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:09.337281563Z",
+  "model": "glm-5.3"
+}

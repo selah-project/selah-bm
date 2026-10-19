@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 8:25",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "san tan ni fila",
+      "rationale": "regnal-year dating formula: accession year synchronized with Joram of Israel."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Yoram\/Yihuram",
+      "rationale": "Hebrew uses short forms (יורם) for both kings here; identical names in one verse distinguish Israel from Judah."
+    }
+  ],
+  "translation": "San tan ni fila don Yoram (Jorama) denkɛ Ahaw (Ahaba) Yisrayel masakɛ masakɛya la, Ahazyawu Yoram denkɛ Yehuda masakɛ kɛra masakɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4a1b0acfc57e7eb19ee695e459ef2abb98518bbae58973c573515848da0cab8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/8\/25-28.1791932850022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "san…don"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "fila"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "Yoram fɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaw"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kɛra masakɛ ye"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazyawu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-13T23:07:30.025503430Z",
+  "model": "glm-5.3"
+}

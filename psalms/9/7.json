@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האויב",
+      "rationale": "KMT bɛ fɔ 'O thou enemy' (yɔrɔ dɔ la kuma); ASV bɛ fɔ 'the enemy (w) are come to an end' — תמו fitini kalan (diacritics) bɛ jira ko kelen-kelen bɛɛ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרבות",
+      "gloss": "yeremawaliw",
+      "rationale": "חרבה kɔrɔ-yɛrɛ ye 'dɔgɔkun \/ ɲɛjin-ko-diw' ye (drought → desolation), 'sword' (חרב) tɛ o ye — diacritics b'u lasɔrɔ."
+    },
+    {
+      "kind": "you",
+      "subject": "batigi-o",
+      "rationale": "Dɛnmɔgɔlasira kuma bɛ tugu batigi ma."
+    }
+  ],
+  "translation": "Batigi-o, ⟨yeremawaliw⟩ banna lebuma na; ani duguw minnu i y'u tigɛ, u fɔli banna ni olu ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/9\/5-8.1791939628135.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "batigi-o"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "banna"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "yeremawaliw"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "lebuma"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ani-duguw"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "tigɛ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "u-fɔli"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olu-ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:28.136445726Z",
+  "model": "glm-5.3"
+}

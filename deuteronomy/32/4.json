@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Kunjɛ",
+      "rationale": "הצור is 'the Rock' as a divine epithet; Bambara 'kunjɛ' (rock) keeps the literal picture"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "Hebrew emphatic pronoun 'he' closes the verse; rendered by Bambara emphatic 'a' structure without a separate word"
+    }
+  ],
+  "translation": "Kunjɛ de — a baara bɛ ɲɛ ka ban; sabu a siraw bɛɛ ye ɲɛsigi-sariya ye; El ye tiɲɛlen ye, walongo tɛ a la; a ye cɛɲuma ye, a ka ɲɛ ka tondɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ea134ecc658e6dcff41e48ec371637446f66eb77588760d54d8fcd24bfc9dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/32\/1-4.1791928407774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "Kunjɛ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bɛ ɲɛ ka ban"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "a baara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "a siraw"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ɲɛsigi-sariya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "tiɲɛlen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "walongo tɛ a la"
+    },
+    {
+      "surface": "עול",
+      "gloss": "walongo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cɛɲuma"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ka ɲɛ ka tondɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-10-13T21:53:27.777122068Z",
+  "model": "glm-5.3"
+}

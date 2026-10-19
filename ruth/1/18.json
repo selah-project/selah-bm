@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתה",
+      "rationale": "Nin ye ⟨את⟩ taamasiyɛn ye (H854 — 'ni a ye' kɔrɔ), aleph-tav direct-object taamasiyɛn (H853) tɛ o ye; o la a bayɛlɛmara 'ni ⟨את⟩ ye'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "misirila a kan",
+      "rationale": "מתאמצת kɔrɔ ka ɲɛ: a yɛrɛ miiri bonya — 'a misirila a kan' ye dusukun-ja dɔgɔnen ye."
+    }
+  ],
+  "translation": "Noɔmi y'a ye ko a yɛrɛ misirila a kan ka taa ni ⟨את⟩ ye, o la a ye da kuma ta a la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ruth\/1\/17-20.1791944797168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "y'a ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "misirila a kan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "a yɛrɛ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Noɔmi — ni a ye"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "ye da ta"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "a la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:26:37.173174943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a ta⟩",
+      "rationale": "Hebrew לו (to-him) rendered with possessive, Bambara needs 'ye … ye' frame"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lanbɔ",
+      "rationale": "יצרו is potter's language 'moulded', rendered 'shaped\/fashioned'"
+    }
+  ],
+  "translation": "Kɔgɔji ye ⟨a ta⟩ ye, a de ye o dilan, ani dugukolo jɛman — a bolow ye ⟨o⟩ lanbɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/95\/5-8.1791941123540.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ta"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a de"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ye o dilan"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "dugukolo jɛman"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "a bolow"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "lanbɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:23.541456125Z",
+  "model": "glm-5.3"
+}

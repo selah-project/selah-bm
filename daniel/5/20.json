@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 5:20",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוחה",
+      "gloss-note": "",
+      "rationale": "Aramaic ruḥeh rendered 'a ni' (his spirit); could also be 'a fiɲɛ'"
+    },
+    {
+      "kind": "addition",
+      "subject": "a bɛ",
+      "rationale": "Impersonal passive 'he was deposed' needs an expressed subject-phrase in Bambara"
+    }
+  ],
+  "translation": "Ni a dusukun tun jɔra kɔgɔ la, ani a ni tiɲɛra magoya la, a bɛ bɔ masakɛya longon kan, a dimiɲɛ ka bɔ a la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "100dfabf8688868b53ab38822e002b75bf89c27d26895b3dc2bbbe5968fdff06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/5\/17-20.1791945915605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכדי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "רם",
+      "gloss": "jɔra kɔgɔ la"
+    },
+    {
+      "surface": "לבבה",
+      "gloss": "a dusukun"
+    },
+    {
+      "surface": "ורוחה",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "תקפת",
+      "gloss": "tiɲɛra"
+    },
+    {
+      "surface": "להזדה",
+      "gloss": "magoya la"
+    },
+    {
+      "surface": "הנחת",
+      "gloss": "a bɛ bɔ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "כרסא",
+      "gloss": "longo"
+    },
+    {
+      "surface": "מלכותה",
+      "gloss": "masakɛya"
+    },
+    {
+      "surface": "ויקרה",
+      "gloss": "dimiɲɛ"
+    },
+    {
+      "surface": "העדיו",
+      "gloss": "ka bɔ a fɛ"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "a la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:45:15.606593873Z",
+  "model": "glm-5.3"
+}

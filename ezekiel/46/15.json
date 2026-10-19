@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Ebrukan tɛ nɔnabila sɛbɛn (ועשו fɔcogo de b'a jira), Bamanankan ka kan ka ⟨u⟩ fara a kan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lasaraka",
+      "rationale": "עולת ye lasaraka (saraka min bɛ tasuma na dun) ye"
+    }
+  ],
+  "translation": "⟨U⟩ bɛ ⟨את⟩ sagaden ni ⟨את⟩ kisɛ-saraka ni ⟨את⟩ tulu kɛ sɔgɔma sɔgɔma, lasaraka siɲɛbɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "678201398c3f8c363cf2e031c9d40e04ae5da84a11cca64b1b1858c06af52544",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/46\/13-16.1791938004704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "u bɛ kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagaden"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "sagaden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "kisɛ-saraka"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "kisɛ-saraka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "tulu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "tulu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sɔgɔma"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sɔgɔma"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "lasaraka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "siɲɛbɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:33:24.705103041Z",
+  "model": "glm-5.3"
+}

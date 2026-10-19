@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנשמת",
+      "rationale": "same Hebrew word names a bird here and a lizard in Lev 11:30; 'swan', 'horned owl', 'white owl' are all guesses — kept as the name Tinshemet"
+    },
+    {
+      "kind": "crux",
+      "subject": "bird names",
+      "rationale": "כוס, ינשוף rendered as names (little owl, great owl by guesses)"
+    }
+  ],
+  "translation": "⟨את⟩ Kos kɔnɔ, ni ⟨את⟩ Yanshuf kɔnɔ, ani Tinshemet kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f5d836106688e4b60f37766d428d2e754de45d182a38bd9c71a090c89893bada",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/14\/13-16.1791927819500.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kos kɔnɔ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "Kos kɔnɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yanshuf kɔnɔ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "Yanshuf kɔnɔ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ani Tinshemet kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:43:39.503580915Z",
+  "model": "glm-5.3"
+}

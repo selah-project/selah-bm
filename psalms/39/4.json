@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הגיג",
+      "rationale": "Meditation\/musing — this noun form occurs only here in the Tanakh."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "silence→fire",
+      "rationale": "The enforced silence of vv.2–3 turns to burning speech; the fire verb בער completes the muzzle image of v2."
+    }
+  ],
+  "translation": "N ka dusukun digiya n kɔnɔ; n ka miiri waati la, tasuma dabɔra; n ye kuma kɛ ni n kan ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/39\/1-4.1791940146134.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "digiya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "n ka dusukun"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "n kɔnɔ"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "n ka miiri waati la"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "dabɔra"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "n ye kuma kɛ"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ni n kan ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:06.135109152Z",
+  "model": "glm-5.3"
+}

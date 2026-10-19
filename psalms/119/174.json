@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 174,
+  "ref": "psalms 119:174",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dɛmɛli",
+      "rationale": "ישועה is deliverance\/victory; 'dɛmɛli' (help\/rescue) narrows it slightly."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lafiya",
+      "rationale": "שעשועים is 'delights' (plural of enjoyment); 'lafiya' (well-being) is the nearest plain Bambara word."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Hebrew is verbless nominal clause; Bambara copula supplied."
+    }
+  ],
+  "translation": "N datugunna i ka dɛmɛli la, Yawe, i ka Tora ye n ka lafiya ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5b6c1377900306498507ee58d5e01ffb1eaeb1e06fce45590d09f9e60bbabc50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/173-176.1791941605865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאבתי",
+      "gloss": "n datugunna"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "i ka dɛmɛli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "i ka Tora"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "n ka lafiya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:25.865628554Z",
+  "model": "glm-5.3"
+}

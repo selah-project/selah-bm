@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שברתי",
+      "rationale": "'I have hoped\/waited for' (שובר) vs 'I have kept' (שמר, per some Versions); Bambara follows the waiting-hope reading."
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Direct address of the psalmist to Yawe in the middle of the verse."
+    }
+  ],
+  "translation": "N ye i ka libili sabatili, Yawe; anw i ka laselidonnaw ye n kɛra.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c402f04e34d7358455eb2e7a20b694f363265af7a05473592faf51ea6042ce07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/165-168.1791941628301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "n ye … sabatili"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "i ka libili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "i ka laselidonnaw"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "n kɛra"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:48.301768365Z",
+  "model": "glm-5.3"
+}

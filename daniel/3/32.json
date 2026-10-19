@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 3:32",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne bɛ a fɛ",
+      "rationale": "'it pleased me' implied by שפר קדמי, supplied in brackets"
+    },
+    {
+      "kind": "substitution",
+      "subject": "El Elyon",
+      "rationale": "Aramaic עליא 'the Most High' kept as the name El Elyon rather than a title"
+    }
+  ],
+  "translation": "Ɛnɛnw ni kɛfɛnw minnu Ela El Elyon ye kɛ ne ye, u ka ɲi ne ɲɛ — ⟨ne bɛ a fɛ⟩ ka u jira.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "55408bb28e8f7bdbfc0d01e54c7986d85acaedbcf3c9e839ba4bc0262654dbcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/3\/29-32.1791945786738.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתיא",
+      "gloss": "ɛnɛnw"
+    },
+    {
+      "surface": "ותמהיא",
+      "gloss": "ani kɛfɛnw"
+    },
+    {
+      "surface": "די",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ye kɛ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "El Elyon"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "ne ɲɛ"
+    },
+    {
+      "surface": "להחויה",
+      "gloss": "ka jira"
+    }
+  ],
+  "timestamp": "2026-10-14T02:43:06.739962138Z",
+  "model": "glm-5.3"
+}

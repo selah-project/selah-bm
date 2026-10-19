@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ta",
+      "rationale": "וישאו ka kɔrɔ ye 'ka bil' ye (nasa): 'ta' ka surun kama, a bɛ sanigi."
+    }
+  ],
+  "translation": "Israel korikorow bɛɛ nana; sarakalasebagaw ye ⟨את⟩ sandigi in ta (ka a bil).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d4f6c78c3efa6e5588a26194cd13d66b9349a06709dd0a0ab109b05517d5f108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/1-4.1791931928654.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "nana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "korikorow"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ye … ta"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandigi in"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandigi"
+    }
+  ],
+  "timestamp": "2026-10-13T22:52:08.661177512Z",
+  "model": "glm-5.3"
+}

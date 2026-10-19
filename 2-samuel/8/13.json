@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ye tɔgɔ da",
+      "rationale": "עשה שם literally 'made a name', idiom for winning renown"
+    },
+    {
+      "kind": "crux",
+      "subject": "Aram",
+      "rationale": "2 Sam reads Aram\/Syria; Ps 60:1 title and some versions (BSB) read Edom for the 18,000"
+    },
+    {
+      "kind": "measurement",
+      "subject": "18,000",
+      "rationale": "count of the slain given as a round number"
+    }
+  ],
+  "translation": "Dawid ye tɔgɔ da ⟨a yɛrɛ ma⟩ a seginna waati min, a ye ⟨את⟩ Aram Tigɛ kominyɔ-dankun kɔnɔ — mɔgɔ wolonwula-ni-tan kɛmɛ sarada.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/8\/13-16.1791930978798.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ye … da"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "a seginna waati min"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "Tigɛ la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "dankun kɔnɔ"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "kominyɔ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kɛmɛ sarada"
+    }
+  ],
+  "timestamp": "2026-10-13T22:36:18.799881470Z",
+  "model": "glm-5.3"
+}

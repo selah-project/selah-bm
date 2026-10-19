@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "i ka yeelen-datugurili",
+      "rationale": "בכבותך is an infinitive 'at\/when I extinguish thee' (KJV, JPS) — some read it as a noun 'thy quenching'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ke dibi ye",
+      "rationale": "והקדרתי literally 'I will make ashy\/black', from קדר soot-black."
+    }
+  ],
+  "translation": "Ni n ye i ka yeelen-datugurili kɛ, n bɛna sankolow biri, n bɛna ⟨את⟩ u ka dolow ke dibi ye; n bɛna tile biri kilensinin fɛ, kalo tɛna a ka yeelen di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e5633830e5fc24685ae250da5e045fbf1822becc8f2c9ad347a3d517e7741ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/32\/5-8.1791937493951.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "n bɛna … biri"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "i ka yeelen-datugurili"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "n bɛna … ke dibi ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka dolow"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "u ka dolow"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "kilensinin fɛ"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "n bɛna … biri"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "di"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "a ka yeelen"
+    }
+  ],
+  "timestamp": "2026-10-14T00:24:53.952809571Z",
+  "model": "glm-5.3"
+}

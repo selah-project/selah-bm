@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i la⟩",
+      "rationale": "Hebrew's blessing participle lacks a copula; Bambara needs nilen don plus address"
+    },
+    {
+      "kind": "substitution",
+      "subject": "krabuya \/ banuya",
+      "rationale": "לקרב and למלחמה are 'for hostile encounter \/ for battle' — Bambara renders with war-words, near-synonym pair kept"
+    }
+  ],
+  "translation": "Dawid ka. Yawe, ne ka ŋɔgɔn, duba nilen don ⟨i la⟩, min bɛ kalan ne ka bolow ma walasa k'u ka kɛ krabuya ye, ne ka nbolobolow ma walasa k'u ka kɛ banuya ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/144\/1-4.1791942046045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ka"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "duba nilen don"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ne ka ŋɔgɔn"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "min bɛ kalan … ma"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ne ka bolow"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "walasa k'u ka kɛ krabuya ye"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "ne ka nbolobolow"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "walasa k'u ka kɛ banuya ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:46.046378280Z",
+  "model": "glm-5.3"
+}

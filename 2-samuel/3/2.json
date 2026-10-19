@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "denkɛ fɔlɔ",
+      "rationale": "birth-order list begins here, verses 2–5 number David's sons"
+    },
+    {
+      "kind": "addition",
+      "subject": "denkɛ",
+      "rationale": "Hebrew בכור is 'firstborn (male)'; Bambara needs denkɛ to mark the sex"
+    }
+  ],
+  "translation": "Denw daya Dawid ma Cheburɔn (Heburɔn) na; a ka denkɛ fɔlɔ tun ye Amnon ye, Achinowam (Yizrɛɛliden) ka den.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6379446422c6033a3d372e7bc2331cb36181fc99176cd83d0b460d0af5989b46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/3\/1-4.1791930866857.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "daya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ma"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "denw"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Cheburɔn na"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tun ye"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "a ka denkɛ fɔlɔ"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "Achinowam ka"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "Yizrɛɛliden"
+    }
+  ],
+  "timestamp": "2026-10-13T22:34:26.859591153Z",
+  "model": "glm-5.3"
+}

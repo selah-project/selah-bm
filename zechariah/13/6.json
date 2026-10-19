@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 13:6",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bolo la",
+      "rationale": "בין ידיך literally 'between your hands': arms (KJV), chest (BSB), hands (JPS) — the idiom's body part is uncertain."
+    },
+    {
+      "kind": "crux",
+      "subject": "kanuya tigiw",
+      "rationale": "מאהבי: 'my lovers' (YLT) vs 'my friends' (KJV\/JPS); the word covers both."
+    },
+    {
+      "kind": "elision",
+      "subject": "בין",
+      "gloss": "the dual 'between' preposition has no single Bamanankan word; rendered by postposition 'la' on both sides"
+    },
+    {
+      "kind": "you",
+      "subject": "the false prophet",
+      "rationale": "direct question addressed to the wounded man"
+    }
+  ],
+  "translation": "Mɔgɔ bɛna a fɔ a ma: mun ye nin jolibaw ye i bolo la? A bɛna kɔ ko: ninw ye jolibaw ye minnu bɛ n joli so kɔnɔ, so min ye n kanuya tigiw ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5f6344f5284f3836e174fddcc56e802f23c2b1ce35aa0c761610ce0c9ed88c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/13\/5-8.1791939344901.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mɔgɔ bɛna a fɔ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "המכות",
+      "gloss": "jolibaw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ninw"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…la…la"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "i bolo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a bɛna kɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "bɛ n joli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "מאהבי",
+      "gloss": "n kanuya tigiw ta"
+    }
+  ],
+  "timestamp": "2026-10-14T00:55:44.902203005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גלה",
+      "gloss-of-cruw": "",
+      "rationale": "Verb literally 'uncover\/strip'; rendered as forced removal — exile as stripping bare"
+    },
+    {
+      "kind": "geography",
+      "subject": "deportation sites",
+      "rationale": "Halah, Habor-river-of-Gozan, and Median cities are the four deportation destinations; Hebrew geography kept intact"
+    }
+  ],
+  "translation": "Ashur masakɛ ye ⟨את⟩ Isirayɛl bɔ ka taa Ashur, a ye u sigi Halah ni Habɔr baji min bɛ Gozan, ni Medu (Madi) duguw kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "edd11d51a2f50f3c90352ca2c2f79f18df630e970699f2ccb545e2d6893c2af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/18\/9-12.1791933057106.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ye … bɔ ka taa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isirayɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "a ye u sigi"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "ni Habɔr"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "baji"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ni duguw"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Medu"
+    }
+  ],
+  "timestamp": "2026-10-13T23:10:57.112785028Z",
+  "model": "glm-5.3"
+}

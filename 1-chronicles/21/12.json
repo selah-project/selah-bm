@@ -1,0 +1,182 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 21:12",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "saba san",
+      "rationale": "Here 'three years' of famine, but 2 Samuel 24:13 and LXX read 'seven' — famous divergence"
+    },
+    {
+      "kind": "hapax",
+      "subject": "למשגת",
+      "rationale": "נשגת 'to reach\/overtake' occurs only here in this form in the Tanakh"
+    },
+    {
+      "kind": "measurement",
+      "subject": "saba · kalow · tile",
+      "rationale": "The three options are each measured: three years, three months, three days"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o min ye ne weele⟩",
+      "rationale": "Hebrew participle שלחי 'my sender' needs a Bambara relative clause to read"
+    },
+    {
+      "kind": "you",
+      "subject": "Dawid",
+      "rationale": "Direct address: 'now see for yourself' — Gad presses David to answer"
+    }
+  ],
+  "translation": "walima kɔngɔn saba san; walima kalow saba, ka tigɛ i ka jatigɛw ɲɛfɛ, ani i ka jatigɛw ka npan ka i ɲɛ; walima tile saba, Yawe ka npan, ni bana dugukolo kan, ani Yawe ka ciden ka famaya Isirayɛl (Izrael) danbɛw bɛɛ la. Sisan, i yɛrɛ lajɛ kuma min na ne bɛna a segin ⟨o min ye ne weele⟩ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "56994edef3d115b73766d68847d44b8650833fc1cfb360ef4d9fc08c069a4c97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/21\/9-12.1791948156002.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "walima"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "saba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "san"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kɔngɔn"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walima"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "saba"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "kalow"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "ka tigɛ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "jatigɛw"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "npan"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "jatigɛw"
+    },
+    {
+      "surface": "למשגת",
+      "gloss": "ka i ɲɛ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walima"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "tile"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "npan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo kan"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ciden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "famaya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "danbɛw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lajɛ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kuma min na"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "welebagaw (o min ye ne weele)"
+    },
+    {
+      "surface": "שלחי",
+      "gloss": "welebagaw"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    }
+  ],
+  "timestamp": "2026-10-14T03:22:36.003744109Z",
+  "model": "glm-5.3"
+}

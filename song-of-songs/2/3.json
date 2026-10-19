@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tapua",
+      "rationale": "תפוח: bayɛlɛmabagaw bɛ a fɛrɛ 'pom' walima 'sitirɔn' walima 'zurukunmu' ye — jiri min tiɲɛna siratilen kɔnɔ, a tɛ dɔn tiɲɛ na"
+    },
+    {
+      "kind": "addition",
+      "subject": "yen",
+      "rationale": "Heburukan t'a fɔ; Bamanankan ka a wajibiya kuma nɔnabila cogoya la"
+    },
+    {
+      "kind": "you",
+      "subject": "ne kanbaga",
+      "rationale": "Kumasen in fɔra a yɛrɛ ka kanbaga kan — kuma daɲɛ min bɛ a fɛ"
+    }
+  ],
+  "translation": "I n'a fɔ tapua (pom-jiri) ye min bɛ dunia jiriw la, nin fɔ: ne kanbaga ye cɛdenw la. Ne kuntilanna a lambɔ ye, ne tuguna yen, a jiridenw di ne da kosɛbɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ebda93053fd01a29c81806348ccc5c203d4db128f8e2ae26f3299625ae559e83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/2\/2-3.1791951385452.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "tapua (pom-jiri)"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "jiriw"
+    },
+    {
+      "surface": "היער",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nin fɔ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ne kanbaga"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "cɛdenw"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "a lambɔ"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "ne kuntilanna"
+    },
+    {
+      "surface": "וישבתי",
+      "gloss": "ne tuguna"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "a jiridenw"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "di"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ne da"
+    }
+  ],
+  "timestamp": "2026-10-14T04:16:25.453233592Z",
+  "model": "glm-5.3"
+}

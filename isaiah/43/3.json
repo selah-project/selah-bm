@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפרך",
+      "rationale": "nagɔma (sɔngɔ min bɛ ta i nɔ fɛ) — 'ransom' walima 'atonement', yɛlɛma kɔrɔ dɔw bɛ yen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מושיעך",
+      "rationale": "fangamarabaga — daɲɛ kura min sigilen don 'savior' kama, glossary ma a minɛ"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Yawe b'a yɛrɛ jira Isirayeli fɛ i ka Ala ye"
+    }
+  ],
+  "translation": "Sabu ne ye Yawe, i Ala ye, Isirayeli ka Senuma, i ka fangamarabaga: ne ye Mitsrayim (Misira) di i nagɔma yo, Kuushi (Etiopi) ani Sewba i nɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/43\/1-4.1791934364060.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i Ala"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Senuma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli ka"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "i ka fangamarabaga"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ne ye … di"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "i nagɔma"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuushi"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ani Sewba"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "i nɔ na"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:44.062470700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענות עני",
+      "rationale": "Paronomasia: the affliction of the afflicted — same root twice, lost in Bambara."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Bambara needs the pronoun where Hebrew's suffix on ממנו already carries it."
+    }
+  ],
+  "translation": "Sabu a ma lasɔmini jɔyi, a ma a ɲini ko a ye fɛn jɔgɔ ye, a ma a ɲɛda dogo ⟨a⟩ la, a weleeli kɔnɔ ⟨a⟩ y'a mɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/22\/25-28.1791939830478.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "jɔyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ko a ye fɛn jɔgɔ ye"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "lasɔmini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sɔgɔmaden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "dogo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "a ɲɛda"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "a weleeli kɔnɔ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:50.479103944Z",
+  "model": "glm-5.3"
+}

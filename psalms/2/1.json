@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "mun na",
+      "rationale": "Verse opens with a question addressed to the reader — a summons."
+    },
+    {
+      "kind": "crux",
+      "subject": "יהגו",
+      "rationale": "'murmur\/ponder\/plot': KJV 'imagine' vs JPS 'mutter' vs BSB 'plot'; Bambara 'miiri' (ponder) keeps the base sense."
+    }
+  ],
+  "translation": "Mun na siyaw bɛ tugu-jugu kɛ, ani jamaw bɛ miiri foɲw la?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/2\/1-4.1791939525170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "bɛ tugu-jugu kɛ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ani jamaw"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "bɛ miiri"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "foɲw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:45.171553583Z",
+  "model": "glm-5.3"
+}

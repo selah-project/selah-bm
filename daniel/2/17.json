@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 2:17",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "חברוהי",
+      "rationale": "Aramaic 'his companions' stands appositive after the three names; rendered 'a bɛnbaw ye' at the end, no added conjunction from Hebrew"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Aramaic",
+      "rationale": "Verse is Aramaic, not Hebrew — אדין, די, מלתא are Aramaic shapes"
+    }
+  ],
+  "translation": "Min na, Daniyel taara a so, kuma in na fɔ Hananja, Mishaɛl ani Azarja ma, a bɛnbaw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fdf5361c2cc4ba8278a3318bdcdfd413b165b8957870924a1edc50de704ecc8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/2\/17-20.1791945775881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "min na"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "a so"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "taara"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "Hananja ma"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishaɛl"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ani Azarja"
+    },
+    {
+      "surface": "חברוהי",
+      "gloss": "a bɛnbaw"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "kuma in"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "na fɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:42:55.882332613Z",
+  "model": "glm-5.3"
+}

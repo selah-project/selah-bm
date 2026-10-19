@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kunaw",
+      "rationale": "ראשי 'heads of' the fathers rendered 'kunaw' (heads); kinship-authority sense kept literally"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "preposition 'unto' folded into the Bambara verb 'naana' (came to)"
+    }
+  ],
+  "translation": "U ye Yuda lajɛ-ka-tunun, u ye ⟨את⟩ Lewiw (Lewi) lajɛ Yuda duguw bɛɛ la, ani Israɛl awa-ba kunaw; u naana Yerushalayim (Jerusalɛmu).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e2c2f576b859a6eef1bd8812308375201bc5536d80524786384d6499f2931619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/23\/1-4.1791949285309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "ye … lajɛ-ka-tunun"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "ye … lajɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lewiw"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiw"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "kunaw"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "awa-ba"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israɛl"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "naana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-14T03:41:25.310971267Z",
+  "model": "glm-5.3"
+}

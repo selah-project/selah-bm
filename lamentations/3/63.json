@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sitting and rising",
+      "rationale": "שבתם וקימתם is the merism 'all they do, at all times'; rendered literally as 'their sitting and their rising'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מנגינתם",
+      "rationale": "'Their song' vs 'their satire\/taunt-song'; kɔnɔkili keeps the mocking-song sense."
+    }
+  ],
+  "translation": "U sigilen ni u jɔlen lajɛ; ne ye u kɔnɔkili ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "df6ccbbaf5df2fe497ff6011edaa8819e8bcad35a6a879137c3f6b39a142de40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/61-64.1791944882976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "u sigilen"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "ni u jɔlen"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "lajɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "ye u kɔnɔkili ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:28:02.980126789Z",
+  "model": "glm-5.3"
+}

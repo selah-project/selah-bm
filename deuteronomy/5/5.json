@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "O waati la",
+      "rationale": "בעת ההוא pulled to front for Bambara word order; positional shift, not addition of content"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "infinitive 'to say' rendered as Bambara quotative ko introducing the following speech"
+    }
+  ],
+  "translation": "O waati la, ne ye jungin Yawe ni aw cɛ, walasa k'a fɔ aw ye ⟨את⟩ Yawe ka kuma, sabu aw siranna tasuma ɲɛ na, aw ma kali kulu kan, ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1ab2b47b3bedfc51dff3f23060f3249dcc99b48e3c942b5e8b93855b84089811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/5\/5-8.1791927560976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "jungin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "aw cɛ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waati la"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "walasa k'a fɔ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ka kuma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "aw siranna"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɲɛ na"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aw ma"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "kali"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kulu kan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-13T21:39:20.977142663Z",
+  "model": "glm-5.3"
+}

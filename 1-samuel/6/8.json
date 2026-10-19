@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sandugu",
+      "rationale": "ארון 'chest\/box' — here Yawe's ark; ארגז in the same verse is a different word for 'box'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ארגז",
+      "rationale": "'arkes' (coffer) appears only here and in v. 11, 15 in the Tanakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "i n'a fɔ",
+      "rationale": "אשם appositional — 'as a guilt-offering' supplied to mark the relationship"
+    }
+  ],
+  "translation": "Aw bɛna ⟨את⟩ Yawe sandugu ta, aw bɛna ⟨את⟩ a bila wɔrɔ kan; aw bɛna ⟨את⟩ sanu minɛnw aw bɛna a ye segin i n'a fɔ jurumusaraka, o bila sandugu kelen kɔnɔ a fan fɛ, aw k'a ci, a taa na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eae2bdd19ec772dc1ec49484de4c269d53b22b6ef5e5e6cd30dd0435cb4116c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/6\/5-8.1791930015365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "aw bɛna … ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe sandugu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandugu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "aw bɛna … bila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wɔrɔ kan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…kan"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "wɔrɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sanu minɛnw"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "minɛnw"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "aw bɛna a ye segin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "jurumusaraka"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "aw bɛna … bila"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "sandugu kelen kɔnɔ"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "a fan fɛ"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "aw k'a ci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "a taa na"
+    }
+  ],
+  "timestamp": "2026-10-13T22:20:15.371436350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "rose early",
+      "rationale": "וישכם literally 'loaded up (early)'; idiom for starting at dawn, rendered 'sɔgɔma fɔlɔ'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka bɔ",
+      "rationale": "Hebrew נשאו (bore\/lifted) rendered 'ta ka bɔ' — Bambara verb pair needed for carrying up."
+    }
+  ],
+  "translation": "Yehoshua (Yusufu) y'aw wele sɔgɔma fɔlɔ, sarakalasebagaw ye ⟨את⟩ Yawe sandu kun ta ka bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "394fc078a3e4aedf636a5f5ce1cfef312692e2f6f9914fc4cf641908e055cffb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/6\/9-12.1791928634618.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "y'aw wele sɔgɔma fɔlɔ \/ y'a daminɛ sɔgɔma"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua (Yusufu)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sɔgɔma fɔlɔ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ye ... ta ka bɔ \/ ye ... ta"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe sandu kun (the ark)"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandu kun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T21:57:14.624379265Z",
+  "model": "glm-5.3"
+}

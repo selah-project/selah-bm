@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mɔgɔ jugu",
+      "rationale": "בליעל literally 'without profit, worthless', rendered 'jugu' (evil\/worthless)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צרבת",
+      "rationale": "labinbagɛ renders צרבת 'scorching', a rare word occurring only here"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "jugu … jugu",
+      "rationale": "the worthless man digs (כרה) evil — digging a pit for others, image kept literally"
+    }
+  ],
+  "translation": "Mɔgɔ jugu bɛ jugu dugi, a walannenw kan bɛ i ye tasuma labinbagɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0cf071747af59804ffa791b5ff4fdb3e309376c98002a761a828368a35808735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/16\/25-28.1791942564189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "dugi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "a walannenw"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "i ye tasuma"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "labinbagɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:49:24.190313975Z",
+  "model": "glm-5.3"
+}

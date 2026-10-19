@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 57:9",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "masakɛ",
+      "rationale": "למלך 'to the king': BSB ye a kalan 'Molek' ye (vocalization yɛlɛma), nka masakɛ de ye sɛbɛnni ka tiɲɛ ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cidenw",
+      "rationale": "ציר fɔcogo tiɲɛ: hinge\/pain; n'a bɛ fɔ 'ciden' (envoy) ye nin ye — daɲɛ fitinin, a kɔrɔ caaman."
+    },
+    {
+      "kind": "elision",
+      "subject": "Sheol",
+      "rationale": "שאול y'a sɔrɔ 'Sheol' de la — jahanama walima 'lahara' daɲɛw ma bɔ a la."
+    }
+  ],
+  "translation": "I ye taa masakɛ fɛ ni tulu ye, i y'i tulunɔgɔw mɔgɔya, i ye i cidenw ci yanbe bɔ, i y'i jwɔsi fo Sheol.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "98284e67fb57e5af619c6a18254254e248087f9a546db1d010c90d5b7f461ff4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/57\/9-10.1791950802480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשרי",
+      "gloss": "i ye taa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛ fɛ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ni tulu ye"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "i y'i mɔgɔya"
+    },
+    {
+      "surface": "רקחיך",
+      "gloss": "i tulunɔgɔw"
+    },
+    {
+      "surface": "ותשלחי",
+      "gloss": "i ye ci"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "i cidenw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "yanbe bɔ"
+    },
+    {
+      "surface": "ותשפילי",
+      "gloss": "i y'i jwɔsi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-10-14T04:06:42.480490067Z",
+  "model": "glm-5.3"
+}

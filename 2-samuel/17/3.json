@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 17:3",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כשוב הכל האיש אשר אתה מבקש",
+      "rationale": "Famously divided: 'as the return of all is the man you seek' (only the man counts, YLT) vs 'when all return, save the man' (JPS) vs a bride-return simile (BSB); rendered here with the JPS-style exception clause plus 'wɛrɛ'."
+    },
+    {
+      "kind": "addition",
+      "subject": "wɛrɛ",
+      "rationale": "'except' supplied to make the exception of the one man explicit, as the Hebrew elliptically implies."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואשיבה \/ כשוב",
+      "rationale": "verb שוב repeated ('I will bring back' \/ 'when all return'), a pivot of the verse's rhetoric."
+    }
+  ],
+  "translation": "Ka jama bɛɛ segin ka na i fɛ; ni bɛɛ seginna mɔgɔ min b'i ɲini wɛrɛ, jama bɛɛ bɛna kɛ hɛrɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/17\/1-4.1791931348310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "ka segin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka na i fɛ"
+    },
+    {
+      "surface": "כשוב",
+      "gloss": "ni ... seginna"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "b'i ɲini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛna kɛ ... ye"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:42:28.316015747Z",
+  "model": "glm-5.3"
+}

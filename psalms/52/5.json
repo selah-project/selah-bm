@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מטוב",
+      "rationale": "Hebrew comparative min 'from good' = 'more than good'; rendered with Bambara 'ka tɛmɛ … kan'"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Musical pause marker kept as 'Sela', untranslatable"
+    }
+  ],
+  "translation": "I ye ⟨את⟩ mɔgɔdɔnni ka tɛmɛ tiɲɛ kan; i bɛ fɔko bɛnnenw bolo, tiɲɛ-fɔli bɛɛ ma. Sela.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/52\/5-8.1791940374148.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "i ye … janto"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mɔgɔdɔnni"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "tiɲɛ kan ka tɛmɛ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fɔko bɛnnenw"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "fɔli"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tiɲɛ-fɔli"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:54.148737469Z",
+  "model": "glm-5.3"
+}

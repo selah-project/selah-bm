@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 6:11",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחי",
+      "rationale": "'and live' — either 'to save his life' (KJV\/BSB) or rhetorical 'and live?' i.e. such entry brings death, not life (JPS\/YLT)."
+    },
+    {
+      "kind": "addition",
+      "subject": "question words",
+      "gloss": "",
+      "rationale": "Hebrew uses no interrogative; the questions are carried by context, Bambara marks them with 'wa'."
+    },
+    {
+      "kind": "you",
+      "subject": "Nehemya's self-address",
+      "rationale": "Rhetorical questions Nehemiah asks of himself, refusing the false invitation."
+    }
+  ],
+  "translation": "Ne ko: “Hadamaden min bɛ ne cogo la, wa a bɛ bɔ ka boli? Wa mun, ne cogo la, don heikali kɔnɔ ka balo? Ne tɛ don.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f984801729d723dbf0f9f5887ca49dacd26e3a470c32430727e5faa8441e9c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/6\/9-12.1791946916213.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "ne ko"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "min bɛ ne cogo la"
+    },
+    {
+      "surface": "יברח",
+      "gloss": "bɛ bɔ ka boli"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "wa mun"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ne cogo la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "don"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…kɔnɔ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikali"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ka balo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ne don"
+    }
+  ],
+  "timestamp": "2026-10-14T03:01:56.214923662Z",
+  "model": "glm-5.3"
+}

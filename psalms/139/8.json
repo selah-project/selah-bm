@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "n sirikɛ",
+      "rationale": "יצע 'to spread a bed' rendered as 'make my bed' (sirikɛ); the literal spreading picture is softened."
+    },
+    {
+      "kind": "addition",
+      "subject": "n",
+      "rationale": "Hebrew omits the pronoun with אציעה; 'n' (my) supplied since Bambara requires it."
+    }
+  ],
+  "translation": "Ni ne bɛn ka taa sankolow la, yen i bɛ yen; ani ni ne bɛn ka n sirikɛ Sheol kɔnɔ, nin i bɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/139\/5-8.1791941866410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ne bɛn ka taa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i bɛ yen"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "ani ni ne bɛn ka n sirikɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "nin i bɛ yen"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:46.411125214Z",
+  "model": "glm-5.3"
+}

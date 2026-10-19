@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Hebrew suffix -ך is 'your'; Bambara needs the pronoun separately"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לנכח \/ נגדך",
+      "rationale": "paired near-synonyms for 'in front of' frame the verse, a parallelism the rendering repeats as ɲɛfɛ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the son\/disciple",
+      "rationale": "imperative counsel, direct address continuing the father's speech"
+    }
+  ],
+  "translation": "I ɲɛw k'a wili ɲɛfɛ, i nɛlensenw k'a tiɲɛn i ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d9519dc05a644084567a95ef7ecfb0297cb8df22f19a195bb1f1f22d078918b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/4\/25-27.1791942122247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "i ɲɛw"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "k'a wili"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "i nɛlensenw"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "k'a tiɲɛn"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "i ɲɛfɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:42:02.248299635Z",
+  "model": "glm-5.3"
+}

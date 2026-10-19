@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nɔɔnin",
+      "rationale": "הבל is breath\/vapor\/vanity; JPS 'breath', KJV 'vanity' — Bambara takes the transience reading"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם \/ בן אנושׁ",
+      "rationale": "parallel mortal-mankind pairs across vv. 3–4; Bambara hadamaden\/mɔgɔ keeps the echo only partly"
+    }
+  ],
+  "translation": "Hadamaden ye nɔɔnin ye; a ka donw ye ni kunkolodennin ye min bɛ taa ka ban.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/144\/1-4.1791942046045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "nɔɔnin"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ye … ye"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "a ka donw"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ni kunkolodennin ye"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "min bɛ taa ka ban"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:46.046926230Z",
+  "model": "glm-5.3"
+}

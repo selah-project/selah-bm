@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Here את is the preposition 'with him', not the object marker; kept the ⟨את⟩ glyph per corpus discipline."
+    },
+    {
+      "kind": "measurement",
+      "subject": "three days",
+      "rationale": "San saba — the stay is counted, mirroring v2's four months; the numbers pace the narrative."
+    }
+  ],
+  "translation": "A jatigi — denmuso fa — giri a bolo, a sigini ⟨את⟩ a nɔ san saba; u dun, u min, u taga su a.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1d385ad8e88bbed2bfa5ee8566b34a51ac598331594ba55a60f91e4bb2972e70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/19\/1-4.1791929744002.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "giri a bolo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "a jatigi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "denmuso"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a sigini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a nɔ",
+      "marks": "a jatigi (denmuso fa)"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "san"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "u dun"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "u min"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "u taga su"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a \/ yen"
+    }
+  ],
+  "timestamp": "2026-10-13T22:15:44.006246367Z",
+  "model": "glm-5.3"
+}

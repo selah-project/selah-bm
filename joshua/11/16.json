@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "region list",
+      "rationale": "Verse itemizes conquered territory region by region — a survey inventory."
+    },
+    {
+      "kind": "crux",
+      "subject": "הנגב",
+      "rationale": "The Negeb (proper name, 'the dry south') vs generic 'south country'; Bambara keeps both with 'worodugu (Nɛgɛb)'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ההר",
+      "rationale": "First item 'the hill-country' lacks the ואת marker the following items carry; the asymmetry is preserved without an added marker."
+    }
+  ],
+  "translation": "Yehoshua ye ⟨את⟩ dugukolo nin bɛɛ ta: kulubɛɛ, ani ⟨את⟩ worodugu (Nɛgɛb) bɛɛ, ani ⟨את⟩ Goshɛn dugukolo bɛɛ, ani ⟨את⟩ Sefela dugumajalan, ani ⟨את⟩ Araba, ani ⟨את⟩ Israyɛl kulu, ni a dugumajalan ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e3e651da7280cfd9bec002f34131f9d0c8a8304544f4f8ffc44f5fd6a7dbaa51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/11\/13-16.1791928834656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ye ... ta"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo nin bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kulubɛɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "worodugu (Nɛgɛb) bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "worodugu (Nɛgɛb)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Goshɛn dugukolo bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshɛn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sefela dugumajalan"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "dugumajalan (Sefela)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Araba"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Israyɛl kulu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "a dugumajalan"
+    }
+  ],
+  "timestamp": "2026-10-13T22:00:34.659958832Z",
+  "model": "glm-5.3"
+}

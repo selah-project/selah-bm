@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Direct plea addressed to Elohim, questions about rejection and absence in battle"
+    },
+    {
+      "kind": "crux",
+      "subject": "wa",
+      "rationale": "הלוא can read as true question ('Hast not Thou?', JPS) or as appeal expecting yes (KJV 'Wilt not thou?')"
+    }
+  ],
+  "translation": "I ye an bali wa, Elohim? Nka i tɛ bɔ an ka sɔrɔdasiw kɔnɔ, Elohim.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/60\/9-12.1791940441709.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "i ye an bali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka i tɛ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "an ka sɔrɔdasiw kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:01.710437720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jiw⟩",
+      "rationale": "Hebrew verb suffixes assume the waters from v.7-8; Bambara needs the subject named"
+    },
+    {
+      "kind": "measurement",
+      "subject": "גבול",
+      "rationale": "Yawe sets a measured boundary the waters cannot cross — the verse is an act of dimensioning creation"
+    }
+  ],
+  "translation": "I yɛ dan bila, ⟨jiw⟩ tɛna a tɛmɛ, o tɛna segin ka dugukolo kunfɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/104\/9-12.1791941243707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "dan"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "i yɛ … bila"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "ka tɛmɛ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "ka segin"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "kunfɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:23.708048192Z",
+  "model": "glm-5.3"
+}

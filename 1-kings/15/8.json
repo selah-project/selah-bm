@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nana wuli a faaw cɛ",
+      "rationale": "Hebrew 'slept with his fathers' = died and was gathered to ancestors; literal would mislead"
+    }
+  ],
+  "translation": "Abiyam nana wuli a faaw cɛ, u ye ⟨אתו⟩ a sin Dawid ka dugu kɔnɔ, a denkɛ Asa kera masakɛ ye a nɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "592292ba27bbb9b76e475724a09624f5659062f79c10a8e0ba7b47de84c8c75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/15\/5-8.1791932231522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nana wuli … cɛ"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Abiyam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "a faaw"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "u ye a sin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Abiyam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dugu kɔnɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid ka"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kera masakɛ ye"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a nɔ na"
+    }
+  ],
+  "timestamp": "2026-10-13T22:57:11.529003884Z",
+  "model": "glm-5.3"
+}

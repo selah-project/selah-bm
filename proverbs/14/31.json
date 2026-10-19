@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 14:31",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Pronoun supplied: 'reproaches his Maker' — Hebrew has only the suffixed verb"
+    },
+    {
+      "kind": "crux",
+      "subject": "עושהו",
+      "rationale": "'His Maker' (singular, the poor man's maker) vs some read plural 'makers'; rendered singular"
+    }
+  ],
+  "translation": "Min bɛ kɔgɔtɔgɔ gidan, a bɛ ⟨a⟩ Dilanbaga jagoya; nka min bɛ mɔgɔ-si-sɔrɔbaga samaya, a bɛ A jigɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fba42c40bf9affc3fdd5d2f40c5d3e593b95c68d1abe959f275af7a4f559c92b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/14\/29-32.1791942537785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kɔgɔtɔgɔ"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "jagoya"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Dilanbaga"
+    },
+    {
+      "surface": "ומכבדו",
+      "gloss": "nka … bɛ A jigɛ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "samaya"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mɔgɔ-si-sɔrɔbaga"
+    }
+  ],
+  "timestamp": "2026-10-14T01:48:57.786447123Z",
+  "model": "glm-5.3"
+}

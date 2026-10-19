@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 7:13",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bolo",
+      "rationale": "יד literally 'hand'; the Hebrew says Yawe's hand was upon the Philistines, an idiom of power"
+    },
+    {
+      "kind": "idiom",
+      "subject": "u tun ma kunbɔ tuguni",
+      "rationale": "Hebrew idiom 'they did not add again to come' rendered as 'they no longer came again'"
+    }
+  ],
+  "translation": "Pelisitiw joora, u tun ma kunbɔ tuguni ka na Isirayɛl dan na; Yawe bolo tun bɛ Pelisitiw kan Shemueli donw bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cc126d82ab0bdd07b982bdc9d029e63a177d4ac923e938d784b748baead6cb1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/7\/13-16.1791929973901.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "joora"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Pelisitiw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "kunbɔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tuguni"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ka na"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "dan na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "tun bɛ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Pelisitiw kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "donw"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    }
+  ],
+  "timestamp": "2026-10-13T22:19:33.903993483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "days … years … generations",
+      "rationale": "the verse counts lifespan in days, years, and generations."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דר ודר",
+      "rationale": "repetition 'generation and generation' for 'all generations'; Bambara repeats kabilalen to keep the doubling."
+    }
+  ],
+  "translation": "I bɛna donw fara masakɛ donw sanfɛ, a ka sanw ka bɛ i n'a fɔ kabilalen ni kabilalen ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/61\/5-8.1791940494122.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "donw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanfɛ \/ a kan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "donw"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "i bɛna … fara"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "a ka sanw"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "דר",
+      "gloss": "kabilalen"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ni kabilalen"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:54.123701087Z",
+  "model": "glm-5.3"
+}

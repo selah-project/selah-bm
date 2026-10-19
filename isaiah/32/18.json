@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 32:18",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "minnu bɛ",
+      "rationale": "Bambara needs relative marker where Hebrew uses simple attributive plurals"
+    }
+  ],
+  "translation": "Ne ka jama bɛna sigi hɛrɛso la, ani sow la minnu bɛ tikalilen, ani sigisɔrɔyɔrɔw la minnu bɛ sabali.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "40a77b9aa53f19b877808e1aeb00c6b1037e72d126b03005ab66cebe2697f674",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/32\/17-20.1791934046796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bɛna sigi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne ka jama"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "hɛrɛso la"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "ובמשכנות",
+      "gloss": "ani sow la"
+    },
+    {
+      "surface": "מבטחים",
+      "gloss": "tikalilenw"
+    },
+    {
+      "surface": "ובמנוחת",
+      "gloss": "ani sigisɔrɔyɔrɔw la"
+    },
+    {
+      "surface": "שאננות",
+      "gloss": "sabali"
+    }
+  ],
+  "timestamp": "2026-10-13T23:27:26.800417169Z",
+  "model": "glm-5.3"
+}

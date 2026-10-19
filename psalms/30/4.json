@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "נפש ye ni\/ɲɛnamaya ye, a tɛ 'soul' kɔrɔbali ye; 'ne ka ni' an b'a fɔ cogo min na"
+    },
+    {
+      "kind": "crux",
+      "subject": "מיורדי בור",
+      "rationale": "Heburukan ko 'bɔ mɔgɔ minnu bɛ taa bun kɔnɔ'; KJV fɔ 'walasa ne ma taa bun kɔnɔ' — ŋɛnɛ-kan ye bɛɛ bɛ se"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "kumasen bɛ Yawe fɔ a yɛrɛ ma, Daawid ka ɲɛda bɛ o kan"
+    }
+  ],
+  "translation": "Yawe, i ye ne ka ni bɔ Sheol la, i ye ne balo, ni tɛmɛ mɔgɔ minnu bɛ taa bun kɔnɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0696ba0b76a5def4d06eb268cec6a3c566ecd808c78d5abc04c1c5729d13f2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/30\/1-4.1791939904353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "i ye … bɔ sanfɛ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ka ni"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "i ye ne balo"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "mɔgɔ minnu bɛ taa"
+    },
+    {
+      "surface": "בור",
+      "gloss": "bun kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:04.354144362Z",
+  "model": "glm-5.3"
+}

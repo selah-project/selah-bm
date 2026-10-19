@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 10:12",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Isirayeli",
+      "rationale": "direct summons-question 'what does Yawe ask of you?'"
+    },
+    {
+      "kind": "you",
+      "subject": "Isirayeli",
+      "rationale": "second-person address to Israel throughout"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "two-token Hebrew idiom 'except that' rendered with single Bambara 'fo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפשך rendered 'i ka ni' — nephesh as life-force, per glossary"
+    }
+  ],
+  "translation": "Sisan, Isirayeli, Yawe i ka Ala bɛ mun de ɲini i bolo? Fo ka ⟨את⟩ Yawe i ka Ala siran, ka taa a sorow bɛɛ la, ka ⟨את⟩ a kanuya, ka Yawe i ka Ala baara kɛ i ka dusukun bɛɛ la ani i ka ni bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e62f3ec3ade9c0906c2907e177f0bcacb97ab4a2e46019503257bab719fd5d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/10\/9-12.1791927722484.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Ala"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "bɛ ... ɲini"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "i bolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fo"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ka ... siran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe i ka Ala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Ala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "a sorow"
+    },
+    {
+      "surface": "ולאהבה",
+      "gloss": "ka ... kanuya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a (Yawe)"
+    },
+    {
+      "surface": "ולעבד",
+      "gloss": "ka ... baara kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe i ka Ala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Ala"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "i ka dusukun ... la"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ani ... bɛɛ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "i ka ni ... la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:42:02.496296575Z",
+  "model": "glm-5.3"
+}

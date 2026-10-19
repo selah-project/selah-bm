@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 23:28",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתו",
+      "rationale": "Here אִתּוֹ is the preposition 'with him', not the object marker; rendered 'a bolo' with ⟨את⟩ kept by the signpost rule."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלום\/דבר parallelism",
+      "rationale": "Dream vs word, straw vs grain — paired contrasts structured identically in Hebrew."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה לתבן את הבר",
+      "rationale": "'What [is it] to straw with grain?' — proverb-like contrast, rendered as a plain question."
+    }
+  ],
+  "translation": "Nabi min bɛ ja ⟨את⟩ a bolo, a ka ja fɔ; ani min bɛ n kuma ⟨את⟩ a bolo, a ka n kuma fɔ ni tiɲɛ ye. Mun ye sama ni ⟨את⟩ kisɛ ye? — Yawe ka kuma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b0d38816f73541ba2fe3edca95d34aee2385b7db7e6dfef41d1856503e9ce78f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/23\/25-28.1791935593448.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנביא",
+      "gloss": "nabi min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a bolo"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ka fɔ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ani min"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "n kuma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a bolo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ka kuma fɔ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "n kuma"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ni tiɲɛ ye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mun ye"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "sama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kisɛ"
+    },
+    {
+      "surface": "הבר",
+      "gloss": "kisɛ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ka kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T23:53:13.450615070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 40:28",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Hebrew 'cut a covenant' (from passing between cut pieces); Bambara renders 'kɛ layidu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "waati bɛɛ",
+      "rationale": "עוֹלָם literally the vanishing point \/ concealed horizon; rendered 'all time'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Iyob",
+      "rationale": "Final rhetorical question of the series, addressee still Iyob"
+    }
+  ],
+  "translation": "Yala a bɛna layidu kɛ ni i ye, i bɛna a ta ka kɛ jɔnbaga ye waati bɛɛ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "565ea4ccf69a6538c939b80eabeb243ddfee7de669077c191546caba3b591281",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/40\/25-28.1791944310544.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היכרת",
+      "gloss": "bɛna ... kɛ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ni i ye"
+    },
+    {
+      "surface": "תקחנו",
+      "gloss": "i bɛna a ta"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ka kɛ jɔnbaga ye"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waati bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:18:30.546557949Z",
+  "model": "glm-5.3"
+}

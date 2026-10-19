@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jamaw",
+      "rationale": "Hebrew verb 'they praise' has no explicit subject; supplied 'jamaw' from v1-v2"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sirantɔgɔ",
+      "rationale": "נורא 'fearsome\/awesome' rendered as 'fear-name' compound, an approximation"
+    }
+  ],
+  "translation": "Jamaw bɛ i tɔgɔ dubara, bonba ni sirantɔgɔ; sabu a ye senuma ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/99\/1-4.1791941188127.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "bɛ … dubara"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i tɔgɔ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bonba"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "sirantɔgɔ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:28.128385212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saya-dibi",
+      "rationale": "צלמות is compound shadow-of-death; rendered literally as two Bambara words to keep the picture"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kangaw",
+      "rationale": "מוסרות literally bonds\/halters; 'kangaw' (fetters) chosen for the prison context of v16"
+    }
+  ],
+  "translation": "A y'u bɔ dibi la ni saya-dibi la, a ye u kangaw ɲagami.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/107\/13-16.1791941375940.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "a y'u bɔ"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "dibi"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "saya-dibi"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "u kangaw"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "a ye … ɲagami"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:35.940770947Z",
+  "model": "glm-5.3"
+}

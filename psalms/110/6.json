@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גוים \/ גויות",
+      "rationale": "He pairs 'nations' (goyim) with 'corpses' (geviyyot) — near-identical sounds, lost in Bambara."
+    },
+    {
+      "kind": "crux",
+      "subject": "kun",
+      "rationale": "ראש singular 'head' — one head (a specific enemy chief?) or collective 'heads'; also 'over much earth' may modify the crushed head or the wide battlefield."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sasaw",
+      "rationale": "גויות is 'bodies (alive or dead)'; context forces 'corpses'."
+    }
+  ],
+  "translation": "A bɛ siyaw kɔnɔ fɛrɛda, a bɛ yɔrɔw jira sasaw ye, a bɛ kun mɛnɛ dugukolo bon kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/110\/5-7.1791941437972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "fɛrɛda"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "siyaw kɔnɔ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "jira"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "sasaw"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "mɛnɛ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "bon"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:37.973433868Z",
+  "model": "glm-5.3"
+}

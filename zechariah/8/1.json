@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne fɛ",
+      "rationale": "Hebrew 'leimor' has no explicit addressee; 'to me' supplied for the prophet"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "vayhi + devar",
+      "rationale": "standard prophetic formula opening a new oracle, marking a fresh speech-act"
+    }
+  ],
+  "translation": "Yawe Tsevaot ka kuma nana ⟨ne fɛ⟩ ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3a2c8374e37c82e1025bde167ef50f2099857d57a3621cdc3975604d93fe2a15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/8\/1-4.1791939245003.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma kelen nana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko:"
+    }
+  ],
+  "timestamp": "2026-10-14T00:54:05.004097941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 18:12",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רעב אנו",
+      "rationale": "'his strength shall be hunger' — strength hunger-bitten (KJV\/ASV) vs JPS 'his trouble shall be ravenous' reading און as trouble"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nsa",
+      "rationale": "צלע is literally 'rib\/side', kept as the body-part picture in Bambara rather than a vague 'at his side'"
+    }
+  ],
+  "translation": "A ka fanga ka kɛ kɔngɔ ye, wahala labɛnna a nsa la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1aa993d664ef691a79d27e2c9b04c6d796c207ea5fce3ce40a1e262548b38584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/18\/9-12.1791943619812.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ka kɛ … ye"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kɔngɔ"
+    },
+    {
+      "surface": "אנו",
+      "gloss": "a ka fanga"
+    },
+    {
+      "surface": "ואיד",
+      "gloss": "wahala"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "labɛnna"
+    },
+    {
+      "surface": "לצלעו",
+      "gloss": "a nsa la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:06:59.813966791Z",
+  "model": "glm-5.3"
+}

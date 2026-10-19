@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המון\/יהמיון · שאון\/ישאון",
+      "rationale": "Double paronomasia: each noun is echoed by its verb ('tumult…they tumult', 'rushing…they rush'); kept in Bambara by ja-ja\/u bɛ ja kɛ and wulili\/u bɛ wuli."
+    },
+    {
+      "kind": "invitation",
+      "subject": "הוי",
+      "rationale": "Opening woe-cry (Ayiw) seizes the hearer's attention before the nations' roar."
+    }
+  ],
+  "translation": "Ayiw! Jamana caman ka ja-ja kuma, u bɛ ja kɛ i n'a fɔ kɔgɔjiw; ani siyaw ka wulili, i n'a fɔ ji sebagaw ka wulili, u bɛ wuli ka na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "53bd39ee18239dcbb230b601ed0b7c7b6f74d41f8ade89c8b49155072f1d59bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/17\/9-12.1791933758807.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ayiw"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ja-ja kuma"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "jamaw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "caman"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "i n'a fɔ … ja"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kɔgɔjiw"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "u bɛ ja kɛ"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "ani wulili"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "i n'a fɔ … wulili"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "sebagaw"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "u bɛ wuli ka na"
+    }
+  ],
+  "timestamp": "2026-10-13T23:22:38.811430961Z",
+  "model": "glm-5.3"
+}

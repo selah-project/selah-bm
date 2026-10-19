@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צלצל",
+      "rationale": "'clatter\/whirring of wings' (ASV\/JPS) vs KJV\/Geneva 'shadowing with wings'; the noun is from a clatter-root, either buzzing sound or hovering shade."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צלצל",
+      "rationale": "Reduplicated root tsal-tsal imitates the whirring; the echo is lost in Bambara funun-funun partially kept by reduplication."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Kush",
+      "rationale": "Hebrew proper name kept; first-mention form for Bambara readers: Kush (Ethiopia \/ Habashi jamana)."
+    }
+  ],
+  "translation": "Ayiwɔ, dugukolo min bɛ ⟨a⟩ ye kanngɔ funun-funun ye, min bɛ bajiw kɔ Kush fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "09e49299305836eb392ba88b85b98d89ff37106566c1a06010df6da0936bf95f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/18\/1-4.1791933849860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ayiwɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "funun-funun"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "kanngɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "bajiw"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-10-13T23:24:09.863800960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 25:13",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u ye",
+      "rationale": "Hebrew has no verb; Bambara needs the copula for 'were twelve'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tan-ni-fila",
+      "rationale": "lot count: each musical division numbered twelve men"
+    }
+  ],
+  "translation": "Wowolunan ye Bukiyahu (Bukia) ye, a denw ni a balimaw, ⟨u ye⟩ tan-ni-fila ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d24bc6f6b1db5cd42a7cd8198e5b468fd4cf7361418e326e83ffaf9e5eb743bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/25\/13-16.1791948224906.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "wowolunan"
+    },
+    {
+      "surface": "בקיהו",
+      "gloss": "Bukiyahu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a denw"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ni a balimaw"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "fila"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tan-"
+    }
+  ],
+  "timestamp": "2026-10-14T03:23:44.906720625Z",
+  "model": "glm-5.3"
+}

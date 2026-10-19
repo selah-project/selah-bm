@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Prohibition addressed to Israel, especially its judges."
+    },
+    {
+      "kind": "crux",
+      "subject": "פקחים",
+      "rationale": "'The clear-sighted' — some read 'the seeing' generally, others specifically judges; Bambara renders literally 'those whose eyes see'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kado",
+      "rationale": "שחד is a venal bribe, not an innocent gift; Bambara 'kado' (gift) needs the context to carry the venality."
+    }
+  ],
+  "translation": "Ani i kana kado ta, sabu kado bɛ ɲɛ datugu mɔgɔ minnu bɛ ɲɛ ye, ani ka dancɛw ka kumaw wulijɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c0c585789626f2fee303a3e7af77154ea080d0f936fa8dcc57a77b1c213ca524",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/23\/5-8.1791926890535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "kado"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "kado"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "bɛ ɲɛ datugu"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "mɔgɔ minnu bɛ ɲɛ ye"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ka … wulijɛ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dancɛw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:28:10.537566641Z",
+  "model": "glm-5.3"
+}

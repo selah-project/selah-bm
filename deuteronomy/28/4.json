@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשתרות",
+      "rationale": "Root עשתר echoes the goddess Ashtoreth (fertility); rendered plain 'den-kuraw' (young), but the resonance with Canaanite fertility is a famous crux."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פרי בטנך",
+      "rationale": "'Fruit of your womb' — 'jiriden' would mislead for children; rendered 'den min bɛ i dusu kɔnɔ' (child within your belly)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ופרי x3",
+      "rationale": "Triple anaphora 'fruit of' binds womb, soil, and cattle into one chain; kept with 'den min bɔ' repetition."
+    }
+  ],
+  "translation": "Duba bɛ den min bɛ i dusu kɔnɔ, ani den min bɔ i foro la, ani i misiw ka denw: i misibaw ka den-kuraw ni i sagaw ka den-kuraw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "21703a1de4c5c76889f90533aabee9bce3b6a78509f504cbd8998e0c2c42a2d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/28\/1-4.1791928299392.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "duba bɛ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "den min"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "bɛ i dusu kɔnɔ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ani den min bɔ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "i foro"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ani den min bɔ"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "i misiw"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "ka den-kuraw"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "i misibaw"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "ni den-kuraw"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "i sagaw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:51:39.398399155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 5:5",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bilakoro bɔ",
+      "rationale": "מול ye 'ka bilakoro bɔ' ye — kɔrɔfɔli dɔgɔlen ('foforo bɔ') la, angilɛkan 'circumcise' tɛ"
+    },
+    {
+      "kind": "elision",
+      "subject": "היצאים",
+      "rationale": "Heburukan ma Mitsrayim tɔgɔ fɔ yan; bɔyɔrɔ men keera duguma v:4 kɔnɔ, o men don a nɔ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dogoun kunun",
+      "rationale": "sira-ɲɛnaboli dogo-ɲɛnaboli kɔrɔtiya ɲɛfɔli bɛ sira kan jɔ"
+    }
+  ],
+  "translation": "Sabu jama bɛɛ minnu bɔra, u bilakoro bɔra; ani jama bɛɛ minnu dogouna kunun sira kan, u bɔli waati la Mitsrayim (Misira), u bilakoro ma bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0b61caaeffa52e2ccd2b329534fb2da4ce913a0ab708d9c86b98f947afb0cacc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/5\/5-8.1791928584163.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "bilakoro-bɔra"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "minnu bɔra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "minnu dogouna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kunu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira kan"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "u bɔli waati la"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "bilakoro-bɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:56:24.238286446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kasiriw",
+      "rationale": "עקרבים: literal 'scorpions' (KJV) vs knotted whips\/a scourge (LXX 'scorpions' as whip-type, Wycliffe's knotted ropes); 'scorpion' word in Bambara uncertain — native check wanted"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וְאַתָּה\/וַאֲנִי",
+      "rationale": "my father … but I — parallel escalation repeated twice; Bambara 'An fa … An fana' keeps the antithesis"
+    }
+  ],
+  "translation": "Sisan, An fa ye aw lajira nɔ jɔnjɔn ye, An fana b'aw ka nɔ kan fara o kan: An fa ye ⟨את⟩ aw sago npanw ye, An fana — kasiriw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f88176b44a6d2a9f09a34db517896b256b1709b9215f0d40ba610adbec4bdba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/10\/9-12.1791948898502.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "An fa"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "ye ... lajira ... ye"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aw kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "nɔ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "jɔnjɔn"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "An fana"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "b'... fara o kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "aw ka nɔ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "An fa"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ye ... sago ... ye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "npanw ye"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "An fana"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "kasiriw ye"
+    }
+  ],
+  "timestamp": "2026-10-14T03:34:58.503591299Z",
+  "model": "glm-5.3"
+}

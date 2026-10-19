@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "Eykha — the book's opening cry, echoed at each acrostic poem's start (cf. 2:1, 4:1); rendered 'Cogo di', the exclamation of horror is kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "למס",
+      "rationale": "Literally forced-labor tribute; 'a lasara ka wolo-ko wajibi di' keeps the burden-of-tribute picture rather than 'slave'."
+    }
+  ],
+  "translation": "Cogo di! Dugu min tun bɛ jama ka bon ye, o sigilen don ko kelen yɛrɛ yɛrɛ; a kɛra i n'a fɔ muso-kɔrɔba ye; a min tun ka bon siyaw la, a min tun ye sigiw tigi muso ye, nisan a lasara ka wolo-ko wajibi di!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/1\/1-4.1791945007089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Cogo di"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "sigilen don"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ko kelen yɛrɛ yɛrɛ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "ka bon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tun ye"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "i n'a fɔ muso-kɔrɔba ye"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "ka bon"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "siyaw la"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "sigiw tigi muso"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "sigiw la"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ka wolo-ko wajibi di"
+    }
+  ],
+  "timestamp": "2026-10-14T02:30:07.090021146Z",
+  "model": "glm-5.3"
+}

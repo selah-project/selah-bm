@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בקש\/מצא",
+      "rationale": "ɲini\/ye — seek-and-find pair, repeated verb structure kept."
+    },
+    {
+      "kind": "addition",
+      "subject": "bɛɛ",
+      "rationale": "כל rendered with Bambara plural word 'bɛɛ' since it has no single bare 'all'."
+    },
+    {
+      "kind": "you",
+      "subject": "an",
+      "rationale": "Addressed to the exiles in Babel."
+    }
+  ],
+  "translation": "An bɛna Yawe ɲini ⟨את⟩, an bɛna A ye, sabu an bɛ A ɲini ni an ka dusukun bɛɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4286214981f127433d9ad0f1b765efd89bcc27cc6352472951980359d5b9464a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/29\/13-16.1791935765822.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "an bɛna ɲini"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "an bɛna A ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "an bɛ A ɲini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ni ... bɛɛ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "an ka dusukun"
+    }
+  ],
+  "timestamp": "2026-10-13T23:56:05.822949842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "san",
+      "rationale": "נחל here 'to inherit\/possess (land)'; Bambara 'san' (buy\/take possession) is the closest possession-verb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "si \/ tɔgɔ",
+      "rationale": "seed and name close the psalm: posterity and name bound in parallel, kept as literal 'si' and 'tɔgɔ'"
+    }
+  ],
+  "translation": "A ka surukunbagaaw ka si bɛna a san, ani a tɔgɔ kanuyabagaaw bɛna o kɔnɔ sigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da3a4184a082a585f417f390c0147b52becaec31662dcd7a765bd6b24afc3ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/69\/37-37.1791940507481.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "ani si"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a ka surukunbagaaw"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "bɛna a san"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ani kanuyabagaaw"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a tɔgɔ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "bɛna sigi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "o kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:15:07.481988924Z",
+  "model": "glm-5.3"
+}

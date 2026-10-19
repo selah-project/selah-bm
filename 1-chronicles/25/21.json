@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 25:21",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u ye … ye",
+      "rationale": "Hebrew lacks copula; Bambara needs u ye … ye for 'were'"
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Pronoun added to make possession clear in Bambara"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lot-casting list",
+      "rationale": "Ordinal count of lots with totals of twelve — a census\/measurement verse"
+    }
+  ],
+  "translation": "Tan-ni-nani na, Mattityahu (Matatiya), a denw ni a balimaw, u ye tan-fila ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "59a03a1ea155556f77c2ba978f944335f7a1898dbfd511cbc946139df398d6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/25\/21-24.1791948197251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "nani"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tan"
+    },
+    {
+      "surface": "מתתיהו",
+      "gloss": "Mattityahu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a denw"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "a balimaw"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "fila"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tan"
+    }
+  ],
+  "timestamp": "2026-10-14T03:23:17.251708435Z",
+  "model": "glm-5.3"
+}

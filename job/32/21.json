@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא פנים",
+      "rationale": "Hebrew 'lift the face' = show partiality; rendered ɲɛda wuli literally with the sense intact"
+    },
+    {
+      "kind": "crux",
+      "subject": "אכנה",
+      "rationale": "rare verb 'to give a flattering title\/eulogize'; rendered as giving a praise-name (tɔgɔ-ɲɛfɔli)"
+    },
+    {
+      "kind": "you",
+      "subject": "Elihu",
+      "rationale": "Elihu's oath of impartiality addressed to his audience"
+    }
+  ],
+  "translation": "A ya, ne kana mɔgɔ ɲɛda wuli, ani ne tɛna hadamaden ma tɔgɔ-ɲɛfɔli di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7154fcaadbf48911912a9f17bfe390c902c246085d8f30c47b695c62bd61ea67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/32\/21-22.1791943975699.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "wuli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ɲɛda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani … ma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "tɔgɔ-ɲɛfɔli di"
+    }
+  ],
+  "timestamp": "2026-10-14T02:12:55.699867128Z",
+  "model": "glm-5.3"
+}

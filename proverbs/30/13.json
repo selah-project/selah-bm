@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 30:13",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u ka",
+      "rationale": "Hebrew lacks the possessive pronoun; Bambara needs ⟨u ka⟩ for 'their eyes'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רמו\/ינשאו",
+      "rationale": "double lifting: eyes rise high and eyelids are lifted — parallel verbs, kept as two clauses"
+    }
+  ],
+  "translation": "Dɔrɔ dɔ bɛ yen — e! ⟨u ka⟩ ɲɛw ka jɔ sanfɛ, ani ⟨u ka⟩ ɲɛsiraw jirasan don sanfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f9cc896ce6865786110cb870fda9604836210d20694390a2de1670ed68190b5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/30\/13-16.1791943082287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "dɔrɔ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "e!"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "ka jɔ sanfɛ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ɲɛw"
+    },
+    {
+      "surface": "ועפעפיו",
+      "gloss": "ɲɛsiraw"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "jirasan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:58:02.288536729Z",
+  "model": "glm-5.3"
+}

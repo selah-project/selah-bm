@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "senw",
+      "rationale": "שוקי ye kɔgɔji-sen (leg) ye, kɔrɔtilennen: cɛ ka se min bɛ a senw na"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחפץ\/ירצה",
+      "rationale": "daɲɛ fila fila minnu bɛ fɔ kuma kelen na: 'a tɛ b'a fɛ' \/ 'a tɛ nɔgɔya a ye' — parallelism, a bɛ to Bamanankan na dɔɔni"
+    }
+  ],
+  "translation": "A tɛ so ka seba la fiɲɛ-ɲɛfɔ, a tɛ cɛ ka senw la ɲɛfɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/147\/9-12.1791942013498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "seba la"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "so ka"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "fiɲɛ-ɲɛfɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "senw la"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "cɛ ka"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ɲɛfɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:13.499335993Z",
+  "model": "glm-5.3"
+}

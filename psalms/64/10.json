@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "השכילו",
+      "rationale": "daɲɛ in kɔrɔ ye 'ka ɲɛ janto \/ ka miiri don' ye — 'ka dɔn ɲɛ' ye a nɔgɔya ye."
+    },
+    {
+      "kind": "you",
+      "subject": "hadamadenw bɛɛ",
+      "rationale": "lajɛli bɛ hadamadenw bɛɛ wele — nafolo ka ɲɛtaa bɛ fɔ mɔgɔ bɛɛ ma."
+    }
+  ],
+  "translation": "Hadamadenw bɛɛ na Yawe siran, ka Elohim baara fɔ, ka a taa-baara dɔn ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "97fdc78de7ab084598fe1800a3f8ab85cc106f2305a810c8115912a8f0935e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/64\/9-11.1791940408097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "na ... siran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamadenw"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ka ... fɔ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "baara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "a taa-baara"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ka dɔn ɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:28.098080936Z",
+  "model": "glm-5.3"
+}

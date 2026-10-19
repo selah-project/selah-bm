@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "k'i sigin",
+      "rationale": "Hebrew has no verb in the second clause; Bamanankan needs an imperative verb to carry 'be in the fear'"
+    },
+    {
+      "kind": "you",
+      "subject": "to the son being instructed",
+      "rationale": "the father's direct admonition to his son, carried over from the surrounding speech"
+    }
+  ],
+  "translation": "K'i dusukun ma jaloya jurumutigɔw la; k'i sigin Yawe ka siran kɔnɔ don bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fed1001da8e9e5cb021f68ee88ec0019e4515ee69cb8fa2ad3fa5657dd334ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/23\/17-20.1791942876026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "ma jaloya"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "i dusukun"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "jurumutigɔw la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "siran kɔnɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don"
+    }
+  ],
+  "timestamp": "2026-10-14T01:54:36.027892925Z",
+  "model": "glm-5.3"
+}

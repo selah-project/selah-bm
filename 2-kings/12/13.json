@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 12:13",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o bɛɛ ye kɔlsili ye⟩",
+      "rationale": "לחזקה is an abstract noun 'for strengthening'; Bambara needs a clause to carry it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "datuguw",
+      "rationale": "בדק is literally a gap or leak in a building; 'datugu' (opening\/hole) keeps the physical picture"
+    }
+  ],
+  "translation": "Ani datugutigiw ma, ani kabakurun bolobagaw ma, ani ka jiriw ni kabakurun bolenw ta, walasa ⟨את⟩ datuguw min bɛ Yawe so la ka kɔlsi, ani fɛn bɛɛ min bɛna Yawe so kan, ⟨o bɛɛ ye kɔlsili ye⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "27feb0e5dd230df3b4916ebcefa483cdcea384dde59304d604633591939c3e15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/12\/13-16.1791932931636.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולגדרים",
+      "gloss": "ani datugutigiw ma"
+    },
+    {
+      "surface": "ולחצבי",
+      "gloss": "ani kabakurun bolobagaw ma"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kabakurun"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "ka ta"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "jiriw"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ani kabakurunw"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "bolobalenw"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "ka kɔlsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "datuguw"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "datuguw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ani fɛn bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bɛna tɔɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "לחזקה",
+      "gloss": "kɔlsili"
+    }
+  ],
+  "timestamp": "2026-10-13T23:08:51.639606656Z",
+  "model": "glm-5.3"
+}

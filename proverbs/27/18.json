@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יכבד",
+      "rationale": "Literally 'be heavy' → 'be honored'; rendered 'dumuni sɔrɔ' (receive honor), the weight-picture is lost."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נצר \/ שמר",
+      "rationale": "Two near-synonymous guarding verbs frame the verse; both rendered with guard-words mara\/kɔlɔsi to keep the parallel."
+    }
+  ],
+  "translation": "Min bɛ batoba jiri mara, a bɛna a jiriden dun; min bɛ a matigi kɔlɔsi, a bɛna dumuni sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2840ef32a6fe4117536bd22a0a81525c5ecee1ea848f43839e422a5100d3ea99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/27\/17-20.1791942994113.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "mara"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "batoba jiri"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dun"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "jiriden"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "a matigi"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "dumuni sɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:56:34.114768871Z",
+  "model": "glm-5.3"
+}

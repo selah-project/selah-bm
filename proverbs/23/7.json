@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שער",
+      "rationale": "root means 'gatekeeper\/estimate': KJV 'thinketh', JPS 'hath reckoned', BSB 'counting the cost' — rendered as jate (counting)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "gloss": "rendered ni (soul\/life-force), not 'soul' in a later sense"
+    },
+    {
+      "kind": "idiom",
+      "subject": "his heart is not with you",
+      "rationale": "לבו בל עמך — inward absence rendered 'a dusukun tɛ i lamaria'"
+    }
+  ],
+  "translation": "Sabu i n'a fɔ jatebaga ye a bɛ a laseli a ni kɔnɔ, o la a bɛ fɔ i ye ko: «Dun, ani min», nka a dusukun tɛ i lamaria.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/23\/5-8.1791942874927.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "jatebaga laseli"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "a ni kɔnɔ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o la"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dun"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ani min"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a bɛ fɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "a dusukun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tɛ … abada"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i lamaria"
+    }
+  ],
+  "timestamp": "2026-10-14T01:54:34.928800522Z",
+  "model": "glm-5.3"
+}

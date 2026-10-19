@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 29:41",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "wulaw cɛ",
+      "rationale": "בין הערבים 'between the two evenings' = dusk; literal kept as 'wulaw cɛ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ji-minɛ-saraka",
+      "rationale": "נסך is a poured libation, rendered as 'ji-minɛ-saraka' (drink-pouring offering)"
+    }
+  ],
+  "translation": "Ni ⟨את⟩ saga filanan in, i bɛna a kɛ wulaw cɛ, i n'a fɔ sɔgɔma-saraka ye cogo min na, ani a ka ji-minɛ-saraka i bɛna kɛ a ye, ni-kɔnɔ suman ye, tasuma-saraka Yawe ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "581974f03a5bb322fca2c14ab7e3b25378a06caab1a08b04c9f087207db45f43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/29\/41-44.1791927006298.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saga filanan in"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "saga"
+    },
+    {
+      "surface": "השני",
+      "gloss": "filanan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "i bɛna a kɛ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "wulaw"
+    },
+    {
+      "surface": "כמנחת",
+      "gloss": "i n'a fɔ sɔgɔma-saraka ye cogo min na"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sɔgɔma"
+    },
+    {
+      "surface": "וכנסכה",
+      "gloss": "ani ji-minɛ-saraka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "i bɛna kɛ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ni-kɔnɔ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "suman"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tasuma-saraka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:30:06.298879886Z",
+  "model": "glm-5.3"
+}

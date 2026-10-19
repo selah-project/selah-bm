@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ye n bɔ",
+      "rationale": "גוזי kɔrɔtiɲɛna ye 'ge' (ka kelen ge) ye — n Bamanankan n ta 'bɔ' (ka bɔ) kɛ ye sabu o ka nɔgɔya ka faamu"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "גוזי ɲɛfɛli-daɲɛ 'i' tɛ kunbɛn Bamanankan kumasen in kɔnɔ — a fɔcogo ɲɛma bɛ a jira"
+    }
+  ],
+  "translation": "I la n kilinna, ni n denbaxo la; ni n ba gamekɔnɔ na, i ye n bɔ. I la n fɔli bɛ don bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/71\/5-8.1791940530121.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "I la"
+    },
+    {
+      "surface": "נסמך",
+      "gloss": "n kilinna"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ni n denbaxo la"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ni n ba gamekɔnɔ na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "ye n bɔ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "I la"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "n fɔli"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "don bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:15:30.122426389Z",
+  "model": "glm-5.3"
+}

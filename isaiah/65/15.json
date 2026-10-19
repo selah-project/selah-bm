@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 65:15",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשבועה",
+      "rationale": "'oath\/formula of imprecation' vs KJV 'curse': your name becomes the formula by which people swear, not a curse-word itself"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "המיתך is second singular amid plural address; bracketed pronoun keeps the singular"
+    },
+    {
+      "kind": "you",
+      "subject": "to the rebellious servants",
+      "rationale": "Yawe addresses the faithless faction directly in second person"
+    }
+  ],
+  "translation": "Aw bɛna aw tɔgɔ to ka kɛ lasabɔli ye n ka sukililibagaw ye; Adonay Yawe bɛna ⟨i⟩ saya, a bɛna wele a ka sɔnkalabagaw ni tɔgɔ kura ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "828310d5c80749125b1f7436b6e22b75e7083491fd67e71cef4c9def9115b608",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/65\/13-16.1791934856260.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנחתם",
+      "gloss": "aw bɛna … to"
+    },
+    {
+      "surface": "שמכם",
+      "gloss": "aw tɔgɔ"
+    },
+    {
+      "surface": "לשבועה",
+      "gloss": "lasabɔli ye"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "n ka sukililibagaw ye"
+    },
+    {
+      "surface": "והמיתך",
+      "gloss": "bɛna saya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "a ka sɔnkalabagaw"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bɛna wele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kura"
+    }
+  ],
+  "timestamp": "2026-10-13T23:40:56.262384329Z",
+  "model": "glm-5.3"
+}

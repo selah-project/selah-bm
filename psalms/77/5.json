@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ɲɛkɔrɔmaw",
+      "rationale": "שמרות ye 'kɔlɔsiraw' kɔrɔ ye, nko a fɔcogo tiɲɛna ye ɲɛkɔrɔma (יִ שְׁמֻרָה — kɔlɔsilen fɛn)"
+    },
+    {
+      "kind": "elision",
+      "subject": "i tɛ u da",
+      "rationale": "Heburukan bɔlen b'a kan; ɲɛkɔrɔmaw marali ka kɔrɔ bɔko ka na ni 'i t'u da' ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמרות \/ שמר",
+      "rationale": "kɔlɔsili daɲɛ in bɛ fɔ kosɔbɛ Tanaki kɔnɔ; a bɛ tamasiyɛn kɛ 'kɔlɔsili' ni 'su ka tiyenali' cɛ"
+    }
+  ],
+  "translation": "I ye n ka ɲɛkɔrɔmaw mara, i tɛ u da; n jiloto, n tɛ se ka kuma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6a84d3cd64e25f3fe64598015cc650f563b9fc12bab644192602b75f8177ab93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/77\/5-8.1791940692720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "I ye … mara"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "ɲɛkɔrɔmaw"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "n ka"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "n jiloto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "kuma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:18:12.720692709Z",
+  "model": "glm-5.3"
+}

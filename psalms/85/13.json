@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יתן\/תתן",
+      "rationale": "The verb 'give' repeats in both lines — Yawe gives good, the land gives its yield — a parallelism carried into Bambara by repeating 'bɛ ... di'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "a ka sɛmɛ",
+      "rationale": "יבולה is 'her increase\/produce' with feminine suffix; Bambara 'a ka sɛmɛ' keeps 'her yield'."
+    }
+  ],
+  "translation": "Yumɛn, Yawe bɛ kenɛ di, ani an ka dugukolo bɛ a ka sɛmɛ di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cf0931526d8497ec42f1c5180566b79e392002d141456bdd64445ef32aba1d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/85\/13-14.1791940893833.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Yumɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bɛ ... di"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kenɛ"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "ani an ka dugukolo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bɛ ... di"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "a ka sɛmɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:33.834068725Z",
+  "model": "glm-5.3"
+}

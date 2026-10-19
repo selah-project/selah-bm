@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨terua⟩",
+      "rationale": "Hebrew battle-cry \/ joy shout kept as Hebrew term; English versions split between 'joyful sound' and 'shout'"
+    },
+    {
+      "kind": "crux",
+      "subject": "terua",
+      "rationale": "Trumpet blast, war-cry, or acclamation of joy — translators differ widely"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jamana",
+      "rationale": "עם is a congregated people; Bambara jamana leans toward 'nation', 'mɔgɔw' an alternative"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "The verse directly addresses Yawe mid-line ('O Yawe')"
+    }
+  ],
+  "translation": "Sumaya don jamana minnu bɛ ⟨terua⟩ dɔn — o kanba-cerɛ; Yawe, i ɲɛda yeelen kɔnɔ, u bɛ taama.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "47f99e3a61796cbf4ad3715b7592fd695f64f515638e343595633576e26e74bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/89\/16-16.1791951196634.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "sumaya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jamana"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "minnu bɛ … dɔn"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "⟨terua⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "yeelen kɔnɔ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i ɲɛda"
+    },
+    {
+      "surface": "ייהלכון",
+      "gloss": "u bɛ taama"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:16.634642478Z",
+  "model": "glm-5.3"
+}

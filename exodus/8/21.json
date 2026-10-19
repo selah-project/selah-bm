@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moshe and Aharon",
+      "rationale": "Paroh addressing the two directly with imperatives 'aw bɛ ta, aw ka saraka bɔ'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "saraka bɔ",
+      "rationale": "זבח is slaughter-for-sacrifice; Bambara saraka bɔ keeps the slaughter-and-offer picture in one phrase."
+    }
+  ],
+  "translation": "Paroh ye Moshe (Musa) ni Aharon wele, ko: aw bɛ ta, aw ka saraka bɔ aw ka Elohim ye dugukolo kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eb70608fdca283c9f342c3b827ba5a6978de7a20ec89bbd06d6f35ad9efd7b83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/8\/21-24.1791926932214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wele"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka ... wele"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "aw bɛ ta"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "aw ka saraka bɔ"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "aw ka Elohim ye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:28:52.216168460Z",
+  "model": "glm-5.3"
+}

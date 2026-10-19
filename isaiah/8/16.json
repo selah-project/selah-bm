@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "Tora silo",
+      "rationale": "Binding and sealing the testimony is an act of concealment for a later opening (cf. v17 waiting)."
+    },
+    {
+      "kind": "crux",
+      "subject": "kelen-kelen daɲɛw sirili",
+      "rationale": "Hebrew verbs are bare imperfects, read as imperatives ('bind, seal') or as first-person futures ('I bind') — most versions take imperatives."
+    },
+    {
+      "kind": "you",
+      "subject": "kalanbagaw ma",
+      "rationale": "The disciples are the sealed deposit's recipients, addressed through the command."
+    }
+  ],
+  "translation": "Seere bɛn, Tora silo, ne kalanbagaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d68edc4e0241c4a532cfc10469ab978202e514b13b9bddf4c3e633ee42a88a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/8\/13-16.1791933528870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "seere"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "silo"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "ne kalanbagaw la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:18:48.874974732Z",
+  "model": "glm-5.3"
+}

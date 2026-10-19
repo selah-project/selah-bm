@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 60:15",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Yawe",
+      "rationale": "Verb ושמתיך has first-person suffix 'I will set you'; subject supplied as Yawe from context."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bobolu",
+      "rationale": "משוש is a concrete 'object\/cause of joy'; rendered with general joy-word, specificity lost."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דור ודור",
+      "rationale": "Repetition 'dor va-dor' — generation and generation — idiomatic Hebrew for 'forever', unrolled in Bambara."
+    }
+  ],
+  "translation": "I yɛrɛ ma: i tun ye dɔ min bali, o kɔrɔ — i tun bɛnen, mɔgɔ si tun tɛ i yɔrɔ taabu; nka sisan Yawe b'i bila ka kɛ fanga-yɛrɛ ye san bɛɛ, ka kɛ bobolu dɔrɔn dɔ ye min bɛ dunia falije.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e27ae2e4541e16ee2ebfdbc67bd9b52d3a592179879c5d5f895798f87b184420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/60\/13-16.1791934718162.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "i yɛrɛ ma"
+    },
+    {
+      "surface": "היותך",
+      "gloss": "i tun ye"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "dɔ min bali"
+    },
+    {
+      "surface": "ושנואה",
+      "gloss": "i tun bɛnen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mɔgɔ si tun tɛ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "taabu"
+    },
+    {
+      "surface": "ושמתיך",
+      "gloss": "b'i bila"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "ka kɛ fanga-yɛrɛ ye"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "san bɛɛ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "bobolu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dɔrɔn dɔ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "min bɛ dunia falije"
+    }
+  ],
+  "timestamp": "2026-10-13T23:38:38.164448285Z",
+  "model": "glm-5.3"
+}

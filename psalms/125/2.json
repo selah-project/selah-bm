@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ni",
+      "rationale": "Hebrew juxtaposes without a conjunction; Bambara adds ni to link the two halves"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב ... סביב",
+      "rationale": "the same word repeated — mountains surround, Yawe surrounds — the echo is kept with kan ... kan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "waati bɛɛ",
+      "rationale": "עולם is literally the vanishing-point, concealed time; rendered with the natural Bambara 'all time'"
+    }
+  ],
+  "translation": "Yerushalayim — kululenw bɛ ⟨a⟩ kan, ni Yawe bɛ ⟨a⟩ jama kan, sisan fo waati bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ee2ffa908ce65b498d2e381526311106c8723bf750210d489cd3b62ed0bec091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/125\/2-3.1791951259008.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kululenw"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ni Yawe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "a jama"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waati bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:19.009323705Z",
+  "model": "glm-5.3"
+}

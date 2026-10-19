@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bo",
+      "rationale": "ירך is thigh; sword 'upon the thigh' is the ready-at-hip idiom, kept literally"
+    },
+    {
+      "kind": "elision",
+      "subject": "suw",
+      "rationale": "בלילות is plural 'in the nights'; Bambara plural marker w dropped in the possessed phrase"
+    }
+  ],
+  "translation": "U bɛɛ bɛ npan minɛ, u ye kɛlɛ kalanw ye; mɔgɔ kelen-kelen bɛ ⟨a⟩ npan minɛ a bo kan, sabu suw ka siran ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/3\/5-8.1791944597980.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "u bɛɛ"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "bɛ ... minɛ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "npan"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "kalanw"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "kɛlɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen-kelen"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "a npan"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "a bo"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "siran"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "suw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:23:17.982689755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 21:9",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tɛ yen",
+      "rationale": "Hebrew noun clause lacks a verb; Bambara needs an existence word"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hɛrɛ",
+      "rationale": "שלום here means welfare\/safety, not just peace"
+    }
+  ],
+  "translation": "U ka soyw bɛ hɛrɛ la, siran tɛ yen; Eloa ka npan si tɛ u kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2d78f45b90f8a900dc00f04eeb041cc02a703d3c2fabe3296e0c813e979dcf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/21\/9-12.1791943778107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתיהם",
+      "gloss": "u ka soyw"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "siran bɛ tɔ u la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "npan"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "u kan"
+    }
+  ],
+  "timestamp": "2026-10-14T02:09:38.108423982Z",
+  "model": "glm-5.3"
+}

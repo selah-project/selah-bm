@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nka",
+      "rationale": " contrast connector added: the gaze (ותתבנן 'gazes\/considers') stands against the unanswered cry."
+    },
+    {
+      "kind": "you",
+      "subject": "i (Ala — Yawe)",
+      "rationale": " direct second-person address to God who does not answer; the addressee is God."
+    },
+    {
+      "kind": "crux",
+      "subject": "ותתבנן",
+      "rationale": " 'you gaze at\/consider me' — silent staring vs KJV 'regardest me not'; the Hebrew says God looks, but says nothing of help."
+    }
+  ],
+  "translation": "B'an wele i ye, i ma an jaabi; an jɔra, nka i bɛ ⟨ko jira lajan fɔra an la—ko min tɛ jaabi ɲɛfɔli ye—kanfolya ye teliya la⟩ ɲɛ sin an ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d9e472ef1d53024c6fc49c9449aec97a376dde5d77f5b2b8c5e0cc19a21f3ca7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/30\/17-20.1791944091310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "b'an wele"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ma"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "an jaabi"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "an jɔra"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "i bɛ ... ɲɛ sin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "an ma"
+    }
+  ],
+  "timestamp": "2026-10-14T02:14:51.321048976Z",
+  "model": "glm-5.3"
+}

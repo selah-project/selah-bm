@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתו",
+      "rationale": "אתו in this verse is the preposition 'with him' (H854), not the direct-object marker; rendered 'a ni' and marked ⟨את⟩ per the standing rule."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Bambara requires the pronoun 'a' to carry 'with him'; the Hebrew אתו already contains it, so the added pronoun is bracketed."
+    },
+    {
+      "kind": "measurement",
+      "subject": "teriw mugan ni tan",
+      "rationale": "The verse counts thirty companions — the number is structural to the riddle wager."
+    }
+  ],
+  "translation": "A kɛra cogo min na, ni u ye ⟨את⟩ a ye, u ye teriw mugan ni tan ta, ani u kɛra a ni ⟨a⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f8515ba8140c119d69f5e4566d29e33d65d8ed7e5ec661c9ea71b4c1e32a9709",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/14\/11-12.1791950230094.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a kɛra cogo min na"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "ni u ye … ye"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "a"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "u ye … ta"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mugan ni tan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "teriw"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "u kɛra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a ni",
+      "marks": "a"
+    }
+  ],
+  "timestamp": "2026-10-14T03:57:10.094921544Z",
+  "model": "glm-5.3"
+}

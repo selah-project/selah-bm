@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kɔgɔnafiɲɛ \/ worodugufiɲɛ",
+      "rationale": "Directions named by wind: קדים east-wind, תימן south-wind; rendered as winds as Hebrew implies."
+    }
+  ],
+  "translation": "A ye kɔgɔnafiɲɛ to ka taama sankolow kɔnɔ, ka worodugufiɲɛ ɲɛminɛ ni a gɛlɛnma ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/25-28.1791940820835.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "ye ... to ka taama"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "kɔgɔnafiɲɛ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sankolow kɔnɔ"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "ka ... ɲɛminɛ"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "ni a gɛlɛnma ye"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "worodugufiɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:20.836335365Z",
+  "model": "glm-5.3"
+}

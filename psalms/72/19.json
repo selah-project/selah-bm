@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמן ואמן",
+      "rationale": "Doubled Amen closes the doxology; repetition is a formal seal."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jatigi",
+      "rationale": "כבוד is 'weight\/heaviness'; jatigi (honor-glory) carries the sense but not the weight image."
+    }
+  ],
+  "translation": "Ni a jatigi tɔgɔ duba bɛn le oloman; a jatigi ka faabɔ ⟨את⟩ dugukolo bɛɛ. Amin, ni Amin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/72\/17-20.1791940679020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "ni … duba bɛn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "a jatigi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "le oloman"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ka faabɔ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "a jatigi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ni Amin"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:59.021771331Z",
+  "model": "glm-5.3"
+}

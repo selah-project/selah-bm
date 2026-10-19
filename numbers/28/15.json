@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 28:15",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עזים",
+      "rationale": "שעיר עזים 'he-goat of goats' — the genitive is elliptical emphasis; rendered simply as 'batakɛ' (he-goat)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨la⟩",
+      "rationale": "Bamanankan needs a postposition where Hebrew's bare על 'upon\/besides' carries the sense 'in addition to'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tamid",
+      "rationale": "התמיד 'the continual (sacrifice)' is rendered by the technical term tamid rather than the full phrase 'saraka min bɛ tugu taa bɛɛ'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kelen",
+      "rationale": "The verse counts the offering precisely — one he-goat — part of the sacrificial schedule of Numbers 28."
+    }
+  ],
+  "translation": "Ni batakɛ kelen ye jurumu-saraka ye Yawe ma; a bɛ kɛ ka tɛmɛ ⟨la⟩ tamid saraka-ɲagami kan, ni a ka nesek ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dd29e620fec51e4e119b568de9e999bd71ef9e777fb858133747c65a340003e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/28\/15-15.1791950005577.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "ni batakɛ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "jurumu-saraka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ma"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka tɛmɛ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "saraka-ɲagami"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "tamid"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a bɛ kɛ"
+    },
+    {
+      "surface": "ונסכו",
+      "gloss": "ni a ka nesek"
+    }
+  ],
+  "timestamp": "2026-10-14T03:53:25.577535160Z",
+  "model": "glm-5.3"
+}

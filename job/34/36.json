@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 34:36",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אבי",
+      "rationale": "Lemma אָבֶה 'longing' — unique form here; KJV heard 'my father', YLT followed that reading."
+    },
+    {
+      "kind": "crux",
+      "subject": "עד נצח",
+      "rationale": "'Unto the end' vs 'unto victory\/testing to the limit' — נצח as goal\/distancy also yields 'forever'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תשובות באנשי און",
+      "rationale": "'Answers for wicked men' (KJV: on their behalf) vs 'answers like wicked men' (ASV\/JPS) — scope of the preposition ב־ disputed."
+    }
+  ],
+  "translation": "Ne b'a fɛ — Iyob ka kɛ sɔsɔli ye fo jukɔrɔ, sabu a ka jaabi bɛ aw-bonɔgɔn mɔgɔw ta ni ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4b9c74a86344e4b6bb2e20a3f3871d2af69ded51ebad81833bdfd845d270769c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/34\/33-36.1791944223777.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "ne b'a fɛ"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "ka kɛ sɔsɔli ye"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "jukɔrɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "a ka jaabi"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "און",
+      "gloss": "aw-bonɔgɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T02:17:03.779073977Z",
+  "model": "glm-5.3"
+}

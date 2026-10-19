@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sugu",
+      "rationale": "עֹל (yoke) — Bamanankan sugu (kun-kan fɛn min bɛ misi la) de bɛ a ɲini"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקשה\/הקל\/הכבד",
+      "rationale": "gɛlɛn-nɔgɔya-girilan ka famuye ka kɛ ni kelen ye Heburukan kɔnɔ: kasha\/hakel\/kaved — kaɲumɛ-cogo bɛ a yɛrɛ la"
+    },
+    {
+      "kind": "you",
+      "subject": "Israyelw ka kuma Rehavam ma",
+      "rationale": "kumasen in ye jama ka ɲininka ye masakɛkɔrɔba kɔrɔ, i n'a fɔlɔ ye ko-kalanbaga"
+    }
+  ],
+  "translation": "I fa y⟨את⟩ an ka sugu kɛ gɛlɛn ye; sisan i y'i yɛrɛ ka sɔn an ka i fa ka baara gɛlɛn n'a ka sugu girilan min b'an kan, o nɔgɔya, ani an bɛna baara kɛ i ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fd9e5648a40a5506a1d86ad29f3a01d1533b18ced9cb6d487483583c9110ad3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/10\/1-4.1791948899229.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "i fa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "kɛ gɛlɛn ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an ka sugu"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "an ka sugu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "i y… o nɔgɔya"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "baara"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "i fa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "gɛlɛn"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "sugu girilan"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "girilan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "b'an kan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "an"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "an bɛna baara kɛ i ye"
+    }
+  ],
+  "timestamp": "2026-10-14T03:34:59.231615436Z",
+  "model": "glm-5.3"
+}

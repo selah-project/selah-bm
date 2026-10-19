@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "חסד",
+      "rationale": "kept as the fixed Hebrew term hesed per discipline; a single Bambara word would shrink it"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשקו \/ נשקף",
+      "rationale": "v.11 'kissed' (נשקו) sounds against v.12 'looked down' (נשקף); the echo is lost in Bambara"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "pairing",
+      "rationale": "two matched pairs meeting and kissing — a chiasm of embrace; Bambara keeps the parallel structure"
+    }
+  ],
+  "translation": "Hesed ni tiɲɛ ye ɲɔgɔn lutu; tileya ni hɛrɛ bɛnu ɲɔgɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bd39adacc65c7d6b27486656fea877b7bd173b12d6d16f0b484d21cbecb5ee2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/85\/9-12.1791940913829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ni tiɲɛ"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "ye ɲɔgɔn lutu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tileya"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ni hɛrɛ"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "bɛnu ɲɔgɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:53.830495820Z",
+  "model": "glm-5.3"
+}

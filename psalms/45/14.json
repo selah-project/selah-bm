@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כבודה",
+      "rationale": "כְּבוּדָּה occurs only here in the Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "פנימה",
+      "rationale": "'within' vs 'in the palace\/chamber' — KJV 'within', ASV\/BSB supply a palace"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara predicate marker ye added; Hebrew is verbless"
+    }
+  ],
+  "translation": "Masakɛ denmuso ka jagokɛ bɛɛ bɛ a kɔnɔ; a diri ye sanu jɛgɛnsirili ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/45\/13-16.1791940237381.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "jagokɛ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "denmuso"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "a kɔnɔ"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "jɛgɛnsirili"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "a diri"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:37.381642259Z",
+  "model": "glm-5.3"
+}

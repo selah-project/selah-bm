@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 50:24",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "here ואת is the pronoun 'and you' (from אתה), not the direct-object marker; glossed as pronoun"
+    },
+    {
+      "kind": "you",
+      "subject": "to Babylon",
+      "rationale": "second-person feminine address: Yawe speaks to captured Babylon"
+    },
+    {
+      "kind": "substitution",
+      "subject": "התגרית",
+      "rationale": "'you provoked\/stirred yourself against' rendered as 'took quarrel against'; Hebrew verb is grappling imagery"
+    }
+  ],
+  "translation": "Ne ye daɲɛ da i bolo, Babilɔn, i minɛna fɔlɔ i ma a dɔn: i bɛnna, ani i minɛna fɔlɔ, sabu i ye Yawe kɔ kɛlɛ ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "29785189eeb93fa6280f1cf0a314de63d2e94ff94ad3c4a21fce9bd42936dd90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/50\/21-24.1791936296018.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יָקֹשְתִי",
+      "gloss": "ne ye daɲɛ da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i bolo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "fɔlɔ"
+    },
+    {
+      "surface": "נלכדת",
+      "gloss": "i minɛna"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilɔn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "a dɔn"
+    },
+    {
+      "surface": "נמצאת",
+      "gloss": "i bɛnna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נתפשת",
+      "gloss": "i minɛna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe kɔ"
+    },
+    {
+      "surface": "התגרית",
+      "gloss": "kɛlɛ ta"
+    }
+  ],
+  "timestamp": "2026-10-14T00:04:56.020303049Z",
+  "model": "glm-5.3"
+}

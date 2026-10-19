@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אין די … אין די",
+      "rationale": "Parallel repetition of 'not enough' in both halves — the refrain-like structure is kept with tɛ ɲɛ twice."
+    },
+    {
+      "kind": "substitution",
+      "subject": "saraka min bɛ tasuma kɔnɔ",
+      "rationale": "עולה is literally 'that which goes up' (whole burnt offering); a descriptive phrase marks the gap."
+    },
+    {
+      "kind": "elision",
+      "subject": "ו- prefix",
+      "rationale": "Hebrew 'and' opening the verse carries the connector 'ani' in the second clause instead."
+    }
+  ],
+  "translation": "Libanɔn tɛ ɲɛ ka tasuma kɛ, ani a ka bagannw tɛ ɲɛ ka kɛ ⟨saraka min bɛ tasuma kɔnɔ⟩ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "747a72f6fe83f6b07cc7939371a94ab0181439ac66f7b6f840df52e19f5331f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/40\/16-16.1791950662083.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "Libanɔn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "a ka bagannw"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "saraka min bɛ tasuma kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:04:22.083560214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Direct address continues; Yawe again the one who makes Israel a byword."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מנוד ראש",
+      "rationale": "Literal 'a nod of the head', Hebrew gesture of scorn; rendered kun-wili (head-shaking), the gesture kept."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בל אמים",
+      "rationale": "Rare poetic near-duplicate plural of לאם paired with גוים — nations\/peoples parallelism."
+    }
+  ],
+  "translation": "I b'an bila ka kɛ kumadenba ye siyaw la, ka kɛ kun-wili ye siyaw kɔnɔmɔgɔw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ae5db8211991fba40a7be49d8a8fef6e18c73abf8fefdfb9a9b7cf74c6b387de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/44\/13-16.1791940226439.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "I b'an bila"
+    },
+    {
+      "surface": "משל",
+      "gloss": "kumadenba"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "siyaw la"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "kun-wili"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "siya-kɔnɔmɔgɔw"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "siyaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:26.440360075Z",
+  "model": "glm-5.3"
+}

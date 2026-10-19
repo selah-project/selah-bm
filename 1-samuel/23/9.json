@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחריש",
+      "rationale": "'silently\/beforehand' (from חרשׁ keep-silent) vs 'is plotting' — the悄悄 secrecy is the literal shape"
+    },
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "Hebrew uses the preposition עליו 'upon him'; Bambara needs 'da … la'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "efodi",
+      "rationale": "Hebrew cultic garment אפוד kept as a fixed term; no Bambara equivalent exists"
+    }
+  ],
+  "translation": "Dawid y'a dɔn ko Shawulu bɛ ko jugu da a la dibi la, a ko Ebiyatar sarakalasebaga ma: efodi in na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/23\/9-12.1791930560420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "y'a dɔn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawulu"
+    },
+    {
+      "surface": "מחרישׁ",
+      "gloss": "dibi la"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ko jugu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebiyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "הגישׁה",
+      "gloss": "in na"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodi"
+    }
+  ],
+  "timestamp": "2026-10-13T22:29:20.422299300Z",
+  "model": "glm-5.3"
+}

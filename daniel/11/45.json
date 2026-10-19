@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "daniel 11:45",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אפדנו",
+      "rationale": "אַפַּדֶן (palace-tent) appears only here in the Tanakh; rendered as the compound faamaso-sogo."
+    },
+    {
+      "kind": "crux",
+      "subject": "בין ימים",
+      "rationale": "Dual\/plural 'between the seas' (JPS, KJV) vs singular 'between the sea' (ASV, BSB); the dual kept as kɔgɔjiw."
+    },
+    {
+      "kind": "crux",
+      "subject": "צבי קדש",
+      "rationale": "Construct 'splendor of holiness' — do the tents sit between seas AND the holy mountain, or is the mountain itself the beautiful-holy one; rendered attributively."
+    },
+    {
+      "kind": "addition",
+      "subject": "nka",
+      "rationale": "Hebrew has no adversative here; 'yet\/but' supplied for the contrast between pitching and coming to his end."
+    }
+  ],
+  "translation": "A bɛna a ka faamaso-sogow sinsin kɔgɔjiw cɛ, sanuma-senuma kulu kan, nka a bɛna na se a ka laban ma, dɛmɛbaga si tɛ a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f2b43b912da8bf9b118bfe046d11ba33e48476949f6cd9fbcbf2705724c2445a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/11\/45-45.1791946221384.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "bɛna sinsin"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "sogow"
+    },
+    {
+      "surface": "אפדנו",
+      "gloss": "a ka faamaso-"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kɔgɔjiw cɛ"
+    },
+    {
+      "surface": "להר",
+      "gloss": "kulu kan"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "sanuma"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "bɛna na se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "se … ma"
+    },
+    {
+      "surface": "קצו",
+      "gloss": "a ka laban"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "si tɛ yen"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "dɛmɛbaga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:50:21.385591636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 12:9",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "to him",
+      "rationale": "אליהם encoded in Bambara object pronoun 'u' rather than a separate word"
+    },
+    {
+      "kind": "crux",
+      "subject": "tɔgɔ 'yoke'",
+      "rationale": "Bambara 'tɔgɔ' means name; a heavy load metaphor — 'a ka bon min b'i bolo' (that heavy thing upon you) carries the imposed burden image"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקל\/הכביד",
+      "rationale": "lighten\/heavy opposition between vv. 9-10 structures Rehoboam's folly; Bambara nɔgɔya (lighten) vs gɛlɛya (heavy) kept the pair"
+    }
+  ],
+  "translation": "A y'u fɔ ko: munu aw bɛ masasi, k'ani bɛ ⟨את⟩ jama in kan-ɲɛfɔ? U minnu ye mɛlɛ ko: a fa tɔgɔ min b'i bolo, aw ye ol' ka a nɔgɔya di an ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b1147edd681aa68169446b16a1dd638547de3d893f770010015e9fc1cdfd048d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/12\/9-12.1791932110296.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a y'u fɔ ko"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "munu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "bɛ masasi"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "k'ani bɛ … kan-ɲɛfɔ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama in"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ye mɛlɛ ko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mɛlɛ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "nɔgɔya di"
+    },
+    {
+      "surface": "מן",
+      "gloss": "min b'i bolo"
+    },
+    {
+      "surface": "העל",
+      "gloss": "a fa tɔgɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "an ma"
+    }
+  ],
+  "timestamp": "2026-10-13T22:55:10.298535074Z",
+  "model": "glm-5.3"
+}

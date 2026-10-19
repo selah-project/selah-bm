@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשכרו",
+      "rationale": "'Hired themselves out (for bread)' vs 'ceased hiring' — the satiated now must labor for food; some render simply 'went hungry'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבעים\/שבעה",
+      "rationale": "Satiated (שבעים) and seven (שבעה) share the root שבע — the full and the seven echo each other in the same verse."
+    },
+    {
+      "kind": "elision",
+      "subject": "חדלו",
+      "rationale": "Hebrew 'ceased' leaves the infinitive 'to hunger' implicit; Bambara must supply it (kɔngɔ)."
+    }
+  ],
+  "translation": "Kunbato-bɛɛw ye u yɛrɛ lasago buru la, k'a sɔrɔ kɔngɔmɔgɔw banna; tima kɔngɔmuso ye wolonwula bɔ, muso min denw tun ka bon, a tiɲɛna.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "478812ae2dbb90111df4402fc355260b9f7d9d69d7974d95b7226c55165bb134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/2\/5-8.1791929872809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "kunbato-bɛɛw"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "buru"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "u yɛrɛ lasago"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "kɔngɔmɔgɔw"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "banna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tima"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "kɔngɔmuso"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ye … bɔ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "min denw tun ka bon"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "denw"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "tiɲɛna"
+    }
+  ],
+  "timestamp": "2026-10-13T22:17:52.811494665Z",
+  "model": "glm-5.3"
+}

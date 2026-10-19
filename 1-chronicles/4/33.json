@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 4:33",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Hebrew lacks copula; Bamanankan requires ye…ye for 'these were'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lasebɛn",
+      "rationale": "והתיחשם is 'to enroll oneself by pedigree'; rendered as 'their genealogies were enrolled'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "verse closes a settlement list and enrols the clan by pedigree"
+    }
+  ],
+  "translation": "Ni dugu-fitiniw bɛɛ minnu bɛ o duguw kunbɛfɛ, ka se Baal (Bala) ma — ⟨nin ye⟩ u ka sigiyɔrɔw ⟨ye⟩, ani u ka tɔgɔ-ɲɛnamaw lasebɛn u ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "701382f13ba3fd654e152d7b2e66e979eb176407587e13cf211b54bd81237362",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/4\/33-36.1791947508018.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ni … bɛɛ"
+    },
+    {
+      "surface": "חצריהם",
+      "gloss": "dugu-fitiniw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "kunbɛfɛ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "o"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka se … ma"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מושבתם",
+      "gloss": "u ka sigiyɔrɔw"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "u ka tɔgɔ-ɲɛnamaw lasebɛn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    }
+  ],
+  "timestamp": "2026-10-14T03:11:48.019382280Z",
+  "model": "glm-5.3"
+}

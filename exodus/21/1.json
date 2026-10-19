@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "sariya in bɛ Yawe fɔ Moshe ye k'a bila jama ɲɛ na"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפניהם",
+      "rationale": "Heburukan fɔ ko 'u ɲɛw na' — Bamanankan fɔ 'u ɲɛ na'"
+    }
+  ],
+  "translation": "Nin ye sariya-hukumaw ye, minnu i bɛ bila ⟨u⟩ ɲɛ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e00d3a443c679e325a2cdeb91bc8db30e8f2f8b9ede0ddde24b640bf33a8f61d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/21\/1-4.1791926917336.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Nin"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "sariya-hukumaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "i bɛ bila"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "u ɲɛ na"
+    }
+  ],
+  "timestamp": "2026-10-13T21:28:37.337136517Z",
+  "model": "glm-5.3"
+}

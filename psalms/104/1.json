@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka bon",
+      "rationale": "Hebrew גדלת is a verb 'you are great'; Bambara needs the adjective construction"
+    },
+    {
+      "kind": "substitution",
+      "subject": "n ni in",
+      "rationale": "נפשי is 'my life-force\/throat', rendered with Bambara ni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Yawe Yawe",
+      "rationale": "the Name stands twice in immediate succession — anaphora marking the address"
+    }
+  ],
+  "translation": "Duba, n ni in, ⟨את⟩ Yawe; Yawe, n Ala, i bonya ka bon kosɛbɛ; i ye danbe ni ɲɛjɛ don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/104\/1-4.1791941239021.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "duba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n ni in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "n Ala"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "i bonya ka bon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "danbe"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ni ɲɛjɛ"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "i ye … don"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:19.021904676Z",
+  "model": "glm-5.3"
+}

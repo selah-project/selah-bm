@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kan",
+      "rationale": "Hebrew אל lacks a Bambara postposition; kan supplied for 'against\/concerning'"
+    },
+    {
+      "kind": "crux",
+      "subject": "nabi",
+      "gloss-source": "הנביא rendered nabi per standing ruling, not kira",
+      "rationale": "kira is the printed Bambara Bible's word but reads as Muhammad's title"
+    }
+  ],
+  "translation": "Min kɛra Yawe ka kuma ye, min na Yawe weleli naara Yirmeyahu (Yeremiya) nabi ma Pɛlisitiw (Filitini) kan, ka nan Farawun (Fara) boli ⟨את⟩ Gaza (Gaza).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c146cf3cfa145807c5ccab8b1491c844b77828f372507f12f60a394402c28919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/47\/1-4.1791936217089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Min"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu (Yeremiya)"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pɛlisitiw (Filitini)"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ka nan"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "boli"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farawun (Fara)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaza (Gaza)"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza (Gaza)"
+    }
+  ],
+  "timestamp": "2026-10-14T00:03:37.248509061Z",
+  "model": "glm-5.3"
+}

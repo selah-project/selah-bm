@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 18:4",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כחם צח עלי אור",
+      "rationale": "'clear heat in sunshine' (ASV\/JPS) vs KJV 'clear heat upon herbs' (אור read as a plant-word); the balance is: dazzling heat beside light."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשקוטה",
+      "rationale": "'I will be quiet\/repose' rendered 'ne bɛnɛ hɛrɛ la' (I stay in peace); the stillness-verb has no single-word match."
+    },
+    {
+      "kind": "addition",
+      "subject": "i n'a fɔ",
+      "rationale": "Bambara needs a simile word for the two 'like' images; Hebrew joins them with bare כ."
+    }
+  ],
+  "translation": "Sabu Yawe ye n'ye ko nin cogo la: Ne bɛnɛ hɛrɛ la, ne bɛ ɲɛ dɔrɔn ne ka yɛn, i n'a fɔ tasuma jɛlen bɛ yeelen sanfɛ, i n'a fɔ kunnintɔ ni taŋɔ nin forobali tasuma kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "09e49299305836eb392ba88b85b98d89ff37106566c1a06010df6da0936bf95f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/18\/1-4.1791933849860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nin cogo la"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'ye"
+    },
+    {
+      "surface": "אשקוטה",
+      "gloss": "ne bɛnɛ hɛrɛ la"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ne bɛ ɲɛ"
+    },
+    {
+      "surface": "במכוני",
+      "gloss": "ne ka yɛn"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "i n'a fɔ tasuma"
+    },
+    {
+      "surface": "צח",
+      "gloss": "jɛlen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yeelen"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "i n'a fɔ kunnintɔ"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בחם",
+      "gloss": "tasuma kɔnɔ"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "forobali"
+    }
+  ],
+  "timestamp": "2026-10-13T23:24:09.866793970Z",
+  "model": "glm-5.3"
+}

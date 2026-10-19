@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tɔgɔjate",
+      "rationale": "Verse reports a national genealogical enrollment — counting\/registering by lineage."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויהודה הגלו",
+      "rationale": "Readings split: 'Judah was exiled' (KJV\/ASV\/JPS) vs 'they (all Israel) were exiled' — Hebrew verb is plural."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jɔyɔra",
+      "rationale": "הגלו literally 'uncovered\/stripped', hence exiled; Bambara uses 'jɔyɔra' (uprooted\/displaced)."
+    }
+  ],
+  "translation": "Ani Isirayel bɛɛ ka tɔgɔjate kɛra; ani aw ye, u sɛbɛnna Isirayel ani Yuda masaw ka sɛbɛn kan; u jɔyɔra Bavel (Babilɔn) u ka jurumu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/9\/1-4.1791947788726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ani … bɛɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayel"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "u ka tɔgɔjate kɛra"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ani aw ye"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "u sɛbɛnna"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "masaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ani Yuda"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "u jɔyɔra"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Bavel (Babilɔn)"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "u ka jurumu la"
+    }
+  ],
+  "timestamp": "2026-10-14T03:16:28.727613934Z",
+  "model": "glm-5.3"
+}

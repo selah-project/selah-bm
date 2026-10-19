@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "kabakomeya weleli",
+      "rationale": "Plural imperative addresses the hearers directly; second imperative turns to the speaker's own soul."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni minɛ",
+      "rationale": "נפש here is the self\/life-force, rendered as 'my soul' in Bambara 'ni minɛ'."
+    }
+  ],
+  "translation": "Aw kabakomeya, Aw ni Yawe; ni minɛ, ka Yawe kabakomeya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd9c1e02f2015f113f5c19e5cd83121533a352060ea047a6cf44a0c908ab641f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/146\/1-4.1791941989358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Aw kabakomeya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ni minɛ kabakomeya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ni minɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:39:49.359019966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 6:5",
+  "book": "amos",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הפרטים",
+      "rationale": "daɲɛ kelen min koŋgɔ a bɛ fɔ 'kuma bɛ o duguma fɔli' (prating); n b'a bayɛlɛmali kɛ 'donkili-lasin bɔli' ye i n'a fɔ JPS 'thrum'"
+    },
+    {
+      "kind": "elision",
+      "subject": "פי הנבל",
+      "gloss-note": "Hebrew bɛ fɔ 'nebalu da', maana kɔrɔ ta 'nebalu kan' — 'da' tɛ to a yɛrɛ la"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כדויד",
+      "rationale": "Yala a ko 'i n'a fɔ Dawid' wa, walima 'Dawid ka cogo la'? Bamanankan na n ye fɔlɔ ta."
+    }
+  ],
+  "translation": "Minnu bɛ donkili-lasin bɔ nebalu da kan, i n'a fɔ Dawid (Dawuda) cogo min na, u ye u yɛrɛ ka donkili-minɛnw dilan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3381093c1ceaf548d44767e213dae3210f3ec1af903b4402b0fec0ca647d6269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/amos\/6\/5-8.1791938591887.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפרטים",
+      "gloss": "Minnu bɛ donkili-lasin bɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "da"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nebalu"
+    },
+    {
+      "surface": "כדויד",
+      "gloss": "i n'a fɔ Dawid"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "u ye … dilan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u yɛrɛ ka"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "minɛnw"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "donkili"
+    }
+  ],
+  "timestamp": "2026-10-14T00:43:11.888035766Z",
+  "model": "glm-5.3"
+}

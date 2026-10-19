@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "Hebrew verbless clause 'daughter of Tyre with a gift'; Bambara needs motion verb bɛ na"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פניך יחלו",
+      "rationale": "Hebrew 'they entreat your face' rendered 'seek your ɲɛda (face)' as Bambara idiom for seeking favor"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Direct address to the queen\/king figure of the psalm"
+    }
+  ],
+  "translation": "Tsor denmuso bɛ na ni saraka ye; jamana mɔgɔw ka korodɔgɔw bɛ i ɲɛda laɲini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/45\/13-16.1791940237381.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "denmuso"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "ni saraka ye"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i ɲɛda"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "bɛ laɲini"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "korodɔgɔw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jamana mɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:37.381457933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 4:23",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הוביש → mahi",
+      "rationale": "יבש hifil, 'ka jiw mahi'; kokura kɔrɔ 'ka majuya' t'a la"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפניכם → aw ɲɛw la",
+      "rationale": "Heburukan ka 'i ɲɛ min bɔ' — Bamanankan bɛ sɔn ɲɛda la"
+    },
+    {
+      "kind": "crux",
+      "subject": "לים סוף",
+      "rationale": "'Kɔgɔji Kɔnɔw' (Reed Sea) an afɔ 'Yan-kuw' (Red Sea) — tubabuya bayɛlɛmali caman bɛ 'Red' ta"
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "kɔgɔjirili taamasiyɛn min bɔlen don sɛbɛnni fɛ"
+    }
+  ],
+  "translation": "Sabu Yawe, aw Ala, min ye ⟨את⟩ Yarden jiw mahi, ka bɔ aw ɲɛw la fo aw tun ye tugu, i n'a fɔ Yawe, aw Ala, ye kɛ Yan-kuw min ye — a min mahira an ɲɛw la fo an tun ye tugu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6cec6a287fa36478e2ac566c02b552c850c37894f66cff8fcf2d2ba9355ceba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/4\/21-24.1791928540478.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Sabu min ye"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "aw Ala (Elohim)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden jiw"
+    },
+    {
+      "surface": "מי",
+      "gloss": "jiw"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "aw ɲɛw la"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עברכם",
+      "gloss": "aw tugu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ye kɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "aw Ala (Elohim)"
+    },
+    {
+      "surface": "לים",
+      "gloss": "Yan-kuw (ji kunba)"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suw (Kɔgɔji Kɔnɔw)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "an ɲɛw la"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "an tugu"
+    }
+  ],
+  "timestamp": "2026-10-13T21:55:40.480320978Z",
+  "model": "glm-5.3"
+}

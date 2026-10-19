@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשע \/ רעה",
+      "rationale": "rasha\/ra'a root echo between 'wicked' and 'evil', lost in Bambara"
+    },
+    {
+      "kind": "crux",
+      "subject": "יאשמו",
+      "rationale": "'held guilty \/ punished \/ desolate' — translations split between condemned and perish"
+    }
+  ],
+  "translation": "Jugu bɛna mɔgɔjugubaga faga, ani mɔgɔ minnu bɛ jmɛbagaw ji, olu bɛna jurumu sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d36f55ed0d71b2f1a8e2e25a2781e79b4d6736842c3e68296853adf2636c3455",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/34\/21-23.1791939946083.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "bɛna faga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mɔgɔjugubaga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "minnu bɛ … ji"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jmɛbagaw"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bɛna jurumu sɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:46.083854662Z",
+  "model": "glm-5.3"
+}

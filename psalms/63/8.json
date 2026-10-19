@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bolow ja",
+      "rationale": "כנפיך wings of Yawe kept as 'wings' shadow image, not softened to protection-abstract"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "direct second-person address continues the psalm's prayer voice"
+    }
+  ],
+  "translation": "Sabu i tun ye dɛmɛ ye ne ye, ne bɛna yɛlɛma kɛ i ka bolow ja la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/63\/5-8.1791940489744.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "i tun ye ... ye"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "dɛmɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ja la"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "i ka bolow"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ne bɛna yɛlɛma kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:49.745850759Z",
+  "model": "glm-5.3"
+}

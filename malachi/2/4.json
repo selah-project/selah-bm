@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 2:4",
+  "book": "malachi",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את לוי",
+      "rationale": "את in na (Strong 854) ye ɲɔgɔndanya-daɲɛ ye min kɔrɔ 'ni', a tɛ direct-object marker ye; a sɛbɛnna 'ni' ye, a tɛ ⟨את⟩ ye."
+    },
+    {
+      "kind": "alternative",
+      "subject": "layidu to",
+      "rationale": "להיות בריתי = 'ne ka layidu ka kɛ' — KJV\/JPS bɛ a fɔ 'my covenant might be with Levi'."
+    }
+  ],
+  "translation": "Aw bɛna dɔn ko ne ye nin minani in ci aw ma, walasa ne ka layidu to Lewi ⟨את⟩ ni ye, Yawe Tsɛbaot de ye min fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/malachi\/2\/1-4.1791939500785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "aw bɛna dɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ne ye ci"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "aw ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minani in"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "minani"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "walasa ka to"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ne ka layidu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsɛbaot"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:20.787294242Z",
+  "model": "glm-5.3"
+}

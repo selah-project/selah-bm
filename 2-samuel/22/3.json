@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "נביא... nɔnabila te sɔrɔ — תשעני kuntilen-fɔ 'i' de ye; Bamanankan b'a wajibiya ka ⟨i⟩ bilali ka kuma-clear don"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jugu",
+      "rationale": "חמס ye 'jugu-kɛli \/ hakilijuguya' ye; 'jugu' ta ye nɔgɔya la n'a bɛɛ bɛ faamu"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "kumasen in laban Yawe ma — 'i bɛ ne lasoɔgɔ bɔ'"
+    },
+    {
+      "kind": "crux",
+      "subject": "צורי אלהי",
+      "rationale": "min bɛ bɔ cogo min na: 'Elohim, ne ka kabala' (sinsin-construct) walima 'ne ka kabala Elohim' (geneva: 'God is my strength'); an ye construct tilannen ta"
+    }
+  ],
+  "translation": "Elohim, ne ka kabala — ne bɛna a bolo kɔlɔsi; ne ka bɛn, ani ne ka lasoɔgɔ gban, ne ka ja-yɔrɔ ani ne ka boli-yɔrɔ; ne ka lasoɔgɔla — ⟨i⟩ bɛ ne lasoɔgɔ bɔ jugu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/22\/1-4.1791931612243.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ne ka"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ne ka kabala"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ne bɛna a bolo kɔlɔsi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ne ka bɛn"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "ani gban"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ne ka lasoɔgɔ"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ne ka ja-yɔrɔ"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "ne ka boli-yɔrɔ"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "ne ka lasoɔgɔla"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "i bɛ ne lasoɔgɔ bɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:46:52.251523133Z",
+  "model": "glm-5.3"
+}

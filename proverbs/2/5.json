@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Hebrew verb suffixes imply 'thou'; Bambara needs the pronoun explicit"
+    },
+    {
+      "kind": "you",
+      "subject": "to the son\/seeker",
+      "rationale": "verse continues direct address to the one seeking wisdom"
+    }
+  ],
+  "translation": "O waati la, ⟨i⟩ bɛna Yawe ka siran dɔn, ani Elohim ka dɔnni ⟨i⟩ bɛna sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "add815dd9eee4d9d11bca04d8a571e2444fb1a9a3a58da6ed3170c6bccb38334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/2\/5-8.1791942126788.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "O waati la"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "bɛna dɔn"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "siran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ani dɔnni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bɛna sɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:42:06.789088531Z",
+  "model": "glm-5.3"
+}

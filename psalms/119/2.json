@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Yawe⟩",
+      "rationale": "Hebrew has only the suffix -הו ('him'); the name Yawe is supplied from context"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "119:1-2",
+      "rationale": "parallel אשרי openings frame the stanza's inclusio, kept by repeating sumaya"
+    }
+  ],
+  "translation": "Sumaya bɛ alew la minnu bɛ ⟨Yawe⟩ ka seerew mara, ni dusukun bɛɛ u bɛ ⟨Yawe⟩ ɲini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/1-4.1791941582182.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "sumaya"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "minnu bɛ mara"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "⟨Yawe⟩ ka seerew"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ni bɛɛ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "u bɛ ⟨Yawe⟩ ɲini"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:02.182657538Z",
+  "model": "glm-5.3"
+}

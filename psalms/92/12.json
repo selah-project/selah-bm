@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nin",
+      "rationale": "Kɛlɛko taali kofɛ-daɲɛ min bɛ Bamanankan na, Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשורי",
+      "rationale": "Kɔrɔ ye mogow minnu bɛ labu (lying in wait); 'labukɛlaw' b'a cogo lasɔrɔ"
+    }
+  ],
+  "translation": "N ka ɲɛ yera ⟨nin⟩ n ka labukɛlaw, minnu bɛ wuli n kan; n ka tulow mɛnra ⟨nin⟩ jugukɛlaw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/92\/9-12.1791941070764.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "yera"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "N ka ɲɛ"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "n ka labukɛlaw"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "minnu bɛ wuli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n kan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "jugukɛlaw"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "mɛnra"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "n ka tulow"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:30.765228499Z",
+  "model": "glm-5.3"
+}

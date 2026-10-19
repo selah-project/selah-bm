@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i ka",
+      "rationale": "Bamanankan bɛ nɔnabila ta i n'a fɔ Heburukan bɛ fɔcogo ɲɛnamaw la"
+    },
+    {
+      "kind": "you",
+      "subject": "Yerushalayim ani Siyon",
+      "rationale": "weleli 直直接 dugu fila ma: kɔgɔjidaɲɛw (imperatives) tilennenw"
+    },
+    {
+      "kind": "invitation",
+      "subject": "barika bɔ \/ foo",
+      "rationale": "kɔgɔjidaɲɛw bɛ wele sɛbɛnnikɛla \/ jama ka barika bɔli la"
+    }
+  ],
+  "translation": "Yerushalayim (Jerusalɛmu), i ka ⟨את⟩ Yawe barika bɔ; Siyon, i ka i ka Elohim foo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/147\/9-12.1791942013498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "i ka … barika bɔ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "i ka … foo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:13.499666370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered 'ni' (life\/soul); here a life under oath-threat, not spirit"
+    },
+    {
+      "kind": "idiom",
+      "subject": "cogo nin na … cogo nin na",
+      "rationale": "כה…וכה oath formula 'thus may the gods do, and thus add'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Elohim",
+      "rationale": "אלהים in Jezebel's pagan oath — 'Elohim' kept vs 'alaw\/gods'"
+    },
+    {
+      "kind": "you",
+      "subject": "Eliyahu",
+      "rationale": "Jezebel's threat addressed directly to Elijah"
+    }
+  ],
+  "translation": "Izebel ye ciden ci Eliyahu ma, ko: cogo nin na Elohim kɛ, cogo nin na ka o fara a kan — sabu waati nin na sine, ne bɛ ⟨את⟩ i ni bila i ni ye ni u dɔ ni kelen ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "764f04f0955a05537db0ef3baba40aed83930debed9085becc204ed7166178a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/19\/2-3.1791950624907.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "ye ciden ci"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ciden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "cogo nin na"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "cogo nin na"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "ka o fara a kan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "waati nin na"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sine"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "bɛ bila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ni"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "i ni"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "ni … ye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "u dɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:03:44.908436041Z",
+  "model": "glm-5.3"
+}

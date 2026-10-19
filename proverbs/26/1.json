@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "waati",
+      "rationale": "בקציר is literally 'in the harvest'; 'waati' (time) supplied for the season sense in Bambara"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallel similes",
+      "rationale": "two impossible-weather images in tight parallelism, then כן pivots to the fool"
+    }
+  ],
+  "translation": "Kɔnɔji dɔgɔkun na, ani sanji segeli waati la — o cogo min na, kabini tɛ bɛn jɔnjɔn ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "25748eaa683f591b3e49c4a86db0095e5af6db1a0caab14ef15b47fb8e2160f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/26\/1-4.1791942951739.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "kɔnɔji"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "dɔgɔkun na"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "ani sanji"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "segeli waati la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o cogo min na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "jɔnjɔn ma"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabini"
+    }
+  ],
+  "timestamp": "2026-10-14T01:55:51.740405714Z",
+  "model": "glm-5.3"
+}

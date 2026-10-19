@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sariya ni a milokow",
+      "rationale": "חק ומשפט is a fixed pair 'statute and ordinance\/judgment'; rendered 'statutes and their particulars'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "infinitive chain",
+      "rationale": "Three purpose-infinitives (seek–do–teach) build a ladder; kept in order as ɲini–kɛ–kalanlase."
+    },
+    {
+      "kind": "addition",
+      "subject": "ani",
+      "rationale": "'and' repeated before the second and third infinitives, as Bambara chains purpose clauses with ani."
+    }
+  ],
+  "translation": "Sabu Ezira (Ezra) ye a dusukun labɛn ka Yawe ka ⟨את⟩ Tora ɲini, ani k'a kɛ, ani k'a kalanlase Yisrayɛl (Isirayɛl) kɔnɔ, sariya ni a milokow.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/7\/9-12.1791946654800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezira (Ezra)"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "labɛn"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "a dusukun"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ka … ɲini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "ani k'a kɛ"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "ani k'a kalanlase"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrayɛl (Isirayɛl) kɔnɔ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "a milokow"
+    }
+  ],
+  "timestamp": "2026-10-14T02:57:34.802236934Z",
+  "model": "glm-5.3"
+}

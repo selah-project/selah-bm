@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ו (vav)",
+      "rationale": "Hebrew 'and' rendered by Bambara 'fana' (also), the genealogical chain marker"
+    }
+  ],
+  "translation": "Kenaan fana, a dog'ɔlɔya ⟨את⟩ Tsidon a den fɔlɔ, ani ⟨את⟩ Het.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "551b3f3755e0cd20e9d776d5d03b051ed9a7f32f782ca86fe570f499b8eb79ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/1\/13-16.1791947334352.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכננען",
+      "gloss": "Kenaan fana"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dog'ɔlɔya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "a den fɔlɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-10-14T03:08:54.352882725Z",
+  "model": "glm-5.3"
+}

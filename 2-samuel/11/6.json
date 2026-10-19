@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "Bamanankan 'ye … ko' jɔcogo de wajibiya Hebrew 'le'mor' kɔfɛ"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (וישלח דוד)",
+      "rationale": "Sama Dawid fɛ — alef-tav tɛ yen；v6 sanba alef-tav ye Awuriya lamɛn"
+    }
+  ],
+  "translation": "Dawid ye sama Yowab fɛ, ko: i n'u, Awuriya (Uriya) Hitiken in i n'i mɛ. Yowab ye Awuriya (Uriya) sama Dawid fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a2c575487de200cd410a976549c0616e89e0d2e633f2c25212900018da4f0dd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/11\/5-8.1791931152286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a ye sama"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "i n'u sama"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne fɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awuriya Hitiken in"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Awuriya (Uriya)"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitiken in"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a ye sama"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awuriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Awuriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-13T22:39:12.288124872Z",
+  "model": "glm-5.3"
+}

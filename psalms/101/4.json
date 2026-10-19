@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רע לא אדע",
+      "rationale": "'I will know no evil thing' vs KJV 'a wicked person' — evil as abstract vs agent; Bambara keeps abstract 'jugu'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבב\/עקש",
+      "rationale": "Heart-of-crookedness construct pair, echoing בתם לבבי of v2 — tam vs iqesh contrast."
+    }
+  ],
+  "translation": "Dusukun bilalan bɛna bɔ n la; juguya, n mɛn a dɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/101\/1-4.1791941205273.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "bilalan"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "bɛ bɔ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n la"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "n mɛn a dɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:45.274828514Z",
+  "model": "glm-5.3"
+}

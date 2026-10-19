@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אִתָּנוּ",
+      "rationale": "Here spelled with the preposition 'with us' ('our lips are with us') though pointed like the object marker; rendered ⟨את⟩ with 'n'an ye' to keep both signals"
+    },
+    {
+      "kind": "you",
+      "subject": "liars",
+      "rationale": "Indirect quotation of the boasters' defiant speech, carried over from v.4"
+    }
+  ],
+  "translation": "Minnu ye ko: an ka me kan na, an bɛ bonya kɛ; an ka me ⟨את⟩ n'an ye; jɔyɔrɔ min bɛ an bolo, mɔgɔ di ye an matigi wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/12\/5-8.1791939655936.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ye ko"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "an ka me kan na"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "an bɛ bonya kɛ"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "an ka me"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "an ka me — n'an ye"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mɔgɔ di"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "matigi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:55.936859662Z",
+  "model": "glm-5.3"
+}

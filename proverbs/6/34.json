@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Verb יחמול carries no subject in Hebrew; bracketed pronoun refers to the enraged husband."
+    },
+    {
+      "kind": "crux",
+      "subject": "גבר",
+      "rationale": "'geber' = valiant man\/warrior; renderings range from 'man' (KJV) to 'husband' (BSB)."
+    }
+  ],
+  "translation": "Sabu gɛlɛyali ye cɛ ka tigeri ye, a tɛn'a hima fili don na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d58f996a7edda261c7e9c2a410c7dc325e39f21154ffa18151f4705c378c9373",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/6\/33-35.1791942248008.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "gɛlɛyali"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "tigeri"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani ta"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "a tɛn'a hima"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don na"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "fili"
+    }
+  ],
+  "timestamp": "2026-10-14T01:44:08.009411602Z",
+  "model": "glm-5.3"
+}

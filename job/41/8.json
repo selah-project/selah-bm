@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אחד באחד",
+      "rationale": "'one to one' — the scales pressed scale-to-scale; parallelism kept"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "rendered 'fiɲɛ' (wind\/breath); the picture of scales so tight no air passes"
+    }
+  ],
+  "translation": "Kelen ni kelen bɛ ɲɔgɔn sɔrɔ ka surun, fiɲɛ si tɛ se ka don u cɛma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "99325afaae36f89ebcccfe733ab17645911107141b496c35276ec02e79ac64b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/41\/5-8.1791944460819.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ni kelen"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "bɛ ɲɔgɔn sɔrɔ ka surun"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "fiɲɛ si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ se"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ka don"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "u cɛma"
+    }
+  ],
+  "timestamp": "2026-10-14T02:21:00.821402661Z",
+  "model": "glm-5.3"
+}

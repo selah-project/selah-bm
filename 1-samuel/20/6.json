@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 20:6",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פקד יפקד \/ נשאל נשאל",
+      "rationale": "Infinitive-absolute doubling ('if visiting he visits me', 'asking-asking he asked') intensifies; kept as ɲini-ɲini"
+    },
+    {
+      "kind": "crux",
+      "subject": "donw ka saraka",
+      "rationale": "זבח הימים literally 'sacrifice of the days'; versions take it as the yearly clan sacrifice — 'san bɛɛ ka saraka'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲini",
+      "rationale": "פקוד 'miss\/visit\/muster' has no single Bambara word; 'look for' covers the noticing sense"
+    }
+  ],
+  "translation": "“Ni i fa ye ne ɲini, i na i ko: Dawid ye ɲini-ɲini ne ma walasa ka jon ka taa Bet Lehem (Betilɛmu), a dugu na, sabu donw ka saraka bɛ yen denbaya bɛɛ kama.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dacb9edc516907cce415e8d123c2a0c59b440e80b5b153b56c2e26e53fb3c4b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/20\/5-8.1791930510102.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ka ɲini"
+    },
+    {
+      "surface": "יפקדני",
+      "gloss": "ka ne ɲini"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "i fa"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i na i ko"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "ɲini"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "ɲini"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ne ma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "ka jon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "a dugu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "saraka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "donw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "denbaya"
+    }
+  ],
+  "timestamp": "2026-10-13T22:28:30.105625074Z",
+  "model": "glm-5.3"
+}

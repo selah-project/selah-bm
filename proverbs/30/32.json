@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבלת",
+      "rationale": "nongoya (folly) laseli kɔnɔ — 'wilted\/fallen away' versus 'played the fool'; KJV 'done foolishly'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בהתנשא",
+      "rationale": "infinitive construct 'in lifting yourself' rendered as manner phrase 'in self-exaltation'"
+    },
+    {
+      "kind": "you",
+      "subject": "kalanbaga",
+      "rationale": "verse addresses the reader directly with second-person verbs and a command"
+    },
+    {
+      "kind": "invitation",
+      "subject": "i bolo bila i da kan",
+      "rationale": "imperative summons: put your hand on your mouth"
+    },
+    {
+      "kind": "elision",
+      "subject": "לפה",
+      "rationale": "Hebrew has no pronoun on 'mouth'; Bambara needs ⟨i⟩ to show whose mouth"
+    }
+  ],
+  "translation": "Ni i y'i yɛrɛ laseli kɔnɔ n'a fɔ i ye nongoya kɛ, walima ni i ye ko jugu miiri, i bolo bila ⟨i⟩ da kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "003b16909807b5a5ba264667075c97a889606e698ddf6cbf1891d34a432568dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/30\/32-32.1791951278633.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "i ye nongoya kɛ"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "i y'i yɛrɛ laseli kɔnɔ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walima ni"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "i ye ko jugu miiri"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:38.633580473Z",
+  "model": "glm-5.3"
+}

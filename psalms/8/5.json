@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Verse addresses God directly with rhetorical questions about man."
+    },
+    {
+      "kind": "substitution",
+      "subject": "miiri",
+      "rationale": "זכר is 'remember\/keep in mind', miiri is closest but loses the 'mark so as to recognize' picture."
+    },
+    {
+      "kind": "alternative",
+      "subject": "k'a ɲini",
+      "rationale": "פקד can mean visit, muster, or oversee; 'k'a ɲini' (seek him out) is the plainest, 'k'a lajɛ' (inspect him) is another reading."
+    }
+  ],
+  "translation": "Hadama-faden ye mun, sabu ⟨i⟩ bɛ a miiri? Ani Adamaden denkɛ, sabu ⟨i⟩ bɛ k'a ɲini?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/8\/5-8.1791939629457.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "hadama-faden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "i bɛ a miiri"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ani denkɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamaden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "i bɛ k'a ɲini"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:29.457557395Z",
+  "model": "glm-5.3"
+}

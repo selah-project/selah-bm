@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "menora",
+      "rationale": "מנורת sɛbɛnna 'menora' ye — kɛnɛ dɔnnen 'yeelenbilalan' nɔgɔya a kɔrɔ bɔyɔrɔ"
+    }
+  ],
+  "translation": "ani ⟨את⟩ menora min bɛ yeelen di, ani ⟨את⟩ a ka kɛnɛw, ani ⟨את⟩ a ka lampow, ani ⟨את⟩ yeelen ka tulu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "721100d4fd704bab70b436b60f51e9ff3774907d6dc12a47d5887069d149b7d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/35\/13-16.1791926981593.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "menora"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "menora"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "yeelen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ka kɛnɛw"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "a ka kɛnɛw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ka lampow"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "a ka lampow"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yeelen ka tulu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "tulu"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "yeelen ka"
+    }
+  ],
+  "timestamp": "2026-10-13T21:29:41.594304393Z",
+  "model": "glm-5.3"
+}

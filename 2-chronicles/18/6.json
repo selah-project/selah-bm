@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yehoshafat",
+      "rationale": "Jehoshaphat addresses the king of Israel with a question"
+    },
+    {
+      "kind": "crux",
+      "subject": "od",
+      "rationale": "'still\/besides' — does it modify 'here' or 'one more prophet'? rendered as 'dɔ' (another)"
+    }
+  ],
+  "translation": "Yehoshafat ko: Yawe nabi si si tɛ yan wa, walasa an ka se ka ɲini ⟨את⟩ a fɛ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0e31a89b7cd91413293d6c17f6809bf35ddc5b185f21755572f58e9541682a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/18\/5-8.1791949160751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "si … tɛ wa"
+    },
+    {
+      "surface": "פה",
+      "gloss": "yan"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dɔ"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "an ka ɲini"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ a fɛ",
+      "marks": "a (Yawe nabi)"
+    }
+  ],
+  "timestamp": "2026-10-14T03:39:20.752792629Z",
+  "model": "glm-5.3"
+}

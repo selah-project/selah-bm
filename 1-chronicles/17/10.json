@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 17:10",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולמימים",
+      "rationale": "verse opens mid-sentence continuing v9; versions supply 'as\/from the days' or bracket as parenthetical"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "so",
+      "rationale": "house-for-house reversal: David wanted to build Yawe a house; Yawe will build David a house (dynasty), lost if 'house' becomes 'temple' or 'palace'"
+    },
+    {
+      "kind": "you",
+      "subject": "Dawid",
+      "rationale": "Yawe's speech to David through Natan, direct address throughout"
+    }
+  ],
+  "translation": "Donw na minnu na An y'a ɲini cɛcɛlaw n'ka mɔgɔw Yisraɛl kan, An ye ⟨את⟩ i bɛnbagaw bɛɛ janya, An b'a fɔ i ye ko Yawe bɛna so dilan i ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c38e68cae1293cc5cde40c214ebcc71b69d926a17a32f6dcbf8cf55fc953d0b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/17\/9-12.1791948079729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמימים",
+      "gloss": "donw na minnu na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "An y'a ɲini"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "cɛcɛlaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "… kan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n'ka mɔgɔw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "והכנעתי",
+      "gloss": "An ye … janya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i bɛnbagaw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "i bɛnbagaw"
+    },
+    {
+      "surface": "ואגד",
+      "gloss": "An b'a fɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ani ko so"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bɛna dilan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T03:21:19.730829594Z",
+  "model": "glm-5.3"
+}

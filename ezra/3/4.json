@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דבר יום ביומו",
+      "rationale": "Hebrew la: 'don kelen ka kuma a don kelen kɔnɔ' — dɔn kelen-kelen bɛɛ ka a don baara in na, ni a jatebaliye ye."
+    },
+    {
+      "kind": "measurement",
+      "subject": "במספר",
+      "rationale": "Saraka jatebaliye (nɔgɔya-ɔlɔt dɔgɔya) bɛ Tora la, Num 29:12–38 — don kelen-kelen bɛɛ ka jate dɔ."
+    }
+  ],
+  "translation": "U ye ⟨את⟩ Sukot dɔn kɛ i n'a sɛbɛnna cogo min ye, ni ɔlot don kɔnɔ don bɛɛ, jate cogo la, sariya cogo la, don kelen-kelen bɛɛ ka a don baara in na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/3\/1-4.1791946485044.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "u ye … kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukot dɔn"
+    },
+    {
+      "surface": "חג",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "i n'a sɛbɛnna cogo min ye"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "ni ɔlot"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don kɔnɔ"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "jate cogo la"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sariya cogo la"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "baara"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "a don kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:54:45.046347814Z",
+  "model": "glm-5.3"
+}

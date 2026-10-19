@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 1:9",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Hebrew suffix -יו on 'his fifty' supplied as separate Bambara possessive"
+    },
+    {
+      "kind": "substitution",
+      "subject": "על ראש ההר",
+      "rationale": "lit. 'on the head of the mountain'; rendered 'kulu sanfetɛ' (top of the hill)"
+    },
+    {
+      "kind": "you",
+      "subject": "to Eliyahu",
+      "rationale": "captain addresses the man of God with royal summons 'come down'"
+    }
+  ],
+  "translation": "A y'a ɲini ni kɛmɛdɔrɔ 50-tigi kelen ye, ni ⟨o⟩ kɛmɛdɔrɔ 50 ye; o tigi tuluŋa a nɔ ma. A y'a ye ko, aw ka yɛlɛ, a sigilen don kulu sanfetɛ la. A y'a wele ko: yo Elohim mɔgɔ, masakɛ ko: aw ka na duguma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "964ab0b5d50b9bb361b60c11daa5245a361ec7c20c67916f8372b688c4739fed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/1\/9-12.1791932569512.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a y'a ɲini"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a nɔ ma"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kɛmɛdɔrɔ 50-tigi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "50"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "ni o kɛmɛdɔrɔ 50"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "o tigi tuluŋa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a nɔ ma"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "aw ka yɛlɛ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a sigilen don"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanfetɛ la"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a y'a wele"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "aw ka na duguma"
+    }
+  ],
+  "timestamp": "2026-10-13T23:02:49.516118802Z",
+  "model": "glm-5.3"
+}

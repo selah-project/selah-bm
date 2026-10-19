@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דמי עבדי",
+      "rationale": "דם ‘blood’ is plurals of abundance ‘bloods’; rendered simply ‘joli’ (blood), the plural intensity lost"
+    },
+    {
+      "kind": "elision",
+      "subject": "כה vs. purpose clause",
+      "rationale": "Hebrew links the striking to the avenging with no conjunction; Bambara supplies juxtaposition as two parallel declarations"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jehu",
+      "rationale": "the prophetic commission addresses Jehu in the second person"
+    }
+  ],
+  "translation": "I bɛna ⟨את⟩ Ahab (Ahaba) i ka matigi ka so bɔ, ne bɛna ne ka sɔrɔdasiw — nabiw — ka joli latigɛ, ani Yawe ka sɔrɔdasiw bɛɛ ka joli, Izebeli bolo na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ef9fc95e6c92bbced58637f31d26d1e5e1d72c43b026fda6bb4c0af57517bfe7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/9\/5-8.1791932766701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "i bɛna … bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahab i ka matigi ka so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab (Ahaba)"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "i ka matigi"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "ne bɛna … latigɛ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "joli"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sɔrɔdasiw"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabiw"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "ka joli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sɔrɔdasiw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebeli"
+    }
+  ],
+  "timestamp": "2026-10-13T23:06:06.707072854Z",
+  "model": "glm-5.3"
+}

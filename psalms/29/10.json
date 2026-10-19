@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "(Nuhu ka ji sumaya)",
+      "rationale": "Mabul is Hebrew for the Flood; bracketed Bambara gloss supplied at first mention so the reader knows which flood."
+    },
+    {
+      "kind": "crux",
+      "subject": "למבול",
+      "gloss": "'at the Flood' (JPS: sat enthroned AT the flood) vs 'upon the flood' (KJV) — lamed of time or of location."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כבוד→Kaboya",
+      "gloss": "not here; see v9 note — כבוד is 'weight\/heaviness', Kaboya carries 'renown' not the physical weight."
+    }
+  ],
+  "translation": "Yawe sigilen tun don Mabul (Nuhu ka ji sumaya) kan; Yawe, masakɛ, sigilen bɛ fo tile bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/29\/9-11.1791939834749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "Mabul kan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sigilen tun don"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sigilen bɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "fo tile bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:54.750111239Z",
+  "model": "glm-5.3"
+}

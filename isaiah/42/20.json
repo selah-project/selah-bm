@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew shifts from 2nd person (תשמר) to 3rd (ישמע) mid-verse; the pronoun makes the shift visible"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פקוח אזנים",
+      "rationale": "literally 'opening of ears', an idiom for attentiveness; rendered 'tulow da bɛ digi'"
+    }
+  ],
+  "translation": "I ye fɛn caman ye, nka i ma a kɔlɔsi; tulow da bɛ digi, nka ⟨a⟩ tɛ mɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b678dd2df6f7c0ac58d4511db3366d559637e647432391461db891ed456b6121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/42\/17-20.1791934325564.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "i ye … ye"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "fɛn caman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka … ma"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "da bɛ digi"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "tulow"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka … tɛ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mɛn"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:05.566536530Z",
+  "model": "glm-5.3"
+}

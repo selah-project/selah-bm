@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne ye",
+      "rationale": "לי 'to me' rendered as explicit Bambara dative; the Hebrew verse is a noun chain with no verb"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמי",
+      "rationale": "'my people' (KJV, one people under David) vs 'peoples' (BSB, subjecting nations)"
+    }
+  ],
+  "translation": "Hesed ne ka, ne ka daɲɛgɛlɛnban, ne ka sanfebulon, ne ka falibɔli; a ye ne ka bɔgɔda ye, min na ne bɛ sigi minɛ, min bɛ jama bila ne kunbɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/144\/1-4.1791942046045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed ne ka"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ne ka daɲɛgɛlɛnban"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ne ka sanfebulon"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ne ka falibɔli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ne ka bɔgɔda"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "min na"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ne bɛ sigi minɛ"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "min bɛ … bila"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jama"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ne kunbɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:46.046631196Z",
+  "model": "glm-5.3"
+}

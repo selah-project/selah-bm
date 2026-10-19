@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kunko",
+      "rationale": "הבל ka kɔrɔ tiɲɛna ye 'ninakili kunko' (jin kunko min bɛ bɔ niɛ na) — bayɛlɛmabaga dɔw b'a fɔ 'ɲɛmaninkew', dɔw 'sɔɔtɔya'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kunko kunkow ni kunko",
+      "rationale": "Heburu kɔgɔjɔcogo (superlative cogo) — 'kunkow ni kunko' — kɔgɔjɔcogo in na dɔgɔya bamanankan na."
+    },
+    {
+      "kind": "elision",
+      "subject": "ye … ye",
+      "rationale": "Heburukan tɛ kɔfɛ-daɲɛ si sɔrɔ 'bɛɛ ⟨ye⟩ kunko ⟨ye⟩' kɔnɔ; Bamanankan ka wajibi b'u bila."
+    }
+  ],
+  "translation": "Kunko, kunkow ni kunko, Koheleth y'a fɔ; kunko, kunkow ni kunko, bɛɛ ye kunko ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/1\/1-4.1791945126198.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "kunko"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "kunkow"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleth"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kunko"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "kunkow"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kunko"
+    }
+  ],
+  "timestamp": "2026-10-14T02:32:06.201146993Z",
+  "model": "glm-5.3"
+}

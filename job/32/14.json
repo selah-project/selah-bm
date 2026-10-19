@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 32:14",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ערך",
+      "gloss-target": "labɛn",
+      "rationale": "'arrange in order' rendered as 'directed\/arranged words' — set-in-row picture kept by labɛn"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "object pronoun for Job supplied, Hebrew suffix -נו"
+    }
+  ],
+  "translation": "Kabini a ma kumaw labɛn ɲɛfɛ n na, aw ni kumaw fɛ n tɛ ⟨a⟩ jaabi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "63590c2346f64a465b88e631266c6be14919feb59bb413133f67a56388e27aee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/32\/13-16.1791944046667.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "labɛn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɲɛfɛ n na"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "ובאמריכם",
+      "gloss": "aw ni kumaw fɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "jaabi ⟨a⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T02:14:06.670857234Z",
+  "model": "glm-5.3"
+}

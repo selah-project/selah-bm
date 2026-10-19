@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Aw ma … dɔn",
+      "rationale": "Hebrew הלא is a rhetorical 'is it not so?'; rendered as an explicit question 'do you not know?'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "במות → sanfɛyɔrɔw",
+      "rationale": "'high places' (cultic elevated sites) rendered as 'sanfɛyɔrɔw' (high places), literal shape kept"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תקטירו → bɛ tusu",
+      "rationale": "'turn into smoke\/fragrance by fire' rendered with Bambara 'tusu' (incense); the smoking-sacrifice picture is narrowed"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yuda ni Yerushalayim",
+      "rationale": "Hezekiah's reported command addresses Judah and Jerusalem with plural imperatives"
+    }
+  ],
+  "translation": "Aw ma a dɔn? O Yehizkiyahu ti a yɛrɛ ye ⟨את⟩ a ka sanfɛyɔrɔw ni ⟨את⟩ a ka sarakabɔlanw bɔ, a ko Yuda ni Yerushalayim ye, ko: Aw kaw yɛrɛ to duguma sarakabɔlan kelen ɲɛfɛ, aw bɛ tusu o sanfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "33da31ad26dd2a56c8b01969218523d4962cd2231b3e5f96f8b8559b68ef6093",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/32\/9-12.1791949664545.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Aw ma … dɔn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a yɛrɛ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ye … bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka sanfɛyɔrɔw"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "a ka sanfɛyɔrɔw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ka sarakabɔlanw"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "a ka sarakabɔlanw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko … ye"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "ni Yerushalayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarakabɔlan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "kaw yɛrɛ to duguma"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "o sanfɛ"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "bɛ tusu"
+    }
+  ],
+  "timestamp": "2026-10-14T03:47:44.547158468Z",
+  "model": "glm-5.3"
+}

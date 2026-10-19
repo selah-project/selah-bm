@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 30:17",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "imprecation vs statement",
+      "rationale": "Hebrew uses plain perfects; renderings split between curse ('may they pick it out') and statement ('they will pick it out')."
+    },
+    {
+      "kind": "elision",
+      "subject": "עין",
+      "rationale": "Hebrew begins with the bare noun 'an eye' with no relative particle; the descriptor 'min' is supplied."
+    }
+  ],
+  "translation": "Nyɛ min bɛ a fa laugu, ka a ba ka toli jɔsi — baji kulu nakɔbilennw bɛna o nyɛ bɔ, nseŋɛ (eagle) denw bɛ o dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "226cb39cb7c912ee9135b26247b64812ddc76df494e0d60874da88ff3e176e27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/30\/17-20.1791943081134.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "nyɛ"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "laugu"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "ותבוז",
+      "gloss": "ka jɔsi"
+    },
+    {
+      "surface": "ליקהת",
+      "gloss": "toli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יקרוה",
+      "gloss": "bɔ (ɲini-bɔ)"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "nakɔbilennw"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "baji kulu"
+    },
+    {
+      "surface": "ויאכלוה",
+      "gloss": "k'o dun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "nseŋɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:58:01.135349392Z",
+  "model": "glm-5.3"
+}

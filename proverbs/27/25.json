@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גלה",
+      "rationale": "'bin bira' — Hebrew 'denuded\/revealed'; renderings split between 'hay is removed\/mown' and 'hay appears'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bin fitiniw",
+      "rationale": "דשא is a tender sprout\/grass, rendered with a diminutive to keep the contrast with חציר"
+    }
+  ],
+  "translation": "Bin bira, bin fitiniw bɛ ye, ani kuluw ka binw bɛ lajɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "77379553d099267a1d02374608fba4f2bd4e4b1a765d852a36f439702c95b42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/27\/25-27.1791943012300.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "bira"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "bɛ ye"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "bin fitiniw"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "bɛ lajɛ"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "binw"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kuluw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:56:52.300979039Z",
+  "model": "glm-5.3"
+}

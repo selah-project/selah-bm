@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בלע",
+      "rationale": "Literally 'a gulp\/swallow'; rendered as 'min' (to swallow) keeping the devouring picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "a ye",
+      "rationale": "Bambara needs the copula 'a ye … ye' for the apposition 'tongue of deceit'"
+    }
+  ],
+  "translation": "I bɛ kumaw bɛɛ minnu bɛ min, i bɛ ⟨את⟩ jakanw janto, ⟨a ye⟩ da-jaabaguya so ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/52\/5-8.1791940374148.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "i bɛ … janto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "min"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jakan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "da-jaabaguya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:54.148888827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ama bidan \/ bisaba",
+      "rationale": "Porch dimensions given in cubits (length fifty, width thirty)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ama",
+      "rationale": "אמה is literally 'forearm' — a body-based unit, not an abstract measure."
+    },
+    {
+      "kind": "crux",
+      "subject": "ועב",
+      "rationale": "Rare word: 'architrave\/thick beam' — versions give thick beam, threshold, canopy, pomels."
+    }
+  ],
+  "translation": "A ye ⟨את⟩ jɛgɛw ka daso dilan: a ka janya ye ama bidan, a ka bonya ye ama bisaba; daso dɔ bɛ u ɲɛ na, jɛgɛw ni bantonba bɛ u ɲɛ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "93431f683d6f071b7b277a1636ce9f4b011d9f35e7f47cc6c88139e244e965ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/7\/6-7.1791950443881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jɛgɛw ka daso"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "daso"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "jɛgɛw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilan"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "bidan"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "a ka janya"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ni bisaba"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "a ka bonya"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "daso dɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "u ɲɛ"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "jɛgɛw"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "bantonba"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "u ɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:00:43.882103945Z",
+  "model": "glm-5.3"
+}

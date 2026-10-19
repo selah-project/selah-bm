@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 1:15",
+  "book": "ruth",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "alaw",
+      "rationale": "Moab's אלהיה are foreign gods, rendered alaw\/batofɛnw per the discipline, not Elohim."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבה \/ שובי",
+      "rationale": "root שוב three times in one breath (returned… return), untranslatable repetition in Bambara."
+    }
+  ],
+  "translation": "A ko: Nin de, i balimamuso seginna a ka jamaa la ani a ka alaw (Elohim) la; segin, tugu i balimamuso kɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eae86b0c522789f89934bcdddb2fe26b76f5850a1e28b3edde38b28b8a2e2f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ruth\/1\/13-16.1791944762882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nin de"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "seginna"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "i balimamuso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…la"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "a ka jamaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani …la"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "a ka alaw"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "segin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…kɔ"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "i balimamuso"
+    }
+  ],
+  "timestamp": "2026-10-14T02:26:02.884912187Z",
+  "model": "glm-5.3"
+}

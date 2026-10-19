@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אכל",
+      "rationale": "'they have eaten Jacob' — devour as figure of total destruction"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Hebrew verbs omit an explicit subject; Bamanankan requires 'u' (they, the nations)"
+    }
+  ],
+  "translation": "Sabu u ye ⟨את⟩ Yakub dun, u ye ⟨את⟩ a ka so yɛrɛma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/79\/5-8.1791940884491.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakub"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ka so"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "a ka so"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "yɛrɛma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:24.492476386Z",
+  "model": "glm-5.3"
+}

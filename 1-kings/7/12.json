@@ -1,0 +1,169 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 7:12",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תֵּמֶךְ",
+      "rationale": "Occurs only here; meaning wholly uncertain, traditionally 'thickness', contextually possibly describing the sea's cast metal"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בְּרִיחוֹת",
+      "rationale": "Occurs only here; possibly related to בריח (bolt\/bar), rendered here as 'bolts' with uncertainty flagged"
+    },
+    {
+      "kind": "crux",
+      "subject": "two thousand baths",
+      "rationale": "2 Chronicles 4:5 reads three thousand; copyists and commentators have long noted the discrepancy"
+    },
+    {
+      "kind": "crux",
+      "subject": "וְאֵת כִּיֹּרֹת עֶשֶׂר וְאֵת הַיָּם הָאֶחָד",
+      "rationale": "Parallel 2 Chron 4:6 places the basins differently; here the list is compressed, possibly a summary after the detailed account"
+    }
+  ],
+  "translation": "And he made, Solomon, ⟨את⟩ the sea ⟨את⟩ ⟨the⟩ ten bases, cast — temech uncertain — bolts of three cubits its rim, shaped like a cup, like a lily, engraved, two thousand baths it could hold; he made ⟨את⟩ ten basins and ⟨את⟩ the sea, the one.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c71ff17285e3ca92c44c6dfb3fe24975c70bba72cb993784b2717fa4f1018ac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/7\/12-12.1791950408714.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וַיַּעַשׂ",
+      "gloss": "and-he-made"
+    },
+    {
+      "surface": "שְׁלֹמֹה",
+      "gloss": "Solomon"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "the-sea"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "the-ten-bases"
+    },
+    {
+      "surface": "הַיָּם",
+      "gloss": "the-sea"
+    },
+    {
+      "surface": "מֻצָק",
+      "gloss": "cast"
+    },
+    {
+      "surface": "תֵּמֶךְ",
+      "gloss": "(uncertain hapax)"
+    },
+    {
+      "surface": "בְּרִיחוֹת",
+      "gloss": "(uncertain hapax, bolts)"
+    },
+    {
+      "surface": "שְׁלֹשׁ",
+      "gloss": "three"
+    },
+    {
+      "surface": "בָּאַמָּה",
+      "gloss": "cubits"
+    },
+    {
+      "surface": "קֹורָתוֹ",
+      "gloss": "its-rim"
+    },
+    {
+      "surface": "כְּתַבַּת",
+      "gloss": "shaped-like"
+    },
+    {
+      "surface": "גְּבִיעַ",
+      "gloss": "cup"
+    },
+    {
+      "surface": "כְּשֹׂוס",
+      "gloss": "like-a-lily"
+    },
+    {
+      "surface": "שֹׁקַעַת",
+      "gloss": "engraved"
+    },
+    {
+      "surface": "שְׁנַיִם",
+      "gloss": "two"
+    },
+    {
+      "surface": "בָּאֲלָפִים",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "בֹּל",
+      "gloss": "holding"
+    },
+    {
+      "surface": "יִסַּב",
+      "gloss": "it-would-contain"
+    },
+    {
+      "surface": "בָּתִּים",
+      "gloss": "baths"
+    },
+    {
+      "surface": "יַעַשׂ",
+      "gloss": "he-made"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ten-basins"
+    },
+    {
+      "surface": "מְכֹונוֹת",
+      "gloss": "bases"
+    },
+    {
+      "surface": "עֶשֶׂר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "and-⟨את⟩",
+      "marks": "the-sea"
+    },
+    {
+      "surface": "כִּיֹּרֹת",
+      "gloss": "basins"
+    },
+    {
+      "surface": "עֶשֶׂר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "the-sea"
+    },
+    {
+      "surface": "הַיָּם",
+      "gloss": "the-sea"
+    },
+    {
+      "surface": "הָאֶחָד",
+      "gloss": "the-one"
+    }
+  ],
+  "timestamp": "2026-10-14T04:00:08.714876190Z",
+  "model": "glm-5.3"
+}

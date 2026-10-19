@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "walasa ka n sogo dun",
+      "rationale": "'to eat my flesh' is Hebrew idiom for destroying the psalmist; kept literal as the Hebrew picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "minnu",
+      "rationale": "Bambara relativizer required where Hebrew uses a temporal infinitive construct"
+    }
+  ],
+  "translation": "Mɔgɔ juguw minnu surunna ne kan walasa ka ⟨את⟩ n sogo dun — n ɲɛnajuguw ani n tɔbw ne ta — u ye hunyahunya ka bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9cfc6d4e5dc90945a0a5571075fff462d5c1b6f14d31fe82df068b28f2d63e5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/27\/1-4.1791939936290.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "minnu surunna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ne kan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mɔgɔ juguw"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "walasa ka … dun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n sogo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "n sogo"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "n ɲɛnajuguw"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ani n tɔbw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ta"
+    },
+    {
+      "surface": "המה",
+      "gloss": "u"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ye hunyahunya"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ka bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:36.291994634Z",
+  "model": "glm-5.3"
+}

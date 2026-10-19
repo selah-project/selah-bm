@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sɔgɔsɔgɔ so",
+      "rationale": "חדר משכבך 'sleeping room' rendered as one compound; 'bedchamber' picture kept"
+    },
+    {
+      "kind": "addition",
+      "subject": "de",
+      "rationale": "focus particle supplied, Elisha as the answer to the king's question"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king of Syria",
+      "rationale": "servant answers the king directly with second-person forms"
+    }
+  ],
+  "translation": "A ka sokamɔgɔw la kelen ko: Ayi, ne ka Matigi masakɛ, Elisha (Elise) de ye, nabi min bɛ Isirayɛl (Izirayɛl) kɔnɔ, o bɛ kumaw minnu bɛ i ka sɔgɔsɔgɔ so kɔnɔ i b'i fɔ, o bɛ fɔ Isirayɛl masakɛ ma ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5748cbd2f32e9a7d8647796f68148357f58d31e2d66c125e4f26db20ca723254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/6\/12-12.1791950529449.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "a ka sokamɔgɔw la"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "Ayi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ne ka Matigi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha (Elise)"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isirayɛl (Izirayɛl) kɔnɔ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bɛ fɔ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛ ma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumaw"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "i b'i fɔ"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "sɔgɔsɔgɔ so kɔnɔ"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "i ka sokɔnɔ so"
+    }
+  ],
+  "timestamp": "2026-10-14T04:02:09.450276051Z",
+  "model": "glm-5.3"
+}

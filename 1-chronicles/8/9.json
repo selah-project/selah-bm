@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew waw-consecutive verb has no explicit subject; supplied pronoun"
+    },
+    {
+      "kind": "measurement",
+      "subject": "den-tɔgɔ lisi",
+      "rationale": "genealogical name list, four sons of Shaharaim by Hodesh"
+    }
+  ],
+  "translation": "A ye a muso Hodesh (Chodesh) fɛ minɛ: ⟨את⟩ Yobab, ni ⟨את⟩ Tsiwia, ni ⟨את⟩ Mesha, ani ⟨את⟩ Malkam.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/8\/9-12.1791947598684.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "minɛ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "a muso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yobab"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yobab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Tsiwia"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsiwia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Mesha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-10-14T03:13:18.685779801Z",
+  "model": "glm-5.3"
+}

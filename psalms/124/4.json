@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "an ni",
+      "rationale": "נפש is throat\/life-force, not an immortal soul; 'ni' carries the life sense"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחלה",
+      "rationale": "the torrent (נחל) as a narrow valley that flashes with floodwater — the image of the previous verse's waters carried into a single stream"
+    }
+  ],
+  "translation": "ojinba, jiw tun na gili an kan, jibon tun na tɛmɛ an ni kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/124\/1-4.1791941773088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ojinba"
+    },
+    {
+      "surface": "המים",
+      "gloss": "jiw"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "tun na gili an kan"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "jibon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tun na tɛmɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "an ni"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:13.089765137Z",
+  "model": "glm-5.3"
+}

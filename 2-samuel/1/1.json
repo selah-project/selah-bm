@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tiɲɛ ye",
+      "rationale": "Bamanankan needs a completive structure where Hebrew wayyiqtol carries the whole narrative force"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sagi",
+      "rationale": "וישב 'to sit\/dwell' rendered as 'stayed' — sitting as dwelling"
+    }
+  ],
+  "translation": "A kɛra tiɲɛ ye Sha-ul (Saul) kɛ saŋoyɔrɔ kɔfɛ, Dawid (Dawuda) ye a segin ka bɔ ⟨את⟩ Amalekiw la bɔli la, Dawidi ye Tsiklag sigi don fila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b2523e5605e8c22103e24a4a1d85cd601631615a91282690b91f717fd1a73c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/1\/1-4.1791930911590.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a kɛra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ani Dawid"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a segin"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ka bɔ … boli la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekiw"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalekiw"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a ye … sigi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "don"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "fila"
+    }
+  ],
+  "timestamp": "2026-10-13T22:35:11.591783491Z",
+  "model": "glm-5.3"
+}

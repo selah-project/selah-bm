@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔra",
+      "rationale": "כנור (lyre\/harp) rendered with the West African harp 'kɔra' — nearest instrument, not a literal equivalent."
+    },
+    {
+      "kind": "substitution",
+      "subject": "aw ka a kuma",
+      "rationale": "זמר literally 'to touch\/pluck strings'; rendered as generic 'make music\/sing to him'."
+    }
+  ],
+  "translation": "Aw k'a tɔgɔ kɔlɔsi dɔnni kɔnɔ; ni tamburin ni kɔra, aw ka a kuma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/149\/1-4.1791942003402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "aw kɔlɔsi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a tɔgɔ"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "dɔnni kɔnɔ"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ni tamburin"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ni kɔra"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "aw ka a kuma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:03.403403355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ kɛ",
+      "rationale": "Hebrew lacks a copula between 'my glory' and 'for shame'"
+    },
+    {
+      "kind": "crux",
+      "subject": "fili ye",
+      "rationale": "כבודי לכלמה: 'my glory into shame' — you turn my glory to shame, or my glory is put to shame; KJV vs JPS split"
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "musical pause-mark kept as the name, untranslatable"
+    },
+    {
+      "kind": "you",
+      "subject": "mɔgɔw denw",
+      "rationale": "rebuke addressed to the 'sons of men', the psalmist's opponents"
+    }
+  ],
+  "translation": "Mɔgɔw denw, fo jumen? Ne ka jamu ⟨bɛ kɛ⟩ fili ye; aw bɛ fɛn joli bɛn, aw bɛ daɲɛgɔnw ɲini — Sela.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/4\/1-4.1791939519898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jumen"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ne ka jamu"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "fili ye"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "aw bɛ bɛn"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "fɛn joli"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "aw bɛ ɲini"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "daɲɛgɔnw"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:39.899174792Z",
+  "model": "glm-5.3"
+}

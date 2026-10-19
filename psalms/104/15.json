@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hadamaden",
+      "rationale": "אנוש ye hadamaden-basilɛ ye ('saya-baga mɔgɔ'), tɛ hadamaden daɲɛw bɛɛ ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "משמן",
+      "rationale": "JPS kɔrɔ: 'ɲɛda yeelenya ka bon ni tulu ye' vs KJV: 'tulu de bɛ ɲɛda yeelenya' — משמן bɛ fɔ ka kɛ 'tulu fɛ' walima 'tulu kɔnɔ' ye"
+    }
+  ],
+  "translation": "Diwɛn bɛ hadamaden dusukun diɲɛ, tulu bɛ ɲɛda yeelenya, buru bɛ hadamaden dusukun ɲɛsin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/104\/13-16.1791941247339.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְיַיִן",
+      "gloss": "Diwɛn"
+    },
+    {
+      "surface": "יְשַׂמַּח",
+      "gloss": "bɛ diɲɛ"
+    },
+    {
+      "surface": "לְבַב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "לְהַצְהִיל",
+      "gloss": "bɛ yeelenya"
+    },
+    {
+      "surface": "פָּנִים",
+      "gloss": "ɲɛda"
+    },
+    {
+      "surface": "מִשָּׁמֶן",
+      "gloss": "tulu"
+    },
+    {
+      "surface": "וְלֶחֶם",
+      "gloss": "buru"
+    },
+    {
+      "surface": "לְבַב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "יִסְעָד",
+      "gloss": "bɛ ɲɛsin"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:27.340154198Z",
+  "model": "glm-5.3"
+}

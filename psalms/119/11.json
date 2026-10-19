@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אחטא",
+      "rationale": "חטא literally 'to miss (a target)'; rendered as the common term 'jurumu kɛ'"
+    },
+    {
+      "kind": "secret",
+      "subject": "צפנתי",
+      "rationale": "'I have hidden\/stored up' — concealed treasure image, the word kept as hidden reserve"
+    }
+  ],
+  "translation": "Ne ye i kuma dogo ne dusukun kɔnɔ, walasa ne ma jurumu kɛ i koŋgɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/9-12.1791941573250.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "ne dusukun kɔnɔ"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ne ye ... dogo"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "i kuma"
+    },
+    {
+      "surface": "למען",
+      "gloss": "walasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "jurumu kɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i koŋgɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:53.250904046Z",
+  "model": "glm-5.3"
+}

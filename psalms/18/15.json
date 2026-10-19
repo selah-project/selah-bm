@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רב",
+      "rationale": "verb רבב 'to shoot (arrows)' vs adjective 'many' — KJV 'shot out lightnings' vs YLT 'much lightning'"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "object pronoun 'them' (the enemies) supplied by context; Hebrew leaves it implicit in the suffixes"
+    }
+  ],
+  "translation": "A ye a faw ci ka u fɛntigi, sansan caman ci ka u walajɛbɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/13-16.1791939771558.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ci"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "a faw"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "u fɛntigi"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "sansanw"
+    },
+    {
+      "surface": "רב",
+      "gloss": "caman"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "u walajɛbɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:51.559330785Z",
+  "model": "glm-5.3"
+}

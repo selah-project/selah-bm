@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 1:4",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות תמות",
+      "rationale": "infinitive-absolute doubling 'dying you shall die', rendered by Bambara reduplication 'sa tiŋ tiŋ'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ahaziah",
+      "rationale": "the oracle is second-person speech against Ahaziah: 'you will not come down… you will surely die'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שם",
+      "gloss": "rendered as locative 'a la'; could read as resumptive 'thither' — 'the bed you went up to'"
+    }
+  ],
+  "translation": "O la sabu la, Yawe ko nin: da min na i y'a san, i tɛna bɔ a la, sabu i bɛna sa tiŋ tiŋ. Eliya taa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d4da3ecf09d8dbc7bdf118ca2bc3fa1fec0e9896447a31ce38e7567052c5a331",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/1\/1-4.1791932588170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "o la sabu la"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "i y'a san"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "a la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "i bɛna sa tiŋ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "taa"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliya"
+    }
+  ],
+  "timestamp": "2026-10-13T23:03:08.192706652Z",
+  "model": "glm-5.3"
+}

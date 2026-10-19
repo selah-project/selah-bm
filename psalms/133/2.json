@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "A bɛ o i n'a fɔ",
+      "rationale": "the simile has no verb in Hebrew; Bambara needs 'it is like' to open the comparison"
+    },
+    {
+      "kind": "crux",
+      "subject": "מדותיו",
+      "rationale": "lemma is 'measures', here garments (their measure\/edge): 'skirt of his robes' vs 'collar'; rendered 'dɔgɔkɔrɔbɔw' (lower garments)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירד … שירד",
+      "rationale": "'descending' repeated three times, the oil's cascade enacting the blessing flowing down"
+    }
+  ],
+  "translation": "⟨A bɛ o i n'a fɔ⟩ tulu suman min bɛ kun kan, min bɛ tɔ dansigira kan, Awərɔn (Aron) ka dansigira kan, min bɛ tɔ a da fɛ ka na a ta dɔgɔkɔrɔbɔw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/133\/1-3.1791941717985.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "tulu suman i n'a fɔ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "suman"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bɛ tɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "dansigira"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "dansigira"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Awərɔn (Aron)"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "bɛ tɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "da"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "a ta dɔgɔkɔrɔbɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:17.986131638Z",
+  "model": "glm-5.3"
+}

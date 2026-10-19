@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "samaya",
+      "rationale": "עקב ye 'ŋɛrɛgɛ-berɛ' kɔrɔ ye (fɛn ka ɲɔgɔnma); 'samaya' ye a ka laada kɔrɔ dɔrɔn"
+    },
+    {
+      "kind": "you",
+      "subject": "i ka sofa",
+      "rationale": "Daɲɛw bɛ tugu Yawe fɛ, weleli ye sɔfɔla fɛ min bɛ fɔ Yawe ye"
+    }
+  ],
+  "translation": "Hali i ka sofa bɛ ka laseli sɔrɔ olu la; olu marali la, samaya belebele bɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/19\/9-12.1791939760126.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hali"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i ka sofa"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "laseli sɔrɔ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "olu la"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "olu marali"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "samaya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "belebele"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:40.127261848Z",
+  "model": "glm-5.3"
+}

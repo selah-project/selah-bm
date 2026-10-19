@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ala",
+      "rationale": "אלהי צדנים: Tsidon walabaw ka batofɛn — bamanankan de ye ala-kɔrɔ daɲɛ ye min bɛ Tɔgɔ nɔ tɛ o yɔrɔ"
+    },
+    {
+      "kind": "addition",
+      "subject": "(Solomɔ)",
+      "rationale": "tɔgɔ bɔko fɔlɔ, sariya minsennin dɔrɔn de bɛ fɔ kelen kɔnɔ"
+    },
+    {
+      "kind": "crux",
+      "subject": "bɔnbaga",
+      "rationale": "שקץ: 'ko min ka fili ɲɛ' — 'fili-nya ko' walima 'sumaya fɛn' walima 'batofɛn'"
+    }
+  ],
+  "translation": "Shelomo (Solomɔ) tun tugu Ashtoret — Tsidonmɔgɔw ka Ala — nɔma, ani Milkom — Amonmɔgɔw ka bɔnbaga — nɔma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e57c78e1f7c9fca019d2ef49a9ee66025e2be40748568ca4db381e7aae6d132a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/11\/5-8.1791932113671.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "tun tugu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…nɔma"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ka Ala"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "Tsidonmɔgɔw"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ani …nɔma"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ka bɔnbaga"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "Amonmɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:55:13.673316155Z",
+  "model": "glm-5.3"
+}

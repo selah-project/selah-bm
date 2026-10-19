@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 41:17",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגרות כמוהם",
+      "rationale": "Gerut Kimham: 'Kimham ka siginyɔrɔw' (sojournings of Kimham) versus place-name 'Gerut Kimham'; geneva\/jps keep it as a proper name."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kenie",
+      "rationale": "אצל literally 'side'; rendered as 'near'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בגרות",
+      "rationale": "Geruth occurs only here in the Tanakh as this place-name"
+    }
+  ],
+  "translation": "U taara, ka sigi Kimham (Kimham) ka siginyɔrɔw la, minnu bɛ Beti-Lɛmu (Betilɛmu) kenie, walasa ka taa ka don Misira na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dc3d59b32113eb5938a97e0d2f888181af5d09091af49c40481e967a30cec3e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/41\/17-18.1791936131441.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "u taara"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ka sigi"
+    },
+    {
+      "surface": "בגרות",
+      "gloss": "siginyɔrɔw la"
+    },
+    {
+      "surface": "כמוהם",
+      "gloss": "Kimham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "kenie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lɛmu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "walasa ka taa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ka don"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misira na"
+    }
+  ],
+  "timestamp": "2026-10-14T00:02:11.442417739Z",
+  "model": "glm-5.3"
+}

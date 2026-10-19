@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעבר",
+      "rationale": "'beyond' vs 'this side' of the Jordan depends on the speaker's stance; Moshe stands in Moab, so 'kɔfɛ' (the far side)."
+    },
+    {
+      "kind": "crux",
+      "subject": "הואיל",
+      "rationale": "'was willing \/ undertook \/ began' — 'daminɛ' (began) follows the traditional reading."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באר \/ בעבר",
+      "rationale": "The verb באר (to explain) echoes בערבר's root area and is itself from 'to dig\/engrave' — explaining as digging out meaning, lost in Bambara."
+    }
+  ],
+  "translation": "Yarden kɔfɛ, Moab dugukolo la, Moshe (Musa) daminɛ nin ⟨את⟩ Tora ɲɛfɔ, ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/1\/5-8.1791927516905.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "Yarden kɔfɛ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "daminɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ɲɛfɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-13T21:38:36.906725935Z",
+  "model": "glm-5.3"
+}

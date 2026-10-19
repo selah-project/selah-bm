@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 48:9",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ציץ",
+      "rationale": "'flower\/blossom' (baran) against KJV 'wings' and BSB 'salt'; Hebrew word is glistening plate or blossom."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נצא",
+      "rationale": "Only occurrence in the Tanakh; infinitive of going-away paired with תצא."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נצא תצא",
+      "rationale": "Infinitive-verb repetition 'going she goes out', lost in Bambara single verb."
+    },
+    {
+      "kind": "addition",
+      "subject": "ɲɛ",
+      "rationale": "Bambara locative particle added; Hebrew has no preposition before מאין."
+    }
+  ],
+  "translation": "Aw ka baran di Moab (Mobu) ma, bawo a bɛ bɔ ka taa, a ka duguw bɛna kɛ bɔnbɔnnen ye, mɔgɔ si tɛ ɔ kɔnɔ ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f3a5ab40ab346d0c021c9ab160e09c46afa17997617b2cc6a93bfe249ebe28f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/48\/9-12.1791936305533.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "aw ka … di"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "baran"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "Moab (Mobu) ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bawo"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "bɔli kama a bɛ bɔ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "a bɛ bɔ ka taa"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "a ka duguw"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "bɔnbɔnnen ye"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "bɛna kɛ … ye"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "mɔgɔ si tɛ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "kɔnɔsigi"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ɔ kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:05:05.534495180Z",
+  "model": "glm-5.3"
+}

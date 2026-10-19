@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Ben-Hadad",
+      "rationale": "Asa ka ɲɔgɔn-fɔ kuma bɛ ci Ben-Hadad ma nɔgɔya la"
+    },
+    {
+      "kind": "crux",
+      "subject": "הפר בריתך",
+      "rationale": "KJV fana bɛ a fɔ ko 'i layidu ti Baasha ye' — Layidu bɛ Ben-Hadad ni Baasha cɛ, Asa ni Aram tɛ ɲɔgɔn ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "לך (yɔrɔ filanan)",
+      "rationale": "לך (imperative 'i yala') bɛ fɔ 'i yala' ko — a bɛ fana bɔ Bambara 'ɔn' na, nka a bɛ kuma dɔgɔya"
+    }
+  ],
+  "translation": "Layidu bɛ ne ni i cɛ, ani ne fa ni i fa cɛ; ninε, n ye warigwɛ ni sanu ci i ma; ɔn, i ka i layidu min bɛ ⟨את⟩ Baasha Israɛl masakɛ ye, ka a ban, walasa a bɔne ne kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d3831cefd66f3f17cac39da0ac006a5c564b300585b67c230e9a06c21a5c166a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/16\/1-4.1791949156445.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ne ni"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "i cɛ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ne fa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "i fa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ninε"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "n ye …ci"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ma"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ni-sanu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɔn"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ka …ban"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "i layidu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baasha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israɛl"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "walasa a bɔne"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ne kan"
+    }
+  ],
+  "timestamp": "2026-10-14T03:39:16.447016751Z",
+  "model": "glm-5.3"
+}

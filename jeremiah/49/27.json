@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 49:27",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dun",
+      "rationale": "אכלה 'eat' rendered with its regular sense 'dun'; fire 'eats' the citadels."
+    },
+    {
+      "kind": "addition",
+      "subject": "Ne",
+      "rationale": "First-person pronoun supplied to mark the 1cs suffix on והצתי, whose speaker (Yawe, from v26) is unnamed in this verse."
+    }
+  ],
+  "translation": "Ne bɛna tasuma da Damaseki (Damas) boli kan, o bɛna Ben-Hadad sojagaw dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6281c313f4ff23660c255ae67696744a4d6b1086ed8aca45248ed25d4eea163f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/49\/25-28.1791936358636.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "Ne bɛna tasuma da"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "boli kan"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaseki"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "bɛna dun"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "sojagaw"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    }
+  ],
+  "timestamp": "2026-10-14T00:05:58.637636221Z",
+  "model": "glm-5.3"
+}

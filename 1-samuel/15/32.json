@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "maadanya",
+      "rationale": "מעדנת: 'cheerfully\/delicately' (KJV\/ASV) vs 'in chains' (JPS, reading מאזקות) — rendered 'in pleasantness'"
+    },
+    {
+      "kind": "crux",
+      "subject": "saya ka dukuman tila",
+      "rationale": "סר מר המות: 'the bitterness of death has turned aside' (past, Geneva\/KJV) vs 'is at hand' (JPS takes מר adverbially) — kept the literal 'has departed'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מעדנת",
+      "rationale": "adverbial plural of מעדן, rare form occurring only here in this form"
+    }
+  ],
+  "translation": "Samuɛl ko: Aw k'Aw ka ⟨את⟩ Agag, Amalek ka masakɛ, na ne fɛ. Agag naan a fɛ ni maadanya ye. Agag ko: Tiɲɛna, saya ka dukuman tila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3f18b0421dd3e0ed1bb12f5cd1505c7683195b2685a70c11b338d4a6e86b90ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/15\/29-32.1791930303279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuɛl"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "aw ka ... na"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne fɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag, Amalek ka masakɛ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "naan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "ni maadanya ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "tiɲɛna"
+    },
+    {
+      "surface": "סר",
+      "gloss": "tila"
+    },
+    {
+      "surface": "מר",
+      "gloss": "dukuman"
+    },
+    {
+      "surface": "המות",
+      "gloss": "saya"
+    }
+  ],
+  "timestamp": "2026-10-13T22:25:03.280855465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sankolow",
+      "rationale": "רקיע ye 'yerayera \/ firmament' ye; n' jiligira 'sankolo' la, bonya fitinin bɔra yen"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Heburukan ma ɲɛnabila dɔrɔn ɔ; Bamanankan ka kan ka -wifɛli bɔ a suffix -הו kɔnɔ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "jala",
+      "rationale": "Fɔli in bɛ wele aw fɛ (nabi-daw kɔnɔ, jama la) k'aw ye Yaweya jalase"
+    },
+    {
+      "kind": "you",
+      "subject": "jama la",
+      "rationale": "Fɔli dɔgɔnin in bɛ tugu jama ɲumanya fɛ minnu bɛ diinɛ kɛ Yawe ye"
+    }
+  ],
+  "translation": "Jala Ya! Jala El a senumaya kɔnɔ, jalaw ⟨a⟩ a sebaaya sankolow kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/150\/1-4.1791941993690.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "jala"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "jala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "a senumaya kɔnɔ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "jalaw ⟨a⟩"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "sankolow kɔnɔ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "a sebaaya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:39:53.691156687Z",
+  "model": "glm-5.3"
+}

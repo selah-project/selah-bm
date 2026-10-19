@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגלגל",
+      "rationale": "Galam-galam-daɲɛ in kɔrɔ ye «wolo-wolo la» walima «pɛrɛ-pɛrɛli la» — KJV fɔ «in the heaven», ASV\/JPS fɔ «in the whirlwind»."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבל",
+      "rationale": "תבל ye dugukolo min bɛ lamɛn nin ye (a bɛɛ); «world» dɔgɔya o daɲɛ ma."
+    }
+  ],
+  "translation": "I kunkan do kayen pɛrɛnna, tasuma-yeelew ye dugukolo bɛɛ yeelen, dugukolo jigi-jigila ka giligilin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/77\/17-20.1791940741858.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "i kunkan"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "pɛrɛ-pɛrɛli la"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "ye yeelen di"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "tasuma-yeelew"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dugukolo bɛɛ"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "jigi-jigila"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ka giligilin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:01.858973846Z",
+  "model": "glm-5.3"
+}

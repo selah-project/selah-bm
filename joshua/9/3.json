@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "Bambara needs 'ko' to introduce the heard content; Hebrew embeds אשר directly"
+    }
+  ],
+  "translation": "Gibeɔn (Gabaɔn) sogodaw y'a mɛn ko Yehoshua y'o kɛ Yerixo (Jeriko) ma ani Ayi (Ay) ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f002e5b21346f381ff071738c89fe75eaa95ca3e15bce7753dcf64d62e8d3344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/9\/1-4.1791928678546.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "sogodaw"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeɔn (Gabaɔn)"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "u y'a mɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min Yehoshua y'o kɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "y'o kɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Yerixo (Jeriko) ma"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "ani Ayi (Ay) ma"
+    }
+  ],
+  "timestamp": "2026-10-13T21:57:58.548221451Z",
+  "model": "glm-5.3"
+}

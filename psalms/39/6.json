@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "handbreadths",
+      "rationale": "Days measured in palm-breadths — a concrete body measure for time."
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "Musical pause marker kept as fixed Hebrew term."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hebel",
+      "rationale": "הבל kept as fixed Hebrew word; literally breath\/vapor, rendered with bracketed sense 'a thing that shifts and passes'."
+    }
+  ],
+  "translation": "Aw ye o ye: bolo-dannyiw de ye i ye ne ka tilew da, ani ne ka balowaati ye fɛn kɛrɛnkɛrɛnnen tɛ i ɲɛ; tiɲɛnamaya de: hadamaden bɛɛ, a ka jɔcogo bɛɛ ye hebel ye (fɛn min bɛ yɛlɛma ka bɔ). Selah.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/39\/5-8.1791940183353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "aw ye o ye"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "bolo-dannyiw"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "i ye … da"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ne ka tilew"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "ani ne ka balowaati"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "i n'a fɔ fɛn si tɛ ye"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "i ɲɛ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tiɲɛnamaya de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "a ka jɔcogo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:43.354107957Z",
+  "model": "glm-5.3"
+}

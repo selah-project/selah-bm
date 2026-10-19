@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is life-force\/appetite, here the seat of appetite for food; rendered 'ni' per glossary."
+    },
+    {
+      "kind": "addition",
+      "subject": "fo",
+      "rationale": "עד 'as far as' supplied as the Bambara limit-marker before the gates of death."
+    }
+  ],
+  "translation": "Dunan bɛɛ, u ni b'o kannaya, u nana ⟨fo⟩ saya daw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/107\/17-20.1791941383542.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dunan"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "kannaya"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "u ni"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "u nana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨fo⟩"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "daw"
+    },
+    {
+      "surface": "מות",
+      "gloss": "saya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:43.542767453Z",
+  "model": "glm-5.3"
+}

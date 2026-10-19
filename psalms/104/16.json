@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tobi",
+      "rationale": "יִשְׂבְּעוּ: KJV 'ji bɛ u kɔnɔ' vs YLT\/JPS 'u bɛ ɲɔgɔn tobi' — שבע kɔrɔ ye 'tobi \/ kɛɲɛ' ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "gloss": "",
+      "rationale": "Bamanankan bɛ nɔnabila 'a' de wajibiya binna ɲɛ ('o binna') ni a bɛ fɔ Yawe ye"
+    }
+  ],
+  "translation": "Yawe ka jiriw bɛ tobi, Lewanon (Liban) sedɛw, minnu o binna.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/104\/13-16.1791941247339.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יִשְׂבְּעוּ",
+      "gloss": "bɛ tobi"
+    },
+    {
+      "surface": "עֲצֵי",
+      "gloss": "jiriw"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אַרְזֵי",
+      "gloss": "sedɛw"
+    },
+    {
+      "surface": "לְבָנוֹן",
+      "gloss": "Lewanon"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "נָטָע",
+      "gloss": "binna"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:27.340310795Z",
+  "model": "glm-5.3"
+}

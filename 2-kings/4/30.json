@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפשך is life-breath\/throat, rendered 'i ni' (your life-soul)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם אעזבך",
+      "rationale": "Hebrew oath-form 'if I leave you' = 'I will never leave you'; rendered as plain negation with the אם elided."
+    },
+    {
+      "kind": "you",
+      "subject": "Elisha",
+      "rationale": "The mother addresses Elisha directly with an oath."
+    }
+  ],
+  "translation": "Dɛnbali ba ko: Yawe bɛ tiɲɛ, ani i ni fana bɛ tiɲɛ — n tɛ i bila. A y'a jɔ, a taa a kɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9e0985edefff9edffb4a7e8361c2fdbfead6d1a1306d7c74515005a1fca730e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/4\/29-32.1791932680860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dɛnbali"
+    },
+    {
+      "surface": "חי",
+      "gloss": "bɛ tiɲɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ani … bɛ tiɲɛ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "i ni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "n tɛ i bila"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a y'a jɔ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a taa"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "a kɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:04:40.869438077Z",
+  "model": "glm-5.3"
+}

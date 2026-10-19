@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לך אמר לבי",
+      "rationale": "Kelenw b'a fɔ ko 'To you my heart said' (JPS), wɛrɛw fɔ ko 'Concerning you' (KJV); a bɛ se ka kɛ fɔli ye min bɛ Weleli ɲɛmɔ ka kɛ Yawe ka kuma ye: 'Seek ye my face'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקשו\/אבקש",
+      "rationale": "Daɲɛ kelen ('ɲini') bɛ tumamin kelen kɔnɔ — Yawe ka lamini ni dusukun ka da bɛɛ kabako ye a la."
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Kumasen kɔfɛ danten bɛ Yawe jira — 'i ɲɛ, Yawe, n bɛ ɲini'."
+    }
+  ],
+  "translation": "I ma, n dusukun y'a fɔ ko: “Ɲini n ɲɛ.” ⟨את⟩ i ɲɛ, Yawe, n bɛ ɲini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/27\/5-8.1791939917022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "i ma"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "n dusukun"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ɲini"
+    },
+    {
+      "surface": "פני",
+      "gloss": "n ɲɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ɲɛ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i ɲɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "n bɛ ɲini"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:17.023325937Z",
+  "model": "glm-5.3"
+}

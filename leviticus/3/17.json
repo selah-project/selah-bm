@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "don-ko-ɲɛnajɛ",
+      "rationale": "עולם ye 'kɔkɔrɔ-kɔrɔ, waati min bɛ dogo' ye; Bamanankan tɛ daɲɛ kelen sɔrɔ min bɛ a mara tiɲɛ na"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "Heburukan tɛ daɲɛ min bɔɔ nɔnabila si siyara, Bamanankan ka nɔnabila wajibiya"
+    },
+    {
+      "kind": "you",
+      "subject": "Isiraɛlw ma",
+      "rationale": "Sariya in bɛ Fɔ Isiraɛlw mɔgɔw ma — aw bɛɛ — kalilan ye kɔ"
+    }
+  ],
+  "translation": "Sariya don-ko-ɲɛnajɛ ye aw yɛrɛmahamaraw bɛɛ kama, aw sigiyɔrɔw bɛɛ kɔnɔ: kunu bɛɛ ani joli bɛɛ, aw kana ⟨u⟩ dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d24a50ef8f2d925c03eee118c3d0ab7a3847e8b3486c26f4765bfbd46fd3601e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/3\/17-17.1791926954549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חקת",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "don-ko-ɲɛnajɛ"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "aw yɛrɛmahamaraw bɛɛ kama"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "aw sigiyɔrɔw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "kunu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "joli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dun"
+    }
+  ],
+  "timestamp": "2026-10-13T21:29:14.550310008Z",
+  "model": "glm-5.3"
+}

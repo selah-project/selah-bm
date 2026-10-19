@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למנצח",
+      "rationale": "Kelen-kelen bɛɛ ma ɲɛmɔgɔya kɔrɔ: min bɛ laaba-dɔn ɲɛmɛn, tɛ 'to him that excelleth' ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "superscription",
+      "rationale": "Sɛbɛnni-fɔlɔ ye, kumasen tɛ o kɔnɔ"
+    }
+  ],
+  "translation": "Ɲɛmɔgɔma (min bɛ laaba-dɔn ɲɛmɛn), Korah denw fɛ, mizmor (dɔnkili min bɛ minɛnw fɛ).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/47\/1-4.1791940253278.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ɲɛmɔgɔma"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denw fɛ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:53.278831213Z",
+  "model": "glm-5.3"
+}

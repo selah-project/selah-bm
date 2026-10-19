@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אף\/אפו",
+      "rationale": "Hebrew double 'his nose burned' idiom; second occurrence carried by single gɛlɛnna."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jurumu don",
+      "rationale": "וירשיעו 'declared wrong\/guilty' — 'condemn' rendered as declaring guilt."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וירשיעו",
+      "rationale": "Could read 'had wrongly condemned' (they made him out guilty without cause)."
+    }
+  ],
+  "translation": "A gɛlɛnna a bɛrɛ tilennen (saba) w la sabu u ma jaabi ɲɛ sɔrɔ, nka u ye ⟨את⟩ Ayubu jurumu don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/32\/1-4.1791944107661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "a tilennen saba la"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "a bɛrɛw"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "gɛlɛnna"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "a kɔngɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "u ma ... sɔrɔ"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "jaabi ɲɛ"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "u ye ... jurumu don"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayubu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayubu"
+    }
+  ],
+  "timestamp": "2026-10-14T02:15:07.666667173Z",
+  "model": "glm-5.3"
+}

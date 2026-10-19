@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השע ממני",
+      "rationale": "'Look away from me' (JPS\/BSB) vs 'spare me' (KJV) — the plea is that YHWH's burning gaze withdraw; 'bɔ n na' keeps the literal look-away."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואינני",
+      "rationale": "Literally 'and I am not' — pure nonexistence; rendered 'ne tɛna yen' (I will not be there), the closest Bambara shape of the negation of being."
+    }
+  ],
+  "translation": "I ɲɛ bɔ n na, walasa ne bɛna hɛrɛ, hali ma ne taa, ka ne tɛna yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "32dda2c6d6aa40aa90750d9eeee234d260e80059d32e31ad366d758851fa307d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/39\/13-14.1791940082040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "I ɲɛ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "bɔ n na"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "walasa ne bɛna hɛrɛ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "hali ma"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ne taa"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "ka ne tɛna yen"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:02.040823046Z",
+  "model": "glm-5.3"
+}

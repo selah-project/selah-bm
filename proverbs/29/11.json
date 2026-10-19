@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mara",
+      "rationale": "ישבחנה read as 'keeps it back' (KJV\/ASV) versus 'stilleth it' (JPS); root שׁבח normally means 'praise', so the verb here is a famous difficulty"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוח is wind\/breath\/spirit — 'all his fiɲɛ' = his whole temper, not only anger"
+    }
+  ],
+  "translation": "Balen bɛ a fiɲɛ bɛɛ bɔ; dɔnnen bɛ a mara, ka to a kɔfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/29\/9-12.1791942976870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "a fiɲɛ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "balen"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "dɔnnen"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "mara"
+    }
+  ],
+  "timestamp": "2026-10-14T01:56:16.872086301Z",
+  "model": "glm-5.3"
+}

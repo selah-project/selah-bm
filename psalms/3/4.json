@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i ye",
+      "rationale": "Hebrew has no copula; Bambara requires 'i ye' before the predicate nouns"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כבוד",
+      "rationale": "literally 'weight', rendered as ɲɛmaya (glory\/honor), the weight-sense lost"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "turn from the foes' speech to direct second-person address to Yawe"
+    }
+  ],
+  "translation": "Nka i ye, Yawe, i ye ne ka sigida, ne ka ɲɛmaya, ani min bɛ ne ka kun bɔ sanfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "84bcaba9278bcefbd3e0198ae8979837af0ff2812b8b05b856813628ec9378ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/3\/1-4.1791939527869.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "nka i ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sigida"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ne bolo"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ne ka ɲɛmaya"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ani min bɛ … bɔ sanfɛ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ne ka kun"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:47.870835658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mɔgɔ ŋwerew",
+      "rationale": "ענוים 'the bowed\/lowly' (humble and afflicted) rendered as 'quiet, gentle people'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בישועה",
+      "rationale": "'with\/in salvation' — victory, deliverance, or welfare; Bambara 'boliyali' (deliverance) picks one strand."
+    }
+  ],
+  "translation": "Sabu Yawe b'a kanuya a mɔgɔw la; a bɛ mɔgɔ ŋwerew ɲɛfɔ ni boliyali ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/149\/1-4.1791942003402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "b'a kanuya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "a mɔgɔw la"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "ɲɛfɔ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "mɔgɔ ŋwerew"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "ni boliyali ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:03.403531035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 27:13",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olu",
+      "rationale": "Bamanankan bɛ nɔnabila dɔ wajibiya minnu min bɛ na, min Heburukan ma sɛbɛn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "shofar",
+      "rationale": "בשופר ye Heburu daɲɛ taamasiyɛnnen ye; a ma bayɛlɛmа ka kɛ 'dɔnkili kɛrɛfɛ ye'"
+    },
+    {
+      "kind": "crux",
+      "subject": "shofar bɛba",
+      "rationale": "גדול bɛ tugu שופר nɔ — 'shofar bɛba' — misali minnu bɛɛ fɔ 'trumpet ba' (KJV) walima 'sagabolo ka shofar' (BSB)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Ashur ni Mitsrayim",
+      "rationale": "Tɛmɛsira fila in bɛ jira: minnu bɔlen bɛ dugukolo fila la, u bɛna lamlamɛ yɔrɔ kelen"
+    },
+    {
+      "kind": "invitation",
+      "subject": "shofar miiri",
+      "rationale": "Shofar ka weleli ye mɔgɔw lamlamɛli ye — kuma in bɛ wele jamanaw bɛɛ"
+    }
+  ],
+  "translation": "A bɛna kɛ o don in na: shofar bɛba bɛna miiri, minnu binna Ashur (Assyria) dugukolo la, ani minnu lakunbɔra Mitsrayim (Misira) dugukolo la, olu bɛna Yawe lamini, senuma kulu kan, Yerushalayim (Jerusalɛmu) na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "383bb2fc9260a960d2d0c24f3de469e48d2b4f1177080c9cd4592c1effda48f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/27\/13-13.1791933831453.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "a bɛna kɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o don in na"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "bɛna miiri"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bɛba"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "olu bɛna na"
+    },
+    {
+      "surface": "האבדים",
+      "gloss": "minnu binna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "והנדחים",
+      "gloss": "ani minnu lakunbɔra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "olu bɛna lamini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kulu kan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-13T23:23:51.457496118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 19:1",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "Hebrew idiom 'who will give' = wish formula; rendered as wish 'munu ne di'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני אבשלום",
+      "rationale": "Fivefold repetition 'my son' — grief refrain, kept in full"
+    },
+    {
+      "kind": "crux",
+      "subject": "וירגז",
+      "gloss-target": "jɛgɛnsira",
+      "rationale": "'quivered\/trembled' — versions differ: 'much moved' (JPS) vs 'trembled'"
+    }
+  ],
+  "translation": "Masakɛ kunbila jɛgɛnsira, a tugun a yɛrɛ da sanfidada sanfɛ, a n'a sunɔgɔ. A tugu taa nin cogo la: «N den Avshalom (Absalɔm), n den, n den Avshalom! Munu ne di saya, ne i nɔ na, Avshalom, n den, n den!»",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7d513da72c5397a4530d00c25306ee3f44094822f52953a061f0566f1fb22797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/19\/1-4.1791931432413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירגז",
+      "gloss": "jɛgɛnsira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "tugun"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "sanfidada"
+    },
+    {
+      "surface": "השער",
+      "gloss": "da"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "sunɔgɔ"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "nin cogo la"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "a tugu taa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n den"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n den"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n den"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "מי",
+      "gloss": "munu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ne di"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "saya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "i nɔ na"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n den"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n den"
+    }
+  ],
+  "timestamp": "2026-10-13T22:43:52.414019702Z",
+  "model": "glm-5.3"
+}

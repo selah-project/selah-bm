@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 23:9",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Tsabaot",
+      "rationale": "צבאות rendered as divine epithet 'Tsabaot' (jagow tigi) rather than a common noun, per D1 name-table discipline."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɛlɛnɛ",
+      "rationale": "גאון is pride\/arrogant majesty; kɛlɛnɛ (pride) chosen over 'kaŋri' (glory)."
+    },
+    {
+      "kind": "elision",
+      "subject": "יעצה",
+      "rationale": "Hebrew feminine suffix -הּ 'it' (the counsel against Tyre) carried only by the object pronoun a."
+    }
+  ],
+  "translation": "Yawe Tsabaot y'a ladasi, walasa ka kɛlɛnɛ bɔ yeelen bɛɛ la, walasa ka dugukolo jɔnmaw bɛɛ nɔgɔya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd39e4fb876fa6f88b0e785e88ec953e36789bd929c2dac8413aeb8eb10b10f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/23\/9-12.1791933883963.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaot"
+    },
+    {
+      "surface": "יעצה",
+      "gloss": "y'a ladasi"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "walasa ka bin"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kɛlɛnɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "yeelen"
+    },
+    {
+      "surface": "להקל",
+      "gloss": "walasa ka nɔgɔya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "jɔnmaw"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-13T23:24:43.966495030Z",
+  "model": "glm-5.3"
+}

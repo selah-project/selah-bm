@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Musical pause marker kept as the name Selah; no Bamanankan meaning attached."
+    },
+    {
+      "kind": "substitution",
+      "subject": "su di",
+      "rationale": "אלין is to lodge overnight, one night's stay — the wish is for a hiding place, not a home."
+    }
+  ],
+  "translation": "Aw ye o ye: ne bɛna kɔrɔya ma boli, ne bɛna su di dankori la. Selah.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/55\/5-8.1791940328916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "aw ye o ye"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ne bɛna kɔrɔya ma"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "boli"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ne bɛna su di"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dankori la"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:08.917611828Z",
+  "model": "glm-5.3"
+}

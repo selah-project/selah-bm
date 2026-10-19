@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cɛfuntanmuso",
+      "rationale": "Bamanankan tɛ daɲɛ surun dɔ sɔrɔ k'i bɔ 'אלמנה' fɔ — a fɔra daɲɛ fila ye ('muso min ka cɛ funtan')"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "kɛlɛtɔw (94:4 kɔma) — nɔnabila min bɛ fɔ kɛlɛtɔw ye, Heburukan ma a sɔbɛn"
+    }
+  ],
+  "translation": "Cɛfuntanmuso ni dunan, u bɛu faga, ani denfuntanw, u bɛu dun jawofagali la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c13dc5e8a29ba9e5ffdec15748eca7753f18822d289bd2b9bfc61e2bc2d9d757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/94\/5-8.1791941059397.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "cɛfuntanmuso"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "ni dunan"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "u bɛu faga"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "ani denfuntanw"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "u bɛu dun jawofagali la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:19.398132470Z",
+  "model": "glm-5.3"
+}

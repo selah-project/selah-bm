@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Hebrew שמע lacks an explicit object; Bambara needs 'it' for 'heard'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jɔyi",
+      "rationale": "וימאס 'spurned\/rejected' rendered as 'withdrew\/put away'"
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "מאד",
+      "rationale": "adverb 'vehemently' modifying rejection — intensity kept as kosɛbɛ"
+    }
+  ],
+  "translation": "Elohim ye o mɛn, a jaticira, a y'Israɛl (Israɛli) jɔyi kosɛbɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "799f7f342bb4b72181309fa0186dcf0126b45a2bd21c21bd6ec1bba169c44022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/57-60.1791940814779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ye o mɛn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "a jaticira"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "a y'a jɔyi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israɛl"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:14.780396355Z",
+  "model": "glm-5.3"
+}

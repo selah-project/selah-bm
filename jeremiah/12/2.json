@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 12:2",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כליות",
+      "rationale": "'kidneys' rendered 'dusukunw' (hearts) — Hebrew interior-self organ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם...גם",
+      "rationale": "repeated 'fana' mirrors Hebrew גם doubling"
+    }
+  ],
+  "translation": "I ye u bilen jiri kɔnɔ, u bilala sumala; u bɛ taa, u bɛ jiriden wuli. I surun bɛ u da la, nka i bɛ tunun u dusukunw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/12\/1-4.1791935348908.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נטעתם",
+      "gloss": "i ye u bilen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "u bilala sumala"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "u bɛ taa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u wuli"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "jiriden"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "surun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "u da la"
+    },
+    {
+      "surface": "ורחוק",
+      "gloss": "nka i bɛ tunun"
+    },
+    {
+      "surface": "מכליותיהם",
+      "gloss": "u dusukunw la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:49:08.909916719Z",
+  "model": "glm-5.3"
+}

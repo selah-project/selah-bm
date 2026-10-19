@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "aw",
+      "rationale": "Plural imperatives summon the community to praise and song."
+    },
+    {
+      "kind": "crux",
+      "subject": "תהלתו בקהל חסידים",
+      "rationale": "Verbless clause: 'his praise [be] in the assembly of saints' — the Hebrew states location without a verb, so the imperatives of v.1 carry over or a copula is implied."
+    }
+  ],
+  "translation": "Aw kɔlɔsi Ya! Aw k'a lamɛn Yawe fɛ ni kuma kura ye; a duba kɛnɛma senumaw ka jama kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/149\/1-4.1791942003402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "aw kɔlɔsi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "aw k'a lamɛn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe fɛ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kura"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "a duba"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "jama kɔnɔ"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "senumaw ka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:03.403042036Z",
+  "model": "glm-5.3"
+}

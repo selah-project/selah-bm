@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ni … ni",
+      "rationale": "Hebrew אם 'if I…' is a vow-formula meaning 'I will not…'; kept literal as conditional per the shape rule, unlike KJV\/Geneva which supply the negation."
+    },
+    {
+      "kind": "addition",
+      "subject": "n'ka so ka",
+      "rationale": "ביתי 'my house' is bound to אהל 'tent'; Bamanankan needs the possessive repeated across both nouns."
+    }
+  ],
+  "translation": "Ni n'taa n don n'ka so ka ɲɛgɛso kɔnɔ, ni n'taa n'yiŋɛn n'ka fun bilali la —",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/132\/1-4.1791941746466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "n don"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ɲɛgɛso kɔnɔ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "n'ka so ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "n'yiŋɛn"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "fun"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "bilali"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:46.467172118Z",
+  "model": "glm-5.3"
+}

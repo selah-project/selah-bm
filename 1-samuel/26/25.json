@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 26:25",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עשה תעשה \/ יכל תוכל",
+      "rationale": "Infinitive absolute + finite verb = emphasis: 'doing you shall do, prevailing you shall prevail'; Bambara marked with doubled verb plus (gɛlɛya-ɲɛfɔli)."
+    },
+    {
+      "kind": "elision",
+      "subject": "גם \/ וגם",
+      "rationale": "The paired גם … וגם intensifies the infinitive absolute; rendered as bracketed markers rather than plain 'fana'."
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "Saul directly blesses and addresses David as 'n denkɛ'."
+    }
+  ],
+  "translation": "Shaul (Sawulu) ye Dawid (Dawuda) ko: i ye dubaw ye, n denkɛ Dawid; i bɛna baara kɛ, i bɛna a kunbɛn. Dawid taara a siraw la, Shaul tun ya a yɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "155e0c5822280e42c6b218995d338b3167236c805af7438c9ed4bbe456cb05a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/26\/25-25.1791930666815.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ye … ko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "i ye dubaw ye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n denkɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "גם",
+      "gloss": "(gɛlɛya-ɲɛfɔli)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka baara kɛ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "i bɛna kɛ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ani (gɛlɛya-ɲɛfɔli)"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "ka a kunbɛn"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "i bɛna se"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "taara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "a siraw la"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tun ya"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "a yɔrɔ la"
+    }
+  ],
+  "timestamp": "2026-10-13T22:31:06.816522709Z",
+  "model": "glm-5.3"
+}

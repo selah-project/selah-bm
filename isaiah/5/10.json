@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "bat, homɛr, efa",
+      "rationale": "Yield measured in Hebrew units: ten yoke-acres give one bath, a homer of seed one ephah"
+    },
+    {
+      "kind": "hapax",
+      "subject": "klɛ-camɛn",
+      "rationale": "צמד 'yoke-pair' used as land measure (a day's work for a yoke of oxen), a rare usage"
+    }
+  ],
+  "translation": "Sabu nakɔ klɛ-camɛn tan bɛna bat kelen sɔrɔ, ani homɛr kisɛ bɛna efa dɔrɔn sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b11006f1e6d9ab8e268edf6389367ebe4432f963b552b337684334a8d8032c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/5\/9-12.1791933472009.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "klɛ-camɛn"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "nakɔ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bɛna sɔrɔ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ani kisɛ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "homɛr"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛna sɔrɔ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    }
+  ],
+  "timestamp": "2026-10-13T23:17:52.017296691Z",
+  "model": "glm-5.3"
+}

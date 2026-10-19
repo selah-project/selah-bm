@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a ka⟩",
+      "rationale": "Hebrew suffix 'his' on לנחלתו\/לארצו; Bambara needs the possessive word supplied."
+    },
+    {
+      "kind": "substitution",
+      "subject": "yamaru",
+      "rationale": "רחם 'have compassion' rendered with Bambara yamaru (show mercy\/pity)."
+    }
+  ],
+  "translation": "K'a sɔrɔ ni n ye ⟨את⟩ u bɔu ban, m'bɛna segin ka u yamaru, ka o mɔgɔ kelen-kelen lase ⟨a ka⟩ nafolo la, ani mɔgɔ kelen-kelen lase ⟨a ka⟩ dugukolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3fc4f534b4d305adb8964613d2acaff60e2d42f7daa22d12c36b789094add8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/12\/13-16.1791935332272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "k'a sɔrɔ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ni ... ban"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "n ye ... bɔu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "u"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "m'bɛna segin"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "ka u yamaru"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "ka ... lase"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen-kelen"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "nafolo la"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ani mɔgɔ kelen-kelen"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "dugukolo la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:48:52.273647266Z",
+  "model": "glm-5.3"
+}

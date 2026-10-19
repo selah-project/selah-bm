@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "boneyɔrɔ",
+      "rationale": "משחת ye bun-jugutigi yɔrɔ ye — Sheol ta foɲɛ; 'boneyɔrɔ' ka kan ka o foɲɛ jira"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד tora Heburukan na sariya kɔrɔ fɛ — a bɛ se ka kɛ kanuya, layidu-tigɛli, walima ɲumanya ye, daɲɛ kelen tɛ se ka a mara"
+    },
+    {
+      "kind": "addition",
+      "subject": "i kun na",
+      "rationale": "המעטרך kɔrɔ ye 'ka ketekuru bila i kun kan' — Bamanankan bɛ o nɔfɛ dɔ fara a kan"
+    }
+  ],
+  "translation": "Min b'i ni bɔra boneyɔrɔ la; min b'i bɛ hesed ni ɲɛfidilenw ketelen i kun na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/103\/1-4.1791941218621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "min bɛ ... bɔ"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "boneyɔrɔ la"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "i ni"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "min b'i bɛ ... ketelen i kun na"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "ɲɛfidilenw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:58.622211645Z",
+  "model": "glm-5.3"
+}

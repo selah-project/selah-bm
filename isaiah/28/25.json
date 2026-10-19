@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 28:25",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קצח",
+      "rationale": "fennel-flower appears only in Isaiah 28 (vv. 25, 27); rendered by sound ketsah, a plant Bambara does not name"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נסמן",
+      "rationale": "verb 'to designate' occurs only here; KJV 'appointed', ASV 'in the appointed place' — rendered 'min ɲɛfɔra' (the one marked out)"
+    },
+    {
+      "kind": "crux",
+      "subject": "שורה",
+      "rationale": "literally 'ring\/row': KJV 'principal wheat' (misread as שׂורָר?) vs ASV\/JPS 'wheat in rows'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קצח\/כמן",
+      "rationale": "the two small seeds paired in sowing and threshing form the parable's frame; repetition lost in Bambara"
+    }
+  ],
+  "translation": "Yala ni a y'a ɲɛda nɔgɔya, aw ni a ma ci ketsah ani kamon, a ma bil'a hita sira la, seora min ɲɛfɔra, ni kusmet ⟨a⟩ dan na wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0dfdd48f8191fde9c3859097ce5a41d54b6def0087e7181467aefdae55ab4311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/28\/25-28.1791934089241.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "yala…wa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "nɔgɔya"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "a ɲɛda"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "ci"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "ketsah"
+    },
+    {
+      "surface": "וכמן",
+      "gloss": "ani kamon"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "ci donni"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "bila"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "hita"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "sira la"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "seora"
+    },
+    {
+      "surface": "נסמן",
+      "gloss": "min ɲɛfɔra"
+    },
+    {
+      "surface": "וכסמת",
+      "gloss": "ni kusmet"
+    },
+    {
+      "surface": "גבלתו",
+      "gloss": "a dan na"
+    }
+  ],
+  "timestamp": "2026-10-13T23:28:09.245966488Z",
+  "model": "glm-5.3"
+}

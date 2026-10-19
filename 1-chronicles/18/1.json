@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a denmusow",
+      "rationale": "ןבנות 'denmusow' — dennenw duguw de ye o ye, nka Heburukan ka daɲɛ b'a fɔ 'a denmusow'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka bɔ",
+      "rationale": "מיד 'bolo ma' ye minɛli kɔrɔ jira, Bamanankan ka minɛli-daɲɛ wajibi"
+    }
+  ],
+  "translation": "O kɔfɛ, Dawuda (Dawuda) ye Pelistiw taga ka u minɛ, k'a ye ⟨את⟩ Gat (Gati) ni a denmusow ka bɔ Pelistiw bolo ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/18\/1-4.1791948063851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra tiɲɛ ye"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ye … taga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelistiw"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistiw"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ka u minɛ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "k'a ye … ka bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "a denmusow"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "bolo ma"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistiw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:21:03.852635416Z",
+  "model": "glm-5.3"
+}

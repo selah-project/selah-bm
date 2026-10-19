@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 1:33",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יומם",
+      "rationale": "Hebrew says 'by day daily'; rendered 'tile la' (by day), the continual sense folded in"
+    },
+    {
+      "kind": "elision",
+      "subject": "לכם",
+      "rationale": "the purpose preposition 'for you' merged into 'aw ye' in the seeking phrase"
+    }
+  ],
+  "translation": "Min bɛ taa aw ɲɛfɛ sira la, ka ɲini yɔrɔ aw ye aw ka sumaya-yɔrɔ kama, tasuma la su la walasa ka aw ye sira min aw bɛna taa a la, ni kenɛ ye tile la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/1\/33-36.1791927482744.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההלך",
+      "gloss": "min bɛ taa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "aw ɲɛfɛ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira la"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "ka ɲini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yɔrɔ"
+    },
+    {
+      "surface": "לחנתכם",
+      "gloss": "aw ka sumaya-yɔrɔ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tasuma la"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "su la"
+    },
+    {
+      "surface": "לראתכם",
+      "gloss": "walasa ka aw ye"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "aw bɛna taa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a la"
+    },
+    {
+      "surface": "ובענן",
+      "gloss": "ni kenɛ ye"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "tile la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:38:02.745813705Z",
+  "model": "glm-5.3"
+}

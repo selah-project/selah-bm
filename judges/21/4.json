@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 21:4",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hɛrɛ-sarakaw",
+      "rationale": "שלמים 'salamu-sarakaw' — bɛɛti-saraka min bɛ hɛrɛ sabati ye; 'hɛrɛ' ye Tiŋɛŋɛ-ye Bamanankan kɔnɔ"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "kumasen daminɛ-daɲɛ 'kɛra' — a ma ɲɛfɔ Bamanankan kɔnɔ i n'a fɔ 'a kɛra ko'",
+      "note": "kept as gloss 'kɛra'"
+    }
+  ],
+  "translation": "Sini la, jamaa ye sɔgɔma, u ye sarakabɔlan da yen, u ye dolokun-sarakaw ni hɛrɛ-sarakaw sɔrɔ kunmɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2edbb294e6902bd6e835ce2ad81e5c3a366edd2823ef562175dedecf09d64513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/21\/1-4.1791929834810.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sini la"
+    },
+    {
+      "surface": "וישכימו",
+      "gloss": "ye sɔgɔma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "u ye … da"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarakabɔlan"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "u ye … kunmɛ sɔrɔ"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "dolokun-sarakaw"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "hɛrɛ-sarakaw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:17:14.812573096Z",
+  "model": "glm-5.3"
+}

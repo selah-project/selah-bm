@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the worshiper",
+      "rationale": "Negative plural imperative addresses the congregation directly."
+    },
+    {
+      "kind": "invitation",
+      "subject": "אל תבטחו",
+      "rationale": "The deprecative אל with jussive summons hearers away from false trust."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בנדיבים",
+      "rationale": "'Nobles, grandees' rendered mafanw (big-men\/chiefs), the closest Tanakh-register Bambara term."
+    }
+  ],
+  "translation": "Aw kana ɲɛ sigi mafanw na, wal hadamaden na, min bɛɛ ma laseli sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8dd21246e386acd736b200e117cc86ecc0fa399003de87a45aad8f08a61ed4b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/146\/2-3.1791951288358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "aw kana ɲɛ sigi"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "mafanw na"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "wal … na"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "ma … sɔrɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "min bɛɛ"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "laseli"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:48.359331512Z",
+  "model": "glm-5.3"
+}

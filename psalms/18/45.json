@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכחשו",
+      "rationale": "'feign obedience \/ lie' (ylt) vs 'dwindle away \/ cower' (jps, bsb) — same verb kahas, translators split."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a fɔli ka se tulo ma⟩",
+      "rationale": "lishmoa ozen is one bound phrase 'hearing-of-ear'; Bambara needs a full clause."
+    }
+  ],
+  "translation": "A fɔli ka se tulo ma, u bɛ n mɛn; jamana wɛrɛ denw bɛ fɔ n ye ni u tigɛli ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/45-48.1791939758262.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "a fɔli ka se"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tulo ma"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "u bɛ mɛn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "jamana wɛrɛ"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "bɛ fɔ ni u tigɛli ye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:38.263018555Z",
+  "model": "glm-5.3"
+}

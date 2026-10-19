@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחשב \/ מזמות",
+      "rationale": "Verse pivots on scheming; 'lasɔmi' repeated in both halves keeps the echo in Bambara."
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "'They will call him' — Hebrew verb form implies unnamed callers; 'u' (they) supplied explicitly."
+    }
+  ],
+  "translation": "O min bɛ lasɔmi ka jugu kɛ, u bɛ wele ko lasɔmi-jugutigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8320fc7b200d794ac86d2bb4d59068a7f94c81280b8edc7b4f516a72ab04e693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/24\/5-8.1791942856183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "lasɔmi"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ka jugu kɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "tigi"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "lasɔmi juguw"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "u bɛ wele"
+    }
+  ],
+  "timestamp": "2026-10-14T01:54:16.184532667Z",
+  "model": "glm-5.3"
+}

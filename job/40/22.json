@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 40:22",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wilow",
+      "rationale": "ערבי willow has no common Bambara word; borrowed stem plus 'jiri'"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "pronoun 'they' supplied for the trees doing the covering and surrounding"
+    }
+  ],
+  "translation": "Tsaelim jiriw bɛ a datugu ni u diila ye, baji wilow jiriw bɛ a gbɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2336e67332002e5d068d402d141cc2f33e3c706c3c3e388a955550e28122c99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/40\/21-24.1791944338458.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסכהו",
+      "gloss": "u bɛ a datugu"
+    },
+    {
+      "surface": "צאלים",
+      "gloss": "tsaelim jiriw"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "u diila"
+    },
+    {
+      "surface": "יסבוהו",
+      "gloss": "u bɛ a gbɛ"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "wilow jiriw"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "baji"
+    }
+  ],
+  "timestamp": "2026-10-14T02:18:58.459291068Z",
+  "model": "glm-5.3"
+}

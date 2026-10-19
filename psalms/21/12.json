@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נטו רעה",
+      "rationale": "'they bent evil toward you' — Hebrew idiom of leaning evil, rendered jagokoya jaw jago i kan"
+    },
+    {
+      "kind": "addition",
+      "subject": "k'a kɛ",
+      "rationale": "'perform it' supplied: Hebrew says only 'they cannot', the object added for clarity"
+    }
+  ],
+  "translation": "Sabu u bɛ jaw jago i kan; u miiri ko jugu miiri, nka u tɛ se k'a kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/21\/9-12.1791939715661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "u jago"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "i kan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jaw"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "u miiri"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ko jugu miiri (dɔgɔyakɛcogo)"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nka … tɛ"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "u tɛ se"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:55.662318232Z",
+  "model": "glm-5.3"
+}

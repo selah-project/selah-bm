@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 34:22",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bulu",
+      "rationale": "הושיע rendered 'rescue' (bulu); Hebrew root is 'make wide\/free' — no single Bambara word carries that picture"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שה לשה",
+      "rationale": "same word repeated ('sheep to sheep') via two lemmas שׂה\/שׂה — Bambara repeats saga, keeping the echo"
+    }
+  ],
+  "translation": "N bɛna n sagaw bulu, u tɛna kɛ gabali ye kɔ, ani n bɛna jujɔ saga ni saga cɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fb65b79fda3850299acf290ec61ce6b54f6c77f3b8032a496b4533749ddb0b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/34\/21-24.1791937656628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והושעתי",
+      "gloss": "n bɛna ... bulu"
+    },
+    {
+      "surface": "לצאני",
+      "gloss": "n sagaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tɛ ... kɔ"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "gabali"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "n bɛna jujɔ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "saga"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "saga"
+    }
+  ],
+  "timestamp": "2026-10-14T00:27:36.629521181Z",
+  "model": "glm-5.3"
+}

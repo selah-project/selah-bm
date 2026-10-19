@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 17:35",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "'to cut a covenant' — Hebrew idiom for making a covenant; rendered layidu ke, the cutting picture lost."
+    },
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "Here אִתָּם is the preposition 'with them' (H854), not the direct-object marker; the ⟨את⟩ glyph is preserved per Selah convention but the sense is 'ni u ye'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisraɛl denw",
+      "rationale": "Direct address: Yawe's covenant commands spoken to the descendants of Jacob, plural imperatives Aw kana…"
+    },
+    {
+      "kind": "addition",
+      "subject": "Aw",
+      "rationale": "Bambara imperative negative kana requires the explicit pronoun Aw; Hebrew encodes person in the verb suffix."
+    }
+  ],
+  "translation": "Yawe ye layidu ke ni ⟨את⟩ u ye, a y'u lasigida ko: Aw kana siran alaw wɛrɛw, aw kana k'aw yɛrɛ digi u yɛ, aw kana k'u baara, aw kana saraka bɔ u ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d2d76985708a1e871f10ea1f3bd1c5fd01fd11bb5a247d2c010d191d6640f084",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/17\/34-35.1791950733170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "ye layidu ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u (ni u ye — אִתָּם 'ni u ye')"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "y'u lasigida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "siran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "alaw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wɛrɛw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "k'aw yɛrɛ digi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "k'u baara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "saraka bɔ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ye"
+    }
+  ],
+  "timestamp": "2026-10-14T04:05:33.171149636Z",
+  "model": "glm-5.3"
+}

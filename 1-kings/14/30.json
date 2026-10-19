@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Past marker added; Bambara requires it, Hebrew wayyiqtol carries the tense."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כל הימים",
+      "rationale": "'don bɛɛ' — all his days, i.e. throughout their lifetimes, not every single day."
+    }
+  ],
+  "translation": "Kɛlɛ tun bɛ Rɛhabam ni Yarobam (Jerobowam) cɛ, don bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0c8b3b0b702a1b6d6330ab890d090ec69e5c9b2ba6887030afeb04a07381644f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/14\/29-31.1791932218526.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Kɛlɛ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tun bɛ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rɛhabam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "don"
+    }
+  ],
+  "timestamp": "2026-10-13T22:56:58.530656365Z",
+  "model": "glm-5.3"
+}

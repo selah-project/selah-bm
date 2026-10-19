@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i-ni-ce donkili",
+      "rationale": "מזמור לתודה literally 'instrumental-poem of thanksgiving-offering'; rendered as an ordinary noun phrase"
+    },
+    {
+      "kind": "invitation",
+      "subject": "aw ka kan da",
+      "rationale": "imperative summons addressed to all the earth"
+    }
+  ],
+  "translation": "I-ni-ce donkili: aw ka aw ka kan da Yawe kan, dugukolo bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/100\/1-4.1791941240224.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "donkili-sɛbɛn"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "i-ni-ce ta"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "aw ka kan da"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:20.225311473Z",
+  "model": "glm-5.3"
+}

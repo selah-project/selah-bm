@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צרופה",
+      "rationale": "feminine singular verb: imperative 'refine!' with kidneys (KJV) vs stative 'purified are' my reins (YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sokolo",
+      "rationale": "כליות kidneys as the interior self; Bambara has no figurative use of kidney, kept literal"
+    },
+    {
+      "kind": "invitation",
+      "subject": "E ye n sɛgɛsɛgɛ",
+      "rationale": "imperatives summoning Yawe to test and examine the speaker"
+    }
+  ],
+  "translation": "E ye n sɛgɛsɛgɛ, Yawe, k'a lajɛ; a ye n ka sokolo ni n ka dusukun ka kɛ kɔgɔji ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/26\/1-4.1791939895861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "e ye n sɛgɛsɛgɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "k'a lajɛ (nɛnɛ)"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "ka kɛ kɔgɔji ye"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "n ka sokolo"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "n ka dusukun"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:55.862441989Z",
+  "model": "glm-5.3"
+}

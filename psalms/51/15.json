@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bɛna segin",
+      "rationale": "ישובו: literal 'will return' (JPS\/BSB) vs 'shall be converted' (KJV\/Geneva) — latter imports later doctrinal freight."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השיבה\/ישובו",
+      "rationale": "Same root שוב links v14's 'restore' and v15's 'return': restoration received becomes repentance taught."
+    }
+  ],
+  "translation": "N bɛna jujɔnw kalan ⟨nin⟩ i ka siraw, ani jurumutigɛw bɛna segin i fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6f34abb6685ec7be3204cf3aacaf094bb3522eb44a278dfd18b15b1e3c437754",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/51\/14-15.1791951269760.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "n bɛna kalan"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "jujɔnw"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "i ka siraw"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ani jurumutigɛw"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i fɛ"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bɛna segin"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:29.761055026Z",
+  "model": "glm-5.3"
+}

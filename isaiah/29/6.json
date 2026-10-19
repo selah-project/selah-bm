@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Hebrew verb תפקד carries the second-person object; Bamanankan needs the pronoun made visible."
+    },
+    {
+      "kind": "crux",
+      "subject": "פקד",
+      "rationale": "'Visited\/inspected\/mustered' — the verb spans friendly oversight and hostile punishment; rendered 'ɲini' (seek out)."
+    }
+  ],
+  "translation": "Yawe Tsevaot fɛ ⟨i⟩ bɛna ɲini — ⟨ni⟩ kumakanbɛnbannen na, ni yɛlɛyɛli ye, ani kan belebele, ɲɛfolo ani ɲɛ-jɛbugɛri, ani tasuma laya min bɛ dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7f125934d454f9534d0d48e95066555c4ca7ab7e0efdc1a18f2a398063c9ff22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/29\/5-8.1791934080975.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "i bɛna ɲini"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "kumakanbɛnbannen na"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "ni yɛlɛyɛli ye"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ani kan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "belebele"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "ɲɛfolo"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "ɲɛ-jɛbugɛri"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "laya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "min bɛ dun"
+    }
+  ],
+  "timestamp": "2026-10-13T23:28:00.980166022Z",
+  "model": "glm-5.3"
+}

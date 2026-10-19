@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "filɛbɔlaw",
+      "rationale": "כחללים from חלל (bore\/pierce): flute-players (KJV, Geneva) vs dancers (ASV, JPS); flute-players taken"
+    },
+    {
+      "kind": "addition",
+      "subject": "bɛna fɔ ko",
+      "rationale": "Hebrew has no verb; the singers' words are quoted directly, Bambara supplies 'will say'"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "direct address to Zion — all my springs are in you"
+    }
+  ],
+  "translation": "Donkilidaw ni filɛbɔlaw bɛna fɔ ko: n ka ji dogow bɛ i kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/87\/5-7.1791940921775.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Donkilidaw"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "ni filɛbɔlaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "n ka ji dogow"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:01.776851215Z",
+  "model": "glm-5.3"
+}

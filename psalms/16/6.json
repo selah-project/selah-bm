@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sinsinw",
+      "rationale": "חבלים are measuring ropes used to survey land, not ordinary lines; 'ropes' keeps the picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "yɔrɔ ɲumandɔw la",
+      "rationale": "בנעמים is adjective 'pleasant' with no noun; 'places' supplied for sense"
+    }
+  ],
+  "translation": "Sinsinw bɔra n na yɔrɔ ɲumandɔw la; hali n ka fasodeni ka ɲi n kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/16\/5-8.1791939689061.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "sinsinw"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n na"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "yɔrɔ ɲumandɔw la"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hali"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "fasodeni"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:29.062025849Z",
+  "model": "glm-5.3"
+}

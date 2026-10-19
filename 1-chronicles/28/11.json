@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tabali",
+      "rationale": "Verse transmits an architectural pattern — a list of measured, named spaces of the temple."
+    },
+    {
+      "kind": "crux",
+      "subject": "Kaporet",
+      "rationale": "הכפרת is the ark-cover (lid): 'mercy seat' (KJV) vs 'ark-cover' (JPS); rendered by transliteration to keep the object."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wariw sow",
+      "rationale": "גנזכיו 'treasuries' rendered as 'wariw sow' (storehouses of valuables), a functional picture for the Bambara ear."
+    }
+  ],
+  "translation": "Dawid (Dawuda) y'a di a denkɛ Shelomoh (Sulemani) ma: ⟨את⟩ tabali ta dabali ta, ⟨את⟩ a sow, a wariw sow, a sanfe sow, a so kɔnɔ bagaw ta, ni Kaporet so ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0ce385e751e02e207d4938c181b027e85b3664c30a46d501a4be70c67b91a7cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/28\/10-11.1791951610015.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "y'a di"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid (Dawuda)"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomoh (Sulemani) ma"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabali"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "tabali"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "dabali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a sow"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "a sow"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "a wariw sow"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "a sanfe sow"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "a so kɔnɔ bagaw"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "so"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporet"
+    }
+  ],
+  "timestamp": "2026-10-14T04:20:10.016509259Z",
+  "model": "glm-5.3"
+}

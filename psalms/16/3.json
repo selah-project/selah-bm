@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan ka copula wajibi ye; Heburukan ma a sɛbɛn"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואדירי כל חפצי בם",
+      "rationale": "jate: 'u ye mɔgɔkɔrɔbaw ye minnu bɛɛ la ne ka dɛdɛ bɛ' walima 'ne ka dɛdɛ bɛɛ u la'"
+    }
+  ],
+  "translation": "Senumaw la minnu bɛ dugukolo kan — olu de ye mɔgɔkɔrɔbaw ye; ne ka dɛdɛ bɛɛ bɛ olu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/16\/1-4.1791939650895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "senumaw la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo kan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olu de"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "mɔgɔkɔrɔbaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ne ka dɛdɛ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "olu la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:50.896429239Z",
+  "model": "glm-5.3"
+}

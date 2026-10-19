@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 11:13",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tel",
+      "rationale": "תלם 'their mound (tell)': cities standing on their tell — KJV reads 'in their strength', ASV\/JPS 'on their mounds'."
+    },
+    {
+      "kind": "elision",
+      "subject": "זולתי",
+      "rationale": "Hebrew 'except' is one adverb; Bambara needs a full clause frame 'tɛmɛ … de ti'."
+    }
+  ],
+  "translation": "Nka dugu minnu sigilen don u tel kan, Israyɛl ye dugu si lasara; Hatsor dɔrɔn de ti — Yehoshua de ye ⟨את⟩ Hatsor lasara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e3e651da7280cfd9bec002f34131f9d0c8a8304544f4f8ffc44f5fd6a7dbaa51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/11\/13-16.1791928834656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "nka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dugu minnu"
+    },
+    {
+      "surface": "העמדות",
+      "gloss": "sigilen don"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תלם",
+      "gloss": "u tel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "שרפם",
+      "gloss": "lasara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "tɛmɛ ... de ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "dɔrɔn de"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "lasara"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-10-13T22:00:34.657725391Z",
+  "model": "glm-5.3"
+}

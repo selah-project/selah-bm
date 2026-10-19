@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 8:6",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew omits the subject of יעיר; the pronoun 'a' (El\/Shaday) is supplied."
+    },
+    {
+      "kind": "substitution",
+      "subject": "so",
+      "rationale": "נוה is pasture\/settlement, 'habitation'; Bambara 'so' keeps dwelling but loses the pastoral image."
+    }
+  ],
+  "translation": "Ni i jɛ don ani i tilen don, awa sisan ⟨a⟩ bɛna jigi i kan, a bɛna i ka shownya so waleya ka ben.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dfe413fbc92753263dd6c5c295bde0023545c9410cf4c5314581b826b1a975d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/8\/5-8.1791943359531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "זך",
+      "gloss": "jɛ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ani tilen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "jigi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "i kan"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "waleya ka ben"
+    },
+    {
+      "surface": "נות",
+      "gloss": "so"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "i ka shownya"
+    }
+  ],
+  "timestamp": "2026-10-14T02:02:39.532963416Z",
+  "model": "glm-5.3"
+}

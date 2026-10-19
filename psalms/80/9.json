@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "I",
+      "rationale": "Hebrew verbs תסיע\/תגרש\/ותטעה carry the 'you' of address without a pronoun; Bambara needs the subject pronoun"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גפן",
+      "rationale": "the vine is Israel as a whole — metaphor sustained through verses 9–12, the plant's name opens the stanza"
+    }
+  ],
+  "translation": "I ye sikoro-jiri bɔ Mitsrayim (Misira) na; i ye siyaw kasi, i y'a da dugukolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/80\/9-12.1791940846843.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "sikoro-jiri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "i ye ... bɔ"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "i ye ... kasi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "i y'a da dugukolo la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:46.844063129Z",
+  "model": "glm-5.3"
+}

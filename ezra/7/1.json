@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 7:1",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "{nana}",
+      "rationale": "Hebrew verbless genealogy; Bambara needs a verb to make the clause"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "ancestral name-list, Ezra's descent through Serayah"
+    }
+  ],
+  "translation": "Kumaw nin kɔfɛ, Artachshasta (Artakserkisi), Perisi masakɛ ka masakɛya la, Ezera, Serayah den, Azarayah den, Hilkiyah den, {nana}.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5dce309f9fc9df984136aee0989fbd2d52a4ea21449770328a02fd4ead80d219",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/7\/1-4.1791946686975.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "masakɛya la"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artachshasta (Artakserkisi)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Perisi"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkiyah"
+    }
+  ],
+  "timestamp": "2026-10-14T02:58:06.975939222Z",
+  "model": "glm-5.3"
+}

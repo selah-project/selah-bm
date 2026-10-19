@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 47:5",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sukoro",
+      "rationale": "קרחה baldness is the sign of mourning; rendered plainly as 'baldness', not 'mourning'"
+    },
+    {
+      "kind": "crux",
+      "subject": "u ka dugubon",
+      "rationale": "עמקם 'their valley': singular (Ashkelon's valley, KJV) vs 'their valleys' (Geneva); kept singular"
+    },
+    {
+      "kind": "crux",
+      "subject": "tɔɔrɔden",
+      "rationale": "שארית read as vocative 'O remnant' (YLt\/BSB) or as apposition to Ashkelon; kept ambiguous as apposition"
+    },
+    {
+      "kind": "you",
+      "subject": "tɔɔrɔden",
+      "rationale": "the question 'how long wilt thou gash thyself' directly addresses the remnant of the Philistine valley"
+    }
+  ],
+  "translation": "Sukoro na Aza (Gazɛ) kan; Ashkelon banna, u ka dugubon tɔɔrɔden; fo jumɛ i bɛna i yɛrɛ gɛ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2f11236b7b61a040822ab48a1d3d4bbcda20878906becfa0b51cdab63a092c18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/47\/5-7.1791936159010.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באה",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "sukoro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza (Gazɛ)"
+    },
+    {
+      "surface": "נדמתה",
+      "gloss": "banna"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "tɔɔrɔden"
+    },
+    {
+      "surface": "עמקם",
+      "gloss": "u ka dugubon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jumɛ"
+    },
+    {
+      "surface": "תתגודדי",
+      "gloss": "i bɛna i yɛrɛ gɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:02:39.010689631Z",
+  "model": "glm-5.3"
+}

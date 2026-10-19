@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is life-force\/breath, not 'soul' in a later sense; gloss table fixes ni"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "direct petition addressed to Yawe"
+    },
+    {
+      "kind": "invitation",
+      "subject": "i kanuya n na",
+      "rationale": "imperative plea opening the lament"
+    }
+  ],
+  "translation": "Yawe, i kanuya n na, sabu dɔgɔya bɛ n na: n ɲɛ, n ni ani n kɔnɔ bɛ tiŋ ni takisi ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d7d768349330cb3911c1022e6e58f2b70f368dddddb704a24760ec3b18f53312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/31\/9-12.1791939961001.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "i kanuya n na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dɔgɔya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n na"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "bɛ tiŋ"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "ni takisi ye"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "n ɲɛ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n ni"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "ani n kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:01.002781891Z",
+  "model": "glm-5.3"
+}

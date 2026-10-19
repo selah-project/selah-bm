@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Bambara needs the possessor pronoun before 'kun' (head); Hebrew has none."
+    },
+    {
+      "kind": "alternative",
+      "subject": "jidɔn na",
+      "rationale": "Some read the drinking literally (refreshment in battle) and thus victory; others as a ritual act; the verse supplies the cause of the lifted head."
+    }
+  ],
+  "translation": "A bɛ ji min jidɔn na min bɛ sira kan; o la sabu a bɛ ⟨a⟩ kun wuli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/110\/5-7.1791941437972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "jidɔn na"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira kan"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "min"
+    },
+    {
+      "surface": "על",
+      "gloss": "o la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "wuli"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:37.973573772Z",
+  "model": "glm-5.3"
+}

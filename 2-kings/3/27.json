@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 3:27",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kasa kpɛnɛ — ka kɛ Yisrayɛl kan",
+      "rationale": "קצף 的“大怒”属谁：是临到以色列的忿怒（来自上主还是摩押人的义愤），译本分歧甚大；希伯来文只说“对以色列有大怒”。"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "לארץ 只有定冠词“那地”，Bamanankan 需要物主代词“他们的”。"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "希伯来文“就有了”被并入 Bamanankan 的 kɛra，无独立词。"
+    }
+  ],
+  "translation": "A y’a ta ⟨את⟩ a denkɛ fɔlɔ, min tun bɛna masakɛya a nɔ na, ka a wuli ka kɛ tasuma-saraka ye dɛngɛ kan; Yisrayɛl (Izrayɛl) kan kasa kpɛnɛ kɛra, u binna a la, ka yɛlɛm’ a taa ⟨u⟩ dugukolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fe1b0d40ea7af4f15b55e3b0870e513963e006713ad29d80724305c08210a945",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/3\/25-27.1791932638959.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a y’a ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a denkɛ fɔlɔ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "fɔlɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "tun bɛna masakɛya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a nɔ na"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "ka a wuli"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tasuma-saraka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "dɛngɛ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kpɛnɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛl"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "u binna"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ka yɛlɛma"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dugukolo la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:03:58.969247929Z",
+  "model": "glm-5.3"
+}

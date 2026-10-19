@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "a ma ɲini",
+      "rationale": "דרשנהו 'we did not seek it\/inquire of it' — object may be the ark or Yawe himself; KJV 'at it', YLT 'Him'."
+    },
+    {
+      "kind": "elision",
+      "subject": "על אחינו (verse 2)",
+      "rationale": "v3's verb continues v2's purpose chain; the 'upon our brethren' frame is carried over, not repeated."
+    }
+  ],
+  "translation": "Ka ⟨את⟩ an ka Elohim ka arɔn (aji-sɛbɛnni kabakurun) suma an fɛ, sabu an ma a ɲini Shaul (Sawulu) tiledaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c2a1b7775a336ba58f5b676ca774ed0a4ce679d730e034fa3289187b95ad6a4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/13\/1-4.1791947954550.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְנָסֵ֛בָּה",
+      "gloss": "ka … suma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an ka Elohim ka arɔn"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arɔn"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "an fɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "a ma ɲini"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "tiledaw la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-10-14T03:19:14.551352218Z",
+  "model": "glm-5.3"
+}

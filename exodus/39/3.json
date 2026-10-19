@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 39:3",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "donnikɛla",
+      "rationale": "מעשה חושב 'work of a thinker\/designer-weaver' rendered as 'work of a skilled one (donnikɛla)' — the weaving\/plaiting root sense of חשב is narrowed"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a la⟩",
+      "rationale": "בתוך 'in the midst of' takes an object suffix in Bambara that the Hebrew preposition lacks"
+    }
+  ],
+  "translation": "U ye sanu ka ⟨את⟩ ɲagaminw fɔ, ka bɔ u la walawala kese, walasa ka a kɛ ⟨a la⟩ buguni kɔnɔ, ani wɔsɔ kɔnɔ, ani zonzo ka sabilen kɔnɔ, ani kunbale kɔnɔ — donnikɛla ka baara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/39\/1-4.1791927040987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירקעו",
+      "gloss": "u ye ... fɔ ka ɲagamili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanu ka ɲagaminw"
+    },
+    {
+      "surface": "פחי",
+      "gloss": "ɲagaminw"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "ka ... kese"
+    },
+    {
+      "surface": "פתילם",
+      "gloss": "walawala"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "walasa ka ... kɛ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "buguni"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ani ... kɔnɔ"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "wɔsɔ"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ani ... kɔnɔ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "sabilen"
+    },
+    {
+      "surface": "השני",
+      "gloss": "zonzo"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ani ... kɔnɔ"
+    },
+    {
+      "surface": "השש",
+      "gloss": "kunbale"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "donnikɛla ka"
+    }
+  ],
+  "timestamp": "2026-10-13T21:30:40.989329827Z",
+  "model": "glm-5.3"
+}

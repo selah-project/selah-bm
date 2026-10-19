@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 21:17",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩",
+      "rationale": "Hebrew ka יחלק subject ko dɔgolen; nɔnabila dɔ farala a kan"
+    },
+    {
+      "kind": "crux",
+      "subject": "kɛ jati",
+      "rationale": "כמה: ɲininkili ('kɛ jati?') walima lasɔrɔli ('kolo!') — KJV ni YLT bɛ u fila fara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jɛ",
+      "rationale": "באפו tiɲɛn na ye nugu ye; a kɔrɔ di ye jɛ (sunsu) ye"
+    }
+  ],
+  "translation": "Kɛ jati rasawɛnw ka yeelen ka datugulen? Kɛ jati u ka gɛlɛya bɛ bɛn' u kan? ⟨A⟩ bɛ nawɔtaw laɛmɛ a ka jɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e4ec48aff828a92e00a6ede866ee161b968ba5bf2e1d4652bf9ddd7d68ab7197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/21\/17-20.1791943832059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "kɛ jati"
+    },
+    {
+      "surface": "נר",
+      "gloss": "yeelen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rasawɛnw"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "datugulen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bɛ bɛn'"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "u ka gɛlɛya"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "nawɔtaw"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "laɛmɛ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "a ka jɛ la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:10:32.063156530Z",
+  "model": "glm-5.3"
+}

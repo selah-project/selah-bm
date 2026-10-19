@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Aw ye",
+      "rationale": "הנני + participle: «Aw ye» (aw ye!) bɛ Yawe ka kuma dantigɛli ye, ne (ne) nɔnabila farala a kan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jate",
+      "rationale": "יחשבו kɔrɔ tiɲɛ ye «ka minɛ ka jate \/ ka kɛ si ye» — «jate» (ka jate) ye nɔgɔyali ye"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Madiw",
+      "rationale": "Madai jamana tɔgɔ — sɛbɛnni-yɛlɛma fɔlɔ, (Madi, Medi) bracket ye a bɔko fɔlɔ ye"
+    }
+  ],
+  "translation": "Aw ye! Ne bɛ ⟨את⟩ Madiw (Madi, Medi) jɔ u kan — olu tɛ warigwɛ jate, sanu fana, olu tɛ o fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e6f1528e78f732d87ce9a35fae03f5db992620ec926562a3c27205aedf901714",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/13\/17-20.1791933634998.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Aw ye"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "bɛ … jɔ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Madiw"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madiw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olu minnu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "jate"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "sanu fana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "o fɛ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "o (ye)"
+    }
+  ],
+  "timestamp": "2026-10-13T23:20:35.001432554Z",
+  "model": "glm-5.3"
+}

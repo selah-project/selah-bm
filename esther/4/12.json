@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Hebrew verb ויגידו has plural 'they' in the ending; Bamanankan needs the separate pronoun u"
+    }
+  ],
+  "translation": "U ye ⟨את⟩ Ester ka kumaw fɔ Mordekay (Mordekay) ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2d5da0aa034f3394a0fc0c67e9fcf469a2c76ed19aa54d2a32fe52c1066b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/4\/12-12.1791951372722.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "u ye … fɔ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekay ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ester ka kumaw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester ka"
+    }
+  ],
+  "timestamp": "2026-10-14T04:16:12.723165800Z",
+  "model": "glm-5.3"
+}

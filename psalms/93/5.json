@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Hebrew lacks a copula; the equative is supplied in Bamanankan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kosɛbɛ",
+      "rationale": "מאד 'vehemence\/abundance' rendered adverbially as 'very much'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "the verse directly addresses Yawe in second person"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sɛnumaya bɛ i ka so ye",
+      "rationale": "'holiness is fitting your house' could also read 'your house is fitting\/appropriate for holiness' — נאוה as subject vs predicate"
+    }
+  ],
+  "translation": "Yawe, i ka seerew kɛra tiɲɛ-ɲaamaw ye; sɛnumaya bɛ ɲɛ i ka so na, Yawe, donw ɲagami na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6f90c887e987920b7694f66fc76abc8b30a4694805b9033834b216e2b1e222d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/93\/5-5.1791941017516.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "i ka seerew"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "kɛra tiɲɛ-ɲaamaw ye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "i ka so na"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "bɛ ɲɛ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sɛnumaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "donw ɲagami na"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "donw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:23:37.517446581Z",
+  "model": "glm-5.3"
+}

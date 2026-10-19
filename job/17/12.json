@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "yeelen surunna dibi ɲɛfɛ",
+      "rationale": "'light is near before the face of darkness': KJV 'the light is short because of darkness' vs YLT 'light is near because of darkness' — the friends' claim that relief is close"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "verb is plural 'they set'; subject (the friends) supplied explicitly"
+    }
+  ],
+  "translation": "U bɛ su bila ka kɛ don ye; yeelen surunna dibi ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "050969a89630496a4744c107a379889634846bc987949476ecb337d38f01da9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/17\/9-12.1791943610346.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "su"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "don"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "u bɛ bila"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yeelen"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "surunna"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dibi"
+    }
+  ],
+  "timestamp": "2026-10-14T02:06:50.348383692Z",
+  "model": "glm-5.3"
+}

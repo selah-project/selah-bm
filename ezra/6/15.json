@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 6:15",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ושיציא",
+      "rationale": "Aramaic 'the house went out' = was completed; rendered banna (it ended), since 'went out' would mislead."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Adar tile sabanan, san wo",
+      "rationale": "The verse fixes the completion date: third day of Adar, sixth year of Darius."
+    }
+  ],
+  "translation": "So in banna Adar kalo tile sabanan don, min ye Dareyawesh masakɛ ka masaya san wo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "72de1c704595ee46de1896f85a8d5505a702ba54afd2c8898d526b79acdb2848",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/6\/13-16.1791946482807.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושיציא",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "so"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "in"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…don"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tile"
+    },
+    {
+      "surface": "תלתה",
+      "gloss": "sabanan"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "די",
+      "gloss": "min"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "san"
+    },
+    {
+      "surface": "שת",
+      "gloss": "wo"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "masaya"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Dareyawesh"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "masakɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:54:42.809047410Z",
+  "model": "glm-5.3"
+}

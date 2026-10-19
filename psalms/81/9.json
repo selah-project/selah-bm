@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Mɛn",
+      "rationale": " imperative summons opening direct address to the people"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraɛl",
+      "rationale": " direct address to Israel as addressee"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲɛfɔ",
+      "rationale": " ואעידה literally 'I will testify\/admonish' (by repetition); 'warn\/instruct' chosen"
+    }
+  ],
+  "translation": "Mɛn, ne ka jamaa, ani ne bɛna i ɲɛfɔ i ye: Yisraɛl (Israɛl), ni i bɛ ne mɛn!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/81\/9-12.1791940836279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mɛn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne ka jamaa"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ani ne bɛna i ɲɛfɔ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl (Israɛl)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "i bɛ mɛn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:36.279734478Z",
+  "model": "glm-5.3"
+}

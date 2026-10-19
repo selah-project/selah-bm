@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 28:25",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bamow",
+      "rationale": "במות ye 'kɔnɔna dalen sanfe' ye, kɔrɔ fɔlɔw fɔ ko 'high places'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "alaw",
+      "rationale": "אלההים אחרים: Tɔgɔ tɛ — sariya kɔnɔ 'alaw \/ batofɛnw' de bɛɛ, Yawe tɔgɔ tɛ o la"
+    },
+    {
+      "kind": "elision",
+      "subject": "לקטר",
+      "rationale": "Heburu bɛ fɔ ko 'ka i yɛrɛ bɔ ni tasuma ye ka kɛ sumaya-di ye' — n'bɛ a nɔgɔya ka kɛ saraka ye"
+    }
+  ],
+  "translation": "Ani dugu kelen-kelen la Yuda (Yuda) jamana kɔnɔ, a ye sanfe-dalenw (bamow) da walasa ka saraka bɔ tasuma na alaw wɛrɛw ye, ani a ye ⟨את⟩ Yawe — Elohim min ye a ka bayaw ni — lasodi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b3711484b43a3f66c1b884d6d3d0ebd6b0b25be071d4ec820aa96a5c586ff06d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/28\/25-27.1791949405094.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "ani … kɔnɔ bɛɛ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "dugu-o-dugu"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yuda jamana kɔnɔ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a ye … da"
+    },
+    {
+      "surface": "במות",
+      "gloss": "sanfe-dalenw (bamow)"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "walasa ka saraka bɔ tasuma na"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "alaw … ye"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wɛrɛw"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "lasodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim min ye … ni"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "a ka bayaw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:43:25.094736679Z",
+  "model": "glm-5.3"
+}

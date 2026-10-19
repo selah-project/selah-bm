@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 41:18",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Keruv kelen",
+      "rationale": "Hebrew says 'two faces to the keruv'; distributive sense supplies 'kelen' (each)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "timorim\/timorah",
+      "rationale": "singular timorah stands out between the plural, kept as dezɛ jiri kelen"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ɲɛ fila bɛ Keruv kelen kan",
+      "rationale": "reading the lamed as 'belonging to each keruv' (KJV, JPS) rather than a singular cherub"
+    }
+  ],
+  "translation": "Keruvimw ni dezɛ jiriw dilanna, a ni dezɛ jiri kelen bɛ Keruv ni Keruv cɛma, ani ɲɛ fila bɛ ⟨Keruv kelen⟩ kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b46d1cad832cb8843abb6190c14c50741b55081d6a116bf99ea449e72aa33820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/41\/17-20.1791937858182.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשוי",
+      "gloss": "dilanna"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "Keruvimw"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "dezɛ jiriw"
+    },
+    {
+      "surface": "ותמרה",
+      "gloss": "dezɛ jiri kelen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛma"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "Keruv"
+    },
+    {
+      "surface": "לכרוב",
+      "gloss": "Keruv"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "fila"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "לכרוב",
+      "gloss": "Keruv kelen kan"
+    }
+  ],
+  "timestamp": "2026-10-14T00:30:58.183414843Z",
+  "model": "glm-5.3"
+}

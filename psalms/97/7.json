@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "alaw bɛɛ",
+      "rationale": "כל אלהים 'all gods' vs LXX 'all his angels' vs ancient versions 'every god'; kept literal 'all gods'."
+    },
+    {
+      "kind": "you",
+      "subject": "alaw bɛɛ",
+      "rationale": "Imperative addressed directly to the gods: 'bow down to him, all you gods'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "batofɛnw",
+      "rationale": "אלילים 'good-for-nothings\/vanities' rendered with the fixed term for objects of worship."
+    }
+  ],
+  "translation": "Ja minnu digsilen, o donnbaga bɛɛ bɛ maɲa don, aw minnu bɛ u yɛrɛ fanaasira batofɛnw la; alaw bɛɛ, aw bow a ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "90ca7e6f79129eb100cd2a224c5a80a2d7aa9fcba58f34eadf132578bf49818c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/97\/5-8.1791941196349.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "bɛ maɲa don"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "donnbaga"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ja minnu digsilen"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "aw minnu bɛ u yɛrɛ fanaasira"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "batofɛnw"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "aw bow"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "alaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:36.350109993Z",
+  "model": "glm-5.3"
+}

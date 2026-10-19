@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כארי",
+      "rationale": "Ketiv 'like a lion' (JPS: at my hands and feet) vs qere\/ancient versions 'they pierced' (ka'aru); I kept the written consonants' lion image."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan needs the copula\/verb 'ye' where Hebrew leaves כארי ידי ורגלי as a bare comparison phrase."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבבוני\/הקיפוני",
+      "rationale": "Paired near-synonyms 'surround me \/ enclose me' frame the verse; the doubling is kept with wiri \/ sɔrɔ tiɲɛnama."
+    }
+  ],
+  "translation": "Sabu wanw ye n wiri, mɔgɔ juguw ka jama ye n sɔrɔ tiɲɛnama; i n'a fɔ waraba ⟨ye⟩, n bolow ni n senw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/22\/17-20.1791939812094.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "u ye n wiri"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "wanw"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jama"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mɔgɔ juguw"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "u ye n sɔrɔ tiɲɛnama"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "i n'a fɔ waraba ye"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "n bolow"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "ni n senw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:32.094662582Z",
+  "model": "glm-5.3"
+}

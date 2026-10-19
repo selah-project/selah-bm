@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ɲɛ sanbabaw",
+      "rationale": "'eyes of height' = haughty looks; rendered 'lofty eyes' to keep the image"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "object pronoun supplied — 'them you bring low' — which the Bambara verb needs"
+    }
+  ],
+  "translation": "Sabu i bɛ mɔgɔ susu-famalenw bɛn, ani ɲɛ sanbabaw i bɛ u digi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/25-28.1791939777026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "susu-famalen"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ani ɲɛnanw"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "sanbaba"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "i bɛ u digi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:57.027336762Z",
+  "model": "glm-5.3"
+}

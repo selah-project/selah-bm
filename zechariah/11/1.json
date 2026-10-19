@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Lewanɔn",
+      "rationale": "Verse opens with a direct imperative summons addressed to Lebanon."
+    },
+    {
+      "kind": "you",
+      "subject": "Lewanɔn",
+      "rationale": "Second-person address to Lebanon throughout — doors, cedars are 'yours'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sedarɛw",
+      "rationale": "ארז rendered as loan 'sedarɛ'; cedar has no ordinary Bamanankan word."
+    }
+  ],
+  "translation": "Lewanɔn, i ka daw di, tasuma bɛna i ka sedarɛw dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4d06c052a5d3288cae7056fae9d50b3aab8cc71684e5f2d5bbc3d4156d482f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/11\/1-4.1791939310059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "di"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lewanɔn"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "i ka daw"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "bɛna … dun"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "i ka sedarɛw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:55:10.059799046Z",
+  "model": "glm-5.3"
+}

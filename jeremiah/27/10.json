@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aw bɛna sa",
+      "rationale": "ואבדתם is 'you will perish\/be destroyed', broader than 'die'; Bamanankan uses sa, the cause of perishing narrowed."
+    },
+    {
+      "kind": "crux",
+      "subject": "והדחתי",
+      "rationale": "First person 'I will drive you out' (Yawe speaking) vs read as the prophets' result; renderings split between 'I should drive you out' (KJV) and 'I have driven you out' (YLT)."
+    }
+  ],
+  "translation": "Sabu telenni de olu bɛ nabiali aw ye, walasa k'aw bɔ ka jan aw dugukolo kan; n bɛna ⟨את⟩ aw boli, aw bɛna sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9d02d0dbadfe838e40d56a5cb38f1ffac1360935d64a8fba51c555d52e925823",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/27\/9-12.1791935811662.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "telenni"
+    },
+    {
+      "surface": "הם",
+      "gloss": "olu"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "bɛ nabiali"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "למען",
+      "gloss": "walasa"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ka bɔ ka jan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw (ka jan bɔli kɛra aw ye)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "aw dugukolo"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "n bɛna boli"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "aw bɛna sa"
+    }
+  ],
+  "timestamp": "2026-10-13T23:56:51.663316922Z",
+  "model": "glm-5.3"
+}

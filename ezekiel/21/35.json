@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 21:35",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תערה",
+      "rationale": "'Its sheath' vs 'its razor' (same word); rendered tɔbɛ (sheath), with JPS."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נבראת",
+      "rationale": "Root bara, 'create' — also 'cut down'; the sword is addressed as created\/forged in its land of origin."
+    },
+    {
+      "kind": "you",
+      "subject": "the sword",
+      "rationale": "Direct address — the sword (i.e. Ammon) is the addressee being judged."
+    }
+  ],
+  "translation": "Segin'a a ta tɔbɛ kɔnɔ! Yɔrɔ min na ⟨a⟩ dabonnen, i bɛɛma-marayɔrɔ dugukolo la, n bɛna ⟨את⟩ i latigɛ sanni o yɔrɔ nin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6786dcd0107e9a4ccead9d696ea3bfdd1b10ff1c29958d6821fa7d933f1aff1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/21\/33-36.1791937185541.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "Segin'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… kɔnɔ"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "a ta tɔbɛ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yɔrɔ min na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "dabonnen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "i bɛɛma-marayɔrɔ"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "n bɛna … latigɛ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "i"
+    }
+  ],
+  "timestamp": "2026-10-14T00:19:45.542619867Z",
+  "model": "glm-5.3"
+}

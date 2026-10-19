@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i bɛ se ka",
+      "rationale": "Permission ('you may') supplied in Bambara; Hebrew uses bare imperfect 'you may press'."
+    },
+    {
+      "kind": "crux",
+      "subject": "dunan",
+      "rationale": "הנכרי 'foreigner' — whether a non-Israelite resident or a foreign trader determines the scope of debt-release."
+    }
+  ],
+  "translation": "I bɛ se ka ⟨את⟩ dunan dɔgɔya; nko min b'i fɛ ⟨את⟩ ni i balimakɛ ye, i bolo bɛ o bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "951ea50b774bd73147206992756279a75d684f67502fc25ff20aa68c5ec78901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/15\/1-4.1791927923855.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dunan"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "dunan"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "dɔgɔya"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nko min"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i fɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "i balimakɛ"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "i bolo"
+    }
+  ],
+  "timestamp": "2026-10-13T21:45:23.863911254Z",
+  "model": "glm-5.3"
+}

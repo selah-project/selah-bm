@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "to a yɛrɛ sira kan",
+      "rationale": "עומדת ka kɔrɔ tiɲɛna ye 'a bɛ jɔ' — a bɛ jɔ yɔrɔ kelen na, a tɛ wili taa."
+    },
+    {
+      "kind": "addition",
+      "subject": "dun",
+      "rationale": "Sigi-ta wɛrɛ bɛ Bamanankan na ka jɛya (dun) — Heburukan tɛ a sɔrɔ."
+    }
+  ],
+  "translation": "Sigitɑ dun bɛ taa, sigitɑ bɛ na; dugukolo to a yɛrɛ sira kan dibiri bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/1\/1-4.1791945126198.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "sigita"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bɛ taa"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ani sigita"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bɛ na"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ani dugukolo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dibiri bɛɛ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "to a yɛrɛ sira kan"
+    }
+  ],
+  "timestamp": "2026-10-14T02:32:06.202816746Z",
+  "model": "glm-5.3"
+}

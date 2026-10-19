@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 14:1",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dɔ",
+      "rationale": "Hebrew אנשים without number marker; 'certain' supplied from context"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mogɔkɔrɔw",
+      "rationale": "זקנים literally 'old ones', rendered as council-of-elders term"
+    }
+  ],
+  "translation": "Mɔgɔw dɔ Yisrayɛl mogɔkɔrɔw la nana ne nɔ, u tun kunun ne ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d873ee9a17f99b99cf44886979a789145e3aa5de2e7835a00ba7b286987741f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/14\/1-4.1791937015879.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne nɔ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mɔgɔw dɔ"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "mogɔkɔrɔw la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛl"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "u tun kunun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ne ɲɛfɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:16:55.880617502Z",
+  "model": "glm-5.3"
+}

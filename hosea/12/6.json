@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o ye … ye⟩",
+      "rationale": "Bamanankan needs copula; Hebrew juxtaposes without verb"
+    },
+    {
+      "kind": "crux",
+      "subject": "זכרו",
+      "rationale": "'his memorial' vs 'his name' (JPS); the noun is 'remembrance\/renown', not 'name'"
+    }
+  ],
+  "translation": "Yawe, Elohim Tsɛbaot tigi, Yawe — ⟨o ye⟩ a tɔgɔkɔrɔ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "298093ac566ff5b31945d7720608d7ca5db7a9700343f66a0023643e94079254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/12\/5-8.1791938277189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tsɛbaot tigi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "a tɔgɔkɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:37:57.189695940Z",
+  "model": "glm-5.3"
+}

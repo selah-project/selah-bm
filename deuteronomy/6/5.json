@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara wale-daɲɛ ye … ye de wajibiya; Heburukan tɛ o la"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפשך bɛ bayɛlɛma ni (ni\/hakili-sira) ye; a kɔrɔ jɔlen ye nimɔkɔli\/ni-balo ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fanga",
+      "rationale": "מאדך kɔrɔ ye jɔli\/kɔrɔbɔli ye; fanga ye nɔgɔya-bayɛlɛmali ye"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Shema ka tugu-kumasen min bɛ wele Israel kɔrɔbaga la"
+    }
+  ],
+  "translation": "I na kanuya ye ⟨את⟩ Yawe, i ka Elohim, ni i ka dusukun bɛɛ ye, ani ni i ka ni bɛɛ ye, ani ni i ka fanga bɛɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2cc6d3aec31d90024fe908c7815c1c5ab018ff8f1ed18f7a952c182e11d3de23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/6\/5-8.1791927542813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "i na kanuya ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ni ... bɛɛ ye"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "i ka dusukun"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ani ni ... bɛɛ ye"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "i ka ni"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ani ni ... bɛɛ ye"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "i ka fanga"
+    }
+  ],
+  "timestamp": "2026-10-13T21:39:02.814892807Z",
+  "model": "glm-5.3"
+}

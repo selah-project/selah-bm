@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בעל (fɔlɔ)",
+      "rationale": "מריב בעל ye tɔgɔ kelen ye (Meriw-Baal); suffixe-vav min bɛ tɔgɔ filanan na, o de bɛ fɔ — dɔw tɛ a lasɔrɔ."
+    },
+    {
+      "kind": "crux",
+      "subject": "Meriw-Baal",
+      "rationale": "Tɔgɔ in 'Baal' ta; Shemuwɛl 2 (2 Samuel) 4:4 kɔnɔ a ye Mefi-Boshet ye — bayɛlɛmabagaw bɛ tɔgɔw fila u fila kɛ."
+    },
+    {
+      "kind": "measurement",
+      "subject": "silsilabolo",
+      "rationale": "Silsila tugu: Yehonatan → Meriw-Baal → Mika."
+    }
+  ],
+  "translation": "Yehonatan denkɛ ye Meriw-Baal ye, Meriw-Baal ye ⟨את⟩ Mika den da.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8492f4dab857bb31b25b44fa570d8df7e1f528c388f1887e3833aaff3662c3c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/9\/37-40.1791947719610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriw"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "Meriw-Baal"
+    },
+    {
+      "surface": "בעל",
+      "gloss": ""
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ye … den da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mika"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    }
+  ],
+  "timestamp": "2026-10-14T03:15:19.612403755Z",
+  "model": "glm-5.3"
+}

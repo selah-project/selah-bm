@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רכב",
+      "rationale": "'Upper millstone' (KJV\/JPS tradition) vs literal 'rider' (YLT); millstone reading kept as the tool paired with the mill."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבל … חובל",
+      "rationale": "Same root opens and closes the verse — taking-in-pledge framing the whole law; the repetition is kept with 'misen' twice."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered 'ni' (life\/soul); here it means the debtor's livelihood — the mill grinds the bread that keeps him alive."
+    }
+  ],
+  "translation": "Kelen si ta ⟨את⟩ murekabakurun fila ni ⟨את⟩ a sanfɛkabakurun ka kɛ misen ye, sabu ni de don min bɛ ta misen ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "832336f21c53a13f21aa44ac6b60b9004d9a7ab848db73dd2059174a1c335ee5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/24\/6-7.1791950120776.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kelen si"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "ta ka kɛ misen ye"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "murekabakurun fila"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ni a sanfɛkabakurun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "de"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "bɛ ta misen ye"
+    }
+  ],
+  "timestamp": "2026-10-14T03:55:20.776799094Z",
+  "model": "glm-5.3"
+}

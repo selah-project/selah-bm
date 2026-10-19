@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על צוארנו נרדפנו",
+      "rationale": "Hebrew picture: pursuers are 'on our neck' — close upon us; Bambara keeps the literal neck image 'kunbɛɛrɔ kan'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הונח",
+      "rationale": "נוחח\/נוח root 'settle, rest' rendered as 'sow ka di' (give rest), passive 'was given' supplied by Bambara structure"
+    }
+  ],
+  "translation": "An kunbɛɛrɔ kan, u ye an tuuruya kɛ, an tuugira, sow tɛ di an ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9e4897c6c587e63c6fc9ff098eb02feddcb2cb6503c7cd2489c8e2ddd86242a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/5\/5-8.1791945053129.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "an kunbɛɛrɔ"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "u ye an tuuruya kɛ"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "an tuugira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "sow ka di"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an ma"
+    }
+  ],
+  "timestamp": "2026-10-14T02:30:53.129612673Z",
+  "model": "glm-5.3"
+}

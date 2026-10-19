@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i hakili jugu taara",
+      "rationale": "ותבהל is inward trembling; Bambara says 'your mind took badness' for dismayed"
+    },
+    {
+      "kind": "you",
+      "subject": "to Iyob",
+      "rationale": "Elifaz turns on Job directly: the one who steadied others now staggers"
+    }
+  ],
+  "translation": "Sabu sisan, o don na i la, i tigɛra; o lasera i la, i hakili jugu taara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/4\/5-8.1791943178082.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "don na"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "i tigɛra"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "lasera"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "i hakili jugu taara"
+    }
+  ],
+  "timestamp": "2026-10-14T01:59:38.083529012Z",
+  "model": "glm-5.3"
+}

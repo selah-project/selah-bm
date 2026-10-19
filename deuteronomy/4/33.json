@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 4:33",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Question addresses Israel directly: 'as you heard, you'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨si⟩",
+      "rationale": "Bambara question needs the interrogative particle; Hebrew interrogative הֲ carries it."
+    }
+  ],
+  "translation": "Jama si ye Elohim ka kan minan, min bɛ fɔ ka bɔ tasuma kɔnɔ, i n'a fɔ i y'a mɛn, i yɛrɛ, wa i balo?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cfdeedfa4b2e5dc6cdec02ecb1a8524350bf5a06077d20111b4287955c9943dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/4\/33-36.1791927619080.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמע",
+      "gloss": "y'a mɛn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "min bɛ fɔ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ka bɔ … kɔnɔ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "i y'a mɛn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i yɛrɛ"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "wa i balo"
+    }
+  ],
+  "timestamp": "2026-10-13T21:40:19.081399617Z",
+  "model": "glm-5.3"
+}

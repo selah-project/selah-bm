@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 2:34",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "herem",
+      "rationale": "חרם kept as 'herem' — devoted-to-destruction ban; translators split between 'utterly destroyed' and 'devoted'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הטף",
+      "rationale": "טף 'little ones\/children' rendered denfitiniw; a collective, not just infants."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שריד",
+      "rationale": "'mɔgɔ min na balo' (person left alive) — Hebrew שריד is 'remnant\/survivor', one word."
+    }
+  ],
+  "translation": "An ye ⟨את⟩ a duguw bɛɛ minɛ o waati la; an ye ⟨את⟩ dugu kelen-kelen bɛɛ da herem ma — mɔgɔkɔrɔw, musow, ani denfitiniw — mɔgɔ si ma to min na balo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a93e5a576f52e09059cbb4f92973ed82157175427b77225f95e738488768f228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/2\/33-36.1791927507132.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "an ye … minɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a duguw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "a duguw"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "o waati la"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ונחרם",
+      "gloss": "an ye … da herem ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugu kelen-kelen bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dugu kelen-kelen"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "mɔgɔkɔrɔw"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "musow"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "denfitiniw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si ma"
+    },
+    {
+      "surface": "השארנו",
+      "gloss": "an ye … to"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "mɔgɔ min na balo"
+    }
+  ],
+  "timestamp": "2026-10-13T21:38:27.135420022Z",
+  "model": "glm-5.3"
+}

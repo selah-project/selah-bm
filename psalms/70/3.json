@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is throat\/life-force; Bambara 'ni' carries the life sense"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרו\/בשתם",
+      "rationale": "Root בוש sounds through the psalm (ashamed, shame v4); the echo is lost"
+    }
+  ],
+  "translation": "Minnu bɛ n ni ɲini, u ka ban, ka lasigida bɔ; u ka segin a kɔ, ka nɔ bɔ, minnu bɛ n juya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/70\/1-4.1791940604152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "u ka ban"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ka lasigida bɔ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "minnu bɛ ɲini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n ni"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "u ka segin"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "a kɔ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ka nɔ bɔ"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "minnu bɛ"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "n juya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:16:44.153057468Z",
+  "model": "glm-5.3"
+}

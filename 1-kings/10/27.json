@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ye u",
+      "rationale": "Pronoun supplied before the second verb; Hebrew fronts ואת הארזים and leaves the object implicit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "hyperbole",
+      "rationale": "Silver like stones, cedars like sycamores — double simile of abundance; parallelism kept."
+    }
+  ],
+  "translation": "Masakɛ ye ⟨את⟩ warigwɛ sigi Yerushalayim kɔnɔ i n'a fɔ kabakurunw; ⟨את⟩ kedruw fana a ye u di i n'a fɔ shikime-jiriw minnu bɛ dugujukɔrɔ na, ka bon.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c8171e20d8316bc2cbb3fae2224e3cb7849598c946e5d9c0df32e23b56b911ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/10\/25-28.1791932198986.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ye … sigi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warigwɛ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim kɔnɔ"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "i n'a fɔ kabakurunw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kedruw"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "kedruw"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ye u di"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "i n'a fɔ shikime-jiriw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "dugujukɔrɔ na"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ka bon"
+    }
+  ],
+  "timestamp": "2026-10-13T22:56:38.993480278Z",
+  "model": "glm-5.3"
+}

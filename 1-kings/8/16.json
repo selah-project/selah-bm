@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 8:16",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא בחרתי",
+      "rationale": "Past ('I chose not') vs perfect ('I have not chosen'); Bambara 'ne ma … ta' leaves the tense open as Hebrew does."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבטי",
+      "rationale": "'Tribes' literally 'staffs\/scions'; rendered 'majanuw' (lineages), the picture of the staff lost."
+    },
+    {
+      "kind": "addition",
+      "subject": "don kelen si",
+      "rationale": "'Not one city' — Bambara negation needs the singular indefinite 'dɔ … si' construction."
+    },
+    {
+      "kind": "elision",
+      "subject": "להיות על",
+      "rationale": "'to be over' rendered as 'masakɛ ye' (to be king); Hebrew has no noun 'king' here."
+    }
+  ],
+  "translation": "Bii min na ne ye ⟨את⟩ ne ka jama, ⟨את⟩ Israel bɔ Mitsrayim (Misira) la, don kelen si men na ne ma dugu dɔ ta Israel majanuw bɛɛ la, ka so dɔ da, ne ka tɔgɔ ka kɛ yen ye; nka ne ye Dawid ta, ka kɛ ne ka jama Israel bɛɛ la masakɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/13-16.1791931977114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "bii min na"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ne ye … bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka jama"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne ka jama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma … si"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ne ma … ta"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dugu dɔ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "… bɛɛ la"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "majanuw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ka … da"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so dɔ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ka kɛ … ye"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ne ka tɔgɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "ne ye … ta"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ka kɛ … ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "… bɛɛ la masakɛ ye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne ka jama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-10-13T22:52:57.122445726Z",
+  "model": "glm-5.3"
+}

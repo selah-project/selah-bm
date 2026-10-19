@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 30:12",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צמקים",
+      "rationale": "dried-grape cakes, a rare word occurring only in this passage"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוחו 'his breath\/spirit' returning — rendered 'a ka fiɲɛ' (breath-spirit), not 'soul'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "don saba ni su saba",
+      "rationale": "three days and three nights counted explicitly"
+    }
+  ],
+  "translation": "U ye dɛbɛlɛ geren ni kaba geren fila di a ye; a dun, a ka fiɲɛ segin a ma, sabu a ma dun buru, a min ji don saba ni su saba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/30\/9-12.1791930687414.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "u ye … di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "geren"
+    },
+    {
+      "surface": "דבלה",
+      "gloss": "dɛbɛlɛ bɔlen"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "fila"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "kaba geren"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "a dun"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "a ka fiɲɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma … dun"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dun"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a min ji ma"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "min"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "saba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "don"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "saba"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-10-13T22:31:27.416627349Z",
+  "model": "glm-5.3"
+}

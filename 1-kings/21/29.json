@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 21:29",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nka",
+      "rationale": "Hebrew has no conjunction between the two clauses; contrastive 'but' added, bracketed in spirit by context"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jɔyi",
+      "rationale": "נכנע literally 'bend the knee'; rendered as 'lower oneself\/bow'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נכנע...נכנע",
+      "rationale": "Repetition of 'humbled' frames the causal clause; kept by repeating jɔyi"
+    },
+    {
+      "kind": "you",
+      "subject": "to Eliya",
+      "rationale": "Yawe addresses Eliya directly with a question"
+    }
+  ],
+  "translation": "I y'a ye wa ni Ahabu ye jɔyi k'a kun bɔ i ɲɛma la? Sabu k'a jɔyi i ɲɛma la, tɔɔgɔw min na tɛ nin[jɔya?] mɔgɔ o ye — i tɛna juguya na a tilew kɔnɔ; nka a denkɛ tilew kɔnɔ, ne bɛna juguya na a so kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "752f46db102b8d36184aff67b737abc6f487ffd29a74407d9ae70d0ddd911251",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/21\/29-29.1791932460315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראית",
+      "gloss": "i y'a ye wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נכנע",
+      "gloss": "jɔyi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "i ɲɛma la"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "נכנע",
+      "gloss": "jɔyi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "i ɲɛma la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bɛna na"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "a tilew kɔnɔ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "tilew kɔnɔ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ne bɛna ⟨a⟩ na"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a so"
+    }
+  ],
+  "timestamp": "2026-10-13T23:01:00.318640651Z",
+  "model": "glm-5.3"
+}

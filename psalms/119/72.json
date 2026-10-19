@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "אלפי",
+      "rationale": "'Thousands' — a counted quantity of gold and silver, the Torah weighed against number"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורה kept as the fixed term Tora rather than diluted to 'sariya' (law), since it is the named corpus"
+    }
+  ],
+  "translation": "I ka da ka Tora ka ɲi ne ye sanu ni warigwɛ kɛmɛ-caman la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7d73ce756908b15529b62e7c3c91224c6cf0c10a86e597b520a6dc97ec710c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/69-72.1791941658533.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "i ka da ka"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "kɛmɛ-caman la ... korɔ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ni warigwɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:18.534096268Z",
+  "model": "glm-5.3"
+}

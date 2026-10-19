@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sanfɛla",
+      "rationale": "ממרום ye sankolo-fɛ-yɔrɔ jukɔrɔ ye; sanfɛla ye a nɔgɔya kɔrɔ ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "nɔnabila 'a' farala kan min ye Yawe fɔ, sabu Bamanankan bɛ wale-ɲɛmɔgɔ wajibiya"
+    }
+  ],
+  "translation": "A ye cilen bɔ sanfɛla na, a ye n ta, a ye n bɔ ji caman na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8ac8296ab4ed3e869e4133be596bb5fb7435700ed43ccd28ec2a808737651474",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/17-20.1791939759251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ye cilen bɔ"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "sanfɛla na"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "a ye n ta"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "a ye n bɔ"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "caman"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:39.251587436Z",
+  "model": "glm-5.3"
+}

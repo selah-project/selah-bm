@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 9:20",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Bamanankan ka tiɲɛ daɲɛ min b'a jira ko kumaw bɛna kɛ, Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "du ko",
+      "rationale": "ואתפלל ka kɔrɔ ka ɲɛ kosɛbɛ ye 'ka kuma Yawe ye kuma-janto ye'; 'du ko' ye a nɔgɔya dɔrɔn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fa",
+      "rationale": "להשמידו ye 'k'a bɔ ka bɔ yen walasa k'a jɔnjɔn koɲe'; 'fa' nɔgɔyara o yɛrɛ ma"
+    }
+  ],
+  "translation": "Yawe tun ye Aharon (Aarɔn) na'i kosɛbɛ, walasa k'a fa; ani ne y'i du ko Aharon kama fana, waati o la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2968678b79896e90dd9f60d4943b1bf0e4b873ab1e56e6021b1b8d0c04aa0d32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/9\/20-20.1791949994838.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאהרן",
+      "gloss": "ani Aharon"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "ye … na'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    },
+    {
+      "surface": "להשמידו",
+      "gloss": "walasa k'a fa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "ani ne y'i du ko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waati"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o la"
+    }
+  ],
+  "timestamp": "2026-10-14T03:53:14.839257480Z",
+  "model": "glm-5.3"
+}

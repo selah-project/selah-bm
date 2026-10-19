@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ku",
+      "rationale": "נבלה (carcass) rendered 'ku' (corpse); Bamanankan has no special word for a dead unclean animal."
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Two direct prohibitions addressed to Israel: do not eat, do not touch."
+    }
+  ],
+  "translation": "Amta ⟨את⟩ nsɛ, sabu a bɛ nɔda fila-fila, nka a tɛ dunoya-wulili kɛ; a ye jugu-bagan ye aw ye. Aw kana u sogo dun, aw kana u ku lamɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/14\/5-8.1791927917942.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "nsɛ"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "nsɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "a bɛ ... fila-fila"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "nɔda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka a tɛ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "dunoya-wulili"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "jugu-bagan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "u sogo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dun"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "u ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "lamɛn"
+    }
+  ],
+  "timestamp": "2026-10-13T21:45:17.947783765Z",
+  "model": "glm-5.3"
+}

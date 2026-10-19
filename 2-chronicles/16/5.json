@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "waati min na",
+      "rationale": "ויהי ni כשמע bɛ Bamanankan na bɔlen dɔ wajibi ye ka kumasen jɔ"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "a ka kɔrɔ 'kɛra tuma min na' — daɲɛ in yɛrɛ tɛ jate kumasen kɔnɔ"
+    }
+  ],
+  "translation": "Baasha (Basa) y'o mɛn waati min na, a bɔra ⟨את⟩ Ramah (Rama) dilali la, a y'⟨את⟩ a ka baara dadabila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "44f861b2bd8ad9c3daa50a24c9dd2693b4fbb077ec4194c2ff09ebb8afc24210",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/16\/5-8.1791949157646.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra (waati min na)"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha (Basa)"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "dilali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramah"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramah (Rama)"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "dadabila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka baara"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "a ka baara"
+    }
+  ],
+  "timestamp": "2026-10-14T03:39:17.646909615Z",
+  "model": "glm-5.3"
+}

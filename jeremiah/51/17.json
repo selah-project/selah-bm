@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 51:17",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבער",
+      "rationale": "'Brutish\/like a beast' vs 'burned up' — same verb בער; the idiom here is 'become brutish', not consumed by fire."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדעת",
+      "rationale": "Same consonants מדעת as 'from knowledge' and 'knowledge' — pun on Adam's knowledge failing, lost in Bambara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fɛbaga-sɛbɛnnen",
+      "rationale": "מפסל literally 'carved image'; compound used since Bambara lacks a single word."
+    }
+  ],
+  "translation": "Hadamaden bɛɛ don bɔn ye dɔnni la; sɛgɛbaga bɛɛ bɛ masya fɛbaga-sɛbɛnnen na; sabu a ka sɛgɛliden ye fɔli ye, fiɲɛ si tɛ olu kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cf9a1d39d2238a4a95e95340c9bf70b477e3612427efcd7035651205cc338f14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/51\/17-20.1791936449300.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "bɔn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "dɔnni la"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "bɛ masya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "sɛgɛbaga"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "fɛbaga-sɛbɛnnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fɔli"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "a ka sɛgɛliden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani si"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "olu kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:07:29.300583210Z",
+  "model": "glm-5.3"
+}

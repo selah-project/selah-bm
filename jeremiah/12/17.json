@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נתשתי\/נתוש",
+      "rationale": "same verb twice: 'I will tear away … tearing away' — Hebrew keeps the root, Bambara repeats butubutu"
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "gloss": "object pronoun added before 'destroy' since Bambara needs an object while Hebrew leaves it implicit in the infinitive"
+    }
+  ],
+  "translation": "Nka ni u ma mɛn, ne bɛna ⟨את⟩ siya nin butubutu, ka butubutu ka a tiɲɛ bɔ, Yawe ko.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3bf16125604b4b9b6242544935f485eac6e5a1b15f83f722058cc61b3aa4000a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/12\/17-17.1791935247046.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Nka ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "ne bɛna butubutu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siya nin"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "siya nin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nin"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "butubutu"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ka a tiɲɛ bɔ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T23:47:27.048437199Z",
+  "model": "glm-5.3"
+}

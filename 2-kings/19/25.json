@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצים",
+      "rationale": "minnu tiŋɛra (« ce qui a jauni ») contre « expulsés » (racine נצה) ; KJV\/ASV sautent le mot, YLT le rend « blasted »."
+    },
+    {
+      "kind": "you",
+      "subject": "Sennakeribu",
+      "rationale": "Yawe ka kuma a ye — a bɛ Asiri masakɛ lajɛ."
+    },
+    {
+      "kind": "secret",
+      "subject": "kɔrɔ jan na ne y'a kɛ",
+      "rationale": "Yawe b'a fɔ ko a sigira o baara la temen don kɔrɔ len — ladbali don."
+    }
+  ],
+  "translation": "I ma mɛn wa? Kɔrɔ jan na ne ye ⟨את⟩ a kɛ, daminɛ donw la ne ye a dilan jɔ; sisan ne y'a na, a kɛra ka jɔsi — datugulen dugubaw, minnu tiŋɛra, ka kɛ kabakurun tobiw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "63ded7348a99fe4696a2b5655ff89ec7f7853b1224e015346bb4c080e667b82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/19\/25-28.1791933216738.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "i ma mɛn"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "kɔrɔ jan na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "a — ne y'a kɛ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ne y'a kɛ"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "donw la"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "daminɛ"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "ne ye a dilan jɔ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "ne y'a na"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a kɛra"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "ka jɔsi"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "kabakurun tobiw"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "minnu tiŋɛra"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "dugubaw"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "datugulenw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:13:36.744304037Z",
+  "model": "glm-5.3"
+}

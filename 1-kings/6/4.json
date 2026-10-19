@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שקפים אטמים",
+      "rationale": "Famous crux: 'windows of narrow lights' (KJV), 'broad within narrow without' (Geneva\/JPS), 'fixed lattice-work' (ASV) — the two rare words describe framed, restricted openings."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שקוף",
+      "rationale": "שקוף occurs only here and in its parallel (2 Chr 3:5 Ezek 40:16ff); a rare architectural term."
+    }
+  ],
+  "translation": "A ye so kɛ finibɔyɔrɔw ye minnu ka da bɔ dɔgɔya fɛ, dakuna ɲumanw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e8b4f11e5ecaef7ef0a274a91a39f1b36a52b0fe2af775b3739059800b6af621",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/6\/1-4.1791931828091.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a ye … kɛ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "finibɔyɔrɔw"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "minnu ka da bɔ dɔgɔya fɛ"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "dakuna ɲumanw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:50:28.099888397Z",
+  "model": "glm-5.3"
+}

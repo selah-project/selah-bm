@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 36:13",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "היית past marker supplied; Bambara needs 'tun ye' for 'you have been'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומשכלת",
+      "rationale": "shakal root: literally 'cause to miscarry\/bereave'; rendered as compound 'den-bɔbaga' (child-taker) to keep the picture"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אכלת אדם",
+      "rationale": "'eater of human-kind' rendered as agentive compound 'hadama-dunbagaw-dunbaga' (human-devourer)"
+    }
+  ],
+  "translation": "Cogo nin na, Adonay Yawe ko: sabu u b'a fɔ aw ye ko: “Hadama-dunbagaw-dunbaga ye aw ye, aw ye aw ka siyaw ka den-bɔbaga tun ye.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2621657e5c6b7a3160ae7a8c8ab307aa0f15d8ca1a81c220086b17841c0f4f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/36\/13-16.1791937638451.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "cogo nin na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "u b'a fɔ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "dunbaga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamadenw"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "aw"
+    },
+    {
+      "surface": "ומשכלת",
+      "gloss": "den-bɔbaga"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "i ka siyaw"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tun ye"
+    }
+  ],
+  "timestamp": "2026-10-14T00:27:18.452064704Z",
+  "model": "glm-5.3"
+}

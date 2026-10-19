@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "those given drink are implicit in the Hebrew causative, supplied as u"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקע",
+      "rationale": "same cleaving verb as v.13 — sea and rocks torn open with one word"
+    }
+  ],
+  "translation": "A ye kabakurunw buko dɛsɛrɛ kɔnɔ, ka ji di u ma i n'a fɔ ji-bonba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/13-16.1791940753329.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "A ye ... buko"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "kabakurunw"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dɛsɛrɛ kɔnɔ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ka ji di u ma"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "i n'a fɔ ji-bonba"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ka bon"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:13.329962247Z",
+  "model": "glm-5.3"
+}

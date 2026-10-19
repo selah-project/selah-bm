@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "ספר",
+      "rationale": "the letter's content is concealed from its bearer — Uriah carries the order for his own death"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ונכה ומת",
+      "rationale": "\"he will be struck and die\" — infinitive absolutes used as curses\/commands; indirect order to kill"
+    }
+  ],
+  "translation": "A ye nin sɛbɛn kɔnɔ sɛbɛn ko: Aw bila ⟨את⟩ Uriya ɲɛfɛ, kɛɲɛ bonya min ka gɛlɛn ka bon; aw bɔ a kɔfɛ, walasa a bɛna boli ani ka sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4c71a5eb2f7834d7952f882dec82f1fe2ba7fdd49a5fae37ef9b8fcc9d3b3670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/11\/13-16.1791931152547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ye … sɛbɛn"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "nin sɛbɛn kɔnɔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "aw bila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "kɛɲɛ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "bonya"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "kɛlɛ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "min ka gɛlɛn ka bon"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "aw bɔ"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "a kɔfɛ"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "a bɛna boli"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ka sa"
+    }
+  ],
+  "timestamp": "2026-10-13T22:39:12.549259943Z",
+  "model": "glm-5.3"
+}

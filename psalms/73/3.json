@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hɛrɛ",
+      "rationale": "שלום kɔgɔjɛbalen ye hɛrɛ ye nka kuma in kɔnɔ a kɔrɔ surunya ka kɛ sumuye-yɔrɔ ye — bɛɛ bɛ a fɔ 'prosperity'"
+    },
+    {
+      "kind": "crux",
+      "subject": "bɔkɔtɔmɔgɔw",
+      "rationale": "הוללים: sɛbɛnnibaga bɛɛ b'a fɔ 'arrogant' walima 'foolish' — daɲɛ in bɛ fɔ mɔgɔ minnu bɛ yɛrɛ jira kosɛbɛ"
+    }
+  ],
+  "translation": "Sabu ne tun bɛ jalaki bɔkɔtɔmɔgɔw la, ni ne ye jurumukɛlaw ka hɛrɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/73\/1-4.1791940721843.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ne tun bɛ jalaki"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "bɔkɔtɔmɔgɔw la"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jurumukɛlaw"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ne ye … ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:18:41.844655231Z",
+  "model": "glm-5.3"
+}

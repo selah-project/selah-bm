@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתי ברית",
+      "rationale": "Heburukan: 'ka layidu gɛ' (sɔgɔ-cogo la, saraka tugunw cɛ); Bamanankan: 'ka layidu ke'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כרתי ברית לבחירי",
+      "gloss": "'ne ka sugantilen fɛ' walima 'ni ne ka sugantilen ye' — ל bɛ fɔ 'fɛ' walima 'ni' daminɛ na"
+    },
+    {
+      "kind": "you",
+      "subject": "Dawuda",
+      "rationale": "Yawe ka kuma bɛ tugu Dawuda weleli nin na"
+    }
+  ],
+  "translation": "Ne ye ⟨את⟩ layidu ne ka sugantilen fɛ ke; ne bɛ tiye Dawuda (Dawuda), ne baagara ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/89\/1-4.1791940985464.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "ne ye … ke"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "ne ka sugantilen fɛ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ne bɛ tiye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ne baagara"
+    }
+  ],
+  "timestamp": "2026-10-14T01:23:05.465722117Z",
+  "model": "glm-5.3"
+}

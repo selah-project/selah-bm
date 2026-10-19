@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dabɔ",
+      "rationale": "גל literally means to uncover or denude; 'open' (dabɔ) follows the idiom of removing a covering from the eyes."
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Imperative petition addressed directly to God."
+    }
+  ],
+  "translation": "Dabɔ ne ka ɲɛ, walasa ne bɛna fɛn nafamaw ye Tora to.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/17-20.1791941569675.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "dabɔ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ne ka ɲɛ"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "walasa ne bɛna … ye"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "fɛn nafamaw"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Tora to"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:49.675919159Z",
+  "model": "glm-5.3"
+}

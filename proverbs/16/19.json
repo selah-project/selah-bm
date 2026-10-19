@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "רוח (fiɲɛ\/ni) ye — 'dusukun' ciye fɛ Heburu bɛ fiɲɛ fɔ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ka ca wolo fara",
+      "rationale": "מחלק שלל (wolo farali) — kuma nɔgɔya Bamanankan na"
+    }
+  ],
+  "translation": "A ka ɲe dusukun-sɔrɔ ni ⟨את⟩ bɔnaw ye, ka ca wolo fara ⟨את⟩ dusukun-janyaw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bcd9366600b6cf5bd47f5796dbd5cbf7160ffe9ebc4f8adc61694b8cac87a44e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/16\/17-20.1791942580209.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "a ka ɲe"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "dusukun-sɔrɔ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɔnaw"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "bɔnaw"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "ka fara"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dusukun-janyaw"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "dusukun-janyaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:49:40.211786128Z",
+  "model": "glm-5.3"
+}

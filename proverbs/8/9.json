@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan needs the predicate marker ye; Hebrew has no copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jɛlenw",
+      "rationale": "נכחים literally 'straight-in-front, confrontational-clear'; rendered 'plain\/straightforward'"
+    }
+  ],
+  "translation": "Olu bɛɛ ye jɛlenw ye mɔgɔ minnu bɛ faamuya; ani tilelenw, mulu minnu bɛ dɔnniya ɲininka.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7bf49462191565032b5e4c2f0216d6ebdf11826bea8f07bf665bfc49cd0ae9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/8\/9-12.1791942240931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "olu bɛɛ"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "jɛlenw"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "mɔgɔ minnu bɛ faamuya"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "ani tilelenw"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "mulu minnu bɛ ɲininka"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "dɔnniya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:44:00.932138174Z",
+  "model": "glm-5.3"
+}

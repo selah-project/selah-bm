@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "direct second-person instruction, placed deliberately opposite v5's opposite command"
+    },
+    {
+      "kind": "crux",
+      "subject": "גם אתה",
+      "rationale": "'even you' — emphatic pronoun; the pairing with v5 (answer him!) is a famous intentional contradiction"
+    }
+  ],
+  "translation": "I kana jɔnjɔn jaabi a ka baloya la, walasa i yɛrɛ fana ma bɛn a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "25748eaa683f591b3e49c4a86db0095e5af6db1a0caab14ef15b47fb8e2160f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/26\/1-4.1791942951739.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תען",
+      "gloss": "jaabi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "jɔnjɔn"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "a ka baloya la"
+    },
+    {
+      "surface": "פן",
+      "gloss": "walasa … ma"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i yɛrɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:55:51.741004932Z",
+  "model": "glm-5.3"
+}

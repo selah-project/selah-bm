@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 6:2",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לרעות",
+      "rationale": "Hebrew is a grazing\/pasturing verb; rendered 'ka dun' (to feed), shepherd picture weakened."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לערוגות הבשם",
+      "rationale": "'Beds of balsam-spice' rendered 'nɔgɔya forobolow' (beds of fragrant things); the specific balsam plant is generic in Bambara."
+    }
+  ],
+  "translation": "Ne ka kanuyatigi nnasin ka taa a ka nakɔ la, nɔgɔya forobolow la, ka dun nakɔw la ani ka liliw kili.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/6\/1-4.1791944708850.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "ne ka kanuyatigi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nnasin ka taa"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "a ka nakɔ la"
+    },
+    {
+      "surface": "לערוגות",
+      "gloss": "nɔgɔya forobolow la"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "nɔgɔya"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ka dun"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "nakɔw la"
+    },
+    {
+      "surface": "וללקט",
+      "gloss": "ani ka ... kili"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "liliw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:08.851089199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨I⟩",
+      "rationale": "Hebrew verb form תשימנו carries the 2nd-person subject; Bambara needs the pronoun stated"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סחי",
+      "rationale": "Word appears only here in the Tanakh — 'that which is swept off', offscouring"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Verse addresses Yawe directly in second person"
+    }
+  ],
+  "translation": "⟨I⟩ y'an kɛ jijɛ-yɔrɔko ani bin-yɔrɔko ye jamanaw kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bc3272500cc2d099ec1727de19608bdb913fbeb679742c6995389a35ebef79a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/45-48.1791944857556.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "jijɛ-yɔrɔko"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "ani bin-yɔrɔko"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "⟨I⟩ y'an kɛ ... ye"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "jamanaw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:27:37.558931327Z",
+  "model": "glm-5.3"
+}

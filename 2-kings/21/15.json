@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתי",
+      "rationale": "here אתי is the 1st-person pronoun 'me' (object of the participle), not the aleph-tav direct-object marker"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ne dusukun meti",
+      "rationale": "מכעיס literally 'causing grief\/anger' — rendered 'making my heart bad'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "don min na … fo nin don in na",
+      "rationale": "time span measured: from the exodus from Mitsrayim to this day"
+    }
+  ],
+  "translation": "Sabu u ye ⟨את⟩ ko jugu kɛ N ɲɛ na, u tun bɛ ⟨את⟩ ne dusukun meti don min na u bamaw bɔ ye Mitsrayim (Misira) na, fo nin don in na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "88c24e69ede526c5b4b07cb4783e65b1762db9d70c74801d1321c8d1c9766fbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/21\/13-16.1791933285635.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u ye … kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko jugu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ko jugu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "N ɲɛ na"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "u tun bɛ"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "ne dusukun meti"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don min na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bɔ ye"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "u bamaw"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in na"
+    }
+  ],
+  "timestamp": "2026-10-13T23:14:45.647272362Z",
+  "model": "glm-5.3"
+}

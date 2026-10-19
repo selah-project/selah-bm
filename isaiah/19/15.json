@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kun walima sira",
+      "rationale": "head-or-tail (leader-or-commoner) stands for every rank; paired with palm-branch-or-rush (top-to-bottom of a plant) — both pictures kept literal."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשר יעשה",
+      "rationale": "whose doing: 'baara min bɛ kɛ' — KJV 'work for Egypt, which the head or tail may do' vs geneva 'which the head may do, nor the tail' (negative resumption)."
+    }
+  ],
+  "translation": "Misira te se ka baara kɛ min bɛ: kun walima sira, degu walima safo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/19\/13-16.1791933804097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se ka … kɛ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Misira"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min bɛ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "sira"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "degu"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "safo"
+    }
+  ],
+  "timestamp": "2026-10-13T23:23:24.103141907Z",
+  "model": "glm-5.3"
+}

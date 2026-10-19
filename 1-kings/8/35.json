@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 8:35",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nɔgɔya",
+      "rationale": "תענם: 'you afflict them' (KJV\/ASV\/JPS) vs 'you answer them' — root ענה carries both; affliction fits the drought context"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩ ye",
+      "rationale": "Bambara transitive verb requires stated object pronoun; Hebrew לך is preposition only"
+    },
+    {
+      "kind": "elision",
+      "subject": "יהיה",
+      "rationale": "existential 'there is' folded into si ma na 'will not come'"
+    }
+  ],
+  "translation": "Ni sankolo ka da, sanji si ma na, sabu u kɛra ⟨i⟩ ye jurumu, k'u jiŋe yɔrɔ in na, ka ⟨את⟩ i tɔgɔ jamandira, k'u bɔ u jurumu la, sabu i y'u nɔgɔya —",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1b44ccf07640737a964ac831176d61e4bf98981ad23ebf8318382dedfc48ee6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/34-35.1791950417822.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהעצר",
+      "gloss": "ni sankolo ka da"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "si ma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "na"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "sanji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יחטאו",
+      "gloss": "u kɛra jurumu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨i⟩ ye"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "k'u jiŋe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…na"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yɔrɔ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ka jamandira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tɔgɔ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i tɔgɔ"
+    },
+    {
+      "surface": "ומחטאתם",
+      "gloss": "u jurumu la"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "k'u bɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תענם",
+      "gloss": "i y'u nɔgɔya"
+    }
+  ],
+  "timestamp": "2026-10-14T04:00:17.822849558Z",
+  "model": "glm-5.3"
+}

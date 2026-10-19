@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka kɔɔrɔ",
+      "rationale": "ישר literally 'straight' — kept the physical shape, which 'upright' also does in Bambara idiom"
+    },
+    {
+      "kind": "crux",
+      "subject": "חשבנות",
+      "rationale": "hisibaliw\/machinations: 'inventions' (KJV) vs 'schemes' vs 'devices' — rendered as contrived reckonings (hisi-dilan)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "אשר introduces the content of what was found; Bambara needs the quotative ko"
+    }
+  ],
+  "translation": "A ye yelen: o de dɔrɔn n ye taamu, ko Elohim ye ⟨את⟩ hadamaden dilan ka kɔɔrɔ, nka u y' a ɲini, ka hisi-dilan caman dilan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6d3dbfea87bdae45d5f239c61b62fa7b348305a3efad2cff969acf5f81b9968d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/7\/29-29.1791945187579.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "dɔrɔn"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a ye yelen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "o"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "n ye taamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadamaden"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ka kɔɔrɔ"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "nka u"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "u y'a ɲini"
+    },
+    {
+      "surface": "חששבנות",
+      "gloss": "hisi-dilan caman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "caman"
+    }
+  ],
+  "timestamp": "2026-10-14T02:33:07.580223629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "jɔsi",
+      "rationale": "תטה 'to bend' rendered idiomatically as jɔsi (pervert); the bending picture is lost."
+    },
+    {
+      "kind": "you",
+      "subject": "I",
+      "rationale": "Direct address of the commandment to Israel as a single hearer ('i')."
+    },
+    {
+      "kind": "addition",
+      "subject": "walima \/ ani",
+      "rationale": "Bambara needs conjunctions between the three beneficiaries where Hebrew simply lines them up."
+    }
+  ],
+  "translation": "I kana dunan walima denbɛn ka sariya jɔsi, ani i kana kɔngɔbaga ka dɔgɔkɔrɔ ta wadi ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a4db4aa2f796a9a3589c3c7c90ecb070fffdc8208893bc0d8dbacd8bba3313b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/24\/17-20.1791928206326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "jɔsi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "גר",
+      "gloss": "dunan"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "denbɛn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani i kana"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ta wadi ye"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "dɔgɔkɔrɔ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "kɔngɔbaga"
+    }
+  ],
+  "timestamp": "2026-10-13T21:50:06.327971504Z",
+  "model": "glm-5.3"
+}

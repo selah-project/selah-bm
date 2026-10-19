@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 11:25",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הנו",
+      "rationale": "Hebrew interjection 'behold' rendered as Bambara attention phrase 'aw ye a ye'"
+    },
+    {
+      "kind": "crux",
+      "subject": "משמעתו",
+      "rationale": "'his guard' (KJV\/ASV) vs 'his council' (Geneva); literal sense is hearing\/obedience, royal retinue"
+    },
+    {
+      "kind": "measurement",
+      "subject": "biwuru \/ saba-ninw",
+      "rationale": "ranking counted within the Thirty and the Three"
+    }
+  ],
+  "translation": "Mɔgɔ biwuruw la, aw ye a ye: a ye mɔgɔ jukɔrɔlen ye; nka a ma se saba-ninw la; Dawid y'a bila a ka marabagaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "36ab2fa21c491604a086b1aa31cf077a625b894eddad66586599f0ebb1f72a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/11\/25-28.1791947747694.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "la"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "biwuruw"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "aw ye a ye"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "jukɔrɔlen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nka … la"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "saba-ninw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בא",
+      "gloss": "se"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "y'a bila"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "… la"
+    },
+    {
+      "surface": "משמעתו",
+      "gloss": "a ka marabagaw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:15:47.694880588Z",
+  "model": "glm-5.3"
+}

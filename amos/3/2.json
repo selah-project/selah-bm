@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ye dɔn",
+      "rationale": "ידע 'known' here is covenant election, not information; dɔn keeps the bare verb's shape"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפקד",
+      "rationale": "פקד 'visit' can be friendly or hostile — punish (KJV) vs visit upon (JPS); lajɛ keeps the inspecting sense"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רק...על כן",
+      "rationale": "only-you-known \/ therefore-I-punish is the hinge of the whole book"
+    }
+  ],
+  "translation": "Aw de dɔrɔn de n ye dɔn dugukolo jamaba bɛɛ la; o la, n bɛna ⟨את⟩ aw bɛɛ jurumuw lajɛ ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/amos\/3\/1-4.1791938427141.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "de dɔrɔn"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aw"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "n ye dɔn"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "משפחחות",
+      "gloss": "dugukolo jamaba"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "o la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o la"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "n bɛna lajɛ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aw kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aw bɛɛ jurumuw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "aw jurumuw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:40:27.142430686Z",
+  "model": "glm-5.3"
+}

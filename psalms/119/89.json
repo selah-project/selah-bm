@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka ɲɛ",
+      "rationale": "Hebrew verb נצב 'stationed\/standing' needs a Bambara verb phrase"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "direct address to Yawe"
+    }
+  ],
+  "translation": "Fɔɔ dɔɔnin, Yawe, i kuma ka ɲɛ sankolow la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/89-92.1791941613983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "fɔɔ dɔɔnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "i kuma"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ka ɲɛ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sankolow la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:33.983793165Z",
+  "model": "glm-5.3"
+}

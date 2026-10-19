@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ka",
+      "rationale": "Hebrew pronominal suffix on עבדיו needs Bambara possessive 'a ka' spelled out"
+    },
+    {
+      "kind": "substitution",
+      "subject": "taamasiyεnw",
+      "rationale": "אותות is 'signals\/omens'; Bambara 'taamasiyεn' (sign) keeps the visible-token sense"
+    }
+  ],
+  "translation": "A yε taamasiyεnw ni kɔrɔkɔrɔliw ci Mitsrayim (Misira) kɔnɔ, Farawun kan ni a ka sɔrɔdɔw bɛɛ kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6cca197ce9087e5bd4a9b5f425d10670a999cd0a54bb6d107f399bca57f677a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/135\/9-12.1791941832195.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אותות",
+      "gloss": "taamasiyεnw"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ni kɔrɔkɔrɔliw"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Misira)"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Farawun kan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ni bɛɛ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a ka sɔrɔdɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:12.195760133Z",
+  "model": "glm-5.3"
+}

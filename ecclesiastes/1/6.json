@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סובב סובב... סביבותיו",
+      "rationale": "root סבב repeated four times — circling sound mirrors circling wind; repetition kept"
+    },
+    {
+      "kind": "addition",
+      "subject": "fiɲɛ",
+      "rationale": "subject noun supplied once for readability where Hebrew fronts the verbs"
+    }
+  ],
+  "translation": "Bɛ taa worodugu, ka jɛgɛnsira ka taa sahelu; jɛgɛnsira-jɛgɛnsira fiɲɛ bɛ taa, ani a tilennenw kan fiɲɛ bɛ segin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/1\/5-8.1791945174611.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "bɛ taa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "worodugu"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ka jɛgɛnsira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "sahelu"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "jɛgɛnsira"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "jɛgɛnsira"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "bɛ taa"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "a tilennenw"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bɛ segin"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "fiɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:32:54.612377973Z",
+  "model": "glm-5.3"
+}

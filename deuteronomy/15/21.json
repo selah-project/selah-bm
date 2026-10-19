@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "min \/ i n'a fɔ",
+      "rationale": "Hebrew uses single adjectives פסח and עור; Bambara needs a relative clause to name the blemish"
+    },
+    {
+      "kind": "you",
+      "subject": "to Isirayili",
+      "rationale": "Second-person prohibition, Moses addressing Israel"
+    }
+  ],
+  "translation": "Ni a la ja dɔ da — min tɛ se ka taasi, walima min bɛ ɲɛ si, ja bɔn o bɔn — i kana a saraka Yawe, i Ala ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0ea7295fa22fc75518b5c887c1e9f1421aba56a51a88ad9c4d3587615c324aeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/15\/21-23.1791927845869.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ja"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "min tɛ se ka taasi"
+    },
+    {
+      "surface": "או",
+      "gloss": "walima"
+    },
+    {
+      "surface": "עור",
+      "gloss": "min bɛ ɲɛ si"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ja"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bɔn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "a saraka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ma"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i Ala"
+    }
+  ],
+  "timestamp": "2026-10-13T21:44:05.870223187Z",
+  "model": "glm-5.3"
+}

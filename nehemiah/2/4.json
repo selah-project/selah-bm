@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Nɛhɛmya",
+      "rationale": "The king asks Nehemiah directly what he is requesting."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sankolow Ala",
+      "rationale": "אלהי השמים is a construct pair 'God-of-the-heavens'; Bambara reverses to 'Ala of the heavens', with plural sankolow kept for the dual השמים."
+    }
+  ],
+  "translation": "Masakɛ ko ne ye: i b'a ɲini mun fɛn na? Wa ne ye maana Elohim, sankolow Ala ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1fff20561e3c0982a0284b4316db22a810fb13417546ac2fc40d9f75db031073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/2\/1-4.1791946953390.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko … ye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "… fɛn na"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "b'a ɲini"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "ne ye maana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ma"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow Ala"
+    }
+  ],
+  "timestamp": "2026-10-14T03:02:33.392471151Z",
+  "model": "glm-5.3"
+}

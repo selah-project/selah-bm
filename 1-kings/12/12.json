@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 12:12",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "don saba na 'on the third day'",
+      "rationale": "the verse counts days twice, framing the assembly's return"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Rehavam⟩",
+      "rationale": "proper name needed in Bambara clause after postposition 'ye'; the Hebrew names it in the source"
+    }
+  ],
+  "translation": "Yarobeam ni jama bɛɛ nana ⟨Rehavam⟩ ye don saba na, masakɛ kuma cogo min na ko: aw kana segin n na don saba na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b1147edd681aa68169446b16a1dd638547de3d893f770010015e9fc1cdfd048d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/12\/9-12.1791932110296.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ni … bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don … na"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "saba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "aw kana segin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n na"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don … na"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "saba"
+    }
+  ],
+  "timestamp": "2026-10-13T22:55:10.301782260Z",
+  "model": "glm-5.3"
+}

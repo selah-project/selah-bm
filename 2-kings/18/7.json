@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 18:7",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "past marker required by Bambara, Hebrew wayyiqtol carries it in verb form"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "subject pronoun supplied — Hebrew omits it; the one prospering is the king, not Yawe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "barabɔ ɲɛ",
+      "rationale": "שכיל is 'act with insight\/succeed'; 'prospered' (barabɔ ɲɛ) drops the wisdom sense"
+    }
+  ],
+  "translation": "Yawe tun yera a ni a ye, o yɔrɔ bɛɛ la minnu min ⟨a⟩ tun bɛ taa, ⟨a⟩ tun ka barabɔ ɲɛ; a y'a bɔ Ashur (Asiri) masakɛ sanfɛ, a ma soŋɔ a la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b061e908e2c39c78461442396de007227650920dfe92c2b00283122feeadaa6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/18\/6-7.1791950679663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "tun yera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a ni a ye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu min"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a bɛ taa"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "a tun ka barabɔ ɲɛ"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "a y'a bɔ … sanfɛ"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "masakɛ la"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur (Asiri)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "soŋɔ a la"
+    }
+  ],
+  "timestamp": "2026-10-14T04:04:39.663726100Z",
+  "model": "glm-5.3"
+}

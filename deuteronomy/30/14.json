@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "in",
+      "rationale": "Bamanankan needs the demonstrative 'in' where Hebrew has the definite article on הדבר."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct second-person address throughout ('i da', 'i dusukun'), continuing Moses' speech to Israel."
+    }
+  ],
+  "translation": "Kuma in ka surun i ye kosɛbɛ, i da kɔnɔ ani i dusukun kɔnɔ, walasa k'a kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/30\/13-16.1791928451286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ka surun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma in"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "i da kɔnɔ"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "ani i dusukun kɔnɔ"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "walasa k'a kɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:54:11.290400139Z",
+  "model": "glm-5.3"
+}

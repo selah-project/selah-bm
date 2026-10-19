@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאון … שאון",
+      "rationale": "repetition of שאון 'roar of seas \/ roar of waves'; Bambara repeats 'ɲɛgɛn', keeping the echo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲɛgɛn",
+      "rationale": "המון 'tumult\/crowd' and שאון 'roar' both collapsed into 'ɲɛgɛn'; the crowd-vs-roar distinction is lost"
+    }
+  ],
+  "translation": "A bɛ kɔgɔjiw ka ɲɛgɛn jɔsi, u ka gɛlɛw ka ɲɛgɛn, ani siyaw ka ɲɛgɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/65\/5-8.1791940476712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "bɛ … jɔsi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ɲɛgɛn"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kɔgɔjiw ka"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ɲɛgɛn"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "u ka gɛlɛw ka"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "ɲɛgɛn"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "siyaw ka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:36.713172226Z",
+  "model": "glm-5.3"
+}

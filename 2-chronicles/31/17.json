@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 31:17",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mugan san",
+      "rationale": "Aged counting of priestly and Levite enrolment: age thresholds and divisions listed."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Bambara needs the infinitive\/connector ka; Hebrew participle construction lacks it."
+    }
+  ],
+  "translation": "Ani ⟨את⟩ sarakalasebagaw ka tɔgɔ-sɛbɛn u fa soyaw fɛ, ani Lewiw, denkɛ mugan san na ka tɛmɛ, u ka kɔlɔsili kɔnɔ, u ka danciw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "abaf1e32ed97e641b859f4a69f1019bb79d2451268292dd488242392dffde3b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/31\/17-20.1791949764643.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tɔgɔ-sɛbɛn (sarakalasebagaw ka genealogy)"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "tɔgɔ-sɛbɛn"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "so… fɛ"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "u baw"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ani Lewiw"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "denkɛ min bɔra"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mugan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "ka tɛmɛ"
+    },
+    {
+      "surface": "במשמרותיהם",
+      "gloss": "u ka kɔlɔsili la"
+    },
+    {
+      "surface": "במחלקותיהם",
+      "gloss": "u ka danciw la"
+    }
+  ],
+  "timestamp": "2026-10-14T03:49:24.644623828Z",
+  "model": "glm-5.3"
+}

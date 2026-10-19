@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara predicative construction 'kɛra … ye' supplies a copula the Hebrew participle lacks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɔnni",
+      "rationale": "נגוע literally 'touched\/struck'; rendered 'affliction' after the idiom"
+    }
+  ],
+  "translation": "A kɛra bɔnni ye don bɛɛ, ani n ka laseli bɛ donkɔrɔo bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/73\/13-16.1791940662125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "A kɛra … ye"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "bɔnni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ani n ka laseli"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "donkɔrɔo bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:42.126281951Z",
+  "model": "glm-5.3"
+}

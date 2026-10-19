@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dansi",
+      "rationale": "Western boundary fixed by the Great Sea from the border to opposite the entrance of Hamat."
+    },
+    {
+      "kind": "crux",
+      "subject": "לבוא חמת",
+      "rationale": "'The entrance of Hamath' — a place-name Lebo-Hamath or a common phrase 'as one enters Hamath'; rendered as the phrase."
+    },
+    {
+      "kind": "addition",
+      "subject": "o ye … ye",
+      "rationale": "Hebrew closing phrase 'this the west side' lacks a verb; Bamanankan copula supplied."
+    }
+  ],
+  "translation": "Ni tilefɛ fan: kɔgɔjiba, dansi bɔ ka se Hamat ka don yɔrɔ tilennen na; o ye ⟨את⟩ tilefɛ fan ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "594de4be38d60a31e6cbd35dc057f18dcdef0782a1b9b8d3e3b27aa42f45f813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/47\/17-20.1791938035302.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "ni fan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tilefɛ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "dansi bɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "tilennen"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ka don"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "o"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "fan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tilefɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:33:55.303414673Z",
+  "model": "glm-5.3"
+}

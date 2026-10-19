@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "su in",
+      "rationale": "Hebrew has no subject for the verbs; 'that night' from context supplied in brackets"
+    },
+    {
+      "kind": "substitution",
+      "subject": "balo",
+      "rationale": "בטן belly\/womb rendered with the general word 'balo'"
+    }
+  ],
+  "translation": "Sabu ⟨su in⟩ ma datugu n balo da, wa ka a dogo n ɲɛ la — wombolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/3\/9-12.1791943144756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "datugu"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "da"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "n balo"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "wa ka … dogo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "wombolo"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "n ɲɛ la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:59:04.757368103Z",
+  "model": "glm-5.3"
+}

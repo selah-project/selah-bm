@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 20:5",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "surun",
+      "rationale": "מקרוב 'from near' = for a short time (near in time); rendered as 'short-lived'"
+    },
+    {
+      "kind": "crux",
+      "subject": "wati fitinin",
+      "rationale": "רגע 'a blink of the eye' vs 'a moment'; rendered with 'tiny time'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Sofar's hearers",
+      "rationale": "Rhetorical question continuing v.4: 'Do you not know this?' — the content of what Israel's comforter-rival knows"
+    }
+  ],
+  "translation": "Kabiniw ka jɛlijɛli ye surun ye, ani bɛnbaliw ka dimi ye wati fitinin ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "069c16e0745b9e2e5113f2773b6619d3c082ffbf70c966384b9301dc41c53185",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/20\/5-8.1791943799377.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רננת",
+      "gloss": "jɛlijɛli"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kabiniw"
+    },
+    {
+      "surface": "מקרוב",
+      "gloss": "surun"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "ani dimi"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "bɛnbaliw"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "fo"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "wati fitinin"
+    }
+  ],
+  "timestamp": "2026-10-14T02:09:59.377966945Z",
+  "model": "glm-5.3"
+}

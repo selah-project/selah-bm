@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i n'a fɔ a yɛrɛ",
+      "rationale": "“they say” — supplied, as in KJV\/JPS; the Hebrew only gives the mocking question “for who hears?”"
+    },
+    {
+      "kind": "substitution",
+      "subject": "they are spewing words",
+      "rationale": "יביעון is literally “they make gush forth” (like water from a spring); the gushing picture is kept with 'spewing'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרבות בשפתותיהם",
+      "rationale": "swords as lips' words — speech as weapons; idiom rendered literally"
+    }
+  ],
+  "translation": "Look, they are spewing words with their mouths, npanw are on their lips, sabu, i n'a fɔ a yɛrɛ, jatu bɛ mɛn?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6bb2bf1e2d07462486cea6ba5bbb6dfe2c84d0a63598bca975946cee0d41d2d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/59\/8-8.1791951196721.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Look"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "they are spewing out words"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "with their mouths"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "npanw"
+    },
+    {
+      "surface": "בשפתותיהיהם",
+      "gloss": "on their lips"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "jatu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bɛ mɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:16.722331981Z",
+  "model": "glm-5.3"
+}

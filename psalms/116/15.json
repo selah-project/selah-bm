@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ka lasɔrɔ",
+      "rationale": "יקר: kɔrɔ fila — 'ka lasɔrɔ\/ka jɔgɔ' (precious) ni 'ka gɛlɛ' (costly, ka kɛ tuyali ye); bayɛlɛmabaga caman ta o fɔlɔ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "senumadenw",
+      "rationale": "חסידו 'a ka hesed-mɔgɔw, kanuya-mɔgɔw' — 'senumadenw' dɔgɔya a la."
+    }
+  ],
+  "translation": "A ka senumadenw saya ka lasɔrɔ Yawe ɲɛw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f8f10062da369522955524945906256f81a0f23e824c8a9f9eff292dd6de4891",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/116\/13-16.1791941544107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "ka lasɔrɔ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "… ɲɛw la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "saya"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "a ka senumadenw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:24.108414075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hunyu",
+      "rationale": "משומם literally 'devastated\/stunned' — an inner desolation, rendered as hunyu (stunned\/astonished)"
+    },
+    {
+      "kind": "you",
+      "subject": "kuma o",
+      "rationale": "the chiefs' report is the direct object of Ezra's hearing; the verse turns the narrative onto him"
+    }
+  ],
+  "translation": "Ni ne ye ⟨את⟩ kuma o mɛn, ne ye ⟨את⟩ ne ka dilara ani ne ka jiŋo ɲagami, ne ye suruku bɔ ne ka kun na ani ne ka sensɛn na, ani ne siginiyen hunyu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "73c5b0d75ff8cbc673537e4f3104b6701c119ee58765c549b74dcbb50fe2b347",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/9\/1-4.1791946732531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "ni ne ye … mɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuma o (o kuma)"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "o"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "ɲagami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka dilara ani ne ka jiŋo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ne ka dilara"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "ne ka jiŋo"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "משער",
+      "gloss": "suruku"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ne ka kun"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ne ka sensɛn"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "sigini"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "hunyu"
+    }
+  ],
+  "timestamp": "2026-10-14T02:58:52.533442411Z",
+  "model": "glm-5.3"
+}

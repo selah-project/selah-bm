@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dolow",
+      "rationale": "'stars of light' is construct-bound; Bambara renders 'dolow … yeelenw' keeping both nouns as apposition"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Toyiw a",
+      "rationale": "sun, moon and stars are directly summoned to praise"
+    }
+  ],
+  "translation": "Toyiw a, tile ni kalo; toyiw a, dolow bɛɛ, yeelenw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/148\/1-4.1791942022401.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Toyiw a"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ni kalo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Toyiw a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "dolow"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yeelenw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:22.402606820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wulu-wɛrɛ",
+      "rationale": "Bambara has no everyday word for wolf; wulu-wɛrɛ (wild dog) is the standard workaround."
+    },
+    {
+      "kind": "substitution",
+      "subject": "waraba-tilen",
+      "rationale": "Leopard rendered as spotted-lion, a descriptive coinage; Bambara lacks a distinct common leopard word."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כבשׂ",
+      "rationale": "כבש is a ram, not a lamb; sagaden (lamb) follows the familiar sense most readers expect."
+    }
+  ],
+  "translation": "Wulu-wɛrɛ bɛna sigi sagaden nɔ na, waraba-tilen bɛna sigi baden nɔ la, misiden ni warabaden ni misikɔrɔ bɛna to cogo kelen na, den fitinin bɛ u ɲɛmɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/11\/5-8.1791933610508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "bɛna sigi"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "wulu-wɛrɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nɔ na"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "sagaden"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "waraba-tilen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nɔ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "baden"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "bɛna sigi"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "misiden"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "warabaden"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "misikɔrɔ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "cogo kelen na"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "den"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "fitinin"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "bɛ ɲɛmɛ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-10-13T23:20:10.512833625Z",
+  "model": "glm-5.3"
+}

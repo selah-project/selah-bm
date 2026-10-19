@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tulu la",
+      "rationale": "משח is to anoint with oil; Bambara has no single verb, so 'put oil on'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "so",
+      "rationale": "בית יהודה is the house\/dynasty of Judah, rendered Yehuda so"
+    }
+  ],
+  "translation": "Yehuda mɔgɔw nana, u ye ⟨את⟩ Dawuda tulu la yen ka kɛ masakɛ ye Yehuda so kan. U ye fɔ Dawuda ye ko: Yabesh (Yabesi) Gilad mɔgɔw de ye ⟨את⟩ Shaul (Sawulu) samiya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0e905cb85735a5fa2fc556902924befdced506971f552e9d777a60e5b71eab24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/2\/1-4.1791930908271.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "nana"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "u ye ... tulu la"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛ ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "u ye fɔ ... ye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuda ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de ye"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "samiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-10-13T22:35:08.273853553Z",
+  "model": "glm-5.3"
+}

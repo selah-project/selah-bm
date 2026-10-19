@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 19:28",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ye kuma jugu fɔ",
+      "rationale": "וירגל root: 'to go about as a spy' → 'to slander'; rendered 'ka kuma jugu fɔ … kan'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ne ka",
+      "gloss": "",
+      "rationale": "ואדני: possessive 'ne ka' farala a kan Bamanankan na, Heburukan ma min fɔ"
+    },
+    {
+      "kind": "you",
+      "subject": "masakɛ",
+      "rationale": "Mefiboshet bɛ masakɛ wele ka a laselena ko ka fɛn nyi kɛ"
+    }
+  ],
+  "translation": "A ye kuma jugu fɔ ne ka baarabaga kan Matigi masakɛ ma; nka ne ka Matigi masakɛ bɛ Elohim ciden i n'a fɔ: i kɛ fɛn min nyi i ɲɛnanw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a04090180452e9e676c5c8a3f9dd5332609c8f0a843ec820c38322b91863ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/19\/25-28.1791931485378.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירגל",
+      "gloss": "ye kuma jugu fɔ … kan"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "ne ka baarabaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Matigi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "ne ka Matigi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "ciden i n'a fɔ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i kɛ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "fɛn min nyi"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i ɲɛnanw la"
+    }
+  ],
+  "timestamp": "2026-10-13T22:44:45.380808824Z",
+  "model": "glm-5.3"
+}

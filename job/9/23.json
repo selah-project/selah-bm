@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 9:23",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למסת",
+      "rationale": "'trial\/testing' — KJV 'trial', JPS 'calamity', BSB 'despair'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛtigiw",
+      "rationale": "נקים 'innocent' rendered with same word as תם — Hebrew has two distinct words"
+    }
+  ],
+  "translation": "Ni boli bɛ kumali kokura, a bɛ sɔngɔ kɛ tiɲɛtigiw ka sɛgɛsɛgɛli la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9b6f0e8d0542a14d9beb5e377d417d830099ae0a355d847623f42790cc606821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/9\/21-24.1791943477611.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "boli"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "bɛ kumali"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "kokura"
+    },
+    {
+      "surface": "למסת",
+      "gloss": "sɛgɛsɛgɛli"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "tiɲɛtigiw"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "bɛ sɔngɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:04:37.612336408Z",
+  "model": "glm-5.3"
+}

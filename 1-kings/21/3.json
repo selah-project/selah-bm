@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה",
+      "rationale": "Heburukan ka daɲɛ 'profaned thing' — Bamanankan bɛ fɔ 'a tɔgɔ tɛ kɛ Yawe fɛ ne ma', a kɔrɔ ka kelen ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nawayafalen",
+      "rationale": "נחלת אבות ye mɔgɔw ka denbaya-ko ye min bɛ todɔ faamaw fɛ; 'nawayafalen' dɔgɔya dɔɔni"
+    },
+    {
+      "kind": "you",
+      "subject": "Naboth ko Ahab ye",
+      "rationale": "Naboth bɛ Yawe tɔgɔ fɔ a ka banba masakɛ nɔ na, a bɛ kuma Ahab ma"
+    }
+  ],
+  "translation": "Naboth ye Ahab ko: “A tɔgɔ tɛ kɛ Yawe fɛ ne ma, ka n faamaw ka ⟨את⟩ nawayafalen di ⟨i ye⟩.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "33c669913880e9ad09da07871d95ada901b925d580c46b2086d5ec9036bc489b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/21\/2-3.1791950559785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboth"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye … ye"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "a tɔgɔ tɛ kɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yawe fɛ"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ka … di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n faamaw ka nawayafalen"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "nawayafalen"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "n faamaw"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-10-14T04:02:39.785861592Z",
+  "model": "glm-5.3"
+}

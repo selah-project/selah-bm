@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ka ɲɛda ɲɛsin",
+      "rationale": "חרש literal ye 'ka bin-kɔnɔ lajɛ' ye; a kɔrɔ ye 'ka ɲɛsin da \/ kuma kɛli tɛ'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאכל",
+      "rationale": "'tasuma bɛ dun' — Heburukan ka dun-kuma de; yeelen-saraka taasi bɛ nin na."
+    }
+  ],
+  "translation": "An ka Elohim bɛna na, kana ɲɛda ɲɛsin; tasuma bɛ a ɲɛma dun, a giliben bɛ jabi kosɛbɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/50\/1-4.1791940276382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "bɛna na"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ɲɛda ɲɛsin"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a ɲɛma"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dun"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "a giliben"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "jabi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:11:16.383371840Z",
+  "model": "glm-5.3"
+}

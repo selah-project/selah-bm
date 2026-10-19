@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלוך ילך \/ בוא יבוא",
+      "rationale": "infinitive-absolute doubling both at departure and at return: 'going he goes… coming he comes' — the frame of the verse, flattened in Bamanankan."
+    },
+    {
+      "kind": "crux",
+      "subject": "משך הזרע",
+      "rationale": "'the measure\/draw-bag of seed' (KJV 'precious seed', JPS 'measure of seed'); the literal picture is a container of seed carried out to sow."
+    },
+    {
+      "kind": "substitution",
+      "subject": "banjɔ dondɔli",
+      "rationale": "רינה is a loud shrill shout of joy, rendered as 'joy-shout' to keep the volume."
+    }
+  ],
+  "translation": "Min bɛ taarena taa ka gɔnsɔ, ka mɛshɛkɛ — o kisɛ — a bolo; a bɛna na dɔgɔya ka banjɔ dondɔli kɛ, ka a disow mini a bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1463c9e58546f1aba4e5cd25b89439d43fbe2911171d2f9ada8db4f54e962d30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/126\/5-6.1791941749268.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הָלוֹךְ",
+      "gloss": "taarena"
+    },
+    {
+      "surface": "יֵלֵךְ",
+      "gloss": "taa"
+    },
+    {
+      "surface": "וּבָכֹה",
+      "gloss": "ka gɔnsɔ"
+    },
+    {
+      "surface": "נֹשֵׂא",
+      "gloss": "ka … mini a bolo"
+    },
+    {
+      "surface": "מֶשֶׁךְ",
+      "gloss": "mɛshɛkɛ (lasigira-minɛ)"
+    },
+    {
+      "surface": "הַזָּרַע",
+      "gloss": "kisɛ"
+    },
+    {
+      "surface": "בֹּא",
+      "gloss": "na (lasigira)"
+    },
+    {
+      "surface": "יָבוֹא",
+      "gloss": "bɛna na"
+    },
+    {
+      "surface": "בְּרִנָּה",
+      "gloss": "ka banjɔ dondɔli kɛ"
+    },
+    {
+      "surface": "נֹשֵׂא",
+      "gloss": "ka … mini"
+    },
+    {
+      "surface": "אֲלֻמֹּתָיו",
+      "gloss": "a disow"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:49.269551366Z",
+  "model": "glm-5.3"
+}

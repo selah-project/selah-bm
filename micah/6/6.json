@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 6:6",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "n",
+      "rationale": "Hebrew first-person imperfect carries the pronoun in the verb; Bambara needs overt 'n'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בני שנה",
+      "rationale": "lit. 'sons of a year' = one-year-old calves; rendered descriptively"
+    }
+  ],
+  "translation": "N bɛ na ni mun ye Yawe ɲɛfɛ? N bɛ kunbɔ mun na ka gɛnɛ Ala sanfɛla nɔ? N bɛna a ɲɛfɛ ni sarakayeelenw ye, misiw minnu bɛ san kelen na?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dc496f949c71ee693c20fa9167001a0e4d13552e18c0a3a5077de089ee6d3871",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/6\/5-8.1791938943317.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "ni mun ye"
+    },
+    {
+      "surface": "אקדם",
+      "gloss": "n bɛ na … Yawe ɲɛfɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "n bɛ kunbɔ … ka gɛnɛ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sanfɛla"
+    },
+    {
+      "surface": "האקדמנו",
+      "gloss": "n bɛna a ɲɛfɛ"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "sarakayeelenw"
+    },
+    {
+      "surface": "בעגלים",
+      "gloss": "misiw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "minnu bɛ … na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san kelen"
+    }
+  ],
+  "timestamp": "2026-10-14T00:49:03.317840203Z",
+  "model": "glm-5.3"
+}

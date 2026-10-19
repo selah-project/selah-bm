@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bamanankan bɛ «to be» daɲɛw de daji, Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "saraka",
+      "rationale": "לעלה ye saraka min bɛ tugu sanfɛ ye (holocaust), a dogoya kɛra saraka ye"
+    }
+  ],
+  "translation": "Dawid ko: Nin de ye Yawe Elohim ka so ye, nini de ye Israyɛl ka saraka-bɔlan ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "180f9f809dde6603bfc8483960c2561f945190e3307a797ad80ddafa320f6270",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/22\/1-4.1791948310635.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "de"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarakabɔlan"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "saraka"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israyɛl ma"
+    }
+  ],
+  "timestamp": "2026-10-14T03:25:10.636074416Z",
+  "model": "glm-5.3"
+}

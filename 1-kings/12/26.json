@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "a dusukun kɔnɔ",
+      "rationale": "Jeroboam's hidden deliberation, spoken only in his heart"
+    },
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Bambara requires a pronoun object before Dawuda so ma; Hebrew has none"
+    }
+  ],
+  "translation": "Yarabɛam ye a dusukun kɔnɔ ko: sisan masaya bɛna a segin ⟨e⟩ Dawuda so ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c0ff6b2a3315af840b7a0e5ac52824fcedeae5edfc2ed721f65307826d803bc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/12\/25-28.1791932135223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ye … ko"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarabɛam"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "a dusukun kɔnɔ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "bɛna a segin"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "masaya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "so ma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    }
+  ],
+  "timestamp": "2026-10-13T22:55:35.226484984Z",
+  "model": "glm-5.3"
+}

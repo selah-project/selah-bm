@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Bambara possessive link required between 'siyaw' and 'laadili'; Hebrew construct is bound with no separate word."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "laadili \/ hakilijagow",
+      "rationale": "Parallel pair: counsel (עצה) against thoughts\/devices (מחשבות), nations (גוים) against peoples (עמים) — a chiastic mirror of v.11."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛ bɔ",
+      "rationale": "הפיר literally 'he crushed\/broke'; rendered as 'brought to nothing', matching the crushing image."
+    }
+  ],
+  "translation": "Yawe ye ⟨את⟩ siyaw ka laadili tiɲɛ bɔ; a ye mɔgɔw ka hakilijagow jɔsi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ed9965a5d83829cfc49de9b122799c6d8ef7eb56fed7835fbe3aaf36528a49b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/33\/9-10.1791951146713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "tiɲɛ bɔ"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "laadili"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "jɔsi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "hakilijagow"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:26.713795306Z",
+  "model": "glm-5.3"
+}

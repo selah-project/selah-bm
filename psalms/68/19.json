@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבית שבי",
+      "rationale": "'you-captive captivity' — infinitive plus noun of same root, kept as minɛ minɛya."
+    },
+    {
+      "kind": "crux",
+      "subject": "מתנות באדם",
+      "rationale": "'received gifts among men' vs later tradition 'gave gifts to men' — the Hebrew verb is take."
+    },
+    {
+      "kind": "addition",
+      "subject": "yen",
+      "rationale": "Hebrew has no locative 'there'; supplied for the dwelling clause."
+    }
+  ],
+  "translation": "I nɔgɔya sanfɛ, i minɛ minɛya; i ta sanonyaw hadamadenw la, hali banbaliyaw fana, walasa Ya Elohim ka sigi ⟨yen⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/68\/17-20.1791940613337.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "i nɔgɔya"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "i minɛ"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "minɛya"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "i ta"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "sanonyaw"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "hadamadenw la"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "hali … fana"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "banbaliyaw"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ka sigi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T01:16:53.338067616Z",
+  "model": "glm-5.3"
+}

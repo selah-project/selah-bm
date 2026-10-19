@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kɔpi",
+      "rationale": "משנה 'duplicate': copy of the Torah vs repetition\/second reading of it"
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "subject pronoun 'a' (Yehoshua) supplied from context"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Tora sɛbɛn",
+      "rationale": "inscription of the law on stones — a writing-act recorded by content"
+    }
+  ],
+  "translation": "A ye sɛbɛn yen kabakurunw kan, ⟨את⟩ Moshe Tora ka kɔpi, min sɛbɛnna Isirayel denw ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a742c87f0f58e19579e8483de720a12dad48ab5711b73c26c25a2d2619b99ac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/8\/29-32.1791928746933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kabakurunw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora ka kɔpi"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kɔpi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayel"
+    }
+  ],
+  "timestamp": "2026-10-13T21:59:06.939444345Z",
+  "model": "glm-5.3"
+}

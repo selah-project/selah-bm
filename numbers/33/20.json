@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "פרץ",
+      "rationale": "Tɔgɔ kelen Rimon-Perets dɔrɔn de ye; a tɛ lasɔrɔ si tɛmɛ a nɔ na"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Nɔnabila minnu bɛ kuma kumasen in kɔnɔ, u bɛ tia mɔgɔ minnu bɛ yɛlɛma kɔrɔdɔrɔ la"
+    }
+  ],
+  "translation": "U bɔra Rimon-Perets na, u y'u so-da Libna (Libina) la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4a4b79bc7e56b1feebebd667d7f22fdeafdc5e812e74a19f11c8aaf2828a9e95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/33\/17-20.1791927344941.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "u bɔra"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "Rimon-Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": ""
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "u y'u so-da"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "Libna (Libina) la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:35:44.942434901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 11:32",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nka",
+      "rationale": "Hebrew opens with waw on 'the one tribe'; Bambara needs the contrastive 'nka' to mark the exception."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kabilu kelen",
+      "rationale": "One tribe remains — the count continues: twelve minus ten."
+    }
+  ],
+  "translation": "Nka kabilu kelen bɛna to a la, ne dɛnbaga Dawuda (Dawuda) kama, ani Yerushalayim dugu kama, min ne y'a la Isirayɛlɛn kabiluw bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "094791c3ee33d9a485b7998621e338ad3efa91490159d57c225f7fe932792c01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/11\/29-32.1791932144037.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשבט",
+      "gloss": "kabilu kelen … nka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛna to"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ne dɛnbaga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ani … kama"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ne y'a la"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kabiluw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛlɛn"
+    }
+  ],
+  "timestamp": "2026-10-13T22:55:44.044229019Z",
+  "model": "glm-5.3"
+}

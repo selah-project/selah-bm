@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 18:3",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yehoshafat",
+      "rationale": "Ahab's direct question addresses the king of Judah personally"
+    },
+    {
+      "kind": "substitution",
+      "subject": "danw na",
+      "rationale": "bamilkhamah is 'in the battle\/war'; Bambara renders 'at the war-front' (danw)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kamoni\/kamokh",
+      "rationale": "mirror symmetry 'as I…as you…your people…my people' kept by paired ne\/i and i ka\/ne ka constructions"
+    }
+  ],
+  "translation": "Ahab, Isirayɛl masakɛ, ko Yehoshafat, Yuda masakɛ ma ko: “I bɛ na ni ne ye taa Ramot Gil'ad wa?” A ye a ye ko: “Ne bɛ i ye, i ka jama de ye ne ka jama ye, an bɛ bɔ i ye danw na.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2c2d761bb9e2a0804c12ef98992ba61f43b54c578b4ead2620dcce9be90f42a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/18\/1-4.1791949168798.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "i bɛ na … taa … wa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ni ne ye"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ye a ye ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(a ye)"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ne bɛ i ye"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "(i bɛ ne ye)"
+    },
+    {
+      "surface": "וכעמך",
+      "gloss": "i ka jama"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne ka jama"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "an bɛ bɔ i ye"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "danw na"
+    }
+  ],
+  "timestamp": "2026-10-14T03:39:28.799593659Z",
+  "model": "glm-5.3"
+}

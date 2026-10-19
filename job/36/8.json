@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 36:8",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "fitinya siraw",
+      "rationale": "חבלי עני 'cords of affliction' is a bound construct; rendered as possessed rope-of-misery, image kept literal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲɛgɛncɛ",
+      "rationale": "אסורים literally 'yoked\/hitched'; Bambara uses 'chained\/fettered' for the same picture"
+    }
+  ],
+  "translation": "Ni u bɛ nɛgɛda la minnu ɲɛgɛncɛ, u bɛn minɛ fitinya siraw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/36\/5-8.1791944183364.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "u bɛ … ɲɛgɛncɛ"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "nɛgɛda la"
+    },
+    {
+      "surface": "ילכדון",
+      "gloss": "u bɛn minɛ"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "siraw la"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fitinya"
+    }
+  ],
+  "timestamp": "2026-10-14T02:16:23.375997799Z",
+  "model": "glm-5.3"
+}

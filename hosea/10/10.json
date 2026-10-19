@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 10:10",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשתי עינתם",
+      "rationale": "Crux: KJV 'two transgressions' (עון dual), Geneva 'two furrows', JPS 'two rings' (yoke rings); the yoking image of באסרם pulls toward the harness readings."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואסרם \/ באסרם",
+      "rationale": "Root אסר (bind) repeats: YHWH binds them, and when bound, peoples are gathered — punishment mirrors the binding."
+    }
+  ],
+  "translation": "N kanuya bɛ a fɛ la, n bɛ u boŋi; siyaw bɛna lajɛ u kan, ni u boŋira i ye u jurumu fila ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e9c9e30ec700d137bf78e3916f6cabfe8bac0c0d08704c046b6f7e6b04081556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/10\/9-12.1791938287859.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באותי",
+      "gloss": "n kanuya bɛ a fɛ la"
+    },
+    {
+      "surface": "ואסרם",
+      "gloss": "n bɛ u boŋi"
+    },
+    {
+      "surface": "ואספו",
+      "gloss": "bɛna lajɛ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "באסרם",
+      "gloss": "ni u boŋira"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "fila"
+    },
+    {
+      "surface": "עינתם",
+      "gloss": "u jurumu"
+    }
+  ],
+  "timestamp": "2026-10-14T00:38:07.860575931Z",
+  "model": "glm-5.3"
+}

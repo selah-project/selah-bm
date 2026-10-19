@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ההצל הצילו",
+      "rationale": "Infinitive-absolute before the verb intensifies: 'snatching, they snatched away' — one Hebrew verb root twice, Bambara uses one verb with a question wrapper."
+    },
+    {
+      "kind": "you",
+      "subject": "Rabsheke ka kuma",
+      "rationale": "Rhetorical question addressed directly to the people on the wall of Yerushalayim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "batofɛnw",
+      "rationale": "אלהי here are the nations' gods, not Elohim the Name; rendered with the ordinary-noun form per discipline."
+    }
+  ],
+  "translation": "Yala siyaw ka batofɛn si y'a yɛrɛ ka ⟨את⟩ dugukolo nasara kɛ bɔ Ashur (Assur) masakɛ bolo ma wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3d23a64626d02cac9213193d2c15c2bb7f1ca4715926b0e58930860abc9bc619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/18\/33-36.1791933094558.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "yala…nasara"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "u nasara"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "batofɛnw"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dɔ kelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "a dugukolo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-10-13T23:11:34.561725805Z",
+  "model": "glm-5.3"
+}

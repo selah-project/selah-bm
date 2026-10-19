@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Psalmist addresses God directly as 'your servant' in petition."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɛ fɛn nyuman ye",
+      "rationale": "גמול means to deal with or requite a person (well or ill); rendered as 'deal well' after the tradition, though the verb itself is neutral."
+    }
+  ],
+  "translation": "Kɛ fɛn nyuman ye ne ye, i ka sarakabaga la, walasa ne bɛna balo, k'a sɔrɔ ne bɛna i ka kuma kɔlɔsi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/17-20.1791941569675.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גמול",
+      "gloss": "kɛ fɛn nyuman ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i ka sarakabaga"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "walasa ne bɛna balo"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ne bɛna … kɔlɔsi"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "i ka kuma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:49.675719886Z",
+  "model": "glm-5.3"
+}

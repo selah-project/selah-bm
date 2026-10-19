@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jan",
+      "rationale": "כנף ye jigi-bolan-bolo ye (wing); n'in b'a fɔ muso kunu kama, a kɔrɔ ye sɔgɔsɔgɔ-kunu ye, o de tiɲɛna n'a jira"
+    },
+    {
+      "kind": "idiom",
+      "subject": "a fa jan fila",
+      "rationale": "Heburu ka 'uncover the skirt\/wing' ye kumu-da; a fɔcogo jɛlen: a kɔgɔji-bolo tigɛ"
+    },
+    {
+      "kind": "you",
+      "subject": "Israɛl",
+      "rationale": "sariya in bɛ Wele Israɛl jama ma"
+    }
+  ],
+  "translation": "Cɛ si tɛ ta ⟨את⟩ a fa muso, a tɛ na a fa jan fila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eb4129bc2faeda18b5719cfc8cacc7f6a8d82ee068b1a311486b76b946c1cbea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/23\/1-4.1791928165293.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fa muso"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "muso"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a tɛ"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "na … fila"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "jan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a fa"
+    }
+  ],
+  "timestamp": "2026-10-13T21:49:25.294715866Z",
+  "model": "glm-5.3"
+}

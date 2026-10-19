@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "bin magara \/ pɛrɛn bɔra",
+      "rationale": "tɛmɛsira in tugu kokura (40:7) ka kɔrɔda jira: fɛn filanan in — kuma — bɛ taa wolofo ko bɛɛ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jɔ",
+      "rationale": "יקום ye 'ka jɔ \/ ka jɔ ka ban na' kɔrɔ ye — a tɛ 'ka to yen' dɔrɔn de ye"
+    }
+  ],
+  "translation": "Bin bɛ maga, pɛrɛn bɛ bɔ, nka an ka Elohim ka kuma bɛna jɔ alebɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6fcc208743decc3140d1260eb85437c22225a93de2dd79e157c63063b1557359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/40\/5-8.1791934271603.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "bɛ maga"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "bɛ bɔ"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "pɛrɛn"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "nka ... kuma"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "bɛna jɔ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "alebɛn"
+    }
+  ],
+  "timestamp": "2026-10-13T23:31:11.605225552Z",
+  "model": "glm-5.3"
+}

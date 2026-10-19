@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 10:19",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hɛrɛ sigi",
+      "rationale": "וישלמו is from שלם (shalom): 'made peace'; rendered 'hɛrɛ sigi' (establish peace)."
+    },
+    {
+      "kind": "crux",
+      "subject": "את ישראל",
+      "rationale": "This את is the preposition 'with' (lemma nearness), not the direct-object marker; rendered as ⟨את⟩ per convention but reads 'peace WITH Israel'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dɛmɛ",
+      "rationale": "להושיע is 'to save\/bring victory'; rendered 'dɛmɛ' (help), the natural Bambara collocation for military aid."
+    }
+  ],
+  "translation": "Masakɛw bɛɛ minnu tun ye Hadadezer ka baarakɛlaw ye, u y'u yɛrɛ ye ko u majigi Israyel ɲɛ, u ye hɛrɛ sigi ni ⟨את⟩ Israyel ye, u ye baara kɛ u ye. Aramw sirannen don ko kana Amon ⟨את⟩ denw dɛmɛ tugun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "40c92e762f31e5b1b81e82a7dadafb5ee8dbffbfc1c20029c7d0042e4e74fa3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/10\/17-19.1791931155223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "baarakɛlaw"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "majigi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "וישלמו",
+      "gloss": "hɛrɛ sigi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "baara kɛ u ye"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "sirannen don"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramw"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "dɛmɛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tugun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amon denw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-10-13T22:39:15.225977514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מן",
+      "rationale": "manna named from the question 'man hu?' — 'what is it?', kept as 'manna (man)'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ענתך",
+      "rationale": "'afflict\/humble you' — KJV 'humble thee' vs JPS 'afflict thee'; rendered 'k'a nɔgɔya' (humble)"
+    }
+  ],
+  "translation": "min b'a dun manna (man) kunbɔngɛ kɔnɔ, min ma a baw dɔn, walasa k'a nɔgɔya, ani walasa k'a ɲini, walasa k'a diya kɛ a laban na —",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dd6fbb2a5ed679a18fc009a8b9828b2fe39d80c1b2a6f547c759f1104f1e8e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/8\/13-16.1791927695526.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "min b'a dun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kunbɔngɛ kɔnɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "a baw"
+    },
+    {
+      "surface": "למען",
+      "gloss": "walasa"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "k'a nɔgɔya"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ani walasa"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "k'a ɲini"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "k'a diya kɛ"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "a laban na"
+    }
+  ],
+  "timestamp": "2026-10-13T21:41:35.535291385Z",
+  "model": "glm-5.3"
+}

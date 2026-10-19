@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 21:2",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tɔgɔ lisi",
+      "rationale": "Six brothers named in a list — a name census framing the succession"
+    },
+    {
+      "kind": "crux",
+      "subject": "Isirayɛl masakɛ",
+      "rationale": "Text says 'king of Israel' though Jehoshaphat ruled Judah; some versions (LXX, Wycliffe) read 'Judah'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "gloss": "Bambara past marker supplied; Hebrew wayyiqtol carries the tense"
+    }
+  ],
+  "translation": "A tun ye balimamaw, Yehoshafat denw: Azarya, Yihiel, Zekharyahu, Azaryahu, Mikael, ani Shefatyahu; nin bɛɛ ye Yehoshafat, Isirayɛl masakɛ, denw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/21\/1-4.1791949318081.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "a tun ye"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "balimamaw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "Yihiel"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "Zekharyahu"
+    },
+    {
+      "surface": "ועזריהו",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "ומיכאל",
+      "gloss": "Mikael"
+    },
+    {
+      "surface": "ושפטיהו",
+      "gloss": "Shefatyahu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    }
+  ],
+  "timestamp": "2026-10-14T03:41:58.083046589Z",
+  "model": "glm-5.3"
+}

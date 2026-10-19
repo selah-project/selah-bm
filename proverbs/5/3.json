@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נפת\/תטפנה",
+      "rationale": "Honey (nofet) and drip (titofnah) share the root נטף — the verse drips with the sound; lost in Bambara."
+    },
+    {
+      "kind": "crux",
+      "subject": "zara",
+      "rationale": "זרה: 'strange\/foreign woman' vs 'adulteress' — rendered 'je-musu' (stranger-woman), keeping the word's shape."
+    },
+    {
+      "kind": "substitution",
+      "subject": "da (mouth)",
+      "rationale": "חך is the palate\/inside of the mouth, not the mouth opening; Bambara 'da' covers both."
+    }
+  ],
+  "translation": "sabu je-musu ka dabolow bɛ di tasama, ani a ka da nɔgɔya ka tlu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b1e6ea5b569940579bb87cb85b03bae997f4e737367cd044479011bfb1390459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/5\/1-4.1791942215548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "di"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "bɛ tasama"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dabolow"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "je-musu"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "ani nɔgɔya"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "tlu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "a ka da"
+    }
+  ],
+  "timestamp": "2026-10-14T01:43:35.549705095Z",
+  "model": "glm-5.3"
+}

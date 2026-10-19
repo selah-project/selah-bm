@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 45:16",
+  "book": "genesis",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וייטב בעיני",
+      "rationale": "Hebrew idiom 'good in the eyes of', rendered as 'pleasing' with ɲɛ (eye) kept literally."
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Bamanankan past marker added; Hebrew vav-consecutive carries the tense."
+    },
+    {
+      "kind": "addition",
+      "subject": "a ka",
+      "rationale": "Pronominal possessor supplied for 'his servants', Hebrew suffix יו does this work."
+    }
+  ],
+  "translation": "Kuma in tun mɛnna Paroh (Farawo) ka so kɔnɔ, ko: Yosefu ka balimaw na! Kuma in ye ko tiɲɛ ye Paroh ɲɛ na ani a ka seriw ɲɛ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e7da316177ab5ce29910ba0cdacfd69174737ba684028d500ce8a33ca848d938",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/genesis\/45\/16-16.1791950004244.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקל",
+      "gloss": "kuma in"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "mɛnna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "באו",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "balimaw"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ye ko tiɲɛ ye"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ɲɛ na"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ani … ɲɛ na"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a ka seriw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:53:24.245481014Z",
+  "model": "glm-5.3"
+}

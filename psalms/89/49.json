@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ninilen don, a tɛ 'soul' yɛrɛ ye — ni\/balo ye a kɔrɔ laseli ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "sɛbɛnni-ka-dɔgɔya taamasiyɛn, a tɛ bayɛlɛma"
+    },
+    {
+      "kind": "you",
+      "subject": "dɔnniyakɔrɔta kɛrɛfɛ",
+      "rationale": "ɲininkali min bɛ kalanbagaw bila ɲɛfɛ — mɔgɔ si tɛ se ka balo ka tɛ sa"
+    },
+    {
+      "kind": "mystery",
+      "subject": "saya",
+      "rationale": "ɲininkali in bɛ ɲɛfɔ — mɔgɔ si tɛ se ka Sheol bolo filisili"
+    }
+  ],
+  "translation": "Mɔgɔ jumɛ don min bɛ balo, a ma ye ⟨saya⟩ ye? A bɛ se ka a ka ni filisu Sheol bolo ma? Selah.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e3f51ecf2da9f0eb77773a7dae2e3cc21d1992659dc20733ce0fddece9ea6211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/89\/49-52.1791941050184.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "jumɛ don"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "bɛ balo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מות",
+      "gloss": "saya"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "filisu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ka ni"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:10.184857688Z",
+  "model": "glm-5.3"
+}

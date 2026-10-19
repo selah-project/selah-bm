@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מזח",
+      "gloss": "kangada",
+      "rationale": "rare word for a belt; rendered kangada (ta-thing), a plain Bambara belt word"
+    },
+    {
+      "kind": "addition",
+      "subject": "tuma bɛɛ",
+      "rationale": "תמיד 'continually' rendered as the time-phrase tuma bɛɛ"
+    }
+  ],
+  "translation": "O kana kɛ a ye ka bɛgɛ ye min bɛ a bini, ani ka kangada ye min bɛ a kanga tuma bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/109\/17-20.1791941452143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "kana kɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "ka bɛgɛ ye"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "min bɛ a bini"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "ka kangada ye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tuma bɛɛ"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "min bɛ a kanga"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:52.144415446Z",
+  "model": "glm-5.3"
+}

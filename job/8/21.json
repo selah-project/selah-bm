@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 8:21",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew verb ימלה lacks explicit subject; context (v.20 Elohim) supplied in brackets"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עד",
+      "rationale": "'fo' takes 'until'; ASV\/BSB read 'he will yet fill' — yalta takes עד as future marker rather than limit"
+    }
+  ],
+  "translation": "Fo ⟨a⟩ bɛna i da lamɛn ni ye ye, ani i feminen ni kando ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c81419a499af4329b2e6b7759862f466ec7fe1caa44cabfef8eee439013d20b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/8\/21-22.1791943291605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "ימלה",
+      "gloss": "bɛna … lamɛn"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "ye"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "i da"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ani i feminen"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "kando"
+    }
+  ],
+  "timestamp": "2026-10-14T02:01:31.606089133Z",
+  "model": "glm-5.3"
+}

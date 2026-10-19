@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a baloya",
+      "rationale": "נבלותה is her disgrace, literally the shameful body-part exposed; Bambara 'her shamefulness' keeps the disgrace, drops the anatomical literalism."
+    },
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "'no man' — ואיש לא rendered with Bambara universal-negative 'mɔgɔ si', supplied to carry the absolute negation."
+    }
+  ],
+  "translation": "Sisan fana, ne bɛna ⟨את⟩ a baloya jira a kanuyabagaw ɲɛw la; mɔgɔ si tɛna a lasa ne ka bolo na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a5b9ecf0a915385564d2ff1a1d95e85d132ef0aabaf0a3ba46b7c5c8bc9857d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/2\/9-12.1791938157690.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sisan fana"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ne bɛna … jira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a baloya"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "a baloya"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ɲɛw la"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "a kanuyabagaw"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mɔgɔ si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "a lasa"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ne ka bolo na"
+    }
+  ],
+  "timestamp": "2026-10-14T00:35:57.692201469Z",
+  "model": "glm-5.3"
+}

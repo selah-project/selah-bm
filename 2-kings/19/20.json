@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 19:20",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ciden",
+      "rationale": "'Sent a messenger' — verb שלח needs an object noun in Bambara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ma jalaki",
+      "rationale": "התפללת rendered as 'prayed to me'; Hebrew hitpalel is reflexive-intensitive of judge\/intercede"
+    }
+  ],
+  "translation": "Yeshaayahu (Isaya), Amots denkɛ, ye ciden ci Khizkiyahu (Ezekiya) ma, a ko: Yawe, Israyel ka Ala, o ko cogo min na: i min ma jalaki ne la, Sanxeribu, Ashur masakɛ, kan na — ne mɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a1fec169dc978f33dfee8ceead9ce6e58419f54d30237224155216646c196cc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/19\/17-20.1791933192948.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ye ciden ci"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaayahu (Isaya)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu (Ezekiya)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ka Ala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "התפללת",
+      "gloss": "ma jalaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan na"
+    },
+    {
+      "surface": "סנחרב",
+      "gloss": "Sanxeribu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ne mɛn"
+    }
+  ],
+  "timestamp": "2026-10-13T23:13:12.962815953Z",
+  "model": "glm-5.3"
+}

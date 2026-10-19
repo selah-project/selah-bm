@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דשנת",
+      "rationale": "daɲɛ in kɔrɔ ye 'kɔgɔ joliya \/ son' ye; an ye tulu-buggi ta i n'a fɔ a jɔcogo ye"
+    },
+    {
+      "kind": "alternative",
+      "subject": "רויה",
+      "rationale": "a bɛ se ka kɛ 'kasa minɛn kunbɛn' ye walima 'kunbɛn-ko'; 'a bugɔra' ye nɔgɔya-cogo dɔrɔn"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "kumasen in bɛ Yawe wele dira — 'i' taabali, 'i' tulu; tɔgɔ ma sɛbɛn yen"
+    }
+  ],
+  "translation": "I ye tabli bila n ɲɛdanan na, n jaw tilenw ɲɛfɛ; i ye n kun buggi ni tulu ye; n kasa bugɔra.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/23\/5-6.1791939853662.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תַּעֲרֹ֬ךְ",
+      "gloss": "i ye … bila"
+    },
+    {
+      "surface": "לְפָנַ֨י",
+      "gloss": "n ɲɛdanan na"
+    },
+    {
+      "surface": "שֻׁלְחָ֗ן",
+      "gloss": "tabli"
+    },
+    {
+      "surface": "נֶ֥גֶד",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "צֹרְרָ֑י",
+      "gloss": "n jaw tilenw"
+    },
+    {
+      "surface": "דִּשַּׁ֖נְתָּ",
+      "gloss": "i ye n buggi"
+    },
+    {
+      "surface": "בַּשֶּׁ֥מֶן",
+      "gloss": "ni tulu ye"
+    },
+    {
+      "surface": "רֹ֝אשִׁ֗י",
+      "gloss": "n kun"
+    },
+    {
+      "surface": "כּוֹסִ֥י",
+      "gloss": "n kasa"
+    },
+    {
+      "surface": "רְוָיָֽה",
+      "gloss": "a bugɔra"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:13.663397403Z",
+  "model": "glm-5.3"
+}

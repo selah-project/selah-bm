@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 50:19",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered 'ni' (life\/soul); 'a ni bɛna balo ka ban' = his life will graze to fullness."
+    },
+    {
+      "kind": "alternative",
+      "subject": "נוהו",
+      "rationale": "'Pasture\/habitation' — נוה can be dwelling or pasture; I chose nakɔ (pasture) to match the flock metaphor."
+    }
+  ],
+  "translation": "Ne bɛna ⟨את⟩ Yisraɛl segin a nakɔ la; a bɛna Karmel (Karmɛl) ni Bashan ɣɛn, a ni bɛna balo ka ban Efrayim kuluw ani Gilad (Gilada) kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "08d29edd99006fd870efea385a8e3beff0458c5b1bf363ca6811b531ecce6b32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/50\/17-20.1791936386300.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבבתי",
+      "gloss": "Ne bɛna … segin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "a nakɔ la"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "a bɛna … ɣɛn"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "kuluw … kan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "balo ka ban"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ni"
+    }
+  ],
+  "timestamp": "2026-10-14T00:06:26.301415108Z",
+  "model": "glm-5.3"
+}

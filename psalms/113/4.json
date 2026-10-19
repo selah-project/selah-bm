@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jamu",
+      "rationale": "כבוד kɔrɔ ka ɲɛ 'jate \/ lasɔrɔ (kɛgɛ)', n'o bayɛlɛmara 'jamu' (tɔgɔ-bonya) la"
+    },
+    {
+      "kind": "addition",
+      "subject": "a ka",
+      "rationale": "Nɔnabila farala כבודו kan walasa a ka ɲɛ Bamanankan kancogo na"
+    }
+  ],
+  "translation": "Yawe ka min siya bɛɛ sanfɛ, a ka jamu ka min sankolow sanfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/113\/1-4.1791941405697.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "ka min"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "a ka jamu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:05.698515532Z",
+  "model": "glm-5.3"
+}

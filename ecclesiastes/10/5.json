@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yen",
+      "rationale": "יֵשׁ is an existence-particle; Bamanankan needs 'yen' (there) to carry it"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Matigi",
+      "rationale": "הַשַּׁלִּיט is a human ruler here; 'Matigi' (master) kept rather than 'masakɛ' (king), since the word means potent one, not king"
+    }
+  ],
+  "translation": "Juguyaba dɔ ⟨yen⟩, min ne ye tile jukɔrɔ: a ye balo ye min bɛ bɔ Matigi ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0588a275be6adbfa70bbf9af9e0fa67a7805a40dccd6d1d0f66351098406449c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/10\/5-8.1791945256531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "yen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "juguyaba"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ne ye … ye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jukɔrɔ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "i n'a fɔ balo"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "min bɛ bɔ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "Matigi"
+    }
+  ],
+  "timestamp": "2026-10-14T02:34:16.531923996Z",
+  "model": "glm-5.3"
+}

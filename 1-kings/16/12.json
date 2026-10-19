@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל בעשא",
+      "rationale": "Heburukan fɔcogo 'kuma fɔ ... kan' — אל ye bɔko nɔnabila ye, a tɛ fɔ kɔɔrɔ lasɔɔrɔ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר \/ כדבר",
+      "rationale": "kuma-kelen-fɔli fila: 'i n'a fɔ kuma min ... kuma fɔ' — דבר fila fila kuntilen"
+    }
+  ],
+  "translation": "O cogo la Zimri ye ⟨את⟩ Bashan (Basha) so bɛɛ faa, i n'a fɔ Yawe kuma min tun ye kuma fɔ Bashan (Basha) kan Yehu (Yehu), nabi in bolo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/16\/9-12.1791932241760.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "a ye ... faa"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bashan so bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bashan (Basha)"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "i n'a fɔ ... kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma fɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(kan)"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo ye"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu (Yehu)"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    }
+  ],
+  "timestamp": "2026-10-13T22:57:21.769743041Z",
+  "model": "glm-5.3"
+}

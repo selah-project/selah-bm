@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "min bɔra ... la",
+      "rationale": "'who came from Yizreel' — relative clause Bamanankan requires to attach the place name"
+    },
+    {
+      "kind": "measurement",
+      "subject": "u fila bɛɛ",
+      "rationale": "counting of the two wives (שתיהן) kept explicitly"
+    }
+  ],
+  "translation": "Dawida (Dawuda) fana ye ⟨את⟩ Akinowamu (Akinowam) ta, min bɔra Yizreɛlu (Yizirelɛ) la, ka u fila bɛɛ kɛ a musow ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ac5aa83d3b07d9fe79349db40dfd048d111e23d086123d050fa0d3d94d23d111",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/25\/42-43.1791950326342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Akinowamu (Akinowam)"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Akinowamu (Akinowam)"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida (Dawuda)"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "Yizreɛlu (Yizirelɛ)"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "u fila bɛɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "musow ye"
+    }
+  ],
+  "timestamp": "2026-10-14T03:58:46.343479066Z",
+  "model": "glm-5.3"
+}

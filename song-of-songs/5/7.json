@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Hebrew verbs carry the subject; Bambara needs overt 'u' (they)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲɛdabolo",
+      "rationale": "רדיד (veil) coined as 'face-cover'; vocabulary table lacks it."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמרים \/ שמרי",
+      "rationale": "'watchmen ... keepers' from the same root שמר — repetition of the guarding root."
+    }
+  ],
+  "translation": "Dugu kɔlɔsibaga minnu bɛ tugu-dugu kɛ, u ye ne ye; u ye ne bugɔ, u ye ne jɔgɔ; bonya-marabaga ye ⟨את⟩ ne ka ɲɛdabolo ta ne kanna.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/5\/5-8.1791944589185.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "u ye ne ye"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "kɔlɔsibaga"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "minnu bɛ tugu-dugu kɛ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dugu kɔnɔ"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "u ye ne bugɔ"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "u ye ne jɔgɔ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "u ye ... ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka ɲɛdabolo"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "ne ka ɲɛdabolo"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ne kanna"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "marabaga"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "bonya"
+    }
+  ],
+  "timestamp": "2026-10-14T02:23:09.186950120Z",
+  "model": "glm-5.3"
+}

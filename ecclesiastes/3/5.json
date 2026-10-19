@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבנים…אבנים",
+      "rationale": "stone\/stone repetition frames the merism; Bambara keeps the repeated word"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כנוס",
+      "rationale": "'gather' (lajɛ) vs 'enfold' — the root can mean to collect into a bundle"
+    }
+  ],
+  "translation": "Waati ka kabakurunw bila, ani waati ka kabakurunw lajɛ; waati ka mara, ani waati ka toɔ mara la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "610a4c00af3d6d5621274ed8c4282f60a23fb5d5069a4d82e4b7e9d537c0e141",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/3\/5-8.1791945077332.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waati"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "bila"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kabakurunw"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ani waati"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "lajɛ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kabakurunw"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waati"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "mara"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ani waati"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "toɔ"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "mara"
+    }
+  ],
+  "timestamp": "2026-10-14T02:31:17.334993421Z",
+  "model": "glm-5.3"
+}

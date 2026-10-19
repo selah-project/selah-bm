@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלך לו",
+      "rationale": " 'it went its way' — the לו is idiomatic and untranslatable; rendered in the verb 'a taa la'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבר \/ חלף",
+      "rationale": " two near-synonym verbs of passing in parallel; Bambara repeats 'tɛmɛna' to keep the echo"
+    }
+  ],
+  "translation": "Sabu nin, sankɔrɔla tɛmɛna, sanji tɛmɛna, a taa la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ae860a8db01ef230bb30ebe299955dca02ac2a0697b3fab5d0cf832bc6dc85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/2\/9-12.1791944477816.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "sankɔrɔla"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tɛmɛna"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "sanji"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "tɛmɛna"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "taa"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-14T02:21:17.817591280Z",
+  "model": "glm-5.3"
+}

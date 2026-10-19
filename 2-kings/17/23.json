@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 17:23",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative particle absorbed into 'fo' clause, no separate rendering"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויגל",
+      "rationale": "root means 'uncover\/expose'; here 'carried into exile' — rendered bɔra\/k'un bila"
+    },
+    {
+      "kind": "crux",
+      "subject": "nabi",
+      "rationale": "הנביאים rendered nabi per discipline; printed Bambara Bible uses kira, forbidden here"
+    },
+    {
+      "kind": "measurement",
+      "subject": "fo ni bi ye",
+      "rationale": "'until this day' — dating formula fixing the exile as still current at writing time"
+    }
+  ],
+  "translation": "Fo Yawe ye Isirayeli bɔ a ɲɛdala, i n'a fɔ a ye kuma fɔ a bolo fɛ a ka sɔrɔdilenw — nabiw — bɛɛ fɛ; Isirayeli fana bɔra a ka dugukolo la k'un bila Ashuru (Asiri), fo ni bi ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cc1348da170b4db4434b0507138ddfc262b1bed3c7b5f87a0d2fffcc29cb6730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/17\/21-24.1791933041674.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ye … bɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isirayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "a ɲɛdala"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma fɔ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a bolo fɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a ka sɔrɔdilenw"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabiw"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "bɔra … k'un bila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "a ka dugukolo"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-10-13T23:10:41.681483188Z",
+  "model": "glm-5.3"
+}

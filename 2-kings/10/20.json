@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עצרה",
+      "rationale": "עצרה kɔrɔ ye mɔgɔlamɛni\/sabatubu jɛkulu ye; Bambara t'a la o daɲɛ dɔrɔn de ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "daɲɛ tobi kɔrɔfɔn fɔ",
+      "rationale": "Hebrew bɛ fɔ 'u ye a lamɛn' cogo tilennen na; Bambara nana ni kuma dɔw ye walasa k'a jira"
+    }
+  ],
+  "translation": "Yehu ko: aw ye Baal ka jɛkulu senumaya; u ye o daɲɛ tobi kɔrɔfɔn fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5580af0de05d8ee291a2c4de481d2fdd6403a012009a58abb0d0de12c7e193b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/10\/17-20.1791932746461.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "senumaya"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "jɛkulu"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "u ye o fɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:05:46.467434615Z",
+  "model": "glm-5.3"
+}

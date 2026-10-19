@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יוכיח",
+      "rationale": "'bɛ a fɔ a ma' (a ɲɛfɔ a ma k'a lagasiya) — יוכיח ye 'ka kuma kɛ a ko la walasa ka ɲɛ fɔ' ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "וכאב",
+      "rationale": "per-token data fana b'a fɔ 'fa' lemma la; sɛbɛnni kɔrɔ ye כְּאָב ye — 'i n'a fɔ fa ye'; a tɛ 'ka bɛnni' ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "aleph-tav fila bɛ yen; dɔw bɛ marks 'min Yawe bɛ kanuya', filanan bɛ marks 'denkɛ'"
+    }
+  ],
+  "translation": "Sabu ⟨את⟩ min Yawe bɛ kanuya, a bɛ a fɔ a ma — i n'a fɔ fa ye, ⟨את⟩ denkɛ min bɛ a la ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "407f9757ec90ce77b01a83000ae97b85b78c609abf54db0612421b4299a66069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/3\/12-12.1791951281700.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min Yawe bɛ kanuya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "bɛ kanuya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "bɛ a fɔ a ma"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "i n'a fɔ fa ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denkɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "bɛ a la ɲɛfɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:41.701055593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olu",
+      "rationale": "participle lacks explicit subject; supplied from the evil men of verse 12"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛ",
+      "rationale": "יֹשֶׁר is uprightness\/straightness; tiɲɛ renders the moral-true sense, the spatial 'straight' is lost"
+    }
+  ],
+  "translation": "Olu bɛ tiɲɛ siraw bɔ, ka taa dibi siraw kɔnɔ;",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "63fe996d07235417bd280007e301249c080a6e2a6fdc11c62a828a02ea2bd02c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/2\/13-16.1791942134000.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "olu bɛ ... bɔ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "siraw"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "siraw kɔnɔ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dibi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:42:14.000932415Z",
+  "model": "glm-5.3"
+}

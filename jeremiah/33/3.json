@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובצרות",
+      "rationale": "'inaccessible\/fortified' vs 'hidden' (JPS) vs 'difficult' (ASV); Bambara follows the inaccessible reading 'minnu bɛ se tɛ'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "wele",
+      "rationale": "direct imperative summoning the hearer to call"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "spoken to Yirmiyahu, the imprisoned prophet"
+    },
+    {
+      "kind": "mystery",
+      "subject": "fɛn minnu bɛ se tɛ",
+      "rationale": "things to be revealed that the hearer does not yet know"
+    }
+  ],
+  "translation": "Wele N ma, n bɛna i jaabi, ka fɔ i ye fɛn bɛrɛbɛrɛw ni fɛn minnu bɛ se tɛ, i man u dɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6e9424f2436b8af6f93f3e6d07be096fae60270eb6dc877ead7aedcccc63f7fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/33\/1-4.1791935892121.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "wele"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "N ma"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "n bɛna i jaabi"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "ka fɔ i ye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "fɛn bɛrɛbɛrɛw"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "fɛn minnu bɛ se tɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…tɛ"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "i man u dɔn"
+    }
+  ],
+  "timestamp": "2026-10-13T23:58:12.122545245Z",
+  "model": "glm-5.3"
+}

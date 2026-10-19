@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ye⟩ … ⟨ye⟩",
+      "rationale": "Bambara equative construction 'X ye Y ye' requires both copula particles; Hebrew has no verb at all."
+    },
+    {
+      "kind": "crux",
+      "subject": "kelen",
+      "rationale": "אחד: 'one' (KJV) vs 'alone' (Bruno, 'Yawe alone'); the Shema's classic crux."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "The Shema: the great imperative summons to Israel."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct second-person address naming Israel."
+    }
+  ],
+  "translation": "Isirayɛl (Israel), mɛn: Yawe, an ka Elohim — Yawe ⟨ye⟩ kelen ⟨ye⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "450205fa0e8c99b45cfa23adcd99956390ed1c9d9dad9b29ece66b7fbd822170",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/6\/1-4.1791927645809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    }
+  ],
+  "timestamp": "2026-10-13T21:40:45.811563409Z",
+  "model": "glm-5.3"
+}

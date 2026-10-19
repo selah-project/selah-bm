@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kalan",
+      "rationale": "לקח literally 'something taken\/received'; rendered as teaching"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Continued direct address to the sons"
+    }
+  ],
+  "translation": "Sabu n ye kalan ka gɛn di aw ma; aw kana n ka Tora tuguni.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8193dd1e1a15088d271e3e8876229dd56aaaf0387a15856dd2753f7772c259d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/4\/1-4.1791942186109.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ka gɛn"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "n ye … di"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ma"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "n ka Tora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "tuguni"
+    }
+  ],
+  "timestamp": "2026-10-14T01:43:06.109999302Z",
+  "model": "glm-5.3"
+}

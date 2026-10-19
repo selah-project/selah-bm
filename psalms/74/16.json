@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "yeelen-tilenw",
+      "rationale": "מאור: yeelen-tilen kelen walima kalo ni tile fila (BSB fɔ 'moon and sun'); Heburukan fɔ 'luminary' dɔrɔn, kelen walima caman."
+    },
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "Bamanankan tɛ 'ye' wajibiya 'don ye i ta' kɔnɔ — Heburukan bɛ fɔ 'don i ta' dɔrɔn de."
+    }
+  ],
+  "translation": "Don ye i ta, su fana ye i ta; i ye yeelen-tilenw ni tile labɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e380654d7fe66c6dd0049f625c92bb1a533cbbc6c38bf76f3da97a9022af5cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/74\/13-16.1791940722197.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "i ta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Don"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ta"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "su"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "I"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "labɛn"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "yeelen-tilenw"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "ni tile"
+    }
+  ],
+  "timestamp": "2026-10-14T01:18:42.198615282Z",
+  "model": "glm-5.3"
+}

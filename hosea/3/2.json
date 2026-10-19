@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "warigwɛ 15, homer, letek",
+      "rationale": "Jateden tilannen ni ɲɛnamatari-camaw: warigwɛ tilantan-duru, mere homer kelen ni letek kelen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mere",
+      "rationale": "שעורים = 'mere' (mere Bamanankan na bɛ fɔ ji minnu na); Heburu kɔrɔka mere ye."
+    },
+    {
+      "kind": "hapax",
+      "subject": "לתך",
+      "rationale": "letek (ɲɛnamatari) — daɲɛ in Tanaki kɔnɔ, a bɛ Hammer fɔlɔ ja minɛ."
+    }
+  ],
+  "translation": "Ne ye a san ne ye ni warigwɛ tilantan-duru (15) ye, ni mere homer kelen, ni mere letek kelen ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9d47e7184f112630e5685209087dd2f219885b067baed2ca42cc7b76cc1b463a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/3\/1-4.1791938153006.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "ne ye a san"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "tilantan-duru"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(duru)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "mere"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "letek"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "mere"
+    }
+  ],
+  "timestamp": "2026-10-14T00:35:53.007144627Z",
+  "model": "glm-5.3"
+}

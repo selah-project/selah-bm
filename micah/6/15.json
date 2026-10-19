@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i kan",
+      "rationale": "Hebrew has no preposition on 'anoint'; Bambara needs 'bila i kan' for sense"
+    },
+    {
+      "kind": "elision",
+      "subject": "וְתִירוֹשׁ",
+      "rationale": "no verb in Hebrew for 'must'; Bambara supplies none, the verb tɛ min carries the clause as Hebrew does"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "zɛtɛnɔ-tulu-diwɛn",
+      "rationale": "three-part curse chain (grain, oil, wine) — the futility litany structure, sow-not-reap \/ tread-not-anoint \/ tread-not-drink"
+    }
+  ],
+  "translation": "I bɛ kisɛ jalaki, nka i tɛ minɛ; i bɛ zɛtɛnɔ nwɛlɛ, nka i tɛ tulu bila ⟨i kan⟩; diwɛn kura, nka i tɛ diwɛn min.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6ab8c8cba877c067032a1c2fb66b983d29614d6356603e7d07090f9e4cebb5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/6\/13-16.1791938869604.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "bɛ kisɛ jalaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka ... tɛ"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "minɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "bɛ ... nwɛlɛ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zɛtɛnɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka ... tɛ"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "tulu bila"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "tulu"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "diwɛn kura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka ... tɛ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "min"
+    },
+    {
+      "surface": "יין",
+      "gloss": "diwɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T00:47:49.605797705Z",
+  "model": "glm-5.3"
+}

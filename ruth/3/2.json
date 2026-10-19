@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "the first את is here the preposition 'with' (εt), not the direct-object marker; rendered as ⟨את⟩ per convention, but it carries 'with' — 'i tun yεra ⟨את⟩ a denmusow fɛ'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jɛ",
+      "rationale": "זרה (winnow) rendered 'jɛ' (to winnow\/clean grain by tossing); the tossing picture of the Hebrew is kept by 'jɛ' but 'kɔnɔbɔ' (removing chaff) is the fuller alternative."
+    },
+    {
+      "kind": "you",
+      "subject": "to Rutu",
+      "rationale": "Naomi speaks directly to Ruth, her daughter-in-law; the whole verse is second-person address."
+    }
+  ],
+  "translation": "Sisan, yala Boaz tɛ ye an ka mɔgɔ-dɔnnen ye, min bε ⟨את⟩ a denmusow fɛ, i tun yεra? Yeeleni, ale bε ⟨את⟩ bεrɛ gerɛnyɔrɔ jɛ su nin na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "db5204d153f3b817f408d61a4922597ab3d18e13b5a4aa4383a7ff1ada432496",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ruth\/3\/2-3.1791951444194.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Sisan"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "yala … tɛ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "an ka mɔgɔ-dɔnnen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "היית",
+      "gloss": "i tun yεra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a denmusow"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "a denmusow"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Yeeleni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ale"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "bε … jɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɛrɛ gerɛnyɔrɔ"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "gerɛnyɔrɔ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "bɛrɛ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "su nin na"
+    }
+  ],
+  "timestamp": "2026-10-14T04:17:24.195444048Z",
+  "model": "glm-5.3"
+}

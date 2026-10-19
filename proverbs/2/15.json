@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Bamanankan predicate requires the copula don; Hebrew has none"
+    }
+  ],
+  "translation": "minnu ka siraw jɔgɔ don, ani minnu bɛ taasabila bɔ u ka taabolo la;",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "63fe996d07235417bd280007e301249c080a6e2a6fdc11c62a828a02ea2bd02c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/2\/13-16.1791942134000.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "u ka siraw"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "jɔgɔ"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "bɛ taasabila bɔ"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "u ka taabolo la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:42:14.001254200Z",
+  "model": "glm-5.3"
+}

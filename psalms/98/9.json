@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לפני",
+      "rationale": "lit. 'to the face of' Yawe; rendered 'ɲɛda la' (in the presence of)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבל",
+      "gloss_note": "",
+      "rationale": "rare word for the inhabited world, kept as 'tebel' rather than collapsing into dugukolo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan postposition needed for the instrumental 'with righteousness\/equity'"
+    }
+  ],
+  "translation": "Yawe ɲɛda la, sabu a nana ka ⟨את⟩ dugukolo ɲɛnabɔ; a bɛna ⟨את⟩ tebel ɲɛnabɔ ni tiɲɛ ye, ani ⟨את⟩ siyaw ni ɲaɲɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e797c9f279e53fd4058f59d6fad8424791762f76385941241fc44906669385ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/98\/9-9.1791941145989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛda la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ka ɲɛnabɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "bɛna ɲɛnabɔ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ni tiɲɛ ye"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "ani siyaw"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ni ɲaɲɛ ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:45.989598603Z",
+  "model": "glm-5.3"
+}

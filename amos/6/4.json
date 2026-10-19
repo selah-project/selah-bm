@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dankɛ",
+      "rationale": "שן is literally 'tooth', here ivory — a tooth-word for a luxury material; Bambara 'dankɛ' (elephant tooth) keeps the picture."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מרבק",
+      "rationale": "מרבק (fattening-stall) occurs only here in the Tanakh."
+    }
+  ],
+  "translation": "Minnu bɛ datuw la minnu bɛ dankɛ ye, minnu bɛ yɛlɛma u datuw kan, ka dun misiba-kɔrɔbaw misibaw la, ani misidencɛnw sumala kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2f1e7dd81ee922eded610b0788c5c1779fbddd0c256c6bce444b7413fd3da228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/amos\/6\/1-4.1791938581650.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "minnu bɛ … la"
+    },
+    {
+      "surface": "על",
+      "gloss": "… la"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "datuw"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dankɛ"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "minnu bɛ yɛlɛma"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "u datuw"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "ka dun"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "misiba-kɔrɔbaw"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "misibaw la"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "ani misidencɛnw"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "sumala"
+    }
+  ],
+  "timestamp": "2026-10-14T00:43:01.652005882Z",
+  "model": "glm-5.3"
+}

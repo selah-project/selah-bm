@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 23:29",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ko a de ye",
+      "rationale": "Hebrew כראתו אתו lacks an explicit clause 'that it was he'; supplied to show the recognition"
+    },
+    {
+      "kind": "idiom",
+      "subject": "lajɛ-yɔrɔ la",
+      "rationale": "לקראתו literally 'to his meeting', rendered as going to meet\/confront"
+    },
+    {
+      "kind": "crux",
+      "subject": "על מלך אשור",
+      "rationale": "'against' vs 'to help' the king of Assyria — 2 Chr 35:20 has Neco fighting Assyria's enemy; Hebrew על kept as 'kan\/la'"
+    }
+  ],
+  "translation": "A kɛw la, Farao Nekow (Faran Misira) ka masakɛ ye a bila Ashur (Asiri) ka masakɛ kan, Perat (Firati) baji la; Masakɛ Yawoshiyahu (Yozia) ta a lajɛ-yɔrɔ la, a ye a faga Megido (Megido), ni a y'a ye ko a de ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b015b50d43b29ee7b38106a5b34c9cca2fe34d6bac43bfeedb9acbca03c5eb85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/23\/29-32.1791933308192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "a kɛw la"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ye ... bila"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekow"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misira"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "baji"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ye ... ta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Masakɛ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yawoshiyahu"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "a lajɛ-yɔrɔ la"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "a ye a faga"
+    },
+    {
+      "surface": "במגדו",
+      "gloss": "Megido"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "ni a y'a ye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a (Yawoshiyahu)"
+    }
+  ],
+  "timestamp": "2026-10-13T23:15:08.197810768Z",
+  "model": "glm-5.3"
+}

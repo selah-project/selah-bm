@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "חלק subject",
+      "rationale": "Hebrew leaves the giver unnamed (Yawe); Bambara keeps the verb 'di' with no stated subject."
+    },
+    {
+      "kind": "crux",
+      "subject": "חלק",
+      "rationale": "'allot\/apportion' (JPS, YLT) vs 'given' (KJV, ASV); Bambara keeps the giving-sense 'di'."
+    }
+  ],
+  "translation": "u taara, u ye alaw wɛrɛw boye, ka bɔŋi u ma — alaw minnu u ma dɔn ɔ, minnu ma ⟨u⟩ di ɔ;",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0e8584e7b9231f98c662e8fcb50569728e17ce6805964f111b3e799a18f94547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/29\/25-28.1791928346122.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "u taara"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "u ye ... boye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "alaw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wɛrɛw"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ka bɔŋi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "alaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "u ma dɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "… ma"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "di (farali)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    }
+  ],
+  "timestamp": "2026-10-13T21:52:26.124831591Z",
+  "model": "glm-5.3"
+}

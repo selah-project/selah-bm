@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 16:36",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kabini waati fanbɔma \/ waati laban",
+      "rationale": "Hebrew מן העולם ועד העולם uses one noun twice; Bamanankan needs two different time-words, bracketed."
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Subject pronoun supplied for the second verb, Hebrew has only one ויאמרו."
+    }
+  ],
+  "translation": "Duba bɛ Yawe, Yisraɛl (Izraɛl) Elohim, ⟨kabini waati fanbɔma⟩ fo ⟨waati laban⟩ sa; jama bɛɛ fɔra ko Amen, u ye duba di Yawe ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "97220f65115438fc6742e52f26e638852c51772784fb7f203cc84cc9086bc315",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/16\/33-36.1791948026686.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "duba bɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kabini"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "waati fanbɔma"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "waati laban"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "fɔra ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "והלל",
+      "gloss": "u ye duba di"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ma"
+    }
+  ],
+  "timestamp": "2026-10-14T03:20:26.688469826Z",
+  "model": "glm-5.3"
+}

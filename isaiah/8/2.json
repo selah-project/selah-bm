@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "an",
+      "rationale": "verb prefix requires subject 'an'; Hebrew has suffix 'to me' on the verb"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seerew",
+      "rationale": "two named witnesses are counted to seal the written tablet — a legal two-witness act"
+    }
+  ],
+  "translation": "An bɛna seerew tiɲɛw mara: ⟨את⟩ Uriya sarakalasebaga, ani ⟨את⟩ Zekarayahu, Yeberekayahu den.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/8\/1-4.1791933539791.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "an bɛna ... mara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n ... kama"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "seerew"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "tiɲɛw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya sarakalasebaga"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekarayahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeberekayahu"
+    }
+  ],
+  "timestamp": "2026-10-13T23:18:59.796945334Z",
+  "model": "glm-5.3"
+}

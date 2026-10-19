@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 16:22",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɛra … la",
+      "rationale": "ויבא אל 'he went in unto' is the euphemism for lying with; Bambara 'kɛra … la' keeps the same indirection rather than stating the act."
+    },
+    {
+      "kind": "addition",
+      "subject": "O kɔ",
+      "rationale": "Hebrew begins with waw-consecutive; sequential connector supplied in Bambara."
+    }
+  ],
+  "translation": "O kɔ, u ye ɲɛfɛlen ti Awshalom (Absalɔm) kama, so sanfɛ; Awshalom kɛra a fa pulomusow la, Isirayɛl bɛɛ ɲɛnabolo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "be7d6fa77aad8f2a2ad6d3bfb60b406509a1a75e0366bad4332e097c5e918edf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/16\/21-23.1791931271791.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטו",
+      "gloss": "u ye … ti"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "Awshalom (Absalɔm) kama"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ɲɛfɛlen"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "so sanfɛ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kɛra … la"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "פלגשי",
+      "gloss": "pulomusow"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ɲɛnabolo ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    }
+  ],
+  "timestamp": "2026-10-13T22:41:11.797418168Z",
+  "model": "glm-5.3"
+}

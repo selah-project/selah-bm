@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עז",
+      "rationale": "'se' (LXX fɔ 'duba' \/ fɔɔli); Heburukan ka kuma de ye se ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ומתנקם",
+      "rationale": "Mɔgɔ min bɛ fɔ ka a yɛrɛ bɔ nin yɛrɛ bolo — hiphen-dilan, a fanba ma ɲɛ."
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Kumaw bɛ taa Yawe fɛ, a min bɛ se sigili denfitiniw ka da bolo."
+    }
+  ],
+  "translation": "Denfitiniw ni denminɛnw ka da bolo, i ye se sigilen, sabu i ju-tigɛw ye, walasa k'a jini kɛlɛbaga ni a-yɛrɛ-figiribaga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/8\/1-4.1791939665480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "ka da bolo"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "denfitiniw"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "ni denminɛnw"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "i ye … sigilen"
+    },
+    {
+      "surface": "עז",
+      "gloss": "se"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "i ju-tigɛw"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "walasa k'a jini"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kɛlɛbaga"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "ni a-yɛrɛ-figiribaga"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:05.481320513Z",
+  "model": "glm-5.3"
+}

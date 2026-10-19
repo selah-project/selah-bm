@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "misalen",
+      "rationale": "נחלה is 'inheritance\/allotted portion' — land received, not merely property"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכהנים הלוים",
+      "rationale": "'the priests [and] the Levites' vs 'the priests the Levites' as one group; KJV\/JPS take them as two"
+    }
+  ],
+  "translation": "Israɛlw tɔɔrɔtɔ — saraka-tigiw ni Lewibaw — b'ɔ dugukolo barokolonw bɛɛ kɔnɔ ila misalen kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "024d408f424a83ea204575762aa2027220a60f1d2ca8213739f8240108ab2765",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/11\/17-20.1791947240200.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "ni … tɔɔrɔtɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israɛlw"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "saraka-tigiw"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewibaw"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dugukolo barokolonw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ila"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "misalen kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:07:20.201626221Z",
+  "model": "glm-5.3"
+}

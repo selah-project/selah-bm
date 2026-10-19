@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "amana",
+      "rationale": "מבטח is 'refuge\/confidence' — the more precipitate fleeing (חסה) rendered as 'lean the eye on', בטח as 'trust'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka … sɔrɔ",
+      "rationale": "Bambara comparative frame supplies 'than' which Hebrew leaves to the מן preposition"
+    }
+  ],
+  "translation": "A ka ɲɛgɛn ka ɲɛ da Yawe kan, ko ka hadamaden na amana sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d1f158183503e33ea23efd3424494acda8b8320abb90d908340f6dee26a33c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/118\/5-8.1791941506466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "a ka ɲɛgɛn"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ka ɲɛ da … kan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "amana"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "hadamaden na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:31:46.466962735Z",
+  "model": "glm-5.3"
+}

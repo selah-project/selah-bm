@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mikdam",
+      "rationale": "מכתם ye sɛbɛnnen-sigiw baarakɛminɛ ye; bamanankan 'mikdam' de to a fɔcogo la"
+    },
+    {
+      "kind": "elision",
+      "subject": "עדות",
+      "gloss note": null,
+      "rationale": "Shushan-Eduth ye sankayada tɔgɔ ye — daɲɛ fila bɛ to tɔgɔ kelen ye"
+    }
+  ],
+  "translation": "Ŋɛmɔgɔ ma, Shushan-Eduth kan, Dawid (Dawuda) ka mikdam, kalan ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/60\/1-4.1791940425657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ŋɛmɔgɔ ma"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikdam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ka"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "kalan ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:45.658104438Z",
+  "model": "glm-5.3"
+}

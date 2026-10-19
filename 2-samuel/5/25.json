@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ye … ye",
+      "rationale": "wayix-construction needs Bambara perfective frame, absent in the Hebrew participle"
+    },
+    {
+      "kind": "substitution",
+      "subject": "boli",
+      "rationale": "ויך 'to strike' rendered as 'drove off\/struck down', the campaign sense"
+    },
+    {
+      "kind": "crux",
+      "subject": "Geba",
+      "rationale": "מגבע Geba vs some versions' Gibeon (1 Chr 14:16 parallel); kept Geba"
+    },
+    {
+      "kind": "you",
+      "subject": "i ka se",
+      "rationale": "second person in 'until thou come' addresses David, though narrative is third person"
+    }
+  ],
+  "translation": "Dawid kɛra o cogo la, i n'a fɔ Yawe y'a lajɛ a fɔ cogo min na; a ye ⟨את⟩ Pelesitiw boli, ka bɔ Geba (Gaba) fo i ka se Gezer (Gazɛr).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fe3348510aa32cc7b523d3b233e1619043b4f6343b232c2108f2ee8da47a8feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/5\/25-25.1791930951074.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o cogo la"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "y'a lajɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "boli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelesitiw"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesitiw"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "באך",
+      "gloss": "i ka se"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-10-13T22:35:51.076229127Z",
+  "model": "glm-5.3"
+}

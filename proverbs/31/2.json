@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בר",
+      "rationale": "Aramaic 'son' vs Hebrew בר 'pure' — KJV 'son', some read 'what, my pure one?'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברי\/בר\/בר",
+      "rationale": "triple repetition of בר, partially lost in Bambara"
+    },
+    {
+      "kind": "you",
+      "subject": "to Lemuel",
+      "rationale": "mother addresses her son directly"
+    }
+  ],
+  "translation": "Mun na, ne denkɛ? mun na, ne kun den? mun na, ne layiduw den?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/31\/1-4.1791943126005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "ne denkɛ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "בר",
+      "gloss": "den"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ne kun"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "בר",
+      "gloss": "den"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ne layiduw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:58:46.006793101Z",
+  "model": "glm-5.3"
+}

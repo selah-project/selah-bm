@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קד",
+      "rationale": "Tubabu bayɛlɛmabagaw bɛ tuli: 'sarakabɔlan' (hearth, KJV) walima 'tasumabila' (firebrand, YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kolow",
+      "rationale": "עצמות = kolo (bɛɛ ta misalen in na: sanu filili bana)"
+    }
+  ],
+  "translation": "Sabu n ka donw banna siyi la, n ka kolow donna i n'a fɔ tasumabila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/102\/1-4.1791941209972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "banna"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "siyi la"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "n ka donw"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "n ka kolow"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "קד",
+      "gloss": "tasumabila"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "donna"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:49.973456208Z",
+  "model": "glm-5.3"
+}

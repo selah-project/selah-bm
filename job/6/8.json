@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 6:8",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "literal 'who will give?' = wish formula, rendered 'yala … benna' (would that)"
+    },
+    {
+      "kind": "addition",
+      "subject": "yala",
+      "rationale": "Bambara wish-marker supplied for the Hebrew idiom of desire"
+    }
+  ],
+  "translation": "Yala n ka ɲinini benna, k'a sɔrɔ Eloah bɛ n ka lijɛ di!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bc15c18360dae2cf19fcd8580154c190ebe68ae9cf2a15c4e2c0f0a8f6275a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/6\/5-8.1791943343991.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "yala … benna"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yala … benna"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "benna"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "n ka ɲinini"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "n ka lijɛ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bɛ … di"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    }
+  ],
+  "timestamp": "2026-10-14T02:02:23.993073362Z",
+  "model": "glm-5.3"
+}

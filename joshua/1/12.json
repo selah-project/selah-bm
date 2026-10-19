@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 1:12",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "konkontodenw",
+      "rationale": "חצי (half) dilannen ni 'konkonto' (konkonto\/kelen-kelenfila) ye — 'sɛbɛkɛ konkontodenw' kɔrɔ ye sɛbɛkɛ dɔgɔlen ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sɛbɛkɛ",
+      "rationale": "שבט kɔrɔ tiɲɛ ye cɛn (kabakurun fitinin) ye; 'sɛbɛkɛ' (den-fasokɛ) ye Bamanankan kɔrɔ-daɲɛ ye min bɛ bayɛlɛmali kuraw la"
+    },
+    {
+      "kind": "addition",
+      "subject": "denw",
+      "rationale": "Bamanankan bɛ fɛ denw fara tɔgɔw kan walasa jamaa ka jira — Heburukan ל verision si tɛ yen"
+    }
+  ],
+  "translation": "Yehoshua (Josuwa) ye fɔ Reuwɛndenw, Gadidenw ani Menashe sɛbɛkɛ konkontodenw ma, ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f1c6f9f526028c18134b79f3e61f6c28efeed69e6a037c353c6c87baa145a4bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/1\/12-12.1791950078025.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "Reuwɛndenw ma"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "Gadidenw"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "sɛbɛkɛ konkontodenw"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sɛbɛkɛ"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ye fɔ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-14T03:54:38.025837305Z",
+  "model": "glm-5.3"
+}

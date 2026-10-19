@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sanda",
+      "rationale": "ארון ye 'sanu kuturu' kɔrɔ, nka Tanaki kɔnɔ a ye Yawe ka layidu-sanda ye (ark) — sanda dilannen."
+    },
+    {
+      "kind": "you",
+      "subject": "ne la",
+      "rationale": "Dawid y'a yɛrɛ fɔ — kumasen in bɛ fɔbaga in ma."
+    }
+  ],
+  "translation": "O don in na, Dawid ye ⟨את⟩ Yawe siran, k'o ko: “Yawe ka sanda bɛna bɔ cogo di ka na ne la?”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5c5a3294f65174d5788a2170ef191baca46d0d332fbd906912e06619a7e70b0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/6\/9-12.1791930989459.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "siran"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o don"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "in"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "k'o ko"
+    },
+    {
+      "surface": "איך",
+      "gloss": "cogo di"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bɛna bɔ ka na"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne la"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe ta"
+    }
+  ],
+  "timestamp": "2026-10-13T22:36:29.461257036Z",
+  "model": "glm-5.3"
+}

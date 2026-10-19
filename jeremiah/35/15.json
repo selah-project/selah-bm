@@ -1,0 +1,185 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 35:15",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הטיתם את אזנכם",
+      "rationale": "'to incline ⟨את⟩ ear' = ɲɛmini tulo; Bamanankan 'to pull the ear' fɔcogo filɛ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ושבו אל האדמה",
+      "rationale": "שוב 'to sit\/dwell' — 'dwell in the land' de tiɲɛna; 'return' tɛ o ye."
+    },
+    {
+      "kind": "invitation",
+      "subject": "seginw don",
+      "rationale": "Yawe ka weleli don mɔgɔw ma ko k'u yɛrɛ segin."
+    }
+  ],
+  "translation": "Ne ye ⟨את⟩ ne denboɲa nabiw bɛɛ ci aw ma, minnu tun bɛ sɔgɔma-sɔgɔma ka ci ka kuma ko: Seginw don, mɔgɔ kelen-kelen bɛɛ ka bɔ a sira bonya la, aw ka baaraw nɔgɔya, aw kana taa Ala wɛrɛw nɔ walasa ka u diinɛ, aw ka sigi dugukolo la min ne ye di aw ye ani aw bobaw ye. Nka aw y'aw tulow ma ɲɛmini, aw ma mɛn ne ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dfa75332563091f19dd861edea5130c950c2551cb952779c0374ae55302cb919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/35\/13-16.1791935906460.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "Ne ye ... ci"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "aw ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne denboɲa nabiw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ne denboɲa"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nabiw"
+    },
+    {
+      "surface": "השכים",
+      "gloss": "sɔgɔma-sɔgɔma"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ka ci"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka kuma ko"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "seginw don"
+    },
+    {
+      "surface": "נא",
+      "gloss": "don"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen-kelen bɛɛ"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "a sira bonya la"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bonya"
+    },
+    {
+      "surface": "והיטיבו",
+      "gloss": "aw ka baaraw nɔgɔya"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "aw ka baaraw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "aw kana"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "taa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "... nɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ala wɛrɛw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wɛrɛw"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "walasa ka u diinɛ"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "aw ka sigi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... la"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ne ye di"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "ולאבתיכם",
+      "gloss": "ani aw bobaw ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka aw ma"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "ɲɛmini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aw tulow"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "aw tulow"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aw ma"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:58:26.462086953Z",
+  "model": "glm-5.3"
+}

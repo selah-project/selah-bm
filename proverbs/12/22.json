@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛdila",
+      "rationale": "אמונה is firmness\/faithfulness; Bamanankan 'tiɲɛdila' (truth-keeping) captures the deed-side, losing the firmness image."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bamanankan nominal predicate requires the 'ye … ye' frame; Hebrew is bare juxtaposition (construct תועבת יהוה)."
+    }
+  ],
+  "translation": "Yawe ka ɲɛnajuguya ye mɛn fitini ye; nka tiɲɛdila kɛlaw ye ale ka ɲɛnayali ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1a6647e4f6a0c7bd81ec8d4985205b95d09fbf9d90533ecf5d6aa8ece51a3cf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/12\/21-24.1791942416984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "ɲɛnajuguya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fitini"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "nka … kɛlaw"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "tiɲɛdila"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ale ka ɲɛnayali"
+    }
+  ],
+  "timestamp": "2026-10-14T01:46:56.985732205Z",
+  "model": "glm-5.3"
+}

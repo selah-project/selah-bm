@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 19:18",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dannu",
+      "rationale": "גבול kɔrɔ ye kɔlɔsilen-bolofara ye; 'dannu' ye Bamanankan dɔnnen ye min ka surun sigili-yɔrɔ kɔnɔ"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "weleli taamasiyɛn in bɔra ni 'ye' dɔrɔn ye, Heburukan fɔcogo ka gɛlɛn dɔɔnin"
+    }
+  ],
+  "translation": "U ka dannu ye: Yisreela (Yisireli), Haksulot (Kesuloti) ani Shunɛm.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f956bf34ce2910556de0fe2c35102d84c910d8bdb82fe9cdc1820fe95ce9e9f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/19\/17-20.1791928994083.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וַיְהִי",
+      "gloss": "ye"
+    },
+    {
+      "surface": "גְּבוּלָם",
+      "gloss": "u ka dannu"
+    },
+    {
+      "surface": "יִזְרְעֶאלָה",
+      "gloss": "Yisreela (Yisireli)"
+    },
+    {
+      "surface": "וְהַכְּסֻלֹת",
+      "gloss": "Haksulot (Kesuloti)"
+    },
+    {
+      "surface": "וְשׁוּנֵם",
+      "gloss": "ani Shunɛm"
+    }
+  ],
+  "timestamp": "2026-10-13T22:03:14.085060228Z",
+  "model": "glm-5.3"
+}

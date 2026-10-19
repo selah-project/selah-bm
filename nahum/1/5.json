@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 1:5",
+  "book": "nahum",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mɔgɔw",
+      "rationale": "Hebrew ישבי is a participle 'the-dwellers'; Bambara needs an explicit noun"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבעות\/התמגגו",
+      "rationale": "hills 'melt' — the verb מוג repeated across Nahum for dissolution, all lost in Bambara"
+    }
+  ],
+  "translation": "Kuluw bɛ girigiri a fɛ, ani gbɛkɛnw bɛ fagyamaya, dugukolo bɛ wuli a ɲɛdanfɛ, ani tɛbele ani ⟨mɔgɔw⟩ bɛɛ minnu bɛ a kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2753e24e13d4cfac7b4006ad05314ad699fbf76baec817c473e4a5a738a79613",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nahum\/1\/5-8.1791938886353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "kuluw"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "bɛ girigiri"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "ani gbɛkɛnw"
+    },
+    {
+      "surface": "התמגגו",
+      "gloss": "bɛ fagyamaya"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "bɛ wuli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "a ɲɛdanfɛ"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ani tɛbele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "⟨mɔgɔw⟩ minnu bɛ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:48:06.353904720Z",
+  "model": "glm-5.3"
+}

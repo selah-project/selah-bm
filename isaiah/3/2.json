@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sigidabaga",
+      "rationale": "קוסם ye mɔgɔ ye min bɛ sigida kɛ (diviner); Bamanankan tɛ daɲɛ kelen sɔrɔ k'a ye — 'sigidabaga' ye daɲɛ nɔgɔman ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "min bɛ kɛlɛkɛ",
+      "rationale": "אישׁ מלחמה ye cɛ ka kɛlɛ-sira cogo ye, Bamanankan mago bɛ kumasen dɔrɔn de na o kama kumasen in bɛ fara a kan"
+    }
+  ],
+  "translation": "Jamukɛtigi ani cɛ min bɛ kɛlɛkɛ, sariyabaga ani nabi, sigidabaga ani mɔgɔkɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "68546ba517ea2c83dba0696bae3637875c12a666b302bffd146ec30d44c082bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/3\/1-4.1791933475353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "jamukɛtigi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ani cɛ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "min bɛ kɛlɛkɛ"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "sariyabaga"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ani nabi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ani sigidabaga"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ani mɔgɔkɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:17:55.360241526Z",
+  "model": "glm-5.3"
+}

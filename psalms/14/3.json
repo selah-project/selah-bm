@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סר \/ נאלחו",
+      "rationale": "daɲɛ fila-nin bɛ 'ka bɔ siraw la ani ka jugu' fɔ — kumasen dantigɛliɲɛnamaw; Bamanankan ma a lamini kokura"
+    },
+    {
+      "kind": "elision",
+      "subject": "hali kelen si",
+      "rationale": "Heburukan: 'tɛ yen, hali kelen' — ⟨si⟩ farala a kan Bamanankan nɔgɔya kama"
+    }
+  ],
+  "translation": "Bɛɛ tula ɲɔgɔn fɛ, u bɛɛ nana bɔniju kɛ; min bɛ nyi kɛ, tɛ yen; hali kelen si tɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/14\/1-4.1791939671371.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "tula"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɲɔgɔn fɛ"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "nana bɔniju kɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ yen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kɛla"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nyi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ yen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hali"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:11.372275645Z",
+  "model": "glm-5.3"
+}

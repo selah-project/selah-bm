@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פני",
+      "rationale": "literally 'my face'; rendered 'presence' by most versions — Bamanankan keeps the literal picture 'ɲɛda'"
+    },
+    {
+      "kind": "elision",
+      "subject": "לך",
+      "rationale": "the preposition 'to you' is rendered as Bambara object marker 'i ye'"
+    }
+  ],
+  "translation": "A ko: Ne ɲɛda bɛ taa, ani ne bɛ hɛrɛ di i ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/33\/13-16.1791926979870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A ko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Ne ɲɛda"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bɛ taa"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "ani ne bɛ hɛrɛ di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:29:39.872046681Z",
+  "model": "glm-5.3"
+}

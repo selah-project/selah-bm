@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨n⟩",
+      "rationale": "Hebrew suffixes on הסגרתני and רגלי carry the 'me\/my'; Bambara needs free pronouns"
+    },
+    {
+      "kind": "alternative",
+      "subject": "yɔrɔ baba",
+      "rationale": "במרחב is literally 'in a broad place', open ground; 'yɔrɔ jan' (long place) is a second option"
+    }
+  ],
+  "translation": "Nka a ma ⟨n⟩ dige jatigɛ dɔ bolo ma; a ye ⟨n⟩ sɛnw sigi yɔrɔ baba la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d7d768349330cb3911c1022e6e58f2b70f368dddddb704a24760ec3b18f53312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/31\/9-12.1791939961001.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nka … ma"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "a ma ⟨n⟩ dige"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo ma"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "jatigɛ dɔ"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "a ye … sigi"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "yɔrɔ baba la"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "⟨n⟩ sɛnw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:01.002582617Z",
+  "model": "glm-5.3"
+}

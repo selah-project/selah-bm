@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 42:16",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "du kɛmɛw ka kanew",
+      "rationale": "First of the four outer measurements: five hundred reeds on the east"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח הקדים",
+      "gloss-note": "",
+      "rationale": "ruach literally 'wind\/side'; rendered 'the east side\/wind (fiɲɛ)' keeping the concrete picture rather than plain 'side'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חמש אמות קנים",
+      "rationale": "Lit. 'five hundreds of reeds' = 500 reeds; some read 'five cubits by reeds' but the consensus takes amot here as hundreds"
+    }
+  ],
+  "translation": "A ye kɔrɔyan fiɲɛ jate ni jatebolo ye — du kɛmɛw ka kanew, ni jatebolo ye, kisili bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "72ea279afc917057bfb074b066c4b500967484d5743282bda2499e78a0becba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/42\/13-16.1791937841435.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "a ye ... jate"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ (bolo)"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "kɔrɔyan"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ni jatebolo ye"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "jate"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "du"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kɛmɛw"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kanew"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ni jatebolo ye"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "jate"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kisili"
+    }
+  ],
+  "timestamp": "2026-10-14T00:30:41.436953401Z",
+  "model": "glm-5.3"
+}

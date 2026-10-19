@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 1:18",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "past tense marker added for narrative flow"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סריסים",
+      "rationale": "saritɔnw rendered as 'officers'; eunuch has no common Bambara word"
+    }
+  ],
+  "translation": "Donw laban na, minnu kɔrɔ masakɛ tun fɔra ko u ka na, saritɔnw ɲɛmɔgɔ ye u bil'a numamɛnbolo ye Nebukadnetsar (Nebukadnezer) ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bdaace9e2589059ef1666de1ee9052edbe7982aa769c35613c24c16bc04d1358",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/1\/17-20.1791945603510.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמקצת",
+      "gloss": "laban na"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "donw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu kɔrɔ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fɔra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "להביאם",
+      "gloss": "u ka na"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "bil'a numamɛnbolo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ɲɛmɔgɔ"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "saritɔnw"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "נבכדנצר",
+      "gloss": "Nebukadnetsar"
+    }
+  ],
+  "timestamp": "2026-10-14T02:40:03.511548746Z",
+  "model": "glm-5.3"
+}

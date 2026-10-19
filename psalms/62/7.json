@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kuluw",
+      "rationale": "צור is a cliff, sharp rock — kept as 'rock\/stone mountain', not 'strength'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אך ... אך",
+      "rationale": "the particle אך opens verses 5, 6 and 7 — a triple anaphora framing enemy plot against God-alone trust."
+    }
+  ],
+  "translation": "A de dɔrɔn ye ne ka kuluw ye ani ne ka finbaliya; a ye ne ka sanfɛ-yɔrɔ ye; ne tɛ bɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/62\/5-8.1791940472462.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "de dɔrɔn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ne ka kuluw"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ani ne ka finbaliya"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ne ka sanfɛ-yɔrɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "bɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:32.462905523Z",
+  "model": "glm-5.3"
+}

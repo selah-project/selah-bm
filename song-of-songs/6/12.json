@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמי נדיב",
+      "rationale": "Famously obscure: 'chariots of Amminadab' (KJV, a name) vs 'chariots of my princely people' (JPS\/ASV) vs 'my people-nadib' as a title; the syntax will not resolve"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא ידעתי",
+      "rationale": "'I knew not' — read as 'before I was aware' or 'I did not know myself' or 'I know not [what came over me]'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "n ni",
+      "rationale": "נפשי is throat\/life-force\/self, not 'soul' in a later sense"
+    },
+    {
+      "kind": "mystery",
+      "subject": "verse whole",
+      "rationale": "Deliberately opaque verse whose imagery resists any single reading — the text withholds its meaning"
+    }
+  ],
+  "translation": "N ma dɔn — n ni y'a kɛ ⟨iya⟩ n ka jama seba-tigiw ka so-wɔrɔ-kenw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/6\/9-12.1791944717339.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a tɛ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "n ma dɔn"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n ni"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "y'a kɛ"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "so-wɔrɔ-kenw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n ka jama"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "seba-tigiw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:17.341023105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 13:8",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is throat\/life-force, not an immortal 'soul'."
+    },
+    {
+      "kind": "crux",
+      "subject": "גערה",
+      "rationale": "'rebuke\/threat' — does the poor not hear it because exempt, or because he pays it no heed?"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Bambara possessive needs an explicit pronoun; Hebrew has none in this clause."
+    }
+  ],
+  "translation": "Mɔgɔ ka sanufita ye ⟨a⟩ ni ka balo kɔnɔ, nka mɔgɔ fanu tɛ kuma julaw mɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/13\/5-8.1791942385974.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "lakana donli-suli"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ ka"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "sanufita"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "nka mɔgɔ fanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "kuma julaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:46:25.975555759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפניך",
+      "rationale": "Heburu bɛ fɔ 'i ɲɛda bolo' — a kɔrɔ ye 'i ka yen, i ɲɛda la' ye, a tɛ ɲɛda-fisen ye dɔgɔya la."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sɔɔrɔ",
+      "rationale": "ויאבדו kɔrɔ ye 'u bɛna yɛrɛw jɔgi, u bɛna bɔn ka taa' — 'sɔɔrɔ' daɲɛ surunnen don."
+    }
+  ],
+  "translation": "Ni ne ka tɔbw bɛ segin kɔ, u bɛ tigɛ u yɛrɛ la, u bɛna sɔɔrɔ ka bɔ i ɲɛda la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/9\/1-4.1791939686945.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "ni … bɛ segin"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ne ka tɔbw"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "u bɛ tigɛ u yɛrɛ la"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "u bɛna sɔɔrɔ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "i ɲɛda la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:26.946314774Z",
+  "model": "glm-5.3"
+}

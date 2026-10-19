@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 15:16",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לחי\/חמור\/חמרה",
+      "rationale": "triple pun: jawbone (lechi) \/ ass (ḥamor) \/ heap (ḥamortayim, dual) — the song turns corpse-heaps into an ass-rhyme, fully lost outside Hebrew"
+    },
+    {
+      "kind": "crux",
+      "subject": "חמור חמרתים",
+      "rationale": "literally 'an ass, two heaps': read as 'heap upon heaps' (KJV) or as pure wordplay 'ass upon asses' (YLT); Bambara keeps the jawbone-parallel and loses the ass\/heap echo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kɛmɛ dɔ",
+      "rationale": "the thousand slain closes the counting motif of vv. 15-16"
+    }
+  ],
+  "translation": "Shimshon (Sansimɔn) ye fɔ ko: Ni berekɛnin lakodoni ye, lakodoni bɛ lakodoni kan; ni berekɛnin lakodoni ye, ne ye mɔgɔ kɛmɛ dɔ faga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fa48869f59311215b2818993ea40184519a90e706302fd367e21b9608c0a0386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/15\/13-16.1791929768019.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ye … fɔ ko"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshon"
+    },
+    {
+      "surface": "בלחי",
+      "gloss": "ni … lakodoni ye"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "berekɛnin"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "lakodoni bɛ"
+    },
+    {
+      "surface": "חמרתים",
+      "gloss": "lakodoni kan"
+    },
+    {
+      "surface": "בלחי",
+      "gloss": "ni … lakodoni ye"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "berekɛnin"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "ne ye … faga"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kɛmɛ dɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:16:08.022378214Z",
+  "model": "glm-5.3"
+}

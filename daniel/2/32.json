@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נחש",
+      "rationale": "Copper\/bronze rendered nɛgɛ (the everyday metal word); Bambara has no separate common word for bronze."
+    },
+    {
+      "kind": "addition",
+      "subject": "tun ye",
+      "rationale": "Copula 'tun ye' supplied — the Hebrew lists the metals without a verb."
+    },
+    {
+      "kind": "measurement",
+      "subject": "body-metals",
+      "rationale": "The verse is a head-to-toe inventory of the statue's materials — a descending materials list."
+    }
+  ],
+  "translation": "Coba nin: a ka kun tun ye sanu ɲi ye, a ka kɔnɔda ani a ka baw tun ye warigwɛ ye, a ka kinɛ ani a ka sanninw tun ye nɛgɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "575dbcf185e8f82bf38f855b2dd10c7034d585e66e8b51dd9aaf4d32072e0aec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/2\/29-32.1791945792810.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "nin"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "coba"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "a ka kun"
+    },
+    {
+      "surface": "די",
+      "gloss": "ye"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "טב",
+      "gloss": "ɲi"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "a ka kɔnɔda"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "ani a ka baw"
+    },
+    {
+      "surface": "די",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "a ka kinɛ"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "ani a ka sanninw"
+    },
+    {
+      "surface": "די",
+      "gloss": "ye"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nɛgɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:43:12.812146185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew verb שבר carries no subject; the 'he' (Elohim) is supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "belen-denw",
+      "rationale": "רשפי literally 'flashes\/burning coals' of the bow — arrows; rendered 'flashing-arrow-children'"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "musical pause mark Selah, kept untranslated as a sign"
+    }
+  ],
+  "translation": "Yen ⟨a⟩ ye bɔnbolo ka belen-denw sisiye, bɛnkalama, npan, ani kɛli-ko bɛɛ. Selah.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/76\/1-4.1791940671152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ye … sisiye"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "belen-denw"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bɔnbolo ka"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "bɛnkalama"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "npan"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ani kɛli-ko bɛɛ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:51.153640195Z",
+  "model": "glm-5.3"
+}

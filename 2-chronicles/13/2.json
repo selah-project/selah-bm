@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 13:2",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye \/ ⟨…⟩",
+      "rationale": "Bambara needs the copula ye for the mother's name; Hebrew simply juxtaposes."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בין … ובין",
+      "rationale": "Hebrew repeats 'between' before each name; Bambara renders the pair with a single cɛ 'between'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "san saba",
+      "rationale": "Reign length given as a counted number of years."
+    }
+  ],
+  "translation": "San saba a ye masaya kɛ Yerushalayim (Jeruzalɛmu). A ba tɔgɔ ye Mikayahu (Mikaya) ye, Uriyel (Uriya) denmuso, min bɔra Giwɛya (Geba) ; ani kɛlɛ kɛra Aabiya ni Yarobeamu cɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eeeb1b2fefe34926aa45177c1e335a888b6469bf0165011d83b1940c1310a09d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/13\/1-4.1791949123970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלוש",
+      "gloss": "saba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "san"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masaya kɛ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ani tɔgɔ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "a ba ta"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "denmuso"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "Uriyel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "Giwɛya"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ani kɛlɛ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aabiya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ni … cɛ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamu"
+    }
+  ],
+  "timestamp": "2026-10-14T03:38:43.971328488Z",
+  "model": "glm-5.3"
+}

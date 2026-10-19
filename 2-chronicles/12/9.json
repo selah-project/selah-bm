@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 12:9",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "n'ɔ yɛrɛ bili",
+      "rationale": "Hebrew עלה 'went up' rendered with Bambara going-up phrase"
+    },
+    {
+      "kind": "substitution",
+      "subject": "magen",
+      "rationale": "מגן (shield) — Hebrew term kept per marker-word rule; no single plain Bambara word"
+    }
+  ],
+  "translation": "Shishaki (Sisaki), Mitsrayim (Misira) masakɛ, ye n'ɔ yɛrɛ bili Yerushalayim (Jerusalɛmu) kan, a ye ⟨את⟩ Yawe so ka sarabaw ni ⟨את⟩ masakɛ so ka sarabaw ta; bɛɛ ⟨את⟩ o bɛɛ a ye ta, a ye ⟨את⟩ sanu magenw ta minnu Shelomo (Sulɛyɛman) ye dilan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a9d4fb2ea5cdaf44d1fe89be0df598b3c6255adf5571f1fddd371f0d36ab7e49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/12\/9-12.1791949038011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a ye n'ɔ yɛrɛ bili"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a ye ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe so ka sarabaw"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "sarabaw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ni",
+      "marks": "masakɛ so ka sarabaw"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "sarabaw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o bɛɛ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "o bɛɛ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a ye ta"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a ye ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanu magenw"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "magenw"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ye dilan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-10-14T03:37:18.012702586Z",
+  "model": "glm-5.3"
+}

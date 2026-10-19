@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "min ye … o ye",
+      "rationale": "Hebrew participial relative chain requires Bambara relative framing 'min ye … o ye'"
+    },
+    {
+      "kind": "crux",
+      "subject": "caman",
+      "rationale": "רבים rendered 'many'; some versions give 'great' (abundant in size or number)"
+    }
+  ],
+  "translation": "Min ye siyaw caman Tigɛ, o ye masakɛw sebagaw bɔɲa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6cca197ce9087e5bd4a9b5f425d10670a999cd0a54bb6d107f399bca57f677a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/135\/9-12.1791941832195.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Tigɛ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "caman"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "bɔɲa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "sebagaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:12.195926229Z",
+  "model": "glm-5.3"
+}

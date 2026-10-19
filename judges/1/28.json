@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 1:28",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למס",
+      "rationale": "forced-labor tribute rendered as wale-wajibi-yɔrɔbaga (forced-laborer); Hebrew noun is a single word for corvée-tax"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והוריש לא הורישו",
+      "rationale": "infinitive-absolute doubling 'drive-out they did not drive out' — rendered as 'u ma u bɔ tɩ disi' (did not drive them out completely) to keep the total-negation force"
+    }
+  ],
+  "translation": "K'a sɔrɔ Isirayeli tiɲɛna ka se kama, u bilala ⟨את⟩ Kananikaw ka kɛ wale-wajibi-yɔrɔbaga ye; nka u ma u bɔ tɩ disi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b2804b92da97afeeff116791ab6cc0e7326b5c49a1af8fe63bb969c9907a670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/1\/25-28.1791929204362.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "k'a sɔrɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "tiɲɛna ka se kama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "u bilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kananikaw"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kananikaw"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ka kɛ wale-wajibi-yɔrɔbaga ye"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "u bɔ tɩ disi"
+    }
+  ],
+  "timestamp": "2026-10-13T22:06:44.366100372Z",
+  "model": "glm-5.3"
+}

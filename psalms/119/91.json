@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sonkɛw",
+      "rationale": "עבדיך 'your servants' rendered 'sonkɛw' (servants)"
+    },
+    {
+      "kind": "addition",
+      "subject": "olu",
+      "rationale": "resumptive pronoun needed in Bambara for the subject 'they' (heavens\/earth\/all things)"
+    }
+  ],
+  "translation": "I sariyaw daji la, olu bɛ jɔ bi tila bɛɛ; sabu bɛɛ ye i sonkɛw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/89-92.1791941613983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "i sariyaw daji la"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "olu bɛ jɔ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi tila bɛɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "i sonkɛw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:33.984088129Z",
+  "model": "glm-5.3"
+}

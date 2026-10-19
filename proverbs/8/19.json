@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 8:19",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חרוץ",
+      "rationale": "רare word for gold (possibly 'incised\/stamped gold'), rendered simply as sanu"
+    },
+    {
+      "kind": "addition",
+      "subject": "i ko",
+      "rationale": "comparative 'than' supplied — the Hebrew מ prefix alone carries the comparison"
+    }
+  ],
+  "translation": "Ne ka jiriden ka ɲi sanu ye, i ko sanu min bɛ sejin; i ko ne ka terew ka ɲi warigwɛ min bɛ gaari ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/8\/17-20.1791942297334.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "פריי",
+      "gloss": "ne ka jiriden"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "sanu min bɛ sejin"
+    },
+    {
+      "surface": "ותבואתי",
+      "gloss": "ne ka terew"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "min bɛ gaari"
+    }
+  ],
+  "timestamp": "2026-10-14T01:44:57.335622174Z",
+  "model": "glm-5.3"
+}

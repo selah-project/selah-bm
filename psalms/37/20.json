@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כיקר כרים",
+      "rationale": "'the preciousness\/choice fat of rams' — KJV 'fat of lambs' vs YLT 'preciousness of lambs' vs BSB 'glory of the fields'; Bambara keeps the fat\/choice image with ɲɛgɛn of sagaw"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלו … כלו",
+      "rationale": "Verb repeated at verse end for finality — 'they vanish … they vanish'; Bambara repeats 'u bana' to keep it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɔn",
+      "rationale": "אבד 'wander away, perish' rendered with 'be lost\/finish' — the wandering image is dimmed"
+    }
+  ],
+  "translation": "Sabu mɔgɔkɛntɔnw bɛna bɔn, ani Yawe ka tɔkɔntɔnw bɛna yɛlɛma i n'a fɔ sagaw ka ɲɛgɛn — u bana, ni ɛnɛsogo ye u bana.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4db5cf25bd8637da31c422a8739f8d08d83ba362eb3cb88d01d279f67135a4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/17-20.1791940078176.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mɔgɔkɛntɔnw"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bɛna bɔn"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ani … tɔkɔntɔnw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe ka"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "i n'a fɔ … ka ɲɛgɛn"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "sagaw"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "u bana"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "ni ɛnɛsogo ye"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "u bana"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:58.177444680Z",
+  "model": "glm-5.3"
+}

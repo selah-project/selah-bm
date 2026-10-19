@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "doniya",
+      "rationale": "ישיש is literally 'be bright' — the sun itself brightens\/rejoices; 'doniya' (rejoice) keeps the personification"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "furakɛ \/ cemberema",
+      "rationale": "sun as bridegroom from his bridal canopy — wedding image paired with the warrior image in the same verse"
+    }
+  ],
+  "translation": "A ye i n'a fɔ furakɛ min bɛ bɔ a ka cemberema na, a bɛ doniya i n'a fɔ sebamɔgɔ ka sira faco.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/19\/5-8.1791939807251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "i n'a fɔ furakɛ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bɛ bɔ"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "a ka cemberema na"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "bɛ doniya"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "i n'a fɔ sebamɔgɔ"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "ka faco"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sira"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:27.252317508Z",
+  "model": "glm-5.3"
+}

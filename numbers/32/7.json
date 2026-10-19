@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dusukun jigi",
+      "rationale": "תנואון ye 'ka dusukun bɔ \/ ka mɔgɔ wili-wili kunbɔ' ye — 'dissuade'; 'dusukun jigi' ye sanu dɔgɔlen dɔrɔn de ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨את⟩",
+      "rationale": "aleph-tav min bɛ dusukun ta, a bɛ to a taamasiyɛn ye — Bamanankan tɛ daɲɛ min na o kɔrɔ bɛ"
+    },
+    {
+      "kind": "you",
+      "subject": "Gad ani Rewuben denw",
+      "rationale": "Moshe ka ɲininkili ka tɛmɛ u kan, a bɛ u ka ɲɛsigi jira"
+    }
+  ],
+  "translation": "N'i bɛ Isirayel denw ka ⟨את⟩ dusukun jigi, walasa u kana taabolo kɛ ka taa dugukolo la, min Yawe ye u ma di, mun na?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "355c2f08142dfcf564202a2a31e8bfd402050c3d712bf965783e2c37fa3439d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/32\/5-8.1791927295531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "i bɛ ... jigi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dusukun"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayel"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ka taabolo kɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka taa ... la"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T21:34:55.532974991Z",
+  "model": "glm-5.3"
+}

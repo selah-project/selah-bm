@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a yɛrɛ ye",
+      "rationale": "Hebrew lacks a verb before Aharhel; the genealogy carries it over from הוליד"
+    },
+    {
+      "kind": "crux",
+      "subject": "Kots",
+      "rationale": "יהודה line vs priestly Hakkoz (1 Chr 24:10); ASV 'Hakkoz' against KJV\/JPS 'Koz'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הצבבה",
+      "rationale": "Tsobeba appears only here in the Tanakh"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "name-list verse, Judah's line counted"
+    }
+  ],
+  "translation": "Kots ye ⟨את⟩ Anub ni ⟨את⟩ Tsobeba fɔ; a yɛrɛ ye Aharhel, Harum denkɛ denbayaw tɔgɔ fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "401f08600948efcc6c017d085b56fe329db28df8b9b01c63f82c659509479aa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/4\/8-8.1791951552122.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Kots"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ye … fɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Tsobeba"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Tsobeba"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "denbayaw"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Aharhel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harum"
+    }
+  ],
+  "timestamp": "2026-10-14T04:19:12.123158552Z",
+  "model": "glm-5.3"
+}

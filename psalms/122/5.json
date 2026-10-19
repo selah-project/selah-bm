@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sariya",
+      "rationale": "למשפט kɔrɔ ye sariya-kɛli \/ ɲɛjɛ ye, 'masa ka sariya-dilibagaw yɔrɔ'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sigilen don",
+      "rationale": "ישבו bɛ se ka kɛ 'u sigilen' ye masa-flaso kokura, tɛ yɔrɔ-kɛli dɔrɔn ye"
+    }
+  ],
+  "translation": "Sabu yen, Dawuda so ka kɛnw sigilen don sariya la, kɛnw Dawudabɛ so ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/122\/5-8.1791941791221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sigilen don"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "kɛnw"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "sariya la"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "kɛnw"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "so ye"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuda"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:31.222119178Z",
+  "model": "glm-5.3"
+}

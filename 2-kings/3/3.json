@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "a tugu … la",
+      "rationale": "דבק 'clung\/cleaved to the sins' — literal cling kept in Bambara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "u la",
+      "rationale": "Hebrew feminine singular ממנה points back to 'sin'; Bambara pluralizes."
+    }
+  ],
+  "translation": "A tɛri yen; a tugu Yarobam (Jeroboam), Nebat (Nebati) denni ka jurumu-minɛw la, min ye ⟨את⟩ Israel o jurumu na, a ma bɔ u la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "19fe0c2000f7dbb73d8737987b8ccb91540b4e43538241518ec9b61ec9f597f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/3\/1-4.1791932578720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "a tɛri yen; nka"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "jurumu-minɛw la"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denni"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ye … jurumu na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "a tugu … la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סר",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "u la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:02:58.739725727Z",
+  "model": "glm-5.3"
+}

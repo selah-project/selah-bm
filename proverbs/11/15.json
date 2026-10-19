@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תקעים",
+      "rationale": "striking hands = sealing surety in ancient custom; rendered 'bolo-bɔli' (hand-striking), literal picture kept."
+    },
+    {
+      "kind": "crux",
+      "subject": "ערב",
+      "rationale": "root means to braid\/intermix; here pledge surety — 'ɲɛ bila' (put one's face\/credit) for a stranger."
+    },
+    {
+      "kind": "alternative",
+      "subject": "jɔ",
+      "rationale": "בוטח could be 'rests secure' rather than 'is firm'; 'o bɛ jɔ' covers standing-firm."
+    }
+  ],
+  "translation": "A bɛ jaruli sɔrɔ, sabu a bɛ ɲɛ bila walanjɛbaga la; nka min bɛ bolo-bɔli dafili, o bɛ jɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/11\/13-16.1791942434405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "jaruli"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "bɛ … sɔrɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "bɛ ɲɛ bila"
+    },
+    {
+      "surface": "זר",
+      "gloss": "walanjɛbaga"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "nka min bɛ … dafili"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "bolo-bɔli"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "jɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:47:14.406287559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 16:19",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o ye",
+      "rationale": "Bambara needs the copula 'o ye … ye' for the apostrophe 'Yawe, my strength'; Hebrew juxtaposes nouns without a verb."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "gloss": "'helebele' for הבל (vapour\/breath); the Hebrew picture 'breath' evoking Hewel (Abel) is lost."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Yeremiah addresses Yawe directly in the vocative; speaker shifts from Yawe's speech (v.18) to the prophet's."
+    }
+  ],
+  "translation": "Yawe, ⟨o ye⟩ ne ka se ye, ani ne ka bilayɔrɔ, ani ne ka yɛlɛmayɔrɔ gɛlɛya don la, siyaw bɛna na ɲɛ fɛ dugukolo labanw na, u bɛna fɔ ko: i tiɲɛna, an ka baw y'an ladali ni furyaw ye, helebele minnu tɛ nafa di o tɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7021c1a1ed94eff917c4d3d8a3492aec69215d12f0915df3ab77daeed5c19f8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/16\/17-20.1791935330427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ne ka se"
+    },
+    {
+      "surface": "ומעזי",
+      "gloss": "ani ne ka bilayɔrɔ"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "ani ne ka yɛlɛmayɔrɔ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don la"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "gɛlɛya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɲɛ fɛ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bɛna na"
+    },
+    {
+      "surface": "מאפסי",
+      "gloss": "labanw"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u bɛna fɔ ko"
+    },
+    {
+      "surface": "אך",
+      "gloss": "i tiɲɛna"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "furyaw"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "y'an ladali"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "an ka baw"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "helebele"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tɛ yen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "o kɔnɔ"
+    },
+    {
+      "surface": "מועיל",
+      "gloss": "nafa di"
+    }
+  ],
+  "timestamp": "2026-10-13T23:48:50.429098854Z",
+  "model": "glm-5.3"
+}

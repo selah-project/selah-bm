@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "muso fitinin",
+      "rationale": "פילגש is 'concubine'; no single Bamanankan word, rendered as secondary wife"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Hebrew verbless listing 'the sons of Keturah' needs Bamanankan copula"
+    },
+    {
+      "kind": "elision",
+      "subject": "ובני (first)",
+      "rationale": "Fronted construct 'sons of' folded into the predicate; denw appears once"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Census of Keturah's line opening Abraham's descendants"
+    }
+  ],
+  "translation": "Ketura, Awraham (Ibrahima) ka muso fitinin, a ye ⟨את⟩ Zimran bɔ, ani Yokshan, ani Medan, ani Midian, ani Yishbak, ani Shuwa. Yokshan denw: Sheba ani Dedan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4ef063860bd0ae2c89f9246b26ecddb61eb79fca4786ed9d54676e5916d804d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/1\/29-32.1791947344711.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "… denw"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ketura"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "muso fitinin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham (Ibrahima)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a ye … bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "ani Yokshan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "ani Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "ani Midian"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "ani Yishbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "ani Shuwa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "ani Dedan"
+    }
+  ],
+  "timestamp": "2026-10-14T03:09:04.713030149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 29:28",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "waati ye jan ye",
+      "rationale": "ארכה היא is literally 'it is long' — the exile is long; Bambara supplies 'waati' (time) which Hebrew leaves implied."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארכה … בנו ושבו",
+      "rationale": "Jeremiah's letter quoted back at him: the long (arukah) exile vs build-and-dwell; the quote of 29:5 is the polemic's point."
+    }
+  ],
+  "translation": "Sabu a de cila Babilon (Babilɔn) na ko anw ye: waati ye jan ye — aw bɛ sow dɔ, aw bɛ sigi yen, aw bɛ nakɔw kɔ, aw bɛ ⟨את⟩ u jiridenw dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c40a7c7739b793dfc9173434f1c7de3744cfc1690de4916a55f5cef29d64ac7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/29\/25-28.1791935745653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu … de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "de"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a cila"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "anw ye"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "jan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "a ye … ye"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "aw bɛ sow dɔ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "sow"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "aw bɛ sigi yen"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "aw bɛ nakɔw kɔ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "nakɔw"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "aw bɛ dun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u jiridenw (dugudenw ka nakɔ jiridenw)"
+    },
+    {
+      "surface": "פריהן",
+      "gloss": "u jiridenw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:55:45.657741011Z",
+  "model": "glm-5.3"
+}

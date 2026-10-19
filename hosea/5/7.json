@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kalo",
+      "rationale": "חדש: 'kalo kura' (sansi dɔw) vs 'dɔ min kɔrɔ san kelen dɔrɔn' (KJV 'a month') — sira fila bɛ yen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fidya kɛ",
+      "rationale": "בגדו kɔrɔ ye 'juguya kɛ ni ɲɛda fitinin ye' (laada tiɲɛ fɔli) — Bamanankan daɲɛ 'fidya kɛ' dɔgɔya dɔ yen."
+    },
+    {
+      "kind": "you",
+      "subject": "u",
+      "rationale": "Kuma bɛ Israyɛl\/Efrayim lamini kan."
+    }
+  ],
+  "translation": "U ye fidya kɛ Yawe bolo, sabu u banna denw minnu ye datɔw ye; sisan kalo bɛna u ni ⟨את⟩ u ka fanw dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/5\/5-8.1791938176774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe bolo"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "fidya kɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "denw"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "datɔw"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "banna"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "u dun"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka fanw"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "u ka fanw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:36:16.775381761Z",
+  "model": "glm-5.3"
+}

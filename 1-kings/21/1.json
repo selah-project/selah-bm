@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 21:1",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Bamanankan past marker supplied for the Hebrew narrative ויהי\/היה framing"
+    },
+    {
+      "kind": "substitution",
+      "subject": "soba",
+      "rationale": "היכל is a large public building (palace\/temple); rendered 'big house', the picture not the role"
+    }
+  ],
+  "translation": "O kumaw kɔfɛ, ⟨tun⟩ bɛ nakɔ dɔ Nawoto (Naboti) ma, Yizreeli (Yezirelikɛ) min bɛ Yizreel (Yezireli), Ahawab (Ahabu) soba gɛrɛ — min ye Shomeron (Samari) masakɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "43996b67bab36963950fd87267c1b0858f6b5de5696a1e2760850a9c1fe623a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/21\/1-4.1791932497653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "nakɔ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tun bɛ"
+    },
+    {
+      "surface": "לנבות",
+      "gloss": "Nawoto ma"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "Yizreeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "gɛrɛ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "soba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahawab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-13T23:01:37.661319384Z",
+  "model": "glm-5.3"
+}

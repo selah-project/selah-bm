@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 17:27",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Lo-Debar",
+      "rationale": "Place name contains Hebrew 'no-thing'; kept as opaque name, its meaning (' no pasture\/word ') lost."
+    },
+    {
+      "kind": "addition",
+      "subject": "min bɛ",
+      "gloss-less": false,
+      "rationale": "Hebrew simple construct chains (Shobi son of Nahash of Rabbah of Ammon) require Bambara relative 'min bɛ ... kɔnɔ'."
+    }
+  ],
+  "translation": "Dawid ye Mahanayim na waati, Shobi, Nakash den, min bɛ Rabat, Amon denw ka dugu kɔnɔ, ni Makiri, Ammiyel den, min bɛ Lo-Debar, ni Barzillay, Gileadtigi, min bɛ Rogelim,",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9342efdd948b0524c34945d52739feee20d4ed996c5472f6aae5ca98303c976e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/17\/25-28.1791931355458.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waati"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "ye ... na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Mahanayim"
+    },
+    {
+      "surface": "ושבי",
+      "gloss": "Shobi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakash"
+    },
+    {
+      "surface": "מרבת",
+      "gloss": "Rabat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ומכיר",
+      "gloss": "Makiri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiyel"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debar"
+    },
+    {
+      "surface": "וברזלי",
+      "gloss": "Barzillay"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Gileadtigi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "Rogelim"
+    }
+  ],
+  "timestamp": "2026-10-13T22:42:35.469335980Z",
+  "model": "glm-5.3"
+}

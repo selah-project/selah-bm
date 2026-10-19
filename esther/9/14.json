@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Unstated subject 'they' supplied for the verb תלו"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ten sons",
+      "rationale": "Count of Haman's ten sons repeated as an exact figure"
+    }
+  ],
+  "translation": "Masakɛ y'a fɔ ko k'a kɛ nin cogo ye; sariya dabɔra Shushan; ani ⟨את⟩ Haman denkɛw tan, u bila jiri kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a71d7e490b0df3f5dac1be1e4aa16c42b292d43eb24b0c6dd471de159389436f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/9\/13-16.1791945685143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "y'a fɔ ko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nin cogo"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "dabɔra"
+    },
+    {
+      "surface": "דת",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haman denkɛw tan"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "u bila jiri kan"
+    }
+  ],
+  "timestamp": "2026-10-14T02:41:25.144258142Z",
+  "model": "glm-5.3"
+}

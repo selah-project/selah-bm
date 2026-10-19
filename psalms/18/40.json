@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dagaya",
+      "rationale": "כרע literally 'bend the knee, prostrate'; Bambara 'bring low\/bend down' preserves the knee picture"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kokura di",
+      "rationale": "אזר 'gird' — Bambara has no girdle idiom; 'clothed me with strength' substitution"
+    }
+  ],
+  "translation": "I ye kokura di ne ma ka kɛ ɛtɛbɔ la, i ye minnu dagaya ne kan, i y'u bila ne jukɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3592fb4a228b3904063d69dd3b8e8d0d462e7e6a2ba99387922a948eb95a95bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/37-40.1791939717701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "i ye … di ne ma"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kokura"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ka kɛ ɛtɛbɔ la"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "i ye … dagaya"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "minnu dagaya ne kan"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ne jukɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:57.702659345Z",
+  "model": "glm-5.3"
+}

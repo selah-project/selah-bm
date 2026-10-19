@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "masakɛ tɛ se ka kuma kɛ aw la",
+      "rationale": "'אין המלך יוכל אתכם דבר' — 'masa tɛ se ka kuma kɛ aw la' walima 'masa tɛ se ka aw ye kuma' (KJV ni JPS fila bɛ fara ɲɔgɔn kan)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sabu",
+      "rationale": "כי yɛlɛma k'ɛ kɛ 'sabu' ye (n'ɑ ye 'sabu\/ko de ye'), a bɛ weleli nɔ da"
+    }
+  ],
+  "translation": "Masa Tsidkiyahu ko: Nin de, a b'aw bolo la, sabu masakɛ tɛ se ka ⟨את⟩ kuma kɛ aw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "acfc341daa1a1c241b79a57dae25c64d9ea585388bd1a8fd4abc6d03bffc7bc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/38\/5-8.1791936051411.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nin de"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "aw bolo la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "tɛ se ka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kuma (aw la)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    }
+  ],
+  "timestamp": "2026-10-14T00:00:51.411808186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "puku",
+      "rationale": "בפוך is eye-paint (antimony); 'puku' keeps the cosmetic sense, not abstract 'makeup'"
+    },
+    {
+      "kind": "crux",
+      "subject": "a ye ⟨את⟩ a kun ɲɛfɔn",
+      "rationale": "ותיטב literally 'she made good her head' — adorned vs combed vs arranged; renderings differ"
+    }
+  ],
+  "translation": "Yehu nana Yizreela (Yizireli) kɔnɔ; Izabel mɛn a ta, a ye puku di a ɲɛnamaw la, a ye ⟨את⟩ a kun ɲɛfɔn, k'a ɲɔsi daminɛ kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/9\/29-32.1791932746776.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreela (Yizireli)"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "Izabel"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "mɛn a ta"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "a ye … di"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "puku"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "a ɲɛnamaw la"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "a ye … ɲɛfɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kun"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "a kun"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "a ɲɔsi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "… kɔnɔ"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "daminɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:05:46.781480896Z",
+  "model": "glm-5.3"
+}

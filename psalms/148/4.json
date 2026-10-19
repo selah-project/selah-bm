@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ",
+      "rationale": "Bambara locative needs the verb 'bɛ' (are at) which Hebrew's מעל phrase omits"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sankolo-ta-sankolow",
+      "rationale": "heavens-of-heavens construct rendered with the Bambara genitive 'ta' hyphen-joined to keep the binding"
+    }
+  ],
+  "translation": "Toyiw a, sankolo-ta-sankolow, ani jiw minnu bɛ sankolow la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/148\/1-4.1791942022401.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Toyiw a"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sankolo-ta-"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ani jiw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:22.402723744Z",
+  "model": "glm-5.3"
+}

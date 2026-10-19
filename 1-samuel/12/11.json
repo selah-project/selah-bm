@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Bedan",
+      "rationale": "Bedan unknown as deliverer; LXX and Targum read 'Barak', Wycliffe 'Samson' — Hebrew kept Bedan."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Samuel addresses the people directly: 'a ye aw tigɛ ... aw sigira bɛta la'."
+    }
+  ],
+  "translation": "Yawe ye ⟨את⟩ Yerubaal ani ⟨את⟩ Bedan ani ⟨את⟩ Yifta ani ⟨את⟩ Shemuel ci; a ye ⟨אתכם⟩ niŋanso bɛ aw kɔrɔla kɔrɔla bɛmaw bolo; aw sigira bɛta la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/12\/9-12.1791930136880.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a ye ... ci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Yifta"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "a ye ... tigɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "aw"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "bɛmaw bolo"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "aw bɛmaw"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "kɔrɔla kɔrɔla"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "aw sigira"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bɛta la"
+    }
+  ],
+  "timestamp": "2026-10-13T22:22:16.882927162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "don",
+      "rationale": "נשׂא = 'ka wuli\/ka minɛ', 'ka jurumu don' ye 'to bear iniquity' ye — Heburu kɔkɔrɔka 'lifting' bɔko nɔgɔya"
+    },
+    {
+      "kind": "crux",
+      "subject": "ce walima muso",
+      "rationale": "'a bɛna a jurumu don' — ce de bɛna jurumu don (KJV\/ASV\/JPS) wa ni muso de bɛna a don (Wycliffe's reading)"
+    }
+  ],
+  "translation": "Ani ni a ce ka ⟨אתם⟩ jɛ a mɛn ko kɔ fɛ, a bɛna ⟨את⟩ a jurumu don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "722c5f42a2a4e717144969fa138bfd55839b79830edda62da925b070695ca1a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/30\/13-16.1791927306221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ani ni"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ka jɛ"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "a jɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "u (a ladiw)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔ fɛ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "a mɛn"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "a bɛna ... don"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a jurumu"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "a jurumu"
+    }
+  ],
+  "timestamp": "2026-10-13T21:35:06.222753384Z",
+  "model": "glm-5.3"
+}

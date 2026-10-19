@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Object pronoun supplied: Hebrew suffix on יסדה and יכוננה points back to the earth of v1"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסדה\/יכוננה",
+      "rationale": "Founded\/established parallel pair; Bambara da\/jɔ keeps the two verbs distinct as Hebrew does"
+    }
+  ],
+  "translation": "Sabu n'ɔ ye ⟨a⟩ da kɔgɔjiw kan, n'ɔ ye ⟨a⟩ jɔ bajiw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/24\/1-4.1791939887148.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "n'ɔ (a yɛrɛ)"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kɔgɔjiw"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "a ye a da"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "la"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "bajiw"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "a ye a jɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:47.149075880Z",
+  "model": "glm-5.3"
+}

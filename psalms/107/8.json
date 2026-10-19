@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד sɛbɛnna hesed ye sariya kɔrɔ, a tɛ dɔgɔya ka kɛ kanuya walima makari kelen ye"
+    },
+    {
+      "kind": "alternative",
+      "subject": "aw kana",
+      "rationale": "יודו ye jate-sɛbɛnnen ye (kɔrɔkɔrɔli), nka aw kana (iminɛ) fɔcogo bɔbɔnnen don o yɛrɛ la"
+    }
+  ],
+  "translation": "Aw kana Yawe kɔrɔsi a ka hesed kama, ani a ka fɛn ɲɛfɔlenw hadamadenw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "267cd5d975fa74e2b579d67203c49e25b0324478b9443a90c0d344f85745d44a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/107\/8-8.1791951208269.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "kɔrɔsi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "a ka fɛn ɲɛfɔlenw"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamadenw"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:28.269834358Z",
+  "model": "glm-5.3"
+}

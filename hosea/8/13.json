@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 8:13",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבהבי",
+      "rationale": "rare word: 'my gift-offerings' (God speaking) vs KJV 'sacrifices of mine offerings' vs JPS reading the sacrifice as illicit"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבחי\/יזבחו",
+      "rationale": "noun and verb of slaughtering repeated, 'sacrifices of gifts they sacrifice', sharpening the irony"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויפקד",
+      "rationale": "פקד is 'visit\/attend to', rendered as 'lajɛ' (inspect); can mean punish or muster"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מצרים ישובו",
+      "rationale": "some read literal return to Egypt, others a proverb for renewed slavery"
+    }
+  ],
+  "translation": "N di-sarakaw sarakaw na, u bɛ sogo sara ka a dun; nka Yawe ma u sɔn. Sisan a bɛna u jurumuw hakili, ka u tayaw lajɛ; olu yɛrɛ bɛna segin Mitsrayim (Misira).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d532d7ad060efe1ecd558a908edcfab5e23df5d0d59e92a736c475e2f71b1fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/8\/13-14.1791938233407.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "sarakaw"
+    },
+    {
+      "surface": "הבהבי",
+      "gloss": "n di-sarakaw"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "u bɛ saraka"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sogo"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ka a dun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "u sɔn"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "יזזכר",
+      "gloss": "a bɛna hakili"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "u jurumuw"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ka lajɛ"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "u tayaw"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olu yɛrɛ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Misira)"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bɛna segin"
+    }
+  ],
+  "timestamp": "2026-10-14T00:37:13.408134101Z",
+  "model": "glm-5.3"
+}

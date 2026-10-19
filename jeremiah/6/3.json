@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 6:3",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רעים",
+      "rationale": "Literal 'shepherds' — enemy commanders pictured as shepherds pitching tents around Jerusalem to graze her."
+    },
+    {
+      "kind": "idiom",
+      "subject": "רעו איש את ידו",
+      "rationale": "'each will pasture his hand', i.e. feed in his own allotment; JPS 'feed bare every one what is nigh at hand'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ni⟩",
+      "rationale": "Hebrew רעו איש has no object; Bambara requires one for 'graze'."
+    }
+  ],
+  "translation": "Sagabaga bɛna na a fɛ ni u misiw ye; u bɛna u tɛgi da a nɔma, a gili bɛɛ; mɔgɔ kelen-kelen bɛna a yɛrɛ ka yɔrɔ mara ⟨ni⟩ ⟨את⟩ a bolo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ce034e7494189da34e25a48e89a75395785afb3971c68b39f0f17df39daea6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/6\/1-4.1791935028972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליה",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bɛna na"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "sagabaga"
+    },
+    {
+      "surface": "ועדריהם",
+      "gloss": "ni u misiw ye"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "u bɛna u tɛgi da"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a nɔma"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "u tɛgi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a gili bɛɛ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "bɛna mara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen-kelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bolo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a bolo"
+    }
+  ],
+  "timestamp": "2026-10-13T23:43:48.975074789Z",
+  "model": "glm-5.3"
+}

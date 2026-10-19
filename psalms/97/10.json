@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "niw",
+      "rationale": "נפשות ye niw (ɲɛnamaw) ye, 'âmes' tɛ a kɔrɔ ye Tubabukan na."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛniw",
+      "rationale": "חסידים: a ka sɔngɔɲɛmatigiw \/ tiɲɛniw; 'saints' daɲɛ kɔrɔkun tɛ a la."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe kanuya bagaw",
+      "rationale": "kumaw bɛɛ bɛ fɔ kanuya bagaw ma, aw-fɔcogo."
+    }
+  ],
+  "translation": "Yawe kanuya bagaw, aw ye ko jugu kɛ kɛyi: A bɛ a ka tiɲɛniw ni mara, A bɛ u bɛyi ko jugu kɛlaw bolo ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/97\/9-12.1791941164928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "kanuya bagaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "aw ye … kɛ kɛyi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ko jugu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "A bɛ … mara"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "niw"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "a ka tiɲɛniw"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "bolo ma"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ko jugu kɛlaw"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "A bɛ u bɛyi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:04.929484531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka tiga",
+      "rationale": "Comparative 'more than' supplied; Hebrew מעת is simply 'from the time when', no explicit comparison"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מעת דגנם",
+      "rationale": "Could read 'from their grain and new wine', i.e. joy richer than harvest itself, no time word"
+    }
+  ],
+  "translation": "I ye diya bila n ka dusukun kɔnɔ, ka tiga u ka kisɛ ni u ka diwɛn caman-caya waati la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a3bd87c48661f56309d6a35bebae66b06a6ceb9024570ce214dcf6a4d178f119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/4\/5-8.1791939483749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "ye … bila"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "diya"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "n ka dusukun kɔnɔ"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "waati la"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "u ka kisɛ"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "u ka diwɛn"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "caman-caya"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:03.750884020Z",
+  "model": "glm-5.3"
+}

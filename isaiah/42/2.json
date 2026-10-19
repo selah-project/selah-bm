@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ישא קולו",
+      "rationale": "'lift his voice' — Hebrew idiom for crying out; rendered as raising the voice."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בחוץ",
+      "rationale": "'outside\/in the street' — concrete 'outside' rather than the traditional 'street'."
+    }
+  ],
+  "translation": "A tɛna kali, ani a tɛ a kan jɔ, ani a tɛ a kan fɔ ka mɛn dugukɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/42\/1-4.1791934382909.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a tɛ"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani a tɛ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "a kan jɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani a tɛ"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "a kan fɔ ka mɛn"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "dugukɔnɔ"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "a kan"
+    }
+  ],
+  "timestamp": "2026-10-13T23:33:02.910498599Z",
+  "model": "glm-5.3"
+}

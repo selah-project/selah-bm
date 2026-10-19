@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 44:17",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "El",
+      "rationale": "אל here is an idol called 'god'; Bambara keeps the shape El, a small-g god of the woodcarver."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסגוד\/וישתחו",
+      "rationale": "two synonyms of prostration pile up in one verse, the satire of double worship; Bambara repeats jɔɔ to keep the doubling."
+    }
+  ],
+  "translation": "A fitiri yɛrɛ, a ye El dilan a ye pesali ye; a jɔɔ a nɔma, a jɔɔ a la, a maga a ma, a ko: N nasabila, sabu i ye n ka El ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/44\/17-20.1791934472467.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאריתו",
+      "gloss": "a fitiri"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilan"
+    },
+    {
+      "surface": "לפסלו",
+      "gloss": "pesali"
+    },
+    {
+      "surface": "יסגוד",
+      "gloss": "jɔɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "jɔɔ a nɔma"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "maga a ma"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "n nasabila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n ka El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:34:32.468422520Z",
+  "model": "glm-5.3"
+}

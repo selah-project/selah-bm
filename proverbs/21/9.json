@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובית חבר",
+      "rationale": "'a house of company\/shared house' vs traditional 'a wide house' (KJV\/ASV); ylt keeps the literal 'house of company'."
+    },
+    {
+      "kind": "addition",
+      "subject": "dɛ kelen",
+      "rationale": "Bambara needs 'kelen' (one) after the corner-word; Hebrew has no number."
+    }
+  ],
+  "translation": "Ka segin so sanfɛ dɛ kelen kan, o ka nyi ka tɛmɛ muso min bɛ kɔkɔrɔli kɛ, a ni so min bɛ ka ɲɔgɔn mara ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/21\/9-12.1791942660088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ka nyi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ka segin"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "dɛ (dantigɛ)"
+    },
+    {
+      "surface": "גג",
+      "gloss": "so sanfɛ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "muso min bɛ kɔkɔrɔli kɛ"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "kɔkɔrɔli"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ani so"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "min bɛ ka ɲɔgɔn mara"
+    }
+  ],
+  "timestamp": "2026-10-14T01:51:00.088994116Z",
+  "model": "glm-5.3"
+}

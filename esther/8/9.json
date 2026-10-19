@@ -1,0 +1,211 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 8:9",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tile saba ni mugan, jamana wolonwula ni mugan ni kɛmɛ",
+      "rationale": "verse counts days and 127 provinces exactly; numbers preserved as written (7+20+100)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדינה ומדינה, עם ועם",
+      "rationale": "Hebrew repetition 'province and province, people and people'; rendered literally to keep the rhythm."
+    },
+    {
+      "kind": "hapax",
+      "subject": "האחשדרפנים",
+      "rationale": "Persian loan-word for satraps; kept as loan ahashdarpanw with satarapuw beside it."
+    }
+  ],
+  "translation": "O waati la, u ye masakɛ ka sɛbɛbagaw wele, kalo sabanan na — o ye kalo Siwan (Siwane) ye — o kalo tile saba ni mugan na (tile saba ni mugan na a kɔnɔ); a ye sɛbɛn i y'o tiɲɛ bɛɛ ye min na Mordekayi (Mordekay) y'a fɔ Yuhuduw ma, ani satarapuw (ahashdarpanw) ma, ani famatigiw ani jamanaw ka ɲɛmɔgɔw ma, minnu bɛ Hodu (Indu) la fo Kush (Etiyopi) — jamana wolonwula ni mugan ni kɛmɛ — jamana ni jamana, i y'a ka sɛbɛnni tiɲɛ ye, jama ni jama, i y'a ka kan tiɲɛ ye; ani Yuhuduw ma, i y'u ka sɛbɛnni tiɲɛ ye ni u ka kan tiɲɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/8\/9-12.1791945704786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "u ye ... wele"
+    },
+    {
+      "surface": "ספרי",
+      "gloss": "sɛbɛbagaw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waati la"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kalo ... na"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sabanan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o ye"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "סיון",
+      "gloss": "Siwan"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "saba"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ni mugan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a kɔnɔ"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "a ye sɛbɛn"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "i y'o tiɲɛ bɛɛ ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... ma"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yuhuduw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani ... ma"
+    },
+    {
+      "surface": "האחשדרפנים",
+      "gloss": "satarapuw"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "ani famatigiw"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ani ɲɛmɔgɔw"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "jamanaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu bɛ"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ni mugan"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ni kɛmɛ"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "jamana"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "jamana"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "ni jamana"
+    },
+    {
+      "surface": "ככתבה",
+      "gloss": "a ka sɛbɛnni tiɲɛ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ni jama"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ni jama"
+    },
+    {
+      "surface": "כלשנו",
+      "gloss": "a ka kan tiɲɛ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani ... ma"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yuhuduw"
+    },
+    {
+      "surface": "ככתבם",
+      "gloss": "u ka sɛbɛnni tiɲɛ"
+    },
+    {
+      "surface": "וכלשונם",
+      "gloss": "u ka kan tiɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:41:44.786989854Z",
+  "model": "glm-5.3"
+}

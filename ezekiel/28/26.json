@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 28:26",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hɛrɛ la",
+      "rationale": "לבטח 'in safety\/security' rendered hɛrɛ la (in peace); Bambara lacks a distinct everyday 'securely' word"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "aleph-tav אתם kept as ⟨את⟩ marker pointing at the round-about despisers"
+    },
+    {
+      "kind": "addition",
+      "subject": "o kɔfɛ",
+      "rationale": "Bambara needs a temporal linker before the final clause 'and they shall know'"
+    }
+  ],
+  "translation": "U bɛna sigi a la hɛrɛ la, u bɛna sow dilan, u bɛna diwɛn-jiriw bɛn, k'a sɔrɔ u bɛna sigi hɛrɛ la, ne ye fɛnw kɛ minnu b'u fiɲɛ bɛɛ la minnu bɛ u gili la; o kɔfɛ u bɛna dɔn ko ne ye Yawe, u Ala ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "107a6cd93dba7f0cfdba22a43d7c5274eb103e97dc073426055d3a8874172a7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/28\/25-26.1791937332086.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "u bɛna sigi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a la"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "hɛrɛ la"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "u bɛna … dilan"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "sow"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "u bɛna … bɛn"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "diwɛn-jiriw"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "u bɛna sigi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "hɛrɛ la"
+    },
+    {
+      "surface": "בעשותי",
+      "gloss": "ne ye … kɛ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "fɛnw"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "השאטים",
+      "gloss": "minnu b'u fiɲɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u (minnu bɛ u gili la)"
+    },
+    {
+      "surface": "מסביבותם",
+      "gloss": "minnu bɛ u gili la"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "u bɛna dɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "u Ala"
+    }
+  ],
+  "timestamp": "2026-10-14T00:22:12.087668503Z",
+  "model": "glm-5.3"
+}

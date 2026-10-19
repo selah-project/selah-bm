@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 6:14",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wɔrɔw",
+      "rationale": "רכב 'chariot\/team' has no single Bambara word; rendered as 'horse-taamabaganw' with the known loan (wɔrɔw) in brackets at first use"
+    },
+    {
+      "kind": "addition",
+      "subject": "ni",
+      "rationale": "the two vavs joining horses\/chariots\/force require the conjunction 'ni', which Hebrew carries in the prefix"
+    }
+  ],
+  "translation": "A ye sɔsow ni sɔsow taamabaganw (wɔrɔw) ni ja ka gɛlɛn-camannen bila yen; u na su la, u bilala dɔgɔtɔrɔso lakana lamini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2775878a3464848c4fc5401843fe1b0079065b603383107def58632c68221b2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/6\/13-16.1791932706324.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a ye … bila"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "sɔsow"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "sɔsow taamabaganw (wɔrɔw)"
+    },
+    {
+      "surface": "וחיל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ka gɛlɛn-camannen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "u na"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "su la"
+    },
+    {
+      "surface": "ויקפו",
+      "gloss": "u bilala … lakana lamini"
+    },
+    {
+      "surface": "על",
+      "gloss": "lakana"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dɔgɔtɔrɔso"
+    }
+  ],
+  "timestamp": "2026-10-13T23:05:06.332907131Z",
+  "model": "glm-5.3"
+}

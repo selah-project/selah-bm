@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא תשבענה … לא תשבענה",
+      "rationale": "Identical refrain 'are not satisfied' closes both halves; repetition kept verbatim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תשבענה",
+      "rationale": "'Be sated\/filled to satisfaction' rendered 'tɛ sa' (not have enough), the closest Bambara idiom for insatiable appetite."
+    }
+  ],
+  "translation": "Sheol ni Abaduw tɛ sa; hadamadenw ka ɲɛw fana tɛ sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2840ef32a6fe4117536bd22a0a81525c5ecee1ea848f43839e422a5100d3ea99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/27\/17-20.1791942994113.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "Abaduw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ɲɛw fana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "hadamadenw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "sa"
+    }
+  ],
+  "timestamp": "2026-10-14T01:56:34.115077178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kɛra ⟨a tɔɔ ta ye⟩",
+      "rationale": "Hebrew has no verb 'was given'; Bamanankan needs a verb to carry the transfer"
+    },
+    {
+      "kind": "crux",
+      "subject": "רעה",
+      "rationale": "lemma points to 'to tend\/pasture' but context reads רֵעַ 'friend\/companion' — 'whom he had used as his friend' vs 'who pastured with him'"
+    },
+    {
+      "kind": "elision",
+      "subject": "companion",
+      "rationale": "the wedding companion (best-man figure) of v. 11 is implied, not named in this verse"
+    }
+  ],
+  "translation": "Shimshon (Sansun) muso kɛra ⟨a tɔɔ ta ye⟩, min tun tɔɔya kɛra a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0e82f89d49566333ebdb213ace3cd87bdf72df11909ecdd54c129ca156ad9faf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/14\/17-20.1791929621479.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "muso"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshon"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "a tɔɔ ta ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "tɔɔya kɛra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    }
+  ],
+  "timestamp": "2026-10-13T22:13:41.483606005Z",
+  "model": "glm-5.3"
+}

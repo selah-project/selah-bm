@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ירגזו \/ תנוט",
+      "rationale": "Hebrew uses two different quake-verbs (tremble, be shaken); Bambara renders both with the fear\/shake field, the distinction is dulled"
+    },
+    {
+      "kind": "addition",
+      "subject": "min bɛ … sigi",
+      "rationale": "Hebrew participle 'sits' is made a relative clause with supplied subject 'min'"
+    }
+  ],
+  "translation": "Yawe ye masaya kɛ; jamaw bɛ siran; min bɛ kerubuw la sigi, dugukolo bɛna jijiri.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/99\/1-4.1791941188127.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ye masaya kɛ"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "bɛ siran"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "jamaw"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "min bɛ … sigi"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubuw la"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "bɛna jijiri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:28.128058538Z",
+  "model": "glm-5.3"
+}

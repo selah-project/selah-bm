@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Hebrew has no past-tense particle; Bambara needs 'tun' for the second clause"
+    },
+    {
+      "kind": "addition",
+      "subject": "nka",
+      "rationale": "Hebrew juxtaposes the clauses without a conjunction; contrastive 'nka' supplied"
+    }
+  ],
+  "translation": "Shaul (Sawulu) ye kuma Yonatan ma, a denkɛ ye, ani a serew bɛɛ fɛ, walasa ka ⟨את⟩ Dawid (Dawuda) fa; nka Yonatan, Shaul denkɛ, tun ye Dawid kanuya kosɛbɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8aa75d55e958161244f0b5750fd14d1a199e0a0c6a110c5ab9cfb236f7ad040f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/19\/1-4.1791930496335.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ye kuma kɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani … ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a serew"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "walasa ka … fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ani Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tun ye … kanuya"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawid kan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:28:16.336642346Z",
+  "model": "glm-5.3"
+}

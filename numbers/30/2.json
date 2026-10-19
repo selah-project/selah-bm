@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 30:2",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara presentative requires 'ye' before the predicate; Hebrew has no copula"
+    },
+    {
+      "kind": "you",
+      "subject": "Israyel denw",
+      "rationale": "Moses addresses the tribal heads on behalf of Israel"
+    }
+  ],
+  "translation": "Musa ye kuma matotɔw kuntilenw ma, Israyel denw ɲɛfɛ, ko: nin ye kuma min ye Yawe ka kalan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4f45dac93f39300938963c42701e97ecf03234ff69b3111d23558a7b8f4eba09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/30\/1-4.1791927260415.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ye kuma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kuntilenw"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "matotɔw"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denw ma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T21:34:20.416293092Z",
+  "model": "glm-5.3"
+}

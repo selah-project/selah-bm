@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עם הספר",
+      "rationale": "ni sɛbɛn in ye: 'with the letter' literal (sɛbɛn kelen); KJV\/others read 'by letters' (plural royal decree)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וּבְבֹאָהּ",
+      "rationale": "Hebrew verb has feminine suffix 'her coming' — subject (Esteri) read from context, rendered 'a nana'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על ראשו",
+      "rationale": "'upon his head' = ka segin a kun kan, his plot returns on himself; Hebrew keeps the literal head picture, Bambara keeps it too."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Haman's device",
+      "rationale": "The verse recounts reversal-measure: what he weighed out returns in equal weight on his own head."
+    }
+  ],
+  "translation": "A nana masakɛ ɲɛfɛ na, a y'a fɔ ni sɛbɛn in ye ko: a tun makɔrɔkɔko min ye Yehudiw la jɔ, o ye bɛne ye, o ka segin a kun kan; u ye ⟨את⟩ a ni ⟨את⟩ a denw lakabila jiri kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0152af1cbd7db126e387eea1b89d43164019033e09588030010baf5048fb67c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/9\/25-28.1791945711543.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "a nana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a y'a fɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ka segin"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "a tun makɔrɔkɔko"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bɛne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ye…jɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yehudiw"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "a kun"
+    },
+    {
+      "surface": "ותלו",
+      "gloss": "u ye…lakabila jiri kan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a (Haman)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a denw"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a denw"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "jiri"
+    }
+  ],
+  "timestamp": "2026-10-14T02:41:51.544448036Z",
+  "model": "glm-5.3"
+}

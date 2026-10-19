@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered per glossary as 'ni' (life-force\/breath), not an immaterial 'soul'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "direct second-person cry to Yawe within the reported prayer"
+    }
+  ],
+  "translation": "Ani Yawe tɔgɔ la, n ye wele: Ayo, Yawe, i ka n ka ni filisi!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/116\/1-4.1791941551739.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Yawe tɔgɔ la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "n ye wele"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "filisi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n ka ni"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:31.740341350Z",
+  "model": "glm-5.3"
+}

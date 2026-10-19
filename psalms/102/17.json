@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a yɛrɛ",
+      "rationale": "Hebrew נראה has no explicit subject pronoun; Bambara needs it"
+    },
+    {
+      "kind": "crux",
+      "subject": "nifɛ yɛrɛ \/ kɔnɔma",
+      "rationale": "בכבודו = 'in his splendor\/honor'; kɔnɔma keeps the public-glory sense, nifɛ would be inner dignity"
+    }
+  ],
+  "translation": "Sabu Yawe ye Tsiyon (Siyɔn) ban, a ye a yɛrɛ jira a ka kɔnɔma la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "38816c447df579f62a10ec9aa4bb74f1928f848fff819936d8a49ae76bdeed98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/102\/17-20.1791941197288.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "a ye a yɛrɛ jira"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "a ka kɔnɔma la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:37.289345886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אי נקי",
+      "rationale": "'not innocent' (YLT, ASV, BSB) vs 'island of the innocent' (KJV) vs 'him that is innocent' (JPS); אי can be 'island' or the negative 'not' — I take 'not innocent'."
+    },
+    {
+      "kind": "crux",
+      "subject": "וְנִמְלַט",
+      "rationale": "Passive 'he shall be delivered' vs active 'it (the island) shall be delivered'; subject ambiguity rides on the previous crux."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בבר כפיך",
+      "rationale": "Literally 'in the purity of your palms'; rendered 'ni i bolo tiɲɛ-ko ye' keeping hand and purity."
+    }
+  ],
+  "translation": "A bɛna lasigi mɔgɔ min ma jurumu kɛ ⟨hali⟩, ani o bɛna lasigi ni i bolo tiɲɛ-ko ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4983a18876d1aff17858b477c1741da9e6f1ce9f4d440f1875880175129c4dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/22\/29-30.1791943728051.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "a bɛna lasigi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "jurumu-kɛlaw"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "ani o bɛna lasigi"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "tiɲɛ-ko"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "i bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T02:08:48.051978535Z",
+  "model": "glm-5.3"
+}

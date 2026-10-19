@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aw",
+      "rationale": "Hebrew shifts from 'their heart' (3rd person) to 'your altars' (2nd person); the shift is kept with an explicit ⟨aw⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "shamir",
+      "rationale": "שמיר: 'diamond point' (KJV\/JPS) vs 'hard flint\/thorn-stone'; rare gem word, transliterated"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרושה",
+      "rationale": "same verb חרש means both 'engrave' and 'plough' — the sin is ploughed into the heart, lost in Bambara"
+    }
+  ],
+  "translation": "Yehuda (Juda) ka jurumu sɛbɛnna ni nɛgɛ-sɛbɛndalan ye, ni shamir-tu ye, a dagasana u ka dusukun sɛbɛnkalen kan, ani ⟨aw⟩ ka sarakabɔlanw ka boliw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c91a8fd4a3225649c2c2c64e033a6e488a52e30a749143f611eac9e072d89bc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/17\/1-4.1791935495721.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "sɛbɛnna"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "sɛbɛndalan"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "nɛgɛ"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "tu"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "shamir"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "dagasana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "sɛbɛnkalen"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "u ka dusukun"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "ani … boliw"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "aw ka sarakabɔlanw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:51:35.726969272Z",
+  "model": "glm-5.3"
+}

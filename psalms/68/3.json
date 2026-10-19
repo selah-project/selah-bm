@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כהנדף\/תנדף",
+      "rationale": "נדף daɲɛ bɛ segin fila: 'i n'a fɔ … ka fili ka bɔ' — a ta kaɲɛdilan ye koɲumaden kɔnɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kirisige",
+      "rationale": "דונג ye waksige ye; kirisige (kirisige-tɛmɛ) ta k'a jira sabu Bamanankan tɛ waksige daɲɛ dɔnnen ye"
+    }
+  ],
+  "translation": "I n'a fɔ siwɔgɔlodon bɛ minɛbaga la ka fili ka bɔ, nin de cogo min na kirisige bɛ fiɲɛw Fili la, o cogo min na jurumubagaw bɛna bɔ Elohim ɲɛnanw fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "218b294a7986a0204d0638f3c633a17a5d4da59cbbec78714547abb52da4b063",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/68\/1-4.1791940615563.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "i n'a fɔ … ka fili"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "siwɔgɔlodon"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "ka fili ka bɔ"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "nin de cogo min na … bɛ"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "kirisige"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fiɲɛw"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Fili"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bɛna bɔ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jurumubagaw"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɲɛnanw fɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T01:16:55.564317445Z",
+  "model": "glm-5.3"
+}

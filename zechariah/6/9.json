@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Hebrew construct 'word of YHWH' needs Bambara connective ka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לאמר",
+      "rationale": "infinitive 'to say' closes the standard formula; rendered once as ko"
+    }
+  ],
+  "translation": "Yawe ka kuma kɛra ne ma, ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "75921cc987418a45b528ec493433fafbd0282b52fdc2858f1910bf0277a8d988",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/6\/9-12.1791939165817.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne ma"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-14T00:52:45.817907490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the returned exiles",
+      "rationale": "Closing imperative 'fear not' addresses Judah and Jerusalem directly."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זממתי",
+      "rationale": "Same verb as v14 (plan for evil) now reused for plan for good — deliberate echo across the pair."
+    }
+  ],
+  "translation": "Nin cogo na, nin ye segin, n ye ɲɛnamaya kɛ nin donw la, ka Yerushalayim (Jerusalɛmu) ni ⟨את⟩ Yawuda so ka nyi — aw kana siran.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "705d74d82d87111793bbf84a739679aff1d169c2c813eaccdcb758ec3f458117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/8\/13-16.1791939235720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "nin cogo na"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "nin ye segin"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "n ye ɲɛnamaya kɛ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "donw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ka…ka nyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawuda so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yawuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "siran"
+    }
+  ],
+  "timestamp": "2026-10-14T00:53:55.721480545Z",
+  "model": "glm-5.3"
+}

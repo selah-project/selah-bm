@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 22:34",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עד \/ Ed",
+      "rationale": "The altar's name 'Ed' (witness) is the word 'witness' itself; kept as the name with the meaning alongside."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Hebrew יהוה האלהים has no verb; Bambara equative 'ye … ye' supplied."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויקראו למזבח",
+      "rationale": "'called the altar (Ed)' vs 'proclaimed concerning the altar' — is Ed a name given or a declaration made?"
+    }
+  ],
+  "translation": "Rewubendɛn ani Gaddɛn ti sarakabɔlan tɔgɔ fɔ ko «Ed», sabu a ye seere ye anw cɛ, sabu Yawe de ye ⟨Elohim⟩ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4be9337cb16feb523cf92a547ef537d0a8ac8516a53e724857f655ec8f64fea7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/22\/33-34.1791929096554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ti tɔgɔ fɔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Rewubendɛn"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rewuben"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Gaddɛn"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sarakabɔlan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "seere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "בינתינו",
+      "gloss": "anw cɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-13T22:04:56.555354523Z",
+  "model": "glm-5.3"
+}

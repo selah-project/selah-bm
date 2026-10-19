@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-samuel 17:58",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne ye … ye",
+      "rationale": "Hebrew answers with bare nominal phrase 'son of Jesse the Bethlehemite'; Bamanankan requires copula"
+    },
+    {
+      "kind": "you",
+      "subject": "Dawid",
+      "rationale": "Saul questions David directly — 'whose son are you, young man?'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "den min ni tɔgɔ",
+      "rationale": "Hebrew is literally 'son of whom are you'; rendered as a whose-question for natural Bamanankan"
+    }
+  ],
+  "translation": "Saul ko a ye: den min ni tɔgɔ, i denba? Dawid ko: ne ye i ka sɔrɔdɔgɔ Yishay (Isaye) den ye, Betlachmi (Betilɛmu) tɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/17\/57-58.1791930403833.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "denba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i ka sɔrɔdɔgɔ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so (Bet-)"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "Lachmi tɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:26:43.835279408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "'Elohim-alaw' (gods\/mighty ones) vs 'before Elohim' vs 'angels' (LXX); verse 4's kings praise suggests lesser powers, not Yawe."
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Direct address to Yawe throughout the psalm's opening vow."
+    }
+  ],
+  "translation": "Dawud ka. Ne b'i duba ni ne ka dusukun bɛɛ ye; Elohim-alaw ɲɛda, ne bɛ i ye kɔnɔkɔli kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "346831442b593983d91b4805757d480418ee2d0e94b60ab9c1b20b4682cdb7b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/138\/1-4.1791941891719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawud ka"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ne b'i duba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ni … bɛɛ ye"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ne ka dusukun"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ɲɛda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim-alaw"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ne bɛ i ye kɔnɔkɔli kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:38:11.720271553Z",
+  "model": "glm-5.3"
+}

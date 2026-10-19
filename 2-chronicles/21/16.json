@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוח kɔrɔ ye fiɲɛ \/ ninakili ye; yan a bɛ fɔ jamana kelen-kelen ka ɲɛtaali ye"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "Heburu ka 'bolo kan' = 'dazɛ \/ tilencogo la', Bamanankan b'a fɔ cogo nɔgɔnen na"
+    }
+  ],
+  "translation": "Yawe ye ⟨את⟩ Pelisitiw ni Arabuw ka fiɲɛ ɲagami Yehoram (Joram) ko, minnu bɛ Kushiw (Etiopi) tilencogo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "270b1372386bdb0e525b25a281ff27f89f3e0f1a81a0b28b0c138fc987c6f5ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/21\/13-16.1791949284104.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "ye … ɲagami … ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram (Joram)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiɲɛ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Pelisitiw"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "ni Arabuw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "על",
+      "gloss": "tilencogo la"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dazɛ"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Kushiw (Etiopi)"
+    }
+  ],
+  "timestamp": "2026-10-14T03:41:24.105815982Z",
+  "model": "glm-5.3"
+}

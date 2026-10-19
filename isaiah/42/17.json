@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 42:17",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "alaw",
+      "rationale": "אלהינו spoken to idols here, so per discipline 'alaw\/batofɛnw' rather than Elohim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/בשת",
+      "rationale": "verb 'be ashamed' and noun 'shame' from same root pile up; Bambara repeats macya to keep it"
+    }
+  ],
+  "translation": "U bɛna segin a kɔ, u bɛna macya sɔrɔ — aw minnu bɛ tɔgɔ da kabakurun-sɛbɛnnenw la, aw minnu bɛ fɔ kabakurun min bɔra nɛgɛ-wololen na ko: “Y'aw ye an ka alaw ye.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b678dd2df6f7c0ac58d4511db3366d559637e647432391461db891ed456b6121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/42\/17-20.1791934325564.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נסגו",
+      "gloss": "u bɛna segin"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "a kɔ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "u bɛna macya sɔrɔ"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "macya"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "aw minnu bɛ tɔgɔ da"
+    },
+    {
+      "surface": "בפסל",
+      "gloss": "kabakurun-sɛbɛnnenw la"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "aw minnu bɛ fɔ"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "kabakurun min bɔra nɛgɛ-wololen na"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "y'aw"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka alaw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:05.565435603Z",
+  "model": "glm-5.3"
+}

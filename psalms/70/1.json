@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "Hebrew title-word 'to the one-who-glitters\/overseer' rendered as a single noun phrase; the glitter sense is faded in use"
+    },
+    {
+      "kind": "addition",
+      "subject": "sɛbɛn",
+      "rationale": "Bambara needs a head noun for לדוד; Hebrew says only 'of-David'"
+    }
+  ],
+  "translation": "Sanu-ɲɛmɔgɔ ma, Dawid (Dawuda) ka sɛbɛn, ka laseli kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/70\/1-4.1791940604152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sanu-ɲɛmɔgɔ ma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid (Dawuda) ka"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ka laseli kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:16:44.152754541Z",
+  "model": "glm-5.3"
+}

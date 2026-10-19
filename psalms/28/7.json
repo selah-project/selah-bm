@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebagaw",
+      "rationale": "עז is abstract 'strength'; rendered as 'strength-holder\/power' since Bambara needs a nominal form"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבי ... לבי",
+      "rationale": "'my heart' repeated at trust and at exultation, chiastic frame lost in prose"
+    }
+  ],
+  "translation": "Yawe ye n'ka sebagaw ye ani n'ka bɛnbilan, n ka dusukun sigira a la, a dɛmɛnna, n ka dusukun diyoron, ani n ka donkili kɔnɔ, n b'a laada.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/28\/5-8.1791939865692.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "n'ka sebagaw"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "ani n'ka bɛnbilan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "sigira"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "n ka dusukun"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "a dɛmɛnna"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "diyoron"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "n ka dusukun"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "ani n ka donkili kɔnɔ"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "n b'a laada"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:25.693312786Z",
+  "model": "glm-5.3"
+}

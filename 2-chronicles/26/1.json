@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "masaya la",
+      "rationale": "Hebrew uses causative 'made him reign'; Bambara needs 'put him in kingship'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "wolonfila-dentan san",
+      "rationale": "age of Uzziah at accession counted"
+    }
+  ],
+  "translation": "Yuda jama bɛɛ ye ⟨את⟩ Uziya (Uziya) ta, a ye wolonfila-dentan den ye, ani u y'a bilala masaya la a fa Amatsiya (Amatsiya) nɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7d9a2d034a03135cab36b77fa342f1a2f32669433a2edb137ef85edcdcc7d896",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/26\/1-4.1791949378061.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "u ye … ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uziya"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ani a ye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "שש",
+      "gloss": "wolonfila-dentan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tan-duguma"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "u y'a bilala masaya la"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a",
+      "marks": "a (Uziya)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nɔ na"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsiya"
+    }
+  ],
+  "timestamp": "2026-10-14T03:42:58.061838186Z",
+  "model": "glm-5.3"
+}

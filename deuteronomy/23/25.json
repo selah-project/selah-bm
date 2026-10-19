@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "כנפשך 'ni yɛrɛ la' ka ɲɛ — נפש bɛ fɔ ni \/ kunbɔcogo ye, a tɛ dusukunbalen ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Heburukan bolo-daɲɛ ma sɔrɔ 'u' (winyew) ɲɛfɛli kɔkan — Bamanankan ka b'a dɔn min bɛ bila"
+    }
+  ],
+  "translation": "Ni i nana i ka teri ka winyeforo la, i na dun winyew iya i ka ni ye, fo i bɛ saha; nka i ka kɛnɛn na, i kana ⟨u⟩ bila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "46e2fc80679570dcdf66269e774d7577a2fdb49e2dfdec9b72811722e975a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/23\/25-26.1791928115097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "i nana"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "winyeforo la"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "i ka teri"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "i na dun"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "winyew"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "iya i ka ni ye"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "fo i bɛ saha"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nka … na"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "i ka kɛnɛn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i kana"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bila"
+    }
+  ],
+  "timestamp": "2026-10-13T21:48:35.098305326Z",
+  "model": "glm-5.3"
+}

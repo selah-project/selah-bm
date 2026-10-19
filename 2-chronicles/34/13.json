@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 34:13",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לעבודה ועבודה",
+      "rationale": "Hebrew repeats 'service and service' for totality; rendered as distributed 'task by task', the doubling lost"
+    },
+    {
+      "kind": "addition",
+      "subject": "tun yen",
+      "rationale": "Hebrew is verbless list; Bambara needs existential copula"
+    }
+  ],
+  "translation": "Ani u tun bɛ balo-bagaw ɲɛ, ani ɲɛmɔgɔw bɛ baarakɛla bɛɛ ye min bɛ baara kɛ baara-kelen-kelen la; ani Lewidenw kɔnɔ, sɛbɛnnibagaw, lasigidenw ani dabilaw tun yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3c681aeb6429150d91ff40b2b16e6450e15d0fa0ce7eaef39a56fe8730c33174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/34\/13-16.1791949897118.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ani … ɲɛ"
+    },
+    {
+      "surface": "הסבלים",
+      "gloss": "balo-bagaw"
+    },
+    {
+      "surface": "ומנצחים",
+      "gloss": "ani ɲɛmɔgɔw"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ ye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "min bɛ baara kɛ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "לעבודה",
+      "gloss": "baara-kelen-kelen la"
+    },
+    {
+      "surface": "ועבודה",
+      "gloss": "ani baara-kelen"
+    },
+    {
+      "surface": "ומהלוים",
+      "gloss": "ani Lewidenw kɔnɔ"
+    },
+    {
+      "surface": "סופרים",
+      "gloss": "sɛbɛnnibagaw"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "ani lasigidenw"
+    },
+    {
+      "surface": "ושוערים",
+      "gloss": "ani dabilaw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:51:37.118753850Z",
+  "model": "glm-5.3"
+}

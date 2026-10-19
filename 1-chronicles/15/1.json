@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 15:1",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a yɛrɛ ye",
+      "rationale": "לו glossed as 'for himself'; Bamanankan needs the reflexive phrase"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tanti",
+      "rationale": "אהל (tent) rendered with the loan tanti; no native Bamanankan word is fixed in the glossary"
+    }
+  ],
+  "translation": "A ye a yɛrɛ ye sow da Dawid (Dawuda) dugu kɔnɔ, a ye yɔrɔ labɛn Elohim ka sandingu kama, a ye tanti bila a kama.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bfedc40ce8e0d9d1664d5ab4b2a9b78692873ea38ebd49e539e679daa45f0c60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/15\/1-4.1791947930313.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ye … da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a yɛrɛ ye"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "sow"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dugu kɔnɔ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויכן",
+      "gloss": "ye … labɛn"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yɔrɔ"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sandingu kama"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim ka"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ye … bila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a kama"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tanti"
+    }
+  ],
+  "timestamp": "2026-10-14T03:18:50.314006306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan ka wale-daɲɛ ye…ye ka kan; Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bagan-ɲɛnabaga",
+      "rationale": "רעי ye ‘min bɛ baganw ɲɛnabɔ’ kuma-yɛrɛ la; ‘bagan-ɲɛnabaga’ ye a baara jira"
+    }
+  ],
+  "translation": "Dawid (Dawuda) ka mizmor. Yawe ye ne ka bagan-ɲɛnabaga ⟨ye⟩; ne tɛ fɔli bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/23\/1-4.1791939878710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ne ka bagan-ɲɛnabaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "fɔli bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:38.710886618Z",
+  "model": "glm-5.3"
+}

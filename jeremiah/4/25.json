@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Hebrew verb נדדו carries its subject 'the birds' in the verb; Bambara needs the pronoun"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראיתי והנה",
+      "rationale": "fourfold vision-refrain (vv. 23–26), 'I beheld, and lo' — anaphora lost as mere repetition"
+    }
+  ],
+  "translation": "N y'a ye, i na fɔ, hadamaden si tɛ yen, ani kɔnɔ bɛɛ minnu bɛ sankolow la, u bɔra.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b0977cf8996c91a22f42e9f0aee1c3f74584886385ef77c369525eb3da27565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/4\/25-28.1791935022853.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "N y'a ye"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i na fɔ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ yen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "u bɔra"
+    }
+  ],
+  "timestamp": "2026-10-13T23:43:42.854228502Z",
+  "model": "glm-5.3"
+}

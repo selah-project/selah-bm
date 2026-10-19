@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 35:14",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "object suffix -נו on תשורנו rendered as ⟨a⟩ supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "utacholel",
+      "rationale": "חוּל 'wait\/remain still' vs 'writhe in pain' — translations split between 'trust\/wait' (KJV) and 'writhe'"
+    }
+  ],
+  "translation": "Kaban ni i b'a fɔ ko i ma ⟨a⟩ ye — afɛri bɛ a ɲɛw, i bɛ a lasɔmini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1221ddfa222e5314b2a02b62e9f928e1299f504ec6dc7518e19fe0c98ea7a099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/35\/13-16.1791944160529.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "i b'a fɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i ma"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "דין",
+      "gloss": "afɛri"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a ɲɛw"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "i bɛ a lasɔmini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-10-14T02:16:00.534079589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Census count: 98 returnees."
+    },
+    {
+      "kind": "crux",
+      "subject": "ליחזקיה",
+      "rationale": "The prefixed lamed 'of Hezekiah' is read variously: descendants of Ater who traced to king Hezekiah's line, or a distinct family 'Ater of Hezekiah'."
+    }
+  ],
+  "translation": "Ater (Ater), minnu ye Hizikiya (Hizikiya) dayɛw ye, wolonwula-bi-ni-segin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9bfb3cd24446c6adbb2d836c5d586827acf48ffc7d37c1d15f8c76a38acacdd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/2\/13-16.1791946333461.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dayɛw"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Ater"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "Hizikiya dayɛw"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "wolonwula-bi"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ni-segin"
+    }
+  ],
+  "timestamp": "2026-10-14T02:52:13.461968192Z",
+  "model": "glm-5.3"
+}

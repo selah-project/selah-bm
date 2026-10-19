@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 23:16",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "'Cut a covenant' — Bambara says 'layidu kɛra' (make a covenant), the cutting picture is idiomatic"
+    },
+    {
+      "kind": "addition",
+      "subject": "cɛ",
+      "rationale": "'Between' construction requires Bambara ni ... cɛ frame"
+    }
+  ],
+  "translation": "Yehoyada ye layidu kɛra a ni jama bɛɛ ni masakɛ cɛ, ka kɛ Yawe jama ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "262f8ffd6e4a79b042f21e6150ea151ea9190f02b29d650efd7c60c5e12c794c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/23\/13-16.1791949370113.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T03:42:50.115321355Z",
+  "model": "glm-5.3"
+}

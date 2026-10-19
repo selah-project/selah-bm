@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לגזר\/לגזרים",
+      "rationale": "kuma-dilen ye kelen ye: 'ka laseli' ni 'dilen-yɔrɔw' — gɔngɔ-dili min bɔli tɛ Bamanankan na."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sɔji",
+      "rationale": "ים סוף ye 'sɔw ka kɔgɔji' ye; an ye tɔgɔ senuman Yam Suf mara ni sɔgɔsira ye."
+    }
+  ],
+  "translation": "Min ye Yam Suf (Sɔji) kɔgɔji laseli ka kɛ bɛɛ ye, sabu a ka hesed bɛ tilennen bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ef818ee972da16c3afc2126e425ed19038582aa6ef3dc9b768a15a4099cdefdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/136\/13-16.1791941857846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "min ye … laseli"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sɔji (Yam Suf)"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "ka kɛ bɛɛ (dilen-yɔrɔw) ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a ka hesed bɛ tilennen"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:37.847456864Z",
+  "model": "glm-5.3"
+}

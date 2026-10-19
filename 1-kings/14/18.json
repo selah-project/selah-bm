@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ביד עבדו",
+      "rationale": "literally 'by the hand of his servant' — Hebrew idiom for agency, kept as 'bolo fɛ'"
+    },
+    {
+      "kind": "you",
+      "subject": "nabi",
+      "rationale": "נביא rendered nabi, never kira, per standing ruling"
+    }
+  ],
+  "translation": "U ye ⟨את⟩ a digili, Isirayeli bɛɛ ye a funan, Yawe ka kuma la min o ye, min bɔra a ka sɔgɔmɔgɔ Ahiya (Ahiya) nabi bolo fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b613fb4a69e6e61f087c9a29523fdc040470c246717ed8d162307ed9a82ccb64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/14\/17-20.1791932288425.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "u ye … digili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a (Yarobeam ka den)"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "u ye a funan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kuma la min o ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bɔra … fɛ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "a ka sɔgɔmɔgɔ"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    }
+  ],
+  "timestamp": "2026-10-13T22:58:08.430577886Z",
+  "model": "glm-5.3"
+}

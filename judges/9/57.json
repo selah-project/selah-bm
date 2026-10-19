@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "judges 9:57",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ani",
+      "rationale": "vav conjunctive rendered as Bambara 'ani' to link with the preceding verse"
+    },
+    {
+      "kind": "crux",
+      "subject": "laso",
+      "rationale": "השיב (Hiphil of שוב): 'turn back \/ requite' — rendered 'laso' (pay back), alternatives 'yaabilasigiyɔrɔbila' too heavy"
+    },
+    {
+      "kind": "elision",
+      "subject": "בן",
+      "gloss_note": "denkɛ",
+      "rationale": "construct chain 'danga ka Yotam' reordered; Bambara genitive restructures the curse-of-Jotham phrase"
+    }
+  ],
+  "translation": "Ani Elohim ye ⟨את⟩ Shekem (Sikɛmu) mɔgɔw ka juguya bɛɛ laso u kunw la, ani Yotam, Yerubaal denkɛ ka danga na olu kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "02931602f425087865d173fbc7d4b93b7ff283e5bd7b0db3f0691b2afbd9b86f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/9\/57-57.1791929362154.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shekem mɔgɔw ka juguya bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "laso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "u kunw la"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "olu kan"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "danga"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubaal"
+    }
+  ],
+  "timestamp": "2026-10-13T22:09:22.156001693Z",
+  "model": "glm-5.3"
+}

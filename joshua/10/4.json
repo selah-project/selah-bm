@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the Amorite kings",
+      "rationale": "Adonizedek's summons: imperatives 'come up, help me' addressed to the four kings."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hɛrɛ layidu ke",
+      "rationale": "השלימה (from שלם) is 'made peace\/completed a covenant', rendered as Bambara idiom of peace-covenant."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Rendered as 'sabu' (because), Hebrew's wide relative conjunction narrowed to causal sense."
+    }
+  ],
+  "translation": "Aw kɛra nd'a, aw n'w mɛnɛ ne ma, k'an bɔ ⟨את⟩ Gibeon (Gibeɔn)_san, sabu a ye hɛrɛ layidu ke ⟨את⟩ Yehoshua (Josuye) ni Israyel ⟨את⟩ denw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4756d08a5092e09772c0774ffb9d2b6e7f4e475ad26922c6c01d7551969f1076",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/10\/4-4.1791950086577.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "kɛra nd'a"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne ma"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "aw n'w mɛnɛ ne ma"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "k'an bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "a ye hɛrɛ layidu ke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Israyel denw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    }
+  ],
+  "timestamp": "2026-10-14T03:54:46.577642564Z",
+  "model": "glm-5.3"
+}

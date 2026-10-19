@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 36:9",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kalifa",
+      "rationale": "נחלה ye dugukolo-fɛn min bɛ mara yɔrɔ kɔrɔ la; kalifa ye ɲɔgɔndan daɲɛ ye n'a tɛ exact"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨the⟩",
+      "rationale": "Bamanankan ma article dɔ wajibi, nka Hebrew da ממטה b'a fɔ kabila dɔ ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממטה למטה",
+      "rationale": "daɲɛ kelen filanan ye — mathe\/matte — kelen-ɔ nin wɛrɛ la, o kɔlɔsi Bamanankan na"
+    }
+  ],
+  "translation": "Kalifa tɛna ka bɔ ⟨the⟩ kabila dɔ la taa kabila wɛrɛ la, sabu Isirayeli denw ka kabilaw bɛɛ, mɔgɔ kelen-kelen bɛ ka a yɛrɛ ka kalifa lamini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1fbff272b38d71923a3e8688c6b80c9b507958617c6ee2ffbb5839b30fe4fde3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/36\/9-12.1791927423009.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ani a tɛ"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "tɛna ka bɔ ka taa"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "kalifa"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "kabila dɔ la"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kabila wɛrɛ la"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wɛrɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen-kelen"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "a yɛrɛ ka kalifa"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "bɛ ka lamini"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "kabilaw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    }
+  ],
+  "timestamp": "2026-10-13T21:37:03.010419840Z",
+  "model": "glm-5.3"
+}

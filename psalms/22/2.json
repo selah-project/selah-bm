@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אלי אלי",
+      "rationale": "doubled cry 'El ne, El ne' — repetition kept, the anguish is in the doubling"
+    },
+    {
+      "kind": "you",
+      "subject": "El",
+      "rationale": "direct address to Elohim, the whole psalm opens as a cry to God"
+    },
+    {
+      "kind": "crux",
+      "subject": "שאגה",
+      "rationale": "'roar\/lion's growl' rendered as groan (tagali); KJV 'roaring', JPS 'cry'"
+    }
+  ],
+  "translation": "El ne, El ne, munna i y’i bɔli ne la? I bɛ jan ne ka musakaw la, ne ka tagali kumaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/22\/1-4.1791939818627.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El ne"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ne"
+    },
+    {
+      "surface": "למה",
+      "gloss": "munna"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "i y'i bɔli ne la"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "jan"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "ne ka musakow"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ne ka tagali"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:38.628088850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי עדים",
+      "rationale": "literally 'by the mouth of witnesses' (da fɛ), Hebrew idiom for testimony"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכה\/ירצח\/הרצח",
+      "rationale": "root רצח repeated — striker (מכה) differs, murderer (רצח) and the-one-murdered's verdict echo each other, lost in Bamanankan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered 'ni' (life), closer to living self than to a disembodied soul"
+    }
+  ],
+  "translation": "Min ni bɔra, seerew da fɛ, ⟨a⟩ bɛna ⟨את⟩ ku-bɔtigi fa; seere kelen de tɛ se ka kuma mɔgɔ ni kan walasa k'o kɛ ka sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fc41b4f3b3fe6b8f9417977bfe62ce77c6fc5b92d574ea5e6b197b77cd4e3207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/35\/29-32.1791927423581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "min"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kun-bɔ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "da fɛ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "seerew"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "bɛna … fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku-bɔtigi"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ku-bɔtigi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "seere"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ka kuma"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ni kan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ka sa"
+    }
+  ],
+  "timestamp": "2026-10-13T21:37:03.582247687Z",
+  "model": "glm-5.3"
+}

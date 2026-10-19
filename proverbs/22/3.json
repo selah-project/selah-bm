@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "gɛlɛndɔnbagaw",
+      "rationale": "ערום elsewhere means cunning (bad sense); here the good sense 'prudent' as all versions agree"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Subject pronoun supplied for the verb 'are punished'"
+    }
+  ],
+  "translation": "Gɛlɛndɔnbagaw bɛ bonya ye ka dogo; fitinbagaw bɛ taa ka kɔ, u bɛ jariso sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/22\/1-4.1791942761899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "gɛlɛndɔnbagaw"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bɛ ... ye"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bonya"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ka dogo"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "fitinbagaw"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "bɛ taa ka kɔ"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "bɛ jariso sɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:52:41.901128834Z",
+  "model": "glm-5.3"
+}

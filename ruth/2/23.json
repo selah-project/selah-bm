@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ruth 2:23",
+  "book": "ruth",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Bambara requires the subject pronoun; Hebrew carries it in the verb forms"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותדבק",
+      "gloss": "echoes Ruth 1:14 (Ruth clung to Naomi) and Boaz's own word תדבקין in 2:8,21 — loyalty vocabulary"
+    },
+    {
+      "kind": "measurement",
+      "subject": "barley and wheat harvest",
+      "rationale": "the verse closes chapter 2 by marking the full time-span of gleaning, two harvests end to end"
+    }
+  ],
+  "translation": "⟨A⟩ tuguni Boazi denmusow la, ka lafili, fo sawa sàn ni furu sàn ka ban; ⟨a⟩ nana sigi ⟨את⟩ a bambɛrɛ fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dbaa07bbc94ff09d7eb10587cabfa1086177a2ab022eb61a343598f8cd0324cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ruth\/2\/21-23.1791944743413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "tuguni"
+    },
+    {
+      "surface": "בנערות",
+      "gloss": "denmusow la"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "ka lafili"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "ka ban"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "sàn"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "sawa"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "ni sàn"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "furu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "a nana sigi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bambɛrɛ"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "a bambɛrɛ fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:43.414638002Z",
+  "model": "glm-5.3"
+}

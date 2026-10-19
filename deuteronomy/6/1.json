@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o ye",
+      "rationale": "Bambara needs a demonstrative frame to open the verse; וזאת itself carries 'this-now'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lamini",
+      "rationale": "לרשת is 'to dispossess and occupy', rendered with the plain Bambara 'take possession'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "Aleph-tav prefixed with the pronoun; gloss keeps both marker and pronoun."
+    }
+  ],
+  "translation": "O ye sariya ye — sariya-matarafaw ni kayew — min Yawe, aw ka Elohim, y'a fɔ ka aw kalan ⟨את⟩ aw, ka a kɛ dugukolo min kɔnɔ, aw bɛ tɛmɛn k'e taa yen, walasa aw ka a lamini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "450205fa0e8c99b45cfa23adcd99956390ed1c9d9dad9b29ece66b7fbd822170",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/6\/1-4.1791927645809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "o ye"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sariya-matarafaw"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "ni kayew"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "aw ka Elohim"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "ka aw kalan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aw",
+      "marks": "aw"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ka a kɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo min kɔnɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "bɛ tɛmɛn"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "walasa aw ka a lamini"
+    }
+  ],
+  "timestamp": "2026-10-13T21:40:45.810804732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 6:16",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dibiya",
+      "rationale": "הקדרים literally 'the ashy\/dark-coloured ones' — mourning-adjacent word for blackness"
+    },
+    {
+      "kind": "alternative",
+      "subject": "yonifiya",
+      "rationale": "BSB reads melting-snow inflow instead of KJV's hidden snow; hidden-snow rendering kept following the verb's shape"
+    }
+  ],
+  "translation": "Minnu bɛ dibiya dagan sabu, pancɔ bɛ yɛrɛ dogo olu kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7665eb970d936697d2efdc8f58bccb52f03f1e3817489fc99181d93b2a7e3284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/6\/13-16.1791943345470.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקדרים",
+      "gloss": "minnu bɛ dibiya"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "dagan"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "olu kan"
+    },
+    {
+      "surface": "יתעלם",
+      "gloss": "bɛ yɛrɛ dogo"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "pancɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:02:25.472432684Z",
+  "model": "glm-5.3"
+}

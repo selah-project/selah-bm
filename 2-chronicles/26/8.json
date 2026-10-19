@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 26:8",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מנחה",
+      "rationale": "'diya' — minca min bɛ fɔ cogo kelen na: saraka, sanu-sanyo, diya; Tubabuw bɛ fɔ 'tribute'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "וילך שמו",
+      "rationale": "Heburukan: 'a tɔgɔ taara' — a kɔrɔ ye a tɛgɔrɔtɔgɔ bonya ye; Bamanankan 'a tɔgɔ taara se' b'a mara"
+    },
+    {
+      "kind": "addition",
+      "subject": "kosɛbɛ",
+      "rationale": "עד למעלה ('ka tɛmɛ sanfɛ') — Bamanankan faamu b'a jira ni 'kosɛbɛ' daɲɛ ye"
+    }
+  ],
+  "translation": "Amoniw ye diya di Uziya (Uziya) ma; a tɔgɔ taara se Misira (Misira) don ma, sabu a y'a yɛrɛ lakilen kosɛbɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "50a683df0e5585681c2c5294b6b8ee1de9309486b130b38594e3694a3e2f94eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/26\/5-8.1791949444852.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ye … di"
+    },
+    {
+      "surface": "העמונים",
+      "gloss": "Amoniw"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "diya"
+    },
+    {
+      "surface": "לעזיהו",
+      "gloss": "Uziya ma"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a taara"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a tɔgɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "se"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "don ma"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "a y'a yɛrɛ lakilen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "se"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "kosɛbɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:44:04.853790079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kɔnɔ",
+      "rationale": "Hebrew gives only the species name; 'kɔnɔ' (bird) supplied so the reader knows the category"
+    },
+    {
+      "kind": "crux",
+      "subject": "bird names",
+      "rationale": "ראה\/איה\/דיה species uncertain (vulture, kite, falcon by guesses); rendered as names Raa, Aya, Daya rather than guessing a bird"
+    }
+  ],
+  "translation": "ni Raa kɔnɔ, ni ⟨את⟩ Aya kɔnɔ, ani Daya kɔnɔ a siya bɛɛ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f5d836106688e4b60f37766d428d2e754de45d182a38bd9c71a090c89893bada",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/14\/13-16.1791927819500.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ni Raa kɔnɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aya kɔnɔ"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "Aya kɔnɔ"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ani Daya kɔnɔ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "a siya bɛɛ na"
+    }
+  ],
+  "timestamp": "2026-10-13T21:43:39.502077948Z",
+  "model": "glm-5.3"
+}

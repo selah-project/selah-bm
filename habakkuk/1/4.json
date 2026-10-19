@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 1:4",
+  "book": "habakkuk",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לנצח",
+      "rationale": "'for ever' vs 'never': KJV 'never go forth' vs literal 'does not go forth for ever'; Bambara keeps 'domodugu bɛɛ' (for all eternity) with the negative 'tɛ'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gilin",
+      "rationale": "מכתיר is a rare word (to encircle\/besiege, hence 'hem in'); Bambara 'gilin' (surround) keeps the hostile encirclement picture."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על־כן ... על־כן",
+      "rationale": "The doubled 'therefore' frames the verse in a chiastic complaint; Bambara repeats 'o la sabu' to keep the frame."
+    }
+  ],
+  "translation": "O la sabu, Tora bɛ jɔ, ani sariya tɛ bɔ domodugu bɛɛ; sabu mɔgɔ jugu bɛ gilin ⟨את⟩ mɔgɔ tileya, o la sabu sariya jugu bɛna bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3d8f46cd384c50ef78c9f2b34cb49e971d3f7e4694adfe57ee95c7b72700192b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/habakkuk\/1\/4-4.1791951107039.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "o la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "bɛ jɔ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani … tɛ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "domodugu bɛɛ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mɔgɔ jugu"
+    },
+    {
+      "surface": "מכתיר",
+      "gloss": "bɛ gilin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mɔgɔ tileya"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "mɔgɔ tileya"
+    },
+    {
+      "surface": "על",
+      "gloss": "o la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bɛna bɔ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "מעקל",
+      "gloss": "jugu"
+    }
+  ],
+  "timestamp": "2026-10-14T04:11:47.039632201Z",
+  "model": "glm-5.3"
+}

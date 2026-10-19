@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחלה … נחלה",
+      "rationale": "the doubled 'inheritance, inheritance' is a deliberate repetition; Bambara keeps the doubling verbatim"
+    },
+    {
+      "kind": "addition",
+      "subject": "a ka",
+      "rationale": "pronominal suffix on עמו spelled out as Bambara possessive 'a ka'"
+    }
+  ],
+  "translation": "A y'u ka dugukolo di ladamuli ye — ladamuli Yisraɛl (Isiraeli) ma, a ka mɔgɔw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6cca197ce9087e5bd4a9b5f425d10670a999cd0a54bb6d107f399bca57f677a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/135\/9-12.1791941832195.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "u ka dugukolo"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ladamuli ye"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ladamuli"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisraɛl (Isiraeli) ma"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a ka mɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:12.196199401Z",
+  "model": "glm-5.3"
+}

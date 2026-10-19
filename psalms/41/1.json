@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Nɛmɔgɔ ma",
+      "rationale": "למנצח 'to the one who excels' (the musical superintendent); rendered as address to the master-musician"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדוד",
+      "rationale": "first mention: Dawid, with the Bambara-known form Dawuda in brackets"
+    }
+  ],
+  "translation": "Nɛmɔgɔ ma. Mizimɔr, Dawid (Dawuda) ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/41\/1-4.1791940137792.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Nɛmɔgɔ ma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizimɔr"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ta"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:57.792764158Z",
+  "model": "glm-5.3"
+}

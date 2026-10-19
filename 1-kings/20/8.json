@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "אל תשמע",
+      "rationale": "negative imperatives urging the king to refuse the demand."
+    },
+    {
+      "kind": "you",
+      "subject": "Israɛla masakɛ",
+      "rationale": "elders and people answer the king in direct second person."
+    }
+  ],
+  "translation": "Korébagaw bɛɛ ni jama bɛɛ k'a fɔ a ye ko: kana a mɛn, ani kana a sɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ad18bf81e856c659867c26b1555dc215594230598732fc839e89a2139ade54ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/20\/5-8.1791932411777.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "k'a fɔ a ye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "korébagaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ni ... bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "a mɛn"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ani kana"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "a sɔn"
+    }
+  ],
+  "timestamp": "2026-10-13T23:00:11.783785468Z",
+  "model": "glm-5.3"
+}

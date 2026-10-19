@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפשו 'his life-force' rendered a ka ni 'his life', per Shema-linked vocabulary."
+    },
+    {
+      "kind": "addition",
+      "subject": "kan",
+      "gloss": "Bambara postposition added to jaminɛ to express 'at the right hand of'."
+    },
+    {
+      "kind": "crux",
+      "subject": "stand",
+      "rationale": "יַעֲמֹד read as present 'he stands' (JPS) vs future 'he will stand' (KJV); Bambara imperfective bɛ follows the present reading."
+    }
+  ],
+  "translation": "Sabu a bɛ jaminɛ miskin kan, walasa k'a lasigi mɔgɔ minnu bɛ a ka ni jujɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c42f5d874f9618809df20fc2570b4cb2ddf2e164b7ffbf1999091ddcfb74a7bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/109\/29-31.1791941438555.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "a bɛ ... kan"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "jaminɛ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "walasa k'a lasigi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "minnu bɛ ... jujɛ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ka ni"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:38.556502704Z",
+  "model": "glm-5.3"
+}

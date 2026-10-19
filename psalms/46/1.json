@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "almot",
+      "rationale": "עלמות: 'soprano\/ceyin kanw' (musical setting) ni 'denmusow' (virgins) cɛ — musakaw bɛ wuli ni kanɲɛmɔgɔw ye, an ye Heburu tɔgɔ senuma mara."
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "Heburu superscription daɲɛ min ka gɛlɛn, a sɛbɛnna ni kalan-sɛbɛnni ɲɛmɔgɔ sira ye."
+    }
+  ],
+  "translation": "Sɛbɛnni-ɲɛmɔgɔ ma, Korach (Kora) denw ma, almot kan na, donkili.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/46\/1-4.1791940220044.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sɛbɛnni-ɲɛmɔgɔ ma"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denw ma"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach (Kora)"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan na"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "almot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "donkili"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:20.045097665Z",
+  "model": "glm-5.3"
+}

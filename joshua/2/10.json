@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 2:10",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Yam Suf",
+      "rationale": "ים סוף: 'Reed Sea' (susu) versus 'Red Sea' (kɔgɔji zonpa), rendered here with the Hebrew name and the meaning of the word 'susu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ban",
+      "rationale": "החרמתם is herem, the thing dedicated to destruction by a curse, rendered with the word 'ban'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "The aleph-tav form אותם points to Sihon and Og, and it is not brought up in the translation again since 'u' is already in the sentence"
+    }
+  ],
+  "translation": "Sabu an y'o mɛn: Yawe ye ⟨את⟩ Yam Suf (susu ka kɔgɔji) jiw miseli aw ɲɛ fɛ, ni aw bilaara Mitsrayim (Misira) na; ani ko aw ye min kɛ Emori (Amoriti) masakɛ fila la, minnu tun bɛ Yarden (Zhezɛ) kɔrɔ yan, Sihɔn (Sihon) ni Ɔgɔ (Og) la, minnu ye aw y'⟨את⟩ u ban.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6b3ed85f11e9aefad794832e46a5eb8cf8e76a0f8325d9120289efa5f516715f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/2\/9-12.1791928610799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "an y'o mɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "a ye … miseli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiw"
+    },
+    {
+      "surface": "מי",
+      "gloss": "jiw"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "susu"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "aw ɲɛ fɛ"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ni aw bilaara … na"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim (Misira)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ani ko"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "aw ye … kɛ"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "fila"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori (Amoriti)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "kɔrɔ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden (Zhezɛ)"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihɔn (Sihon)"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ni Ɔgɔ (Og)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "החרמתם",
+      "gloss": "aw y'u ban"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ u"
+    }
+  ],
+  "timestamp": "2026-10-13T21:56:52.457669210Z",
+  "model": "glm-5.3"
+}

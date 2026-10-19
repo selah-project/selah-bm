@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Yawe",
+      "rationale": "Hebrew verb ירשיע has no expressed subject; Yawe is supplied from the first colon and bracketed."
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Object pronoun added for the condemned man, bracketed."
+    },
+    {
+      "kind": "crux",
+      "subject": "מזמות",
+      "rationale": "Can mean evil machinations or good sagacity; context of condemnation favors 'evil devices'."
+    }
+  ],
+  "translation": "Tiligelen bɛ donya sɔrɔ Yawe fɛ, nka cɛ min bɛ pɛn-pɛnɲɛw ɲɛsigi, ⟨Yawe⟩ bɛ ⟨a⟩ danga da.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8fc359bd8a7cf9430aaa0311d1ae38a51c5dd861b502e871f1b86117fa1129b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/12\/2-3.1791951317673.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tiligelen"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "bɛ … sɔrɔ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "donya"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yawe fɛ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nka cɛ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "pɛn-pɛnɲɛw"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "bɛ ⟨a⟩ danga da"
+    }
+  ],
+  "timestamp": "2026-10-14T04:15:17.674370611Z",
+  "model": "glm-5.3"
+}

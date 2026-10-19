@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכל היום",
+      "rationale": "'All the day' (KJV) vs 'continually' (ASV, taking הכל adverbially); questions expect the answer no"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וישדד",
+      "rationale": "'Harrow' (breaking clods) rendered ɲagami 'level\/crumble' — no common Bambara word for harrowing"
+    }
+  ],
+  "translation": "Yala min bɛ foro kɛ, o bɛ don bɛɛ kɔnɔ ka foro kɛ wa, walasa kisɛ dasi? Yala a bɛ a dugukolo da ka a ɲagami wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cb1236964bc9fd516c405ec7fff61e3db233001b37be84bc3aea2068ba296ee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/28\/21-24.1791933998334.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don bɛɛ kɔnɔ"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "bɛ foro kɛ"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "min bɛ foro kɛ"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "walasa kisɛ dasi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "bɛ a dugukolo da"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "ka a ɲagami"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "a dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-13T23:26:38.341639087Z",
+  "model": "glm-5.3"
+}

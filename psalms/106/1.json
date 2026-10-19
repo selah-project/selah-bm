@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a ye fɛn tiɲɛnama ye⟩",
+      "rationale": "Hebrew's adjective phrase 'ki-tov' has no verb; Bambara needs the copula 'ye … ye'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד sɛbɛnna hesed ye sariya kɔrɔta fɛ; Bamanankan daɲɛ kelen tɛ a ɲɔgɔnma dɔn"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lajuya-duba weleli",
+      "rationale": "Haleluya-ye verse in bɛ wele kalanbaga fɛ ka Yawe duba"
+    }
+  ],
+  "translation": "Aw ka Ya fɔ lajuya, aw ka Yawe ni duba, sabu ⟨a ye fɛn tiɲɛnama ye⟩, sabu a ka hesed ka kɔrɔta ka taa waati bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/106\/1-4.1791941335355.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "aw ka fɔ lajuya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "aw ka ni duba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "fɛn tiɲɛnama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waati bɛɛ la"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a ka hesed"
+    }
+  ],
+  "timestamp": "2026-10-14T01:28:55.355618410Z",
+  "model": "glm-5.3"
+}

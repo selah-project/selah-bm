@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 1:19",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אליך",
+      "gloss": "directional 'against you' folded into 'i kan' in 'so kɛ i kan'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נאום",
+      "rationale": "oracle-formula 'an affirmation of Yawe' rendered as speech verb 'Yawe ne ko kuma ko'"
+    },
+    {
+      "kind": "addition",
+      "subject": "walasa",
+      "rationale": "purpose conjunction supplied before infinitive 'to deliver you'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jeremiah",
+      "rationale": "promise spoken to the nabi: they will fight but not prevail"
+    }
+  ],
+  "translation": "U bɛna i kan so kɛ, nka u tɛna i la se, sabu ne don ⟨ni⟩ i ye — Yawe ne ko kuma ko — walasa ka i laso.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "01911bf39988c42a8df8d7d7c506888bfa260d4a0c6098784f68fbb19416463d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/1\/17-19.1791934898541.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונלחמו",
+      "gloss": "u bɛna i kan so kɛ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka u tɛna"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ni i ye",
+      "marks": "preposition 'with-you', not the direct-object marker"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ne ko kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להצילך",
+      "gloss": "walasa ka i laso"
+    }
+  ],
+  "timestamp": "2026-10-13T23:41:38.543364630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Direct prayer addressed to YHWH, the psalm's turn from silence to appeal."
+    },
+    {
+      "kind": "addition",
+      "subject": "ne",
+      "rationale": "Bambara requires the object pronoun 'ne' with jaabi; Hebrew has only the verb with suffix sense."
+    }
+  ],
+  "translation": "Sabu ne b'i la funtɔ, Yawe; aw de bɛ ne jaabi, Adonay, ne ka Elohim.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "15ecc37329783fe2dd5340cf9baf2798718760c5537513fb17315b6ee0d50b2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/38\/13-16.1791940122525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ne b'... funtɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aw de"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "bɛ ne jaabi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ne ka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:42.526770724Z",
+  "model": "glm-5.3"
+}

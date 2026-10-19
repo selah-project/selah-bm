@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "A",
+      "rationale": "l'hébreu ne nomme pas le sujet de ויקבר (celui qui enterre) — pronom « A » ajouté"
+    },
+    {
+      "kind": "substitution",
+      "subject": "samayɔrɔ",
+      "rationale": "קבורה = sépulture ; rendu par « samayɔrɔ » (place d'inhumation)"
+    }
+  ],
+  "translation": "A ye ⟨את⟩ a sigi dala kɔnɔ, Moab dugukolo la, Bet-Pesɔr (Betifegɔr) ma; mɔgɔ si ma a ka samayɔrɔ dɔn fo don nin don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "03f4fddf3f8c4eb367c85ded4bf2314bddad1e38aa2eb2110b57cdca35216597",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/34\/5-8.1791928526006.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "sigi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a (Moshe)"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "dala kɔnɔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Pesɔr"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "si ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka samayɔrɔ"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "samayɔrɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin don"
+    }
+  ],
+  "timestamp": "2026-10-13T21:55:26.007904644Z",
+  "model": "glm-5.3"
+}

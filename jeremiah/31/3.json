@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 31:3",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yɛrɛ",
+      "rationale": "reflexive supplied: נראה is 'appeared', the Hebrew says 'YHWH appeared' without a reflexive word"
+    },
+    {
+      "kind": "crux",
+      "subject": "נראה לי",
+      "rationale": "'appeared to me': 'me' is Israel personified (JPS), not the prophet; some read 'from afar' as of old"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept as hesed per discipline; single Bambara word (kanuya, ɲumanya) would each narrow it"
+    }
+  ],
+  "translation": "Yɔrɔ jan na Yawe y'a yɛrɛ jira ne ye: m'i birinira ni kanuya ye min tɛ banna, o de sabu, ne birinira i ni hesed ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "08e8e53d41bee481dacc59128f5c0b7656e52706dce41d9ce5b7784d9ed1d4ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/31\/1-4.1791935753898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרחוק",
+      "gloss": "Yɔrɔ jan na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "y'a yɛrɛ jira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "m'i birinira"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "min tɛ banna"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "birinira"
+    },
+    {
+      "surface": "על",
+      "gloss": "o de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "משכתיך",
+      "gloss": "birinira"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-10-13T23:55:53.900231526Z",
+  "model": "glm-5.3"
+}

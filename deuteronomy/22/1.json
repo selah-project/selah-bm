@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ka (שיו)",
+      "rationale": "Heburukan יו suffix bɛ fɔ a yɛrɛ ye k'a ɲɛ; 'a ka' farala a kan walasa kumasen ka jɛ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השב תשיבם",
+      "rationale": "Infinitif absolu ni daɲɛ wɛrɛ: 'segin, segin' — kuma filanan bɛ jira bɛɛ bato la; Bamanankan na kelen dɔrɔ tun bɛ se ka bɔnkɔ ni dɔgɔya kɛ"
+    },
+    {
+      "kind": "crux",
+      "subject": "נדחים",
+      "rationale": "'Tigɛbali' (driven away) ani 'a yɛrɛ sunɔgɔli' (strayed) ye fɛn fila ye; KJV 'go astray', JPS 'driven away'"
+    }
+  ],
+  "translation": "I kana ye ⟨את⟩ i balimakɛ ka misi walima ⟨את⟩ a ka saga minnu tigɛra ye, k'a yɛrɛ dogo u ye; segin, i ka u segin i balimakɛ ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/22\/1-4.1791928192457.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i balimakɛ ka misi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "misi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "i balimakɛ"
+    },
+    {
+      "surface": "או",
+      "gloss": "walima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka saga"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "a ka saga"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "minnu tigɛra"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "k'a yɛrɛ dogo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "השב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "i ka u segin"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "i balimakɛ ma"
+    }
+  ],
+  "timestamp": "2026-10-13T21:49:52.459374362Z",
+  "model": "glm-5.3"
+}

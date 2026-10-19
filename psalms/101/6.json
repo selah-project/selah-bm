@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "walasa ka",
+      "rationale": "Purpose marker supplied for Hebrew infinitive לשבת."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dɛmɛ",
+      "rationale": "ישרתני is cultic 'serve\/minister'; rendered as ordinary dɛmɛ (help\/serve)."
+    }
+  ],
+  "translation": "Ne ɲɛw bɛ dugukolo tiɲɛnw la, walasa ka zungon ne fɛ; min bɛ taamɛ sira tiɲɛna, o bɛ ne dɛmɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/101\/5-8.1791941239798.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ne ɲɛw"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "tiɲɛnw"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "zungon"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ne fɛ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "taamɛ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira na"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tiɲɛna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ne dɛmɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:19.799033936Z",
+  "model": "glm-5.3"
+}

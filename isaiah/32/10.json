@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "days upon a year",
+      "rationale": "ימים על שנה read as 'a year and some days' (KJV 'many days and years'), 'days beyond a year' (ASV), or 'after a year and days' (JPS)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "days upon a year",
+      "rationale": "the verse fixes a time span before the coming trouble"
+    }
+  ],
+  "translation": "Dɔw ɲɔgɔn ye, san kelen kɔfɛ, i yamaruyaw, i bɛna gɛlɛya; sabu belewili bɛna ban, minɛli tɛna na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7c511c6a17fc7bd099fb8f980d19dbf99caba575bc91838a22dfe6706c83e9d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/32\/9-12.1791933991139.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dɔw"
+    },
+    {
+      "surface": "על",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san kelen"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "i bɛna gɛlɛya"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "yamaruyaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bɛna ban"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "belewili"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "minɛli"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-10-13T23:26:31.143777316Z",
+  "model": "glm-5.3"
+}

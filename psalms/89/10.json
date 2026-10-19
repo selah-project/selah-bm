@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dabu",
+      "rationale": "תשבחם kɔrɔliteral ye 'kuma kɔrɔbɛ i n'a fɔ sɔ̀' ye; 'dabu' (kasi bali) ye nɔgɔya"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ka janfa",
+      "rationale": "גאות bɛ se k'a fɔ 'faanya\/janfa' (kɔgɔji ka janfa) walima 'fɔli-kow' (Rahab ka fɔli) — an ta fɔlɔ"
+    }
+  ],
+  "translation": "I ye kɔgɔji ka janfa mara; a ka jikuraw min bɛ taa sanfɛ, i bɛ u dabu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/89\/9-12.1791940978386.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "I"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "mara"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ka janfa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "min bɛ taa sanfɛ"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "a ka jikuraw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "I"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "bɛ u dabu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:58.387181649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 30:25",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bɔ (fall)",
+      "rationale": "תפלנה 'fall' rendered 'bɔ' (drop\/break loose) since arms falling limp has no exact verb; 'ka bɔ' carries the falling-away picture"
+    },
+    {
+      "kind": "elision",
+      "subject": "וידעו subject",
+      "rationale": "Hebrew leaves 'they' unspecified (Egypt or all onlookers); rendered u without bracketing the referent"
+    },
+    {
+      "kind": "you",
+      "subject": "to Egypt",
+      "rationale": "recognition formula 'they will know that I am Yawe' addressed over Egypt's defeat"
+    }
+  ],
+  "translation": "An bɛna Babilɔn (Babilɔn) masakɛ ka bolow semi, nka Farawun ka bolow bɛna bɔ; u bɛna dɔn ko ne ye Yawe, ni ne bɛna ne ka npan di Babilɔn masakɛ ka bolo la, a bɛna a tanbi Misira (Misira) dugukolo kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "27caabe66ff6f2db3b6c6a3a09476166564ea7be195c6696e16d14dc3d70a7f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/30\/25-26.1791937473102.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחזקתי",
+      "gloss": "an bɛna semi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolow"
+    },
+    {
+      "surface": "זרעות",
+      "gloss": "bolow"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilɔn"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "nka bolow"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farawun"
+    },
+    {
+      "surface": "תפלנה",
+      "gloss": "bɛna bɔ"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "u bɛna dɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "ni ne bɛna di"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ne ka npan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilɔn"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "a bɛna tanbi"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ a",
+      "marks": "npan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misira"
+    }
+  ],
+  "timestamp": "2026-10-14T00:24:33.103546725Z",
+  "model": "glm-5.3"
+}

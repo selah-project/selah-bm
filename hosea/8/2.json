@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יזעקו",
+      "rationale": "Some read as future ('they shall cry'), JPS reads as a skeptical question — the people cry 'my God, we know you' while their deeds deny it."
+    },
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "Bambara quotative ko supplied to introduce the direct cry that Hebrew carries by word order alone."
+    }
+  ],
+  "translation": "U bɛ ne fɛ wele ko: ne Elohim, an Yisrayɛlw ye i dɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/8\/1-4.1791938299065.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ne fɛ"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "u bɛ … wele"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ne Elohim"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "an ye i dɔn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "an Yisrayɛlw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:38:19.066484609Z",
+  "model": "glm-5.3"
+}

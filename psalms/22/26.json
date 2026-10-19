@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאתך",
+      "rationale": "'From You comes my praise' (source) vs 'my praise is of You \/ before You' — ambiguous preposition."
+    },
+    {
+      "kind": "elision",
+      "subject": "copula",
+      "rationale": "Hebrew has no verb; Bambara also carries the line without one."
+    }
+  ],
+  "translation": "⟨את⟩ I fɛ, ne ka ɲɛfɔli bɛ jama ba kɔnɔ; ne ka layiduw, ne b'u bɔ a siranbagaw ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/22\/25-28.1791939830478.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ i fɛ",
+      "marks": "ne ka ɲɛfɔli"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ne ka ɲɛfɔli"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "jama kɔnɔ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ne ka layiduw"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ne b'u bɔ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "a siranbagaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:50.479318235Z",
+  "model": "glm-5.3"
+}

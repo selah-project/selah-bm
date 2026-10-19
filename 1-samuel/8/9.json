@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העד תעיד",
+      "rationale": "Infinitive absolute doubling: 'warn-you-shall-warn', emphasis lost as single verb"
+    },
+    {
+      "kind": "crux",
+      "subject": "משפט המלך",
+      "rationale": "'judgment\/right\/manner of the king' — KJV 'manner', YLT 'custom', wycliffe 'right'; rendered sariya"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "particle with אך has no separate Bambara rendering"
+    },
+    {
+      "kind": "you",
+      "subject": "to Samuel",
+      "rationale": "Yawe addresses Samuel directly with imperatives"
+    }
+  ],
+  "translation": "Sisan, mɛn ⟨u⟩ kan; nka i bɛna seere kɛ ⟨u⟩ ma, k'⟨u⟩ fɔ masakɛ ka sariya, min bɛna k'aw kan masakɛ kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "00ed4f9e203c4225df3114edbf866bf95f425e3a7ec6d77d95346c7180b51cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/8\/9-12.1791929967881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Sisan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nka"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "העד",
+      "gloss": "seere"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "k'u fɔ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "bɛna kɛ masakɛ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "aw kan"
+    }
+  ],
+  "timestamp": "2026-10-13T22:19:27.883634751Z",
+  "model": "glm-5.3"
+}

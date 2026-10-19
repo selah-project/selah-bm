@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חבר\/חבר",
+      "rationale": "Verb 'to bind' plus cognate noun 'a spell': 'binder of bindings'; Bambara 'dajibobaga' keeps the tying image."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kan-mumubaga",
+      "rationale": "אוב literally 'a mumble \/ waterskin (hollow sound)'; rendered 'mumbler-voice' to keep the sound-picture rather than 'medium'."
+    }
+  ],
+  "translation": "ni dajibobaga, ni min bɛ wele kan-mumubaga, ni dɔnnimasabaga, ani min bɛ ɲini kuma bɛnɛ suw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2d78e60d156a9819c1ba92c9c919e8d3bccb2a65f0cc314098737ff1131d3bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/18\/9-12.1791927987752.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "ni dajibobaga"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "daji"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "min bɛ wele"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "kan-mumubaga"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "dɔnnimasabaga"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "min bɛ ɲini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka kuma bɛnɛ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "suw ma"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:27.754624445Z",
+  "model": "glm-5.3"
+}

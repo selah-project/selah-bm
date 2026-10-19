@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "A bɛ o i n'a fɔ",
+      "rationale": "simile verb supplied; Hebrew opens bare 'כטל חרמון'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sansimabu",
+      "rationale": "no fixed table word for טל dew; 'sansimabu' (night-water\/condensation) is a coined plain term and wants a native check"
+    },
+    {
+      "kind": "crux",
+      "subject": "dew of Hermon on mountains of Zion",
+      "rationale": "Hermon's dew does not fall on Zion; readings: a second simile, or Hermon-like dew on Zion, or snowmelt streams — left as the literal juxtaposition"
+    }
+  ],
+  "translation": "⟨A bɛ o i n'a fɔ⟩ sansimabu min bɛ Chermon (Hɛrmon) bɔ ka tɔ Tsiyon (Siyɔn) kulow kan; sabu yen de Yawe yɛlɛma — ⟨את⟩ duba — balo fo ten.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/133\/1-3.1791941717985.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "sansimabu i n'a fɔ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon (Hɛrmon)"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "bɛ tɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "kulow"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon (Siyɔn)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen de"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yɛlɛma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duba"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "duba"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "balo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:17.986337827Z",
+  "model": "glm-5.3"
+}

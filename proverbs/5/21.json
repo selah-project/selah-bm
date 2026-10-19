@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew verb מפלס has no expressed subject; Yawe supplied from context"
+    },
+    {
+      "kind": "crux",
+      "subject": "מפלס",
+      "rationale": "'to weigh mentally' (ponder) vs 'to level\/prepare a road' — JPS\/ASV take the second"
+    }
+  ],
+  "translation": "Sabu cɛ ka siraw bɛ Yawe ka ɲɛw ɲɛfɛ, ani a ka ɲɛ-siraw bɛɛ, ⟨a⟩ b'u tulama.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b802cf376f5e998710d0f74f02db44d05d94574c1cb2773fb7516b6370b71688",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/5\/21-23.1791942210198.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ɲɛw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "siraw"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "a ka ɲɛ-siraw"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "⟨a⟩ b'u tulama"
+    }
+  ],
+  "timestamp": "2026-10-14T01:43:30.198612267Z",
+  "model": "glm-5.3"
+}

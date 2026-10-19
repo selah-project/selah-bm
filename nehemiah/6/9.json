@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ירפו ידיהם",
+      "rationale": "Hebrew 'slacken their hands' = lose courage and quit the work; rendered with 'bolo dɔgɔya' keeping the hand-picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Hebrew addresses Yawe without a pronoun ('strengthen my hands' is prayer); Bambara requires the addressee."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "The second half of the verse turns from narrative into direct address to God, invisible in the Hebrew surface."
+    }
+  ],
+  "translation": "Sabu u bɛɛ bɛ an lasiran ⟨ko⟩: “U bolo bɛna dɔgɔya ka bɔ baara la, a tena kɛ.” Wa sisan, ⟨i⟩, ɲɛgɛn ⟨את⟩ ne bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f984801729d723dbf0f9f5887ca49dacd26e3a470c32430727e5faa8441e9c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/6\/9-12.1791946916213.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "u bɛɛ"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "bɛ an lasiran"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩",
+      "marks": "an"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "bɛna dɔgɔya"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "u bolo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "baara la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teni"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "wa sisan"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ɲɛgɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne bolo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ne bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T03:01:56.214306913Z",
+  "model": "glm-5.3"
+}

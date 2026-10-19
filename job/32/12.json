@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 32:12",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מוכיח",
+      "rationale": "'jasarebagu' (min bɛ fɔ ko a jurumunna) — KJV 'convinced', JPS 'convinced'; haken 'mɔgɔ min bɛ a falilijɔ'"
+    },
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "Bamanankan bɛ 'si' ɲini walasa k'a jira ko mɔgɔ si ma kɛ o ye"
+    }
+  ],
+  "translation": "Aw la, ne y'a lajɛ, i n'a fɔ, Ayuba jasarebagu si tɛ yen min bɛ se ka a ka kumaw jaabi aw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2743f4787f260e77c7363dc55da4eab6146757b1b3a753abdc93df51a4377513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/32\/9-12.1791943988398.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועדיכם",
+      "gloss": "Aw la"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "y'a lajɛ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ yen"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Ayuba"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "jasarebagu"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ka … jaabi"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "a ka kumaw"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "aw la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:13:08.402067993Z",
+  "model": "glm-5.3"
+}

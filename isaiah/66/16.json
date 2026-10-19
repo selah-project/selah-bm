@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sogo",
+      "rationale": "בשר is 'flesh' — all living humankind, not meat; sogo keeps the literal body-sense"
+    },
+    {
+      "kind": "crux",
+      "subject": "fisaya walima kuma-ka-don",
+      "rationale": "נשפט rendered 'judge\/execute judgment'; KJV 'plead' (contend in court) also possible"
+    }
+  ],
+  "translation": "Sabu Yawe bɛna kɛ a ka fisaya ni tasuma ye, ni a ka npan ye sogo ⟨את⟩ bɛɛ kan, Yawe fɛ ka ku-bagaw bɛna ka caman ka bon.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c59325694b7fc9ac7eac29ad56b9dce6a17603bf8a0bbfe0398de6306fe5afed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/66\/13-16.1791934871078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ni tasuma ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "bɛna kɛ a ka fisaya"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "ni a ka npan ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sogo bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sogo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "bɛna ka caman ka bon"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ku-bagaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe fɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:41:11.081867473Z",
+  "model": "glm-5.3"
+}

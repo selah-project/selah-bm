@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 7:6",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "burubugusabaga",
+      "rationale": "אפהם: 'their baker' (a real person, KJV) vs 'their anger' (reading אפם 'nose\/anger', BSB) — both ancient readings exist"
+    },
+    {
+      "kind": "substitution",
+      "subject": "taabu",
+      "rationale": "להבה 'flame' rendered with the fire-word pair tasuma\/taabu; the Hebrew single word splits across two Bambara words"
+    }
+  ],
+  "translation": "Sabu u dusukunw bɛla i ka furun ye, u bɛ gbɛsɛ ni wuli ye; o su bɛɛ, u ka burubugusabaga bɛ sunɔgɔ; sɔgɔma la, a bɛ taga tasuma ye i n'a fɔ taabu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a24c437edf1bd670d9addc9e26ea4962e81d9bc325ba0f3cf69aa202b6eaa001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/7\/5-8.1791938325439.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "bɛla"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "i ka furun"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dusukunw"
+    },
+    {
+      "surface": "בארבם",
+      "gloss": "u bɛ gbɛsɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "su"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "bɛ sunɔgɔ"
+    },
+    {
+      "surface": "אפהם",
+      "gloss": "burubugusabaga"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sɔgɔma la"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bɛ taga tasuma ye"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "i n'a fɔ taabu"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "taabu"
+    }
+  ],
+  "timestamp": "2026-10-14T00:38:45.439951636Z",
+  "model": "glm-5.3"
+}

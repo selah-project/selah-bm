@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 27:18",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "rationale": "Here את is the preposition 'with', not the object marker; kept as ⟨את⟩ per discipline and glossed 'u ni'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nabi",
+      "rationale": "נביא rendered nabi, never kira (Kira is Muhammad's title in Bambara usage)"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Entreaty particle 'I pray' has no Bambara equivalent; fɔlɔ ('first\/now') carries its urgency weakly"
+    }
+  ],
+  "translation": "Ni u ye nabiw ye, ani ni Yawe ka kuma bɛ ⟨את⟩ u ni, u ka fɔlɔ kuma bila Yawe Tsabaotu ma, walasa batofɛn minnu Yawe so kɔnɔ, ani Yehuda masakɛ so kɔnɔ, ani Yerushalayim (Jerusalɛmu) kɔnɔ, olu kana taa Babilen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5be01117f3073b00fe12666d113c7d51725eab4bb7794bda23ca90e1bdf629ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/27\/17-20.1791935794383.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "nabiw"
+    },
+    {
+      "surface": "הם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ani ni"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ u ni"
+    },
+    {
+      "surface": "יפגעו",
+      "gloss": "kuma bila"
+    },
+    {
+      "surface": "נא",
+      "gloss": "fɔlɔ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaotu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "walasa … ka tɛ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kana taa"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "batofɛn"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "minnu to"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so kɔnɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ani so"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ani Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilen"
+    }
+  ],
+  "timestamp": "2026-10-13T23:56:34.384993586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 15:2",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בן שש עשרה שנה",
+      "rationale": "Hebrew says 'son of sixteen years'; Bambara states the age directly with den bracketed into the idiom."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bambara equative construction supplied for the verbless name formula ושם אמו."
+    },
+    {
+      "kind": "measurement",
+      "subject": "san bamman-ni-fila",
+      "rationale": "Reign length: fifty-two years, the longest in Judah."
+    }
+  ],
+  "translation": "A yɛ mɔgɔ den ye, san tan-ni-wolonfila don o ye masaya bɔ waati, an'a ye san bamman-ni-fila masaya kɛ Yerushalayim (Jerusalɛmu) kɔnɔ; a ba tɔgɔ ye Yekalya ye, a bɔra Yerushalayim.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2e2b7ca35547245dcec68244e5ea961a7a6da19c6f22aa08252c0638217c24cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/15\/1-4.1791932972413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "a yɛ den ye, san"
+    },
+    {
+      "surface": "שש",
+      "gloss": "wolonfila don"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tunen"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "o ye masaya bɔ waati"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "an'a ye san bamman"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ni fila"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masaya kɛ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu) kɔnɔ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a ba tɔgɔ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "יכליהו",
+      "gloss": "Yekalya"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "a bɔra Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-13T23:09:32.418025926Z",
+  "model": "glm-5.3"
+}

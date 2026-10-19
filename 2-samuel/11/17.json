@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וילחמו את",
+      "rationale": "Hebrew 'battle against' with את; Bambara renders with the verb faa taking Yowab as direct object, so ⟨את⟩ marks the combatant rather than a patient."
+    }
+  ],
+  "translation": "Duguw in mɔgɔw bɔra, u ye ⟨את⟩ Yowab faa, ka mɔgɔ dɔw bɔ Dawid ka furakɛw la, ani Uriya Hetiden fana sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "01f9f21ef46f01b11b1e3e1788231c07640dcbabf0c97afa04d493cc9ccd5f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/11\/17-20.1791931151453.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugu in"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "u ye … faa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔ … la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mɔgɔ dɔw"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "furakɛw"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid ka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetiden"
+    }
+  ],
+  "timestamp": "2026-10-13T22:39:11.454071216Z",
+  "model": "glm-5.3"
+}

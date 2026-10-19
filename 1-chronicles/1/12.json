@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨da⟩",
+      "rationale": "verb of v11 carries over; Bamanankan needs it supplied to close the list"
+    },
+    {
+      "kind": "crux",
+      "subject": "Felistiw ka bɔyɔrɔ",
+      "rationale": "here Philistines come from Casluchim, but Amos 9:7 and Jer 47:4 say from Caphtor — translations differ on which clause 'from there' attaches to"
+    },
+    {
+      "kind": "measurement",
+      "subject": "den lisi",
+      "rationale": "genealogical name-list continuing Mitsrayim's line"
+    }
+  ],
+  "translation": "ani ⟨את⟩ Patrusiw, ani ⟨את⟩ Kasluchiw, minnu bɔra yen Felistiw, ani ⟨את⟩ Kaftoriw ⟨da⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/1\/9-12.1791947352069.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Patrusiw"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusiw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kasluchiw"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluchiw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "משם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Felistiw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kaftoriw"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftoriw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:09:12.071628832Z",
+  "model": "glm-5.3"
+}

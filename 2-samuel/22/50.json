@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jira",
+      "rationale": "אודך literally 'I will throw (praise) to you'; rendered 'jira' (make known\/praise)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔnɔdɔn da",
+      "rationale": "אזמר literally 'I will touch strings (play music)'; rendered as singing with instruments"
+    }
+  ],
+  "translation": "O la sabu, ne bɛ Yawe jira i n'a fɔ min yɛlɛma dɔw bɛ fɛ, ani ne tɔgɔ la, ne bɛ kɔnɔdɔnw da.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1f1f0d025142afc18f46cc442f0ea9d9d59166607e228b872b054268e9a299d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/22\/49-51.1791931532688.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "o la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ne bɛ i jira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "siyaw bɛɛ la"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ani i tɔgɔ la"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "ne bɛ kɔnɔdɔn da"
+    }
+  ],
+  "timestamp": "2026-10-13T22:45:32.690759132Z",
+  "model": "glm-5.3"
+}

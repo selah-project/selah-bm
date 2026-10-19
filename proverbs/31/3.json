@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למחות מלכין",
+      "rationale": "'to erase\/destroy kings' — whose ways destroy kings (KJV) vs ways given to those who destroy kings (LXX)"
+    },
+    {
+      "kind": "you",
+      "subject": "to Lemuel",
+      "rationale": "direct prohibition addressed to the king"
+    }
+  ],
+  "translation": "I kana i se di musow ma, i ka taamaw fana, ka masaw ja.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/31\/1-4.1791943126005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "i kana ... di"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "musow ma"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "i se"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "i ka taamaw"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "ka ... ja"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "masaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:58:46.006991607Z",
+  "model": "glm-5.3"
+}

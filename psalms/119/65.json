@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עם עבדך",
+      "rationale": "'with your servant' read as 'for\/toward your servant'; literal 'with' kept"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב",
+      "rationale": "Verse opens with 'good', echoed in v.68 'You are good and do good' — Teth stanza's refrain"
+    }
+  ],
+  "translation": "I ye ɲuman kɛ ni i ka baarakɛla ye, Yawe, kɛɲɛ ni i ka kuma ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/65-68.1791941602567.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ɲuman"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i ye … kɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni … ye"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i ka baarakɛla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "kɛɲɛ ni i ka kuma ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:22.567684460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fura bɔman",
+      "rationale": "רוש is a poisonous plant (probably poppy); rendered 'fura bɔman' (evil medicine\/poison)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "משדמת",
+      "rationale": "'Cultivated fields\/grounds' — rare word, here linked to Amora's plantations."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ענבמו\/ענבי",
+      "rationale": "'Their grapes are grapes of…' — repetition with poetic suffix ענבמו, kept by doubling dɔnkɔrɔw."
+    },
+    {
+      "kind": "substitution",
+      "subject": "anw ye",
+      "rationale": "למו is a poetic 'to them' particle; rendered 'anw ye' to keep the dative weight."
+    }
+  ],
+  "translation": "Sabu u ka dɔnkɔrɔ jiri bɔra Sɛdɔm (Sodom) ka dɔnkɔrɔ jiri la, ani Gomora (Amora) ka forow la; u ka dɔnkɔrɔw ye fura bɔman dɔnkɔrɔw ye, u ka kurunw ye kɔgɔn, anw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c67d672c8a66b2a780ff34c83280611977e93f49a47615fc86b87202d50a5d1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/32\/29-32.1791928398422.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "dɔnkɔrɔ jiri la"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sɛdɔm (Sodom)"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "u ka dɔnkɔrɔ jiri"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "ani ... forow la"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomora (Amora)"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "u ka dɔnkɔrɔw"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "dɔnkɔrɔw"
+    },
+    {
+      "surface": "רוש",
+      "gloss": "fura bɔman"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "u ka kurunw"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "kɔgɔn"
+    },
+    {
+      "surface": "למו",
+      "gloss": "anw ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:53:18.424438050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "farati",
+      "rationale": "מרפא is literally 'curative, healing' — a heart of healing, not merely 'tranquil'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "balo\/wolo",
+      "rationale": "Antithesis: life of flesh vs rot of bones; body imagery kept"
+    }
+  ],
+  "translation": "Dusukun min bɛ farati, o ye farisogo ka balo ye; nka kanyali ye kolow ka wolo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fba42c40bf9affc3fdd5d2f40c5d3e593b95c68d1abe959f275af7a4f559c92b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/14\/29-32.1791942537785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "balo"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "farisogo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "min bɛ farati"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "nka … wolo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kolow"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "kanyali"
+    }
+  ],
+  "timestamp": "2026-10-14T01:48:57.786233042Z",
+  "model": "glm-5.3"
+}

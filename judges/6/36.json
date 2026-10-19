@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "judges 6:36",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lasigi",
+      "rationale": "מושיע is a participle, 'the-one-who-saves'; Bambara verb form loses the noun-of-agent shape"
+    },
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "Bambara quotative 'ko' supplied before direct speech; Hebrew has no quotative particle"
+    },
+    {
+      "kind": "invitation",
+      "subject": "prayer-request",
+      "rationale": "Gideon's conditional 'if' puts a test-question to Elohim, soliciting a sign"
+    }
+  ],
+  "translation": "Gidɔn ye kuma fɔ Elohim ye ko: ni i bɛ ⟨את⟩ Isirayi (Isirayɛli) lasigi ne bolo fɛ, i nin i y'a fɔ cogo min na —",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f400795a03e4f0d40d078b59238be634684544a97733b3a091a8f48c2c10eca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/6\/33-36.1791929304267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ye kuma fɔ … ye"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidɔn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "i bɛ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "lasigi"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ne bolo fɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isirayi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i nin"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "i y'a fɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:08:24.271443600Z",
+  "model": "glm-5.3"
+}

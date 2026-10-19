@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 27:12",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Hebrew leaves the object of 'seen' implicit; Bambara needs the pronoun o"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל\/תהבלו",
+      "rationale": "Noun and verb of the same root — 'vanity you become vain'; the pun collapses into repeated hewalen"
+    },
+    {
+      "kind": "you",
+      "subject": "to the three friends",
+      "rationale": "Direct plural address, Job rebuking his companions"
+    }
+  ],
+  "translation": "Aw ye, aw bɛɛ ye ⟨o⟩ ye; o de mun na aw bɛ kuma hewalen na?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "674c6db14c7ce9f8951ccd277c2f694bb54a8948ae3ce99b9e668777f6b616d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/27\/9-12.1791943882099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "חזיתם",
+      "gloss": "ye … ye"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "o de"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hewalen"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "bɛ kuma hewalen na"
+    }
+  ],
+  "timestamp": "2026-10-14T02:11:22.100978952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mɔgɔ bɛ",
+      "rationale": "Hebrew verb סור has no stated subject; 'one turns aside' supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכפר",
+      "rationale": "כפר literally 'cover\/atone': expiated (JPS), purged (KJV), pardoned (YLT); kafara keeps the covering-sense"
+    }
+  ],
+  "translation": "Ni hesed ni tiɲɛ ye, jurumu ka kafara bɛ kɛ; ni Yawe siran, mɔgɔ bɛ sa ko jugu bila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/16\/5-8.1791942565657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "ni hesed ye"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ni tiɲɛ ye"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ka kafara bɛ kɛ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "ni Yawe siran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "סור",
+      "gloss": "sa … bila"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ko jugu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:49:25.658118658Z",
+  "model": "glm-5.3"
+}

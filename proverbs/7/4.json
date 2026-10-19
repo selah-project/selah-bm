@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "teri",
+      "rationale": "מודע ye 'mɔgɔ min bɛ dɔn (a ɲɛfɛ)' ye — teri surunnen; 'kinswoman' fana ye cogoya ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "hakili",
+      "rationale": "Chakama bɔko fɔlɔ la, ɲɛfɔli-faralen sɔn ( ) kɔnɔ — sariya sɛbɛnni-yɛlɛma cogoya"
+    },
+    {
+      "kind": "you",
+      "subject": "Chakama ni faamuyali",
+      "rationale": "Verse in bɛ Wele ladilikanba ma min bɛ Wele Chakama ni faamuyali ni u tɔgɔ ye"
+    }
+  ],
+  "translation": "Ko Chakama (hakili) ma: “I ye n balimamuso ye”; ka faamuyali Wele i teri ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/7\/1-4.1791942319796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ko… ma"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "Chakama"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "n balimamuso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ i",
+      "marks": "Chakama — 'i ye n balimamuso ye'"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "i teri"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "faamuyali"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "Wele"
+    }
+  ],
+  "timestamp": "2026-10-14T01:45:19.797322424Z",
+  "model": "glm-5.3"
+}

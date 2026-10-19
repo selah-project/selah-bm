@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "aleph-tav sanu daɲɛ niŋɛ tɛ, ⟨את⟩ taamasiyɛn de wajibiya"
+    }
+  ],
+  "translation": "Yisrael ka mɔgɔkɔrɔw bɛɛ naana; Lewiw ye ⟨את⟩ sandukun ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4be76c798d5ca304338842dfe84e2117ef530e87757945bdc9988b9e6f2fe3bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/5\/1-4.1791948719715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "naana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mɔgɔkɔrɔw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ye ta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandukun"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandukun"
+    }
+  ],
+  "timestamp": "2026-10-14T03:31:59.716341689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 2:10",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "verbless Hebrew clause 'they are dumb' needs Bambara subject pronoun and copular structure"
+    },
+    {
+      "kind": "crux",
+      "subject": "הורידו לארץ ראשן",
+      "rationale": "'they bring down their head to the earth' — KJ 'hang down their heads'; Bambara 'digi dugukolo la' keeps the literal lowering"
+    },
+    {
+      "kind": "you",
+      "subject": "to Zion",
+      "rationale": "the verse is description, not address, but frames the community of Zion as the gazed-upon subject"
+    }
+  ],
+  "translation": "Ziyɔn den kɔrɔmɔgɔw sigi dugukolo kan, ⟨u⟩ ka kan dagɛ; u ye buguri wuli u kun kan; u ye sãgɔ da u ken; Yerushalayim (Jerusalɛmu) denmusobaw bɛ u kun digi dugukolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8fc38a95343f5aa09460a62b0642f218cfb89b45f756efe1ea6bea2aa8d77776",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/2\/9-12.1791944966409.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "sigi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dugukolo kan"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ka kan dagɛ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kɔrɔmɔgɔw"
+    },
+    {
+      "surface": "בת",
+      "gloss": "den"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyɔn"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "wuli"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "buguri"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "u kun"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "da"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "sãgɔ"
+    },
+    {
+      "surface": "הורידו",
+      "gloss": "digi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "ראשן",
+      "gloss": "u kun"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "denmusobaw"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-14T02:29:26.411128012Z",
+  "model": "glm-5.3"
+}

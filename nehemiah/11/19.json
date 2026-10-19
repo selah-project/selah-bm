@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 11:19",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dugukolo barokolon",
+      "rationale": "Hebrew שערים is 'gates', not 'doors'; the da-tigɛw keep the gates — 'da' carries both, gloss kept as gates"
+    },
+    {
+      "kind": "measurement",
+      "subject": "172",
+      "rationale": "Census count of gatekeepers"
+    }
+  ],
+  "translation": "Ni da-tigɛw: Akkub, Talmon, ni u balimaw, minnu b'ɔ dugukolo barokolonw kɔnɔ — kɛmɛ kelen, wolonwula wolonfila fila ni fila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "024d408f424a83ea204575762aa2027220a60f1d2ca8213739f8240108ab2765",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/11\/17-20.1791947240200.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשוערים",
+      "gloss": "ni da-tigɛw"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "Akkub"
+    },
+    {
+      "surface": "טלמון",
+      "gloss": "Talmon"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "ni u balimaw"
+    },
+    {
+      "surface": "השומרים",
+      "gloss": "minnu b'ɔ"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "dugukolo barokolonw kɔnɔ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "kɛmɛ kelen"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "wolonwula wolonfila fila"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ni fila"
+    }
+  ],
+  "timestamp": "2026-10-14T03:07:20.201406834Z",
+  "model": "glm-5.3"
+}

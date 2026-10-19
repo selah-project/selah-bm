@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומתערה",
+      "rationale": "lemma 6168 kɔrɔ ye «ka jira \/ ka bɔ ye» ye; masin ye «a y'a yɛrɛ mɛn (a yɛrɛ finiyara)» ta KJV\/JPS fɛ, YLT fana «spreading»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "seba",
+      "rationale": "עריץ kɔrɔ ye «mɔgɔ min bɛ mɔgɔw siran» ye — fangatigi, jugutigi seba"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רענן",
+      "rationale": "jiri ka nɔbɔcogo ye sira; Bamanankan tɛ jirilen-dɔnkili o ye"
+    }
+  ],
+  "translation": "Ne ye jawtigi seba dɔ ye, min y'a yɛrɛ mɛn i n'a fɔ jiri balen dɔ min bɛ dugukolo yɛrɛ la, ka nɔ bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e35d96f0cad5c91005cc3d5dbf35260abc95dbea183174aa42c81731a35b560c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/33-36.1791940086365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ne ye … ye"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jawtigi"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "seba (jugu-fangatigi)"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "y'a yɛrɛ mɛn"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "i n'a fɔ jiri balen dɔ min bɛ dugukolo yɛrɛ la"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ka nɔ bɔ (jiri senujen)"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:06.366200635Z",
+  "model": "glm-5.3"
+}

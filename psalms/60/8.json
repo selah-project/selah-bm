@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "jate",
+      "rationale": "Dividing Shekem and measuring the valley of Sukot — land apportioned by measuring line."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בקדשו",
+      "rationale": "'In his holiness' vs 'from his sanctuary' (BSB) — same Hebrew, two English pictures."
+    }
+  ],
+  "translation": "Elohim ye kuma a ka senumaya kɔnɔ: n bɛ ɲɛnamaya, n bɛ bayɛlɛ kɛ Shekem (Sikɛmu) na, n bɛ Sukot kuluja jate.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/60\/5-8.1791940469160.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ye kuma"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "a ka senumaya kɔnɔ"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "n bɛ ɲɛnamaya"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "n bɛ bayɛlɛ kɛ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem (Sikɛmu)"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "… kuluja"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "n bɛ … jate"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:29.161796557Z",
+  "model": "glm-5.3"
+}

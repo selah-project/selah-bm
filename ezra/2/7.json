@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "biɔn fila ni mugan",
+      "rationale": "מאתים חמישים ye 'kɛmɛ fila ni mugan-biɔn' ye a yɛrɛ la; Bamanankan jate-cogo bɛ biɔn (duuru) la, o la 'biɔn fila ni mugan' de ye 50 ye"
+    },
+    {
+      "kind": "measurement",
+      "subject": "jateden",
+      "rationale": "layidu-den jate: kɛmɛ kelen ni 254 — a bɛntan don layidu denw jate la"
+    }
+  ],
+  "translation": "Elam (Elamu) denw, kɛmɛ kelen ni biɔn fila ni mugan ni naninin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "37cd2e573e23a28e72b4bc193a836942b599cb26a4b608ddc299c345aca1ac41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/2\/5-8.1791946285005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kɛmɛ kelen"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "biɔn fila"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ni mugan"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ni naninin"
+    }
+  ],
+  "timestamp": "2026-10-14T02:51:25.006656698Z",
+  "model": "glm-5.3"
+}

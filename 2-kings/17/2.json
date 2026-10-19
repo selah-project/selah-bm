@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 17:2",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bɛɛ ɲɛ na",
+      "rationale": "Hebrew 'in the eyes of YHWH' rendered with the equivalent body-part idiom in Bambara, not literally 'eyes'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפניו",
+      "rationale": "'to his face' rendered 'a ɲɛfɛ' (before him), a spatial idiom for predecessors, not the literal face."
+    }
+  ],
+  "translation": "A ye ko bɔbɔn kɛ Yawe ɲɛ na; nka dɔrɔn de, a tɛ kɛ i n'a fɔ Israel masakɛw minnu tun ye a ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da18edcf9fd832a727673d871d9c38f9ccc7f95932c82acc23e3084d30fda39c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/17\/1-4.1791933098318.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a ye … kɛ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ko bɔbɔn"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ɲɛ na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nka dɔrɔn de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a tɛ"
+    },
+    {
+      "surface": "כמלכי",
+      "gloss": "i n'a fɔ masakɛw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tun ye"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a ɲɛfɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:11:38.321460993Z",
+  "model": "glm-5.3"
+}

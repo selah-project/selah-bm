@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 59:14",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "justice turned back, truth stumbled",
+      "rationale": "Personification chain: mishpat, tsedaqah, emet and nekhona act as persons who retreat, stand far off, stumble, cannot enter; the picture is kept literally."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משפט",
+      "rationale": "Rendered sariya (verdict\/law) where English tradition splits between 'judgment' and 'justice'."
+    }
+  ],
+  "translation": "Sariya seginna a kɔma, kɛnɛ bɛ daanɔ yɔrɔ jan na, sabu tiɲɛ gban-nna da la, tɔɔcogo ma se ka don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "206f249565ec8a57458fe3fb49d77446b3cf1344ccab4ab18c4bb7298c24f998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/59\/13-16.1791934728664.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסג",
+      "gloss": "seginna"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "a kɔma"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "kɛnɛ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "yɔrɔ jan na"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "bɛ daanɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "gban-nna"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "da la"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "ונכחה",
+      "gloss": "tɔɔcogo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "se"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ka don"
+    }
+  ],
+  "timestamp": "2026-10-13T23:38:48.665867271Z",
+  "model": "glm-5.3"
+}

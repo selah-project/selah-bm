@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nin",
+      "rationale": "Hebrew lacks an article before קדש; Bamanankan needs a demonstrative for the noun phrase."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הליכותיך \/ הליכות",
+      "rationale": "repetition of 'goings\/procession' for emphasis, kept by repeating taamabɔw."
+    }
+  ],
+  "translation": "U ye i ka taamabɔw ye, Elohim, El i ta taamabɔw, masakɛ i ta, ⟨nin⟩ senuma yɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "878aa51ab572d46cceb596ce03d50db2dcd9b38baaf888bc7f3c13a3af19e050",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/68\/25-28.1791940582150.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "u ye … ye"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "i ka taamabɔw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "taamabɔw"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El i ta"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "masakɛ i ta"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "senuma yɔrɔ la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:16:22.150771240Z",
+  "model": "glm-5.3"
+}

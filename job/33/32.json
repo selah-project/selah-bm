@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 33:32",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jira",
+      "rationale": "'show\/declare' supplied: Hebrew צדקך is a noun, 'your rightness', not a verb"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ayuw",
+      "rationale": "Elihu continues direct address, offering Job the floor"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ne ye jaabi, kuma",
+      "rationale": "imperatives inviting Job's reply"
+    }
+  ],
+  "translation": "Ni kumaw bɛ yen, ne ye jaabi, kuma, sabu ne b'a fɛ ka i ka fisenya jira.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "929a6141e7df3c0a2f0e77dc24464ab23ca66d1253e7d43bc40165590575b563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/33\/29-32.1791944185403.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bɛ yen"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "ne ye jaabi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ne b'a fɛ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "i ka fisenya"
+    }
+  ],
+  "timestamp": "2026-10-14T02:16:25.407576590Z",
+  "model": "glm-5.3"
+}

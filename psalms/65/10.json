@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lajɛ",
+      "rationale": "פקדת: 'visit\/attend' versus 'remember' (JPS); Bambara 'lajɛ' keeps the visit-oversense."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Object pronoun supplied for the second תכין clause; Hebrew verb agrees with the earth feminine."
+    }
+  ],
+  "translation": "I ye dugukolo lajɛ, ji bɛ a ɲɛ falen; i bɛ a fisa ni bonya ye. Elohim ka jibolo bɛ ji la maramaralen. I bɛ ⟨a⟩ sigi kisɛ ye, cogo min na, i bɛ a sigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/65\/9-12.1791940432078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "i ye … lajɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "ji bɛ a ɲɛ falen"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ni bonya ye"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "i bɛ a fisa"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "jibolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "bɛ ji la maramaralen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "i bɛ ⟨a⟩ sigi"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "kisɛ ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "i bɛ a sigi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:52.078712282Z",
+  "model": "glm-5.3"
+}

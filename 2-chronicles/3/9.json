@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 3:9",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sikili duuru",
+      "rationale": "Nail weight given in shekels of gold — counting verse."
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew omits the subject of חפה; supplied pronoun refers to the builder."
+    }
+  ],
+  "translation": "Misɛriw ka pɛsɛn ye sikili duuru sanu ye; a ye sanu di so labɛrɛw (so tilennenw) kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f8eba62acef14d8203e1d5769e9688cdc596aa4f202f43cf60ee1384c9b52625",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/3\/9-12.1791948571140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשקל",
+      "gloss": "pɛsɛn"
+    },
+    {
+      "surface": "למסמרות",
+      "gloss": "misɛriw"
+    },
+    {
+      "surface": "לשקלים",
+      "gloss": "sikili"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "duuru"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "והעליות",
+      "gloss": "so labɛrɛw"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "ka di ... kan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sanu"
+    }
+  ],
+  "timestamp": "2026-10-14T03:29:31.141153556Z",
+  "model": "glm-5.3"
+}

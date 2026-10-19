@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ɲɛjirali k'a lasigi",
+      "rationale": "ושננתם kɔrɔ jɔlen ye 'ka shin walima ka lasigi ka ɲagami' ye; lasigi ɲɛfɔli dɔw bɛ a kɔnɔ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "merism",
+      "rationale": "Sigin\/taa, dugubada\/sira, sɔrɔ\/sin — juguyɔrɔ-camancogo fila-fila; a bɛ jira ko kuma bɛna kɛ waati bɛɛ ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "בם",
+      "gloss-note": null,
+      "rationale": "ם nɔnabila kelen 'u kan' kɔnɔ; kelen-kelen tɛ fɔ"
+    }
+  ],
+  "translation": "I b'u ɲɛjirali k'a lasigi i ka denw ma, i b'u kuma, ni i bɛ sigin i so kɔnɔ, ni i bɛ taasira la, i bɛnna sɔrɔ ni i bɛ sin na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2cc6d3aec31d90024fe908c7815c1c5ab018ff8f1ed18f7a952c182e11d3de23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/6\/5-8.1791927542813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "i b'u ɲɛjirali k'a lasigi"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "i ka denw ma"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "i b'u kuma"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "ni i bɛ sigin"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "i so kɔnɔ"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "ni i bɛ taasira la"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira la"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "ni i bɛnna sɔrɔ"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "ni i bɛ sin na"
+    }
+  ],
+  "timestamp": "2026-10-13T21:39:02.816281922Z",
+  "model": "glm-5.3"
+}

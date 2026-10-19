@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Hebrew leaves the object of יושיע implicit; Bambara needs the pronoun o"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is breath\/throat\/life-force, rendered ni (life)"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "verse continues third-person description of the king, no direct address"
+    }
+  ],
+  "translation": "A bɛna marmari bila dɛnbaliw ni molu kan, wa molu ka niyu, a bɛna ⟨o⟩ lasigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/72\/13-16.1791940681791.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "bɛna marmari bila"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dɛnbaliya"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ani molu"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "ani niyu"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "moluw"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "bɛna lasigi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:18:01.792091634Z",
+  "model": "glm-5.3"
+}

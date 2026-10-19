@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החל וכלה",
+      "rationale": "'beginning and ending' — verbs read as infinitives: 'I will begin and I will finish' (KJV) vs 'from beginning to end' (JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החל \/ חלל",
+      "rationale": "same root as 'to wound\/defile' — a grim undertone in announcing judgment on Eli's house, lost in Bambara"
+    }
+  ],
+  "translation": "O don na, ne bɛ bɛɛ min fɔna Eli so ko, ne bɛ ⟨את⟩ bɛɛ kɛ Eli la, daminɛ ka ban na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0c5e13e9fa98e0373fdb0caf232f518294f5856e8159d0b5f8ddb99cf25a9221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/3\/9-12.1791929945724.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "O don na"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ne bɛ kɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɛɛ (ne yɛrɛ ka kuma bɛɛ)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "fɔna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "so"
+    },
+    {
+      "surface": "החל",
+      "gloss": "daminɛ"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ka ban na"
+    }
+  ],
+  "timestamp": "2026-10-13T22:19:05.727562353Z",
+  "model": "glm-5.3"
+}

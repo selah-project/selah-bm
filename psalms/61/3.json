@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "magalen",
+      "rationale": "בעטף לב is 'when my heart is covered\/enveloped'; rendered as 'when my heart is faint\/overwhelmed'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "fan dɔw na",
+      "rationale": "'dugukolo dɔw na' (from the ends of the earth) reads spatially; 'dugukolo kɔrɔyɔrɔ' would read 'from far away'"
+    },
+    {
+      "kind": "crux",
+      "subject": "min bɛ ne sanfɛ",
+      "rationale": "KJV 'higher than I' vs JPS 'too high for me' — ירום ממני can be comparative or inaccessible"
+    }
+  ],
+  "translation": "Dugukolo fan dɔw na ne b'i wele, ne dusukun magalen na; ne tɛmɛn ne ka kuru la min bɛ ne sanfɛ jɔnjɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/61\/1-4.1791940497398.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "fan dɔw na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ne b'i wele"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "magalen na"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ne dusukun"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "min bɛ ne sanfɛ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ne la"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ne tɛmɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:57.399539292Z",
+  "model": "glm-5.3"
+}

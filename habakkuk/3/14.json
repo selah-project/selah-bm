@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 3:14",
+  "book": "habakkuk",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "duguw",
+      "rationale": "פרזו warriors\/villages\/chieftains: 'his villages' (KJV) vs 'his warriors' (ASV) vs 'his leaders' (JPS); literally the un-walled settlements."
+    },
+    {
+      "kind": "addition",
+      "subject": "u ka",
+      "rationale": "'his own staves' — the possessor supplied for clarity; Bambara needs the pronoun."
+    },
+    {
+      "kind": "crux",
+      "subject": "ne",
+      "rationale": "להפיצני 'to scatter me' singular vs BSB 'us'; Hebrew first-person singular kept."
+    }
+  ],
+  "translation": "I ye u ka bolo-nanw ye u ka duguw kun lamɛn; u bira i n'a fɔ sanso ka ne ɲagami; u ka guelo tun ye i n'a fɔ ka mɔgɔsunɔgɔyala dun gbɛ kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "45f117aa822882145116e35a6fa09473d570895da61666be3f0fb7885cb22b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/habakkuk\/3\/13-16.1791939013326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקבת",
+      "gloss": "lamɛn"
+    },
+    {
+      "surface": "במטיו",
+      "gloss": "u ka bolo-nanw"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "פרזו",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "יסערו",
+      "gloss": "bira"
+    },
+    {
+      "surface": "להפיצני",
+      "gloss": "ka ne ɲagami"
+    },
+    {
+      "surface": "עליצתם",
+      "gloss": "u ka guelo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "dun"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mɔgɔsunɔgɔyala"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "gbɛ kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:50:13.327283595Z",
+  "model": "glm-5.3"
+}

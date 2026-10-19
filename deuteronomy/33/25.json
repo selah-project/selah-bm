@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנעליך",
+      "rationale": "'I ka da-bolonw' (bolts of your gate) versus KJV\/Wycliffe 'shoes' — ancient versions differ: bars\/bolts vs sandals."
+    },
+    {
+      "kind": "hapax",
+      "subject": "דבאך",
+      "rationale": "דֹבֶא appears only here; rendered 'sebagaw' (strength), glossed 'quiet' — sense uncertain."
+    },
+    {
+      "kind": "you",
+      "subject": "to Asher",
+      "rationale": "Blessing addressed directly to the tribe of Asher (Ashɛri)."
+    }
+  ],
+  "translation": "Nɛgɛ ni kɔbi ye i ka da-bolonw ye; i ka donw bɛ cogo min na, i ka sebagaw bɛna kɛ o cogo na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "67f3d8fca57661e18ca252ddd0319b9708581d1a1571610ed31b1af14c4eb4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/33\/25-28.1791928458793.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "nɛgɛ"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ni kɔbi"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "i ka da-bolonw"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "i ka donw bɛ cogo min na"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "i ka sebagaw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:54:18.795043813Z",
+  "model": "glm-5.3"
+}

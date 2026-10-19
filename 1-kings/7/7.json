@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dugukolo ka se dugukolo",
+      "rationale": "'From floor to floor' literally; many read the second קרקע as ceiling — kept the literal repetition."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sɛdɛrɛ",
+      "rationale": "ארז is a proper cedar tree; transliterated as a named wood, not a generic word."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אולם\/המשפט",
+      "rationale": "'Porch of the throne' renamed 'porch of judgment' — the repetition of אולם marks the hall by its function."
+    }
+  ],
+  "translation": "A ye masadugu sigilanba ka daso min kɔnɔ a bɛ datugu yen, datugu-daso, dilan; ni sɛdɛrɛ ye a datugu, dugukolokɔrɔ ka se dugukolokɔrɔ ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "93431f683d6f071b7b277a1636ce9f4b011d9f35e7f47cc6c88139e244e965ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/7\/6-7.1791950443881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ni daso"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "sigilanba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "a bɛ datugu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "daso"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "datugu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilan"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "a datugu"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "sɛdɛrɛ"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "dugukolokɔrɔ la"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "dugukolokɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:00:43.882315792Z",
+  "model": "glm-5.3"
+}

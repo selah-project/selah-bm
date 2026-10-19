@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ka",
+      "rationale": "פחדו suffix 'his fear' — Bambara needs the possessive a ka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tɔgɔ bɔra",
+      "rationale": "'name went out' rendered as tɔgɔ bɔra, 'the name went out', keeping the Hebrew picture of fame spreading"
+    }
+  ],
+  "translation": "Dawid (Dawuda) tɔgɔ bɔra dugukolow bɛɛ la, ani Yawe da ⟨את⟩ a ka siran siyaw bɛɛ kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "012f00093b3318e0e4fea7c9e52abf745479239a6ae62611276935162749a715",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/14\/17-17.1791947814846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "דָּוִיד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הָאֲרָצוֹת",
+      "gloss": "dugukolow"
+    },
+    {
+      "surface": "וַיהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נָתַן",
+      "gloss": "da"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "a ka siran"
+    },
+    {
+      "surface": "פַּחְדּוֹ",
+      "gloss": "a ka siran"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הַגּוֹיִם",
+      "gloss": "siyaw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:16:54.847546128Z",
+  "model": "glm-5.3"
+}

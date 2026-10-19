@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עלילותיו",
+      "rationale": "'his exploits\/deeds' rendered simply 'a baaraw'; the word carries accomplished acts, good or bad"
+    }
+  ],
+  "translation": "U y'a baaraw satɔrɔ, ni a lajɛyaw minnu o y'u jira u ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/9-12.1791940749004.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "u y'a satɔrɔ"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "a baaraw"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "a lajɛyaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "o y'u jira"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:09.005144444Z",
+  "model": "glm-5.3"
+}

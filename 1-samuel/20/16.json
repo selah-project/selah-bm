@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויכרת... עם",
+      "rationale": "'Cut a covenant' — Bambara 'ye layidu da' loses the cutting picture of כרת, echoing v15."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובקש יהוה",
+      "rationale": "Jussive wish ('Yawe ka a ɲini') vs. YLT's future 'Yawe hath sought it' — KJV\/Geneva read a wish, YLT a statement."
+    },
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "Bambara quotative 'ko' added to introduce the covenant words; Hebrew has no marker."
+    }
+  ],
+  "translation": "Yonatan (Yunatan) ye layidu da Dawid (Dawuda) so ni, ko: Yawe ka a ɲini Dawid ka bɛnnyɔrɔmaw bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cb14f6d7744f54c69aaef52baf127fee4bac8c66f30a41aced25b0187218fdb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/20\/13-16.1791930528183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "ye layidu da"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "ka a ɲini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "bɛnnyɔrɔmaw"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-13T22:28:48.185647924Z",
+  "model": "glm-5.3"
+}

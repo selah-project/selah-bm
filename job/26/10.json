@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חג",
+      "rationale": "a kɔrɔ ye 'kɛrɛkɛrɛlen dilan' ye; Bambara ma se k'a jira kelen-kelen daɲɛ kelen na, o la 'kelen-kɔnɔ' ɲɛ jira"
+    },
+    {
+      "kind": "crux",
+      "subject": "עד תכלית",
+      "rationale": "KJV\/Geneva b'a kalan 'ka don ni su k'a ban na' wa YLT\/JPS b'a kalan 'yeelen ni dibi lasigiden ma' — an ye filanan ta"
+    }
+  ],
+  "translation": "A sennin dan ji ɲɛ kan, ka se yeelen ni dibi lasigiden ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8bb6ca06b36eb2e0618a17ae9590a68e9c8a18a32bedf0907fe2ca3d3e213a1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/26\/9-12.1791943855173.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "sennin dan"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ka 'kelen kɔnɔ' ɲɛ jira"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "lasigiden"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yeelen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dibi"
+    }
+  ],
+  "timestamp": "2026-10-14T02:10:55.173995210Z",
+  "model": "glm-5.3"
+}

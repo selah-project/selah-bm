@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קסם",
+      "rationale": "Singular 'קסם' (lot\/oracle) paired with plural participle is a rare construction; rendered as one office of divination."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiledɔnnibaga",
+      "rationale": "מעונן literally 'cloud-observer\/omen-watcher'; Bambara coinage 'knower of times\/sky-signs' keeps the picture."
+    }
+  ],
+  "translation": "Mɔgɔ si tɛ ye i kɔnɔ min bɛ tɛmɛnɛ a denkɛ walima a denmuso tasuma kɔnɔ; sɛnbɔbaga, tiledɔnnibaga, pɛrɛbaga, ani masabaga si tɛ ye i kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2d78e60d156a9819c1ba92c9c919e8d3bccb2a65f0cc314098737ff1131d3bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/18\/9-12.1791927987752.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ye i kɔnɔ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i kɔnɔ"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "bɛ tɛmɛnɛ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "walima a denmuso"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tasuma kɔnɔ"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "sɛnbɔli"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "sɛnbɔbaga"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "tiledɔnnibaga"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "pɛrɛbaga"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "masabaga"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:27.754267946Z",
+  "model": "glm-5.3"
+}

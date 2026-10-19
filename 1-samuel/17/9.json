@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "Hebrew preposition את 'with' points at the opponent; rendered as the marker ⟨את⟩ plus 'ni ne ye'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והיינו\/והייתם",
+      "rationale": "Mirrored clauses — 'we will be to you \/ you will be to us' — chiastic challenge structure kept parallel."
+    }
+  ],
+  "translation": "Ni a bɛ se ka bɛrɛ ⟨את⟩ ni ne ye, ka ne bɔ, an bɛna kɛ aw ye jonw ye; nka ni ne bɛ se a la, ka a bɔ, aw bɛna kɛ an ye jonw ye, aw bɛna baara kɛ ⟨את⟩ an ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d512dbda2f2668db30e2cd5359f2516c376eebce48dd359bb2e85a00530aa8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/17\/9-12.1791930368329.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "a bɛ se"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ka bɛrɛ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ni ne ye"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "ka ne bɔ"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "an bɛna kɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "jonw ye"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "nka ni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ne bɛ se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "ka a bɔ"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "aw bɛna kɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an ye"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "jonw ye"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "aw bɛna baara kɛ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "an"
+    }
+  ],
+  "timestamp": "2026-10-13T22:26:08.330509486Z",
+  "model": "glm-5.3"
+}

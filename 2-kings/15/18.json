@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 15:18",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bonya kɛ … ɲɛ na",
+      "rationale": "Hebrew 'the evil in the eyes of YHWH' rendered with the Bambara 'do evil in the eye of' idiom, preserving the body part."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ye … bila jurumu la",
+      "rationale": "Hebrew החטיא is a single hiphil causative 'he made-sin'; Bambara needs a periphrastic causative."
+    }
+  ],
+  "translation": "A ye bonya kɛ Yawe ɲɛ na; a ma bɔ Yarobeam (Jerobɔamu), Nebat den, jurumuw la min na min ye ⟨את⟩ Israyel bila jurumu la, a donnbɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a7eaf583d94d65f61c890bb6a731e8479538c4e185b43e15e6d5196f11368561",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/15\/17-20.1791932999199.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a ye … kɛ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bonya"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סר",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "la"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "jurumuw"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ye … bila jurumu la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "a donnbɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:09:59.206721883Z",
+  "model": "glm-5.3"
+}

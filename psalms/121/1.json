@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "Hebrew מאין bɛ fɔ kuma-yɔrɔ ye, Bamanankan maga na dɔrɔn"
+    },
+    {
+      "kind": "crux",
+      "subject": "kululw",
+      "rationale": "מאין יבא עזרי: ɲininkili walima jaabi — ancienw ta fɔcogow bɛ sigilen yen"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sira-sira",
+      "rationale": "למעלות fɔcogo tiɲɛ: ɛlɛvasyon \/ sanfɛ-taama; sira-sira taamasiyɛnnen de ta"
+    },
+    {
+      "kind": "you",
+      "subject": "kalanbaga",
+      "rationale": "kuma bɛ fɔ 'ne' ye, kalanbaga yɛrɛ ka kan"
+    }
+  ],
+  "translation": "Nimi (sira-sira) — ne bɛ ne ka ɲɛw ɲagami kululw ɲɛfɛ; ne ka deme bɛna bɔ yɔrɔ min na?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/121\/1-4.1791941729880.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "sira-sira"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "bɛ ne ka ɲɛw ɲagami"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ne ka ɲɛw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "kululw"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "yɔrɔ min na"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bɛna bɔ"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ne ka deme"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:29.880923062Z",
+  "model": "glm-5.3"
+}

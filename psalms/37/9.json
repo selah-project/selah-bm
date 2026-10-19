@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "יכרתון",
+      "rationale": "'cut off' (כרת) rendered kɛrɛ — to cut — picture kept, passive supplied by Bambara"
+    },
+    {
+      "kind": "addition",
+      "subject": "de",
+      "rationale": "emphatic המה carried by Bambara emphatic de"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וקוי",
+      "rationale": "'wait\/hope' (קוה, bind together) rendered bɛ…kɔrɔ 'lean on \/ wait upon'"
+    }
+  ],
+  "translation": "Sabu mɔgɔ juguw bɛna kɛrɛ, nka minnu bɛ Yawe kɔrɔ, olu de bɛ dugukolo minɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "94b52e3aa9128e32f461e630f0771a68e33165db4dbab5de9e058b803fd3b005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/9-12.1791940073921.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mɔgɔ juguw"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "bɛna kɛrɛ"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "nka minnu bɛ…kɔrɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olu de"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bɛ dugukolo minɛ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:53.922479715Z",
+  "model": "glm-5.3"
+}

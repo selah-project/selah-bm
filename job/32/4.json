@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חכה את איוב בדברים",
+      "rationale": "'waited for Job with words' vs 'waited to speak to Job' — versions divide; rendered 'waited to speak to Job'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "donw la",
+      "rationale": "age counted in days — seniority by days lived."
+    },
+    {
+      "kind": "substitution",
+      "subject": "koronbaw",
+      "rationale": "זקנים 'elders\/older' → Bambara koronba (great-aged ones), the council sense lost."
+    }
+  ],
+  "translation": "Eliyu tun bɛ jɔ k'⟨את⟩ Ayubu kuma dɔ, sabu u ye koronbaw ye a bɔrɔ donw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/32\/1-4.1791944107661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Eliyu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "bɛ jɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayubu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayubu"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "kuma ... dɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "koronbaw"
+    },
+    {
+      "surface": "המה",
+      "gloss": "u"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "a bɔrɔ"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "donw la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:15:07.667852200Z",
+  "model": "glm-5.3"
+}

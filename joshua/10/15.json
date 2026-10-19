@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "Bambara needs the direction word for אל 'to'; folded into the place phrase."
+    }
+  ],
+  "translation": "Yehoshua (Yoshua) nana segin ni Isirayeli bɛɛ ye Giligali kasodon na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "66668c9eff1f121b5a33c0a75c7de1ae9e4483f6107390333c190fe539fe05ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/10\/13-16.1791928750744.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nana segin"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua (Yoshua)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ni a ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kasodon"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Giligali"
+    }
+  ],
+  "timestamp": "2026-10-13T21:59:10.746274026Z",
+  "model": "glm-5.3"
+}

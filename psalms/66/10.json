@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צרפתנו\/צרף",
+      "rationale": "daɲɛ kelen filanla: 'i fili an' ni 'fili' yɛrɛ — ɲɛfɔli bɛ Bamanankan na kokura nafa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sɛgɛsɛgɛli",
+      "rationale": "nɛgɛ sɛgɛsɛgɛli ni fili ye jate-cogo ye, warigwɛ jatebɔ"
+    }
+  ],
+  "translation": "Sabu i ye an sɛgɛsɛgɛ, Elohim; i ye an fili, i n'a fɔ warigwɛ ka fili cogo min.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "56782ef46e878ffa6f08f37a011266e91bec69f83797b221aa3e3faf934ce059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/66\/9-12.1791940425422.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "i ye an sɛgɛsɛgɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "i ye an fili"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "i n'a fɔ … ka fili"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:45.423014230Z",
+  "model": "glm-5.3"
+}

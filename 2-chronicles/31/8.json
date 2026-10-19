@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויברכו את יהוה ואת עמו",
+      "rationale": "Either they blessed Yawe AND (separately) his people Israel, or blessed Yawe concerning his people; Bambara keeps both objects under one verb as the Hebrew does."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחזקיהו",
+      "rationale": "First mention given with the local form (Ezikiya) in brackets; Hebrew form only thereafter."
+    }
+  ],
+  "translation": "Yehizkiyahu (Ezikiya) ni amyɛnw nana, u ye ⟨את⟩ soso ye, u ye ⟨את⟩ Yawe ani ⟨את⟩ a jama Yisraela duba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e54cc11cc799ba4077bf7b5766bf60665d2e5e0acfa1bc7d822d875d37151aa6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/31\/5-8.1791949666586.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "nana"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "amyɛnw"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soso"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "soso"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a jama Yisraela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a jama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-10-14T03:47:46.587479354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka ɲagami",
+      "rationale": "yadber is piel of dabar 'speak', here rare sense 'subdue\/drive'; Bambara renders 'crush down', a role-reading of the picture."
+    },
+    {
+      "kind": "elision",
+      "subject": "ha- article",
+      "rationale": "ha-El 'the God' — Bambara has no article, relative clause 'min' carries the definiteness."
+    }
+  ],
+  "translation": "El min bɛ fiyɛnw di n ma, ka siyaw ɲagami n jukɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/45-48.1791939758262.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "min bɛ … di"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "fiyɛnw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n ma"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ka … ɲagami"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "n jukɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:38.263497358Z",
+  "model": "glm-5.3"
+}

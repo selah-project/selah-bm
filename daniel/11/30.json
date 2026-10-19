@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 11:30",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ציים",
+      "rationale": "lemma צי = ship, so 'ships of Kittim'; some read ציים as 'coast-dwellers' (Kittite islanders) directly."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ונכאה",
+      "rationale": "rare Hitpael of נכא — dejected\/cowed, rendered 'a bɛna a wulici' (his heart sinks)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויבן על",
+      "rationale": "'understand upon\/regard' — KJV 'have intelligence with' (ally), JPS 'have regard unto'; Bambara keeps the neutral faamɛdi (pay attention to)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וְעָשָׂה",
+      "rationale": "bare 'and he shall do' — object unstated; translations supply 'do his pleasure\/damage'; Bambara keeps 'a bɛna o kɛ'."
+    }
+  ],
+  "translation": "O ni, Kitim janw bɛna na a kan; a bɛna a wulici ka a segin, a bɛna kujɛ bɔ ⟨senuma layidu⟩ kan, a bɛna o kɛ; a bɛna segin ka faamɛdi ⟨senuma layidu⟩ bɔbagaw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f36351f964aa07ac5d63f3d344a2ee8d967d1d64e147a318ba539dc92d337d36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/11\/29-32.1791946305183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "bɛna na"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "janw"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "a bɛna a wulici"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "a bɛna a segin"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "a bɛna kujɛ bɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "קודש",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a bɛna o kɛ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "a bɛna segin"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ka faamɛdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "bɔbagaw"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senuma"
+    }
+  ],
+  "timestamp": "2026-10-14T02:51:45.183936371Z",
+  "model": "glm-5.3"
+}

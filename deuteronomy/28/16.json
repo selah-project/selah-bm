@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אָרוּר … וְאָרוּר",
+      "rationale": "anaphoric repetition 'cursed… cursed' opening the curse catalogue; parallelism city\/field kept intact"
+    },
+    {
+      "kind": "addition",
+      "subject": "bɛ … la",
+      "rationale": "Bambara stative construction supplied where Hebrew uses a passive participle with no verb 'to be'"
+    }
+  ],
+  "translation": "I bɛ danga la dugu kɔnɔ, i bɛ danga la foro kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d11719aa63fd31fbce0f707cee1bccf32c215b86e3fad413e2241fc9ef0e0879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/28\/13-16.1791928256366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "danga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dugu kɔnɔ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "i bɛ danga la"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "foro kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:50:56.369809633Z",
+  "model": "glm-5.3"
+}

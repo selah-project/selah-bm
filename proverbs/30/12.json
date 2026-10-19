@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nka",
+      "rationale": "Hebrew juxtaposes without contrast conjunction; Bambara needs 'nka' (but) to carry the irony."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וּמִצֹּאָתוֹ",
+      "rationale": "lit. 'from its excrement' — strong physical word rendered 'wɔlɔw' (filth)."
+    }
+  ],
+  "translation": "Mɔgɔ dɔw bɛ yen: u jɛ u yɛrɛ ka ɲɛ na, nka u wɔlɔw ma sabɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/30\/9-12.1791943031350.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Mɔgɔ dɔw bɛ yen"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "u jɛ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "u yɛrɛ ka ɲɛ na"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "u wɔlɔw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "sabɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:57:11.352030961Z",
+  "model": "glm-5.3"
+}

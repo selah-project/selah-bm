@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 49:26",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sumaya",
+      "rationale": "ידמו = 'be silent\/dumb' also 'perish': 'brought to silence' (ASV\/JPS) vs 'cut off' (KJV)."
+    },
+    {
+      "kind": "elision",
+      "subject": "נאם",
+      "rationale": "Oracle-formula noun rendered as the speech verb 'y'a fɔ'; no Bambara noun carries the formulaic weight."
+    }
+  ],
+  "translation": "O la, a denmisɛnw bɛna bɔ a dalaw la, ani kɛlɛbagaw bɛɛ bɛna sumaya o don la — Yawe Tsabaɔt y'a fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6281c313f4ff23660c255ae67696744a4d6b1086ed8aca45248ed25d4eea163f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/49\/25-28.1791936358636.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "O la"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bɛna bɔ"
+    },
+    {
+      "surface": "בחוריה",
+      "gloss": "a denmisɛnw"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "a dalaw la"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kɛlɛbagaw"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "kɛlɛ"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "bɛna sumaya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don la"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaɔt"
+    }
+  ],
+  "timestamp": "2026-10-14T00:05:58.637410755Z",
+  "model": "glm-5.3"
+}

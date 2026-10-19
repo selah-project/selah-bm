@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 1:5",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "N",
+      "rationale": "Hebrew lacks explicit subject pronoun; speaker Yawe supplied as ⟨i⟩-class first person"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yehoshua",
+      "rationale": "Yawe addresses Yehoshua directly with promise and negations"
+    }
+  ],
+  "translation": "Mɔgɔ si tɛna jɛ ⟨i⟩ ɲɛnw la i ni don bɛɛ; i n'a fɔ N ye kɛ ni Moshe (Musa) ye, N bɛna kɛ ni ⟨i⟩ ye; N tɛna i dasi, N tɛna i bila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "544bbaedbc370ceb3c029bd755cd863289c831915ff3aaed5326300ee819e378",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/1\/5-8.1791928581946.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "jɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "i ɲɛnw la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "don"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "i ni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "N ye kɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "N bɛna kɛ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "ארפך",
+      "gloss": "i dasi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "N tɛna"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "i bila"
+    }
+  ],
+  "timestamp": "2026-10-13T21:56:21.947799608Z",
+  "model": "glm-5.3"
+}

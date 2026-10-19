@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ינשא\/ישפלו",
+      "rationale": "lifting of valleys and lowering of heights — inverted merism kept in parallel Bambara verbs"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הרכסים",
+      "rationale": "rare word 'tied summits\/rough ridges' — rendered gɛlɛgɛlɛ-kuluw (rough hills)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copular ye required for 'become X' clauses that Hebrew states by simple ל prefix"
+    }
+  ],
+  "translation": "Kolokoro bɛɛ bɛna tigɛ, kulu ni kulusen bɛɛ bɛna dɔgɔya, gɛnsɛn-yɔrɔ bɛna kɛ foroba ye, gɛlɛgɛlɛ-kuluw bɛna kɛ kolokoro ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2c47c8032b261dec1f5806e5a5b6003ca79c26a4981197e86ddd957385c3521a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/40\/1-4.1791934347054.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "kolokoro"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "bɛna tigɛ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "kulusen"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "bɛna dɔgɔya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "bɛna kɛ … ye"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "gɛnsɛn-yɔrɔ"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "foroba"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "gɛlɛgɛlɛ-kuluw"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "kolokoro"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:27.062216760Z",
+  "model": "glm-5.3"
+}

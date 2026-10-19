@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kunbɛnbaga",
+      "rationale": "עכר ye ji kɔnɔna-taaboli ye a tiɲɛ la; 'kunbɛnbaga' ye kɔrɔfɔli yerɛ ye, nka ji-taaboli mana yen"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עכר",
+      "rationale": "Eliyahu bɛna daɲɛ nɔ fɔli 'עכרתי' ye v18 kɔnɔ — Ahab ka fɔli n' a ka jaabi bɛ daɲɛ kelen la"
+    },
+    {
+      "kind": "you",
+      "subject": "Ahab",
+      "rationale": "Ahab b'Eliyahu wele k' a ɲini a bɛɛ"
+    }
+  ],
+  "translation": "A yɛlɛmara ko: Ahab ni a ye ⟨את⟩ Eliyahu ye, Ahab y'a fɔ a ye ko: “Yala i de ye o ye, Yisrayɛl kunbɛnbaga?”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/18\/17-20.1791932393732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a yɛlɛmara ko"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ni a ye"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y'a fɔ ko"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "i de"
+    },
+    {
+      "surface": "זה",
+      "gloss": "o"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "kunbɛnbaga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛl"
+    }
+  ],
+  "timestamp": "2026-10-13T22:59:53.736816409Z",
+  "model": "glm-5.3"
+}

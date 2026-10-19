@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "שמור",
+      "rationale": "Deuteronomy says 'kɔlɔsi' (observe\/guard); Exodus 20:8 uses זכור 'remember' — the two versions differ."
+    },
+    {
+      "kind": "elision",
+      "subject": "צוך",
+      "rationale": "Verb 'command' (צוה) with second-person suffix compressed; gloss expands to 'ye i waso' (commanded you)."
+    }
+  ],
+  "translation": "⟨את⟩ Shabat don kɔlɔsi walasa k'a senuma kɛ, cogo min na Yawe i Ala ye i waso.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/5\/9-12.1791927570655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabat don"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "walasa k'a senuma kɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ye i waso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i Ala"
+    }
+  ],
+  "timestamp": "2026-10-13T21:39:30.657631513Z",
+  "model": "glm-5.3"
+}

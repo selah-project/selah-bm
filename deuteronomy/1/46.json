@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שׁוב\/יָשַׁב",
+      "rationale": "v45 'you turned back (תשבו)' vs v46 'you sat\/dwelt (תשבו)' — same consonants, two lemmas; the echo is lost in Bambara"
+    },
+    {
+      "kind": "measurement",
+      "subject": "days",
+      "rationale": "length of stay counted in days, compared 'as the days that you dwelt'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Kadesi-Barne",
+      "rationale": "Hebrew has only 'בקדש' (Kadesh); the fuller name Kadesh-Barnea supplied in brackets as the form readers know"
+    }
+  ],
+  "translation": "Aw sigin Kadesi (Kadesi-Barne) yen don caman na, i n'a fɔ o donw na min na aw siginen don kɔfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8cccfbdff248723b53791e05221452b7ccd6d8aaafa2d3af531b9b69179958ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/1\/45-46.1791927415785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "aw sigin"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "Kadesi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "don"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "caman"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "i n'a fɔ o donw na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "aw siginen don"
+    }
+  ],
+  "timestamp": "2026-10-13T21:36:55.787007422Z",
+  "model": "glm-5.3"
+}

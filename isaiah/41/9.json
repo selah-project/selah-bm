@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 41:9",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan needs the copula ye for 'thou art my servant'; Hebrew has no verb"
+    },
+    {
+      "kind": "crux",
+      "subject": "soronw",
+      "rationale": "מאציליה: 'its extremities' (as in 'from its far corners') vs 'its nobles\/chief men' (KJV); context of מקצות favors 'extremities'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אציליה",
+      "rationale": "this sense of the word (extremity) occurs only here in the Tanakh"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel\/Jacob",
+      "rationale": "direct address continuing from v.8"
+    }
+  ],
+  "translation": "Minnu la, ne ye i minɛ dugukolo danw la, ani a soronw na, ne ye i wele, ne ko i ma: i ye ne ka sarakabaga ye; ne ye i ju, ani ne ma i biri.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a802bdd6320629de330a8399533296e8db58c5bf8f4d88c3f450882af6f2e8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/41\/9-12.1791934307160.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "minnu la"
+    },
+    {
+      "surface": "החזקתיך",
+      "gloss": "ne ye i minɛ"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "danw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ומאציליה",
+      "gloss": "ani a soronw na"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ne ye i wele"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ani ne ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ma"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ne ka sarakabaga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ne ye i ju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani ne ma"
+    },
+    {
+      "surface": "מאסתיך",
+      "gloss": "i biri"
+    }
+  ],
+  "timestamp": "2026-10-13T23:31:47.161600576Z",
+  "model": "glm-5.3"
+}

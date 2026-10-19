@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחילו",
+      "rationale": "KJV 'grievous', JPS 'prosper', ASV 'firm' — the root חול means twist\/whirl; rendered as 'bɛ jɔ' (are firm)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ninakili tuuru",
+      "rationale": "יפיח is literally 'he puffs\/snorts breath at them'; Bambara renders the snort image"
+    }
+  ],
+  "translation": "A siraw bɛ jɔ waati bɛɛ; i ka sariyaw bɛ sanfɛ, a yɛrɛ ma u ye; a ka pythoni bɛɛ la, a bɛ ninakili tuuru u kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/10\/5-8.1791939657424.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "bɛ jɔ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "a siraw"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waati"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "i ka sariyaw"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "a yɛrɛ ma u ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "a ka pythoni"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "a bɛ ninakili tuuru"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:57.425444719Z",
+  "model": "glm-5.3"
+}

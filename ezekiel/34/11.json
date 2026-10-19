@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 34:11",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yɛrɛ",
+      "rationale": "הנני אני doubles the 'I'; 'ne yɛrɛ' keeps the emphatic self-declaration."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרש \/ בקר",
+      "rationale": "Two near-synonymous verbs of seeking\/inspecting paired; Bambara splits as ɲini and lajɛ."
+    }
+  ],
+  "translation": "Sabu cogo nin na Adonay Yawe ko: Nin ye de, ne yɛrɛ, ne bɛna ⟨את⟩ ne ka sagaw ɲini, k'u lajɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "255dda2b567d391e8099640cf67001a99c45b9bee5d43e3c0a2058449c236c43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/34\/9-12.1791937530145.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "cogo nin na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nin ye de"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne yɛrɛ"
+    },
+    {
+      "surface": "ודרשתי",
+      "gloss": "ne bɛna ɲini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka sagaw"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "ne ka sagaw"
+    },
+    {
+      "surface": "ובקרתים",
+      "gloss": "k'u lajɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:25:30.146826301Z",
+  "model": "glm-5.3"
+}

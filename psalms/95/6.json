@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Naŋ",
+      "rationale": "Cohortative summons: come, let us worship"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duba",
+      "rationale": "נברכה from ברך 'kneel\/bless' — kneeling as blessing, rendered with duba (bless)"
+    }
+  ],
+  "translation": "Naŋ, an bɛn Yawe ma, an jigin, an duba a ma Yawe ɲɛfɛ, min ye an dilan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/95\/5-8.1791941123540.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "naŋ"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "an bɛn … ma"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "an jigin"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "an duba a ma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "min ye an dilan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:23.541612791Z",
+  "model": "glm-5.3"
+}

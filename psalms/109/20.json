@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "gloss": "נפש",
+      "rationale": "נפש is throat\/breath\/life-force, rendered ni per the fixed table"
+    },
+    {
+      "kind": "crux",
+      "subject": "שטני",
+      "gloss": "falabagaw",
+      "rationale": "'my accusers' (shatan) rendered n ka falabagaw; 'adversaries' (kendɛmaw) is the alternative"
+    }
+  ],
+  "translation": "O ye n ka falabagaw ka san ye Yawe fɛ ⟨את⟩, ani uw minnu bɛ kuma kumabi n ka ni kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/109\/17-20.1791941452143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "O"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "san"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "n ka falabagaw"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "san (baara min bɛ Yawe bolo, min bɛna a di falabagaw ma)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "ani uw minnu bɛ kuma"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kumabi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n ka ni"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:52.144573440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצבותם",
+      "rationale": "daɲɛ fila kɔrɔ: 'fitiniw' (KJV) walima 'batofɛnw' (JPS) — a bɛ don peku bɛɛ la"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jisaraka",
+      "rationale": "נסכיהם ye ji-minɛli-saraka ye; Bamanankan kɔnɔ 'ji' fara 'saraka' kan"
+    },
+    {
+      "kind": "elision",
+      "subject": "מהרו אחר",
+      "rationale": "Heburukan ye 'a wɛrɛ kɔ jɔgɔya' ye; kɔrɔ sɛgɛsɛgɛli bɛ la"
+    }
+  ],
+  "translation": "U ka fitiniw bɛna ka bɔn, minnu jɔgɔyara fɛn wɛrɛ kɔ; ne tɛna u ka jisaraka min joli la, wa ne tɛna ⟨את⟩ u ka tɔgɔw da ne da la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/16\/1-4.1791939650895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "bɛna ka bɔn"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "u ka fitiniw"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "fɛn wɛrɛ"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "minnu jɔgɔyara … kɔ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ne tɛna … min"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "u ka jisaraka"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "joli la"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "wa ne tɛna"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "… da … la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka tɔgɔw"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "u ka tɔgɔw"
+    },
+    {
+      "surface": "על",
+      "gloss": "da"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ne da la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:50.896607978Z",
+  "model": "glm-5.3"
+}

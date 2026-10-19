@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Object of seeing supplied; Hebrew verb alone"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Direct prayer addressing Yawe with negative imperatives"
+    },
+    {
+      "kind": "idiom",
+      "subject": "pisili kɛ",
+      "rationale": "חרש literally 'be silent\/deaf' — rendered 'keep silence' rather than 'be deaf'"
+    }
+  ],
+  "translation": "I ye ⟨a⟩ ye, Yawe; kana pisili kɛ; Adonay, kana tugu ne fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/35\/21-24.1791939982956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "I ye ⟨a⟩ ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "pisili kɛ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ne fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:22.957092352Z",
+  "model": "glm-5.3"
+}

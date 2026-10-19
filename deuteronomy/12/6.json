@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zakaw",
+      "rationale": "מעשרות literally 'tenths' — Bambara 'zaka' (tithe) carries an Islamic-zakat echo the Hebrew tenth-measure does not"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tithes and firstlings",
+      "rationale": "the verse enumerates seven counted\/apportioned offering classes — a list of obligations by measure and birth-order"
+    },
+    {
+      "kind": "addition",
+      "subject": "fɔlɔdenw",
+      "rationale": "Hebrew has one construct בכרות governing both herds and flocks; Bambara repeats 'firstborn' for each"
+    }
+  ],
+  "translation": "Aw bɛna aw ka tasumasarakaw ni aw ka sarakaw, ⟨את⟩ aw ka zakaw ni ⟨את⟩ aw ka bolo-dibilaw, aw ka laadiw ni aw ka kanuyadilaw, aw ka misi fɔlɔdenw ni aw ka saga fɔlɔdenw kɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8b1576c0c9c1e99dbdfd65321bb2c882f32a04cb67ed8e102174a5f7148a1b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/12\/5-6.1791950061254.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "aw bɛna … kɛ yen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "aw ka tasumasarakaw"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "aw ka sarakaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aw ka zakaw"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "aw ka zakaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aw ka bolo-dibilaw"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "bolo-dilaw"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "aw ka bolo"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "aw ka laadiw"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "aw ka kanuyadilaw"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "fɔlɔdenw"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "aw ka misi"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "aw ka sagaw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:54:21.255338454Z",
+  "model": "glm-5.3"
+}

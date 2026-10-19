@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "fo nin don in na",
+      "rationale": "'unto this day' — scribe's fixed temporal marker dating the schism"
+    },
+    {
+      "kind": "addition",
+      "subject": "nin",
+      "rationale": "demonstrative duplicated; Bambara requires nin both before and after don"
+    }
+  ],
+  "translation": "Israyɛl ye jolili kɛ Dawid so koŋɔ, fo nin don in na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2ca8c44a0bf348bb73412359cc1b44a4e6628c59ce4b7ace02eec05f438e7c8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/10\/17-19.1791948774160.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "ye jolili kɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so koŋɔ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nin don in na"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin"
+    }
+  ],
+  "timestamp": "2026-10-14T03:32:54.161343567Z",
+  "model": "glm-5.3"
+}

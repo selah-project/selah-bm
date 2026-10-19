@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר ליראתך",
+      "rationale": "fɔcogow bɛɛ couplées: 'min bɛ kɛ i ta siran ɲɛfɛ' (JPS) wa 'min bɛ i siran' walima 'walasa siran ka bɔ' (BSB)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuma",
+      "rationale": "אמרה kɔrɔ ye kumalen-dilannen ye, sariya-daɲɛ; 'kuma' dɔgɔya dɔɔni"
+    }
+  ],
+  "translation": "I k'i ta kuma jɔ i ka sɔrɔdilen (servant) ma, min bɛ kɛ i ta siran ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/37-40.1791941555500.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "kɛ… jɔ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "i ka sɔrɔdilen ma"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "i ta kuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "i ta siran ɲɛfɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:35.501148735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tiɲɛye la",
+      "rationale": "לצדק is a bound preposition phrase; Bamanankan needs the locative 'la'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הן",
+      "rationale": "'An!' summons the listener to behold the coming king"
+    }
+  ],
+  "translation": "An! Masakɛ bɛna tiɲɛye la jɔ, ani kuntigiw bɛna sariya la ɲɛmɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "05fcd370f2b52b8a124c7aa18890659c4680642e1a15d7bf4beb4076bdae0ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/32\/1-4.1791934051277.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "An!"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "tiɲɛye la"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "bɛna jɔ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ani kuntigiw"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "sariya la"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "bɛna ɲɛmɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:27:31.280145164Z",
+  "model": "glm-5.3"
+}

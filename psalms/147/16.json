@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sɔgɔma-jekɛ",
+      "rationale": "כפור (hoarfrost, 'the covering') rendered literally as 'sɔgɔma-jekɛ' (morning-ice); Bambara has no single everyday word for hoarfrost"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפור",
+      "rationale": "the root means 'cover'; the picture of frost covering the ground is lost in the rendering"
+    }
+  ],
+  "translation": "Min bɛ jekɛ di i n'a fɔ sagi sinji, sɔgɔma-jekɛ i n'a fɔ pɔsɔ a bɛ ɲagami.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/147\/13-16.1791942048575.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Min bɛ di"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "jekɛ"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "i n'a fɔ sagi sinji"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "sɔgɔma-jekɛ"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "i n'a fɔ pɔsɔ"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "a bɛ ɲagami"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:48.576854211Z",
+  "model": "glm-5.3"
+}

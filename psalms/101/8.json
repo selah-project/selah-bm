@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "sɔgɔma o sɔgɔma",
+      "rationale": "Hebrew plural לבקרים 'morning by morning' (ASV); distributive plural rendered by reduplication."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעיר יהוה",
+      "rationale": "'city of Yawe' — Geneva\/KJV 'city of the LORD'; construct chain kept, Yawe untranslated."
+    },
+    {
+      "kind": "addition",
+      "subject": "walasa ka",
+      "rationale": "Purpose marker supplied for Hebrew infinitive להכרית."
+    }
+  ],
+  "translation": "Sɔgɔma o sɔgɔma, ne bɛ dugukolo jugunw bɛɛ fa, walasa ka Yawe dugu min na, ka juguya baarakɛlaw bɛɛ bɔ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/101\/5-8.1791941239798.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "sɔgɔma o sɔgɔma"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "jugunw"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dugu la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "baarakɛlaw"
+    },
+    {
+      "surface": "און",
+      "gloss": "juguya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:19.799333440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed-denw",
+      "rationale": "חסיד rendered as 'hesed-den' (one of hesed), not collapsed to 'saint' or 'faithful one'"
+    },
+    {
+      "kind": "crux",
+      "subject": "daman",
+      "rationale": "ידמו: 'be silent' (KJV) vs 'perish' (BSB) — same root covers both"
+    }
+  ],
+  "translation": "Yawe b'a ka hesed-denw ka sɛnɛw mara, ani mɔgɔ juguw bɛ dibi la daman; sabu ni fanga ye, mɔgɔ kelen tɛ se ka gɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/2\/9-12.1791929870137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "sɛnɛw"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "a ka hesed-denw"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bɛ … mara"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ani mɔgɔ juguw"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dibi la"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "daman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ni fanga ye"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "ka gɛn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen"
+    }
+  ],
+  "timestamp": "2026-10-13T22:17:50.139162574Z",
+  "model": "glm-5.3"
+}

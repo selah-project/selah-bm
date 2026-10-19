@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 46:4",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "wolonfila sagadenw",
+      "rationale": "The verse fixes the Sabbath offering as six lambs plus one ram — a counted prescription."
+    },
+    {
+      "kind": "substitution",
+      "subject": "buɲu tɛ o la",
+      "rationale": "תמים is 'whole, complete'; rendered 'no defect in it', the blemish-free sense, since Bambara lacks a one-word equivalent."
+    }
+  ],
+  "translation": "Olah-saraka min, nasi bɛna a ta na Yawe ye Shabat don: sagadenw wolonfila, buɲu tɛ u la, ani sagaba, buɲu tɛ a la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5b75574827932e13caf2467d10af6b404e410e69165d2e520e4a0c676a932b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/46\/1-4.1791938031206.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "olah-saraka o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "bɛna ta na"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "nasi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "wolonfila"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "sagadenw"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "buɲu tɛ u la"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ani sagaba"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "buɲu tɛ a la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:33:51.207739480Z",
+  "model": "glm-5.3"
+}

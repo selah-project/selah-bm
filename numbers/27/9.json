@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "Bamanankan needs 'si tɛ' where Hebrew has one negative particle אין"
+    }
+  ],
+  "translation": "Ani ni denmuso si tɛ a fɛ, aw bɛ ⟨את⟩ a kegili di a balimakɛw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7e4c998a677d7a4cb6da39597791af69957e25b6180a28c5d2f3f82d076b217d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/27\/9-12.1791927100977.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ani ni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "denmuso"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "aw bɛ … di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kegili"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "a kegili"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "a balimakɛw ma"
+    }
+  ],
+  "timestamp": "2026-10-13T21:31:40.978481633Z",
+  "model": "glm-5.3"
+}

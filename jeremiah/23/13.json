@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "balolan",
+      "rationale": "תפלה 'frivolity\/foolishness' rendered as 'balolan' (foolishness); JPS 'unseemliness' shows the range"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויתעו",
+      "rationale": "causative 'made stray' rendered with double object sira jɔɔ, the inner object of the Hebrew causative lost"
+    }
+  ],
+  "translation": "Shomeron (Samari) nabiw la, n yera balolan: u ye nabiya Baal fɛ, u ye ⟨את⟩ n ka jama ⟨את⟩ Israyɛl (Isirayɛli) sira jɔɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fd481d6fa1367f928297298d82e862789eec85dccfed48f0bfabaa2798b11bc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/23\/13-16.1791935622185.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "nabiw la"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "n yera"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "balolan"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "u ye nabiya"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal fɛ"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "u ye … sira jɔɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n ka jama"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n ka jama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    }
+  ],
+  "timestamp": "2026-10-13T23:53:42.185923725Z",
+  "model": "glm-5.3"
+}

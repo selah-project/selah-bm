@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "KJV reads 'the LORD shall smite him' (statement), YLT\/JPS 'except\/nay but the LORD smite him' (conditional); Bambara follows KJV with Yawe de as emphasis."
+    },
+    {
+      "kind": "addition",
+      "subject": "de",
+      "rationale": "Emphasis particle added for the asseverative oath structure 'חי יהוה, כי אם'."
+    }
+  ],
+  "translation": "Dawuda y'a fɔ k'o ko: Yawe belenna; Yawe de bɛna a lafu, walima a ka don na' ka a sa, walima a bɛ yɛlɛ ka don kɛli kɔnɔ ka bɔ a ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/26\/9-12.1791930714712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a y'a fɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "חי",
+      "gloss": "belenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨sabu⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "a lafu"
+    },
+    {
+      "surface": "או",
+      "gloss": "walima"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "a ka don"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "או",
+      "gloss": "walima"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "kɛli kɔnɔ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "a yɛlɛ ka don"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "ka bɔ a ɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:31:54.713825403Z",
+  "model": "glm-5.3"
+}

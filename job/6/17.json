@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 6:17",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יזרבו",
+      "rationale": "זָרַב 'to flow away' appears only here in the Tanakh; meaning is inferred from context."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נצמתו \/ נדעכו",
+      "rationale": "two near-synonymous 'cut off \/ extinguished' verbs in parallel, both rendered with separate Bambara verbs dugun \/ la to keep the pair."
+    }
+  ],
+  "translation": "Waati min na ji bɔ, u ka dugun; a ka wulanfiɲɛ la, u ka la ka bɔ u yɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cc637b8423d63b370b86aac4f5866ae281b04411f863c06cc05a73d2346bfbed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/6\/17-20.1791943364394.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "waati min na"
+    },
+    {
+      "surface": "יזרבו",
+      "gloss": "ji bɔ"
+    },
+    {
+      "surface": "נצמתו",
+      "gloss": "u ka dugun"
+    },
+    {
+      "surface": "בחמו",
+      "gloss": "a ka wulanfiɲɛ la"
+    },
+    {
+      "surface": "נדעכו",
+      "gloss": "u ka la"
+    },
+    {
+      "surface": "ממקומם",
+      "gloss": "u yɔrɔ la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:02:44.395776701Z",
+  "model": "glm-5.3"
+}

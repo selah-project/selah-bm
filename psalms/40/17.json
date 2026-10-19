@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישישו\/ישמחו",
+      "rationale": "Root pun on שׂושׂ\/שמח (two near-synonymous joy verbs side by side), flattened into a single joy pair in Bambara"
+    },
+    {
+      "kind": "invitation",
+      "subject": "jussives",
+      "rationale": "Verse is a blessing-wish over the community of seekers, cast in third-person jussives ('may they rejoice… may they say')"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "The seekers' speech 'Yawe be magnified' is addressed to Yawe, embedded within the blessing"
+    }
+  ],
+  "translation": "I ɲinikɛliw bɛɛ, u na diɛngɛ ani u na donna diɛ i la; minnu b'i banabaliya dɔnna, olu na k'a fɔ tile bɛɛ ko Yawe kɛ kɔrɔmasa ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c8bdd6fcd811c656ad7851a728d61b6c7a40ab41bfbe17b4c57cb481b8b642ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/40\/17-18.1791940120713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "u na diɛngɛ"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ani u na donna diɛ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "i ɲinikɛliw"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "olu na k'a fɔ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tile bɛɛ"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "kɛ kɔrɔmasa ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "minnu b'i banabaliya dɔnna"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "i banabaliya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:40.713649563Z",
+  "model": "glm-5.3"
+}

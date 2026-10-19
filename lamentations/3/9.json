@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew has no expressed subject; the doer (Yawe) is supplied from context"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gilenw",
+      "rationale": "עוה 'to crook' rendered as 'made crooked', adjective for verb"
+    }
+  ],
+  "translation": "⟨A⟩ ye ⟨את⟩ n siraw datugu kabakurunw ye, ⟨a⟩ ye n taasiraw kɛ gilenw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "00ecde460e6c6b06ebcfcf155c764a06b40c98997c028415c3d023e979bd0292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/9-12.1791944866645.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "datugu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "n siraw"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "kabakurunw ye"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "n taasiraw"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "kɛ gilenw ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:27:46.646419015Z",
+  "model": "glm-5.3"
+}

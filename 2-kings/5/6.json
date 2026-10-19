@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bana",
+      "rationale": "צרעת rendered as generic 'bana' (sickness); Hebrew term covers a skin-ritual affliction, not only Hansen's disease."
+    },
+    {
+      "kind": "you",
+      "subject": "ko min bɛ sɛbɛn kɔnɔ",
+      "rationale": "The letter addresses the king of Israel directly: 'when this letter comes to you...'"
+    }
+  ],
+  "translation": "Sɛbɛn in nana Yisrayɛl masakɛ fɛ, ko: Sisan, sɛbɛn in ka na i fɛ la, aw ye, ne y'i ci ⟨את⟩ Naaman ne ka jɔn, i bɛna a bɔ a bana la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b39ec450498b7878d187663b08778aa418eb799bde7d1f8214433cc4b1c05f9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/5\/5-8.1791932744773.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "Sɛbɛn in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Sisan"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "ka na"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "sɛbɛn in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i fɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ne y'i ci"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i fɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ne ka jɔn"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "i bɛna a bɔ"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "a bana la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:05:44.778495677Z",
+  "model": "glm-5.3"
+}

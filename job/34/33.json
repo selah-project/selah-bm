@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 34:33",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המעמך ישלמנה",
+      "rationale": "KJVS split differently: 'by thee will he repay' vs 'should it be according to thy mind? he will recompense it' — subject and preposition attachment disputed."
+    },
+    {
+      "kind": "invitation",
+      "subject": "סpeak what thou knowest",
+      "rationale": "Elihu dares Job to speak; imperative hook addressed to Job."
+    },
+    {
+      "kind": "you",
+      "subject": "to Job",
+      "rationale": "Direct second-person address throughout the verse."
+    }
+  ],
+  "translation": "Yala ⟨a⟩ bɛna ⟨⟨את⟩⟩ yo i yɛrɛ ta la kama, sabu i y'a tigɛ? sabu i bɛ min bɔ, ne tɛ min bɔ. N'o don i bɛ, k'a fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4b9c74a86344e4b6bb2e20a3f3871d2af69ded51ebad81833bdfd845d270769c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/34\/33-36.1791944223777.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המעמך",
+      "gloss": "i yɛrɛ ta la kama"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "bɛna ⟨⟨את⟩⟩ yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "i y'a tigɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "bɛ min bɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka … tɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "n'o don"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "i bɛ don"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "k'a fɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:17:03.778000146Z",
+  "model": "glm-5.3"
+}

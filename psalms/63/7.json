@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "conditional 'if' (YLT) vs temporal 'when' (KJV\/JPS); rendered as Bambara 'Ni' which covers both"
+    },
+    {
+      "kind": "substitution",
+      "subject": "miiri",
+      "rationale": "אהגה is murmur\/ponder, here low-voiced meditation on the couch"
+    }
+  ],
+  "translation": "Ni ne tɔɔra i, ne ka soyi sanfɛ, su ka lasigidenw la ne bɛ i miiri.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/63\/5-8.1791940489744.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ne tɔɔra i"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ne ka soyi"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "su ka lasigidenw la"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ne bɛ ... miiri"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:49.745730413Z",
+  "model": "glm-5.3"
+}

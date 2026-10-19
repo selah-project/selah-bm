@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "i ɲɛ kana a fenya",
+      "rationale": "Hebrew 'your eye shall not pity' — body-part idiom for sparing; kept literal in Bambara"
+    },
+    {
+      "kind": "crux",
+      "subject": "joli min ma jurumu kɛ",
+      "rationale": "KJV supplies 'guilt of' (guilt of innocent blood); Hebrew says only 'the innocent blood'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "second-person singular command addressed to Israel at large"
+    }
+  ],
+  "translation": "I ɲɛ kana a fenya, k'i ye joli min ma jurumu kɛ bɔ Israyɛl (Isirayɛl) la, kabini a bɛ di i ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8f6a0ea4794208b51a38e742b8475ace9b0b0704848a0c5043ad29ea8642b1f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/19\/13-16.1791927987722.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "fenya"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "i ɲɛ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "k'i ye … bɔ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "joli"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "min ma jurumu kɛ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israyɛl la"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "a bɛ di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:27.724127243Z",
+  "model": "glm-5.3"
+}

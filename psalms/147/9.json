@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "buru",
+      "rationale": "לחם ye buru\/kumadon ye, sira tilennen na a bɛ fɔ baganw ta kama"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wele",
+      "rationale": "יקראו kɔrɔ ye 'wele\/yɛlɛma' ye min bɛ KJV la 'cry'; n'in y'a fɔ 'wele' ye, o bɛ a yɔrɔ bɔ dɔɔni"
+    }
+  ],
+  "translation": "A bɛ baganw ma u ka buru di, a bɛ kurun denkɛw ma minnu bɛ a wele.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/147\/9-12.1791942013498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "bɛ … di"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "baganw ma"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "u ka buru"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denkɛw ma"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kurun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "bɛ a wele"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:13.499107384Z",
+  "model": "glm-5.3"
+}

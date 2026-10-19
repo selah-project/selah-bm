@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוחך bɛ bayɛlɛma ni fiɲɛ ye (ni\/senbeko ɲɔgɔnna); 'i ka ni' tun bɛ se ka kɛ a ye."
+    },
+    {
+      "kind": "elision",
+      "subject": "יבראון -un",
+      "rationale": "Nafa caman taamasiyɛn (paragogic nun) tɛ Bamanankan kɔnɔ; a bɛ bayɛlɛma ni bɛɛ ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dugukolo",
+      "rationale": "אדמה ye dugukolo ye (kamalen buguri), aw ni הארץ ye dugukolo ye."
+    }
+  ],
+  "translation": "Ni i b'i ka fiɲɛ ci, bɛɛ bɛtɛda; i bɛ dugukolo ka ɲɛ lagomɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "75f3f6e673b83e41288471480724679e7b452587ff52f918210c38cc3fbf33ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/104\/30-31.1791951240436.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "i bɛ … ci"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "i ka fiɲɛ"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "bɛɛ bɛtɛda"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "i bɛ … lagomɛn"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ka ɲɛ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:00.436876164Z",
+  "model": "glm-5.3"
+}

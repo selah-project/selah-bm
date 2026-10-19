@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "waati bɛɛ",
+      "rationale": "לעולם: 'ever with me' (KJV) vs 'it is before me to the age' (YLT); the ל prefix may read 'for me always' or 'with me'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ko kɔrɔ⟩",
+      "rationale": "Hebrew comparative prefix מ only; Bambara needs an explicit 'more than'"
+    }
+  ],
+  "translation": "I ka laseliw bɛ ne ke dɔnniyabaga ye ⟨ko kɔrɔ⟩ ne ka tɔrɔbagaw la, sabu o bɛ ne fɛ waati bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/97-100.1791941672782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "ne ka tɔrɔbagaw"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "bɛ ne ke dɔnniyabaga ye"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "i ka laseliw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waati bɛɛ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:32.783543357Z",
+  "model": "glm-5.3"
+}

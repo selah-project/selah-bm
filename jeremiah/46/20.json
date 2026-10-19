@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "nisebɛn",
+      "rationale": "קרץ occurs only here in the Tanakh; JPS 'gadfly' from Aramaic 'to pinch', KJV 'destruction' from a cognate root"
+    },
+    {
+      "kind": "crux",
+      "subject": "קרץ",
+      "rationale": "'gadfly' (a stinging insect, JPS) vs 'destruction\/extirpation' (KJV, Geneva) — the word's very rarity is the crux"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בא בא",
+      "rationale": "the verb 'come' is doubled for dread-emphasis; Bambara keeps the doubling 'o bɛ na, o bɛ na'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כלי גולה v19 \/ misidenmuso v20",
+      "rationale": "the heifer image continues: beautiful but defenseless, the stinging fly comes from the north"
+    }
+  ],
+  "translation": "Mitsrayim (Misira) ye misidenmuso finankan ye; nisebɛn min bɛ saheli fɛ, o bɛ na, o bɛ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7aa0eeef7829677e74f9724532f72c6cbe801c828d1a7f8bece79488b56941d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/46\/17-20.1791936176211.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "misidenmuso"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "fininkanne"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "fininkanne-kɔrɔ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Misira)"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "nisebɛn"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "saheli fɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bɛ na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o bɛ na"
+    }
+  ],
+  "timestamp": "2026-10-14T00:02:56.212467424Z",
+  "model": "glm-5.3"
+}

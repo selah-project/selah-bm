@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גבהו ... גבהו",
+      "rationale": "Verb repeated to bind heavens\/earth and ways\/thoughts in one comparison; the echo is kept with repeated 'ka surun'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ani",
+      "rationale": "ו prefix rendered as conjunction 'ani' before the second clause."
+    }
+  ],
+  "translation": "Sabu i n'a fɔ sankolow ka surun dugukolo la, nin cogo min, n siraw ka surun aw siraw la, ani n hakiliw ka surun aw hakiliw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "707efe8e388b8ae14e06693c42ae6d0dfa4746f3c02ea6ebe683db593e287ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/55\/9-12.1791934566930.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ka surun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nin cogo min"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ka surun"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "n siraw"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "aw siraw la"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "ani n hakiliw"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "aw hakiliw la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:36:06.932379319Z",
+  "model": "glm-5.3"
+}

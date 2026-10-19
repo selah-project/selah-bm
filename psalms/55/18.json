@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tile cɛma",
+      "rationale": "צהרים is a dual, 'double-light', i.e. noon; rendered as one Bambara word for midday, the dual shape lost."
+    },
+    {
+      "kind": "measurement",
+      "subject": "wula ni sɔgɔma ni tile cɛma",
+      "rationale": "Three fixed prayer times counted out through the day."
+    }
+  ],
+  "translation": "Wula ni sɔgɔma ni tile cɛma, n'bɛ kuma kɔ a yɛrɛ ma ani n'bɛ kan wuli, a bɛ ne kan mɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/55\/17-20.1791940357165.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "wula"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ni sɔgɔma"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "ni tile cɛma"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "n'bɛ kuma kɔ a yɛrɛ ma"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "n'bɛ kan wuli"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "a bɛ ... mɛn"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ne kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:37.166621654Z",
+  "model": "glm-5.3"
+}

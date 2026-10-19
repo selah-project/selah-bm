@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dunan",
+      "rationale": "גר is a resident sojourner, not a passing stranger; Bambara dunan is the nearest ordinary word"
+    },
+    {
+      "kind": "addition",
+      "subject": "ni",
+      "rationale": "Hebrew asyndeton lists without conjunction; Bambara requires ni between list items"
+    }
+  ],
+  "translation": "aw ka denw, aw ka musow, ni aw ka dunan min bɛ aw ka so kɔnɔ, jirigbɛla bɛɛ kaŋ i bɛ o taa fo jiminɛla bɛɛ kaŋ i bɛ o taa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "613764cbd906a2d63bb9cfe5d19264aead3614839c7c7a0fe55c8496ca3849b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/29\/9-12.1791928266637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "aw ka denw"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "aw ka musow"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "ni aw ka dunan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "aw ka so"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "jirigbɛla"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "i ka jiriw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "jiminɛla"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "i ka ji"
+    }
+  ],
+  "timestamp": "2026-10-13T21:51:06.658328910Z",
+  "model": "glm-5.3"
+}

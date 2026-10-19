@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nana",
+      "rationale": "עלתה is 'ascend\/mount'; Bambara nana ('came up') keeps the upward motion of the roof"
+    },
+    {
+      "kind": "addition",
+      "subject": "a yɛrɛ",
+      "rationale": "emphatic pronoun supplied for the doubled Hebrew direction (up to them, upon the roof)"
+    }
+  ],
+  "translation": "U ma ka bɛn tɔɔ ja, a nana u nɔ, a yɛrɛ taabu kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "92b1001b684669e8cbf6fa4b06c4b1bf4f1cb17a49320d2cb3eae289ef17474e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/2\/5-8.1791928505752.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "u"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "–ja"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "tɔɔ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "nana"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "u nɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "taabu"
+    }
+  ],
+  "timestamp": "2026-10-13T21:55:05.754769534Z",
+  "model": "glm-5.3"
+}

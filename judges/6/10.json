@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 6:10",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אלהי האמרי",
+      "gloss_note": "",
+      "rationale": "gods of the Amorites rendered 'alaw' per discipline for nations' gods; never Tɔgɔ"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "prophet's speech addressed directly to the children of Israel"
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "past-marker 'tun' added; Hebrew perfect has no separate past particle"
+    }
+  ],
+  "translation": "An ko aw ma: ne ye Yawe, aw Ala Elohim. Aw kana siran ⟨את⟩ Emori (Amorite) alaw na, aw sigilen bɛ minnu dugukolo kɔnɔ. Nka aw tun ma mɛn ne kan na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4f2ab91242b7114e31a0aa425d0ec7abef2e78b9f414e23d4ebc6fc4725fb8b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/6\/9-12.1791929277659.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "an ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "aw Ala Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "siran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emori alaw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "alaw"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "sigilen bɛ"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "minnu dugukolo kɔnɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka … ma"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "tun ma mɛn"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ne kan na"
+    }
+  ],
+  "timestamp": "2026-10-13T22:07:57.665635431Z",
+  "model": "glm-5.3"
+}

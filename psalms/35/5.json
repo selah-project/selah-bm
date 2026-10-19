@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ciden",
+      "rationale": "מלאך ye 'ciden' ye (mɔgɔ min cilen don) — mɛlɛkɛ tɛ se Bamanankan kɔnɔ."
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "דוחה yɛrɛ tɛ daɲɛw labɛn; 'ka u da ka u bɔ' ye Bamanankan ka wale-jɔcogo ye."
+    }
+  ],
+  "translation": "U ka kɛ mɔ ye fiɲɛ ɲɛfɛ, ani Yawe ka ciden ka u da ka u bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/35\/5-8.1791940031984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "u ka kɛ"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "mɔ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ani ciden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "ka u da ka u bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:11.984699682Z",
+  "model": "glm-5.3"
+}

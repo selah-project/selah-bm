@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 19:6",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גואל הדם",
+      "rationale": "goel = kinsman-redeemer; versions split between 'avenger' and 'redeemer' of blood — Bambara 'joliɲaamitigi' takes the avenger side"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש is 'life\/breath' not 'soul'; rendered 'ni' per discipline"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מתמול שלשום",
+      "rationale": "literally 'from yesterday, before yesterday' = 'in time past'; kept as kunbɛn\/kunbɛnbaw"
+    }
+  ],
+  "translation": "Ka bali bawo joliɲaamitigi bɛ se ka tugu o mɔgɔ min ye sɔrɔ, a dusukun bɛ ɲagami, a bɛ se ka a mun sabu sira ka jan, a bɛ a faga; o tɛ sariya ye ko a matukɛlen ka sa, sabu a ma a kɛtɔ tugu kunbɛnbaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "af648f85f7503a185dc4d6de2d818085a391e30d70cc50edf2e10e22967e8205",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/19\/5-8.1791928018052.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ka bali bawo"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "joliɲaamitigi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "joli"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔfɛ \/ min ye"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "sɔrɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ɲagami"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "והשיגו",
+      "gloss": "mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "jan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "faga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "o ma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ yen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sa \/ matukɛlen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "kɛtɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o la"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "kunbɛn"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "kunbɛnbaw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:58.055950937Z",
+  "model": "glm-5.3"
+}

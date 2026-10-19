@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "Hebrew verb lacks explicit subject; 'them' (the sayings) supplied"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לוז",
+      "rationale": "rare verb 'turn aside' — also 'be perverse'; physical turning and moral twisting share one word"
+    }
+  ],
+  "translation": "K'u ka bɔ i yɛrɛ ma i n'a fɔ k'a dogo; i ɲɛw kana u jalaki, k'u mara i dusukun la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b2539e7a0347d7f16fae38d48b1d93f538331f1377a1e8c55e0c515a02a0cdd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/4\/21-24.1791942107932.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "u ka jalaki"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "i ɲɛw"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "k'u mara"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "la"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "i dusukun"
+    }
+  ],
+  "timestamp": "2026-10-14T01:41:47.933267950Z",
+  "model": "glm-5.3"
+}

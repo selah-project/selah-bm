@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זבול",
+      "rationale": "זְבֻל 'zunbu-sigiyɔrɔ' — daɲɛ suman; a bɛ Tanaki kɔnɔ yɔrɔ dɔw bɛɛ dɔrɔn (Mika 5:4, oliw Sirayɛl 3:17, nin ye)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "waati bɛɛ",
+      "rationale": "עולמים ye caman-cogi ye ('waati caman \/ jaman bɛɛ') — kelen-kelen bɛɛ tɛ 'duguma' ye, nka 'waati min ma se dɔgɔyɔrɔ'"
+    }
+  ],
+  "translation": "N ne yɛrɛ, m'i ye so dilan — i ka zunbu-sigiyɔrɔ — ani yɔrɔ dɔgɔnen i ka sigili kama, waati bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "de24a3eb168abc4c2c7cc023515f4de6a617e6c80ee31dcd9fa8d242fa5559c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/6\/1-4.1791948625496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "n ne yɛrɛ"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "m'i ye … dilan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "zunbu-sigiyɔrɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ka"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "ani yɔrɔ dɔgɔnen"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "i ka sigili kama"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "waati bɛɛ la"
+    }
+  ],
+  "timestamp": "2026-10-14T03:30:25.497453983Z",
+  "model": "glm-5.3"
+}

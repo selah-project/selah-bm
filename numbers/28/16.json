@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dɔn",
+      "rationale": "Hebrew juxtaposes numbers without 'is' — copula supplied and bracketed"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nanfila-ni-tan dɔn",
+      "rationale": "calendar date, fourteenth day, fixed by count"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Yawe ta",
+      "rationale": "ליהוה is a lamed of belonging: 'Passover of Yawe', rendered as possessive"
+    }
+  ],
+  "translation": "Kalo fɔlɔ na, kalo tile nanfila-ni-tan dɔn, Pesa — Yawe ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e620ba4d296853dcfb047de5567517438ceb8993db43c0fdf682b54eaa08b8c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/28\/13-16.1791927122608.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "kalo ... na"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "fɔlɔ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "nanfila"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ni tan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T21:32:02.608928945Z",
+  "model": "glm-5.3"
+}

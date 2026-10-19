@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 45:12",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "shekel, gerah, maneh",
+      "rationale": "Fixes weights: shekel = 20 gerahs; 20 + 25 + 15 shekels = maneh (mina)."
+    },
+    {
+      "kind": "crux",
+      "subject": "maneh = 60 shekels",
+      "rationale": "Here 20+25+15 = 60 shekels per maneh, against the usual 50 of Exodus\/Leviticus and the Babylonian 60 — a known crux over the Ezekelian system."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "number order",
+      "rationale": "Hebrew says 'five and twenty' and 'ten and five'; Bamanankan keeps that order (duuru ni wolonwula, tan ni duuru) instead of reordering to twenty-five and fifteen."
+    }
+  ],
+  "translation": "Shekeli ka kɛ gera wolonwula ye: shekel wolonwula, duuru ni wolonwula shekel, tan ni duuru shekel — manɛ ka kɛ aw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "03ac006ed8195ed750984cd3e44b61199d42dc8a1a88cc70cc8d021dc40f9dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/45\/9-12.1791937943667.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשקל",
+      "gloss": "Shekeli"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "duuru"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ni wolonwula"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ni duuru"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "manɛ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    }
+  ],
+  "timestamp": "2026-10-14T00:32:23.669124813Z",
+  "model": "glm-5.3"
+}

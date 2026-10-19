@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sanji fɔlɔ ni sanji laban",
+      "rationale": "יורה (autumn rain) and מלקוש (spring rain) are seasonal terms; Bambara has no single words for them, so 'first rain' and 'last rain'"
+    },
+    {
+      "kind": "addition",
+      "subject": "k'a sɔrɔ",
+      "rationale": "Result connector supplied to bind this verse to the conditional v13; Hebrew has only a simple waw"
+    }
+  ],
+  "translation": "k'a sɔrɔ ne bɛna sanji di aw ka dugukolo ma a ka waati la — sanji fɔlɔ ni sanji laban — walasa aw bɛna aw ka kisɛ, aw ka diwɛn ni aw ka tulu lamɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5e7356629e3c7a107172c684e4f174dd6f7f8a82d8a87133e9b805f7e348dd09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/11\/13-16.1791927735635.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ne bɛna di"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "sanji"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "aw ka dugukolo"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "a ka waati la"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "sanji fɔlɔ"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "ni sanji laban"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "aw bɛna lamɛn"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "aw ka kisɛ"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "aw ka diwɛn"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "ni aw ka tulu"
+    }
+  ],
+  "timestamp": "2026-10-13T21:42:15.642606337Z",
+  "model": "glm-5.3"
+}

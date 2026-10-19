@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 8:26",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "san tan ni fila",
+      "rationale": "2 Chronicles 22:2 reads forty-two; translators divide over copyist error vs. different counting."
+    },
+    {
+      "kind": "crux",
+      "subject": "Omri denkɛmuso",
+      "rationale": "בת עמרי literally 'daughter of Omri'; Athaliah was Ahab's daughter, Omri's granddaughter — BSB says granddaughter, KJV keeps daughter."
+    },
+    {
+      "kind": "measurement",
+      "subject": "san kelen",
+      "rationale": "reign length: one year in Jerusalem."
+    }
+  ],
+  "translation": "Ahazyawu ye san tan ni fila ye a ka masakɛyala waati la, a ye san kelen masakɛya Yerushalayim (Jerusalɛmu). A ba tɔgɔ ye Atalya ye, Omri (Omuri) denkɛmuso, Yisrayel masakɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4a1b0acfc57e7eb19ee695e459ef2abb98518bbae58973c573515848da0cab8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/8\/25-28.1791932850022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "den…ye"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tan-ni-fila (mugan)"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazyawu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "a ka masakɛyala waati la"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "…tɔgɔ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "denkɛmuso"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayel"
+    }
+  ],
+  "timestamp": "2026-10-13T23:07:30.026727215Z",
+  "model": "glm-5.3"
+}

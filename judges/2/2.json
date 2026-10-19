@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 2:2",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה זאת עשיתם",
+      "rationale": "Hebrew 'what is this you have done' — indignant question, rendered as Bambara question"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israyɛl",
+      "rationale": "direct accusation addressed to Israel"
+    },
+    {
+      "kind": "crux",
+      "subject": "tense of תכרתו\/תתצון",
+      "rationale": "commands ('you shall not make… you shall tear down') vs past intent — Bambara renders as prohibition followed by past failure"
+    }
+  ],
+  "translation": "Aw kana layidu ti dugukolo nin ka sigidaɔrɔw ni ye, u ka sarakabɔlanw ka kan ka bɔ, nka aw ma n ka kan mɛn. Mun nin ye, aw ye o kɛ wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f4d98866d0660774491603ae922cb4a9aa7100e7d9f72585df464d40164fe51c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/2\/1-4.1791929227803.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana … si"
+    },
+    {
+      "surface": "תכרתו",
+      "gloss": "ti layidu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "sigidaɔrɔw ni ye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מזבחותיהם",
+      "gloss": "u ka sarakabɔlanw"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "ka kan ka bɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka … ma"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "n ka kan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun … wa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "aw ye o kɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:07:07.807762561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jasare",
+      "rationale": "חיל is force\/valor\/might in the broad sense; 'jasare' (bravery) narrows it to the martial nuance."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "refrain",
+      "rationale": "verse 60:14 repeats 60:12 nearly verbatim — the refrain closes the psalm's two halves; the repetition itself is the rhetoric."
+    },
+    {
+      "kind": "addition",
+      "subject": "duguma",
+      "rationale": "'down' added to 'ju' (tread) to render the trampling picture natural in Bamanankan."
+    }
+  ],
+  "translation": "Elohim fɛ, an bɛ jasare kɛ; ani ale de bɛna an ka kɛlɛbagaw ju duguma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d68e83efc903ae7fe44dd33932e52d81132b5b7547f878a3e0fd048430ffa7d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/60\/13-14.1791940393259.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim fɛ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "an bɛ … kɛ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jasare"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ani ale"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "bɛna … ju duguma"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "an ka kɛlɛbagaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:13.260281516Z",
+  "model": "glm-5.3"
+}

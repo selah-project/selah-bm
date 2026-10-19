@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun bɛ",
+      "rationale": "Hebrew has no verb 'to be' in the relative clause; Bambara needs it"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sisi",
+      "rationale": "barad rendered as sisi (hail); sanji koron also possible"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רק",
+      "rationale": "the limitation word opens the verse, marking the lone exception to the plague"
+    }
+  ],
+  "translation": "Dɔgɔkunna Goshen (Goshen) dugukolo la, min na Israela (Israelaya) denw tun bɛ, sisi si ma kɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f0fd91f591daba36856b29d55fa0d01fde5ca796991fd4c3af606c32573aba47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/9\/26-27.1791950054917.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "dɔgɔkunna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si ma"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "sisi"
+    }
+  ],
+  "timestamp": "2026-10-14T03:54:14.917719493Z",
+  "model": "glm-5.3"
+}

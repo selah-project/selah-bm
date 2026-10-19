@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gɛlɛya",
+      "rationale": "בצר literally 'narrow place', rendered 'gɛlɛya' (difficulty); the spatial picture is lost."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצר\/ממצוקותיהם",
+      "rationale": "Two words of the same root צרר (narrowness\/distress) frame the verse; Bambara repeats gɛlɛya to keep the echo."
+    }
+  ],
+  "translation": "Olu ye Yawe wele olu ka gɛlɛya kɔnɔ, ka olu bɔ olu ka gɛlɛyaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "67cd6155dca0eae42a4ff8d6f9085820cad9e38665b643d7354834a1e66e2a3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/107\/6-7.1791951232038.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "olu ye ... wele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔrɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "gɛlɛya kɔnɔ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "olu ka"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "olu ka gɛlɛyaw la"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ka olu bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:52.038783458Z",
+  "model": "glm-5.3"
+}

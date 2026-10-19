@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mɔgɔ",
+      "rationale": "Hebrew מהקיץ has no explicit subject ('one who awakens'); Bambara needs a subject, supplied and bracketed"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cogo-ɲɔgɔn",
+      "rationale": "צלם here is 'phantom\/illusion' — the insubstantial form of the wicked; rendered as 'likeness\/form', the 'phantom' picture is thinned"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעיר",
+      "rationale": "'when you awake' vs 'when you arise (to judge)'; the waking belongs to Adonay, completing the dream metaphor — the wicked vanish like a dream when the sleeper wakes"
+    }
+  ],
+  "translation": "I n'a fɔ sukwɛlɛ ye — ni ⟨mɔgɔ⟩ tu — Adonay, ni i tu, i bɛ u cogo-ɲɔgɔn dɔgɔya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2914c98ee4330bd9f4f6cfbeb8b06d81add37a1c30eba6342254a91239716f4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/73\/20-20.1791951199471.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "sukwɛlɛ (i n'a fɔ)"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "tu (ni ⟨mɔgɔ⟩ tu)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tu (ni i tu)"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "u cogo-ɲɔgɔn"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "dɔgɔya"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:19.472113027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 15:9",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעיני יהוה",
+      "rationale": "Hebrew 'in the eyes of Yawe' rendered 'Yawe ka ɲɛ ye', keeping the eye-picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "החטיא",
+      "rationale": "causative 'made-sin' rendered as 'y'a to ... kɛ jurumu' (caused him to do sin) since Bambara lacks a single causative verb."
+    }
+  ],
+  "translation": "A ye tumakow kɛ Yawe ka ɲɛ ye, i n'a fɔ a ka bamaw ye min kɛ; a ma bɔ Yarobam (Yerobowam) Nevat denkɛ ka jurumuw la, min y'⟨a⟩ to ⟨את⟩ Israel kɛ jurumu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f108304d1e7bfc981f5b1a1aee323a7a651ec9014b736040a583409c6dce1117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/15\/9-12.1791932887192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a ye ... kɛ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "tumakow"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ɲɛ ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ye min kɛ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "a ka bamaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סר",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "jurumuw la"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "y'a to ... kɛ jurumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-10-13T23:08:07.195035282Z",
+  "model": "glm-5.3"
+}

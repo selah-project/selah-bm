@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברב\/רב · יוסיף\/יוסיף",
+      "rationale": "root repetition: rb…rb and ysp…ysp — parallel doubling, kept as caman…caman and fara…fara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sɔngɔ",
+      "rationale": "כעס is vexation\/irritation; sɔngɔ (anger) is the nearest Bamanankan word"
+    }
+  ],
+  "translation": "Sabu dɔnniya caman na, sɔngɔ caman de bɛ; ani ni kunafoni fara, makɔnɔ fana bɛna fara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f8e4ddfd134e2f66f9d8524b8f85e73840c15349004a8d0c64adcb76e939e5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/1\/17-18.1791945046831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "caman na"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "dɔnniya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "caman"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "sɔngɔ"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ani ka fara"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunafoni"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ka fara"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "makɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:30:46.832848327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רב לכם שבת",
+      "rationale": "Literal 'much to you is dwelling' = 'your staying is enough'; rendered as Bambara 'ka bɛn' (it suffices)."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct address of Yawe's words to the assembled Israel through Moshe."
+    }
+  ],
+  "translation": "Yawe, an ka Elohim, ye kuma ani na Horɛb (Horeb) la, ko: Aw sigilen nin kulu la ka bɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/1\/5-8.1791927516905.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kumana"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ani na"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Horɛb la"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ka bɛn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sigilen"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nin kulu la"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin"
+    }
+  ],
+  "timestamp": "2026-10-13T21:38:36.907054356Z",
+  "model": "glm-5.3"
+}

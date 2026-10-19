@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 20:16",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמעו שמעו",
+      "rationale": "Doubled imperative 'mɛn, mɛn' — repetition kept, Bambara cannot carry the Hebrew alliteration"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Politeness particle supplied as bracketed 'aw suɣilo la', Hebrew has no equivalent word"
+    },
+    {
+      "kind": "invitation",
+      "subject": "שמעו שמעו",
+      "rationale": "The woman's cry is a direct summons to the besiegers to listen"
+    },
+    {
+      "kind": "you",
+      "subject": "to Joab via the people",
+      "rationale": "Address shifts: plural 'aw' to the people, then singular 'i' to Yowab"
+    }
+  ],
+  "translation": "Muso dɔnnen dɔ ye dugu kɔnɔ wele ko: “Aw ka mɛn, aw ka mɛn! Aw y'a fɔ Yowab (Jowabu) ma ko i ka na yan, walasa n ka kuma i ye.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "956a147fb123f70f27aab65dbc29f9d585cb901c1712df27acb1b18cbdadc9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/20\/16-16.1791950403117.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "a ye wele"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "muso"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "dɔnnen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugu kɔnɔ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "aw ka mɛn"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "aw ka mɛn"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "aw y'a fɔ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨aw suɣilo la⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ka na surun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka tɛmɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yan"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "walasa n ka kuma"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i ye"
+    }
+  ],
+  "timestamp": "2026-10-14T04:00:03.117893205Z",
+  "model": "glm-5.3"
+}

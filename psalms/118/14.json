@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וזמרת",
+      "rationale": "זמרת appears only here and Exod 15:2; 'song\/praise' vs 'protection' (from זמר defend) — 'song' is the traditional reading"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זמרת",
+      "rationale": "Occurring only here and in the Exodus 15:2 parallel, this rare form echoes the Song of the Sea"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ye bɔli-ma",
+      "rationale": "ישועה is 'deliverance\/rescue' — one Bambara compound for the abstract noun"
+    }
+  ],
+  "translation": "Ne ka se ni ne ka sankolo-donni ye Ya, ale kera ne ye ye bɔli-ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/118\/13-16.1791941508271.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ne ka se"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "ni ne ka sankolo-donni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "ye bɔli-ma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:31:48.271762290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "'if' vs 'when': KJV 'when', YLT keeps 'if'; temporal 'when' chosen as the iterative sense"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sɔgɔma-sɔgɔma",
+      "rationale": "שחרו literally 'to dawn, be early'; idiom of earnest dawn-seeking rendered as 'early morning'"
+    }
+  ],
+  "translation": "Ni A ye u bɔn, u ye A ɲini, u y'a segin, ka Ala ɲini sɔgɔma-sɔgɔma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/33-36.1791940790715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "A ye u bɔn"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "u ye A ɲini"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "u y'a segin"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "ka … ɲini sɔgɔma-sɔgɔma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ala"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:50.716414015Z",
+  "model": "glm-5.3"
+}

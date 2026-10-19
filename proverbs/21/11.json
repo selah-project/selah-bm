@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dɔnmanden",
+      "rationale": "פתי is the 'seducible simple one', not merely ignorant; Bambara 'dɔnmanden' is the nearest single word."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לץ \/ יחכם",
+      "rationale": "Parallel contrast scoffer-made-wise vs simple-made-wise; Hebrew root-play on wisdom words (חכם, שכל, דעת) is dense across eight tokens."
+    }
+  ],
+  "translation": "Ni ɲɛfɔbaga misaali ka kɛ, dɔnmanden bɛ hakili sɔrɔ; ni hakilintigi ladilisara, a bɛ dɔnniya ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/21\/9-12.1791942660088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "ni misaali ka kɛ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ɲɛfɔbaga"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "bɛ hakili sɔrɔ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "dɔnmanden"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "ni ... ladilisara"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "hakilintigi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bɛ ta"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "dɔnniya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:51:00.089580901Z",
+  "model": "glm-5.3"
+}

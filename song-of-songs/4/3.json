@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומדבריך",
+      "rationale": "'your speech\/mouth' vs some versions re-reading as 'temples'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "granad",
+      "rationale": "רימון rendered with the loan word for pomegranate, no native Bambara word"
+    },
+    {
+      "kind": "you",
+      "subject": "to the beloved",
+      "rationale": "direct address continues"
+    }
+  ],
+  "translation": "I ngerew ye kɔkɔrɔ-sira ye, ani i kuma ka ɲi; i ka kun-ɲɛfan ye granad kɛgɛn kelen ye i ka jalo kɔfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/4\/1-4.1791944664227.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "sira i ye"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kɔkɔrɔ"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "i ngerew"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "i kuma"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "kɛgɛn i ye"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "granad"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "i kun-ɲɛfan"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "i ka jalo"
+    }
+  ],
+  "timestamp": "2026-10-14T02:24:24.228603211Z",
+  "model": "glm-5.3"
+}

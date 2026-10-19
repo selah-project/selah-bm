@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 6:14",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "job 6:14 syntax",
+      "rationale": "KJV\/ASV read 'even to him who forsakes the fear of Shaday'; YLT reads 'he who despises his friends forsakes the fear of Shaday' — antithesis ambiguous"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept as hesed per discipline; single Bambara word would narrow it"
+    },
+    {
+      "kind": "addition",
+      "subject": "nka",
+      "rationale": "connector supplied to carry the ambiguous Hebrew conjunction"
+    }
+  ],
+  "translation": "Tɛgɛntigi ma, a tɔgɔma ka hesed di; nka min y'a to, o bɛ Shaday sirani bali.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7665eb970d936697d2efdc8f58bccb52f03f1e3817489fc99181d93b2a7e3284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/6\/13-16.1791943345470.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למס",
+      "gloss": "tɛgɛntigi ma"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "a tɔgɔma"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "Shaday sirani"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaday"
+    },
+    {
+      "surface": "יעזוב",
+      "gloss": "o bɛ … bali"
+    }
+  ],
+  "timestamp": "2026-10-14T02:02:25.471921681Z",
+  "model": "glm-5.3"
+}

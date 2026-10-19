@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לולא",
+      "rationale": "KJV\/ASV supply 'I had fainted' (from the LXX); Hebrew says only 'if not' — the apodosis is left unsaid."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חיים",
+      "rationale": "'Land of the living' rendered as a relative clause 'the land where people live'; the bare adjective pair is unwieldy in Bamanankan."
+    }
+  ],
+  "translation": "Ni n maa Yawe ma sɔn, n tun na a ɲumanya ye dugukolo kɔnɔ min kɔnɔ mɔgɔw bɛ balo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7279dd61c31884fd87504f0892046dbd010a32df671d465ed354dd2a9719f65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/27\/13-14.1791939832931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "n maa … sɔn"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ka a ye"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ɲumanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo kɔnɔ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "mɔgɔw bɛ balo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:52.931856060Z",
+  "model": "glm-5.3"
+}

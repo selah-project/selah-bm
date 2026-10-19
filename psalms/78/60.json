@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bɔ",
+      "rationale": "ויטש properly 'to pound\/fling away' — rendered as plain 'left\/departed from'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכן\/משכן",
+      "rationale": "verb 'dwell' and noun 'dwelling-place' share the root שכן; Bambara repeats sigi- to echo the root bond"
+    }
+  ],
+  "translation": "A y'a bɔ Shilo (Siloo) sigiyɔrɔ na, a ka sanso min sigilen bɛ hadamadenw kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "799f7f342bb4b72181309fa0186dcf0126b45a2bd21c21bd6ec1bba169c44022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/57-60.1791940814779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "a y'a bɔ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "sigiyɔrɔ"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sanso"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "sigilen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "hadamadenw kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:14.780560007Z",
+  "model": "glm-5.3"
+}

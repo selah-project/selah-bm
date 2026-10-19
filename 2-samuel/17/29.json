@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 17:29",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a bɛ a la",
+      "rationale": "אתו (H854, preposition 'with him') bɛ Bamanankan na fɔ ko 'a bɛ a la' — ⟨את⟩ taamasiyɛn b'a la"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nɔni gɛlɛnnen",
+      "rationale": "חמאה ye nɔni gɛlɛnnen ye (kɔtagali nɔni), tɛ 'kɛse' ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "שפות בקר",
+      "rationale": "'misi nɔni gɛlɛnnen' — KJV 'cheese of kine' vs JPS 'cheese' walima 'kɔtagali nɔni' min bɔra misi nɔni la"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dankun",
+      "rationale": "מדבר ye 'dankun \/ pasture-ka-bɔyɔrɔ' ye, tɛ 'dɛserti yege' dɔrɔn ye"
+    }
+  ],
+  "translation": "Ni kɔnɔ, ni nɔni gɛlɛnnen, ni saga, ni misi nɔni gɛlɛnnen — u y'o ta ka na Dawid ma ani jama min bɛ ⟨a bɛ a la⟩, ka dun ⟨את⟩; sabu u y'a fɔ ko: jama bɛ kɔngɔ munu, o bɛ tuuri, o bɛ ji ja, dankun kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ad80ee17e5ed0af436d794e08767f346f10d018b304876747af69c815cd1646b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/17\/29-29.1791931252672.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבש",
+      "gloss": "ni kɔnɔ"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "ni nɔni gɛlɛnnen"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ni saga"
+    },
+    {
+      "surface": "ושפות",
+      "gloss": "ni misi nɔni gɛlɛnnen"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "misi"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "u y'o ta ka na…ma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ma"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "ani jama min…ma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jama min bɛ a la (a-fɛ)"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ka dun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "u y'a fɔ ko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kɔngɔ munu"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "o bɛ tuuri"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "o bɛ ji ja"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dankun kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:40:52.674083131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "daraja",
+      "rationale": "כבוד ye 'sinsu \/ jɔyɔrɔ bonya' kɔrɔ ye; daraja ye a yɔrɔ dɔgɔlen ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Heburukan ma nɔnabila si bila 'o ye' kɔnɔ; Bamanankan a wajibiya"
+    },
+    {
+      "kind": "you",
+      "subject": "sogo bɛɛ",
+      "rationale": "kuma in bɛ hadamadenw bɛɛ wele, a tɛ jigun dɔ la"
+    }
+  ],
+  "translation": "Yawe ka daraja bɛna jira, sogo bɛɛ bɛna ⟨a⟩ ye ɲɔgɔn fɛ, sabu Yawe ka da kun na kuma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6fcc208743decc3140d1260eb85437c22225a93de2dd79e157c63063b1557359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/40\/5-8.1791934271603.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "bɛna jira"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "daraja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "bɛna ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sogo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɲɔgɔn fɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "da kun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    }
+  ],
+  "timestamp": "2026-10-13T23:31:11.604218289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "clung to Yawe",
+      "rationale": "דבק 'cling\/adhere' rendered as Bambara idiom 'y'i to … fɛ' (lean oneself upon); literal sticking picture lost"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara past\/perfective particle required by syntax, absent in Hebrew"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ביהוה \/ יהוה",
+      "rationale": "the Name appears twice bracketing the verse's action, an inclusio lost in rendering"
+    }
+  ],
+  "translation": "A y'i to Yawe fɛ, a ma bɔ a nɔ na, a kɔlɔsi a saraw minnu Yawe y'a fɔ ⟨את⟩ Moshe (Musa) ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b061e908e2c39c78461442396de007227650920dfe92c2b00283122feeadaa6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/18\/6-7.1791950679663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "a y'i to"
+    },
+    {
+      "surface": "ביהווה",
+      "gloss": "Yawe fɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סר",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "a nɔ na"
+    },
+    {
+      "surface": "וישמור",
+      "gloss": "a kɔlɔsi"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "a saraw minnu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "y'a fɔ … ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Musa)"
+    }
+  ],
+  "timestamp": "2026-10-14T04:04:39.663539189Z",
+  "model": "glm-5.3"
+}

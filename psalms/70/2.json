@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim and Yawe",
+      "rationale": "Direct plea addressed to God by Name"
+    },
+    {
+      "kind": "crux",
+      "subject": "חושה",
+      "rationale": "Verbless 'hurry!' at verse end; some versions attach it to לעזרתי ('make haste to help me')"
+    },
+    {
+      "kind": "addition",
+      "subject": "walasa",
+      "rationale": "Infinitive purpose marker added; Hebrew stacks bare infinitives"
+    }
+  ],
+  "translation": "Elohim, walasa ka n yamaru; Yawe, n dɛmɛ la, i ka telɛ!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/70\/1-4.1791940604152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "walasa ka n yamaru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "n dɛmɛ la"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "i ka telɛ!"
+    }
+  ],
+  "timestamp": "2026-10-14T01:16:44.152916097Z",
+  "model": "glm-5.3"
+}

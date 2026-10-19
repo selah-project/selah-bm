@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dugukolo ɲɛ",
+      "rationale": "חלד kɔrɔ ko donfiɲɛ-dugukolo (dontigi yɔrɔ); 'dugukolo ɲɛ' nɔnabili dɔgɔya don"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ha'azinu",
+      "rationale": "Heburukan fɔcogo ko 'tulo ɲɛfɛli' — Bambara 'b'i tulow di'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "siyaw bɛɛ",
+      "rationale": "Salmu in bɛ jama bɛɛ wele k'aw tulo di — lamɛnli weleli ye"
+    }
+  ],
+  "translation": "Aw mɛn nin ye, siyaw bɛɛ; aw b'i ⟨tulow⟩ di, mɔgɔ bɛɛ minnu bɛ dugukolo ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8b8acba307fd10d36d760597af2aacaa6e8d2826dd4c3b8cd938e1bcef64fd19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/49\/1-4.1791940253561.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "aw mɛn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "aw b'i tulow di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mɔgɔ minnu bɛ"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "dugukolo ɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:53.562098596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lamɛnsɛnbaga \/ sara ɲɛmɔgɔma",
+      "rationale": "למנצח kɔrɔ ye 'min bɛ yɛlɛ kojugu la' — sara ɲɛmɔgɔma ye a nɔnabila dɔrɔn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mizemo",
+      "rationale": "מזמור kɔrɔ ye 'ka-dilankan-fɔli min bɛ tɔgɔdilanyɔrɔ la' — mizemo ye sɛbɛnni-yɛlɛma ye"
+    }
+  ],
+  "translation": "Dawid (Dawuda) ka mizemo — sara ɲɛmɔgɔma ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/140\/1-4.1791941886519.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sara ɲɛmɔgɔma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizemo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:38:06.520201478Z",
+  "model": "glm-5.3"
+}

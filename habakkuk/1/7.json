@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ye⟩",
+      "rationale": "Hebrew is verbless (adjective pair + pronoun); Bambara requires the copula ye."
+    },
+    {
+      "kind": "crux",
+      "subject": "ושאתו",
+      "rationale": "'its exaltation\/dignity' rendered fanga (power); KJV 'dignity', BSB 'sovereignty'."
+    },
+    {
+      "kind": "crux",
+      "subject": "משפטו",
+      "rationale": "'its judgment\/justice' — the nation's own verdict proceeds from itself, rendered sariya."
+    }
+  ],
+  "translation": "A ⟨ye⟩ finman, a bɛ mɔgɔw siran; a yɛrɛ fɛ a ka sariya ni a ka fanga bɛ bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "547d8f9fac122dc5605a508cfadacbc5242deb7f338d5dadf9e692987d96aac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/habakkuk\/1\/5-8.1791938952672.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "finman"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "a bɛ mɔgɔw siran"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "a yɛrɛ fɛ"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "a ka sariya"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "a ka fanga"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bɛ bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:49:12.673294622Z",
+  "model": "glm-5.3"
+}

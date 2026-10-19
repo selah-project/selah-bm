@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "tile la",
+      "rationale": "Hebrew has no verb in this verse — 'the sun to rule by day' is a noun phrase continuing v. 7; ɲɛmɛ supplied by the purpose phrase walasa ka."
+    }
+  ],
+  "translation": "⟨את⟩ tile, walasa ka ɲɛmɛ tile la, sabu a ka hesed ka kan bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "317ed6efc2cc6391c7b393cb0d0b3920f14e995d7e9830f3330c6771da69377e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/136\/5-8.1791941837128.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tile"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "walasa ka ɲɛmɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tile la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:17.129170217Z",
+  "model": "glm-5.3"
+}

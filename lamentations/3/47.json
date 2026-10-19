@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/ופחת",
+      "rationale": "Near-identical sounds pachad\/pachat — 'terror\/pit' — the assonance is lost in Bambara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔnɔbaliya",
+      "rationale": "שבר literally 'fracture\/breach'; rendered with breakage-noun, not abstract 'destruction'"
+    }
+  ],
+  "translation": "Siran ani danga kɛra an ye, sansuni ani kɔnɔbaliya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bc3272500cc2d099ec1727de19608bdb913fbeb679742c6995389a35ebef79a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/45-48.1791944857556.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "siran"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ani danga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an ye"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "sansuni"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "ani kɔnɔbaliya"
+    }
+  ],
+  "timestamp": "2026-10-14T02:27:37.561277143Z",
+  "model": "glm-5.3"
+}

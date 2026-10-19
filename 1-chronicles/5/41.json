@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד",
+      "rationale": "'bolo la' (in the hand of) renders the Hebrew idiom of agency literally; Bambara 'bolo' keeps the picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הלך בהגלות",
+      "rationale": "'went into exile' rendered as one motion 'tagara ni … bila' (went when … were deported); the hophal infinitive construct is one bound unit."
+    }
+  ],
+  "translation": "Yehotsadak tagara ni Yawe ye ⟨את⟩ Yuda ni Yerushalayim (Jerusalɛmu) bila Nebukadnestsar bolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "df82fd2be578c996086efc5cc820cc09626438414f658d37deb231d92a6418f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/5\/41-41.1791947455466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Yehotsadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tagara"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "ni … bila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo la"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnestsar"
+    }
+  ],
+  "timestamp": "2026-10-14T03:10:55.467323837Z",
+  "model": "glm-5.3"
+}

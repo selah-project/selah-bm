@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "malachi 2:15",
+  "book": "malachi",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא אחד עשה",
+      "rationale": "hardest verse in Malachi: 'did not one make, having remainder of spirit?' — read as 'He made only one (wife for Adam)' vs JPS 'not one who had exuberance of spirit did so'; literal shape kept, subject unstated"
+    },
+    {
+      "kind": "addition",
+      "subject": "O la",
+      "rationale": "Hebrew has no 'therefore'; Bambara needs the inferitive link before the command"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ninakili",
+      "rationale": "רוח here breath\/spirit, rendered ninakili (breath) as in Gen 2:7"
+    }
+  ],
+  "translation": "A ma kelen dɔrɔn kɛ, n'a bɛ ninakili fanba to a yɛrɛ ma; kelen in ye mun ɲini? Elohim ka kisɛ. O la, aw mara aw ka ninakili, aw kana nɔgɔli kɛ aw furukɛ nɛmaw muso la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2a77e04c5ec6e4a7dd6c2c97054e4cc5ace191f15532b2f8b1246c9160b9d535",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/malachi\/2\/13-16.1791939535212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma … dɔrɔn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "fanba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ninakili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a yɛrɛ ma"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kelen in"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ɲini"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kisɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "aw mara"
+    },
+    {
+      "surface": "ברוחכם",
+      "gloss": "aw ka ninakili la"
+    },
+    {
+      "surface": "ובאשת",
+      "gloss": "muso la"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "nɛmaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יבגד",
+      "gloss": "nɔgɔli kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:55.213584087Z",
+  "model": "glm-5.3"
+}

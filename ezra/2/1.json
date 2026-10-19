@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 2:1",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a ye⟩ … ye",
+      "rationale": "Hebrew lacks copula; Bambara needs ye…ye for 'these are'"
+    },
+    {
+      "kind": "elision",
+      "subject": "העלים",
+      "rationale": "'going up' rendered as bɔna 'came out' — Bambara has no native up-movement verb for return from exile"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "opening of the returnees' register that runs through chapter 2"
+    }
+  ],
+  "translation": "Olu ye ⟨a ye⟩ jamana in denw ye, minnu bɔna jagɔ yeleya kɔnɔ, min Nebukadnetsar (Nabukodonoso), Babulon masakɛ, ye u yeleya Babilon; u seginna Yerushalayim (Jerusalɛmu) ni Yehuda, mɔgɔ kelen-kelen a tuguni dugu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "98fb9172f65b6da928d532e1855b3c5ebfef1f8768918a2b55f741616caf2402",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/2\/1-4.1791946386579.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Olu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "jamana in"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "minnu bɔna"
+    },
+    {
+      "surface": "משבי",
+      "gloss": "jagɔ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "yeleya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "ye u yeleya"
+    },
+    {
+      "surface": "נבוכדנצור",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babulon"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "u seginna"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ni Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen-kelen"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "a dugu la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:53:06.580709606Z",
+  "model": "glm-5.3"
+}

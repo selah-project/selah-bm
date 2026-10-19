@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תגל",
+      "rationale": "לגל lit. 'spin round' under violent emotion; rendered as intensified joy, the spinning picture lost"
+    },
+    {
+      "kind": "addition",
+      "subject": "a yɛrɛ",
+      "rationale": "Hebrew verbless third clause needs explicit subject in Bamanankan"
+    }
+  ],
+  "translation": "I ba ni i ma ka di, i ma min di na, ⟨a yɛrɛ⟩ ka di kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "929f07695fdc1a7ff9bd5989217ce13ede2cbd66efb7f9290379a5ee38dd539a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/23\/25-28.1791942815888.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ka di"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "i ba"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "ani i ma"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ka di kɛ"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "i ma min di na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:53:35.889382389Z",
+  "model": "glm-5.3"
+}

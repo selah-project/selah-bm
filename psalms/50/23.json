@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תודה",
+      "rationale": "Literal 'extension of the hand' in thanks — a thank-offering, not abstract praise; rendered duba-saraka."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Pronoun supplied: Hebrew suffix on אראנו ('I will show him') already carries it."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ושם דרך",
+      "rationale": "Could read 'who sets his way aright' (moral ordering, KJV) or 'who prepares a way' (path for God); gloss keeps 'labɛn a sira' neutral."
+    }
+  ],
+  "translation": "Saraka min ye duba ye, min b'ɔ bɔ, o bɛ ne diima; ani min bɛ a sira labɛn, ne bɛna Elohim ka musakaw jira ⟨a⟩ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "36f95caf4e7529b958f44dff04393a274d778a2b4135969277f422c071f1cb07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/50\/21-23.1791940310180.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "min b'ɔ bɔ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "duba-saraka"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "o bɛ ne diima"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ani min bɛ ... labɛn"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "a sira"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ne bɛna ... jira ⟨a⟩ ye"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "musakaw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T01:11:50.181856524Z",
+  "model": "glm-5.3"
+}

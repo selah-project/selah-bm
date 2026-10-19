@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dolokɛ ye",
+      "rationale": "Hebrew verb נחלתי already means 'I inherited'; Bamanankan needs the noun 'dolokɛ' (heritage) to carry the picture"
+    }
+  ],
+  "translation": "N ye i ka seerew minɛ dolokɛ ye kaban, sabu olu de ye n ka dusukun diya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/109-112.1791941679438.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "n ye … minɛ dolokɛ ye"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "i ka seerew"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "diya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "n ka dusukun"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olu de"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:39.439318052Z",
+  "model": "glm-5.3"
+}

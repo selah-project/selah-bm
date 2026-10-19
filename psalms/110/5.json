@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Adonay b'i bolo kɔrɔma fɛ",
+      "rationale": "על ימינך: 'Adonay at your right hand' (Adonay acting) vs 'Adonay is at your right hand' (supporting the king); KJV reads the first, BSB the second."
+    },
+    {
+      "kind": "substitution",
+      "subject": "a kɔngɔ",
+      "rationale": "אפו is literally 'his nose\/nostrils', idiom for anger."
+    },
+    {
+      "kind": "you",
+      "subject": "i bolo kɔrɔma",
+      "rationale": "Second-person suffix addresses the king (the 'you' of Ps 110:1)."
+    }
+  ],
+  "translation": "Adonay b'i bolo kɔrɔma fɛ; o bɛ masakɛw mɛnɛ a kɔngɔ don la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/110\/5-7.1791941437972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "על",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "i bolo kɔrɔma"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "mɛnɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don la"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "a kɔngɔ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "masakɛw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:37.973229356Z",
+  "model": "glm-5.3"
+}

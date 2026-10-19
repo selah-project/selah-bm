@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 22:7",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "statement vs question",
+      "rationale": "Hebrew is a declarative ('also to all of you the son of Yishi gives fields...'); KJV\/ASV punctuate as a sarcastic question, YLT keeps the statement."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨wa⟩",
+      "rationale": "Interrogative 'wa' added in brackets to carry the rhetorical-question reading the Hebrew leaves open."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בן ישי",
+      "rationale": "Saul says 'son of Yishi', never 'David' — contempt by refusing the name; kept literally."
+    },
+    {
+      "kind": "invitation",
+      "subject": "שמעו נא",
+      "rationale": "Imperative summons: 'Hear now' draws the servants in before the accusation."
+    },
+    {
+      "kind": "you",
+      "subject": "Benyamin denw",
+      "rationale": "Direct address to Saul's servants, men of Benjamin — tribal loyalty appeal."
+    }
+  ],
+  "translation": "Shawul ko a surukubaga minnu wiliyora a ngon ma: Aw mɛn nin, Benyamin denw; Yishi (Yeshi) den fana bɛ aw bɛɛ ma forow ni diwɛnforow di ⟨wa⟩, a bɛ aw bɛɛ bila kɛmɛ ɲɛmɔgɔw ani kɛmɛduru ɲɛmɔgɔw ye ⟨wa⟩⟨wa⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "76eba0a1648c4e92cb43d73308109a8b244c76b92069a7834c28c571ddc95fee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/22\/6-7.1791950370765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawul"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "a surukubaga ma"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "minnu wiliyora"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a ngon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "aw mɛn"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "יימיני",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "לכלכם",
+      "gloss": "aw bɛɛ ma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bɛ di"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishi"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "forow"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "ani diwɛnforow"
+    },
+    {
+      "surface": "לכלכם",
+      "gloss": "aw bɛɛ ma"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "bɛ bila"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ɲɛmɔgɔw"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ani ɲɛmɔgɔw"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kɛmɛduru"
+    }
+  ],
+  "timestamp": "2026-10-14T03:59:30.766659177Z",
+  "model": "glm-5.3"
+}

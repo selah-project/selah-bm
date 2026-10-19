@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 4:21",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bamanankan ka 'ye' taamasiyɛn min bɛ misiikali kɔnɔ, Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחר → sunɔ",
+      "rationale": "מחר kɔrɔ ye 'sini\/lasinin' ye nka a bɛ fɔ tiɲɛ na 'kɔfɛ waati kɔnɔ' — sunɔ (kɔfɛ) datugulen na"
+    },
+    {
+      "kind": "invitation",
+      "subject": "sɔrɔda kuma",
+      "rationale": "kumasen in bɛ wele kalanbaga kɔnɔ ni ɲininka ye: kabakurun ninnu ye mun ye?"
+    }
+  ],
+  "translation": "A ko Yisrayɛla (Izraɛl) denw ma: ni aw denw bɛna ɲini kuma bɔ ⟨את⟩ i baw fɛ sunɔ, ko: ninsi kabakurun ninnu ye mun ye?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6cec6a287fa36478e2ac566c02b552c850c37894f66cff8fcf2d2ba9355ceba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/4\/21-24.1791928540478.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛla (Izraɛl)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "bɛna ɲini kuma bɔ"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "aw denw"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sunɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i baw (aw faaw)"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "i baw"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kabakurun ninnu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ninnu"
+    }
+  ],
+  "timestamp": "2026-10-13T21:55:40.479683764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Yala",
+      "rationale": "Hebrew is rhetorical statement-form ('and I shall take…'); Bambara marks the scorn with a question particle"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אי מזה המה",
+      "rationale": "lit. 'where — these?' = 'whence are they?', unpacked into a full Bambara question"
+    }
+  ],
+  "translation": "Yala ne bɛna ⟨את⟩ ne ka buru ni ⟨את⟩ ne ka ji ni ⟨את⟩ ne ka sogo min ne ye sanjɛ ne ka walanminɛbagaw kama, ka o di mɔgɔw ma, minnu ma ne tɛ dɔn u bɛ bɔ yɔrɔ min na?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/25\/9-12.1791930616191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ne bɛna … ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka buru"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ne ka buru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka ji"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ne ka ji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka sogo"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ne ka sogo min ne sanjɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ne ye sanjɛ"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "ne ka walanminɛbagaw kama"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ne bɛ o di"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "mɔgɔw ma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "אי",
+      "gloss": "yan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "min na"
+    },
+    {
+      "surface": "המה",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-10-13T22:30:16.194000108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 7:11",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פרשגן",
+      "rationale": "Persian loan-word parshegen 'copy', only here and Esther contexts in the Tanakh; rendered fɛn-dɔgɔkun."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצות",
+      "rationale": "'commandments' rendered kɔlɔsiliw (commandments\/orders); no single Bambara word carries the covenant nuance."
+    },
+    {
+      "kind": "addition",
+      "subject": "la",
+      "rationale": "Case particle supplied to attach the title 'priest, scribe' to Ezra."
+    }
+  ],
+  "translation": "O ye sɛbɛn in fɛn-dɔgɔkun ye, min na masakɛ Artashasta (Artakserkɛs) di Ezira (Ezra) ma — sarakalasebaga, sɛbɛbaga la, sɛbɛbaga min bɛ Yawe ka kɔlɔsiliw kuma sɛbɛn, ni a sariyaw, Yisrayɛl kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/7\/9-12.1791946654800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "o"
+    },
+    {
+      "surface": "פרשגן",
+      "gloss": "fɛn-dɔgɔkun"
+    },
+    {
+      "surface": "הנשתון",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artashasta (Artakserkɛs)"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "Ezira ma"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "sɛbɛbaga"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sɛbɛbaga min bɛ … sɛbɛn"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kɔlɔsiliw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "a sariyaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "…kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛl"
+    }
+  ],
+  "timestamp": "2026-10-14T02:57:34.802535250Z",
+  "model": "glm-5.3"
+}

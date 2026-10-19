@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמים תחתיך יפלו",
+      "rationale": "silamɛ-sɛbɛnw b'a jira cogo fila: jamaw bɛ fa i nɔ na (KJ), walima kaflaw de bɛ don dusukun na (YS)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "nɔnabila min farala a kan walasa tɔgɔtiɲɛ ka bɔkpɛ, Heburukan ma a sɛbɛn."
+    }
+  ],
+  "translation": "I ka kaflaw ye jimɛw ye; jamaw bɛ bɔ ⟨i⟩ nɔ na, ka don masakɛ tɔrɔdennw ka dusukun kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/45\/5-8.1791940261076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "i ka kaflaw"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "jimɛw"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "jamaw"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "i nɔ na"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bɛ bɔ \/ ka don"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "dusukun kɔnɔ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "tɔrɔdennw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:11:01.076789121Z",
+  "model": "glm-5.3"
+}

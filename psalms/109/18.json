@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמדו",
+      "gloss": "kɔkɔda",
+      "rationale": "literally 'like his measure\/height'; taken by context as 'like his garment' (kɔkɔda), following the ancient versions"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קללה",
+      "gloss": "danga",
+      "rationale": "triple repetition of danga across vv.17–19 binds the curse-clothing imagery"
+    }
+  ],
+  "translation": "A ye danga yɔrɔ a yɛrɛ ka a ka kɔkɔda ye, walasa a kana don a kɔnɔ ka ji ye, ka tulu ye a kolow la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/109\/17-20.1791941452143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "a ye … yɔrɔ a yɛrɛ kan"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "danga"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "ka a ka kɔkɔda ye"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "kana don"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ka ji ye"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "a kɔnɔ"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "ka tulu ye"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "a kolow la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:52.144256125Z",
+  "model": "glm-5.3"
+}

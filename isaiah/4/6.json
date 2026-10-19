@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרב",
+      "rationale": "'drought\/desolation' vs 'heat' — KJV 'heat', YLT 'drought'; labelen follows the heat reading"
+    },
+    {
+      "kind": "crux",
+      "subject": "זרם",
+      "rationale": "'gush of water' — 'storm\/inundation' vs 'downpour'; jiwuli keeps the water-burst picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka kɛ ... ye",
+      "rationale": "Bambara needs the predicative frame the Hebrew construct chain omits"
+    }
+  ],
+  "translation": "So fitini bɛna kɛ dibi ye tile la, ka bɔ labelen na, ani ka kɛ marayɔrɔ ani dogo-yɔrɔ ye, ka bɔ jiwuli na ani sanji na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "29677928f6ae59f13b74c6051cb661e3973163cb1915bd9dd0f9c7f9eb925447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/4\/5-6.1791933432408.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "so fitini"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "dibi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "tile la"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ka bɔ labelen na"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "marayɔrɔ"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "dogo-yɔrɔ"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "jiwuli"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "sanji"
+    }
+  ],
+  "timestamp": "2026-10-13T23:17:12.416141481Z",
+  "model": "glm-5.3"
+}

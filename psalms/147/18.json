@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוחו",
+      "gloss-note": "",
+      "rationale": "rua is wind\/breath\/spirit; rendered 'fiɲɛ' (wind) here, physical sense"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a ka⟩",
+      "rationale": "possessive suffix -ו rendered as 'a ka'"
+    }
+  ],
+  "translation": "A bɛ ⟨a ka⟩ kuma ci, ka o mini; a bɛ ⟨a ka⟩ fiɲɛ ble, ji bɛ taa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/147\/17-20.1791942048538.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ci"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "ka o mini"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ble"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "bɛ taa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:48.538645574Z",
+  "model": "glm-5.3"
+}

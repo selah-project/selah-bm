@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויקשו את ערפם",
+      "rationale": "Heburu: 'u y'u kun-gbefɛ gɛlɛya' — diinɛ tigɛ ɲɔgɔn na; Bamanankan 'kun gɛlɛya' b'a ta cogo kelen na."
+    },
+    {
+      "kind": "substitution",
+      "subject": "האמינו",
+      "rationale": "אמן daɲɛ kɔrɔ ye 'jɔdi-kɛli' ye (k'a jɔ): a ka surun 'sɔn' ye more 'tiɲɛ dɔn' ye."
+    }
+  ],
+  "translation": "Nka u ma mɛn, u y'⟨את⟩ u kun gɛlɛya, i tɛmɛ u bamaw kun la i yɛrɛ, aw minnu ma sɔn Yawe, u Ala, ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "852694c29025ca71b44aceb9c3ae59c853f65090ce0af16e040aff731767e149",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/17\/13-16.1791933160468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nka … ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "kun gɛlɛya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u kun"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "u kun"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "kun la i yɛrɛ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "u bamaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "sɔn"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "u Ala"
+    }
+  ],
+  "timestamp": "2026-10-13T23:12:40.478662167Z",
+  "model": "glm-5.3"
+}

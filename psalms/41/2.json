@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Ni-ɲɛsumaya",
+      "rationale": "אשרי 'how happy!' interjection rendered as blessing-statement 'ni-ɲɛsumaya bɛ…'"
+    },
+    {
+      "kind": "crux",
+      "subject": "mishkīl",
+      "rationale": "משכיל: 'acts wisely toward' the poor vs KJV 'considereth'; rendered as one who has insight concerning the weak"
+    },
+    {
+      "kind": "you",
+      "subject": "to the righteous hearer",
+      "rationale": "beatitude addresses the community with an implicit 'happy is the one who…'"
+    }
+  ],
+  "translation": "Ni-ɲɛsumaya bɛ min bɛ hakɛ dɔn mɔgɔ fitinɛw la; don jugu don, Yawe bɛna a lasɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/41\/1-4.1791940137792.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ni-ɲɛsumaya"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "min bɛ hakɛ dɔn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mɔgɔ fitinɛw"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don jugu don"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "don jugu"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "bɛna a lasɔrɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:57.792997936Z",
+  "model": "glm-5.3"
+}

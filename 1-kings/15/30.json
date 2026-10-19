@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חטא \/ החטיא",
+      "rationale": "Same root three times — 'sinned \/ made sin \/ sins' — the repetition is kept by reusing 'jurumu' throughout."
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Resumptive pronoun added after 'minnu' to carry the relative clause in Bambara."
+    }
+  ],
+  "translation": "Yarabɛam ka jurumuw kama, minnu o kɛra, ani minnu na a ye ⟨את⟩ Isirayeli labɔ jurumu la, a ka yonniya kama, min na a ye ⟨את⟩ Yawe, Isirayeli Elohim, yonn' ka sibi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "af75ddac257919acf2995c6294cf714d52f54733920620d819af96331caa0b64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/15\/29-32.1791932273079.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "... kama"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "jurumuw"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarabɛam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ani minnu"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "labɔra jurumu la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isirayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "a ka yonniya kama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "yonn' ka sibi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe, Isirayeli Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    }
+  ],
+  "timestamp": "2026-10-13T22:57:53.084685349Z",
+  "model": "glm-5.3"
+}

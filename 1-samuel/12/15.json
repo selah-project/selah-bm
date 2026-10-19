@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "as it was against your fathers",
+      "rationale": "KJV farali; Hebrew bɛ fɔ ko 'aw bangaw kan' dɔrɔn, kɔrɔdɔn tɛ sɛbɛn kɔnɔ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יד בכם",
+      "rationale": "'bolo wuli aw kan' = idiom, Yawe ka fanga bɛ wuli aw kan — literal bɛ to a la"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "danni-kuma, Israel de ye a lasɔrɔbaga ye"
+    }
+  ],
+  "translation": "Nka ni aw tɛ Yawe kan mɛn, aw bɛ Yawe ka ⟨את⟩ da wuli, Yawe ka bolo bɛna wuli aw kan ani aw bangaw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b9b57bec0d3214cc0a1bc968d8a9af358b67897e21f8313d1d1cd11c742df334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/12\/13-16.1791930173760.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Nka ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "aw bɛ … wuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ka da"
+    },
+    {
+      "surface": "פי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bɛna wuli"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "aw kan"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "aw bangaw kan"
+    }
+  ],
+  "timestamp": "2026-10-13T22:22:53.769710031Z",
+  "model": "glm-5.3"
+}

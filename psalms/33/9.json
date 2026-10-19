@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "fɔ \/ lakika di",
+      "rationale": " Parallel pair: speech (אמר) then command (צוה), mirrored by becoming (ויהי) and standing (ויעמד) — creation by word, kept as two balanced halves."
+    },
+    {
+      "kind": "alternative",
+      "subject": "jɔra",
+      "rationale": " ויעמד literally 'it stood'; 'o jɔra' keeps standing, KJV adds 'fast'."
+    }
+  ],
+  "translation": "Sabu a y'a fɔ, o kɛra; a ye ⟨את⟩ lakika di, o jɔra.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ed9965a5d83829cfc49de9b122799c6d8ef7eb56fed7835fbe3aaf36528a49b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/33\/9-10.1791951146713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "lakika di"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "jɔra"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:26.713628444Z",
+  "model": "glm-5.3"
+}

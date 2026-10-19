@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משמן",
+      "rationale": "partitive min-shemen 'of the oil' rendered tulu dɔ 'some oil'"
+    }
+  ],
+  "translation": "A yɛ masali-tulu dɔ bɔ Aharon (Aron) kun kan, a yɛ ⟨את⟩ masala, walasa a ka kɛ senuma ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/8\/9-12.1791927044517.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "a yɛ … bɔ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "tulu dɔ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "masalali"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "a yɛ … masala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "walasa a ka kɛ senuma ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:30:44.518913564Z",
+  "model": "glm-5.3"
+}

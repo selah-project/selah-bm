@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קמה\/קמח",
+      "rationale": "Stalk (qamah) and flour (qemach) differ by one vowel — grain standing vs grain ground; lost in Bambara."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sow wind, reap whirlwind",
+      "rationale": "Hebrew proverb of empty effort: fiili fiɲɛ \/ fɔtɔ sugusugu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יבלעהו",
+      "rationale": "Literally 'swallow him\/it'; rendered dun (eat) — swallow is not everyday Bambara for devour."
+    }
+  ],
+  "translation": "Sabu u ye fiɲɛ fiili, u bɛna sugusugu fɔtɔ; kisɛ-kun tɛ yen a la, a tɛna bulu di; ni a di fɔra, siyawɛrɛw bɛna a dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/8\/5-8.1791938322876.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "fiili"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "sugusugu"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "fɔtɔ"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "kisɛ-kun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ yen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "a ka soyali"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "di"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "bulu"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "di"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "siyawɛrɛw"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "bɛna a dun"
+    }
+  ],
+  "timestamp": "2026-10-14T00:38:42.877014291Z",
+  "model": "glm-5.3"
+}

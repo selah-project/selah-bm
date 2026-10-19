@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "נא gloss adds politeness Bambara marks with sisan"
+    },
+    {
+      "kind": "crux",
+      "subject": "senumaw",
+      "rationale": "מקדשים: 'holy ones' vs 'saints' vs 'angels' in older versions"
+    },
+    {
+      "kind": "you",
+      "subject": "to Iyov",
+      "rationale": "Elifaz addresses Iyov directly with imperatives and questions"
+    }
+  ],
+  "translation": "Wele sisan, yala mɔgɔ si bɛ se ka ⟨i⟩ lamɛn wa? A bɛ tugu senumaw minnu la, i bɛ wili ka taa olu jumɛn fɛ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "818959b0fefbe470fa0a0a653079fc1c58d285d3994a77ac701c71d11b28f2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/5\/1-4.1791943416112.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Wele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "היש",
+      "gloss": "yala … bɛ wa"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ka i lamɛn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "jumɛn fɛ"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "senumaw"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "i bɛ wili ka taa"
+    }
+  ],
+  "timestamp": "2026-10-14T02:03:36.113395729Z",
+  "model": "glm-5.3"
+}

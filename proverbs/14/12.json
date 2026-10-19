@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ko o tiɲɛ ne ye⟩",
+      "rationale": "Hebrew says only 'straight before a man'; the 'seems' reading of the ancient versions is supplied in brackets, not in the text."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "sira \/ siraw",
+      "rationale": "Hebrew repeats דרך singular then plural 'ways of death'; Bambara keeps sira then plural siraw."
+    }
+  ],
+  "translation": "Sira dɔ bɛ ka jɛlen mɔgɔ ɲɛ fɛ ⟨ko o tiɲɛ ne ye⟩, nka a ka laban ye sayiw siraw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/14\/9-12.1791942526803.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "bɛ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "jɛlen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛ fɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "nka a ka laban"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "siraw"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sayiw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:48:46.805045222Z",
+  "model": "glm-5.3"
+}

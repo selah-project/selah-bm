@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 9:11",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u minɔgɔya-ko-ko",
+      "rationale": "Hebrew tɛ fɔ min ye — kumasen in kɔgɔjugu bɔ ye, waati dɔ ka mɔgɔ de bɛ fɔ o ma"
+    },
+    {
+      "kind": "crux",
+      "subject": "בא המשגע",
+      "rationale": "kumasen in bɛ bɔ ye — 'mun na bɔn-mɔgɔ in na fɔ a ma' walima 'bɔn-mɔgɔ in na fɔ a ma' — u fila bɛ se ka kɛ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שיחו",
+      "gloss": "a kuma",
+      "rationale": "שיח a kɔrɔ ye 'sɛgɛsɛgɛli-kuma' ye, n bɛna 'kuma' de ta"
+    }
+  ],
+  "translation": "Yehu fana, a bɔra a ka Matigi dɛnnɛw ma, u minɔgɔya-ko-ko kɔrɔdɔrɔla o kɔ, u ko a ye: Hɛrɛ don wa? Mun na bɔn-mɔgɔ in na fɔ a ma? A ko u ye: Aw ye mɔgɔ in ye, aw ye a kuma dɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6d5a247054c90c870d6ea2a632a05ef82067d1c9f75167975567efe211bf34b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/9\/9-12.1791932747593.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Yehu fana"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a bɔra … ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dɛnnɛw"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "a ka Matigi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "u ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Hɛrɛ don wa"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Mun na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "na"
+    },
+    {
+      "surface": "המשגע",
+      "gloss": "bɔn-mɔgɔ in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A ko"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Aw"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "aw ye … dɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mɔgɔ in"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mɔgɔ in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "a kuma"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "a kuma"
+    }
+  ],
+  "timestamp": "2026-10-13T23:05:47.597902592Z",
+  "model": "glm-5.3"
+}

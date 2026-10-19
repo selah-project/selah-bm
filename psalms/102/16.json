@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "O kɔ",
+      "rationale": "opening vav rendered 'afterwards' to mark consequence, supplied"
+    },
+    {
+      "kind": "elision",
+      "subject": "verb for kings",
+      "rationale": "second clause borrows the verb 'fear' from the first, as Hebrew does"
+    }
+  ],
+  "translation": "O kɔ, jamanuw bɛna Yawe ⟨את⟩ tɔgɔ ɲini siran ma, ani dugukolo bɛɛ masaw bɛna i ɲɛ-fɔ siran ma ⟨את⟩ i tileba sabatiya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/102\/13-16.1791941182076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "bɛna ɲini siran ma"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "jamanuw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe tɔgɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "masaw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tileba sabatiya"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "i tileba sabatiya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:22.077514503Z",
+  "model": "glm-5.3"
+}

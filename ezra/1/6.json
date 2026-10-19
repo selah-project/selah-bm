@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 1:6",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חזקו בידיהם",
+      "rationale": "Hebrew idiom 'strengthened their hands' = supported them; Bambara keeps the literal hand-picture 'u bolo kwɛrɛkɛ'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חזקו",
+      "gloss_note": "",
+      "rationale": "The Hebrew verb 'strengthen' is causative; Bambara renders it directly as kwɛrɛkɛ without a separate causative form."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לבד על כל התנדב",
+      "rationale": "'besides all that was willingly offered' rendered 'o bɛɛ kunwala, min bɛɛ diyara yɛrɛ-wili fɛ' — the freewill offerings are distinct from the neighbor-support."
+    }
+  ],
+  "translation": "Mɔgɔ minnu tun bɛ u ɲɛfɛ bɛɛ ye u bolo kwɛrɛkɛ ni warigwɛ minɛnw ye, ni sanu ye, ni nɔgɔw ye, ani misi ye, ani minɛn gɛlɛnw ye — o bɛɛ kunwala, min bɛɛ diyara yɛrɛ-wili fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eee8bd7ab6d082f7e1537a767af3eb88a5a521586fc22849a3e8f006c81dff87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/1\/6-7.1791951500239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "סביבתיהם",
+      "gloss": "minnu tun bɛ u ɲɛfɛ"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "kwɛrɛkɛra"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "u bolo"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ni minɛnw"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "ni sanu"
+    },
+    {
+      "surface": "ברכוש",
+      "gloss": "ni nɔgɔw"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ani misi"
+    },
+    {
+      "surface": "ובמגדנות",
+      "gloss": "ani minɛn gɛlɛnw"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "o bɛɛ kunwala"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "התנדב",
+      "gloss": "min diyara yɛrɛ-wili fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:18:20.240434009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ישא פני",
+      "rationale": "Hebrew idiom 'lift the face of' = show favor\/accept; rendered 'a tɛna … ɲɛ da' keeping the face image."
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Verb תרבה is 2nd-person but pronoun is unexpressed; bracketed 'i' names the adulterer addressed."
+    },
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "'kofer' = ransom\/bribe; KJV 'ransom', YLT 'atonement' — here the buying-off payment the guilty man offers."
+    },
+    {
+      "kind": "you",
+      "subject": "kalanbaga\/adulterer",
+      "rationale": "The verse turns on the guilty man addressed as 'thou' in תרבה."
+    }
+  ],
+  "translation": "A tɛna sɔngoya si ɲɛ da, a tɛna son, hali ni ⟨i⟩ ye jɔnjɔn caman di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d58f996a7edda261c7e9c2a410c7dc325e39f21154ffa18151f4705c378c9373",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/6\/33-35.1791942248008.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "a tɛna … ɲɛ da"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "si"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "sɔngoya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani ta"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "tɛna son"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hali ni"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "i ye … caman di"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "jɔnjɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:44:08.009565336Z",
+  "model": "glm-5.3"
+}

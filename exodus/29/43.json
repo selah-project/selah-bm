@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 29:43",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונקדש subject",
+      "rationale": "verb has no explicit subject: KJV\/ASV supply 'the tabernacle', Geneva 'the place'; Bambara adds ⟨o yɔrɔ⟩ bracketed"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nimuya",
+      "rationale": "כבוד is 'weight\/heaviness', rendered as nimuya (honor\/glory)"
+    }
+  ],
+  "translation": "M bɛna Yisraɛla dɛnnw ni ɲɔgɔn da yen, ani ⟨o yɔrɔ⟩ bɛna senuma-ka-da ni m'ka nimuya ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "581974f03a5bb322fca2c14ab7e3b25378a06caab1a08b04c9f087207db45f43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/29\/41-44.1791927006298.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעדתי",
+      "gloss": "m bɛna ... ɲɔgɔn da"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dɛnnw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛla"
+    },
+    {
+      "surface": "ונקדש",
+      "gloss": "bɛna senuma-ka-da"
+    },
+    {
+      "surface": "בכבדי",
+      "gloss": "m'ka nimuya ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:30:06.299510533Z",
+  "model": "glm-5.3"
+}

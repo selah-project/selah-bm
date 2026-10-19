@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Hebrew 'over\/upon' absorbed into the cover-verb; rendered only as a positional hint in Bambara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "datugu",
+      "rationale": "וַתְּכַס is 'covered\/closed over'; rendered with 'closed\/shut' as nearest plain Bambara"
+    }
+  ],
+  "translation": "Dugukolo ye da, a ye Datɛn miɲi, a ye Awbiram ka jama datugu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6ecb4a25238a601130121a6744b391625754147a2e734289898fb826720aecff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/106\/17-20.1791941341291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "ye da"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "a ye … miɲi"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datɛn"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "a ye … datugu"
+    },
+    {
+      "surface": "על",
+      "gloss": "(kan)"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jama"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Awbiram"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:01.292067810Z",
+  "model": "glm-5.3"
+}

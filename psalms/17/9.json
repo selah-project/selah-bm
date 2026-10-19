@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "בנפש ye 'ni' ye — a kɔrɔ ye balo\/wale-yeli ye, a tɛ 'soul' ye Tubabukan na"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקיפו",
+      "rationale": "נקף: 'ka lamini\/ka gili' — wale dɔw b'a fɔ 'ka wili ka bɔ'"
+    },
+    {
+      "kind": "elision",
+      "subject": "זו",
+      "rationale": "daɲɛ fitinin min kɔrɔ ka dogo, a bayɛlɛmara ni 'minnu' ye"
+    }
+  ],
+  "translation": "Mɔgɔ jugurow ɲɛnan na, minnu bɛ n tiyɔrɔti; n bɛɛtigiw, ni la, bɛ n lamini n kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/17\/9-12.1791939725314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ɲɛnan na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mɔgɔ jugurow"
+    },
+    {
+      "surface": "זו",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "bɛ n tiyɔrɔti"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "n bɛɛtigiw"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ni la"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "bɛ n lamini"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:05.315383408Z",
+  "model": "glm-5.3"
+}

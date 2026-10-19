@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "togi",
+      "rationale": "אשחה kɔrɔ ye 'ji la togi' ye (mata bɛ ji la), a ye pɛɛ-cogo ɲuman ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yɛlɛ ji ye",
+      "rationale": "אמסה kɔrɔ ye 'ka wuli ka bɔ a nɔ na \/ ka jɛ' ye; 'yɛlɛ ji ye' ka ɲɛfɔ ka bɔ dibi la"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטתי\/ערשי",
+      "rationale": "Mata-ɲɛnama fila sɔrɔ, sira tilennen fila kelen-kelen bɛɛ la (ji minɛ ni ji-fara), a tɛ jira Bamanankan na"
+    }
+  ],
+  "translation": "Ne sunɔgɔra ne ka suso la; ne bɛ ne ka mata togi su bɛɛ la, ni ne ka jii ne ka ɲɛmata bɛ yɛlɛ ji ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/6\/5-8.1791939483354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ne sunɔgɔra"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "ne ka suso la"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "bɛ … togi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "su"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ne ka mata"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "ni ne ka jii"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "ne ka ɲɛmata"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "bɛ yɛlɛ ji ye"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:03.354826920Z",
+  "model": "glm-5.3"
+}

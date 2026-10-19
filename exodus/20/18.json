@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kanw yeelen",
+      "rationale": "ראים את הקולות is literally 'seeing the voices' — Hebrew mixes seeing and hearing; Bambara follows the natural verb of seeing.",
+      "kind_note": "synaesthesia in source"
+    },
+    {
+      "kind": "crux",
+      "subject": "u tunbira",
+      "rationale": "וינעו: 'trembled' (KJV\/ASV) vs 'wavered\/moved' (YLt) vs 'fled' (Geneva); Bambara takes trembling."
+    }
+  ],
+  "translation": "Jama bɛɛ y'a ye: ⟨את⟩ kanw ni ⟨את⟩ lasubagaw, ani ⟨את⟩ shofar ka kan, ani ⟨את⟩ kulu min bɛ ɲɛsunun; jamaa y'a ye, u tunbira, u jɔra yɔrɔ jan na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/20\/17-20.1791926870091.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "y'a ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanw"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "kanw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lasubagaw"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "lasubagaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shofar ka kan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kulu min bɛ ɲɛsunun"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "min bɛ ɲɛsunun"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "y'a ye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "u tunbira"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "u jɔra"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "yɔrɔ jan na"
+    }
+  ],
+  "timestamp": "2026-10-13T21:27:50.092863764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "jaabi",
+      "rationale": "ענה ko 'ka jaabi di' — Tanaki kɔnɔ seere-da kɔrɔko bɛ daminɛ ni jaabi ye; 'to bear witness' bɛ Bamanankan na 'ka seere di'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ni⟩",
+      "rationale": "Bamanankan de b'a dɔni — 'seere fitiri' bɛ taamasiyɛn 'ni' dɔni ni a ye."
+    },
+    {
+      "kind": "you",
+      "subject": "I",
+      "rationale": "Yawe ka weleli Isirayeli ma, sariya in kɔnɔ."
+    }
+  ],
+  "translation": "Ani i kana jaabi i ka ɲɔgɔn kan, ⟨ni⟩ seere fitiri ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b05ceaf03aae089f1cb66b671b8a50398f424e07ec0b09de177525c82f965289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/5\/17-20.1791927541116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ani i kana"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "jaabi"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "i ka ɲɔgɔn kan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "seere"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "fitiri"
+    }
+  ],
+  "timestamp": "2026-10-13T21:39:01.117833283Z",
+  "model": "glm-5.3"
+}

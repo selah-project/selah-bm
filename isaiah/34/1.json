@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 34:1",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aw",
+      "rationale": "Hebrew imperative plural lacks explicit pronoun; Bambara needs it"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע\/הקשיבו",
+      "rationale": "two 'hear' verbs paired, plain and intensive; Bambara renders mɛn \/ tulo siyen"
+    },
+    {
+      "kind": "invitation",
+      "subject": "nations",
+      "rationale": "summons to the nations and the earth to hear"
+    }
+  ],
+  "translation": "Sɔrɔ, aw siyaw, ka mɛn; aw jamaw, tulo siyen. Dugukolo ni a ka kunu, tɛbɛlɛ ni ⟨את⟩ a kɔdenw bɛɛ, aw bɛna mɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d8f45b3900e259ba86a508dc047b78886e00c0c8918568f5d218f775186c69f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/34\/1-4.1791934171396.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "sɔrɔ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aw siyaw"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ka mɛn"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "aw jamaw"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "tulo siyen"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "bɛna mɛn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ni a ka kunu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tɛbɛlɛ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ni a kɔdenw bɛɛ"
+    },
+    {
+      "surface": "צאצאיה",
+      "gloss": "kɔdenw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:29:31.397880212Z",
+  "model": "glm-5.3"
+}

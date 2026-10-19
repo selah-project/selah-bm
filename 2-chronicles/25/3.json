@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kɛra⟩",
+      "rationale": "ויהי 'and it came to pass' supplied as a bracketed event-marker; the temporal sense rests on 'min na'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "badenmagaw",
+      "rationale": "'Servants' rendered 'officials\/attendants'; Hebrew עבדים covers royal officials, not household slaves."
+    }
+  ],
+  "translation": "A masaya mi kuntilenna a bolo, a ye ⟨את⟩ a badenmagaw fin, minnu ye ⟨את⟩ a fa masakɛ bɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f45edff1001d8a92ef1a4d6afe364b8970937d22695a048556d247bd5f5f0775",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/25\/1-4.1791949535586.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨kɛra⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "min na"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kuntilenna"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "a masaya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "a ye … fin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a badenmagaw"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a badenmagaw"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "minnu … bɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fa masakɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a fa"
+    }
+  ],
+  "timestamp": "2026-10-14T03:45:35.587767905Z",
+  "model": "glm-5.3"
+}

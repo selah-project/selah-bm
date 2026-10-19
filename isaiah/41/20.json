@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 41:20",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka lajɛ",
+      "rationale": "וישימו lit. 'set\/consider' rendered 'lajɛ' (look at\/consider)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "four verbs",
+      "rationale": "see–know–consider–understand: ascending cognition chain, kept verb for verb"
+    },
+    {
+      "kind": "crux",
+      "subject": "בראה",
+      "rationale": "'create' ( bara ) vs 'form\/prepare'; bara echoes Genesis creation, kept as 'da'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ko … kelɛ kelɛ",
+      "rationale": "purpose clause revealing who did this — the sign is given so all may know the doer"
+    }
+  ],
+  "translation": "Walasa u ka ye ani ka dɔn, ka lajɛ ani ka haamini bɛɛ ni ɲɔgɔn ye, ko Yawe bolo de ye o kelɛ kelɛ, ani Israyel Senuma ye o da.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e9267529bbd15d38ffd36d17614ba395fa857cec3cddcd1349fa607d2db202ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/41\/17-20.1791934339950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Walasa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "u ka ye"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ani ka dɔn"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "ka lajɛ"
+    },
+    {
+      "surface": "וישכילו",
+      "gloss": "ani ka haamini"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bɛɛ ni ɲɔgɔn ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ye o kelɛ kelɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "o"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "ani … Senuma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "ye o da"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:19.953818438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "או",
+      "rationale": "'or' (KJV) vs 'desire\/craving' (Strong's hint, YLT 'a desire of strong drink') — rendered here as simple 'or'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sha",
+      "rationale": "שכר is intensely alcoholic liquor, not ordinary wine; 'sha' chosen as generic strong liquor"
+    },
+    {
+      "kind": "you",
+      "subject": "to Lemuel",
+      "rationale": "vocative address to the king mid-verse"
+    }
+  ],
+  "translation": "A tɛ masaw ye, o Lamuel, a tɛ masaw ye ka diwɛn min, wa a tɛ fanga-tigiw ye ka sha min.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/31\/1-4.1791943126005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a tɛ ... ye"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "masaw"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "o Lamuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a tɛ ... ye"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "masaw"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ka ... min"
+    },
+    {
+      "surface": "יין",
+      "gloss": "diwɛn"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "fanga-tigiw"
+    },
+    {
+      "surface": "או",
+      "gloss": "walima"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sha"
+    }
+  ],
+  "timestamp": "2026-10-14T01:58:46.007252488Z",
+  "model": "glm-5.3"
+}

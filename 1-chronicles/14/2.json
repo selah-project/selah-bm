@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 14:2",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew נשאת is root-only; the subject pronoun 'a' supplied in Bambara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשאת למעלה",
+      "rationale": "'lifted up on high' rendered as 'binna sanfɛla' (climbed to the upper place)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי…כי",
+      "rationale": "double כי frames the two reasons; Bambara uses ko…sabu, flattening the parallel"
+    }
+  ],
+  "translation": "Anko Dawid (Dawuda) ye dɔn ko Yawe y'a ɲɛsin masakɛya la Israel (Israyɛl) kan, sabu a ka masakɛyaya binna sanfɛla, a jama Israyɛl fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7ed76f83aea95b085d90990f9b1f4d967d72263dd006e6f38338f5038a0cd95f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/14\/2-3.1791951560406.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ye dɔn"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "y'a ɲɛsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛya la"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "binna"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "sanfɛla"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "a ka masakɛyaya"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a jama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    }
+  ],
+  "timestamp": "2026-10-14T04:19:20.406647126Z",
+  "model": "glm-5.3"
+}

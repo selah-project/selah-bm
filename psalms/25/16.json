@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "i ɲɛda wili kɛ n na",
+      "rationale": "Yawe de weleli ye k'a ɲɛda wili a bɛɛ ma"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Yawe de yɛrɛ weleli, a min bɛ bisa dɛmɛ"
+    },
+    {
+      "kind": "crux",
+      "subject": "mɔgɔkelen",
+      "rationale": "יחיד: «mɔgɔkelen \/ yalenmabaga» (KJV 'desolate') walima «dɛn kelen dɔrɔn \/ kanuden» (kɔrɔ «sole, beloved»)"
+    }
+  ],
+  "translation": "I ɲɛda wili kɛ n na, i kanuya n ma, sabu ne ye mɔgɔkelen ye ani miskin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2a4a084d38c9048d9451005b7fcdac57ce53288afb945c9eaa0475b240f2053a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/25\/13-16.1791939928825.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "i ɲɛda wili kɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n na"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "i kanuya n ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "mɔgɔkelen"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:28.826493766Z",
+  "model": "glm-5.3"
+}

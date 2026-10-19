@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 24:17",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nka",
+      "rationale": "Hebrew ve'eleh 'and these' rendered 'nka' (but) after the Versions' contrastive reading"
+    },
+    {
+      "kind": "you",
+      "subject": "Dawid ka weleli",
+      "rationale": "Dawid addresses Yawe directly: confession and plea that the hand fall on him"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka kan",
+      "rationale": "Bambara needs 'ka kan' (must) for the jussive 'let your hand be'"
+    },
+    {
+      "kind": "elision",
+      "subject": "הנה",
+      "rationale": "the pointer hen rendered as Bambara presentative 'la nin', no separate word"
+    }
+  ],
+  "translation": "Dawid (Dawuda) ye Yawe ko, ni a y'a ye ⟨את⟩ ciden min bɛ jamaa kun, a ko: la nin, ne de ye jurumu kɛ, nin ne de ye jugu kɛ; nka sagaw ninnu, olu ye mun kɛ? I bɛna, i bolo kan ne la ani ne fa so la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a3f0c1af9ca0afbb80ac8ad67ff3a6e686b7856f06508d65765c859b3d24744c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/24\/17-20.1791931634803.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "ni a y'a ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciden min bɛ jamaa kun"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ciden"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "min bɛ kun"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "jamaa la"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "la nin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne de"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ye jurumu kɛ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "nin ne de"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "ye jugu kɛ"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "nka nin"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sagaw"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ka kan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "I bɛna"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "i bolo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ne la"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "ani … so"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ne fa"
+    }
+  ],
+  "timestamp": "2026-10-13T22:47:14.809494817Z",
+  "model": "glm-5.3"
+}

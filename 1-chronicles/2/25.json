@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 2:25",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan needs a copula for the list; Hebrew ויהיו is existential 'they came to be'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "name-list of descendants, a counting of the family line"
+    }
+  ],
+  "translation": "Yerakhmeel denw (Hatsron ka fɔlɔden) ye: fɔlɔden Ram, ni Bunah, ni Oren, ni Otsem, ni Aḥiya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d9cf93b5cb73c2fa5eaa8d2aa55bc28f4e9e620e415dcb9cc5ad99a6994f2579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/2\/25-28.1791947369173.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerakhmeel"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "fɔlɔden"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hatsron"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "fɔlɔden"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ובונה",
+      "gloss": "ni Bunah"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ni Oren"
+    },
+    {
+      "surface": "ואצם",
+      "gloss": "ni Otsem"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ni Aḥiya"
+    }
+  ],
+  "timestamp": "2026-10-14T03:09:29.174457024Z",
+  "model": "glm-5.3"
+}

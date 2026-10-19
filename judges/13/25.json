@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 13:25",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפעמו",
+      "rationale": "'ka a pabiri waati dɔw la' (ka a sanmati waati dɔw la) — kɔrɔfɔliw bɛ ayilili: 'move\/stir him at times' (KJV) versus 'strengthen him' (Geneva)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "gloss-check": null,
+      "rationale": "fiɲɛ bɛ wele רוח min ye — ni walima fiɲɛ, 'Spirit' tiɲɛ na a tɛ 'sira' ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "cɛma",
+      "rationale": "Heburu bɛ בין fila fɔ (between… and between); Bamanankan cɛma kelen dɔrɔn bɛ se ka a ta"
+    }
+  ],
+  "translation": "Yawe ka fiɲɛ daminɛna ka a pabiri waati dɔw la Dan ka sansan kɔnɔ (Mahane-Dan), Tsorah (Sora) ni Eshtaol (Estaolo) cɛma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e79da95a215a2f3eee2705ac82865cfaa277ccae0b63d158c82537f647cbe204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/13\/25-25.1791929528307.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחל",
+      "gloss": "daminɛna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לפעמו",
+      "gloss": "ka a pabiri waati dɔw la"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "sansan kɔnɔ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛma"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "Eshtaol"
+    }
+  ],
+  "timestamp": "2026-10-13T22:12:08.311746974Z",
+  "model": "glm-5.3"
+}

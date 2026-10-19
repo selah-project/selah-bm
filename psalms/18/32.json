@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "min don … nɔ na",
+      "rationale": "Hebrew 'who is God besides YHWH' is a rhetorical exclusivity question; rendered as two parallel questions as in Hebrew."
+    },
+    {
+      "kind": "crux",
+      "subject": "זולתי",
+      "rationale": "Adverb 'except\/besides' from a root 'removal'; paired with מבלעדי — both rendered 'nɔ na' (beside), losing the doubled 'except' cadence."
+    }
+  ],
+  "translation": "Sabu Elohim min don Yawe nɔ na? ani min don kuru, n'an ka Elohim nɔ na?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "de77b700c3666fdb82ebf2f306b18da03fa0d5225ed49355d996046230563ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/29-32.1791939776173.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min don"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "nɔ na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ani min don"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "nɔ na"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "n'an ka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:56.174988651Z",
+  "model": "glm-5.3"
+}

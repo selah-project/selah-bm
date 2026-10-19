@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "jate",
+      "rationale": "Ibe-count \/ muster of the missing: nineteen men plus Asahel."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויפקדו",
+      "rationale": "The muster-verb doubles as 'were lacking' — the count shows who is gone."
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Bamanankan needs the past marker where Hebrew wayyiqtol carries the tense."
+    }
+  ],
+  "translation": "Yowab ye a yɛrɛ segin Abner kɔ, ka ⟨את⟩ jama bɛɛ lajɛ ɲɔgɔn na, ka u jate; Dawid ka baarakɛlaw la, mɔgɔ tan-ni-sigion ni Wasahel tun bɔra.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8fc01c8cb23ca676ecffd623e89ea82ab929163f8006a9dd50a8f21d558b66a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/2\/30-31.1791950320993.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ye a yɛrɛ segin"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ka … lajɛ ɲɔgɔn na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "ka u jate"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "baarakɛlaw la"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "tan-ni-sigion (a ka daminɛ)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tan-ni-sigion (a ka laban)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "Wasahel (tɔgɔ daminɛ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Wasahel (tɔgɔ laban)"
+    }
+  ],
+  "timestamp": "2026-10-14T03:58:40.993803244Z",
+  "model": "glm-5.3"
+}

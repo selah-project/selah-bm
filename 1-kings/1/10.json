@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "u",
+      "rationale": "Hebrew fronts three את-marked objects and leaves the verb's object implicit; Bambara supplies the pronoun u."
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Object pronoun added because Bambara word order cannot postpone the objects after the negative verb."
+    }
+  ],
+  "translation": "Nka ⟨את⟩ Natan nabi in, ani Benayahu, ani ⟨את⟩ mɔgɔ gɛlɛnw, ani ⟨את⟩ Shelomo a balimakɛ — a ma u wele.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "04176cf383202b003caf3b80cf1f7e173680039930a9c58fbd4e79f7b2c94485",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/1\/9-12.1791931665272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natan nabi in"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi in"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "ani Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mɔgɔ gɛlɛnw"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "mɔgɔ gɛlɛnw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo a balimakɛ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "a balimakɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wele"
+    }
+  ],
+  "timestamp": "2026-10-13T22:47:45.301776128Z",
+  "model": "glm-5.3"
+}

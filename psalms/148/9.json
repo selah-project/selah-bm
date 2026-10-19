@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עץ פרי",
+      "rationale": "construct pair 'tree-of-fruit' rendered as compound 'jiri-jiridenw' to keep the binding"
+    },
+    {
+      "kind": "substitution",
+      "subject": "arazow",
+      "rationale": "ארזים (cedars) — a tree name with no common Bambara equivalent, transliterated"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kulubaw ani bankɛw",
+      "rationale": "the verse is a summons-list calling mountains and hills to praise Yawe"
+    }
+  ],
+  "translation": "Kulubaw ani bankɛw bɛɛ, jiri-jiridenw ni arazow bɛɛ,",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da315beae6179eb95ca14d90070a725f84edac6cfe9096be2945a0e263a995e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/148\/9-12.1791941983824.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "kulubaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bankɛw"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "jiriden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ni bɛɛ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "arazow"
+    }
+  ],
+  "timestamp": "2026-10-14T01:39:43.824728369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סירתיכם",
+      "rationale": "Famously opaque: 'your pots' feeling the thorn-bush fire (cooking scene) vs. emendation to 'your thorns' (brambles)."
+    },
+    {
+      "kind": "crux",
+      "subject": "כמו חי כמו חרון",
+      "rationale": "'As living, as burning' — green and burning alike swept away (ASV\/JPS) vs. KJV 'both living, and in his wrath'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Yawe⟩",
+      "rationale": "Hebrew has no explicit subject for ישערנו; the sweep-away agent supplied for sense."
+    }
+  ],
+  "translation": "Sabu ko fo aw ka walɛnw ma se ka datokurun ye, i n'a fɔ fɔlɔ, i n'a fɔ min bɛ tasuma ɖa, ⟨Yawe⟩ bɛ o bɔ ni gɛlɛn bijɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/58\/9-12.1791940411702.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "sabu ko fo"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ma se ka ... ye"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "aw ka walɛnw"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "datokurun"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "fɔlɔ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "min bɛ tasuma ɖa"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "bɛ o bɔ ni gɛlɛn bijɛ ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:31.702930604Z",
+  "model": "glm-5.3"
+}

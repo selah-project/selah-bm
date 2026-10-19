@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "npan\/tala",
+      "rationale": "חרב — tɔgɔ tabali kɔnɔ חרב ye npan ye; nin yɔrɔ la ne taala 'tala' (baarakɛminɛ), sabu npan ka kelen-kelen ye."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחם",
+      "rationale": "ארחם (verse 6 'Lo-Ruhamah') ni ארחם (verse 7 Yuda) — Yawe ka daɲɛw bɛ lamini; Israel ma hakɛ, Yuda bɛ hakɛ sɔrɔ."
+    }
+  ],
+  "translation": "Nka ⟨את⟩ Yuda so, ne bɛna hakɛ di, ne bɛna u lasigi Yawe, u Ala fɛ; ne tɛna u lasigi gɔn fɛ, tala fɛ, kɛlɛ fɛ, sow walima sɔtigiw fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0815d649f9d8b549fc7f21c384dc54e6dd985d4fc56ed2d2e23f2328c3713344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/1\/5-8.1791938177649.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "hakɛ di"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "lasigi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe fɛ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "u Ala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "u lasigi"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "gɔn fɛ"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "tala fɛ"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "kɛlɛ fɛ"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "sow fɛ"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "sɔtigiw fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:36:17.650501295Z",
+  "model": "glm-5.3"
+}

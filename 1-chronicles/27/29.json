@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 27:29",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "Hebrew omits the pronoun object of ʿal; Bambara needs it to say who is overseen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dugumayɔrɔw",
+      "rationale": "עמקים is 'valleys' (broad depressions); rendered as 'low places' for the plain sense"
+    },
+    {
+      "kind": "measurement",
+      "subject": "roster",
+      "rationale": "verse continues the census-like list of officers over the king's herds"
+    }
+  ],
+  "translation": "Misi minnu bɛ Sharon kɔnɔ ka ɲagami, Shitrai Sharonyen bɛ ⟨u⟩ kan; misi minnu bɛ dugumayɔrɔw la, Shafat, Adlai den, bɛ ⟨u⟩ kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bdf9f2faa315aa6f91a35708069059d736d78a19b2de8ad010eee77d2de8273d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/27\/29-32.1791948426815.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "bɛ … kan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "misi"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ka ɲagami"
+    },
+    {
+      "surface": "בשרון",
+      "gloss": "Sharon"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "Shitrai"
+    },
+    {
+      "surface": "השרוני",
+      "gloss": "Sharonyen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "bɛ … kan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "misi"
+    },
+    {
+      "surface": "בעמקים",
+      "gloss": "dugumayɔrɔw"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "עדלי",
+      "gloss": "Adlai"
+    }
+  ],
+  "timestamp": "2026-10-14T03:27:06.815556411Z",
+  "model": "glm-5.3"
+}

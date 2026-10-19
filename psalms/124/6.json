@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "u da ma",
+      "rationale": "Hebrew 'prey to their teeth' — beast-of-prey image; Bambara keeps the teeth literally with duga (hunted game)"
+    },
+    {
+      "kind": "you",
+      "subject": "jama la",
+      "rationale": "blessing spoken to the congregation about Yawe, third-person praise formula"
+    }
+  ],
+  "translation": "Yawe dubara, a ma di an u da ma ka kɛ duga ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/124\/5-8.1791941784711.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "dubara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "ma di an"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "duga"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "u da"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:24.712049599Z",
+  "model": "glm-5.3"
+}

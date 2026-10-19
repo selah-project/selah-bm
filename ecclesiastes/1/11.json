@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fɔli",
+      "rationale": "זכרון is 'remembrance\/memorial'; fɔli ('mention') chosen as the nearest Bamanankan word, 'remembrance' proper needing a phrase."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שיהיו … שיהיו",
+      "rationale": "Same verb closes both halves — future generations forgotten by later ones; kept as bɛna na twice."
+    }
+  ],
+  "translation": "Kɔrɔlaw ta fɔli tɛ yen; ni o tɛmɛna kɔ, minnu bɛna na <kɔfɛlaw>, olu ta fɔli tɛna kɛ minnu bɛna na kɔfɛlaw fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "27f173a84f9a1ec94f8ebd53284a036761940cecce59e8b5ebee17c31b58bc0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/1\/9-12.1791945057119.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tɛ yen"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "fɔli"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "kɔrɔlaw ta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ni o tɛmɛna kɔ"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "minnu bɛna na"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "bɛna na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tɛna kɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "olu ta"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "fɔli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "minnu bɛna na"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "kɔfɛlaw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:30:57.120569173Z",
+  "model": "glm-5.3"
+}

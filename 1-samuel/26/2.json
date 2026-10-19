@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "3000 men",
+      "rationale": "the picked force is numbered: 'cɛ kɛmɛ saba tan' (thirty hundred men)"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואתו",
+      "rationale": "the את-of-companionship rendered as 'ni a ye' (with him), marked ⟨את⟩"
+    }
+  ],
+  "translation": "Shaul y'a yɛrɛ sunun, a tlanna Zifu gɛn ma, ni Israyelɛnw (Israyel) latilenniw — cɛ kɛmɛ saba tan — ⟨ni a ye⟩, walasa ka ⟨את⟩ Dawid ɲini Zifu gɛn na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "82e5e74b0536333054c652363fbbf2e62bc35524e739e4c18f504836c58271c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/26\/1-4.1791930779384.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "y'a yɛrɛ sunun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a tlanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gɛn"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifu"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ni a ye"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kɛmɛ-tan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "latilenniw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyelɛnw"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "walasa ka ɲini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gɛn na"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifu"
+    }
+  ],
+  "timestamp": "2026-10-13T22:32:59.386923806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 13:1",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Hebrew participle עֹמֵד (standing) rendered with past-marker tun for Bamanankan flow"
+    },
+    {
+      "kind": "you",
+      "subject": "narrative frame",
+      "rationale": "הִנֵּה opens with a behold-marker that draws the hearer into the scene"
+    }
+  ],
+  "translation": "Fa nin ye: Elohim ka mɔgɔ dɔ naana Yehuda (Juda) fɛ, Yawe ka kuma la, ka na Betel (Betɛli); Yarobeam (Yeroboamu) tun durunnin sarakabɔlan kan ka tasuma di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "aaa6cdb4a2266f63b05db7ac04e6ba3fc77e26ac42edbb3a95d6a51fdc48ba25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/13\/1-4.1791932202792.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Fa nin ye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בא",
+      "gloss": "naana"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Yehuda fɛ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kuma la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "durunnin"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sarakabɔlan"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "ka tasuma di"
+    }
+  ],
+  "timestamp": "2026-10-13T22:56:42.795841337Z",
+  "model": "glm-5.3"
+}

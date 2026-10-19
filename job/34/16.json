@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 34:16",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Hebrew has no pronoun; 'i' (you) supplied — Elihu addresses Job directly."
+    },
+    {
+      "kind": "idiom",
+      "subject": "האזינה",
+      "rationale": "'broaden the ear' — idiom for attentive listening, rendered 'put your ear to'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Job",
+      "rationale": "Double imperative summons the addressee to hear Elihu's words."
+    },
+    {
+      "kind": "you",
+      "subject": "to Job",
+      "rationale": "Direct address: Elihu challenges Job's understanding."
+    }
+  ],
+  "translation": "Ni i dɔn dɔnniya, nin mɛn: k'i tulo to n kanw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3e81c30d735c885e4109c776cf315727eed44b727340578d589d817d0196cd21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/34\/13-16.1791944244228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "dɔnniya"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "nin mɛn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "k'i tulo to"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "… kanw la"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "n ka kuma … la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:17:24.230116638Z",
+  "model": "glm-5.3"
+}

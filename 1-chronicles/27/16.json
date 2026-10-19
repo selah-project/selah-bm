@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 27:16",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ɲɛmɔgɔ ... ye",
+      "rationale": "Bambara needs the verb frame 'ye ... ye' where Hebrew merely juxtaposes names"
+    },
+    {
+      "kind": "measurement",
+      "subject": "jamana-sabaw",
+      "rationale": "beginning of the tribal-chieftain roster, a named list of the tribes"
+    }
+  ],
+  "translation": "Ani Izrajɛl jamana-sabaw kan: Rewubeniw la, ɲɛmɔgɔ ye Eliyɛzɛr, Zikri den ye; Shimeniw la, Shefatyahu, Maaka den.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "41c17bc6e3b31b6e6d56e6e8584a8e42401f8187a94799fde6235d143c404b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/27\/13-16.1791948388266.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ani ... kan"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "jamana-sabaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrajɛl"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Rewubeniw la"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ɲɛmɔgɔ"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliyɛzɛr"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikri"
+    },
+    {
+      "surface": "לשמעוני",
+      "gloss": "Shimeniw la"
+    },
+    {
+      "surface": "שפטיהו",
+      "gloss": "Shefatyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    }
+  ],
+  "timestamp": "2026-10-14T03:26:28.267479963Z",
+  "model": "glm-5.3"
+}

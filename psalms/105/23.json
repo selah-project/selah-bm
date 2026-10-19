@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישראל\/יעקב",
+      "rationale": "parallel names for one people, psalm's synonymous couplet kept"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גר",
+      "rationale": "'sojourn as resident alien' rendered 'sigi' (dwell); 'dugumaden ka ɲɛ' loses brevity"
+    }
+  ],
+  "translation": "Israɛla na Mitsrayim (Misira) kɔnɔ, Yakuba sigira Cham ka dugukolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/105\/21-24.1791941272097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israɛla"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Misira)"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yakuba"
+    },
+    {
+      "surface": "גר",
+      "gloss": "sigira"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:52.098146054Z",
+  "model": "glm-5.3"
+}

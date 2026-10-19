@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דר ודר",
+      "rationale": "dor wa dor — masalan-tilennen, Bamanankan 'kabaw ni kabaw' b'a ta dɔɔni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעלם ועד",
+      "rationale": "leolam waed — kumasen fila bɛ ɲɔgɔn falen-falen, 'lebeŋ na ani waati bɛɛ la' nɔgɔya a la"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kabaw ni kabaw la",
+      "rationale": "kabakɔrɔ ɲɛfɔli ni waati-ɲɛfɔli (lebeŋ) ye jatebagan kuma ye"
+    }
+  ],
+  "translation": "N bɛna i tɔgɔ fɔ kabaw ni kabaw la; o sabu siyaw bɛna i di lebeŋ na ani waati bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e4583dcb573e45621006a1ebcc6f61dcb9c4febaf70590d3f7a37fe238abfa71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/45\/17-18.1791940197690.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "n bɛna i tɔgɔ fɔ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i tɔgɔ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "דר",
+      "gloss": "kabaw"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ani kabaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "bɛna i di"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "lebeŋ na"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ani waati bɛɛ la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:57.690619653Z",
+  "model": "glm-5.3"
+}

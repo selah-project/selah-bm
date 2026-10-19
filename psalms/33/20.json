@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ni-baloli ye; 'an ka ni' ma fɔ ko 'soul' de ye (Tubabukan-kuma jɔsili)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩ yɛrɛ",
+      "rationale": "Heburukan kuma-jɔcogo ma nɔnabila sɔrɔ; a farala ye a yɛrɛ jirali kama."
+    }
+  ],
+  "translation": "An ka ni ye Yawe kataku ⟨a⟩ yɛrɛ; a de ye an ka dɛmɛ ni an ka bilo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/33\/17-20.1791940001914.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "an ka ni"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "kataku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "an ka dɛmɛ"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "an ka bilo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a de"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:41.915168149Z",
+  "model": "glm-5.3"
+}

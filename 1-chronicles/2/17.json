@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Hebrew lacks copula in the second clause"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "name list, lineage of Judah"
+    }
+  ],
+  "translation": "Abigayil ye ⟨את⟩ Amasa dɔ; Amasa fa ⟨ye⟩ Yeter, Yishmayeliden.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "df66b52cd7b39d71470cbd0b8f9a80537e58d09120bdc00f2eac9dac8f1b1b62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/2\/17-20.1791947406142.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Abigayil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "Yishmayeliden"
+    }
+  ],
+  "timestamp": "2026-10-14T03:10:06.143129693Z",
+  "model": "glm-5.3"
+}

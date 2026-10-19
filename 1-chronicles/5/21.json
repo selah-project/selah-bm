@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 5:21",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "spoils",
+      "rationale": "Verse lists counted plunder: 50,000 camels, 250,000 sheep, 2,000 donkeys, 100,000 persons."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered 'ni' (soul\/life-force); 'hadamadenw ni' = souls of men, captives counted as lives."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mɔgɔ",
+      "rationale": "Bambara 'mɔgɔ' serves both as 'thousand' and 'person', echoing the Hebrew counting of נפש אדם in the same list."
+    }
+  ],
+  "translation": "U y'u ka baganw minɛ — u ka gɛlɛmiw duuru-tan mɔgɔ, ani saga fila-kɛmɛ ni duuru-tan mɔgɔ, ani bɛrɛw fila mɔgɔ, ani hadamadenw ni kɛmɛ mɔgɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "153127b8ff45f95e73c80d5df9adbb58966b202cd6be7941775f337f112c5dd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/5\/21-24.1791947601814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "u y'u ka … minɛ"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "baganw"
+    },
+    {
+      "surface": "גמליהם",
+      "gloss": "gɛlɛmiw"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "duuru-tan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ani saga"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "fila-kɛmɛ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ni duuru-tan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "וחמורים",
+      "gloss": "ani bɛrɛw"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "fila mɔgɔ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ani ni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamadenw"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mɔgɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:13:21.814956066Z",
+  "model": "glm-5.3"
+}

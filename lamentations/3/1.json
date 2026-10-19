@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הגבר",
+      "rationale": "gever: 'cɛminɛ' (warrior-valiant) vs 'mɔgɔ' (mere person); Bambara cɛminɛ keeps the strength in the word."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עני",
+      "rationale": "עני rendered hanga (affliction\/misery), literally 'depression' — the bent-down state."
+    }
+  ],
+  "translation": "Ne de ye cɛminɛ ye, min ye hanga ye sanga la, a jauguya la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/1-4.1791944892050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ne de"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "cɛminɛ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "עני",
+      "gloss": "hanga"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "sanga la"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "a jauguya"
+    }
+  ],
+  "timestamp": "2026-10-14T02:28:12.054696525Z",
+  "model": "glm-5.3"
+}

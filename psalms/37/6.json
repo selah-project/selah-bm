@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ni a bɛ⟩",
+      "rationale": "Kumasen in tɛ daɲɛw jira min bɛ bɔli kɛ (Yawe, dumuni 5 kɔfɛ); Bamanankan bɛ a wajibiya"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "צדקך ni ומשפטך ye jɔ-yɔrɔw ye; Bamanankan ka-daɲɛ farala u kan ka jɔcogo jira"
+    },
+    {
+      "kind": "crux",
+      "subject": "כאור",
+      "rationale": "«Yeelen» walima «sɔgɔma-yee» (BSB: dawn); אור ka gɛlɛn ye yeelen ye, a tɛ sɔgɔma-tɔgɔ ye"
+    }
+  ],
+  "translation": "⟨Ni a bɛ⟩ i kololo bɔ i n’a fɔ yeelen, ani i ka sariya-jate i n’a fɔ tile cɛmancɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/5-8.1791940088185.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "i n’a fɔ yeelen"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "i kololo"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "i ka sariya-jate"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "i n’a fɔ tile cɛmancɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:08.186224915Z",
+  "model": "glm-5.3"
+}

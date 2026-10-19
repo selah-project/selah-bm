@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 6:12",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'for he spoke prophecy against me' — versions divide: causal 'because' (BSB), adversative 'whereas\/but' (JPS, Geneva)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nabiya",
+      "rationale": "הנבואה rendered with the nabi-stem per the standing ruling; printed Bambara Bibles use 'kira', forbidden here."
+    },
+    {
+      "kind": "addition",
+      "subject": "אלהים",
+      "rationale": "Elohim kept as the Name-form; no Lord-title substituted."
+    }
+  ],
+  "translation": "Ne ye a lajɛ ka a dɔn, wa — Elohim ma min ci; a ye nabiya kuma ne kan, sabu Towiya ni Sanbalat ye ale ladon.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f984801729d723dbf0f9f5887ca49dacd26e3a470c32430727e5faa8441e9c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/6\/9-12.1791946916213.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכירה",
+      "gloss": "ne ye a lajɛ ka a dɔn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "min ci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הנבואה",
+      "gloss": "nabiya kuma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ne kan"
+    },
+    {
+      "surface": "וטוביה",
+      "gloss": "Towiya"
+    },
+    {
+      "surface": "וסנבלט",
+      "gloss": "Sanbalat"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "ye ale ladon"
+    }
+  ],
+  "timestamp": "2026-10-14T03:01:56.215156532Z",
+  "model": "glm-5.3"
+}

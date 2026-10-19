@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 15:13",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ne⟩",
+      "rationale": "Hebrew verb אתן has no explicit pronoun; Bambara needs the speaker marked"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sutigiyaw",
+      "rationale": "חיל can mean wealth, army, or strength; 'wealth\/goods' chosen over 'force'"
+    }
+  ],
+  "translation": "I ka sutigiyaw ni i ka jololibaw, ⟨ne⟩ bɛna u di minɛli ma, sɔngɔ si kan — sabu i ka jurumuw bɛɛ ye, i ka danw bɛɛ kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bf44da90949b574866251e893d608753e57f1e78ad6bf3b7fe2cdcb921691d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/15\/13-16.1791935338222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חילך",
+      "gloss": "i ka sutigiyaw"
+    },
+    {
+      "surface": "ואוצרותיך",
+      "gloss": "ni i ka jololibaw"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "minɛli"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "⟨ne⟩ bɛna di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "sɔngɔ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "sabu … bɛɛ"
+    },
+    {
+      "surface": "חטאותיך",
+      "gloss": "i ka jurumuw"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "… bɛɛ kɔnɔ"
+    },
+    {
+      "surface": "גבוליך",
+      "gloss": "i ka danw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:48:58.222944611Z",
+  "model": "glm-5.3"
+}

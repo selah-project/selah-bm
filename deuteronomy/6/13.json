@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛdaɲɛ bila",
+      "rationale": "שבע 'ka ni kelen-kelen sɛgɛsɛn ka kuma' — Bamanankan na a bayɛlɛma 'ka tiɲɛdaɲɛ bila a tɔgɔ la'"
+    },
+    {
+      "kind": "you",
+      "subject": "Izraɛl",
+      "rationale": "Kumasen in fɔra Izraɛl ye — Siriyɔrɔdaɲɛw bɛ tugu a la"
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨את⟩",
+      "rationale": "Kɔrɔdaɲɛ taamasiyɛn in tɛ Bamanankan kɔnɔ — a tola ⟨⟩ kɔnɔ"
+    }
+  ],
+  "translation": "⟨את⟩ Yawe i ka Elohim, i na a siran; ⟨אתו⟩ i na baara kɛ a la; a tɔgɔ la i na tiɲɛdaɲɛ bila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/6\/13-16.1791927606719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe i ka Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "i na a siran"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "baara kɛ a la"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "i na baara kɛ"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "a tɔgɔ la"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "i na tiɲɛdaɲɛ bila"
+    }
+  ],
+  "timestamp": "2026-10-13T21:40:06.720870516Z",
+  "model": "glm-5.3"
+}

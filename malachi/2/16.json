@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "malachi 2:16",
+  "book": "malachi",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שנא שלח",
+      "rationale": "KJV 'he hateth putting away (divorce)' vs ancient reading 'if you hate her, put her away'; the bare pair hates\/sends-away is kept, subject unstated as in Hebrew"
+    },
+    {
+      "kind": "addition",
+      "subject": "a bɛ",
+      "rationale": "Bambara needs a subject and copula where Hebrew stacks two bare infinitives שנא שלח"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בגד",
+      "rationale": "third occurrence of the bagad verb in 2:14–16, rendered nɔgɔli kɛ each time to keep the refrain"
+    }
+  ],
+  "translation": "Sabu a bɛ tili-fɔli jatigu — Yawe, Isirayeli (Isirayeli) ka Elohim, ko — ani mɔgɔ min bɛ juguya miiri a ka fini kan — Yawe-Tsebaot de ko — aw mara aw ka ninakili, aw kana nɔgɔli kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2a77e04c5ec6e4a7dd6c2c97054e4cc5ace191f15532b2f8b1246c9160b9d535",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/malachi\/2\/13-16.1791939535212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "jatigu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tili-fɔli"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "miiri"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "על",
+      "gloss": "… kan"
+    },
+    {
+      "surface": "לבושו",
+      "gloss": "a ka fini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "aw mara"
+    },
+    {
+      "surface": "ברוחכם",
+      "gloss": "aw ka ninakili la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תבגדו",
+      "gloss": "nɔgɔli kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:55.213744596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 22:9",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "denw minnu ka fa sa ka ta",
+      "rationale": "Hebrew יתמים is one word 'fatherless ones'; Bambara needs the relative clause"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Eliphaz addresses Job directly with second-person accusations throughout"
+    }
+  ],
+  "translation": "Kɔngɔw, i y'u bila tugu foyi t'u bolo, ani denw ka bolo minnu ka fa sa, u bɛ digi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d01e6bc1e0bab6467131e7d87dc627bb025d9f844b0fdaa1e6f12a788e0889c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/22\/9-12.1791943741639.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמנות",
+      "gloss": "kɔngɔw"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "i y'u bila tugu"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "foyi t'u bolo"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "ani bolo"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "denw minnu ka fa sa ka ta"
+    },
+    {
+      "surface": "ידכא",
+      "gloss": "u bɛ digi"
+    }
+  ],
+  "timestamp": "2026-10-14T02:09:01.639668969Z",
+  "model": "glm-5.3"
+}

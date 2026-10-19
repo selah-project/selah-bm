@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dugukolo mɔgɔ fitiniw",
+      "rationale": "מדלת from 'dangle, hang loose' — the poor\/lowly of the land, rendered with an added concrete noun 'mɔgɔ' Bambara requires."
+    },
+    {
+      "kind": "substitution",
+      "subject": "forobaga",
+      "rationale": "יגבים is literally 'diggers' (root יגב to dig), rendered 'forobaga' (field-tiller); the digging picture is lost."
+    }
+  ],
+  "translation": "Nka tabakɛw ɲɛmɔgɛ ye dugukolo mɔgɔ fitiniw dɔw tigɛ ka kɛ wɔrɔbaga ni forobaga ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/25\/9-12.1791933324734.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "dugukolo mɔgɔ fitiniw dɔw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "y'u tigɛ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ɲɛmɔgɛ"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabakɛw"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "wɔrɔbaga ye"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "forobaga ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:15:24.741819073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jiri",
+      "rationale": "עץ is 'tree\/wood'; many translations render 'gallows' — the Hebrew keeps the tree\/wood"
+    },
+    {
+      "kind": "measurement",
+      "subject": "a sɛbɛnna sɛbɛn kɔnɔ",
+      "rationale": "official chronicle entry before the king — the written record drives the later plot (Esther 6)"
+    },
+    {
+      "kind": "elision",
+      "subject": "וימצא",
+      "rationale": "'and it was found' — passive with no agent named; rendered 'a sɔrɔ dɔn'"
+    }
+  ],
+  "translation": "Kuma in ɲinina, a sɔrɔ dɔn; u bee fila bila jiri kan; a sɛbɛnna sɛbɛn kɔnɔ — donw kumaw — masakɛ ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ea9e0009ce786d93c5bf0d355e392b8bfb2f80c03d1faa05611e112212abaae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/2\/21-23.1791945415768.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "ɲinina"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Kuma"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "sɔrɔ dɔn"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "u ... bila jiri kan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bee fila"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "sɛbɛnna"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sɛbɛn kɔnɔ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "donw"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:36:55.769721048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ yen",
+      "rationale": "Hebrew is verbless — 'there is a snare' needs an existential"
+    },
+    {
+      "kind": "substitution",
+      "subject": "donkili da",
+      "rationale": "ירון is 'to shout\/ring out (for joy)', rendered as singing"
+    }
+  ],
+  "translation": "Mɔgɔ jugu ka jurumu kɔnɔ, dabalu bɛ yen; nka mɔgɔ tilelen bɛ donkili da ka dɛrɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c644f8531f7bbd514f8bcfd93b0aaa606ef3edfad4bbfd71ecdbde04cafbe7dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/29\/5-8.1791943023197.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "jurumu kɔnɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "dabalu"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "nka mɔgɔ tilelen"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "bɛ donkili da"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "ka dɛrɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:57:03.198602969Z",
+  "model": "glm-5.3"
+}

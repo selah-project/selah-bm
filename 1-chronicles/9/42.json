@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … fa ye",
+      "rationale": "Bamanankan needs the 'ye … ye' construction where Hebrew uses a single verb הוליד"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Begat chain: Ahaz–Jarah–Alemeth\/Azmaveth\/Zimri–Moza"
+    }
+  ],
+  "translation": "Azah (Ahaz) ye ⟨את⟩ Yeara fa ye; Yeara ye ⟨את⟩ Alemet ani ⟨את⟩ Asmawet ani ⟨את⟩ Zimri fa ye; Zimri ye ⟨את⟩ Motsa fa ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6f26c4d4fa1a56ff88dfa22b6832edce7ca43134197451ffe4a42413d12fcb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/9\/41-44.1791947777136.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Azah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ye … fa ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeara"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Yeara"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "Yeara"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ye … fa ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asmawet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Asmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ye … fa ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-10-14T03:16:17.138250368Z",
+  "model": "glm-5.3"
+}

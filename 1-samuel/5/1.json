@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Hebrew direction suffix -ה rendered with Bambara 'ka … na' movement marker"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sanduku",
+      "rationale": "ארון ye 'box \/ trunk' ye, a tɛ 'ark' (ja min bɛ ji la) ye"
+    }
+  ],
+  "translation": "Pelisitiw (Filistiw) ye ⟨את⟩ Elohim ka sanduku ta, ka a bɔ Eben-ha-Ezer na, ka a na Ashdod (Ashdodu).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/5\/1-4.1791930025713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Pelisitiw"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ka sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdod"
+    }
+  ],
+  "timestamp": "2026-10-13T22:20:25.715503512Z",
+  "model": "glm-5.3"
+}

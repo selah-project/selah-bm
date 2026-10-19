@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "donnw ni sanw",
+      "rationale": "Verse counts days and years, reckoning time past."
+    },
+    {
+      "kind": "crux",
+      "subject": "kɔrɔnmaw",
+      "rationale": "עולמים: 'ancient times' vs 'ages\/concealed eternity' (vanishing point); rendered as remote past."
+    }
+  ],
+  "translation": "N ye kɔrɔ donnw lajɛ, kɔrɔnmaw sanw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f41cfe1d4c77a8d5482ece98d1750c0144a21541278eece413f397d49c30ba19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/77\/6-7.1791951254827.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "n ye … lajɛ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "donnw"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kɔrɔ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "sanw"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "kɔrɔnmaw"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:14.827492769Z",
+  "model": "glm-5.3"
+}

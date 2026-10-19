@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 26:1",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "b'o",
+      "rationale": "Hebrew participle needs progressive marker bɛ in Bambara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dungolo",
+      "rationale": "נחלה is inherited-portion; Bambara has no single word, dungolo (heritage) chosen"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "second-person singular instruction throughout"
+    }
+  ],
+  "translation": "Ni a kera i na dugukolo la min na, Yawe i Ala b'o di i ye dungolo ye, i na a to a bolo ma, i na ɲɛ dugukolo in na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e0dc15eb0ec4cb33aed066d26e1ff51aee31afe344893e2567e6c44e30ec9ee5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/26\/1-4.1791928210352.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ni a kera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "i na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…la"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i Ala"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "b'o di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dungolo"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "i na a to a bolo ma"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "i na ɲɛ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "…na"
+    }
+  ],
+  "timestamp": "2026-10-13T21:50:10.353990304Z",
+  "model": "glm-5.3"
+}

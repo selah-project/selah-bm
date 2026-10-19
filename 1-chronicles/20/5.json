@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Lahmi",
+      "rationale": "2 Sam 21:19 sɛbɛnna Elhanan y'a faga Golyat yɛrɛ; Divre-Hayamim in b'a jira ko Lahmi de ye Golyat balimakɛ ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כמנור ארגים",
+      "rationale": "Heburukan fɔcogo: 'jɛgɛnsirabagaw ka jigɛn' — ji min bɛ sira ani jɛgɛn kalanw cɛ."
+    },
+    {
+      "kind": "elision",
+      "subject": "את פלשתים",
+      "rationale": "aleph-tav in kunfɔlɔ ye ɛt (ni) kɔrɔ ye min bɛ kɛrɛ fɛ, a ma jira Bamanankan na k'a yɛrɛ ye."
+    }
+  ],
+  "translation": "Kɔ, kɛrɛ kɔra ni ⟨את⟩ Pelistiw ye; Elhanan, Yair den in, y⟨את⟩ Lahmi faga — min ye Golyat (Golyata) ka Gatikɛ balimakɛ ye — a npanka kolo ye jɛgɛnsirabagaw ka jigɛn ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c770582e49c80fa38409a831fff55de1081b0d05c5c41f12cd8872c94bf28740",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/20\/5-8.1791948084043.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kɔ (tungon)"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "kɛrɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelistiw"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistiw"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "y'a faga"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elhanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lahmi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lahmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "balimakɛ"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gatikɛ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "npanka kolo"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "a npan"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "jigɛn"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "jɛgɛnsirabagaw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:21:24.044728920Z",
+  "model": "glm-5.3"
+}

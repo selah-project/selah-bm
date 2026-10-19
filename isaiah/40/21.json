@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הלוא",
+      "rationale": "rhetorical negative particle rendered by Bambara question frame 'yala … wa'"
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "subject pronoun supplied for passive 'it was told'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "aw",
+      "rationale": "four rhetorical questions addressed directly to Jacob\/Israel"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "direct address to the exiles, the 'you' of Isaiah 40"
+    }
+  ],
+  "translation": "Yala aw ma a dɔn wa? Yala aw ma mɛn wa? Yala ⟨a⟩ ma fɔ aw ye daminɛ na wa? Yala aw ma dugukolo ka sigidenw faamɛn wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b98ee671101c64af0e54df5fc32fe792ba3d5551e1d784d394155d4b21c38fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/40\/21-24.1791934299722.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "yala … wa"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "aw ma a dɔn"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "yala … wa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "aw ma mɛn"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "yala … wa"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "a ma fɔ"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "daminɛ na"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "yala … wa"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "aw ma … faamɛn"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "sigidenw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo ka"
+    }
+  ],
+  "timestamp": "2026-10-13T23:31:39.723106124Z",
+  "model": "glm-5.3"
+}

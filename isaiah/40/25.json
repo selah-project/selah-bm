@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Jacob\/Israel",
+      "rationale": "Direct rhetorical questions addressed to the people."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואשוה",
+      "rationale": "Rare verb (shavah II 'be level\/equal'): 'shall I be equal' vs 'be compared'; rendered as 'lamun ni a ye'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Senumatigi",
+      "rationale": "קדוש is an adjective used as divine title, 'the Holy One'; Bamanankan needs a noun form."
+    }
+  ],
+  "translation": "Ani min la aw bɛn ka ne ni a ɲɛfɔ ɲɔgɔn, ani ne bɛna lamun ni a ye? a ko, Senumatigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4ed5a8a75c1138f24818ae728454db3d6ffed338b7444420449e6176c4be466c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/40\/25-28.1791934288239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ani min la"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "aw bɛn ka ne ni a ɲɛfɔ ɲɔgɔn"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "ani ne bɛna lamun ni a ye"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Senumatigi"
+    }
+  ],
+  "timestamp": "2026-10-13T23:31:28.240231309Z",
+  "model": "glm-5.3"
+}

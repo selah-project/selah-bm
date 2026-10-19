@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "superscription 'to the choirmaster' rendered as 'to the leader'; technical liturgical term has no single Bambara word"
+    }
+  ],
+  "translation": "Ɲɛmɔgɔ la, Dawid (Dawuda) ka mizmor.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f4a041793cd11dc515919b0af76eee375de4cb94fcaaa6ae4f2b7a65c0771316",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/40\/1-4.1791940151210.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ɲɛmɔgɔ la"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid (Dawuda) ta"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (donkili)"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:11.210927097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mɔgɔw \/ u",
+      "rationale": "Hebrew participles carry no explicit object; Bambara needs the persons acted upon."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממית\/ומחיה · מוריד\/ויעל",
+      "rationale": "Two antithetical pairs — kills\/makes-alive, brings-down\/brings-up — pure parallelism, kept as pairs in Bambara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sheol",
+      "rationale": "Kept as Sheol, the world of the dead; not kɔgɔji (sea), not any hell-of-fire."
+    }
+  ],
+  "translation": "Yawe bɛ ⟨mɔgɔw⟩ faga, ka ⟨u⟩ balo; a bɛ ⟨mɔgɔw⟩ bila Sheol, ka ⟨u⟩ wuli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "478812ae2dbb90111df4402fc355260b9f7d9d69d7974d95b7226c55165bb134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/2\/5-8.1791929872809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "faga"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "balo"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "bila"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wuli"
+    }
+  ],
+  "timestamp": "2026-10-13T22:17:52.812266405Z",
+  "model": "glm-5.3"
+}

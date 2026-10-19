@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Copula added for the nominal clause 'I am God, your God'; Hebrew has no verb."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואעידה בך",
+      "rationale": "'testify against thee' (KJV\/JPS) vs 'testify unto thee' (ASV\/Geneva)."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct address: 'Hear, O my people… O Israel.'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Hear",
+      "rationale": "Imperative summons opening the covenant speech."
+    }
+  ],
+  "translation": "Mɛn, n ka jamaw, m'bɛna kuma; mɛn, Israyɛl (Israel), m'bɛna i ma seere kɛ: Elohim, i ka Elohim, ne de don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/50\/5-8.1791940267416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Mɛn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n ka jamaw"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "m'bɛna kuma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl (Israel)"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "m'bɛna … seere kɛ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne de"
+    }
+  ],
+  "timestamp": "2026-10-14T01:11:07.417150662Z",
+  "model": "glm-5.3"
+}

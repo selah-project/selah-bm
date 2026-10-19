@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 4:1",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Hebrew nominal clause lacks a copula; Bambara needs ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "גלשו",
+      "rationale": "'caper\/leap' vs 'stream down': KJV 'appear', JPS 'trail down', YLT 'shone'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבעד לצמתך",
+      "rationale": "'behind your veil' vs KJV 'within thy locks'"
+    },
+    {
+      "kind": "you",
+      "subject": "to the beloved",
+      "rationale": "direct address of the woman throughout the verse"
+    }
+  ],
+  "translation": "Anwɔ, i ka cɛya de, n kanuya-muso; anwɔ, i ka cɛya de! I ɲɛnw ye furaw ye i ka jalo kɔfɛ; i kunwolo ye tuguniw ka ɲɔgɔnmara ye minnu bɛ bɔ Gilad (Gilead) kulu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/4\/1-4.1791944664227.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "anwɔ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "i ka cɛya"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "n kanuya-muso"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "anwɔ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "i ka cɛya"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "i ɲɛnw"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "furaw"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "i ka jalo"
+    },
+    {
+      "surface": "שערך",
+      "gloss": "i kunwolo"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "ɲɔgɔnmara i ye"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "tuguniw"
+    },
+    {
+      "surface": "שגלשו",
+      "gloss": "minnu bɛ bɔ ka wili"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-10-14T02:24:24.228021664Z",
+  "model": "glm-5.3"
+}

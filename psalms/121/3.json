@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ka tugun",
+      "rationale": "למוט ל לִמּוֹט: mɔgɔ kɔngɔ bɛ tugun cogo min na; 'a kana a tugun' de tilennen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "demesira",
+      "rationale": "שׁמר שׁומר: 'kɔlɔsibaga' — dɛmɛtigi, dancigi; kelen-kelen sigira dancigya la"
+    },
+    {
+      "kind": "you",
+      "subject": "kalanbaga",
+      "rationale": "kuma bɛ fɔ 'i' ye"
+    }
+  ],
+  "translation": "A kana i ka sen ka tugun; i ka demesira tɛ sin don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/121\/1-4.1791941729880.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ka … ka"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "tugun"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "i ka sen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sin don"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "i ka demesira"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:29.881315672Z",
+  "model": "glm-5.3"
+}

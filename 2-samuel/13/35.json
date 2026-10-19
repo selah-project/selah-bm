@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 13:35",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "Jonadab speaks to David; 'your servant' is self-reference"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עבדך",
+      "rationale": "'your servant' rendered with a humble self-reference term"
+    }
+  ],
+  "translation": "Yonadab ye masakɛ ma kuma ko: la, masakɛ denw na; i n'i teremuso b'a fɔ cogo min na, o de kunun bɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "df218d587396a14150eed8842031c02d6f264faf36d9e2c8a76d81c5503c82c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/13\/33-36.1791931180711.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ye … kuma"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Yonadab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "na"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "i n'i teremuso b'a fɔ cogo min na"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i teremuso"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o de"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kunun bɛn"
+    }
+  ],
+  "timestamp": "2026-10-13T22:39:40.713467203Z",
+  "model": "glm-5.3"
+}

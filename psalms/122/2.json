@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "בשעריך",
+      "rationale": "Direct address to Jerusalem, feminine singular 'your gates'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "היו",
+      "rationale": "Emphatic Hebrew verb of being rendered by Bambara 'don'; participle-fronted word order lost."
+    }
+  ],
+  "translation": "An senw jɔlen don i dabaw la, Yerushalayim (Jerusalɛmu).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/122\/1-4.1791941793419.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "jɔlen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "don"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "an senw"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "i dabaw la"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu)"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:33.420052251Z",
+  "model": "glm-5.3"
+}

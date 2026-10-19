@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "Superscription term 'to the director' rendered descriptively; no single Bamanankan word carries it."
+    },
+    {
+      "kind": "crux",
+      "subject": "משכיל",
+      "rationale": "maskil: 'instructive poem' vs 'skillful song' — rendered as masalidilan (instruction-making)."
+    }
+  ],
+  "translation": "Kɔnɔma-ɲɛmɔgɔ ma, ni jili-daɲɛw ye, masalidilan, Dawid (Dawuda) ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/55\/1-4.1791940380203.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kɔnɔma-ɲɛmɔgɔ ma"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ni jili-daɲɛw ye"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "masalidilan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid (Dawuda) ta"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:00.204271179Z",
+  "model": "glm-5.3"
+}

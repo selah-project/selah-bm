@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 2:3",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kunw",
+      "rationale": "Hebrew has 'your necks'; Bambara uses 'heads' for the same burden-bearing picture, bracket not needed since Hebrew word is rendered"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רומה",
+      "rationale": "רומה 'haughtily\/upright' occurs only here in the Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "תלכו רומה",
+      "rationale": "'walk haughtily' (KJV\/ASV) vs 'walk upright' (JPS) — same Hebrew, opposite tone"
+    },
+    {
+      "kind": "you",
+      "subject": "to the oppressive leaders of Israel",
+      "rationale": "verse addresses the plunderers directly: 'your necks', 'you shall not walk'"
+    }
+  ],
+  "translation": "O la, Yawe ko nin cogo: Yee, ne bɛ miiri jatigini dɔ nin denbaya kan, min bɛɛ, aw <kunw> tɛ bɔ yen na, wa aw tɛ se ka taa manya ye, sabu waati jatigini don nin ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c337da3787f4195b0989daa5de5798d7af298948c4443139ec2da322fd2f623d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/2\/3-4.1791951123089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "O la"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nin cogo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Yee, ne bɛ yan"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "bɛ miiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "denbaya"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jatigini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תמישו",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "yen na"
+    },
+    {
+      "surface": "צוארתיכם",
+      "gloss": "kunw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wa tɛ"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ta se ka taa"
+    },
+    {
+      "surface": "רומה",
+      "gloss": "manya ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waati"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jatigini"
+    },
+    {
+      "surface": "היא",
+      "gloss": "don nin ye"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:03.090239204Z",
+  "model": "glm-5.3"
+}

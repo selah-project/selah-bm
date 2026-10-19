@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fin",
+      "rationale": "יכרית ye 'ka ge kalansen na' kɔrɔ; 'fin' dɔgɔya a la"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Yawe ka kuma sinsinnen bɛ Isirayili jama kan"
+    }
+  ],
+  "translation": "Ni Yawe aw Ala ye ⟨את⟩ siyaw fin, minnu ka dugukolo Yawe aw Ala bɛ di aw ye, aw bɛ ⟨את⟩ u minɛ, aw bɛ ɔnɔ u duguw la ani u sow la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "97fa7d0f694e87d7572efd304e809512ff3e360606348332a893a94f3d51621a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/19\/1-4.1791928015637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "fin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "aw Ala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siyaw"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "aw Ala"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bɛ di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u dugukolo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "u dugukolo"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "aw bɛ u minɛ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "aw bɛ ɔnɔ"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "u duguw la"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "u sow la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:55.638563421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye ... ta",
+      "rationale": "Hebrew has no verb of possession; Bambara needs 'ye ... ta' to say 'belongs to'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני לדודי ודודי לי",
+      "rationale": "Chiastic mutual-possession refrain, echoing 2:16 but with clauses reversed; the mirror structure is kept."
+    }
+  ],
+  "translation": "Ne ye ne ka kanuyatigi ta, ani ne ka kanuyatigi ye ne ta, min bɛ liliw la bɛ dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/6\/1-4.1791944708850.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ne ka kanuyatigi ta"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "ani ne ka kanuyatigi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ta"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "min bɛ ... dun"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "liliw la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:08.851346446Z",
+  "model": "glm-5.3"
+}

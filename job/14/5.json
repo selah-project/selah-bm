@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרוצים",
+      "rationale": "Rare word: 'determined\/fixed' vs 'shrinking\/few' — rendered here as 'ditugunenw' (fixed)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "days and months",
+      "rationale": "Human lifespan counted and bounded by Yawe's decree; the boundary cannot be crossed."
+    }
+  ],
+  "translation": "Ni a donnw ditugune don, a kalonw jatedenw ⟨את⟩ i fɛ, a dan nin, i y'i dilan, a tɛ se ka o tɛmɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0567bcd96432815e398025937a113cc887fd2dd731f1709a5882a13d8fa8a902",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/14\/5-8.1791943616189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ditugunenw"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "a donnw"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "jatedenw"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "a kalonw"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "i fɛ (kalonw jatedenw)"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "a dan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i y'i dilan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a tɛ"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "se ka o tɛmɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:06:56.189764674Z",
+  "model": "glm-5.3"
+}

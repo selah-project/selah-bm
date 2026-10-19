@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 1:15",
+  "book": "habakkuk",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרמו\/מכמרתו",
+      "rationale": "Two near-synonymous net words (net\/dragnet) pile up; Bambara must use two different words (ja\/sumɔgɔbila), losing the echo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כלה",
+      "rationale": "'The whole (of them)' rendered as simple object 'bɛɛ' — collective sense kept, elision of the pronoun."
+    }
+  ],
+  "translation": "A bɛ bɛɛ ta ni segi-ja ye, a bɛ u gili a ka ja la, a bɛ u laɲini a ka sumɔgɔbila la. O la, a bɛ diya sɔrɔ, a bɛ ɲɛfaamu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5877c28f80af1c1d245f0186680d5c0455121daae544da18fa2e6306f1efbc38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/habakkuk\/1\/13-16.1791938887353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "בחכה",
+      "gloss": "ni segi-ja ye"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "a bɛ … ta"
+    },
+    {
+      "surface": "יגרהו",
+      "gloss": "a bɛ u gili"
+    },
+    {
+      "surface": "בחרמו",
+      "gloss": "a ka ja la"
+    },
+    {
+      "surface": "ויאספהו",
+      "gloss": "a bɛ u laɲini"
+    },
+    {
+      "surface": "במכמרתו",
+      "gloss": "a ka sumɔgɔbila la"
+    },
+    {
+      "surface": "על",
+      "gloss": "(o) sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o la"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "a bɛ diya sɔrɔ"
+    },
+    {
+      "surface": "ויגיל",
+      "gloss": "a bɛ ɲɛfaamu"
+    }
+  ],
+  "timestamp": "2026-10-14T00:48:07.354549121Z",
+  "model": "glm-5.3"
+}

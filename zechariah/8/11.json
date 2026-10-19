@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jɔ⟩",
+      "rationale": "Hebrew has no verb with 'אני לשארית' ('I to the remnant'); Bambara needs 'jɔ' (stand\/be) to carry the comparison."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נאם",
+      "rationale": "'kuma' (word\/oracle) for the prophetic formula נאם; rendered 'o ye … ka kuma' (this is the word of)."
+    }
+  ],
+  "translation": "Nin bɛ sisan, ne tɛ ⟨jɔ⟩ i n'a fɔ donsunu fɔlɔw na, nin jamaa in maafito ye; o ye Yawe Tsabaot ka kuma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "20a35abdaf7f9b9c30f0d23b7af0806ce8d934680553fce784a94213e726f98d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/8\/10-11.1791951167916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "i-n'a-fɔ-donsunuw"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "fɔlɔw"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "maafito-ye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaot"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:47.917276745Z",
+  "model": "glm-5.3"
+}

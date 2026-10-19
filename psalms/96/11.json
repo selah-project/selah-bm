@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gban",
+      "rationale": "ירעם is thunder-crash \/ violent roar; Bambara gban (to boom\/thunder) keeps the audible violence."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "heavens–earth–sea",
+      "rationale": "Three-tier merism, each tier a verb of its own register (rejoice, be glad, roar) — the parallel structure survives intact."
+    }
+  ],
+  "translation": "Sankolow ka don, dugukolo ka di; kɔgɔji ka gban, a latɛn fana.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bc56e13fa9c7956d8fe1183e1e7ed952b16a0fbc76880e2220575ad914e55464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/96\/9-12.1791941092436.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ka don"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ka di"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ka gban"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "a latɛn fana"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:52.437256340Z",
+  "model": "glm-5.3"
+}

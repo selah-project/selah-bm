@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jurumu \/ awoluw",
+      "rationale": "KJV 'fools mock sin' vs ASV inversion 'a trespass-offering mocketh fools'; Bambara follows the majority reading."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשם",
+      "rationale": "'guilt\/sin' vs 'guilt-offering' (ylt); Bambara uses the general word jurumu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ko a ye fɛn dɔgɔ ye⟩",
+      "rationale": "Hebrew has only the verb לוּץ 'to scoff'; the mock-content phrase is supplied to make the verb readable."
+    }
+  ],
+  "translation": "Awoluw bɛ jurumu jɔsi ⟨ko a ye fɛn dɔgɔ ye⟩, nka yɛlɛmaniw cɛ, dumine don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/14\/9-12.1791942526803.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Awoluw"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "bɛ … jɔsi"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nka … cɛ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "yɛlɛmaniw"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "dumine"
+    }
+  ],
+  "timestamp": "2026-10-14T01:48:46.804299884Z",
+  "model": "glm-5.3"
+}

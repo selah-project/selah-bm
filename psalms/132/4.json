@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ni … n'di",
+      "rationale": "Same אם vow-formula as v.3: 'if I give…' means 'I will not give…'; kept literal."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנת \/ תנומה",
+      "rationale": "Hebrew pairs 'sleep' and 'drowsiness' from the same root; Bamanankan must use two unrelated words, losing the root-echo."
+    }
+  ],
+  "translation": "Ni n'di n'ka ɲɛw ma su-ɲɔgɔn, n'ka ɲɛkɔnɔtɔw ma ɲagami —",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/132\/1-4.1791941746466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "n'di"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "su-ɲɔgɔn"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "n'ka ɲɛw ma"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "n'ka ɲɛkɔnɔtɔw ma"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "ɲagami"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:46.467331509Z",
+  "model": "glm-5.3"
+}

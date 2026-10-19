@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "באישון",
+      "rationale": "Ayiyera: 'ɲɛkɔnɔ mɔgɔ fitinin' — dibi finman kɔnɔ, ayiyera bɛ yɛlɛma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dibi finman",
+      "rationale": "חשך + אישון: dibi min ka fin kosɛbɛ — fitɛnɛ bɛna don dibi finman kɔnɔ"
+    }
+  ],
+  "translation": "Min b'⟨a⟩ fa ni ⟨a⟩ ba danga, a fitɛnɛ bɛna dibi finman kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "748b86903346a29a87c3c9293d10a3738c5cd48239d46e83f3222714a58e2b75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/20\/17-20.1791942646953.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "bɛ … danga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ni ba"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "bɛna don"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "a fitɛnɛ"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dibi finman"
+    }
+  ],
+  "timestamp": "2026-10-14T01:50:46.954669787Z",
+  "model": "glm-5.3"
+}

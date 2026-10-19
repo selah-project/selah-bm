@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדוש קדוש קדוש",
+      "rationale": "the threefold repetition (trisagion), kept as three in Bambara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sumaya",
+      "rationale": "כבוד is literally 'weight\/heaviness', splendor; Bambara sumaya (greatness\/awe) is the nearest single word"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara needs the copula ye…ye; Hebrew has no verb in the clause"
+    }
+  ],
+  "translation": "Kelen ye kelen wele ko: Senuma, senuma, senuma, Yawe Tsɛbaɔt; dugukolo bɛɛ kunu ye ⟨a sumaya ye⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5424ad42ea3a19c7d6f5c527a2758b0e28f592c30492b416f71ce693e40caeb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/6\/1-4.1791933545473.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "ye ... wele"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye ... wele"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Senuma"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsɛbaɔt"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "a sumaya"
+    }
+  ],
+  "timestamp": "2026-10-13T23:19:05.482250399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sigilen",
+      "rationale": "נשבר kɔrɔ yɛrɛ ye 'min te (woro) te' ye; 'sigilen' (humbled) ye a nɔgɔya ye — Bamanankan tɛ 'kabakurun min te' fɔ ni ye fɛ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשברה \/ נשבר",
+      "rationale": "daɲɛ kelen kɔlɔsi — רוח נשברה ani לב נשבר — jɛnpɔgɔli bɛ ka bɔ Bamanankan na"
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "nɔnabila farala a kan walasa 'janya' ka dɔn mɔgɔ min bɛ fɔ bɛ fɔ o ye"
+    }
+  ],
+  "translation": "Elohim ka sarakaw ye ni sigilen don; dusukun min sigilen ani min dɔgɔlena, Elohim, i tɛ ⟨o⟩ janya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "01a448002bf81ede559e3a8e2da5a496bb26d9544bf329aa8a6254a3171b2918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/51\/17-20.1791940324703.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "sarakaw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "sigilen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "min sigilen"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "ani min dɔgɔlena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "i tɛ … janya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:04.705315750Z",
+  "model": "glm-5.3"
+}

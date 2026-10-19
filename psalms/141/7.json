@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפי שאול",
+      "rationale": "'Sheol da fɛ' (mouth of Sheol) — YLT ka fɔ Saul tɔgɔ ye (sira-ɲɛfɔli), nka o ye taamasiyɛn jate ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sheol",
+      "rationale": "שאול bɛ to a tɔgɔ ye — abada jahanama walima tasuma"
+    }
+  ],
+  "translation": "Min bɛ foro-kɛ ani ka dugukolo wɔlɔ cogo min na, an kolow bɛ taamabra Sheol da fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/141\/5-8.1791941926554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "min bɛ … cogo min na"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "foro-kɛ"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "ka wɔlɔ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "bɛ taamabra"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "an kolow"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "da fɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-10-14T01:38:46.555284785Z",
+  "model": "glm-5.3"
+}

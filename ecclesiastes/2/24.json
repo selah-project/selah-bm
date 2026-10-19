@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 2:24",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין טוב באדם",
+      "rationale": "'n'y'a sɔrɔ mun ye ɲe' (no better thing, KJV) wa YLT kɔrɔta 'o tɛ ɲe ye mɔgɔ la' — ɲɛfɔli fila bɛɛ ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש (ninakili-dɔgɔso, sa-bolo) → 'ni' — Bamanankan 'ni' ye ni-ko dɔgɔso ye, Throat-vs-soul tiɲɛ n'a ye."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a ye⟩",
+      "rationale": "Heburukan ma nɔnabila si fɔ — 'ka jira ⟨a ye⟩' faamuya kama."
+    }
+  ],
+  "translation": "Hadadamaden ma n'y'a sɔrɔ mun ye ɲe — ka dun, ka min, ani ka jira ⟨a ye⟩ ⟨את⟩ a ka ni ye ɲe a ka banbali-baara kɔnɔ. O fana, ne y'o ye — a bɔra Elohim bolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6344e3e345b785b70ac819c376d0550f4fbadc5e4f69f5e0995771578cbed3a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/2\/21-24.1791945160242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɲe"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "hadamaden la"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "ka dun"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ani ka min"
+    },
+    {
+      "surface": "והראה",
+      "gloss": "ka jira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka ni"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ka ni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɲe"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "a ka banbali-baara kɔnɔ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "olo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ne y'o ye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "bolo la"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o de"
+    }
+  ],
+  "timestamp": "2026-10-14T02:32:40.244323100Z",
+  "model": "glm-5.3"
+}

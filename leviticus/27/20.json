@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wele",
+      "rationale": "גאל is kinsman-redeemer language, buying back by right of kinship; Bambara 'wele' loses the kinship nuance"
+    },
+    {
+      "kind": "addition",
+      "subject": "walima",
+      "rationale": "second ואם rendered 'or if' — Hebrew parataxis with two conditions"
+    }
+  ],
+  "translation": "Ni a ma foro in wele, walima ni a ye foro in nɔgɔya mɔgɔ wɛrɛ ma, a tɛna wele kokura.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/27\/17-20.1791927004838.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "wele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "foro in"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "foro in"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walima ni"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ye ... nɔgɔya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "foro in"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "foro in"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mɔgɔ ... ma"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wɛrɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "wele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kokura"
+    }
+  ],
+  "timestamp": "2026-10-13T21:30:04.841145985Z",
+  "model": "glm-5.3"
+}

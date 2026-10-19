@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 2:15",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lajɛ",
+      "rationale": "שׂבר here 'scrutinized\/inspected'; YLT renders 'measuring' — inspect vs measure is a live disagreement"
+    },
+    {
+      "kind": "substitution",
+      "subject": "baji kolokolo",
+      "rationale": "נחל is a wadi — a winter torrent bed, both stream and valley; Bambara needs two words"
+    },
+    {
+      "kind": "elision",
+      "subject": "n tun ye",
+      "rationale": "Hebrew wayyehi is a narrative sequence marker ('and I was\/went on'), not a copula; flattened into the verbs"
+    }
+  ],
+  "translation": "N lɛra baji kolokolo kɔnɔ su la, n ye ɲɛgɛn lajɛ, n seginna, n naana Kolokolo Da kɔnɔ, ka segin kɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c7969cdfab16e263c57f1af538e6bacc88ad10339efe4f1d73666543998fd278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/2\/14-15.1791951529981.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "n tun ye"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "n lɛra"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "baji kolokolo kɔnɔ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "su la"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "n tun ye"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "lajɛ"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "ɲɛgɛn"
+    },
+    {
+      "surface": "ואשוב",
+      "gloss": "n seginna"
+    },
+    {
+      "surface": "ואבוא",
+      "gloss": "n naana"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "Da kɔnɔ"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "Kolokolo"
+    },
+    {
+      "surface": "ואשוב",
+      "gloss": "ka segin"
+    }
+  ],
+  "timestamp": "2026-10-14T04:18:49.982621928Z",
+  "model": "glm-5.3"
+}

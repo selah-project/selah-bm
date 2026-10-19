@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ngaroba",
+      "rationale": "שגל ye daɲε surunnen ye — 'ngaroba' (muso min bɛ masa fɛ) walima 'misiden muso'; KJV fɔ 'queen'"
+    },
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Copula min bɛ Bamanankan ka masaliden na, Heburukan ma a sɛbɛn"
+    }
+  ],
+  "translation": "Masakɛdenmusow bɛ i ka nimɔrɔyaw la; ngaroba jɔlen don i nu fe, Opira sanu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/45\/9-12.1791940199214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "denmusow"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "i ka nimɔrɔyaw"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "jɔlen don"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "ngaroba"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "i nu fe"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Opira"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:59.215729137Z",
+  "model": "glm-5.3"
+}

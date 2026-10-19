@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "nɔnabila fila-fila — emphasis, 'ne, ne de'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ciratɔ",
+      "rationale": "מושיע ye 'min bɛ ciraya' — Hiphil participle, 'deliverer'"
+    }
+  ],
+  "translation": "Ne, ne de ye Yawe; ni tɛ ne la, ciratɔ si tɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2086284d44258a805aeeb1f6ef139858f95212ee8d470fe6876a6f00ce54e638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/43\/9-12.1791934280304.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ni tɛ … si tɛ yen"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ne la … fɛ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ciratɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:31:20.306056194Z",
+  "model": "glm-5.3"
+}

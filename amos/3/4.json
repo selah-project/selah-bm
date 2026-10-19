@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפיר",
+      "rationale": "the word covers 'village' and 'young lion'; context decides young lion"
+    },
+    {
+      "kind": "substitution",
+      "subject": "so",
+      "rationale": "ממענתו is 'from his den\/refuge' — so 'house' is the closest plain Bambara shape"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "question chain",
+      "rationale": "cause-and-effect riddles: roar implies prey, voice implies capture — Yawe's roar implies judgment"
+    }
+  ],
+  "translation": "Yala waraba bɛ taga ji bɔ jala kɔnɔ, a ka dɔn-faa tɛ yen wa? Yala warabaden bɛ a kan bɔ a so kɔnɔ, ni a ye foyi lafe wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/amos\/3\/1-4.1791938427141.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "bɛ taga ji bɔ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "waraba"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "jala kɔnɔ"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "a ka dɔn-faa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ yen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "bɛ a kan bɔ"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "warabaden"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "a so kɔnɔ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "lafe"
+    }
+  ],
+  "timestamp": "2026-10-14T00:40:27.142741225Z",
+  "model": "glm-5.3"
+}

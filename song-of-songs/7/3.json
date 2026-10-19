@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שררך",
+      "rationale": "'Navel' (KJV tradition) vs 'bodice\/waist' (lexicon root: umbilical cord); rendered navel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kisɛ",
+      "rationale": "Bambara vocabulary table lacks a distinct wheat word; kisɛ (grain) stands for חטים"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dɔnbɔw",
+      "rationale": "Generic 'flowers' for שושנים (lilies), a specific flower Bambara has no common name for"
+    }
+  ],
+  "translation": "A ka kɔnɔto ye basi dɔgɔrɔn ye, min te diwɛn-misɛn bɔ; a ka kunu ye kisɛ kulu ye, min lamɛnna dɔnbɔw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/7\/1-4.1791944708846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "i ka kɔnɔto"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "basi"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "dɔgɔrɔn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "diwɛn-misɛn"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "a ka kunu"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "kisɛ"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "lamɛnna"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "dɔnbɔw la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:08.847775511Z",
+  "model": "glm-5.3"
+}

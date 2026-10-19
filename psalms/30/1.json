@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חנכת הבית",
+      "rationale": "so ka daminɛli: so tilaali (dedication) walima so sɔngɔ-cogo; bayɛlɛmabaga dɔw b'a fɔ 'temesira-karamɔgɔ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Mizemoru",
+      "rationale": "מזמור ye kaŋ furakɛ-minɛn kɔnɔsɛbɛn ye; 'Mizemoru' to tɔgɔ ye, a tɛ bayɛlɛma"
+    }
+  ],
+  "translation": "Mizemoru — dɔnkili min bɛ fɔ ni dɔn-dɔnninw ye — so ka daminɛli karamɔgɔ Dawuda (Dawid) ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0696ba0b76a5def4d06eb268cec6a3c566ecd808c78d5abc04c1c5729d13f2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/30\/1-4.1791939904353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizemoru"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dɔnkili"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "daminɛli"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ta"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:04.353630007Z",
+  "model": "glm-5.3"
+}

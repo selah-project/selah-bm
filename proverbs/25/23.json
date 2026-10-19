@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "direction of the parallel",
+      "rationale": "KJV: angry face drives away the backbiting tongue; ASV\/JPS: the backbiting tongue brings angry faces — Hebrew word order permits both."
+    },
+    {
+      "kind": "crux",
+      "subject": "north wind and rain",
+      "rationale": "תחולל can mean 'brings forth' (YLt) or 'wrings away\/drives away' (KJV); meteorology in Israel argues either way."
+    }
+  ],
+  "translation": "Saheli fiɲɛ bɛ sanji bɔ, ani ɲɛ jaraw ⟨ye⟩ kan dasirilen ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7692eb697b4f720d957513373f9bc284efba48204600c2c72d10d141639bd363",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/25\/21-24.1791942864851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "saheli"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "sanji"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "ani ɲɛdaw"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "jaraw"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "kan"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "dasirilen"
+    }
+  ],
+  "timestamp": "2026-10-14T01:54:24.852524766Z",
+  "model": "glm-5.3"
+}

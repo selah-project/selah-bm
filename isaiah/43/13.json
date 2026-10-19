@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מיום",
+      "rationale": "'from day \/ before the day was' vs 'from eternity' — KJV 'before the day was', BSB 'from eternity'"
+    },
+    {
+      "kind": "addition",
+      "subject": "mɔgɔ si",
+      "rationale": "Hebrew has no noun with 'none delivers'; Bambara needs 'no person' to carry the negation"
+    },
+    {
+      "kind": "mystery",
+      "subject": "divine fiat",
+      "rationale": "'I work, who can reverse it?' — rhetorical question asserting unanswerable power"
+    }
+  ],
+  "translation": "O yɛrɛ, dɔɔnin don bɛɛ ne de don, ani mɔgɔ si tɛ se ka bɔ ne bolo ma; ne bɛ baara kɛ, ani jɔ don bɛ se ka a lamagatɔ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a025a3c1177220ce017b475ab165d8d4b78e00be61537f3e97ad32d620f83671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/43\/13-16.1791934303088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "o yɛrɛ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "dɔɔnin don bɛɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "de don"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ani mɔgɔ si tɛ"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ne bolo ma"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "ne bɛ baara kɛ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ani jɔ don"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "bɛ se ka a lamagatɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:31:43.089011868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 18:20",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered ni (life\/breath), not a disembodied 'soul'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dusu",
+      "rationale": "חמה literally 'heat' = anger; Bambara dusu (liver) carries the same body-organ image of anger."
+    },
+    {
+      "kind": "addition",
+      "subject": "yala ... wa",
+      "rationale": "Hebrew rhetorical question marked by word order; Bambara needs yala\/wa question frame."
+    }
+  ],
+  "translation": "Yala jugu bɛ san di nyumanya o la wa, sabu u ye dala ɲini ne ka ni ye? I ye ne ka jɔli hakili to i ɲɛfɛ, ka fɔ nyumanya olu kan, walasa ka ⟨את⟩ i ka dusu k'a bɔ olu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f28e2a20d7bd0333349ab565ccfe0b0a8eda01435f207de0e96aafb93d1f1d35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/18\/17-20.1791935424808.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הַיְשֻׁלַּם",
+      "gloss": "yala ... bɛ san di ... wa"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "o la"
+    },
+    {
+      "surface": "טוֹבָה",
+      "gloss": "nyumanya"
+    },
+    {
+      "surface": "רָעָה",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כָּרוּ",
+      "gloss": "u ye ... ɲini"
+    },
+    {
+      "surface": "שׁוּחָה",
+      "gloss": "dala"
+    },
+    {
+      "surface": "לְנַפְשִׁי",
+      "gloss": "ne ka ni"
+    },
+    {
+      "surface": "זְכֹר",
+      "gloss": "i ye ... hakili to"
+    },
+    {
+      "surface": "עָמְדִי",
+      "gloss": "ne ka jɔli"
+    },
+    {
+      "surface": "לְפָנֶיךָ",
+      "gloss": "i ɲɛfɛ"
+    },
+    {
+      "surface": "לְדַבֵּר",
+      "gloss": "ka fɔ"
+    },
+    {
+      "surface": "עֲלֵיהֶם",
+      "gloss": "olu kan"
+    },
+    {
+      "surface": "טוֹבָה",
+      "gloss": "nyumanya"
+    },
+    {
+      "surface": "לְהָשִׁיב",
+      "gloss": "walasa ka ... k'a bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ka dusu"
+    },
+    {
+      "surface": "חֲמָתְךָ",
+      "gloss": "i ka dusu"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "olu la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:50:24.810416350Z",
+  "model": "glm-5.3"
+}

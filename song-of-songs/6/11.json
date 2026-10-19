@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 6:11",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אגוז",
+      "rationale": "'nut' — its only occurrence in the Tanakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "Interrogative particle added to render the infinitive of inquiry 'to see whether'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rimonw",
+      "rationale": "Pomegranate has no ordinary Bambara word; the Hebrew term rimon is carried over as a fixed term"
+    }
+  ],
+  "translation": "N tun bɔra duguma, gwɛzɛ-nakɔ kɔnɔ, ka ye bin-kuraw ye baji kɔnɔ, ka ye ye: wɔrɔ-jiri furannen ye wa, rimonnw busu ye wa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/6\/9-12.1791944717339.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "nakɔ"
+    },
+    {
+      "surface": "אגוז",
+      "gloss": "gwɛzɛ"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "n tun bɔra duguma"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ka ye"
+    },
+    {
+      "surface": "באבי",
+      "gloss": "bin-kuraw"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "baji kɔnɔ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ka ye ye"
+    },
+    {
+      "surface": "הפרחה",
+      "gloss": "furanen ye wa"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "wɔrɔ-jiri"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "busu ye wa"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "rimonw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:17.340808465Z",
+  "model": "glm-5.3"
+}

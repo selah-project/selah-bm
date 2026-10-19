@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 9:25",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "an b'i bolo la",
+      "rationale": "Hebrew הננו בידך lacks the verb 'to be'; Bambara copula bɛ supplied"
+    },
+    {
+      "kind": "you",
+      "subject": "Gibeonw",
+      "rationale": "direct surrender-speech addressed to Yehoshua"
+    }
+  ],
+  "translation": "Sisan, aw ye, an b'i bolo la; a ka di ni a ka cɛmankan i ɲɛw la k'a kɛ an ma — a kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9d75c48aae9406c04fdb675dbc35723b881cb17e74182f4f3056c772fcb9dad4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/9\/25-27.1791928638881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i bolo la"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "a ka di"
+    },
+    {
+      "surface": "וכישר",
+      "gloss": "a ka cɛmankan"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i ɲɛw la"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "k'a kɛ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an ma"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a kɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:57:18.883241121Z",
+  "model": "glm-5.3"
+}

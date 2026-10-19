@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלה",
+      "rationale": "'tugun' (ka sanfɛ tugun, ark ka sɔrɔ) walima 'masa ka bɛn-yɔrɔ taa' (Elohim ka ɲɛjɛ ascension)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔngɔli",
+      "rationale": "תרועա kɔrɔ ye kɔngɔ kura walima daminɛ-kɔngɔ ye — sanu-kɔngɔli dɔrɔn tɛ a kɔnɔ"
+    }
+  ],
+  "translation": "Elohim tugunna ni kɔngɔli ye; Yawe ni shofar (kɔnbokurun) kan ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/47\/5-8.1791940254936.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "tugunna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ni kɔngɔli ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ni ... kan ye"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:54.937632077Z",
+  "model": "glm-5.3"
+}

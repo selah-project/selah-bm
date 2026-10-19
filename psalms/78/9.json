@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נושקי רומי קשת",
+      "rationale": "'equipper-kissers of bow-hurling': 'armed with bows' (KJV) vs 'archers handling the bow' (JPS) vs literal 'hurlers of bow'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yɛlɛmira",
+      "rationale": "הפכו 'turned\/flipped' rendered 'turned back in flight'; the Hebrew root means overturn"
+    }
+  ],
+  "translation": "Efurayim denw, minnu ye kɔnɔnamarifɛnw ladili ka dakaw boli, u yɛlɛmira kɛlɛ don la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/9-12.1791940749004.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efurayim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "minnu ye … ladili"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "ka dakaw boli"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kɔnɔnamarifɛnw"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "u yɛlɛmira"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don la"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kɛlɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:09.004763917Z",
+  "model": "glm-5.3"
+}

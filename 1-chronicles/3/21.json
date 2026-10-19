@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 3:21",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני chain",
+      "rationale": "KJV\/BSB read parallel lines ('sons of Rephaiah, sons of Arnan…'); JPS reads a chain (sons of Yishaiah: Rephaiah; sons of Rephaiah: Arnan)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Lineage listing of Davidic descendants — a census of names."
+    }
+  ],
+  "translation": "Hananyah (Hanania) denw ye Pelatyah ni Yishayah (Yesaya) ye; Refayah denw, Arnan denw, Ovadyah denw, Shekanyah denw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "377767404bc40d0b3db67cd963cf2af66f4d3566914a284fadd34d5ec9f67325",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/3\/21-24.1791947476777.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "denw"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananyah"
+    },
+    {
+      "surface": "פלטיה",
+      "gloss": "Pelatyah"
+    },
+    {
+      "surface": "וישעיה",
+      "gloss": "ni Yishayah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Refayah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadyah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Shekanyah"
+    }
+  ],
+  "timestamp": "2026-10-14T03:11:16.778810176Z",
+  "model": "glm-5.3"
+}

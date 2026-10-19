@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 52:28",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kɛmɛ saba ni mugan ni saba",
+      "rationale": "a census of exiles: 3,023 Judahites in the seventh year of Nebuchadrezzar"
+    },
+    {
+      "kind": "crux",
+      "subject": "san wolonwulanan",
+      "rationale": "'seventh year' of Nebuchadrezzar here versus 'eighteenth year' in 52:29 — the deportations are tallied in batches"
+    }
+  ],
+  "translation": "Jama in, minnu Nebukadretsar (Nebukadnɛtsar) ye u dugukolo bila ka taa zoriba: san wolonwulanan na, Yududenw (Yududenw), kɛmɛ saba ni mugan ni saba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7e859e4cfbdca3a70711b2928860f719c91ab916c40b3bfd3c5c6df804cc5d44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/52\/25-28.1791936536671.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "in"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "ye … bila ka taa zoriba"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadretsar"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "san … na"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "wolonwula (wolonwulanan)"
+    },
+    {
+      "surface": "יהודים",
+      "gloss": "Yududenw"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ni mugan"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ni saba"
+    }
+  ],
+  "timestamp": "2026-10-14T00:08:56.672820842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 18:9",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew lacks the possessive pronoun for the heel's owner; Bambara needs it"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יאחז\/יחזק",
+      "rationale": "two seize-verbs from the same root sound echo (אחז\/חזק), the pair's assonance is lost in Bambara"
+    }
+  ],
+  "translation": "Gesu bɛ ⟨a⟩ senkɔrɔ minɛ, sensen bɛ a lamini a kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1aa993d664ef691a79d27e2c9b04c6d796c207ea5fce3ce40a1e262548b38584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/18\/9-12.1791943619812.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאחז",
+      "gloss": "bɛ minɛ"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "senkɔrɔ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "gesu"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "bɛ lamini"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "sensen"
+    }
+  ],
+  "timestamp": "2026-10-14T02:06:59.813282358Z",
+  "model": "glm-5.3"
+}

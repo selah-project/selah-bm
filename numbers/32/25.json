@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 32:25",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "infinitive 'to say' after אל משה doubled as ko; Hebrew marks speech twice, Bambara once"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "Gad and Reuben answer Moses directly; אדני 'my lord' is singular addressed to him"
+    }
+  ],
+  "translation": "Ged denw ni Rewuben denw ye ko Musa fɔ, ko: i ka soyaw bɛna kɛ a cogo min na n'Matigi b'a lajɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e0327c31290de92fa8009542ecd96dac604d3abf2cf1960973566cae418e2584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/32\/25-28.1791927316861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ye ko fɔ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Ged"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ni denw"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rewuben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "i ka soyaw"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a cogo min na"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "n'Matigi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "bɛ lajɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:35:16.862720677Z",
+  "model": "glm-5.3"
+}

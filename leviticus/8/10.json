@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "masala",
+      "rationale": "משח 'rub with oil \/ anoint' rendered masala, with masali-tulu 'anointing-oil' for שמן המשחה"
+    }
+  ],
+  "translation": "Moshe yɛ ⟨את⟩ masali-tulu ta, a yɛ ⟨את⟩ so masala ni ⟨את⟩ a kɔnɔ fɛn bɛɛ ye, a yɛ ⟨את⟩ u kɛ senuma ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/8\/9-12.1791927044517.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yɛ … ta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masali-tulu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "tulu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "masalali"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "a yɛ … masala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "so"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a kɔnɔ fɛn bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a kɔnɔ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "a yɛ … kɛ senuma ye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u (so ni a fɛnw)"
+    }
+  ],
+  "timestamp": "2026-10-13T21:30:44.518504751Z",
+  "model": "glm-5.3"
+}

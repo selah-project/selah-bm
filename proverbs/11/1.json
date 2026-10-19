@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ɲɛda-lakarili",
+      "rationale": "תועבת ye fɛn min bɛ ɲɛda lakari (abomination) — Bamanankan tɛ daɲɛ kelen dɔn o cogo la"
+    },
+    {
+      "kind": "elision",
+      "subject": "jatebaw",
+      "rationale": "מאזני ye dual ye — 'jatebaw fila' kɔrɔ, bonya-caya dɔrɔn de tɛmɛ"
+    }
+  ],
+  "translation": "Jujuden jatebaw ye Yawe ka ɲɛda lakari ye; nka kabakurun shelen de ye a ka ɲɛfɛli ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/11\/1-4.1791942480982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "jatebaw"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "jujuden"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ɲɛda-lakarili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ani kabakurun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "shelen"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "a ka ɲɛfɛli"
+    }
+  ],
+  "timestamp": "2026-10-14T01:48:00.982877074Z",
+  "model": "glm-5.3"
+}

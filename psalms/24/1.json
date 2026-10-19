@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ",
+      "rationale": "Hebrew has no copula; the possessive clause required Bamanankan bɛ"
+    },
+    {
+      "kind": "crux",
+      "subject": "a ka piɲɛ",
+      "rationale": "מלואה 'fulness': all that fills the earth vs its wealth\/contents"
+    },
+    {
+      "kind": "substitution",
+      "subject": "adamadenw ka dugukolo",
+      "rationale": "תבל is the inhabited world, distinct from הארץ; hyphenated periphrasis to keep the two earth-words apart"
+    }
+  ],
+  "translation": "Dawid ka mizmor, Yawe fɛ. Dugukolo ni a ka piɲɛ ⟨bɛ⟩ Yawe ta; adamadenw ka dugukolo ani minnu bɛ ⟨a⟩ kɔnɔ, bɛɛ ⟨bɛ⟩ Yawe ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/24\/1-4.1791939887148.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid (Dawuda)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe fɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "ni a ka piɲɛ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "adamadenw ka dugukolo"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ani minnu bɛ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:47.148908876Z",
+  "model": "glm-5.3"
+}

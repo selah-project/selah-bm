@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "suji",
+      "rationale": "Bambara core table has no word for טל (dew); 'suji' (night-water) is a plain compound, not a loan"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "rain parallelism",
+      "rationale": "Four water images (rain, dew, shower, abundant rain) fall on two grass words (דשא, עשב) — the ladder of abundance is kept by four separate Bambara phrases"
+    }
+  ],
+  "translation": "N kalanni bɛna sanji i n'a fɔ; n kumaw bɛna ɲagami i n'a fɔ suji; i n'a fɔ sanji kɛnwɛ bɛ bin finman kan, ani i n'a fɔ sanji caman bɛ bin kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ea134ecc658e6dcff41e48ec371637446f66eb77588760d54d8fcd24bfc9dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/32\/1-4.1791928407774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "bɛna sanji"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "i n'a fɔ sanji"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "n kalanni"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "bɛna ɲagami"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "i n'a fɔ suji"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "n kumaw"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "i n'a fɔ sanji kɛnwɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bɛ … kan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "bin finman"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "ani i n'a fɔ sanji caman"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bɛ … kan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bin"
+    }
+  ],
+  "timestamp": "2026-10-13T21:53:27.776375544Z",
+  "model": "glm-5.3"
+}

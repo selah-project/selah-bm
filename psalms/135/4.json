@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סגלה",
+      "rationale": "rare word: 'peculiar treasure \/ treasured possession' vs 'personal property'; rendered 'lasigiiden' (stored-away treasure)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Yakuwa \/ Israyɛl",
+      "rationale": "parallel names for the same people, matching Hebrew parallelism of Jacob\/Israel"
+    }
+  ],
+  "translation": "Sabu Ya y'a yɛrɛ ye Yakuwa ta, Israyɛl ye a ka lasigiiden ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/135\/1-4.1791941797547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakuwa"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "y'a ... ta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a yɛrɛ ye"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "a ka lasigiiden ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:37.548100147Z",
+  "model": "glm-5.3"
+}

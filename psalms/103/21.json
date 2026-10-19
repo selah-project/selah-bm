@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "duba",
+      "rationale": "Imperative call on the heavenly hosts to bless Yawe, closing the psalm's chorus of summons."
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Addressee: Yawe's hosts and ministers."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fatigiw",
+      "rationale": "צבאיו is an army\/host; 'fatigiw' (warrior-hosts) keeps the martial picture."
+    }
+  ],
+  "translation": "Yawe duba, aw bɛɛ, a la fatigiw; a lasebagaw, minnu b'a yiisili kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d6cd3bcbfd8277dd61cc4f14b7fdfeaf34c7c0d62141f66f7ad5a10028332049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/103\/21-22.1791941157170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "duba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "a la fatigiw"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "a lasebagaw"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "minnu bɛ... kɛ"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "a yiisili"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:57.170976711Z",
+  "model": "glm-5.3"
+}

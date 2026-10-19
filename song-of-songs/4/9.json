@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 4:9",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבבתני",
+      "rationale": "'Ravished\/captured my heart' (lbb = heart enclosing with fat): KJV 'ravished', YLT 'emboldened', BSB 'captured' — I chose 'captured'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבבתני … לבבתיני",
+      "rationale": "The verb is repeated verbatim for intensity; Bambara keeps the repetition rather than varying it."
+    },
+    {
+      "kind": "you",
+      "subject": "to the bride",
+      "rationale": "Direct address to the beloved throughout the verse."
+    }
+  ],
+  "translation": "I ye n dusukun minɛ, n balimamuso, n muso-kura; i ye n dusukun minɛ ni i ɲɛ kelen ye, ni saniyen kelen min bɛ i kunjɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7a2a9c92046694a69539c3aea71f8f4827609e0a3e5b511146650f2e67b3601c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/4\/9-12.1791944499308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבבתני",
+      "gloss": "i ye n dusukun minɛ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "n balimamuso"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "n muso-kura"
+    },
+    {
+      "surface": "לבבתיני",
+      "gloss": "i ye n dusukun minɛ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ni … kelen ye"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "i ɲɛ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ni … kelen ye"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "saniyen"
+    },
+    {
+      "surface": "מצורניך",
+      "gloss": "i kunjɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:21:39.308848812Z",
+  "model": "glm-5.3"
+}

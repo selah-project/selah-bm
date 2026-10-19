@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 1:18",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "donw ka kumaw sɛbɛn",
+      "rationale": "ספר דברי הימים literally 'book of the words of the days', the court chronicle; rendered as 'days' words' book'"
+    },
+    {
+      "kind": "elision",
+      "subject": "הלוא",
+      "rationale": "rhetorical negative-question particle rendered with the Bambara question frame yala…wa, not as a separate word"
+    },
+    {
+      "kind": "invitation",
+      "subject": "yala ... wa",
+      "rationale": "formulaic rhetorical question directly addressing the reader"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kumaw tɔw",
+      "rationale": "chronicle-closure formula summing the king's recorded acts"
+    }
+  ],
+  "translation": "Ahaziyahu ka kumaw tɔw, min o kɛra — yala olu tɛ sɔrɔ sɛbɛn na, donw ka kumaw sɛbɛn la, Isirayeli masakɛw ta, wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d2c70f104436b2950a723657f711992ab0fa62f7b3c08490ef1b12d22a1038b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/1\/17-18.1791932480801.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "tɔw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o kɛra"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "yala ... wa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "sɔrɔ sɛbɛn na"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "donw"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    }
+  ],
+  "timestamp": "2026-10-13T23:01:20.804479686Z",
+  "model": "glm-5.3"
+}

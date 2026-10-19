@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כד הקמח \/ צפחת השמן",
+      "rationale": "The exact phrase pair from v14 repeats verbatim — prophecy and fulfilment mirror each other; kept identical in Bambara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bolo fɛ",
+      "rationale": "ביד is literally 'by the hand of' — Hebrew idiom for agency; 'bolo fɛ' keeps the hand, most versions drop it."
+    }
+  ],
+  "translation": "Komi-kisɛ kuru ma banna, ani tulu kuru ma dɔgɔya, ni Yawe ka kuma ye min fɔra Eliyahu bolo fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "abd7c02b3ec8f488cdcb15d5b438955f1e3c3beb632ddba858b5d1e3a10c924f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/17\/13-16.1791932261676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "komi-kisɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "banna"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "ani kuru"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "tulu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "dɔgɔya"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ni … ka kuma ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fɔra"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo fɛ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-10-13T22:57:41.683730139Z",
+  "model": "glm-5.3"
+}

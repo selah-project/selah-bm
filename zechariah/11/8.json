@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sɔgɔdalaw sabanan",
+      "rationale": "Identity of the three shepherds is a famous unsolved crux: proposals include prophets, priests, and kings of Judah, or specific rulers; the text never names them."
+    },
+    {
+      "kind": "measurement",
+      "subject": "saba ... kalo kelen",
+      "rationale": "Counting: three shepherds removed within one month — a numbered, bounded sign-act."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered 'ni' (life\/soul); literally 'my soul grew short (impatient)' — the idiom of patience as length."
+    },
+    {
+      "kind": "idiom",
+      "subject": "dɔgɔyara",
+      "rationale": "קצר נפש 'short of soul' = impatient\/weary; rendered with the literal 'grew short' to keep the picture."
+    }
+  ],
+  "translation": "M'ye ⟨את⟩ sɔgɔdalaw sabanan tiŋɛ kalo kelen kɔnɔ; ne ni dɔgɔyara u la, ani u ni fana tun jugunna ne la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "14a19b808ae01bc553c6902bb70a2f96ba68d0a5cda50e4324dbf9b5c3e50236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/11\/5-8.1791939429692.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "m'ye ... tiŋɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sɔgɔdalaw sabanan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saba"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "sɔgɔdalaw"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "dɔgɔyara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ni"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u la"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "u ni"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "tun jugunna"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ne la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:57:09.693848408Z",
+  "model": "glm-5.3"
+}

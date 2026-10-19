@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עבדה",
+      "rationale": "'wale-baara' (servile work) vs 'baara bɛɛ' (any work); KJV 'servile work', JPS 'manner of servile work' — v25 restricts, v28 forbids all."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tasuma-saraka",
+      "rationale": "אִשֶּׁה (fire-offering) rendered as saraka min bɔ tasuma na; same spelling as 'woman' אִשָּׁה, different pointing."
+    }
+  ],
+  "translation": "Baara bɛɛ min ye wale-baara ye, aw kana kɛ; aw b'⟨את⟩ tasuma-saraka na Yawe ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e5b1287b60357a7cc0026e1357b27fb487a49af873b0131cdb162705ea793e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/23\/25-28.1791927044262.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "baara"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "wale-baara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aw kana kɛ"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "aw b'e na"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tasuma-saraka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ma"
+    }
+  ],
+  "timestamp": "2026-10-13T21:30:44.263027252Z",
+  "model": "glm-5.3"
+}

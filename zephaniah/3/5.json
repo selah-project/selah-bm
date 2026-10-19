@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩ kɔnɔ",
+      "rationale": "feminine suffix −ah points at Jerusalem (the 'her' of v. 3:1–4), supplied as ⟨a⟩ since Bambara needs the pronoun"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "doubled 'morning by morning', repetition kept as sɔgɔma ni sɔgɔma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nka",
+      "rationale": "ולא rendered as adversative 'but…not' — the shift from Yawe's faithfulness to the shameless wrongdoer"
+    }
+  ],
+  "translation": "Yawe ye tiɲɛbagaw ye ⟨a⟩ kɔnɔ; a tɛ jugu kɛ; sɔgɔma ni sɔgɔma, a b'i ka sariya di yeelen ma; a tɛ bɔ; nka jugukɛla si tɛ yaasa dɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "836c4e52db6b467a94d4233a92d202931a39b82f5a57caa2decf493b778251c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zephaniah\/3\/5-8.1791939117811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tiɲɛbagaw"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "⟨a⟩ kɔnɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sɔgɔma"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sɔgɔma"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "i ka sariya"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "yeelen ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka … tɛ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "עול",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "yaasa"
+    }
+  ],
+  "timestamp": "2026-10-14T00:51:57.811756067Z",
+  "model": "glm-5.3"
+}

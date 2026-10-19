@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד היום הזה",
+      "rationale": "fo nin don in na — 'fo' ('until') takes over 'ad-hoc' 'until this day'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הורישו",
+      "gloss-note": "",
+      "rationale": "יָרַשׁ 'to possess by driving out' rendered 'bɔli kɛ' (drive out), verb of possession lost"
+    }
+  ],
+  "translation": "Israyɛl denw ma Geshuridenw ⟨את⟩ bɔli kɛ, wa Maakathidenw ⟨את⟩ fana boli ma kɛ; Geshur ni Maakat sigira Israyɛl kɔnɔ, fo nin don in na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "583b5401a9c4cbe0b3c59fa033f93987e7e3b1fb503a51cef30caf18c6a2bcc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/13\/13-16.1791928790835.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "bɔli kɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geshuridenw"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Geshuridenw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ fana",
+      "marks": "Maakathidenw"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "Maakathidenw"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sigira"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Geshur"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "Maakat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nin don in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in na"
+    }
+  ],
+  "timestamp": "2026-10-13T21:59:50.836779576Z",
+  "model": "glm-5.3"
+}

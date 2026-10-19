@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש kɔrɔ ka surun ni\/taama-ni la, a tɛ 'soul' ye angilɛkan fɔcogo la"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "להכות nɔ fɛ direct-object taamasiyɛn את ye, n'i b'a jira ⟨את⟩ ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "joli janinatigi",
+      "rationale": "דם נקי kɔrɔ: 'joli janinatigi' (dangatigi tɔgɔ-ɲɛfɔli) walima 'mɔgɔ min joli janinatigi ye' — sɛbɛnnibagaaw bɛ o fila nɔ fɛ"
+    }
+  ],
+  "translation": "Dangalen don min bɛ nwi ta walasa ka faga ⟨את⟩ ni, joli janinatigi; jama bɛɛ na fɔ ko Amen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "934e94863c83170cb5bb09cce08271b94a11b654ef63f2e58eb52067d35675d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/27\/25-26.1791928235922.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Dangalen"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "nwi"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "walasa ka faga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "דם",
+      "gloss": "joli"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "janinatigi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ka fɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-13T21:50:35.923739867Z",
+  "model": "glm-5.3"
+}

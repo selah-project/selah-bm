@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dunokow",
+      "rationale": "צֵידָהּ literally 'her game\/hunt' (from the chase); traditionally 'her provision' — versions split between hunting image and general food"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברך אברך",
+      "rationale": "infinitive absolute + finite verb doubling 'blessing I will bless'; 'duba kosɛbɛ' keeps intensity, loses the verbal echo"
+    }
+  ],
+  "translation": "A dunokow, n bɛna duba kosɛbɛ; a miskinw, n bɛna u kɔ buru la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/132\/13-16.1791941751170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "dunokow"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "duba"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "n bɛna duba kosɛbɛ"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "miskinw"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "n bɛna u kɔ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buru"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:51.171840403Z",
+  "model": "glm-5.3"
+}

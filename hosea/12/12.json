@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 12:12",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ye⟩",
+      "rationale": "Bamanankan needs the copula ye; Hebrew has none in the question."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלגל\/גלים",
+      "rationale": "Gilgal's name echoes גלים (heaps of stones) — their altars at Gilgal will become 'gals', a paronomasia lost in Bamanankan."
+    },
+    {
+      "kind": "crux",
+      "subject": "אם גלעד און",
+      "rationale": "Read as a question ('Is Gilead iniquity?'), a conditional, or an assertion ('Gilead is mere Aven'); question kept."
+    }
+  ],
+  "translation": "Yala Gilada (ye) awen ye? Ni tiɲɛ, u ye fɔli-sira ye; Giligala u bɛ misiw saraka da, u ka sarakabɔlanw fana bɛ i n'a fɔ kabakurun bolobagaw foro talw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/12\/9-12.1791938239705.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yala"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "און",
+      "gloss": "awen"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ni tiɲɛ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "fɔli-sira"
+    },
+    {
+      "surface": "היו",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Giligala"
+    },
+    {
+      "surface": "שורים",
+      "gloss": "misiw"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "u bɛ saraka da"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "u ka sarakabɔlanw"
+    },
+    {
+      "surface": "כגלים",
+      "gloss": "i n'a fɔ kabakurun bolobagaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "tal"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "foro"
+    }
+  ],
+  "timestamp": "2026-10-14T00:37:19.706551770Z",
+  "model": "glm-5.3"
+}

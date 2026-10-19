@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "silikisi",
+      "rationale": "מחסה is a shelter\/refuge; 'silikisi' (protection\/cover) chosen, no exact single word"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ye⟩",
+      "rationale": "Bambara copula construction needs 'ye' where Hebrew apposition omits it"
+    },
+    {
+      "kind": "elision",
+      "subject": "מפני אויב",
+      "rationale": "'in the face of the enemy' compressed to 'enemy's face'; Bambara 'ɲɛ' keeps the face-metaphor"
+    }
+  ],
+  "translation": "Sabu i tun ye ne ka silikisi ye ⟨ye⟩, dagaba sebagalen ne duncɛnw ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/61\/1-4.1791940497398.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "i tun ye"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "silikisi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ka"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "dagaba"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sebagalen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ne duncɛnw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:57.399668299Z",
+  "model": "glm-5.3"
+}

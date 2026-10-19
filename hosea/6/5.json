@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "חצבתי ani הרגתים bɛ «u» daɲɛ sɔrɔ a laban na; Bamanankan ka kan ka «u» fɔ"
+    },
+    {
+      "kind": "crux",
+      "subject": "yeelen",
+      "rationale": "אור: «yeelen» (nabiw ta jirili) walima «sumaya» (BSB: lightning)"
+    },
+    {
+      "kind": "elision",
+      "subject": "על כן",
+      "rationale": "Heburu ka «על כן» (nin kɔrɔ la) bɛ Bamanankan na «o de kɔrɔ la» ye — daɲɛ fila kelen-kelen tɛ"
+    }
+  ],
+  "translation": "O de kɔrɔ la, ne ye ⟨u⟩ kugu ni nabiw ye, ne ye ⟨u⟩ sa ni ne da kumaw ye; ani i ka sariyaw bɛ bɔ na i n'a fɔ yeelen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c818525ae574dde31efd66e91023b645295c9302d2e625baff48fe1bbc7c577f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/6\/5-8.1791938237592.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "o (kɔrɔ)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "de kɔrɔ la"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "ne ye ⟨u⟩ kugu"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "ni nabiw ye"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "ne ye ⟨u⟩ sa"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "ni … kumaw"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ne da"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "ani i ka sariyaw"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yeelen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bɛ bɔ na"
+    }
+  ],
+  "timestamp": "2026-10-14T00:37:17.593223403Z",
+  "model": "glm-5.3"
+}

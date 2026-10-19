@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Hebrew אשרי is an interjection with no verb; Bambara requires 'Donba don' to carry the exclamation"
+    },
+    {
+      "kind": "substitution",
+      "subject": "den fitiniw",
+      "rationale": "עלליך is literally 'thy sucklings' (nursing infants); rendered 'little children'"
+    },
+    {
+      "kind": "elision",
+      "subject": "וְנִפֵּץ",
+      "rationale": "the single verb 'dash to pieces' is split into 'ka bɔ … kan' (strike against), losing the shattering picture"
+    }
+  ],
+  "translation": "Donba don min bɛna ⟨את⟩ i den fitiniw minɛ, ka u bɔ kabakurun kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ddbf5be047b0c59f4f4211d7e0f17a42b95cc817b727d729817064730199a74c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/137\/9-9.1791941816712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Donba"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "min bɛna minɛ"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "i den fitiniw"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "i den fitiniw"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "kabakurun"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:56.713311959Z",
+  "model": "glm-5.3"
+}

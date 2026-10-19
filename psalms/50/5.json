@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתי בריתי",
+      "rationale": "Hebrew 'cut my covenant' (cutting between flesh pieces); Bambara 'segin layidu' keeps the binding sense."
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי זבח",
+      "rationale": "'over\/upon sacrifice' — 'by sacrifice' (KJV) vs 'over a sacrifice' (YLT)."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the saints",
+      "rationale": "Imperative summons: 'Gather my saints to me'."
+    }
+  ],
+  "translation": "Aw ka n ka hesedbagaw lajɛ n ma, minnu ye ⟨את⟩ n ka layidu segin sen na saraka kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/50\/5-8.1791940267416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "lajɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n ma"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "n ka hesedbagaw"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "segin"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sen na"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "saraka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:11:07.416804150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 33:8",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Hebrew has plural 'words' without possessive; the connector 'ta' (of) marks them as Job's words"
+    }
+  ],
+  "translation": "Tiɲɛ na, i ye fɔ ne tulow la, ani kumaw ta kan ne mɛnna.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a44a31fdca19fe4c3f2b5dc1fdfca7dd4087204fbedc9bba56dc46db9ba70e40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/33\/5-8.1791944092493.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tiɲɛ na"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "i ye fɔ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ne tulow la"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ani kan"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "kumaw ta"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ne mɛnna"
+    }
+  ],
+  "timestamp": "2026-10-14T02:14:52.506502479Z",
+  "model": "glm-5.3"
+}

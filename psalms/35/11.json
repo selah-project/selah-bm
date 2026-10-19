@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olu",
+      "rationale": "Nɔnabila farala a kan walasa k'a jira ko seerew de bɛ ɲininkali kɛ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jugu",
+      "rationale": "חמ׸ ye juru ye — kɛlɛ ni fanya seere, 'jugu' ta ye a nɔgɔya."
+    }
+  ],
+  "translation": "Seere jugutigiw bɛ wuli; min n ma dɔn, olu bɛ n ɲininka.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/35\/9-12.1791939988997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "bɛ wuli"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "seerew"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "n dɔn"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "bɛ n ɲininka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:28.998008819Z",
+  "model": "glm-5.3"
+}

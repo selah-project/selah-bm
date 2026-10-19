@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 32:2",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nabi",
+      "rationale": "נביא rendered nabi, never kira, per the standing ruling against later-prophet titles."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המטרה",
+      "rationale": "Guard-house rendered jongo (prison); Hebrew root is 'watch\/aim', the watching-place."
+    }
+  ],
+  "translation": "O waati la, Babulɔn (Babulu) masakɛ ka sofɛw yɛrɛgɛn Yerushalayim (Jerusalɛmu) kan; ani Yirmeyahu, nabi in, tun bɛ jongo dalan kɔnɔ, min bɛ Yuda masakɛ so kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c5ac7d8e27ee2320ca5fd7b32c8d475e3591a5e333086d90052dca9e63c71fa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/32\/1-4.1791935903431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואז",
+      "gloss": "o waati la"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sofɛ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babulɔn"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "yɛrɛgɛn"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "ani Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi in"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tun bɛ"
+    },
+    {
+      "surface": "כלוא",
+      "gloss": "jongo kɔnɔ"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "dalan kɔnɔ"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "jongo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-10-13T23:58:23.432937985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ɲɛmɔgɔ",
+      "rationale": "למנצח literally 'to the one who shines\/glitters from afar', i.e. the eminent one or superintendent of music."
+    },
+    {
+      "kind": "hapax",
+      "subject": "משכיל",
+      "rationale": "A technical psalm-title term, usually rendered 'instructive poem'; kept as kalansen-donna (teaching-poem)."
+    },
+    {
+      "kind": "addition",
+      "subject": "fɛ",
+      "rationale": "Hebrew lacks a preposition marker for authorship; 'by' is implied by the construct, added in Bambara."
+    }
+  ],
+  "translation": "Ɲɛmɔgɔ ma, kalansen-donna, Korach (Kora) denw fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/42\/1-4.1791940147213.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ɲɛmɔgɔ ma"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kalansen-donna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denw fɛ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach (Kora)"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:07.214034015Z",
+  "model": "glm-5.3"
+}

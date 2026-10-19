@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חנס",
+      "rationale": "Hanes occurs only here in the Tanakh, an Egyptian city on the embassy route"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Tsoan \/ Hanes",
+      "rationale": "the verse maps the diplomatic mission's stations, naming the two Egyptian cities reached"
+    }
+  ],
+  "translation": "Sabu a ɲɛmɔgɔw tun ye Tsoan yɔrɔ ye, ani a cidew nana se Hanes.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "87a6ac0b318be369340068cf7a6928778e631627660ae55ad41dabf11298b617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/30\/1-4.1791934044522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tun ye"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Tsoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "a ɲɛmɔgɔw"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "ani a cidew"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Hanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "nana se"
+    }
+  ],
+  "timestamp": "2026-10-13T23:27:24.530401519Z",
+  "model": "glm-5.3"
+}

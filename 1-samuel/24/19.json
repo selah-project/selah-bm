@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סגר",
+      "rationale": "Heburukan: 'ka ne datugu' (shut me up); Bamanankan 'digi' (deliver) — jirali kelen, kuma filanan"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "H853 (aleph-tav) walima H854 (preposition 'ne la') — masalayɔrɔ min, seere-kelenw b'i kalan ka kɛ preposition ye; an ye ⟨את⟩ ne la sɔbɔ"
+    },
+    {
+      "kind": "you",
+      "subject": "Sɔlɔ a fɔ Dawid ye",
+      "rationale": "kumasen in bɛ Dawid ɲɛ fɔ ka kɛ kɔrɔfɔli ye"
+    }
+  ],
+  "translation": "Ani i y'a jira bi ⟨את⟩ min i ye ne kɛ ⟨את⟩ ne la — ɲuman de; ⟨את⟩ min kɔnɔ Yawe ye ne digi i bolo la, ani i ma ne fa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "520aa8790d905628e37a21b60a5e128adb4a920bfb47db4a48eda9c7968a6f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/24\/18-19.1791950349452.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ani i"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "y'a jira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "i ye … kɛ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ne la"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ɲuman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "ye ne digi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i bolo la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani i ma"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "ne fa"
+    }
+  ],
+  "timestamp": "2026-10-14T03:59:09.453268456Z",
+  "model": "glm-5.3"
+}

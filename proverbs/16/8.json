@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תבואות",
+      "rationale": "literally 'income\/produce'; rendered sɔɔrɔ (gain)"
+    },
+    {
+      "kind": "crux",
+      "subject": "משפט",
+      "rationale": "'justice\/right' — without right (KJV), without justice (JPS); ŋgōnya covers both"
+    }
+  ],
+  "translation": "Dɔɔnin ni ŋgɔnya ye, o ka gɛn tiŋɛ sɔɔrɔ caman min na ŋgɔnya tɛ ye walima.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/16\/5-8.1791942565657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ka gɛn"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "dɔɔnin"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ni ŋgōnya ye"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "caman"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "sɔɔrɔ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "min na … tɛ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ŋgōnya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:49:25.658807489Z",
+  "model": "glm-5.3"
+}

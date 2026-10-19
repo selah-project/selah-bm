@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hebel",
+      "rationale": "הבל is vapor\/breath\/vanity; kept as loanword with jɔyɔrɔ gloss rather than collapsing to one Bambara word"
+    },
+    {
+      "kind": "addition",
+      "subject": "cɛ dɔ",
+      "rationale": "Hebrew verb כרתו has impersonal subject; Bambara needs 'a certain man'"
+    }
+  ],
+  "translation": "Sabu siya ka sariyaw ye hebel ye (jɔyɔrɔ hɛbɛl); sabu cɛ dɔ ye jiri dɔ sido kilisi (nakɔ) la, a ye baarakɛla bolo baara ye, ni taabolo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/10\/1-4.1791935213669.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "sariyaw"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "siya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye … ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "kilisi"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "sido"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "baarakɛla"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "taabolo"
+    }
+  ],
+  "timestamp": "2026-10-13T23:46:53.671014189Z",
+  "model": "glm-5.3"
+}

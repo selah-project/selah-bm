@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 12:24",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩",
+      "rationale": "Participle with no explicit subject; Bambara requires one"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tohu",
+      "rationale": "תהו kept as the marked Hebrew word (as in Gen 1:2): formless waste; 'sira si tɛ yen' renders the stark 'no-way' ending"
+    }
+  ],
+  "translation": "⟨A⟩ bɛ dusukun bɔ dugukolo mɔgɔw ka kuntigɛw la, ka u lasɔrɔ tohu la — sira si tɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6cce5daa9ee4f23dd0efc89477366f23b0eabe562369eef9efcbe8ad2d0311d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/12\/21-24.1791943544063.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "bɛ ... bɔ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kuntigɛw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "ka u lasɔrɔ"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "tohu la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sira"
+    }
+  ],
+  "timestamp": "2026-10-14T02:05:44.065647132Z",
+  "model": "glm-5.3"
+}

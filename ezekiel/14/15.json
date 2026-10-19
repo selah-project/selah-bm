@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 14:15",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "denw faa",
+      "rationale": "ושכלתה is 'bereave' (lose children); rendered 'kill its children' to keep the loss-of-offspring picture"
+    },
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "rationale": "bare conditional 'if' opening a new case, carried by Bambara 'ni'"
+    }
+  ],
+  "translation": "Ni ne ye bagan jɔnjɔn ci dugukolo kan ka tɛmɛ, k'a denw faa, ka yɔrɔ kɛ sutigɛyɔrɔ ye, mɔgɔ si kana a ka tɛmɛ, baganw ninnu kosɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9ada75d7026277a8bce8fbae95557a9db7684eec9b55b682374edd127488af07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/14\/13-16.1791936978071.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "bagan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jɔnjɔn"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "ne bɛna ci ka tɛmɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo kan"
+    },
+    {
+      "surface": "ושכלתה",
+      "gloss": "k'a denw faa"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "sutigɛyɔrɔ"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "si kana"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "tɛmɛ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kosɔn"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "baganw ninnu"
+    }
+  ],
+  "timestamp": "2026-10-14T00:16:18.073111232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תפלה",
+      "rationale": "this lemma ('frivolity, unseemliness') appears only here in the Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "תפלה",
+      "rationale": "'given folly to God' vs 'charged God foolishly' vs 'ascribed unseemliness' — literal giving kept as jiɛ-kuma di"
+    }
+  ],
+  "translation": "O bɛɛ kɔnɔ, Iyob ma jurumu kɛ, a man jiɛ-kuma di Elohim ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "06199c6de84486b09b59a53d2c0ee266d2726eff55483cce7ac5c28a1954cee8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/1\/21-22.1791943119835.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ kɔnɔ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "O"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma … kɛ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a man"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "jiɛ-kuma"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim ma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:58:39.835956991Z",
+  "model": "glm-5.3"
+}

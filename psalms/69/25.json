@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dusukun",
+      "rationale": "אף ye funɛ nɔ ye; angere kɔrɔta 'dusukun' (kun) de bɛ Bamanankan na"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרון אף",
+      "rationale": "'dusukun ka tasuma' — Heburu ka daɲɛ fila tilennen: funɛ fitinin ka tasuma = angere jugu"
+    }
+  ],
+  "translation": "I ka juguya kɔ i dogu u kan, wa i dusukun ka tasuma ka u nɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fe724e736e71c79b85457f0e579e62b74e39481f1b0c1b3c034f1a763c946f46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/69\/25-28.1791940588976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "i ka juguya"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "wa ... tasuma"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "i dusukun"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "ka u nɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:16:28.976944630Z",
+  "model": "glm-5.3"
+}

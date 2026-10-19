@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Selah is a musical pause marker; kept as the Hebrew word itself, not translated"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ta",
+      "rationale": "Hebrew has no verb 'belong'; Bambara possessive construction supplied"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Direct address to Yawe, the psalmist's closing word to God"
+    }
+  ],
+  "translation": "Falibali ye Yawe ta; i duba bɛ i jamaa kan. Selah.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1e5256742b8da765fc6a8e55eeb049274ecfd9ef0927008167d0942e4b06c099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/3\/9-9.1791939437192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ta"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "Falibali"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i jamaa"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "i duba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-14T00:57:17.192660745Z",
+  "model": "glm-5.3"
+}

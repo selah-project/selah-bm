@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to worshippers",
+      "rationale": "chain of imperatives: sing, bless, proclaim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "finsirali",
+      "rationale": "ישועה is deliverance\/victory; 'finsirali' chosen as nearest Bambara noun"
+    },
+    {
+      "kind": "elision",
+      "subject": "ברכו",
+      "rationale": "literally 'kneel\/bless'; rendered as greeting-thanks 'i ni ce' — blessing as address"
+    }
+  ],
+  "translation": "Dɔliŋ Yawe ye, i ni ce a tɔgɔ la, a ka finsirali ɲɛfɔ don kɔrɔ, don kɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "506f16ef13835566f27b5b0685a3ea3fd8e5dd8d9a397b263b0c7bce35662165",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/96\/1-4.1791941086477.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "dɔliŋ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ye"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "i ni ce a la"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a tɔgɔ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ɲɛfɔ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "don kɔrɔ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "don kɔrɔ"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "a ka finsirali"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:46.477780607Z",
+  "model": "glm-5.3"
+}

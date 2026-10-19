@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "them\/us",
+      "rationale": "תִּשְׁמְרֵם is 'keep them' but תִּצְּרֶנּוּ may be 'keep us' (JPS, YLT); rendered 'them' with ⟨anw⟩ supplied for the second verb"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨anw⟩",
+      "rationale": "Object pronoun added to the second verb to resolve the them\/us ambiguity toward the praying community"
+    }
+  ],
+  "translation": "I de, Yawe, i bɛn'u mara; i bɛn ⟨anw⟩ kɔlɔsi nin jate in na, dibimɛ kɔrɔkɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/12\/5-8.1791939655936.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "I de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "i bɛn'u mara"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "i bɛn kɔlɔsi"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "הדור",
+      "gloss": "nin jate in na"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dibimɛ kɔrɔkɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:55.937355717Z",
+  "model": "glm-5.3"
+}

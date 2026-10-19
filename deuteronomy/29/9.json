@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 29:9",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Bambara needs possessive ka between noun and possessor; Hebrew construct needs none"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "verse directly addresses the whole assembly standing before Yawe"
+    }
+  ],
+  "translation": "Aw bɛ jɔ bi, aw bɛɛ, Yawe aw ka Ala ɲɛfɛ; aw ka kunw, aw ka jamaw, aw ka mɔgɔkɔrɔw ni aw ka ɲɛmɔgɔw, Isirayeli mɔgɔ bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "613764cbd906a2d63bb9cfe5d19264aead3614839c7c7a0fe55c8496ca3849b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/29\/9-12.1791928266637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "bɛ jɔ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "aw bɛɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "aw ka Ala"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "aw ka kunw"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "aw ka jamaw"
+    },
+    {
+      "surface": "זקניכם",
+      "gloss": "aw ka mɔgɔkɔrɔw"
+    },
+    {
+      "surface": "ושטריכם",
+      "gloss": "ni aw ka ɲɛmɔgɔw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    }
+  ],
+  "timestamp": "2026-10-13T21:51:06.638531979Z",
+  "model": "glm-5.3"
+}

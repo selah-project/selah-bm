@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 32:12",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלאו אחרי",
+      "rationale": "Hebrew idiom 'they filled after YHWH' = wholly followed; rendered as 'minɛ bɛɛ' (followed completely), literal picture lost"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בלתי",
+      "gloss": "negative particle 'except' rendered 'Fo … dɔrɔn' (only except)"
+    },
+    {
+      "kind": "addition",
+      "subject": "dɔrɔn",
+      "rationale": "'only' added to carry בלתי's exceptive force from verse 11"
+    }
+  ],
+  "translation": "Fo Kaleb dɔrɔn, Yefune denkɛ, Keniziden, ni Yehoshua, Nun denkɛ, sabu u ye Yawe kɔ tɔgɔtɔgɔ bɛɛ la minɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1b271fb26974b96223b4669f207d9525fd92e5bc2662ffdef162b5ee3350c73a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/32\/12-12.1791949992520.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "Fo"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "Keniziden"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "bɛɛ la minɛ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T03:53:12.520955087Z",
+  "model": "glm-5.3"
+}

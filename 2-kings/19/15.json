@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 19:15",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Hebrew verbless clause אתה הוא האלהים needs Bambara copula"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Hezekiah's prayer addresses Yawe directly in second person"
+    }
+  ],
+  "translation": "Hizikiya ye fɔ Yawe ɲɛfɛ ko: Yawe, Isirayeli Ala, min bɛ sigi kerubuw la — Ala ye i yɛrɛ de, i dɔrɔn de, masamasya bɛɛ la; i ye ⟨את⟩ sankolow ni ⟨את⟩ dugukolo dilan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cfd5c4226dd0b1eed32ed21ef90266ae0942232603bacbd8db7e45d934a36314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/19\/13-16.1791933203633.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ye fɔ Yawe ɲɛfɛ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bɛ sigi"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubuw la"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yɛrɛ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "i dɔrɔn"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "masamasya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ye … dilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sankolow"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-13T23:13:23.643559550Z",
+  "model": "glm-5.3"
+}

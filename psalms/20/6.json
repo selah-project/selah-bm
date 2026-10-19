@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩",
+      "rationale": "Hebrew yemale' has no explicit subject; Yawe supplied as doer and named in apposition"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נדגל",
+      "rationale": "'raise a banner \/ flaunt' rendered as 'set up a taamasiyen (sign-banner)'; could also read 'be conspicuous'"
+    }
+  ],
+  "translation": "An bɛ wɔlilen kɛ i bɔli la, ani an bɛna taamasiyen dajɛ an ka Elohim tɔgɔ la; ⟨A⟩ bɛna, Yawe, i aniniw bɛɛ kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/20\/5-8.1791939823034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "an bɛ wɔlilen kɛ"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "i bɔli la"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ani … tɔgɔ la"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "an bɛna taamasiyen dajɛ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "bɛna … kɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "i aniniw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:43.035206710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 34:14",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אליו (line 2)",
+      "rationale": "KJV\/JPS 'upon man' vs ASV\/YLT 'upon himself' — Hebrew says only 'to it\/him'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a fɛ⟩",
+      "rationale": "Bambara requires the locutive 'a fɛ' for the bare preposition אליו."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ninakili",
+      "rationale": "נשמה rendered 'ninakili' (breath) per the fixed vocabulary table."
+    }
+  ],
+  "translation": "Ni a ye a dusukun sigi ⟨a fɛ⟩, a ka fiɲɛ ni a ka ninakili, a bɛ o lajɛ a yɛrɛ fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3e81c30d735c885e4109c776cf315727eed44b727340578d589d817d0196cd21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/34\/13-16.1791944244228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ye … sigi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "a dusukun"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "a ka fiɲɛ"
+    },
+    {
+      "surface": "ונשמתו",
+      "gloss": "ni a ka ninakili"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a yɛrɛ fɛ"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "bɛ … lajɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:17:24.229515045Z",
+  "model": "glm-5.3"
+}

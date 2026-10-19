@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 20:20",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "in",
+      "gloss-note": "",
+      "rationale": "definite article on the pool and the channel supplied; Hebrew has ה but Bambara marks it with 'in' suffix"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ji-ligɛyɔrɔ \/ ji-sira",
+      "rationale": "ברכה 'reservoir' and תעלה 'channel' unpacked as 'water-gathering place' and 'water-road'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "donnu sɛbɛn",
+      "rationale": "royal-chronicle citation formula — the verse points to a written record of the king's acts"
+    },
+    {
+      "kind": "invitation",
+      "subject": "yala … wa",
+      "rationale": "rhetorical question 'are they not written…' draws the reader to the chronicle"
+    }
+  ],
+  "translation": "Hizikiya ka kumaw tɔɔrɛ, ni a sebagaw bɛɛ, ani a ye ⟨את⟩ ji-ligɛyɔrɔ in ni ⟨את⟩ ji-sira in dilan cogo min na, k'a woo ⟨את⟩ jiw dugu kɔnɔ — yala olu sɛbɛnnen tɛ Yuda masaw ka donnu sɛbɛn la wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "46423c9ec65d9570647e29cd79a7578560568e4a145ebc0bbd11f159eec93aca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/20\/17-20.1791933266468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "tɔɔrɛ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "a sebagaw"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ani cogo min na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ji-ligɛyɔrɔ in"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ji-ligɛyɔrɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ji-sira in"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "ji-sira"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "woo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiw"
+    },
+    {
+      "surface": "המים",
+      "gloss": "jiw"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "dugu kɔnɔ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "yala … wa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "olu"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "sɛbɛnnen"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "donnu"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "masaw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-10-13T23:14:26.483102377Z",
+  "model": "glm-5.3"
+}

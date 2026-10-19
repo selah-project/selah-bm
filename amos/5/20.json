@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "wa … ?",
+      "rationale": "Rhetorical question (הלא) demands the hearers' assent."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "darkness-not light ×2",
+      "rationale": "Verse 18's pair חשך\/לא אור returns intensified with אפל\/נגה — antithetic parallelism deepening the gloom."
+    }
+  ],
+  "translation": "Yawe don ye dibi ye, wa a manka yeelen? A ye dibi jɔngɔn ye, yeelen si tɛ a kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1a9b1b2a4069811705000e4c8194f693f3e310dce5f78e7dbcc9f58135d53fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/amos\/5\/17-20.1791938592578.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "wa … ?"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dibi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anka"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yeelen"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "dibi jɔngɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anka"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "yeelen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:43:12.579844424Z",
+  "model": "glm-5.3"
+}

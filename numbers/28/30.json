@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kafara",
+      "rationale": "לכפר is literally 'to cover over'; kafara (atonement) is the standard sacrificial sense"
+    },
+    {
+      "kind": "crux",
+      "subject": "bakɛ",
+      "rationale": "שעיר עזים is 'shaggy-one of the goats'; rendered 'male-goat of the goat-kind', a he-goat"
+    }
+  ],
+  "translation": "Bakɛ kelen min ye ba ye, walasa ka aw ka kafara kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/28\/29-31.1791927120813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "bakɛ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "walasa ka kafara kɛ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aw ka"
+    }
+  ],
+  "timestamp": "2026-10-13T21:32:00.813831510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i ni",
+      "rationale": "אתך here is the preposition 'with you' (H854), not the direct-object marker; rendered as 'i ni' with the marker glyph retained per discipline"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחרד",
+      "rationale": "'trembled' (KJV) vs 'came to meet trembling' (ASV) vs 'was afraid' — the verb is shudder-with-terror; Bambara keeps the simple 'ko a ye siran'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Dawida",
+      "rationale": "The priest's question directly addresses Dawida"
+    }
+  ],
+  "translation": "Dawida nana Nob ka taa Ahimelek sarakalasebaga fɛ. Ahimelek yɛ Dawida ko a ye siran, a ko a ye: munna i bɛ i yɛrɛ de ye, ani mɔgɔ si tɛ ⟨i⟩ ni?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/21\/1-4.1791930614519.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Nob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka taa … fɛ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ko a ye siran"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "yɛ … ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "munna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "i yɛrɛ de"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ani mɔgɔ si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ i ni",
+      "marks": "i ni"
+    }
+  ],
+  "timestamp": "2026-10-13T22:30:14.521301356Z",
+  "model": "glm-5.3"
+}

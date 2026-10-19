@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "donna donw kɔnɔ",
+      "rationale": "Hebrew idiom 'he came in the days' = grew very old; literal 'enter days' kept."
+    },
+    {
+      "kind": "elision",
+      "subject": "u",
+      "rationale": "Hebrew verb 'they covered him' has no explicit subject; 'u' supplied for the third-person plural."
+    }
+  ],
+  "translation": "Masakɛ Dawid kɔrɔla, donna donw kɔnɔ; u ye a kpɔni ni ɲɔgɔnw ye, nka sumaya si ma na a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "562ff7926eee9f9b6a2fd952ebf5bb75e2182e1ea218bf5cf298ba9de9e5b7de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/1\/1-4.1791931641781.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ani masakɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "kɔrɔla"
+    },
+    {
+      "surface": "בא",
+      "gloss": "donna"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "donw kɔnɔ"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "u ye a kpɔni"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "ni ɲɔgɔnw ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka si"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ma ni sumaya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    }
+  ],
+  "timestamp": "2026-10-13T22:47:21.783533915Z",
+  "model": "glm-5.3"
+}

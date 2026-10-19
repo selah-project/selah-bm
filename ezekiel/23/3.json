@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 23:3",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jalaki",
+      "rationale": "זנה ka kɔrɔfangafɔli ye jalaki ye, nka Tanaki kɔnɔ a bɛ Kelen ka layidu bɔli ɲɛfɔ fana"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעכו",
+      "rationale": "מעך: 'ka lamɛn', 'ka bɔ nɔgɔya', walima 'ka gɛlɛya' — sɛbɛnbagaw bɛ i yɛrɛ yɛlɛma n'a ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duskɛyɔrɔ",
+      "rationale": "בתולים ye sumaya-ko ye, a tɛ 'bufɛn' dɔrɔn ye"
+    }
+  ],
+  "translation": "U ye jalaki kɛ Mitsrayim (Misira) la, u denniya la u ye jalaki kɛ; yen u nyɛ munew lamɛn, ani yen u ye u bufɛnw lamɛn u duskɛyɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6a8ce53f0725d4bce11c2f22acb68d05cd08d128dd95a8d16b801f743871f1f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/23\/1-4.1791937292372.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזנינה",
+      "gloss": "u ye jalaki kɛ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim (Misira) la"
+    },
+    {
+      "surface": "בנעוריהן",
+      "gloss": "u denniya la"
+    },
+    {
+      "surface": "זנו",
+      "gloss": "u ye jalaki kɛ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "מעכו",
+      "gloss": "lamɛn"
+    },
+    {
+      "surface": "שדיהן",
+      "gloss": "u nyɛ munew"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ani yen"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u ye … kɛ"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "u bufɛnw"
+    },
+    {
+      "surface": "בתוליהן",
+      "gloss": "u duskɛyɔrɔ la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:21:32.373767105Z",
+  "model": "glm-5.3"
+}

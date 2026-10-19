@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan copula 'ye' supplied twice; Hebrew has no verb."
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Direct address to Yawe, opening the hymnic contrast with the idols of v. 5."
+    }
+  ],
+  "translation": "Mɔgɔ si tɛ yen min bɛ i ye, Yawe; i ye bon ye, wa i tɔgɔ ye bon ye ni fanga ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3de59caafb89fa41a15557fd268c4eaef4097bcb65b90b88d8b024fab11557bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/10\/5-8.1791935136475.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "mɔgɔ si tɛ yen"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "min bɛ i ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "wa bon"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i tɔgɔ"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "ni fanga ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:45:36.478102630Z",
+  "model": "glm-5.3"
+}

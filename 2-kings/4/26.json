@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום ×4",
+      "rationale": "The question 'is it shalom?' asked three times and answered once with 'Shalom' — one word, four occurrences; repetition kept literally."
+    },
+    {
+      "kind": "you",
+      "subject": "to the woman",
+      "rationale": "Elisha's words to Gehazi address the Shunammite woman through reported speech."
+    },
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "Hebrew ה-interrogative rendered by Bambara question particle 'wa', supplied per question."
+    }
+  ],
+  "translation": "Sisan, a bɛ taa ɔsisi a kɛrɛ fɛ, k'a fɔ a ye: “Hɛrɛ bɛ i la wa? Hɛrɛ bɛ i cɛ la wa? Hɛrɛ bɛ den min na wa?” A ko: “Hɛrɛ de.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "13cf0e66206493277a93fa565b96abb369df5f747afdca86ec6ef77d6dc3b584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/4\/25-28.1791932639017.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Sisan"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "a bɛ taa ɔsisi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨i ni caya⟩"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "a kɛrɛ fɛ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "k'a fɔ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Hɛrɛ bɛ … wa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Hɛrɛ bɛ … wa"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "i cɛ la"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Hɛrɛ bɛ … wa"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "den min na"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "A ko"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Hɛrɛ de"
+    }
+  ],
+  "timestamp": "2026-10-13T23:03:59.025768452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bubu",
+      "rationale": "אדרת is a wide ample garment; rendered with the large Bambara gown 'bubu' to keep the picture"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנה והנה",
+      "rationale": "Mirrored pair 'hither and thither' keeps the split in two directions; rendered 'nin fɛ ni o fɛ'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ji tun tɛ yen",
+      "rationale": "חרבה is 'dry ground' expressed descriptively — 'ground where there was no water'"
+    }
+  ],
+  "translation": "Iliya ye ta ⟨את⟩ a ka bubu, a ye a tubu, a ye ⟨את⟩ ji min boli, ji ye yɛrɛ tigɛ — nin fɛ ni o fɛ — ka u fila ye tɛmɛ dugukolo min na ji tun tɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "88f0fe0068bb156ab1f7f708bd0d8bec9551f84262d36e9c3e2e7d79489100e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/2\/5-8.1791932566965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ye ta"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Iliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka bubu"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "a ka bubu"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "a ye a tubu"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "a ye … boli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ji min"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ji min"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "ji ye yɛrɛ tigɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nin fɛ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "o fɛ"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "u ye tɛmɛ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "u fila"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "dugukolo min na ji tun tɛ yen"
+    }
+  ],
+  "timestamp": "2026-10-13T23:02:46.972590488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne ye",
+      "rationale": "Hebrew ellipsis: עני ואביון אני needs the Bambara copula ye to read"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tulo",
+      "rationale": "אזנך literally 'your ear' (from broadness); rendered with plain Bambara 'tulo'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "direct petition addressed to Yawe throughout the verse"
+    },
+    {
+      "kind": "invitation",
+      "subject": "prayer",
+      "rationale": "the psalm opens by summoning Yawe to incline his ear — a call, not a report"
+    }
+  ],
+  "translation": "Tilela Dawid (Dawuda) ta. Yawe, i tulokɔnɔ woloŋ ka ne jaabi, sabu ne ye miskine ye ani ne ye fadaba ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/86\/1-4.1791940978669.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tilela"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid (Dawuda) ta"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "woloŋ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "i tulokɔnɔ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ka ne jaabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskine"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ani fadaba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:58.670289099Z",
+  "model": "glm-5.3"
+}

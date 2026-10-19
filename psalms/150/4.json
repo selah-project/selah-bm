@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עוגב",
+      "rationale": "ugav — Tanaki kɔnɔ, o daɲɛ bɛ sɔrɔ yɔrɔ fitinin dɔ dɔrɔn de kɔnɔ; a kɔrɔ kɔrɔ (kalanbagaw bɛ o faamu kelen-kelen tɛ: kan-ɲɛnuma walima bila-kan)"
+    },
+    {
+      "kind": "crux",
+      "subject": "minim",
+      "rationale": "מנים kɔrɔ 'dɔrɔn siraw' (kanmabaw minnu bɛ sira kelen-kelen kɔnɔ); bayɛlɛmabagaw bɛ fɔ 'kanmafɔlaw' walima 'sira-fɔlaw' ye — a ka da a kan ka sira ta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dundun fitinin",
+      "rationale": "tɔf kɔrɔ ye tambourine ye; ni a jira 'dundun fitinin' la, Bamanankan kalanbaga ka dɔn o ye"
+    }
+  ],
+  "translation": "Jalaw ⟨a⟩ tɔf (dundun fitinin) ni dɔn fɛ; jalaw ⟨a⟩ siraw ka kanmaw ni ugav (bila-kan-fɔlan) fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/150\/1-4.1791941993690.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "jalaw ⟨a⟩"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "tɔf fɛ"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "ni dɔn fɛ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "jalaw ⟨a⟩"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "siraw ka kanmaw fɛ"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ni ugav fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:39:53.691585827Z",
+  "model": "glm-5.3"
+}

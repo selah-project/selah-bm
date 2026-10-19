@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 30:20",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "patriarch list",
+      "rationale": "Named genealogy — Abraham, Isaac, Jacob — anchoring the oath"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula 'ye' supplied in the name list; Hebrew has no verb in the oath formula"
+    }
+  ],
+  "translation": "ka kanuya Yawe ⟨את⟩, i ka Ala, k'a kan mɛn, ka a lamini: sabu a ye i ka balo ye, ani i ka donw naati — ka sigin dugukolo min kan Yawe ye layidu da i ka baw ma — Awraham (Ibrahima) ye, Yitshak (Isaka) ye, ani Yakub (Yakuba) ye — ka a di u ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "965050add94972e57b1a8194578138a08fe5de8138585eef10a6d78fefcd29a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/30\/17-20.1791928437501.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאהבה",
+      "gloss": "ka kanuya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Ala"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "k'a kan mɛn"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ולדבקה",
+      "gloss": "ka a lamini"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "i ka balo"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "naati"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "i ka donw"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ka sigin"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ye layidu da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "i ka baw ma"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "Yakub"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ka a di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:53:57.503532336Z",
+  "model": "glm-5.3"
+}

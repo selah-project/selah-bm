@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין אמר ואין דברים",
+      "rationale": "KJV reads 'no speech nor language where their voice is not heard' (their words fill every language); JPS\/ASV read 'no speech, no words, their voice is not heard' (silence yet revelation) — rendered here with the second"
+    },
+    {
+      "kind": "mystery",
+      "subject": "heavens' silence",
+      "rationale": "The revelation of verses 2–3 is poured out without audible speech — knowledge given while voice withheld"
+    }
+  ],
+  "translation": "Kuma si tɛ yen, kumaw si tɛ yen, u kan si tɛ mɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d8287053d8f596e0214dd1b5c0435b86ff9547bcd3bbb54b7e30a0f6ab64ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/19\/1-4.1791939788481.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "si tɛ yen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "si tɛ yen"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "u kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:08.482073935Z",
+  "model": "glm-5.3"
+}

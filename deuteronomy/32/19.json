@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 32:19",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Hebrew has no explicit object for 'saw'; Bamanankan needs 'o' (it)."
+    }
+  ],
+  "translation": "Yawe ye o ye, a y'u bɔ a ɲɛ na, a denkɛw ni a denmusow ka a kɔrɔsa sabu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/32\/17-20.1791928411330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Yawe ye o ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "a y'u bɔ a ɲɛ na"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "kɔrɔsa sabu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a denkɛw"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "a denmusow"
+    }
+  ],
+  "timestamp": "2026-10-13T21:53:31.332625103Z",
+  "model": "glm-5.3"
+}

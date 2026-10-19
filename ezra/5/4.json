@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "an (we)",
+      "rationale": "Aramaic אמרנא 'we said' though the speakers are the governor's party (5:3); some read it as the Jews' own quoted reply, others as Tatnai's company including themselves"
+    },
+    {
+      "kind": "substitution",
+      "subject": "so",
+      "rationale": "בנינא is 'building\/structure'; rendered with 'so' (house) since the passage concerns the temple house"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tɔgɔw",
+      "rationale": "the asking of names — a census-like identification demand by the Persian officials"
+    }
+  ],
+  "translation": "O kɔfɛ, an y'u ye kuma fɔ nin cogo na: mɔgɔw minnu bɛ so nin jɔ, olu tɔgɔw ye mun?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4599a98bccaf77d197edc3ca0d495c01e3f1a9cf38daecc2ad928f6e4e1923b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/5\/4-4.1791951458130.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "o kɔfɛ"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "nin cogo na"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "kuma fɔ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mun"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "olu"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "tɔgɔw"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "די",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "so"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "jɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:17:38.130916259Z",
+  "model": "glm-5.3"
+}

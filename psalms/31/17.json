@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "son",
+      "rationale": "Hebrew has no possessive verb here; the imperative 'make-shine' is rendered directly as 'k'a yeelen dogo'"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Prayer addressed directly to God, the psalmist's petition"
+    }
+  ],
+  "translation": "I ka ɲɛda yeelen k'a dogo i ka son kan; aniyɛn i ka hesed kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/31\/17-20.1791939971872.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "k'a yeelen dogo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i ka ɲɛda"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i ka son"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "aniyɛn"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "i ka hesed kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:11.873211024Z",
+  "model": "glm-5.3"
+}

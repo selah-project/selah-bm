@@ -1,0 +1,161 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 1:11",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "aleph-tav direct-object marker rendered as ⟨את⟩ pointing at 'i tɔgɔ'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara equative copula ⟨ye⟩ required for 'ne tun ye minɛnbaga ye'; Hebrew has no copula"
+    },
+    {
+      "kind": "crux",
+      "subject": "החפצים",
+      "rationale": "participle 'those-pleasing\/delighting': rendered 'minnu bɛ fɛrɛ' (who desire) vs 'who delight'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Adonay",
+      "rationale": "direct petition addressed to Adonay, Nehemiah's prayer voice"
+    }
+  ],
+  "translation": "Aanɛ, Adonay, i tulo ka mɛnɛli ka kɛ donni i baarabaga ka juu kan ani i baarabagaw ka juu kan, minnu bɛ fɛrɛ ka siran ⟨את⟩ i tɔgɔ; k'a to ka ɲɛ donni i baarabaga ye anini, k'a di hakɛ la cɛ in ɲɛfɛ. Ani ne tun ⟨ye⟩ minɛnbaga ye masakɛ fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6d34e6a78b05d8de492daa01869b77e74e0f2505da7609f04f48acebb35fb679",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/1\/9-11.1791946849247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "aanɛ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donni"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "i tulo"
+    },
+    {
+      "surface": "קשבת",
+      "gloss": "mɛnɛli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "juu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i baarabaga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani kan"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "juu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "i baarabagaw"
+    },
+    {
+      "surface": "החפצים",
+      "gloss": "minnu bɛ fɛrɛ"
+    },
+    {
+      "surface": "ליראאה",
+      "gloss": "ka siran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tɔgɔ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i tɔgɔ"
+    },
+    {
+      "surface": "והצליחה",
+      "gloss": "k'a to ka ɲɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donni"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "i baarabaga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "anini"
+    },
+    {
+      "surface": "ותנהו",
+      "gloss": "k'a di"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "hakɛ la"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ani ne"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tun ye"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "minɛnbaga"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛ fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:00:49.249000177Z",
+  "model": "glm-5.3"
+}

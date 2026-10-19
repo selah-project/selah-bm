@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי … כי",
+      "rationale": "Repetition of 'sabu' twice mirrors the Hebrew double כי, kept verbatim."
+    },
+    {
+      "kind": "addition",
+      "subject": "a ka",
+      "rationale": "Pronoun 'a ka' added before 'tɔgɔ senuma' — Hebrew has only the suffix on קדשו."
+    }
+  ],
+  "translation": "Sabu a la, an ka dusukun bɛ donuya, sabu an y'i jija a ka tɔgɔ senuma la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a916f9d90cad1c57c489438c97d4795a397d2217c582100b666eb5e16c7c782b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/33\/21-22.1791939954148.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bɛ donuya"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "an ka dusukun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "tɔgɔ … la"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "a ka senuma"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "an y'i jija"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:54.149369709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dɛnso kɔnɔ",
+      "rationale": "Bamanankan lacks a fixed single word for womb; 'inside the child-house' is supplied descriptively."
+    },
+    {
+      "kind": "addition",
+      "subject": "caman",
+      "rationale": "שדי is a dual — 'two breasts' — rendered as plural 'balo caman'; the dual count is not carried."
+    }
+  ],
+  "translation": "Sabu i de ye ne bɔ dɛnso kɔnɔ, i ye ne bila tigiya la, ne ba balo caman kan na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/22\/9-12.1791939731420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "ye ne bɔ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dɛnso kɔnɔ"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "ye ne bila tigiya la"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan na"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "balo caman"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ne ba"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:11.421420302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dɔgoya",
+      "rationale": "חרפה is stronger shaming taunt; dɔgoya 'disgrace' is nearest Bamanankan word"
+    }
+  ],
+  "translation": "Sira taaw bɛɛ y'a minɛ-san, a kɛra dɔgoya ye a bɛnbaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "53f8ee8a217282c258cbd10cf0f993670adb04c6fd1e20abb763a908477986d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/89\/41-44.1791941034170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "y'a minɛ-san"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "taaw"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "dɔgoya"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "a bɛnbaw la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:23:54.171648860Z",
+  "model": "glm-5.3"
+}

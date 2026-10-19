@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשובב",
+      "rationale": "שוב daɲɛ in ɲagami-yɛlɛma don kofɛ-dilannen na min b'a kɔrɔ jɔya: 'yinu kokura' — segili fila."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Kumasen in bɛ fɔ Elohim ye kankan na, David ka jamajamafɔ kɔnɔ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ja",
+      "rationale": "אנפת ka kɔrɔ ye 'ninakili jugu minɛ' ye (be enraged) — 'i binna ja la' ye nɔgɔya-yɛlɛma ye."
+    }
+  ],
+  "translation": "Elohim, i ye an to, i ye an tigɛ, i binna ja la; yinu kokura an fɛ!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "41d63259a66f63a38d783be55c0119c0b858b436d2f96304b8b27faa6a7d156e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/60\/2-3.1791951265482.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "i ye an to"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "i ye an tigɛ"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "i binna ja la"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "yinu kokura"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:25.483235665Z",
+  "model": "glm-5.3"
+}

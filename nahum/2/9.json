@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 2:9",
+  "book": "nahum",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "kɔrɔdonw",
+      "rationale": "מימי היא read as 'from her days of old' (KJV\/JPS) vs 'from of old it is' (YLT)"
+    },
+    {
+      "kind": "crux",
+      "subject": "jan",
+      "rationale": "עמדו parsed as imperative 'Stand!' (KJV) vs description 'they cry Stand, stand'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "jan, jan",
+      "rationale": "repeated imperative, panic-cry kept as doublet"
+    }
+  ],
+  "translation": "Ninewɛ ye ji-dugubaga ye ji ye ⟨a kɔrɔdonw na⟩, nka u boli kɔ; “Jan, jan”, nka mɔgɔ si tɛ ⟨a kun⟩ jigin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e4b0faf6c8ccb81376b6c815a7cc3c508746db00cfd0a7109f1831b743b77b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nahum\/2\/9-12.1791938862764.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְנִינְוֵ֥ה",
+      "gloss": "Ninewɛ"
+    },
+    {
+      "surface": "כִבְרֵֽכַת",
+      "gloss": "ji-dugubaga"
+    },
+    {
+      "surface": "מַ֖יִם",
+      "gloss": "ji"
+    },
+    {
+      "surface": "מִ֣ימֵי",
+      "gloss": "kɔrɔdonw"
+    },
+    {
+      "surface": "הִ֑יא",
+      "gloss": "a"
+    },
+    {
+      "surface": "וְהֵ֣מָּה",
+      "gloss": "u"
+    },
+    {
+      "surface": "נָסִ֔ים",
+      "gloss": "boli"
+    },
+    {
+      "surface": "עִמְד֥וּ",
+      "gloss": "jan"
+    },
+    {
+      "surface": "עֲמֹ֖דוּ",
+      "gloss": "jan"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "nka tɛ yen"
+    },
+    {
+      "surface": "מַפְנֶֽה",
+      "gloss": "kun-jigin"
+    }
+  ],
+  "timestamp": "2026-10-14T00:47:42.764922524Z",
+  "model": "glm-5.3"
+}

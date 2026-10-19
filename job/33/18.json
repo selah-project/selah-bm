@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 33:18",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered 'ni' (throat\/life-force), not soul in later sense"
+    },
+    {
+      "kind": "crux",
+      "subject": "שָׁלַח",
+      "rationale": "'weapon\/missile' vs 'sword' vs 'detachment (of angels)' — rendered 'npan' (sword\/blade)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "bɔngɔ",
+      "rationale": "שַׁחַת 'pit' could be rendered 'Sheol-like pit'; kept plain 'bɔngɔ' (hole\/pit)"
+    }
+  ],
+  "translation": "A bɛ a ni mara bɔngɔ la, ani a balo, k'a lasɔ tɛmɛ npan la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/33\/17-20.1791944205534.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחשך",
+      "gloss": "mara"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "מני",
+      "gloss": "bɔ … la"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "bɔngɔ"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "ani a balo"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "tɛmɛ"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "npan"
+    }
+  ],
+  "timestamp": "2026-10-14T02:16:45.541126067Z",
+  "model": "glm-5.3"
+}

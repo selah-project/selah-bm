@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "shaatnez",
+      "rationale": "Rare Hebrew term (only here and Lev 19:19) of uncertain etymology; kept as shaatnez rather than forcing a guess"
+    },
+    {
+      "kind": "alternative",
+      "subject": "shaatnez",
+      "rationale": "Could render as 'nsan-ni-pɛki ɲɔgɔnmisɛnɛn' (wool-and-linen mixture) throughout, dropping the marked term"
+    }
+  ],
+  "translation": "I kana shaatnez don — nsan ni pɛki minnu ye ɲɔgɔn na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5faad4859e290c27bb2a1b5c8330de0517480e280e5045e96b8660ed148784dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/22\/9-12.1791928122050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "don"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "shaatnez"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "nsan"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "ni pɛki"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ka ɲɔgɔn na"
+    }
+  ],
+  "timestamp": "2026-10-13T21:48:42.056008747Z",
+  "model": "glm-5.3"
+}

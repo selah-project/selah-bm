@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 29:29",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הראה \/ החזה",
+      "rationale": "Hebrew has two different words for 'seer' (the-one-who-sees and the-beholder-in-vision); Bambara renders the first descriptively and the second as 'dɔnnibaga' (vision-knower)."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula 'ye … ye' supplied; Hebrew has no verb 'to be' here."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kumaw",
+      "rationale": "The verse is a bibliographic citation of source records — a catalog of written archives of David's reign."
+    }
+  ],
+  "translation": "Dawid masakɛ ka kumaw, fɔlɔw ni labanw, ninw ye sɛbɛnnen ye Shemuel (Samuelɛ) min ye ɲɛda ye o ka kumaw kan, ni Natani nabi ka kumaw kan, ni Gad dɔnnibaga ka kumaw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5592f389db6bfa8865b62136cafdf3a80b9650326fe5fe00985c61ef424eca58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/29\/29-30.1791948393981.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "fɔlɔw"
+    },
+    {
+      "surface": "והאחרנים",
+      "gloss": "labanw"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ninw"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "sɛbɛnnen"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "min ye ɲɛda ye"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ni … kan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ni … kan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "dɔnnibaga"
+    }
+  ],
+  "timestamp": "2026-10-14T03:26:33.981731195Z",
+  "model": "glm-5.3"
+}

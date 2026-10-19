@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u ka",
+      "rationale": "possessive supplied for 'their jaw-teeth' where Hebrew uses suffix alone"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרבות",
+      "rationale": "'swords' rendered npan (long knife\/sword-blade) — same cutting picture, single Bambara word covers both sword and knife"
+    }
+  ],
+  "translation": "Dɔrɔ dɔ bɛ yen minnu ka senw ye npanw ye, ani ⟨u ka⟩ lakurunenw ye sumayebɛnw ye — walasa k'ɔsiruw dun ka bɔ dugukolo la, ani wolonfibaw ka bɔ adamadenw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f9cc896ce6865786110cb870fda9604836210d20694390a2de1670ed68190b5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/30\/13-16.1791943082287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "dɔrɔ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "npanw"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "senw"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "sumayebɛnw"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "lakurunenw"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "walasa ka dun"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ɔsiruw"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ka bɔ dugukolo la"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "wolonfibaw"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ka bɔ adamadenw la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:58:02.288966990Z",
+  "model": "glm-5.3"
+}

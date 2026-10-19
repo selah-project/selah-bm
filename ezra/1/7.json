@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a batofɛnw",
+      "rationale": "אלהיו is plural 'his gods' (Nebuchadnezzar's gods); rendered with the nations'-gods term batofɛnw, not the Name Elohim."
+    },
+    {
+      "kind": "measurement",
+      "subject": "temple vessels",
+      "rationale": "The verse counts\/lists the sanctuary vessels being transferred — an inventory act between kings."
+    },
+    {
+      "kind": "crux",
+      "subject": "הוציא … הוציא",
+      "rationale": "Same verb 'brought out' used for both Cyrus and Nebuchadnezzar — removal and restoration mirror each other; Bambara keeps both as bɔ."
+    }
+  ],
+  "translation": "Ni masakɛ in Koresh ye Yawe so ka ⟨את⟩ minɛnw bɔ — minnu na Nebukadnetsar bɔlen Yerushalayim (Jerusalɛmu) na — k'a bil'a a batofɛnw so la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eee8bd7ab6d082f7e1537a767af3eb88a5a521586fc22849a3e8f006c81dff87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/1\/6-7.1791951500239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ni masakɛ in"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ye … bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe so ka minɛnw"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "minɛnw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "bɔlen"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu) na"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "k'a bila"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so la"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "a batofɛnw"
+    }
+  ],
+  "timestamp": "2026-10-14T04:18:20.240724082Z",
+  "model": "glm-5.3"
+}

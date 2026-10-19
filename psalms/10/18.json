@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yatɔmaw",
+      "rationale": "יתום ye den min fa sa — 'yatɔmaw' a lamɛn"
+    },
+    {
+      "kind": "crux",
+      "subject": "hadamaden min bɛ dugukolo la",
+      "rationale": "אנוש מן הארץ: KJV 'man of the earth may no more oppress' vs JPS 'may be terrible no more' — לערץ fɔcogo ka gɛlɛn: 'siran-bɔli' walima 'jɛgɛnsira'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kunkolo-bɛciw",
+      "rationale": "ודך ye 'kunkolo bɛci' ye — mɔgɔ min bɔra masara la (dak — daka)"
+    }
+  ],
+  "translation": "Walasa ka yatɔmaw ni kunkolo-bɛciw fisa, walisa hadamaden min bɛ dugukolo la, a kana kokura kɛ siran ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e2b23a3a01bf394a79c20d1a9c7190b1343e3bee361fa6d5f3234839841df454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/10\/17-18.1791939594699.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "walasa ka ... fisa"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatɔmaw"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "kunkolo-bɛciw"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "kokura"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kokura"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "kɛ siran ye"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "מן",
+      "gloss": "min bɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:59:54.699798100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "melt",
+      "rationale": "תמוגנו 'melt, flow away' rendered 'consume\/make melt away'; KJV 'consumed'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ממנו",
+      "rationale": "'from us' — singular pronoun for the collective, rendered 'an na' (from us)"
+    }
+  ],
+  "translation": "Sisi tɛ mɔgɔ si Min i Tɔgɔ we, ka a yɛrɛ jɔ ka i minɛ, sabu i ye i ɲɛda dogo an na, ani i ye an kɔŋɔdabɔ ni an ka jurumu bolo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/64\/5-8.1791934867783.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "sisi tɛ … si"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "Min … we"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "i Tɔgɔ"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "ka a yɛrɛ jɔ"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "ka … minɛ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "i ye … dogo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i ɲɛda"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "an na"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "ani i ye an kɔŋɔdabɔ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "an ka jurumu"
+    }
+  ],
+  "timestamp": "2026-10-13T23:41:07.785415667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bose",
+      "rationale": "חזק ye 'ka gigi \/ ka se' kɔrɔ ye; 'bose' (ka jɔya lasoli) y'a ta sabu Bambara tɛ daɲɛ tilennen dɔ sɔrɔ 'ka dugubolo saɣa' kama"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jugu",
+      "rationale": "בדק ye so walima jiɲɛ ka dogo \/ jɔyɔrɔjugu ye; 'jugu' (binya) dɔgɔya a la"
+    },
+    {
+      "kind": "elision",
+      "subject": "לבלתי",
+      "rationale": "Bamanankan tɛ sɔrɔdaɲɛ kelen na o yɛrɛ ye; a bɛ jira 'kana … k'u kana' ye"
+    }
+  ],
+  "translation": "Sarakalasebagaw y'a to ka bɔ a ma: u kana warigwɛ ta ⟨את⟩ jamaa la, k'u kana ⟨את⟩ so ka juguw bose.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "333c61034ffc91e9d99407bf98b6e91c9ef5a2654df6e1af014ea0b0467a984d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/12\/9-12.1791932973424.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "y'a to"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ la",
+      "marks": "jamaa (mɔgɔw)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "k'u kana"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "bose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "so ka jugu"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-10-13T23:09:33.427276079Z",
+  "model": "glm-5.3"
+}

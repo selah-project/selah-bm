@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש here is life-force, not a separable soul; Bambara ni keeps the life sense."
+    },
+    {
+      "kind": "crux",
+      "subject": "ברבים היו עמדי",
+      "rationale": "'Many were with me' (allies) vs 'many strove with me' (enemies, following the battle context); Bambara leaves the ambiguity, leaning toward opposition."
+    },
+    {
+      "kind": "crux",
+      "subject": "מקרב לי",
+      "rationale": "'from the battle against me' vs YLT\/JPS 'from him who is near to me'; the rare קרב means hostile encounter."
+    }
+  ],
+  "translation": "A ye ne ni fo ni hɛrɛ ye, a bɔra kɛlɛ min bɛ ne kan na; sabu mɔgɔ caman tun bɛ ne kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/55\/17-20.1791940357165.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "A ye ... fo"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ni hɛrɛ ye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ni"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kɛlɛ ... na"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne kan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "mɔgɔ caman"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tun ye"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ne kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:37.166764002Z",
+  "model": "glm-5.3"
+}

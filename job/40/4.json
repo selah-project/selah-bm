@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 40:4",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ne bilen don",
+      "rationale": "קלתי 'I am light\/small' — KJV 'vile', JPS 'of small account'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "bolo bila da kan",
+      "rationale": "hand-on-mouth gesture of silence, kept literal in Bambara"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Job addresses Yawe directly in first person"
+    }
+  ],
+  "translation": "Yala, ne bilen don; ne bɛna i jaabi ni mun ye? Ne bila ne ka bolo ne ka da kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0861b0336753d9d42fcd4fed95f86231a3761ee23ab492c70e05b2fe37917617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/40\/1-4.1791944347022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Yala"
+    },
+    {
+      "surface": "קלתי",
+      "gloss": "ne bilen don"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni mun ye"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "i jaabi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ne ka bolo"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "bila"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-10-14T02:19:07.024328489Z",
+  "model": "glm-5.3"
+}

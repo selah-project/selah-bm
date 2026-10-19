@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ka a ɲini a kɔ fɛ",
+      "rationale": "רדף literally 'to chase\/run after', often hostile; here rendered as pursuit idiom 'seek behind it'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives yɛlɛm \/ kɛ \/ ɲini",
+      "rationale": "chain of imperatives continuing the direct summons"
+    }
+  ],
+  "translation": "Yɛlɛm ka bɔ jugu la, ka wale ɲuman kɛ; hɛrɛ ɲini, ka a ɲini a kɔ fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/34\/13-16.1791939980734.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "yɛlɛm ka bɔ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ka ... kɛ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wale ɲuman"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ɲini"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ka a ɲini a kɔ fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:20.734898570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mɔgɔ",
+      "rationale": "Hebrew אין יוצא lacks an explicit subject; Bambara needs mɔgɔ si"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סגרת\/ומסגרת",
+      "rationale": "same root repeated (shut\/shut-up), infinitive absolute flavor, kept by two datugu words"
+    }
+  ],
+  "translation": "Yeriho (Jeriko) y'a yɛrɛ datugu, a datugunen don Israyel (Isirayeli) denw ɲɛfɛ; mɔgɔ si ma bɔ, mɔgɔ si ma don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "be71cc7ae851ab512c4d6208c291dcb6079c0db26b396ef784b36f0d9c454956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/6\/1-4.1791928604170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "y'a yɛrɛ datugu"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "datugunen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si ma"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "si ma"
+    },
+    {
+      "surface": "בא",
+      "gloss": "don"
+    }
+  ],
+  "timestamp": "2026-10-13T21:56:44.221060730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בנה בניתי",
+      "rationale": "Infinitive-absolute doubling 'building I built' for emphasis; rendered 'so da-ka-da' to keep the echo."
+    },
+    {
+      "kind": "hapax",
+      "subject": "זבל",
+      "rationale": "Rare word 'exalted residence' (only here and Isa 63:15 in this sense); kept as plain 'sigiyɔrɔ'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Pronoun added: Hebrew לך carries 'for you' but Bambara needs the free pronoun."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולמים",
+      "rationale": "Plural 'עוֹלָמִים' (ages) rendered as single adverbial 'jaman kɔrɔ kɔrɔ'; plural shape lost."
+    }
+  ],
+  "translation": "So da-ka-da: ne ye ⟨i⟩ ye so dɔ da — sigiyɔrɔ sumanen, i ka sigilen-yɔrɔ, jaman kɔrɔ kɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/13-16.1791931977114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "da-ka-da"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ne ye … da"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "sigiyɔrɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "sigilen-yɔrɔ"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "i ka sigilen"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "jaman kɔrɔ kɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:52:57.116929842Z",
+  "model": "glm-5.3"
+}

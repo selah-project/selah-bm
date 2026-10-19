@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבושה\/יבשו",
+      "rationale": "Root בוש repeats: 'let me not be ashamed \/ let the wicked be ashamed' — the psalmist's plea reversed onto the wicked, kept by repeating 'maya'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשאול",
+      "rationale": "Sheol kept as name, never rendered 'jahanama' or 'kɔgɔji'; rendered as destination 'ka taa Sheol'"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Direct petition addressed to God by Name"
+    }
+  ],
+  "translation": "Yawe, an kana maya, sabu m'In wele; juguw y'a to maya, k'u kun dɔgɔ ka taa Sheol.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/31\/17-20.1791939971872.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "maya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "m'In wele"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "y'a to maya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "juguw"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "k'u kun dɔgɔ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka taa Sheol"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:11.873379146Z",
+  "model": "glm-5.3"
+}

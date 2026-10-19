@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המצבות",
+      "rationale": "standing-stones \/ cult pillars rendered daliluw (memorial stones)"
+    },
+    {
+      "kind": "elision",
+      "subject": "האשרים",
+      "rationale": "proper name Asheraw kept; the 'groves\/poles' picture of the Hebrew is not unpacked"
+    }
+  ],
+  "translation": "A ye ⟨את⟩ daliluw tuguni, a ye ⟨את⟩ Asheraw gɛ, a ye ⟨את⟩ u yɔrɔw kɛɛrɛ ni hadamadenw ka kolow ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c7181d931840394dcd83a87bd06ca5d981d933ea47b0b9bb94f7c1ccd29bf53f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/23\/13-16.1791933297063.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "a-ye-tuguni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daliluw"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "daliluw"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "a-ye-gɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asheraw"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asheraw"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "a-ye-kɛɛrɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u yɔrɔw"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "u-yɔrɔw"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kolow"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamadenw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:14:57.074357826Z",
+  "model": "glm-5.3"
+}

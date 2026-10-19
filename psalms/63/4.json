@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד tɔgɔ to a fɔcogo la — kanuya \/ makari \/ ɲumanya dɔrɔn dɔgɔ a ma"
+    },
+    {
+      "kind": "addition",
+      "subject": "bɛna",
+      "rationale": "Heburukan ka niyɔrɔ dɔw la, 'bɛna' ka kɛ wajibi ye kumasen na"
+    }
+  ],
+  "translation": "Sabu i ka hesed ka ɲi ni balo ye, n dafuraw bɛna i duw kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/63\/1-4.1791940505027.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "i ka hesed"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "ni balo ye"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "n dafuraw"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "bɛna i duw kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:15:05.028144069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 6:2",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שפר קדם",
+      "rationale": "'it was good before Darius' = it pleased Darius; rendered idiomatically"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kɛmɛ ni mugan",
+      "rationale": "count of satraps: one hundred and twenty"
+    },
+    {
+      "kind": "addition",
+      "subject": "walasa",
+      "rationale": "purpose particle added for the Aramaic relative די with infinitive sense"
+    }
+  ],
+  "translation": "A ye Dareyawusu ɲɛ ye ka ahatsadarpaniw (satrapu) kɛmɛ ni mugan sigi masakɛya kan, walasa u ka donna masakɛya bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ac30af728ec1bd744f920fa1ebd1ea33394aa6c11b7b042e28140fdc2aea8b6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/6\/1-4.1791946127618.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפר",
+      "gloss": "a ye … ɲɛ ye"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Dareyawusu"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "sigi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "masakɛya"
+    },
+    {
+      "surface": "לאחשדרפניא",
+      "gloss": "ahatsadarpaniw"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "ועשרין",
+      "gloss": "mugan"
+    },
+    {
+      "surface": "די",
+      "gloss": "walasa"
+    },
+    {
+      "surface": "להון",
+      "gloss": "u ka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "masakɛya"
+    }
+  ],
+  "timestamp": "2026-10-14T02:48:47.618878400Z",
+  "model": "glm-5.3"
+}

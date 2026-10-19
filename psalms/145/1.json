@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sanjalaba",
+      "rationale": "ארוממך from רום 'to raise high'; 'sanjalaba' (to lift up) keeps the physical picture"
+    },
+    {
+      "kind": "you",
+      "subject": "to Eloa",
+      "rationale": "direct address to God as king"
+    }
+  ],
+  "translation": "Dawid ka sankyɔrɔdaɲɛ. Ne bɛ i sanjalaba, ne ka Eloa, masakɛ; ani ne bɛna i ka tɔgɔ duba fo waati bɛɛ, ani a kɔfɛ tɛ banna.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/145\/1-4.1791942017728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "sankyɔrɔdaɲɛ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ka"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ne bɛ i sanjalaba"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "ne ka Eloa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "ani ne bɛna duba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i ka tɔgɔ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "fo waati bɛɛ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ani a kɔfɛ tɛ banna"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:17.729380895Z",
+  "model": "glm-5.3"
+}

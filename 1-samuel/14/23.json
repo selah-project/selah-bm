@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עברה את בית און",
+      "rationale": "'The battle crossed over Beth-aven' — as far as (JPS) vs beyond (KJV\/BSB); the verb עבר is simple 'pass over\/cross'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Beti-Awen",
+      "rationale": "Place name literally 'Yɛlɛma-fɛn-wajibiyɔrɔ' (house of iniquity), a scornful name for Bethel; kept as name per discipline."
+    }
+  ],
+  "translation": "Yawe nana ⟨את⟩ Isirayili lasigiyɔrɔ o don na, ani kɛla in naatugura tɛmɛra ⟨את⟩ Beti-Awen (Beti-Awen) kɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b49fd63885df2a96d2978ccc58b59bb395ab14190ca45e1e92b4e9c219a09d93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/14\/21-24.1791930307175.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "nana … lasigiyɔrɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o don la"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isirayili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayili"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "ani kɛla in"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "naatugura tɛmɛra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Awen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "און",
+      "gloss": "Awen"
+    }
+  ],
+  "timestamp": "2026-10-13T22:25:07.177881015Z",
+  "model": "glm-5.3"
+}

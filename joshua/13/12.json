@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 13:12",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ale",
+      "rationale": "emphatic pronoun הוא rendered 'ale' to mark Og as the one left of the Rephaim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרפאים",
+      "gloss": "Refaden",
+      "rationale": "'giants' (Refaim) kept as a name, not 'jɔnjɔnw' — a people-name, not a size-word"
+    },
+    {
+      "kind": "measurement",
+      "subject": "verse",
+      "rationale": "kingdom inventory of Og with capital cities Ashtaroth and Edrei"
+    }
+  ],
+  "translation": "Og fanga bɛɛ min bɛ Bashan (Bashan) kɔnɔ, min ye fanga tie Ashitarot (Ashtarot) ni Edrei (Edrei) kɔnɔ — ale ye Refaden (Refaim) tɔɔrɔbali dɔ ye — Musa (Musa) ye u toɔ ka dugukolo ta u bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "59ef515b45b2be58a97755116e9fcd36a5ebb3feec3bbcc1091d8cfd672b384a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/13\/9-12.1791928768721.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "fanga"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Bashan kɔnɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "fanga tie"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "Ashitarot"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "ni Edrei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ale"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "tɔɔrɔbali dɔ ye"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "tɔɔrɔbali"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "Refaden"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "ye u toɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "וירשם",
+      "gloss": "ka dugukolo ta u bolo"
+    }
+  ],
+  "timestamp": "2026-10-13T21:59:28.723554672Z",
+  "model": "glm-5.3"
+}

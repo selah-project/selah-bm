@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 29:10",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לכרות ברית",
+      "rationale": "Hebrew 'cut a covenant' — Bambara keeps the cutting verb krɔ as the idiom for making a pact."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרון אפו",
+      "rationale": "Literally 'the burning of his nose' = flaring nostrils of anger; rendered a janto (his anger), nose-picture lost."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וישב",
+      "rationale": "Hebrew 'turn back' made causative-reflexive in Bambara: the wrath turns away from us."
+    }
+  ],
+  "translation": "Sisan, ni ne dusukun ye, ne b'a fɛ ka layidu krɔ Yawe, Elohim Israyel fɛ, walasa a ka janto-segin ka bɔ an kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a7f3b3fe272ddfa13621d46cddc865d631220f08554a31983900edf4d92e5534",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/29\/9-12.1791949612520.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni … ye"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ne dusukun"
+    },
+    {
+      "surface": "לכרות",
+      "gloss": "krɔ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe fɛ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bɔ … kan"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "janto-ɲagami"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "a janto"
+    }
+  ],
+  "timestamp": "2026-10-14T03:46:52.520931458Z",
+  "model": "glm-5.3"
+}

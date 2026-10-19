@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 17:6",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הדבר דברתי",
+      "rationale": "infinitive-absolute doubling, 'a word I spoke', flattened to kuma dɔrɔn de"
+    },
+    {
+      "kind": "elision",
+      "subject": "את אחד",
+      "rationale": "first את is prepositional 'with', yet marked as ⟨את⟩ per the signpost rule"
+    },
+    {
+      "kind": "you",
+      "subject": "to the judges of Israel",
+      "rationale": "the quoted question directly addresses Israel's leaders, reported now to David"
+    }
+  ],
+  "translation": "Yɔrɔ bɛɛ min ne taamɛra Yisrayeli bɛɛ kɔnɔ, kuma dɔrɔn de ne fɔra ni ⟨את⟩ jatigɛ dɔ ye minnu ne y'i kɛ i k' an jama balo, ko: mun na aw ma dilan ne ye so min bɛ ni sedari jirow ye?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "51fa833a2ecc9da6910dc5d9e6b708edef6d6190a0053f1802801e339be2c13a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/17\/5-8.1791948179977.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ne taamɛra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ne fɔra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jatigɛ dɔ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "dɔ"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "jatigɛw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ne y'i kɛ"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "k' o balo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n ka jama"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n ka jama"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בניתם",
+      "gloss": "aw ma dilan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedari jirow"
+    }
+  ],
+  "timestamp": "2026-10-14T03:22:59.978394392Z",
+  "model": "glm-5.3"
+}

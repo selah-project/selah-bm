@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ka taa Tora kɔnɔ",
+      "rationale": "'walk in his law' is Hebrew idiom for living obediently, kept semi-literally"
+    }
+  ],
+  "translation": "U ma Elohim ka layidu kɔlɔsi, u y'a gɛsɛ Tora min na a bɛɛ ka taa o kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/9-12.1791940749004.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "Tora min na … o kɔnɔ"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "u y'a gɛsɛ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ka taa"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:09.004989593Z",
+  "model": "glm-5.3"
+}

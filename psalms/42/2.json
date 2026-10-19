@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תערג",
+      "rationale": "Rare verb, 'pant\/gasplong for'; Bambara ɲini (seek) captures the longing, loses the physical gasping."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תערג ... תערג",
+      "rationale": "The verb repeats in both halves of the simile — deer and soul seek alike."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nin",
+      "rationale": "נפש is throat\/breath\/life-force, not immaterial 'soul'; Bambara nin (life-breath) keeps the concrete sense."
+    },
+    {
+      "kind": "addition",
+      "subject": "Yawe",
+      "rationale": "The psalm's singer addresses Elohim directly; the vocative Name added once for clarity per D1 discipline — {Yawe}."
+    }
+  ],
+  "translation": "I n'a fɔ sɛgɛsɛgɛbagan min bɛ ji kɔnɔna ɲini, nin nin in de bɛ Ala, i Yawe ɲini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/42\/1-4.1791940147213.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "sɛgɛsɛgɛbagan"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "bɛ ɲini"
+    },
+    {
+      "surface": "על",
+      "gloss": "<ni>"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ji kɔnɔna"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nin nin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nin in"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "bɛ ɲini"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i de"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ala"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:07.214241671Z",
+  "model": "glm-5.3"
+}

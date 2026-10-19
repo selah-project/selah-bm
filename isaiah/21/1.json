@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kɔgɔji dɛsɛrɛ",
+      "rationale": "מדבר ים: 'desert of the sea' vs 'desert toward the sea' (Babylon by the Euphrates) vs a title like 'the wasteland of the sea'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "כסופות",
+      "rationale": "Rare word rendered as hurricane\/whirlwind; from סופה (storm), plural of intensity."
+    },
+    {
+      "kind": "mystery",
+      "subject": "bilen-kuma",
+      "rationale": "Oracle-burden opens deliberately opaque: who comes, from where, is withheld."
+    }
+  ],
+  "translation": "Bilen-kuma min bɛ kɔgɔji dɛsɛrɛ la: i n'a fɔ nifɛw minnu bɛ worodugu ka tɛmɛ, a bɛ na dɛsɛrɛ la fɛ, ka bɔ dugukolo min bɛ siran di na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "75ad1e40dba5f69429b035087f8bd8929945858256804858b38a0d6746d47e1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/21\/1-4.1791933848323.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "bilen-kuma"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dɛsɛrɛ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "nifɛw"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "worodugu"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "ka tɛmɛ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "dɛsɛrɛ la fɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bɛ na"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "min bɛ siran di"
+    }
+  ],
+  "timestamp": "2026-10-13T23:24:08.325652181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "refrain",
+      "rationale": "V12 repeats the refrain of v8 verbatim, closing the psalm's third strophe"
+    },
+    {
+      "kind": "crux",
+      "subject": "משגב",
+      "rationale": "'high cliff\/lofty place' — refuge, fortress, high tower; rendered sirayɔrɔ (hiding-place)"
+    }
+  ],
+  "translation": "Yawe, masaw bɛɛ tigi, bɛ an bolo; Yakuba ka Ala ye an ka sirayɔrɔ ye. Selah.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/46\/9-12.1791940193272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "masaw bɛɛ tigi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bɛ an bolo"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "sirayɔrɔ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an ka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakuba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:53.274020455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Hebrew ma kɔlɔsida sɔrɔ — Bamanankan de wajibiya o la."
+    },
+    {
+      "kind": "substitution",
+      "subject": "furakɛbali",
+      "rationale": "זנות ye diinɛ-juguya ɲɛfɔli ye (batofɛnw lamini), nka a fɔcogo tiɲɛ don furakɛli."
+    }
+  ],
+  "translation": "Yisrayɛla (Izrayɛli) so la, ne ye fɛn min ye, o ye fɛn-jagujugu ye; yen, Efrayim ka furakɛbaliw bɛ, Yisrayɛla juguya don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4c212fba03380a400af8e336dee8efce17cec33a4ad7e25fdf71794ce997d413",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/6\/9-11.1791938221840.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "so la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛla"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ne ye … ye"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "fɛn-jagujugu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "furakɛbaliw"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim ka"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "juguya don"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛla"
+    }
+  ],
+  "timestamp": "2026-10-14T00:37:01.841365830Z",
+  "model": "glm-5.3"
+}

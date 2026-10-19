@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 25:11",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kɛnɛ tan",
+      "rationale": "The slain are counted: ten thousand, an exact figure."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויך",
+      "rationale": "Literally 'struck'; context is slaughter, rendered 'faga' (to kill)."
+    },
+    {
+      "kind": "addition",
+      "subject": "Kunu-Dala",
+      "rationale": "Valley of Salt rendered as a compound place-name, glossing both Hebrew words (gorge + salt)."
+    }
+  ],
+  "translation": "Amatsiyahu jɔyara, a y'a minɛ a jamaa ta, ka taa Kunu-Dala (Gey-Hamelahe) la, a ye ⟨את⟩ Seɛr (Seir) denw faga kɛnɛ tan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "adeb4fbc7dfb7d7136c39e542b0cc030b63a84b4f5805dd0a91ba92ee21fbe4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/25\/10-11.1791951642052.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמציהו",
+      "gloss": "Amatsiyahu"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "jɔyara"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "a y'a minɛ ka taa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a jamaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a jamaa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "dala"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "kunu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a ye … faga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seɛr denw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seɛr"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kɛnɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:20:42.053640122Z",
+  "model": "glm-5.3"
+}

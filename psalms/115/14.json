@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עליכם עליכם",
+      "rationale": "עליכם doubled for emphasis — 'to you, to you' — kept by aw kan \/ aw yɛrɛ kan."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Priestly blessing addressed directly to the congregation."
+    }
+  ],
+  "translation": "Yawe bɛna a fara aw kan, aw yɛrɛ kan, ni aw denw ka kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "652038461db896d09c1e055692ab7e1f331f593d011a274ead61c51487c8f78a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/115\/14-15.1791951219036.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "bɛna a fara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aw kan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aw yɛrɛ kan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "aw denw ka kan"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:39.036610089Z",
+  "model": "glm-5.3"
+}

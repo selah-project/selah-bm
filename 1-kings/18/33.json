@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɛ dɔrɔn-dɔrɔn",
+      "rationale": "וינתח 'dismember' rendered 'cut piece-by-piece'; no single Bambara verb for dismembering a carcass"
+    },
+    {
+      "kind": "addition",
+      "subject": "in",
+      "rationale": "Bambara needs the definite suffix -in where Hebrew has the article ה"
+    }
+  ],
+  "translation": "A ye ⟨את⟩ jiriw sɔsɔ ɲɔgɔn na, a ye ⟨את⟩ misiken in kɛ dɔrɔn-dɔrɔn, a y'a bila jiriw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6e181a50c7be3ae0ddb4e3bbf164542da036ad17ed6af16a55e27f40751f2b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/18\/33-36.1791932423802.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "a ye … sɔsɔ ɲɔgɔn na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiriw"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "jiriw"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "kɛ dɔrɔn-dɔrɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misiken in"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "misiken in"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a y'a bila"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "jiriw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:00:23.804649787Z",
+  "model": "glm-5.3"
+}

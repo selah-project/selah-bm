@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wele",
+      "rationale": "רנה is a shrill creaking cry of joy or grief; Bambara 'wele' covers the shout but not the creaking sound"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o ye⟩",
+      "rationale": "Bambara preposition needed to govern 'jalaki' where Hebrew imperative suffices"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "Two imperatives open the psalm as a summons to Elohim"
+    }
+  ],
+  "translation": "Mɛn n wele, Elohim; hakeni n ka jalaki ma ⟨o ye⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/61\/1-4.1791940497398.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "n wele"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "hakeni"
+    },
+    {
+      "surface": "תפילתי",
+      "gloss": "n ka jalaki"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:57.399405395Z",
+  "model": "glm-5.3"
+}

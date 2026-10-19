@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "kings and rulers",
+      "rationale": "Direct speech of the rebels of v2, quoted without introduction."
+    },
+    {
+      "kind": "substitution",
+      "subject": "an kan",
+      "rationale": "Hebrew ממנו is 'from him\/us' — pronominal suffix; rendered 'from us' as the rebels speak."
+    }
+  ],
+  "translation": "“An ka ⟨את⟩ u ka tuguniw sisɛ, ani an ka u ka sanyɔrɔw bɔ an kan.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/2\/1-4.1791939525170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "an ka sisɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka tuguniw"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "u ka tuguniw"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "ani an ka bɔyi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "an kan"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "u ka sanyɔrɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:45.171931876Z",
+  "model": "glm-5.3"
+}

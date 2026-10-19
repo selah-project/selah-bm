@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jikogo",
+      "rationale": "האי is coast\/island; 'jikogo' (shore-place) keeps the coastal sense rather than only 'island'"
+    },
+    {
+      "kind": "crux",
+      "subject": "beyond the sea",
+      "rationale": "בעבר הים: 'across\/beyond the sea' — direction depends on where the reader stands; rendered 'kɔgɔji labala' (across the sea)"
+    }
+  ],
+  "translation": "ani ⟨את⟩ Tsor (Tire) masakɛw bɛɛ, ani ⟨את⟩ Tsidon (Sidɔn) masakɛw bɛɛ, ani ⟨את⟩ jikogo minnu bɛ kɔgɔji labala, olu masakɛw",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e1b51c28eab451440b34b6a85e538d00829d1f35ff1be96fadeb38ee8e462046",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/25\/21-24.1791935546979.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Tsor masakɛw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Tsidon masakɛw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "jikogo masakɛw"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "האי",
+      "gloss": "jikogo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "labala"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    }
+  ],
+  "timestamp": "2026-10-13T23:52:26.980343926Z",
+  "model": "glm-5.3"
+}

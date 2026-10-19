@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne ka",
+      "rationale": "Hebrew first-person suffix rendered as possessive phrase, Bambara lacks suffix pronouns on nouns"
+    },
+    {
+      "kind": "alternative",
+      "subject": "My steps have held fast",
+      "rationale": "תמך read as 'my steps hold to' (ASV\/JPS) rather than imperative 'hold up my steps' (KJV\/Geneva)"
+    }
+  ],
+  "translation": "Ne ka taasiraw bɛ i ka siraw la mara, ne ka anansenw tuma bɛɛ ma taw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/17\/5-8.1791939651839.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "bɛ…mara"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ne ka taasiraw"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "i ka siraw la"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tuma bɛɛ"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "ma taw"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ne ka anansenw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:51.840268483Z",
+  "model": "glm-5.3"
+}

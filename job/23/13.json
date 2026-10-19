@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 23:13",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kelen-fɛ",
+      "rationale": "באחד: 'in one (mind)' vs 'alone' vs 'unchangeable' — versions divide"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש here is seat of desire\/life-force, not merely 'soul'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותה",
+      "rationale": "verb אוה 'desired', not the את object-marker — no ⟨את⟩ bracket warranted"
+    }
+  ],
+  "translation": "A bɛ kelen-fɛ, ani mɔgɔ dɔ bɛ se ka a wuli? A ni men dama, o de a bɛ kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fb4e44f48d8a1c38a76e7ea64ac851ffe16ffc4c5f9289da14f18530d661717b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/23\/13-16.1791943855170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "kelen-fɛ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ani mɔgɔ dɔ bɛ"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "se ka a wuli"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "b'a dama"
+    },
+    {
+      "surface": "ומי ישיבנו… ויעש",
+      "gloss": "o de a bɛ kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:10:55.171674117Z",
+  "model": "glm-5.3"
+}

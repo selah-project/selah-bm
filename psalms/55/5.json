@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אימות\/מות",
+      "rationale": "Terrors (אימות) and death (מות) differ by one letter — near-identical sound, lost in Bamanankan."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wulila",
+      "rationale": "חוּל is to twist\/writhe, not merely tremble; the writhing picture is kept partly."
+    }
+  ],
+  "translation": "Dusukunna bɛ wulila n kɔnɔ, ani sayasiranba na n kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/55\/5-8.1791940328916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "dusukunna"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "bɛ wulila"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "n kɔnɔ"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "ani sayasiranba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "saya"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:08.917052283Z",
+  "model": "glm-5.3"
+}

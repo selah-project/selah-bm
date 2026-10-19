@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "hesed",
+      "rationale": "חסד kept untranslated by discipline; one Bambara word would narrow it"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "petition addressed directly to Yawe"
+    }
+  ],
+  "translation": "A n'na, i ka hesed ka kɛ ne bɔyɔrɔ ye, i y'a fɔ cogo min na i ka dɛmkɛtɔ ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "46f8de14e78cfb5e23511b2a2f66feec5d4c8bfa32810a665daaa2ee44872858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/73-76.1791941642712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "a n'na"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "i ka hesed"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "ne bɔyɔrɔ (bɔ ne ma)"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "i y'a fɔ cogo min na"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "i ka dɛmkɛtɔ ma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:02.713626513Z",
+  "model": "glm-5.3"
+}

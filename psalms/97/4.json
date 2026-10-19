@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "giridan",
+      "rationale": "חול literally 'to twist, writhe' (as in labor pains); Bambara 'tremble' loses the writhing image."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תבל \/ הארץ",
+      "rationale": "Two different Hebrew words for earth in one verse (tevel, erets); Bambara collapses both into dugukolo."
+    }
+  ],
+  "translation": "A ka sanjilew ye yeelen di dugukolo ma; dugukolo ye a ye, ka giridan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/97\/1-4.1791941173778.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "ye yeelen di"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "a ka sanjilew"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ye a ye"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ka giridan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:13.779469187Z",
+  "model": "glm-5.3"
+}

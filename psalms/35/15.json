@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצלעי",
+      "rationale": "a kɔrɔ ko 'n ka kenɛ-ŋgirili' (limping) — YLT 'in my halting'; KJV\/ASV fɔla ko 'n ka gɛlɛya waati'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכים",
+      "rationale": "nɛkɛw = smiters\/koɲumabagaw (figurative: kuma-jugutigiw, traducers) — KJV 'the abjects'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא דמו",
+      "rationale": "'u tun ma a bila' (they ceased not, KJV) ni 'u tun ma kuma dogo' (they were not silent, jalaki ma jaabi) yɛlɛma bɛ yen minnu cɛ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונאספו נאספו",
+      "rationale": "kumaw fila-fila kelen-kelen (infinitive-like repetition) min bɛ lajɛli caya — a mara Bamanankan na ni 'lakelena' kelen ye, a kumara dɔlen don"
+    }
+  ],
+  "translation": "Nka ni n tun bɛ nɔgɛya la, u dondiyera ani u lakelena; nɛkɛw lakelena n kan, ⟨mɔgɔw⟩ minnu ma n dɔn; u ye n ɲagami, u tun ma a bila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/35\/13-16.1791940011737.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "ni n tun bɛ nɔgɛya la"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "u dondiyera"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "u lakelena"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "lakelena"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n kan"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "nɛkɛw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "n dɔn"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "u ye n ɲagami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u tun ma"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "a bila"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:51.738905164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔgɔji",
+      "rationale": "הים here is the great bronze basin, not a literal sea; rendered 'kɔgɔji' keeping the Hebrew picture of a sea."
+    },
+    {
+      "kind": "measurement",
+      "subject": "misiw fila ni tan",
+      "rationale": "Count of twelve oxen under the Sea — inventory count."
+    }
+  ],
+  "translation": "⟨את⟩ kɔgɔji kelen, ani ⟨את⟩ misiw fila ni tan, minnu bɛ a jugu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2723865abed1ce2cc8f9d3c4705274dfdcb6f38f134fd8a0e66c9ae8b7dfd864",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/4\/13-16.1791948608241.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kɔgɔji"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "misiw"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "misiw"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "fila"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tan"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a jugu la"
+    }
+  ],
+  "timestamp": "2026-10-14T03:30:08.242325798Z",
+  "model": "glm-5.3"
+}

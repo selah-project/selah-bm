@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ילבט",
+      "rationale": " lemma לבט appears only here in the Tanakh — to overthrow \/ fall, rendered 'bɔn' (fall)."
+    },
+    {
+      "kind": "crux",
+      "subject": "עצבת",
+      "rationale": "'Pain\/sorrow' versus 'idol' (same lemma as עצב); KJV 'sorrow' chosen, some read 'gives offence\/trouble'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ו-",
+      "rationale": "Hebrew waw-contrastive dropped; Bambara 'nka' carries the antithesis of the whole clause."
+    }
+  ],
+  "translation": "Min bɛ ɲɛ daabu, a bɛ nɔngɔya di; nka daɲɛfɔ balenbɛ bɛ bɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/10\/9-12.1791942371689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "daabu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a bɛ ... di"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "nɔngɔya"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "nka ... balenbɛ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "daɲɛfɔ"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "bɛ bɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:46:11.690797824Z",
+  "model": "glm-5.3"
+}

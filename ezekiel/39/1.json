@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 39:1",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Rosh",
+      "rationale": "ראש: yɔrɔ-tɔgɔ ye 'Rosh' (YLT, ASV) walima 'kɔrɔba\/ɲɛmɔgɔ' (KJV, JPS); an ye Rosh tɔgɔ mara a cogo la."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bamanankan bɛ fɔcogo-mamalen wajibiya min Hebrew ma t'a la (i min ye … ye)."
+    },
+    {
+      "kind": "you",
+      "subject": "Gog",
+      "rationale": "Yawe ka kuma direct Gog la n'a fɔ 'ne bɛ i la'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nabiya-kuma kɛ",
+      "rationale": "הנבא ye nabi-baara-kɛli ye; 'nabi' sɛbɛnna sariya kɔrɔ (kira tɛ fɔ)."
+    }
+  ],
+  "translation": "Ni i, hadamaden, na Gog kan nabiya-kuma kɛ, k'a fɔ ko: Nin cogo de Adonay Yawe y'a fɔ: Nin de, ne bɛ i la, Gog, i min ye Rosh masa-ɲɛmɔgɔ ye, Moshɛk (Mosɔk) ani Tubal.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "83cbe533db1a380cefecac75c8d344738bf03fbb58e4feea44b3365816bb1f4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/39\/1-4.1791937725657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ni i"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "nabiya-kuma kɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Gog"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "k'a fɔ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nin cogo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nin de"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Gog"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "masa-ɲɛmɔgɔ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Rosh"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Moshɛk"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ani Tubal"
+    }
+  ],
+  "timestamp": "2026-10-14T00:28:45.658345481Z",
+  "model": "glm-5.3"
+}

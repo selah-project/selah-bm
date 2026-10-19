@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezekiel 16:46",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "numan\/kinin",
+      "rationale": "שׂמאול\/ימין are left\/right by a person facing east, hence north\/south; Bambara keeps the bodily terms as the Hebrew's shape."
+    },
+    {
+      "kind": "addition",
+      "subject": "a ni a denmusow",
+      "rationale": "Bambara word order moves the 'she and her daughters' apposition after the verb; bracketed as repositioned supply."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerusalem",
+      "rationale": "Jerusalem addressed between her sisters Samaria and Sodom."
+    }
+  ],
+  "translation": "I balimamuso min ka bon, Shomron (Samariya) de ye, ⟨a ni a denmusow⟩, min sigilen b'i numan fɛ; i balimamuso fitinin min ka surun i ye, min sigilen b'i kinin fɛ, Sɛdɔm (Sodom) de ye, ⟨a ni a denmusow⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7e6b8f0a246a31ef6164bdc24a33f1b4a87ec2334b83df7fde8501f7244db9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/16\/45-48.1791936938387.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחותך",
+      "gloss": "i balimamuso"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "min ka bon"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "היא",
+      "gloss": "de ye"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "a denmusow"
+    },
+    {
+      "surface": "היושבת",
+      "gloss": "min sigilen"
+    },
+    {
+      "surface": "על",
+      "gloss": "b'…fɛ"
+    },
+    {
+      "surface": "שמאולך",
+      "gloss": "i numan"
+    },
+    {
+      "surface": "ואחותך",
+      "gloss": "i balimamuso"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "fitinin"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ka surun i ye"
+    },
+    {
+      "surface": "היושבת",
+      "gloss": "min sigilen"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "i kinin"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sɛdɔm"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "a denmusow"
+    }
+  ],
+  "timestamp": "2026-10-14T00:15:38.388672141Z",
+  "model": "glm-5.3"
+}

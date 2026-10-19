@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezekiel 16:52",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sabu",
+      "rationale": "Bamanankan needs sabu ('because') before the final clause; Hebrew juxtaposes בְּצַדֶּקְתֵּךְ without a conjunction."
+    },
+    {
+      "kind": "elision",
+      "subject": "את (twice)",
+      "rationale": "Both occurrences of את here are the pronoun 'you' (אתה), not the direct-object marker; glossed i, not ⟨את⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerusalem",
+      "rationale": "Chain of feminine-singular imperatives (שאי, בושי) aimed at Jerusalem."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ka ta maloya",
+      "rationale": "שאי כלמתך 'lift your disgrace' = bear your shame; the lifting image kept with ta."
+    }
+  ],
+  "translation": "I fana, ta i ka maloya, min na i ye i balimamusow datugu — i jurumuw la, minnu na i y'i kɛ tobi ye u ye kɔrɔ, u bɛ tiɲɛ fo i ye kɔrɔ; ani i fana, iya magban, ka ta i ka maloya, sabu i y'i balimamusow tiɲɛsigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "11436f26deb30e38b9fff9f31115d76b995975d0fa84d352fc9f8be2658ce8dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/16\/49-52.1791936923794.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "את",
+      "gloss": "i"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כלמתך",
+      "gloss": "i ka maloya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min na"
+    },
+    {
+      "surface": "פללת",
+      "gloss": "i ye ... datugu"
+    },
+    {
+      "surface": "לאחותך",
+      "gloss": "i balimamusow"
+    },
+    {
+      "surface": "בחטאתיך",
+      "gloss": "i jurumuw la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu na"
+    },
+    {
+      "surface": "התעבת",
+      "gloss": "i y'i kɛ tobi ye"
+    },
+    {
+      "surface": "מהן",
+      "gloss": "u ye kɔrɔ"
+    },
+    {
+      "surface": "תצדקנה",
+      "gloss": "u bɛ tiɲɛ fo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "i ye kɔrɔ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ani fana"
+    },
+    {
+      "surface": "את",
+      "gloss": "i"
+    },
+    {
+      "surface": "בושי",
+      "gloss": "iya magban"
+    },
+    {
+      "surface": "ושאי",
+      "gloss": "ka ta"
+    },
+    {
+      "surface": "כלמתך",
+      "gloss": "i ka maloya"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "i yɛ tiɲɛsigi"
+    },
+    {
+      "surface": "אחיותך",
+      "gloss": "i balimamusow"
+    }
+  ],
+  "timestamp": "2026-10-14T00:15:23.795959860Z",
+  "model": "glm-5.3"
+}

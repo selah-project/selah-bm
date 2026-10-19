@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפני אמי",
+      "rationale": "Literally 'upon the face of my mother', an idiom of presence; rendered with locative ɲɛ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחיד",
+      "rationale": "'Only\/sole' vs KJV 'only beloved' — kelen de keeps the sole-child sense"
+    }
+  ],
+  "translation": "Sabu n ye kɛ den ye n ka fa ye, dɛnɔgɔman, kelen de, n ka ma ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8193dd1e1a15088d271e3e8876229dd56aaaf0387a15856dd2753f7772c259d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/4\/1-4.1791942186109.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "n ye kɛ … ye"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "n ka fa"
+    },
+    {
+      "surface": "רך",
+      "gloss": "dɛnɔgɔman"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "kelen de"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "… ɲɛ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "n ka ma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:43:06.110162046Z",
+  "model": "glm-5.3"
+}

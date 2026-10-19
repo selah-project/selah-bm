@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ni",
+      "rationale": "ve- (waw) ka bɔ Heburukan kɔnɔ, Bamanankan ka 'ni' de wajibiya jateden nimɔrɔw la"
+    },
+    {
+      "kind": "measurement",
+      "subject": "jateden",
+      "rationale": "layidu-den jate: mɔgɔ duru kɛmɛ duuru ni muguw"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Arah denw",
+      "rationale": "בני ארח fɔlɛ fɔcogo: 'Arah denw' walima 'Arah sofa — a denw'; 'denw' de ta ya"
+    }
+  ],
+  "translation": "Arah (Ara) denw, kɛmɛ duru ni duuru ni biɔn saba ni mugan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "37cd2e573e23a28e72b4bc193a836942b599cb26a4b608ddc299c345aca1ac41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/2\/5-8.1791946285005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Arah"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "duru"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "duuru"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ni biɔn saba ni mugan"
+    }
+  ],
+  "timestamp": "2026-10-14T02:51:25.006274146Z",
+  "model": "glm-5.3"
+}

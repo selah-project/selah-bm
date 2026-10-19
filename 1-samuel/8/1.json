@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka kɛ … ye",
+      "rationale": "Bamanankan bɛ fɛ ka 'sariyakɛlaw ye' fara a kan, Heburukan ka 'שפטים' kelen dɔrɔ de bɛ yen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sariyakɛlaw",
+      "rationale": "שופטים ye 'sariya-kɛlaw' ye — dɔgɔtɔrɔya tɛ, jatebaga-tali ye"
+    }
+  ],
+  "translation": "Kɔrɔna na, ni Shemuɛl (Samueli) kunbanna, a ye ⟨את⟩ a denw bilala ka kɛ sariyakɛlaw ye Isirayeli (Izraɛl) kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d1ec159518378571bd01164a52afac388618af46ba725b2458b1ed4b7bc9b6dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/8\/1-4.1791929984111.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kɔrɔna na"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ni"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "kunbanna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuɛl"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ye … bilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a denw"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a denw"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "sariyakɛlaw"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isirayeli kan"
+    }
+  ],
+  "timestamp": "2026-10-13T22:19:44.111790782Z",
+  "model": "glm-5.3"
+}

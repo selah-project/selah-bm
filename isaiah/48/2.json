@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Yerushalayim",
+      "rationale": "Heburukan ma dugu tɔgɔ fɔ — 'dugu senuma' dɔrɔn de bɛ sɛbɛn in kɔnɔ; ɲɛfɔli-faralen b'a fɔko fɔlɔ la."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sebaot",
+      "rationale": "צבאות kɔrɔ ye 'sosayaw' ye — sɛbɛn-yɛlɛma de b'a mara (Sebaot), k'a tɛmɛ Bamanankan daɲɛ la."
+    },
+    {
+      "kind": "elision",
+      "subject": "ועל",
+      "gloss": "⟨kan⟩",
+      "rationale": "Daɲɛ min bɔ Hebrew la, o bɛ sɛbɛn ⟨kan⟩ ye Bambara kɔnɔ — a tɛ yi ye."
+    }
+  ],
+  "translation": "Sabu u bɛ dugu senuma (Yerushalayim) tɔgɔ ta fɔ, ani u bɛ Yisrayɛl Elohim la balan — Yawe Sebaot, o de ye a tɔgɔ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cda11b13bf2b36aefddd31eb661cddcb70e94a82672595102bb5f19d6e0e5692",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/48\/1-4.1791934483124.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "u bɛ fɔ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛl"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "u bɛ balan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a tɔgɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:34:43.126216538Z",
+  "model": "glm-5.3"
+}

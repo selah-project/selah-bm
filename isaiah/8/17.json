@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 8:17",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וחכיתי \/ וקויתי",
+      "rationale": "Two near-synonymous verbs of waiting frame the verse; Bambara repeats 'bɛnna' to keep the envelope"
+    },
+    {
+      "kind": "you",
+      "subject": "first-person speech",
+      "rationale": "The prophet speaks in the I, contrasting his waiting with the people's seeking elsewhere"
+    }
+  ],
+  "translation": "N bɛnna Yawe, min bɛ a ɲɛda dogo Yakubu so la, nka n bɛnna ⟨a⟩ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e832904571fae8121561e3eba20d8ef95608fe040f17ce25c89e5ae9e27d3d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/8\/17-20.1791933592941.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחכיתי",
+      "gloss": "n bɛnna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המסתיר",
+      "gloss": "min bɛ … dogo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "a ɲɛda"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…so la"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakubu"
+    },
+    {
+      "surface": "וקויתי",
+      "gloss": "n bɛnna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:19:52.945906438Z",
+  "model": "glm-5.3"
+}

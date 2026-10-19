@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jansi",
+      "rationale": "נגף ye gɔnsɛcogo ye — a kɔrɔ ye 'ka butu da \/ ka ban', nin ye jansi-jirili ye"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Yawe bɛ Isirayili jama kuma ɲɛda la a ka kumasen in kɔnɔ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בקרבו",
+      "rationale": "'a kɔnɔ na' — Misira ka kɔnɔ; sɛbɛnnibaga dɔw fɔ 'aw bɛɛ la'"
+    }
+  ],
+  "translation": "N ye ⟨את⟩ Moshe (Musa) ni ⟨את⟩ Aharɔn (Aron) ci, ani n ye ⟨את⟩ Misira jansi, nin ma n ye kɛ a kɔnɔ na; o kɔfɛ, n ye ⟨את⟩ aw bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cffd34a95ac2e4f8908f22c7ec63b5b4240f72d2697b5198d9be01b35a11d94e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/24\/5-8.1791929153304.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "n ye … ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharɔn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharɔn"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "jansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misira"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misira"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nin ma"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "n ye kɛ"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "a kɔnɔ na"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "o kɔfɛ"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "n ye … bɔ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:05:53.306305007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרית",
+      "rationale": "'Winnow\/scatter' (KJV 'compassest', JPS 'measurest'); winnowing-fan picture — sifting each step like grain — rendered 'ɲini'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הסכנתה",
+      "rationale": "סכן 'be familiar with, cherish' — some read 'you cherish\/attend to all my ways', not merely 'know'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "m'fɛnsɛn",
+      "rationale": "רבעי 'prostration for sleep', lying stretched out; rendered 'fɛnsɛn' (lying down)."
+    }
+  ],
+  "translation": "I ye ɲini m'sira ni m'fɛnsɛn; i dɔn m'siraw bɛɛ ⟨yɛrɛ⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a4b3baebe4f921a8458c1fba214a9e6e34489db7b93a8b2a4c0af9d83bb54218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/139\/1-4.1791941875941.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "m'sira"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "m'fɛnsɛn"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "i ye ɲini"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "m'siraw"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "i dɔn ɔ yɛrɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:55.942102919Z",
+  "model": "glm-5.3"
+}

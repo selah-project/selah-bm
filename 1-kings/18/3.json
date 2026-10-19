@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨la⟩",
+      "rationale": "Bambara locative postposition la supplied where Hebrew על 'over' governs the office idiom 'who is over the house'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "so ɲɛfɛ",
+      "rationale": "Hebrew idiom 'who is over the house' = palace steward, rendered descriptively"
+    }
+  ],
+  "translation": "Ahab weleli Obadaya (Obadya), min bɛ ⟨la⟩ so ɲɛfɛ; Obadaya tun ye Yawe ⟨את⟩ siran siranba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "781c82a8b834ea216c90b635122e729291a135ea44a2d53a3a05042c8dcdc845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/18\/1-4.1791932409353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "weleli"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… fɛ"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "על",
+      "gloss": "… ɲɛfɛ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "Obadaya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tun ye"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "siran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "siranba"
+    }
+  ],
+  "timestamp": "2026-10-13T23:00:09.361331772Z",
+  "model": "glm-5.3"
+}

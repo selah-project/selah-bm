@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תבער",
+      "rationale": "Hebrew 'burn up\/consume'; rendered 'bɔ' (remove) as most versions do; literal fire-image lost."
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Direct address to Israel (the elders acting for the community) continuing the ritual instruction."
+    }
+  ],
+  "translation": "Ni o yɛlɛmali kɛra, i bɛna ⟨את⟩ joli min nunu bɔ i kɔnɔ cɛma, sabu i bɛna yɛrɛ-sira kɛ Yawe ka ɲɛw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8ad1da0e2ebf400578b100d2f5cf7aab2e4391626019673be8dd8334c3ea8e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/21\/9-12.1791927971625.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "bɛna … bɔ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "joli"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "min nunu"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "i kɔnɔ cɛma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "bɛna … kɛ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "yɛrɛ-sira"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ka ɲɛw la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:11.626941432Z",
+  "model": "glm-5.3"
+}

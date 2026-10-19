@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "Hebrew verb forms carry the 'they' subject; Bambara needs the pronoun supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wili ka yɛlɛmɛ",
+      "rationale": "ימוטו is 'totter\/slip\/shake' — foundations shaking loose, rendered with two verbs"
+    },
+    {
+      "kind": "crux",
+      "subject": "yɛlɛmɛ",
+      "rationale": "'all foundations of the earth are moved\/shaken' — some read moral order collapsing, others cosmic upheaval"
+    }
+  ],
+  "translation": "⟨U⟩ tɛ dɔn, ⟨u⟩ tɛ faamu; dibi kɔnɔ ⟨u⟩ bɛ taamɛ: dugukolo julabɔyɔrɔw bɛɛ bɛ wili ka yɛlɛmɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/82\/5-8.1791940840655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani tɛ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "faamu"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "dibi kɔnɔ"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "taamɛ"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "wili ka yɛlɛmɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "julabɔyɔrɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:40.655782755Z",
+  "model": "glm-5.3"
+}

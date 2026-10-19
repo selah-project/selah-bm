@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 1:11",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bɛ ɲɛgɛn sanfɛ",
+      "rationale": "פרדות מלמעלה: 'spread upward' (KJV\/JPS) vs 'separate above' (ASV\/YLT) — the verb can mean split apart or stretched out"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ko",
+      "rationale": "גויה is the living body; Bambara 'ko' covers body\/skin, closest single word"
+    }
+  ],
+  "translation": "U ɲɛdaw ni u seniw bɛ ɲɛgɛn sanfɛ: kelen bɛɛ, fila ninnu bɛ ɲɔgɔn mara, fila ninnu bɛ ⟨את⟩ u kow di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c2064f9d6c31054ecd64abb83845003ab14c943a031c8a1077ece208ee717401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/1\/9-12.1791936503305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופניהם",
+      "gloss": "u ɲɛdaw"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "u seniw"
+    },
+    {
+      "surface": "פרדות",
+      "gloss": "bɛ ɲɛgɛn"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kelen bɛɛ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "fila"
+    },
+    {
+      "surface": "חברות",
+      "gloss": "ninnu bɛ ɲɔgɔn mara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "fila"
+    },
+    {
+      "surface": "מכסות",
+      "gloss": "ninnu bɛ … di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u kow (their bodies)"
+    },
+    {
+      "surface": "גויתיהנה",
+      "gloss": "u kow"
+    }
+  ],
+  "timestamp": "2026-10-14T00:08:23.306910422Z",
+  "model": "glm-5.3"
+}

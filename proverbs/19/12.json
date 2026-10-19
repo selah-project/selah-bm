@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sɔgɔma ji",
+      "rationale": "טל is dew; no plain Bambara word — rendered 'morning water' descriptively"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפיר",
+      "rationale": "young lion (as covered\/hidden); 'warabaden' (lion-child) keeps the youth, loses the 'covered' root"
+    }
+  ],
+  "translation": "Masakɛ ka jaabi ye warabaden ka gbɔngboli ye i n'a fɔ; nka a kanuya ye sɔgɔma ji ye i n'a fɔ bin kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/19\/9-12.1791942680306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "gbɔngboli"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "i n'a fɔ warabaden"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "jaabi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "nka i n'a fɔ sɔgɔma ji"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bin"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "a kanuya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:51:20.308610120Z",
+  "model": "glm-5.3"
+}

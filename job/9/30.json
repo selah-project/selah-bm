@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בבר",
+      "rationale": "vegetable lye\/soap; KJV 'never so clean' drops the noun, YLT keeps 'soap'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ji",
+      "rationale": "'nie ji' (snow-water) supplied — Hebrew says only 'snow', but washing implies water."
+    }
+  ],
+  "translation": "Ni ne ye n yɛrɛ yo nie ji la, ani ne ye n bolow minɛ ni sabu ye, ka u kɛ jɛlen ye —",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "677818c64360e2db54f6b20bba5a2a3cbb7f36ece44bf0eb28f62c7c4f3d4907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/9\/29-32.1791943451549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "ne ye n yɛrɛ yo"
+    },
+    {
+      "surface": "במו",
+      "gloss": "la"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "nie ji"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "ani ne ye ... kɛ jɛlen ye"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "n bolow"
+    }
+  ],
+  "timestamp": "2026-10-14T02:04:11.550512193Z",
+  "model": "glm-5.3"
+}

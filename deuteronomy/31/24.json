@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד תמם",
+      "rationale": "'until they were finished' (KJV) vs 'completely' — idem-per-total construction; rendered 'fo ka a bɛɛ ban' (until all of it was done)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ka a bɛɛ ban",
+      "rationale": "The verse measures completion: the writing totaled in full."
+    }
+  ],
+  "translation": "O kɛra ko, ni Moshe ban na ka sɛbɛn ⟨את⟩ Tora in kumaw sɛbɛn kan, fo ka a bɛɛ ban.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9ccf73410e7ac0be03ffdcddd3a23d204c710ad49ab1eb3b6f803237e041935c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/31\/21-24.1791928452475.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "O kɛra ko"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ni … ban na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "ka sɛbɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora in kumaw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "in"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ka a bɛɛ ban"
+    }
+  ],
+  "timestamp": "2026-10-13T21:54:12.480482469Z",
+  "model": "glm-5.3"
+}

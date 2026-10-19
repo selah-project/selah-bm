@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew verb יבוא is jussive 'let him come'; Bambara needs the pronoun a"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king's servants",
+      "rationale": "the servants answer the king directly; the king then speaks a command"
+    }
+  ],
+  "translation": "Masakɛ ka denmisɛnw ye a ye ko: Nin ye, Haman (Haman) bɛ jɔ soro kɔnɔ. Masakɛ y'a fɔ ko: A na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "965e11fd0274c703a2a1ef5bd9bd33dbd05d354747c009eeb94ea444f673875d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/6\/5-8.1791945645798.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ye…ko"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "denmisɛnw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nin ye"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "bɛ jɔ"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "soro kɔnɔ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "a na"
+    }
+  ],
+  "timestamp": "2026-10-14T02:40:45.800108203Z",
+  "model": "glm-5.3"
+}

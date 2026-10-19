@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אני אני",
+      "rationale": "Doubled 'ne, ne' keeps the emphatic duplication of the Hebrew first person."
+    },
+    {
+      "kind": "addition",
+      "subject": "de",
+      "rationale": "Bambara emphatic particle supplied to carry the force of the doubled אני."
+    }
+  ],
+  "translation": "Ne, ne de y'a fɔ; ape, ne y'a wele, ne y'a na, a sira bɛna ɲɛya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fb6b37790ddbdd36f90e076088f9c277694119a0ab4ff6ffbd4ea24fd9b2828c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/48\/13-16.1791934418772.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne de"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ape"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ne y'a wele"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "ne y'a na"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "bɛna ɲɛya"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "a sira"
+    }
+  ],
+  "timestamp": "2026-10-13T23:33:38.774704272Z",
+  "model": "glm-5.3"
+}

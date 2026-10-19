@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 46:1",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קדים",
+      "rationale": "kɔgɔji-kɔnɛ yɔrɔ: Bambara has no single common word for east, so 'tile nɔ fɛ' (where the sun rises) renders the orientation literally."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔngɔso",
+      "rationale": "החצר rendered as 'enclosed yard' from kɔngɔ (fence), keeping the picture of a walled court."
+    },
+    {
+      "kind": "measurement",
+      "subject": "wolonfila donw",
+      "rationale": "The verse counts six working days against the Sabbath and new-moon openings."
+    }
+  ],
+  "translation": "Cogo nin na Adonay Yawe ko: da min bɛ kɔngɔso kɔnɔna na, min bɛ ɲɛ bila tile nɔ fɛ, o bɛna kɛ datugunen ye wolonfila baara donw la; nka Shabat don o bɛna da, ani kalo kura don o bɛna da.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5b75574827932e13caf2467d10af6b404e410e69165d2e520e4a0c676a932b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/46\/1-4.1791938031206.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "cogo nin na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "da"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kɔngɔso"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "kɔnɔna"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "min bɛ ɲɛ bila"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "tile nɔ fɛ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "datugunen"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "wolonfila"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "donw"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ni don"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "bɛna da"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ani don"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kalo kura"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "bɛna da"
+    }
+  ],
+  "timestamp": "2026-10-14T00:33:51.207025366Z",
+  "model": "glm-5.3"
+}

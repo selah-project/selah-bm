@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "right\/left",
+      "rationale": "Hebrew idiom: right = favor, skill, good side; left = dark (שמאל from north\/darkness), bad side — direction terms carry moral weight"
+    }
+  ],
+  "translation": "Dɔnniyatigi ka dusukun bɛ a bolo kɔrɔ fɛ, nka folitigi ka dusukun bɛ a bolo ganga fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/10\/1-4.1791945311515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "dɔnniyatigi"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "bolo kɔrɔ fɛ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "folitigi"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "bolo ganga fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:35:11.516607546Z",
+  "model": "glm-5.3"
+}

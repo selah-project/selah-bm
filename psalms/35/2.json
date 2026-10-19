@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka na",
+      "rationale": "Bambara motion verb needs 'come' where Hebrew has only 'rise for my help'."
+    }
+  ],
+  "translation": "Gran minɛ bada ni bada ba, anw ka wili ka na ne dɛmɛ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/35\/1-4.1791940032292.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "gran minɛ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "bada"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ni bada ba"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "ka wili"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "ne dɛmɛ na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:12.293513360Z",
+  "model": "glm-5.3"
+}

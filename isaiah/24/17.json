@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחת\/פח",
+      "rationale": "Triple alliteration: dread, pit, spring-net — three near-identical sounds, the trap closing in; the sound-chain is lost in Bamanankan."
+    },
+    {
+      "kind": "you",
+      "subject": "i kan \/ e dugukolo sigibaga",
+      "rationale": "Direct address to the inhabitant of the earth."
+    }
+  ],
+  "translation": "Siran, ni dunba, ni ja bɛ i kan, e dugukolo sigibaga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "02ac9cb9b7255fc3aeafc4bedfb0a513ed5d7fef824382e6112819c26fcd98f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/24\/17-20.1791933908129.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "siran"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ni dunba"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "ni ja"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "i kan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sigibaga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-13T23:25:08.133051310Z",
+  "model": "glm-5.3"
+}

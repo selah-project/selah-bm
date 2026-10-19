@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בין...בין",
+      "rationale": "Hebrew repeats 'between...between'; Bambara renders the paired relation with ni...cɛ, so the literal repetition is lost."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Pronoun 'a' added to make explicit whose youth and whose father's house the Hebrew leaves implied by the construct."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sariya ninnu",
+      "rationale": "Verse is a formulaic summary-count of the statutes just given, closing the legal unit."
+    }
+  ],
+  "translation": "Nin ye sariya ninnu ye, minnu ye Yawe ye ⟨את⟩ Moshe (Musa) la cidenw ka kuma cogo min na, cɛ ni a muso cɛ, fa ni a denmuso cɛ, ni a mɔgɔkorɔ nan ka a fa so kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d2c28a1407bdd6acd22f38088b98fa74b0b3658f95b7c5080fcda49c93d06617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/30\/17-17.1791927197288.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nin"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sariya ninnu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ye ... la cidenw ka kuma cogo min na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe (Musa)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Musa)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛ ni ... cɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "a muso"
+    },
+    {
+      "surface": "בין",
+      "gloss": "fa ni ... cɛ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "a denmuso"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "ni a mɔgɔkorɔ nan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "a fa"
+    }
+  ],
+  "timestamp": "2026-10-13T21:33:17.289436169Z",
+  "model": "glm-5.3"
+}

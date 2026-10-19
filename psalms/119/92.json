@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לולי",
+      "rationale": "'if not' — counterfactual 'unless', rendered 'ni … ma' with past marker 'tun'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sumuya",
+      "rationale": "שַׁעְשׁוּעַ 'delight\/enjoyment' rendered 'sumuya' (delight)"
+    }
+  ],
+  "translation": "Ni i Tora ma kɛ n ka sumuya ye, n tun na bɔn n sirili kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/89-92.1791941613983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ni … ma"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "i Tora"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "n ka sumuya"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o waati (tun)"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "n tun na bɔn"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "n sirili kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:33.984222584Z",
+  "model": "glm-5.3"
+}

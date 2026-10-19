@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מני",
+      "rationale": "min-ni 'from' (KJV: palaces gladden you) vs minnē 'stringed instruments' (LXX, YLT, JPS); bambara farala min bɔli masalen kan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "katsia",
+      "rationale": "קציעות kɔrɔ ye 'kaburu min bolen' ye — aholo nɔnabila, dɔnniyalen tɛ Bamanankan na"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sen-nɛgɛ",
+      "rationale": "שן kɔrɔ ye 'danten' ye; 'nɛgɛ-nɛgɛ' fɔcogo kelen Bamanankan na"
+    }
+  ],
+  "translation": "Muru ni ahalo-jiriw ni katsia, i ka kondɛnw bɛɛ bɛ yɔrɔ-ko ni, minnu bɔra sen-nɛgɛ (nɛgɛ-nɛgɛ) kɔgɔdaw na; minnu y'i diya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/45\/9-12.1791940199214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "muru"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "ahalo-jiriw"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "katsia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "i ka kondɛnw"
+    },
+    {
+      "surface": "מן",
+      "gloss": "min bɔra"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "kɔgɔdaw"
+    },
+    {
+      "surface": "שן",
+      "gloss": "sen-nɛgɛ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "y'i diya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:59.215504928Z",
+  "model": "glm-5.3"
+}

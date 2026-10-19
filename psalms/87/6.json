@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sira",
+      "rationale": "בכתוב is 'in the writing\/register'; Bambara needs sira (list) to make the register concrete"
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "סלה is a musical pause mark, rendered as the name Sela, not translated"
+    },
+    {
+      "kind": "measurement",
+      "subject": "jate",
+      "rationale": "YHWH counts and registers the peoples — census-of-the-born"
+    }
+  ],
+  "translation": "Yawe bɛna jate ni a ye mɔgɔw sɛbɛn sira ko: wale nin, a dogora yen. Sela.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/87\/5-7.1791940921775.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "bɛna jate"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "ni a ye … sɛbɛn sira"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wale nin"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a dogora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:01.776719484Z",
+  "model": "glm-5.3"
+}

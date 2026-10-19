@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 44:3",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "batofēnw",
+      "rationale": "אלהים אחרים 'other gods' — 'gods' here is not the Name, rendered as batofɛnw (objects of worship) per the standing ruling"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "literally 'from the face of'; rendered by the Bambara causal '…kɔrɔ la'"
+    },
+    {
+      "kind": "you",
+      "subject": "to the Jews in Egypt",
+      "rationale": "the closing triplet 'they, you, your fathers' includes the addressees in the guilt"
+    }
+  ],
+  "translation": "U ka juya kɔrɔ la minnu kɛra, min ye n jiya don — u taa ka sunɔn bɔ, ka toma batofɛnw la, minnu ma u dɔn — u yɛrɛ ye, aw ni aw baw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5042dcbe78e1f0e87495c8bfc6012e011c02c044eae62e6c5a3f1d64714bf568",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/44\/1-4.1791936251772.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "… kɔrɔ la"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "u ka juya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "להכעסני",
+      "gloss": "min ye n jiya don"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "taa"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "sunɔn bɔ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "toma"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "batofɛnw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kuraw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "המה",
+      "gloss": "u yɛrɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "ואבתיכם",
+      "gloss": "aw baw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:04:11.773932230Z",
+  "model": "glm-5.3"
+}

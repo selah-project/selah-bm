@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבי",
+      "rationale": "'within my heart' (KJV, ASV) vs 'to himself\/within him' implied by context (JPS 'methinks'); kept the Hebrew's first person"
+    },
+    {
+      "kind": "crux",
+      "subject": "נאם",
+      "rationale": "'oracle\/utterance' of transgression personified as speaking; some take the whole phrase as David's own oracle about the wicked"
+    },
+    {
+      "kind": "mystery",
+      "subject": "נאם",
+      "rationale": "The verse opens with an oracle (נאום), a declared utterance whose speaker is deliberately ambiguous"
+    }
+  ],
+  "translation": "Jurumu ka kuma bɛ fɔ mɔgɔ juguya ma, n dusukun kɔnɔ: Elohim ka siran si tɛ a ɲɛw ɲɛmɔgɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/36\/1-4.1791940023264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "mɔgɔ juguya ma"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "n dusukun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "siran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ɲɛmɔgɔ la"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "a ɲɛw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:03.265097174Z",
+  "model": "glm-5.3"
+}

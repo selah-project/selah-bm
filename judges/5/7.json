@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 5:7",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרזון",
+      "rationale": "'Rulers\/leadership' (JPS, ASV) vs 'villagers\/unwalled villages' (KJV, Geneva); 'leadership' kept."
+    },
+    {
+      "kind": "crux",
+      "subject": "שקמתי",
+      "rationale": "First person 'I arose' vs JPS second person 'thou didst arise' (ktiv\/qre issue); first person kept."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חדלו … חדלו \/ שקמתי … שקמתי",
+      "rationale": "Each verb repeated in pair, Hebrew poetic parallelism; kept."
+    }
+  ],
+  "translation": "Kɔrɔtigiya banna Israyɛl la, banna fo ne Debora ye demin, ne demin ba ye Israyɛl la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/5\/5-8.1791929253445.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "banna"
+    },
+    {
+      "surface": "פרזון",
+      "gloss": "kɔrɔtigiya"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israyɛl la"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "banna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "שקמתי",
+      "gloss": "ne demin"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Debora"
+    },
+    {
+      "surface": "שקמתי",
+      "gloss": "ne demin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israyɛl la"
+    }
+  ],
+  "timestamp": "2026-10-13T22:07:33.448689637Z",
+  "model": "glm-5.3"
+}

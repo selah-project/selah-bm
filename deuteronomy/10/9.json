@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 10:9",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "de",
+      "rationale": "הוא emphatic rendered with Bambara focus particle de"
+    },
+    {
+      "kind": "elision",
+      "subject": "על כן",
+      "rationale": "two Hebrew tokens rendered as one Bambara connector 'o de sabu'"
+    }
+  ],
+  "translation": "O de sabu Lewi ma dɔ fasiya t'a n'a balimaw ye; Yawe de ye a fasiya ye, i n'a fɔ Yawe i ka Ala ye n'a fɔ a ye cogo min na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e62f3ec3ade9c0906c2907e177f0bcacb97ab4a2e46019503257bab719fd5d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/10\/9-12.1791927722484.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "o de sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o de sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "היה",
+      "gloss": "t'a ye"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "dɔ"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "fasiya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "t'a n'a"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "a balimaw ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "de"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "a fasiya ye"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ ... cogo min na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "n'a fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Ala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:42:02.490166738Z",
+  "model": "glm-5.3"
+}

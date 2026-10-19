@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 18:4",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש bɛ tɔgɔ-nɔna 'ni' la, a kɔrɔ ka surun ni ma (a ka can, a bɛ balo)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩",
+      "rationale": "Heburukan tɛ daɲɛ dɔ sɔrɔ min bɛ furakɛla fɔ; kumasen in bɛ a wajibiya"
+    },
+    {
+      "kind": "you",
+      "subject": "Job ma",
+      "rationale": "ɲininkili min bɛ Job kan, a bɛ Bilidad ka kuma laban don"
+    },
+    {
+      "kind": "crux",
+      "subject": "טרף נפשו",
+      "rationale": "'a bɛ a yɛrɛ furakɛ' (KJV\/JPS, reflekisi) walima 'a bɛ a ni min furakɛ' — Heburukan fɔcogo bɛ a fɔ ko daɲɛ taamasiyɛn dɔrɔn de don"
+    }
+  ],
+  "translation": "⟨A⟩ bɛ a ni furakɛ a kɔrɔ kɔnɔ — yala dugukolo bɛna bɔ i n'a ye, walima kabakurun bɛna wuli a yɔrɔ la?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "db8e85e6a43743958d010dc4adfe357c206712898dfcd8c5c9e93238a2000701",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/18\/1-4.1791943703967.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "bɛ furakɛ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "a kɔrɔ kɔnɔ"
+    },
+    {
+      "surface": "הלמענך",
+      "gloss": "i n'a ye"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "bɛna bɔ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ויעתק",
+      "gloss": "bɛna wuli ka bɔ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kabakurun"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "a yɔrɔ la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:08:23.969692020Z",
+  "model": "glm-5.3"
+}

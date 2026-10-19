@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nunko",
+      "rationale": "קרן kɔrɔ ye nunko ye — a fɔcogo ka kɛ ka bɔn fɛ (nimanya), nka nin ye nunko tiɲɛ ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "פזר נתן",
+      "rationale": "'a wolaso, a y'a di': פזר kelen-kelen bɛ fɔ 'ka wolaso' — dɔw da'a kalan ka kɛ 'wolaso-ma fɛn di' ye"
+    }
+  ],
+  "translation": "A wolaso, a y'⟨a⟩ di miskinnwu ma; a ka temeya bɛ jɔ fɔ ro; a ka nunko bɛ daminɛ nimaya la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/112\/9-10.1791941391080.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "a wolaso"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a y'… di"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "miskinnew ma"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "a ka temeya"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "bɛ jɔ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "fɔ ro"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "a ka nunko"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "bɛ daminɛ"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "nimaya la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:51.081182298Z",
+  "model": "glm-5.3"
+}

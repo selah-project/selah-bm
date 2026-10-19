@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 27:2",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי אל",
+      "rationale": "Hebrew oath formula 'as El lives' — rendered as a relative clause 'El min bɛ balo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש here is life\/vital self, not a disembodied soul; glossed 'ni' per fixed table."
+    },
+    {
+      "kind": "crux",
+      "subject": "משפטי",
+      "rationale": "'my judgment\/right': Job claims God has removed his legal due — 'sariya' keeps the verdict sense."
+    }
+  ],
+  "translation": "El min bɛ balo, o ye n'ka sariya bɔ n na; Shaday de ye n'ka ni kɛ kɔgɔji ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d6412e9fc0059d6fe7bd8e695fbe47f8d2dc1094142e5433c7fbf63cd7dfb9da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/27\/1-4.1791943904885.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "balo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "n'ka sariya"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "Shaday"
+    },
+    {
+      "surface": "המר",
+      "gloss": "kɛ kɔgɔji ye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n'ka ni"
+    }
+  ],
+  "timestamp": "2026-10-14T02:11:44.886456675Z",
+  "model": "glm-5.3"
+}

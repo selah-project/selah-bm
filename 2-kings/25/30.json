@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר יום ביומו",
+      "rationale": "day-in-its-day repetition; rendered as don kelen-kelen bēɛ, the rhythm is lost"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dunan-fɛn",
+      "rationale": "the verse specifies a daily ration issued by the king, a fixed allowance formula"
+    },
+    {
+      "kind": "elision",
+      "subject": "דבר",
+      "rationale": "'the matter\/thing of a day' — a portion; rendered as dɔ (a certain amount), its literal 'word' sense is lost"
+    }
+  ],
+  "translation": "A ka dunan-fɛn, dunan-fɛn min di tuma bɛɛ, dilanna a ye masakɛ bolo ⟨את⟩, don-dɔ don kelen-kelen bɛɛ, a ka balo donw bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/25\/29-30.1791933289382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "a ka dunan-fɛn"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "dunan-fɛn"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tuma bɛɛ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "dilanna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "bolo ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dɔ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "don kelen-kelen bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "donw"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "a ka balo"
+    }
+  ],
+  "timestamp": "2026-10-13T23:14:49.390910378Z",
+  "model": "glm-5.3"
+}

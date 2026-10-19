@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Shift to direct address of the congregation: 'if you hear his voice'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Bi, ni aw … mɛn",
+      "rationale": "Conditional summons to hear today"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sagaw min bɛ a bolo",
+      "rationale": "literally 'sheep of his hand' — possession by hand rendered as 'in his hand'"
+    }
+  ],
+  "translation": "Sabu ale ye an ka Elohim ye, ani an ye jama ye min bɛ a nɔgɔyɔrɔ la, ani sagaw min bɛ a bolo. Bi, ni aw bɛ se ka a kan mɛn —",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/95\/5-8.1791941123540.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ani an"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "a nɔgɔyɔrɔ (jama min bɛ a nɔgɔyɔrɔ la)"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "sagaw"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "aw bɛ se ka … mɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:23.541753254Z",
+  "model": "glm-5.3"
+}

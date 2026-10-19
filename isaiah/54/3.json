@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "denbɛya",
+      "rationale": "זרעך is literally 'your seed' (singular collective); 'descendants' spreads the collective."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תפרצי",
+      "rationale": "same root as פצחי 'break out in song' in v1 — breaking forth in song and breaking forth in territory echo each other."
+    }
+  ],
+  "translation": "Sabu i bɛna bɔ i nu dɛgɛ fɛ ani i numan fɛ; i ka denbɛya bɛna siyaw minɛ, ka ɲɛsin duguw minnu bɔra yen, u bɛ u sigi yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "74e26d779e80194a9a4fa85403d49b70e77891d0fd5ff2581ee35a6d8190a6df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/54\/1-4.1791934611214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "nu dɛgɛ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "numan"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "i bɛna bɔ"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "i ka denbɛya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "bɛna minɛ"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "minnu bɔra"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "u bɛ u sigi yen"
+    }
+  ],
+  "timestamp": "2026-10-13T23:36:51.216386607Z",
+  "model": "glm-5.3"
+}

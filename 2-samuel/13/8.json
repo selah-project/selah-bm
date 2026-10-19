@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ותלבב \/ הלבבות",
+      "rationale": "Verb and noun share the heart-root לב: 'she heart-caked the heart-cakes'; the pun is kept with dusukunburu 'heart-bread'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותבשל",
+      "rationale": "The verb means 'boil'; the cakes are boiled in oil, rendered 'biri' (cook\/boil) without specifying oil."
+    }
+  ],
+  "translation": "Tamar taana Amnon a balimakɛ so, a de sigira; a ye ⟨את⟩ sirimɛ ta, a ye a ɲɔgɔn-ɲɔgɔn, ka dusukunburuw dilan a ɲɛ anw, ka ⟨את⟩ dusukunburuw biri.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fb4c93937e4b8a4d70d78c0ec791d06b860830217b7d140a3d35306967a69abf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/13\/5-8.1791931191995.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "taana"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "a balimakɛ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a de"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "sigira"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ye … ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirimɛ"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "sirimɛ"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "ɲɔgɔn-ɲɔgɔn"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "ka dusukunburuw dilan"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "a ɲɛ anw"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "biri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dusukunburuw"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "dusukunburuw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:39:51.999116271Z",
+  "model": "glm-5.3"
+}

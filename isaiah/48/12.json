@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Bambara requires a predicate after 'ne de ye'; Hebrew אני הוא is verbless"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "fɔlɔ \/ laban",
+      "rationale": "first\/last pair — echoes Shema-like declaration structure"
+    },
+    {
+      "kind": "invitation",
+      "subject": "N'i mɛn",
+      "rationale": "imperative summons 'Hear me' opening a new address"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yakuwa and Isirayeli",
+      "rationale": "direct address to Jacob\/Israel by name"
+    }
+  ],
+  "translation": "N'i mɛn, Yakuwa, ani Isirayeli, minnu ye n wele: ne de ye ⟨o⟩; ne ye fɔlɔ, ne fana ye laban.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/48\/9-12.1791934396844.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "N'i mɛn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n' … de"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakuwa"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ani Isirayeli"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "minnu ye n wele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye ⟨o⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "fɔlɔ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "laban"
+    }
+  ],
+  "timestamp": "2026-10-13T23:33:16.846127602Z",
+  "model": "glm-5.3"
+}

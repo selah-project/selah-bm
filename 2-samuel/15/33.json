@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laɲini",
+      "rationale": "למשא literally 'burden, load', rendered with laɲini (carried load)"
+    },
+    {
+      "kind": "crux",
+      "subject": "עברת אתי",
+      "rationale": "'pass over with me' i.e. 'go\/cross with me'; rendered as taa (go)"
+    }
+  ],
+  "translation": "Dawid y'a fɔ a ye ko: ni i taa ⟨את⟩ ne fɛ, i bɛna kɛ laɲini ye ne kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2f730a70b93690bbdff3e5986a364a400b18a2f942a01d75721a351aadd857ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/15\/33-34.1791950436578.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "i taa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ne fɛ",
+      "marks": "ne fɛ"
+    },
+    {
+      "surface": "והית",
+      "gloss": "i bɛna kɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ne kɔnɔ"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "laɲini ye"
+    }
+  ],
+  "timestamp": "2026-10-14T04:00:36.579355219Z",
+  "model": "glm-5.3"
+}

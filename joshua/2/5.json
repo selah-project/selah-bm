@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 2:5",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kɔnɔdɔgɔtɔ la⟩",
+      "rationale": "Hebrew verb יצאו (bɔra) needs a source-place named in Bambara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sabu",
+      "rationale": "כי here is purpose ('so that'), rendered with Bambara sabu"
+    },
+    {
+      "kind": "you",
+      "subject": "to the mɔgɔw minnu na mɔgɔw ɲinɛ",
+      "rationale": "Rahab's direct speech commands the pursuers with imperatives tugu, ja"
+    }
+  ],
+  "translation": "Kɔnɔdɔgɔtɔ bɔli waati la, dibi la, mɔgɔw bɔra ⟨kɔnɔdɔgɔtɔ la⟩; ne m'a dɔn mɔgɔw taa la min yɔrɔ; aw tugu u ja, sabu aw bɛ se u la.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "92b1001b684669e8cbf6fa4b06c4b1bf4f1cb17a49320d2cb3eae289ef17474e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/2\/5-8.1791928505752.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "da"
+    },
+    {
+      "surface": "לסגור",
+      "gloss": "ka loo"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dibi la"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ne m'a dɔn"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "min yɔrɔ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "taa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "u nɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תשיגום",
+      "gloss": "aw bɛ se u la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:55:05.753882547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨denw⟩",
+      "rationale": "Bamanankan ka kan ka jama-daɲɛ fɔ; Heburukan ka sɛbɛnni 'Rapa' dɔrɔn de bɛ yen (kelen \/ caman ɲɛfɔli tɛ)."
+    },
+    {
+      "kind": "elision",
+      "subject": "ביד",
+      "rationale": "'bolo' de bɛ sɛbɛnna; sira kɔkan 'bɔra … bolo' bɛ kuma la; a tɛ ⟨⟩ kɔnɔ sabu a bɛ Heburukan kɔnɔ."
+    }
+  ],
+  "translation": "Ninuw ye ⟨Rapa denw⟩ ye, u bangera Gat la, u bɔra Dawid bolo fana ni a denmisenw bolo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c770582e49c80fa38409a831fff55de1081b0d05c5c41f12cd8872c94bf28740",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/20\/5-8.1791948084043.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ninuw"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "bangera"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "Rapa (denw)"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gat la"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "u bɔra"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "fana ni … bolo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a denmisenw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:21:24.045286716Z",
+  "model": "glm-5.3"
+}

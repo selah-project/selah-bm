@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 3:6",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובאה השמש",
+      "rationale": "Hebrew lit. 'the sun shall come\/enter upon the prophets' — 'set' vs 'come over (in darkness)'; I rendered 'na don … la' (come upon)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nabiw",
+      "rationale": "נביא rendered nabi per ruling; Bambara printed Bible's 'kira' is barred."
+    },
+    {
+      "kind": "you",
+      "subject": "to the prophets",
+      "rationale": "Verse addresses the false prophets in second person 'aw' (lakhem), then shifts to third person."
+    },
+    {
+      "kind": "elision",
+      "subject": "לכם",
+      "rationale": "Second lakhem has no separate gloss; both 'unto you' phrases mark possession of night and darkness."
+    }
+  ],
+  "translation": "O de sabu, su na tɔɔ aw la aw ma mahazɔn sɔrɔ, dibi na tɔɔ aw la aw ma se ka kɛsɛmɛ; tile na don nabiw la, don na kɛ dibi ye u kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "36ba64aad36a6e0f92da37ce1146e951251c2f0c7ca48efd09aaaddf6b6ecab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/3\/6-7.1791951092088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "o de sabu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "su"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw la"
+    },
+    {
+      "surface": "מחזון",
+      "gloss": "mahazɔn"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "dibi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw la"
+    },
+    {
+      "surface": "מקסם",
+      "gloss": "kɛsɛmɛ"
+    },
+    {
+      "surface": "ובאה",
+      "gloss": "na don"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "על",
+      "gloss": "(la)"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabiw"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "kɛ dibi ye"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don"
+    }
+  ],
+  "timestamp": "2026-10-14T04:11:32.088839110Z",
+  "model": "glm-5.3"
+}

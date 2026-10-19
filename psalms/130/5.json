@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קויתי … קותה",
+      "rationale": "dalida kelen fila: קוה cogoya fila fila, kunafoni bɛɛ ta kelen-kelen — Bamanankan na 'dalen' fila-fila dalen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ni-ka-jagoya ye (ninakili\/renyoli), 'âme' tɛ a tiɲɛn ye"
+    },
+    {
+      "kind": "you",
+      "subject": "maa min bɛkɛ",
+      "rationale": "taasi-kumasen in bɛ Yawe wele, maan ka daminɛ masalan 'minutokɔrɔtɔ' kɔfɛ"
+    }
+  ],
+  "translation": "Ne dalenna Yawe ma; ne ni dalenna, ani ne sinna a kuma ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/130\/5-8.1791941783258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "ne dalenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "dalen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ni"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "ani a kuma"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ne sinna"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:23.258618379Z",
+  "model": "glm-5.3"
+}

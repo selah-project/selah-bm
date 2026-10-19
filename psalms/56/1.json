@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יונת אלם רחקים",
+      "rationale": "Kɔrɔ lennen tɛ: 'jona min mumu, sira-jan yɔrɔw la' — wale walima dilanbaga-yɔrɔ tɔgɔ; jɔyɔrɔ caman bɛ yen."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "Daɲɛ surunnen, sɛbɛnni-jatebaga; a kɔrɔ tiɲɛ tɛ ye — 'miktam' to a fɔcogo la."
+    }
+  ],
+  "translation": "Sɛbɛnni ɲɛmɔgɔ ma, jonamumu-sira-janw ta fan fɛ, Dawid (Dawuda) ta, miktam, ni Filistiw (Filistidenw) ye ⟨אתו⟩ minɛ Gat (Gat dugu) la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/56\/1-4.1791940364518.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sɛbɛnni ɲɛmɔgɔ ma"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "jona"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "mumu"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "sira-janw"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ta"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "ni … minɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Filistiw"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiw"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gat la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:44.518808324Z",
+  "model": "glm-5.3"
+}

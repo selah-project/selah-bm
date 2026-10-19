@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 22:6",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עליו",
+      "rationale": "Hebrew 'upon him' rendered 'a ngon' (about him), the standing-around scene; literal 'upon' would mislead."
+    },
+    {
+      "kind": "addition",
+      "subject": "jiri",
+      "rationale": "'jiri' (tree) supplied — Hebrew האשל is the tamarisk itself, Bambara needs 'aeshel jiri' to read."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "aeshel",
+      "rationale": "Saul under the tamarisk with spear in hand echoes 1 Sam 18:10–11; the recurring spear motif marks his character."
+    }
+  ],
+  "translation": "Shawul (Shaul) ye mɛn ko Dawid fɔra, ani mɔgɔw minnu bɛ ⟨את⟩ a sanfe. Shawul sigira Gibea (Giba) la, aeshel (tamarisk) jiri jukoro Ramah (Rama) la, a npan bɛ a bolo la, ani a surukubaga bɛɛ wiliyora a ngon.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "76eba0a1648c4e92cb43d73308109a8b244c76b92069a7834c28c571ddc95fee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/22\/6-7.1791950370765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ye mɛn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "fɔra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וואנשים",
+      "gloss": "ani mɔgɔw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid — 'a sanfe' (with him)"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shawul"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sigira"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "Gibea la"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jukoro"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "aeshel jiri"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramah"
+    },
+    {
+      "surface": "וחניתו",
+      "gloss": "ani a npan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a bolo la"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a surukubaga"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "wiliyora"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a ngon"
+    }
+  ],
+  "timestamp": "2026-10-14T03:59:30.766440835Z",
+  "model": "glm-5.3"
+}

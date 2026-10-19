@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 36:30",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative particle absorbed into 'walasa aw kana' construction"
+    },
+    {
+      "kind": "idiom",
+      "subject": "reproach of famine",
+      "rationale": "Hebrew construct 'disgrace-of-hunger' = the shame of going hungry; rendered as one phrase"
+    }
+  ],
+  "translation": "N bɛ jiri ⟨את⟩ jiriden ni foro ka denw ka boniya, walasa aw kana ka kayɔrɔ kɔngɔ masɔɔ siyaw la fan fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7d443dea66ff362a7f0113d9958efa72b7800bef0acad00c50eafbb20099103b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/36\/29-32.1791937677782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "N bɛ … ka boniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiri jiriden"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "jiriden"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "ותנובת",
+      "gloss": "denw"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "foro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "walasa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ka kayɔrɔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kana … dɔ"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "masɔɔ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kɔngɔ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "siyaw la fan fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:27:57.783035413Z",
+  "model": "glm-5.3"
+}

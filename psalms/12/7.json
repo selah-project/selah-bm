@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמרות ... אמרות",
+      "rationale": "Repetition 'words... words' builds the refining metaphor; kept by repeating kumaw"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עֲלִיל",
+      "rationale": "Crucible-word appears only here in the Tanakh"
+    }
+  ],
+  "translation": "Yawe ka kumaw ye kumaw jɛmanw ye, i n'a fɔ warigwɛ min lasaraka kabakurun-jɛgɛlan kɔnɔ dugukolo kan, min lasaraka wolonwula-ere.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/12\/5-8.1791939655936.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "jɛmanw"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "min lasaraka"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "kabakurun-jɛgɛlan kɔnɔ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dugukolo kan"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "min lasaraka"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "wolonwula-ere"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:55.937205476Z",
+  "model": "glm-5.3"
+}

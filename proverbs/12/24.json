@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sara-barata",
+      "rationale": "מס is forced-labor tribute, a burden that makes faint; 'sara-barata' (tax-tribute) narrows it to payment rather than corvée labor."
+    },
+    {
+      "kind": "idiom",
+      "subject": "יד חרוצים",
+      "rationale": "'The hand of the diligent' — hand as power\/means; Bamanankan keeps 'bolo' literally since 'bolo' also carries agency."
+    }
+  ],
+  "translation": "Dilankɛlaw ka bolo bɛ faamaya; nka nagalan bɛna kɛ sara-barata ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1a6647e4f6a0c7bd81ec8d4985205b95d09fbf9d90533ecf5d6aa8ece51a3cf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/12\/21-24.1791942416984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "ka bolo"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "dilankɛlaw"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "bɛ faamaya"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "nka nagalan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bɛna kɛ … ye"
+    },
+    {
+      "surface": "למס",
+      "gloss": "sara-barata"
+    }
+  ],
+  "timestamp": "2026-10-14T01:46:56.986138086Z",
+  "model": "glm-5.3"
+}

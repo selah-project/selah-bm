@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מועד",
+      "rationale": "KJV reads 'receive the congregation' (as Eduth\/appointed assembly); modern versions read 'the appointed time' — rendered here as 'laada-waati' (appointed time)."
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "First-person divine speech begins here ('I... I myself judge'), answering the thanksgiving of verse 2."
+    },
+    {
+      "kind": "addition",
+      "subject": "ne yɛrɛ",
+      "rationale": "אני is emphatic 'I myself'; strengthened in Bamanankan with 'yɛrɛ' to keep the weight."
+    }
+  ],
+  "translation": "Ni ne ta laada-waati, ne yɛrɛ bɛ saraya kɛ ni temen-ɲuman ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3e43d8cfe85b425c5c1ba57db1d5f305a0e36494539032124bef74310e3188e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/75\/2-3.1791951226550.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ne ta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "laada-waati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne yɛrɛ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "temen-ɲuman"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "bɛ saraya kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:46.551579681Z",
+  "model": "glm-5.3"
+}

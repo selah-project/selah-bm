@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 6:19",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sandugu",
+      "rationale": "ארון kɔrɔ ye 'sandugu' ye — Heburukan fana b'a fɔ 'sandugu' ye; 'ark' (Angilɛkan) ma ɲɛ"
+    },
+    {
+      "kind": "addition",
+      "subject": "so ka nimɔrɔyɔrɔ",
+      "rationale": "debira bɔko fɔlɔ ɲɛfɔli — o kɔfɛ Heburu cogo dɔrɔn"
+    }
+  ],
+  "translation": "Ani debira (so ka nimɔrɔyɔrɔ) tun bɛ so kɔnɔ hakɛ la; a y'o labɛn walasa ka ⟨את⟩ Yawe ka layidu sandugu bila yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/6\/17-20.1791931813703.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודביר",
+      "gloss": "debira"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "... kɔnɔ hakɛ la"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "so ka nimɔrɔyɔrɔ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a y'o labɛn"
+    },
+    {
+      "surface": "לתתן",
+      "gloss": "walasa ka ... bila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ka layidu sandugu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandugu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T22:50:13.708474479Z",
+  "model": "glm-5.3"
+}

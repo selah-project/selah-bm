@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hebel",
+      "rationale": "הבל ye Kɔelet daɲɛ taamasiyɛnnen ye; a bɛ to a Heburu fɔcogo la, a tɛ yɛlɛma ka kɛ «son» walima «ɲɛgɛn» ye."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעות רוח",
+      "rationale": "Heburu ka jɛgɛnsira «fiɲɛ ɲagamili» — ka fiɲɛ ɲagami; Bamanankan b'a latilen nafa dɔrɔn de."
+    }
+  ],
+  "translation": "N ye ⟨את⟩ balo jɛgɛ, sabu baara minnu kera tile jukɔrɔ, o ye gɛlɛya ye n na; sabu bɛɛ ye hebel ye ni fiɲɛ ɲagamili ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c1c669dab5203901d782a63b4894168e24168b4354b61b7ce2442b2bb17daf6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/2\/17-20.1791945191625.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "jɛgɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "balo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "gɛlɛya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n na"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "min kera"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jukɔrɔ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ni ɲagamili"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:33:11.625999911Z",
+  "model": "glm-5.3"
+}

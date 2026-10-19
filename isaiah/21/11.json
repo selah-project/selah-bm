@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמר ... שמר \/ מלילה ... מליל",
+      "rationale": "the question is asked verbatim twice — full-line repetition kept as repeated clause in Bambara."
+    },
+    {
+      "kind": "crux",
+      "subject": "מה מלילה",
+      "rationale": "'what of the night?' — how much of the night remains (watchman's hourly report) vs 'what is in the night?' (what events); rendered as plain question 'mun bɛ su la?'."
+    },
+    {
+      "kind": "you",
+      "subject": "to the watchman",
+      "rationale": "the caller from Seir addresses the watchman directly, twice."
+    }
+  ],
+  "translation": "Dumah (Duma) ka dɔgɔkun. Mɔgɔ dɔ welecira ne ma Seir (Se) fɛ: Kɔlisibaga, mun bɛ su la? Kɔlisibaga, mun bɛ su la?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/21\/9-12.1791933760675.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "dɔgɔkun"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "Dumah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne ma"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "welecira"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "Seir fɛ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Kɔlisibaga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "su la"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Kɔlisibaga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "su la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:22:40.680244296Z",
+  "model": "glm-5.3"
+}

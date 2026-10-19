@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept as 'hesed' per ruling; single Bamanankan word would flatten it."
+    },
+    {
+      "kind": "substitution",
+      "subject": "suganti",
+      "rationale": "יחל is 'wait\/hope patiently'; 'suganti' (hope) covers only the hope side, the waiting shade is softened."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Direct petition addressed to Yawe with second-person suffixes throughout."
+    }
+  ],
+  "translation": "I ka hesed, Yawe, kana to an kan, i n'a fɔ an bɛ suganti i la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a916f9d90cad1c57c489438c97d4795a397d2217c582100b666eb5e16c7c782b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/33\/21-22.1791939954148.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "kana to"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "i ka hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "an kan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "an bɛ suganti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:54.149627376Z",
+  "model": "glm-5.3"
+}

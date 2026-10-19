@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kabakurun",
+      "rationale": "אבן ka kɔrɔ tiɲɛ ye kabakurun ye, nka nin yɔrɔ la a ye jatebola-kabakurun ye (sankolo-jate); 'kabakurun' mara a cogo la"
+    },
+    {
+      "kind": "hapax",
+      "subject": "איפה",
+      "rationale": "efahi ye Heburu jate-daɲɛ ye min bɛ kisasen; a tɔgɔ sɛbɛnna efahi (transliteration)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבן ואבן \/ איפה ואיפה",
+      "rationale": "daɲɛ fila-fila kelen-kelen bɛ wuli — jate fila minnu tɛ bɛn, kabakurun ni efahi; Bamanankan mara o cogo la"
+    }
+  ],
+  "translation": "Kabakurun ni kabakurun, efahi ni efahi — Yawe ka danga de ye o fila bɛɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0b57c84e8816b0afce4a7d833df3bcb143f9b89999e98825a6d957e7bb66b826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/20\/9-12.1791942638973.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "kabakurun"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ni kabakurun"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efahi"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ni efahi"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "danga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "o fila bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:50:38.974545931Z",
+  "model": "glm-5.3"
+}

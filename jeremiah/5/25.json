@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 5:25",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אלה",
+      "rationale": "'these' refers back to the rains and harvest weeks of v24; kept as 'olu'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הטוב",
+      "gloss note": "'ɲuman' keeps the Hebrew's bare 'the good' — the bounty of v24"
+    }
+  ],
+  "translation": "Aw ka jurumuw ye o bɔ, ani aw ka jalakidɛw ye ⟨a⟩ ɲuman fili bɔ aw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5c84085168763cc63e9fcaf042ff828532dccfda9f3b32ce25aa89ce28bbeb85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/5\/25-28.1791934998900.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עונותיכם",
+      "gloss": "aw ka jurumuw"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ye…bɔ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "ani aw ka jalakidɛw"
+    },
+    {
+      "surface": "מנעו",
+      "gloss": "ye…fili"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ɲuman"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "aw la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:43:18.901285812Z",
+  "model": "glm-5.3"
+}

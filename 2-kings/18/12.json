@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 18:12",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לשמוע בקול",
+      "rationale": "'Hear the voice' = obey; rendered 'mɛn Yawe ka kan' — hear the voice"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויעברו",
+      "rationale": "Verb literally 'cross over (the covenant)'; rendered 'wuli' (transgress) — crossing the line of the covenant"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויעברו את בריתו",
+      "rationale": "'Transgressed his covenant' vs 'crossed over his covenant' — the verb עבר means to pass beyond; both senses possible"
+    }
+  ],
+  "translation": "Sabu u ma mɛn Yawe, u Elohim, ka kan, nka u ye ⟨את⟩ a layidu wuli — ni ⟨את⟩ bɛɛ min Moshe (Musa), Yawe ka baarakɛla, n'a fɔli — u ma mɛn, u ma kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "edd11d51a2f50f3c90352ca2c2f79f18df630e970699f2ccb545e2d6893c2af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/18\/9-12.1791933057106.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "u Elohim"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "u ye … wuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a layidu (u Yawe ka layidu)"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "a layidu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɛɛ min Moshe n'a fɔli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "n'a fɔli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "baarakɛla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:10:57.114115121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אעירה שחר",
+      "rationale": "'Ne bɛna sɔgɔma wuyili' — 'n bɛna sɔgɔma wuyili': ni sɔgɔma ka wuyili (fɔlɔ ni filanan, jps\/bsb) walima ka sɔgɔma ka wuyili ka daminɛ (kuv)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כבודי",
+      "rationale": "'Ne ka sumaya'; nabi-Dawid ka kan ye — 'ne ka kan' (geneva-1599 'my tongue')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔra",
+      "rationale": "כנור bɛ sɛbɛn 'kɔra' ye — Mande ka jiri-dɔnminɛ dɔ; Heburu minɛn tɛ Bamanankan na."
+    }
+  ],
+  "translation": "Wuyili, ne ka sumaya; wuyili, nevala ni kɔra; ne bɛna sɔgɔma wuyili.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/57\/9-12.1791940338664.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "wuyili"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ne ka sumaya"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "wuyili"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevala"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ni kɔra"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ne bɛna … wuyili"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "sɔgɔma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:18.665124966Z",
+  "model": "glm-5.3"
+}

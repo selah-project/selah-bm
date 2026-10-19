@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גולם",
+      "rationale": "גולם — daɲɛ min bɛ Tanaki kɔnɔ yɔrɔ in de dɔrɔn: kilen-kilen min tɛ ciyen na (den-yɛrɛ min tɛ jɔ ye)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ימים יצרו",
+      "rationale": "Donw bɛɛ sɛbɛnna yɔrɔ min na — bayɛlɛmabagaw bɛ wɔrɔla: 'donw minnu dabara' (KJV: days fashioned) walima 'donw dabaraw' (ASV: days ordained)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sɛbɛn",
+      "rationale": "Kumasen in bɛ donw jate ni sɛbɛnni ye Yawe ka sɛbɛn kɔnɔ — sɛbɛnni ni jate-jatebaw."
+    }
+  ],
+  "translation": "N ka den-yɛrɛ min tɛ ciyen na, i ka ɲɛw ye ⟨את⟩ ye; ani i ka sɛbɛn kan, u bɛɛ sɛbɛnna; donw minnu binna, kelen si tɛ u la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bd8cf0abb86d16d029c777106342ac609397bad25d7305e4109303327bfc8581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/139\/13-16.1791941898122.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "n ka den-yɛrɛ min tɛ ciyen na"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ye … ye"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "i ka ɲɛw"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani ⟨sanfɛ⟩"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "i ka sɛbɛn"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "u bɛɛ"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "sɛbɛnna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "donw"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "minnu binna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:38:18.123827065Z",
+  "model": "glm-5.3"
+}

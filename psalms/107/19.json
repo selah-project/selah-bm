@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בצר\/ממצקותיהם",
+      "rationale": "Hebrew repeats the root צרר 'narrow' — 'in their tight place… from their narrownesses'; Bambara repeats gɛlɛya\/gɛlɛyaw to keep the echo."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "Directional preposition absorbed into the Bambara verb-frame 'ye … wele'."
+    }
+  ],
+  "translation": "U ye Yawe wele u ka gɛlɛya kɔnɔ, ka bɔ u ka gɛlɛyaw la, A b'u laseli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/107\/17-20.1791941383542.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "u ye … wele"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "u ka gɛlɛya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "u ka gɛlɛyaw"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "A b'u laseli"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:43.542893876Z",
+  "model": "glm-5.3"
+}

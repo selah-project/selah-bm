@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Yam Suf",
+      "rationale": "סוף kɔrɔ ye ji-bulaman (papyrus) ye; laada kɔrɔ fɔ 'ji wolo-wolo-wolo', nka sɛbɛnni-yɛlɛma de bɛ yen: Suf ji"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sominenw",
+      "rationale": "פרשים kɔrɔ ye so-minɛbagaw ye — sominen ye sira dɔgɔnen ye min bɛ baara kɛ"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "kuma bɛ tugu Isirayili ma, Yawe ka kuma kɔnɔ"
+    }
+  ],
+  "translation": "N ye ⟨את⟩ aw baw bɔ Misira na; aw na kɔgɔji ma; Misiraw taara aw baw tugu ni bɔlanw ni sominenw ye, fo Suf ji (ji bulaman) la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cffd34a95ac2e4f8908f22c7ec63b5b4240f72d2697b5198d9be01b35a11d94e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/24\/5-8.1791929153304.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "n ye … bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aw baw"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "aw baw"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misira"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "aw na"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "kɔgɔji ma"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "u taara … tugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misiraw"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "aw baw"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "bɔlanw la"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "ni sominenw"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-13T22:05:53.306945297Z",
+  "model": "glm-5.3"
+}

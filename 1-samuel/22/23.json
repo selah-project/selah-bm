@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bamanankan ka wale-daɲɛ minɛn ye; Heburukan kuma-jɛgɛnsira t'a la"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש = ni (kunbɛnni \/ bolo); 'ta-ɲini' kɔrɔ ye 'ɲini k'a faga' ye"
+    },
+    {
+      "kind": "you",
+      "subject": "Abyatar",
+      "rationale": "Dawid bɛ Abyatar daminɛ kuma-walew fɛ (sigi, i ma siran)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "sigi",
+      "rationale": "weleli kuma: ka sigi ka to Dawid lafi"
+    }
+  ],
+  "translation": "Sigi ⟨את⟩ ne lafi, i ma siran; sabu min bɛ ɲini ⟨את⟩ ne ni, o bɛna ɲini ⟨את⟩ i ni; sabu i ⟨ye maralen ye⟩ ne ni.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "319c1bcccfac058cbb6f70e417e24a79300a215fe8a23dbb5fc628fdf7108782",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/22\/21-23.1791930562313.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "sigi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ne lafi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "siran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "bɛ ɲini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ni"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "bɛna ɲini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ni"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "i ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "maralen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ne ni"
+    }
+  ],
+  "timestamp": "2026-10-13T22:29:22.315444465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "funɛtigi",
+      "rationale": "עור ye mɔgɔ min ɲɛ tɛ ye — funɛ ye Bamanankan daɲɛ ye min b'a fɔ cogo kelen na"
+    },
+    {
+      "kind": "addition",
+      "subject": "ju",
+      "rationale": "Heburukan ma 'wrong' fɔ — בדרך kelen-kelen bɛ fɔ 'sira la'; ju farala a kan walasa ka משגה (ka-ju-tigɛ) ka kuma nɔgɔya"
+    }
+  ],
+  "translation": "Dangatigila don min bɛ funɛtigi sira ju tigɛ; jama bɛɛ na ko: Amen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9415530f7a72b45a02262a2e1cfd5a0046c11f9168239564e3d650b71d08e73c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/27\/17-20.1791928282718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "dangatigila"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "min-bɛ-ju-tigɛ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "funɛtigi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira-ju-la"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na-ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-13T21:51:22.721529159Z",
+  "model": "glm-5.3"
+}

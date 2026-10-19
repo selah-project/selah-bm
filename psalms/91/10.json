@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bana",
+      "rationale": "נגע is a blow\/affliction (also disease-spot); 'bana' (illness) narrows it slightly."
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "gloss": "ni",
+      "rationale": "Hebrew waw-consecutive rendered as Bamanankan conjunction 'ni'."
+    }
+  ],
+  "translation": "Juga tɛna se i na, ni bana tɛna surun i ka tentɛ so ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/91\/9-12.1791941027599.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "tɛna se"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i na"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "juga"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ni bana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "tɛna surun"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "i ka tentɛ so ma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:23:47.599675170Z",
+  "model": "glm-5.3"
+}

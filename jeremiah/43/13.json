@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 43:13",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Beti-Shemesh",
+      "rationale": "בית שמש here is the sun-temple in Egypt (Heliopolis), not the town in Judah; rendered as the place-name with a gloss."
+    },
+    {
+      "kind": "substitution",
+      "subject": "awolo dɔnnenw",
+      "rationale": "אלהי מצרים refers to Egypt's gods, so the common-noun branch ('gods\/awolo dɔnnenw') is used, not the Name Elohim."
+    },
+    {
+      "kind": "addition",
+      "subject": "olu",
+      "rationale": "Bambara requires the resumptive pronoun before the verb for the second object clause."
+    }
+  ],
+  "translation": "A bɛna Beti-Shemesh (tile so, min ye Beti-Shemesh ye) ⟨את⟩ jɔyɔrɔdaw minnu bɛ Mitsrayim (Misira) dugukolo la, olu faga, ani Mitsrayim awolo dɔnnenw ka ⟨את⟩ sojɔyɔrɔw minnu bɛ yen, a bɛ olu tasuma n'a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f7bfefa2d4fcd9474f48cfeb5c333334ff515a4eef972d0ae15cd39c700da75c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/43\/13-13.1791936116161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "a bɛna … faga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jɔyɔrɔdaw"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "jɔyɔrɔdaw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh (tile so)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu bɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Misira)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "sojɔyɔrɔw"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "sojɔyɔrɔw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "awolo dɔnnenw ka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "a bɛ … tasuma n'a ye"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tasuma"
+    }
+  ],
+  "timestamp": "2026-10-14T00:01:56.162334913Z",
+  "model": "glm-5.3"
+}

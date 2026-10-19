@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lamini",
+      "rationale": "נחה kɔrɔ ye 'ka ɲɛfɔ \/ ka minɛ taa' ye; 'lamini' (ka bɛn sigida dɔ la, i n'a fɔ saga-ji) ye o ɲɛfɔli ye"
+    },
+    {
+      "kind": "idiom",
+      "subject": "bolo",
+      "rationale": "ביד bɛ fɔ 'bolo' fɛ nka a kɔrɔ ye 'fanga \/ sira ye' — Moshe ni Arɔn bolo ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כצאן",
+      "rationale": "saga-ji ye Bamanankan tɛmɛsira ye min bɔna 'ji' (marabou) la ka saga-marabou fɔ — saga ni marabou tugu-tugu"
+    }
+  ],
+  "translation": "I ye i ka jama lamini i n'a fɔ saga-ji ye, Moshe (Musa) ni Arɔn (Aarɔn) bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "06e6ab777cc305adfc8b902300dadc3c02ed983aea52653db7aae92601ec0898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/77\/21-21.1791940645134.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "i ye … lamini"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "i n'a fɔ saga-ji"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i ka jama"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ni Arɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:25.135283530Z",
+  "model": "glm-5.3"
+}

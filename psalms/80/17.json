@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bɔn",
+      "rationale": "יאבדו ni a cogo tiɲɛna ye 'ka tugu ka ɓɔ a yɛrɛ la' — o kɔrɔ bɛɛ ye sa', an ta daɲɛ dɔgɔya la a kɛra 'bɔn' ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "כסוחה",
+      "rationale": "כסוחה ye hapax ye, k'a tiɲɛ dɔn a bɛ fɔ 'ka ge'; masin ma a jira cogo min na se kɛ ye ko jate"
+    }
+  ],
+  "translation": "Tasuma funu nin bɛ ge; i ɲɛda ka gwaru fɛ, u bɛna bɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/80\/17-20.1791940868300.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "funu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "ge"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "gwaru"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i ɲɛda"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "u bɛna bɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:08.300960157Z",
+  "model": "glm-5.3"
+}

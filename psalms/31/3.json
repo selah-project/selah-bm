@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i tulo minɛ ka ɲɛminɛ",
+      "rationale": "הטה אזנך lit. 'stretch out your ear'; the ear is the object of the verb in Hebrew."
+    },
+    {
+      "kind": "alternative",
+      "subject": "maraso",
+      "rationale": "מעוז is a fortified place\/defence; 'kuru-kelenba ani maraso' keeps rock-then-fortress order."
+    }
+  ],
+  "translation": "I tulo minɛ ka ɲɛminɛ ne fɛ; jaabi o yɔrɔ min na, aw ne yamaruya; i kɛ ne kuru-kelenba ye, ne maraso ye min bɛ se ka ne laseli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/31\/1-4.1791939918507.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "i tulo minɛ ka ɲɛminɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne fɛ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "i tulo"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "jaabi o yɔrɔ min na"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "aw ne yamaruya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i kɛ … ye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kuru-kelenba"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "maraso"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "so min bɛ se ka"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "ne mara"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "ne laseli"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:18.508378746Z",
+  "model": "glm-5.3"
+}

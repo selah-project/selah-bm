@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לעפרה \/ עפר",
+      "rationale": "Dugu tɔgɔ 'Lefra' ni 'buguri' (עפר) bɛ lamini — dugu tɔgɔ ye a yɛrɛ ka kuma ye."
+    },
+    {
+      "kind": "crux",
+      "subject": "aw yɛrɛ ɲagami",
+      "rationale": "הִתְפַּלַּשְׁתִּי ye kɔrɔ 'ne yɛrɛ ɲagamira' (ASV) walima ladilikan 'aw yɛrɛ ɲagami' (KJV) — nɛnɛgɛmɛkan yɔrɔ la, ne ta ladilikan fɛ."
+    },
+    {
+      "kind": "invitation",
+      "subject": "aw k'a fɔ ala; aw k'a basiya ala",
+      "rationale": "Ladilikansinw ye aw wele — David ka 2 Samuel 1:20 kuma fɔlen don nin ye."
+    }
+  ],
+  "translation": "Gati (Gat) kɔnɔ aw k'a fɔ ala; aw k'a basiya ala; Bet-Lefra (fin-dugu) kɔnɔ aw yɛrɛ ɲagami buguri la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/1\/9-12.1791938701835.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Gati kɔnɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ala"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "aw k'a fɔ"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "aw basiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ala"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "aw k'a basiya kɛ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bet-Lefra kɔnɔ"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Bet-Lefra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "buguri"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "aw yɛrɛ ɲagami … la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:45:01.836532831Z",
+  "model": "glm-5.3"
+}

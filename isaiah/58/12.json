@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 58:12",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "u (olu)",
+      "rationale": "verb is 3rd-person plural 'they shall build from you' — subject supplied as olu"
+    },
+    {
+      "kind": "crux",
+      "subject": "גדר פרץ",
+      "rationale": "the two title words are a participial pair, 'waller-of-breach'; rendered as compound name dege-dilabaga + yɛlɛ-yɔrɔ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דור ודור",
+      "rationale": "generation-and-generation pair; kept as du ni du repetition"
+    }
+  ],
+  "translation": "Olu na bɔ i la ka kɔrɔ-sunun-yɔrɔw labɛn; i na du ni du dutigiyɔrɔw wulila; u na wele i ko: dege-dilabaga min bɛ yɛlɛ-yɔrɔ labɛn, siraw labɛnbaga ka mɔgɔw sigi ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "373d75e201c2c3def20911f6ad3da03ccf38db04ebb0fa32563814436fe4d6bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/58\/9-12.1791934764034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "u na labɛn"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "sunun-yɔrɔw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kɔrɔ"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "dutigiyɔrɔw"
+    },
+    {
+      "surface": "דור",
+      "gloss": "du"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ni du"
+    },
+    {
+      "surface": "תקומם",
+      "gloss": "i na wulila"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "u na wele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ko"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "dege-dilabaga"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "yɛlɛ-yɔrɔ"
+    },
+    {
+      "surface": "משבב",
+      "gloss": "siraw labɛnbaga"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "siraw"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ka mɔgɔw sigi ɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:39:24.037085347Z",
+  "model": "glm-5.3"
+}

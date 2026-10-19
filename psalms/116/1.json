@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ yen",
+      "rationale": "Hebrew states no object for 'I have loved'; supplied 'there is' to carry the clause"
+    },
+    {
+      "kind": "crux",
+      "subject": "אהבתי",
+      "rationale": "perfect 'I have loved' with no stated object (YHWH implied) vs 'I love' — versions split"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "implicit direct address of the speaker's love toward Yawe"
+    }
+  ],
+  "translation": "N' kanuya bɛ yen, sabu Yawe bɛ mɛn ⟨את⟩ n ka kan, n ka taratara-fɔli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/116\/1-4.1791941551739.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "N' kanuya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "bɛ mɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n ka kan"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "n ka kan"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "n ka taratara-fɔli"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:31.739827276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept as hesed per discipline; 'kanuya' alone would narrow it"
+    },
+    {
+      "kind": "addition",
+      "subject": "bɛna",
+      "rationale": "Hebrew perfects בטחתי read as present confidence; future marker bɛna supplied for the verbs of rejoicing and singing"
+    }
+  ],
+  "translation": "N de, ne bɛ bɛn ni i ka hesed la; ne ka dusukun bɛna falijɛ i ka lasɔli la; ne bɛna Yawe di, sabu a ye ni ne ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8d6992d9832e346d4b460c428112d5d21a27533da19243a0a01d923babea4ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/13\/5-6.1791939606250.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "N de"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "i ka hesed"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ne bɛ bɛn ni … la"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "bɛna falijɛ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ne ka dusukun"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "i ka lasɔli"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ne bɛna … di"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "a ye ni … ye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:06.251627294Z",
+  "model": "glm-5.3"
+}

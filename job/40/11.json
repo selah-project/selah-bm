@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 40:11",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפך",
+      "rationale": "Hebrew literally 'your nose\/nostrils' = anger; rendered with kɔrɔbali (anger)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הפץ",
+      "rationale": "'Scatter\/pour out' the fury — rendered kisi (pour out) like water"
+    },
+    {
+      "kind": "you",
+      "subject": "to Job",
+      "rationale": "Continued ironic imperatives addressed to Job"
+    }
+  ],
+  "translation": "K'i kɔrɔbali kisi i n'a fɔ ji, i bɛ mɔgɔ bɛɛ min bɛ a yɛrɛ ɲɛsisun a ye, k'a bila duguma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ddc96f5b4a9968a83a0c7b5889c591dfe192340bc037b4a7a916fa2eec58d31f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/40\/9-12.1791944384610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפץ",
+      "gloss": "k'i kɔrɔbali kisi"
+    },
+    {
+      "surface": "עברות",
+      "gloss": "kɔrɔbali"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "i <the-nose\/anger>"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i bɛ … a ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mɔgɔ bɛɛ"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "min bɛ a yɛrɛ ɲɛsisun"
+    },
+    {
+      "surface": "והשפילהו",
+      "gloss": "k'a bila duguma"
+    }
+  ],
+  "timestamp": "2026-10-14T02:19:44.612029404Z",
+  "model": "glm-5.3"
+}

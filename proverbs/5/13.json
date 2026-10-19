@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 5:13",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ni",
+      "rationale": "Hebrew waw-negation rendered as Bambara connective ni with negative ma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jan",
+      "rationale": "הטיתי is 'stretch\/bend' the ear; Bambara uses 'lean\/turn' (jan) the ear"
+    }
+  ],
+  "translation": "ni ma mɛn i ka kalanbagaw ka kan, ani ma jan i ka tulo kɔ i ka kalandidenw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "748318b3b54d52d1c30d26421f1c48bcc02a03a82e2ab02817d04b22aed23631",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/5\/13-16.1791942183501.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ni ma"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka kan"
+    },
+    {
+      "surface": "מורי",
+      "gloss": "i ka kalanbagaw"
+    },
+    {
+      "surface": "ולמלמדי",
+      "gloss": "ani … i ka kalandidenw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הטיתי",
+      "gloss": "jan"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "i ka tulo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:43:03.502686276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נקד",
+      "gloss-hint": "sheep-master",
+      "rationale": "נֹקֵד 'sheep-breeder\/owner of flocks' occurs only here in the Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "ne",
+      "rationale": "'with the wool' — does צמר govern both flocks or only the rams? Versions split (KJV vs JPS\/ASV)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kɛmɛ-saba ni mɔgɔ kɛmɛ fila",
+      "rationale": "Tribute counted: 100,000 lambs and 100,000 rams."
+    }
+  ],
+  "translation": "Mesha (Misa), Mowab (Mozabi) masakɛ, tun ye saga-marabaga ye; a tun b'Isirayɛl masakɛ di saga kɛmɛ-saba ni mɔgɔ kɛmɛ fila, ni wataba kɛmɛ-saba ni mɔgɔ kɛmɛ fila, ni u ka ne.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "19fe0c2000f7dbb73d8737987b8ccb91540b4e43538241518ec9b61ec9f597f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/3\/1-4.1791932578720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tun ye … ye"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "saga-marabaga"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "a tun b'… di"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "kɛmɛ-saba ni mɔgɔ kɛmɛ fila"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mɔgɔ kɛmɛ fila"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "saga"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ni kɛmɛ-saba ni mɔgɔ kɛmɛ fila"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mɔgɔ kɛmɛ fila"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "wataba"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-10-13T23:02:58.742450109Z",
+  "model": "glm-5.3"
+}

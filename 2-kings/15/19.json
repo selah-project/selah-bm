@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 15:19",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתו",
+      "rationale": "Here אתו is the preposition H854 'with him', not the object marker H853; the ⟨את⟩ marker is kept per house rule though the sense is 'with'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ba kelen kikar warigwɛ",
+      "rationale": "A thousand talents of silver — a fixed royal tribute weight."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jon",
+      "rationale": "להחזיק is 'to make-strong\/hold-fast'; Bambara uses 'to plant\/fix' (jon) for establishing a kingdom."
+    }
+  ],
+  "translation": "Pul, Ashur (Asiri) masakɛ, ye dugukolo kan na; Menahem ye Pul di warigwɛ kikar ba kelen (talɛn kɛmɛ), walasa a bolo ka kɛ ⟨את⟩ a ni ye, ka masakɛya jon a bolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a7eaf583d94d65f61c890bb6a731e8479538c4e185b43e15e6d5196f11368561",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/15\/17-20.1791932999199.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ye … na"
+    },
+    {
+      "surface": "פול",
+      "gloss": "Pul"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ye … di"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menahem"
+    },
+    {
+      "surface": "לפול",
+      "gloss": "Pul"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ba kelen"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "walasa … ka kɛ … ye"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a ni (a fɛ)"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "ka … jon"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "masakɛya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a bolo la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:09:59.208858916Z",
+  "model": "glm-5.3"
+}

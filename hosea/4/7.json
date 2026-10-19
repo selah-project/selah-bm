@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ye⟩",
+      "rationale": "לי (ne ye \/ ne la) — Bamanankan bɛ kɔfɛ-daɲɛ 'ye' de wajibiya"
+    },
+    {
+      "kind": "crux",
+      "subject": "אמיר",
+      "rationale": "Hapax-taamasiyɛn: 'ka yɛlɛma kɛ' (KJV 'I will change') walima 'u y'a yɛlɛma' (BSB 'they exchanged') — daɲɛ in dan tɛ jɛlen"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אמיר",
+      "rationale": "Daɲɛ in bɛ Tanaki kɔnɔ yɔrɔ in de bɛɛ"
+    }
+  ],
+  "translation": "U ka bonya cogo la, u ye jurumu kɛ N ⟨ye⟩ o cogo la; ne bɛna u ka kɔnɔnya yɛlɛma k'a kɛ ɲɛtɔɔrɔ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fcd5788ab055d9294abff3c4200c82b21c63ecbceaaaa619eb0df534fb0b6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/4\/5-8.1791938169949.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "u ka bonya cogo la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o cogo la"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ye jurumu kɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "N ⟨ye⟩"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "u ka kɔnɔnya"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "ɲɛtɔɔrɔ ye"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "bɛna yɛlɛma kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:36:09.950529009Z",
+  "model": "glm-5.3"
+}

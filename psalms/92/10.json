@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי הנה אויביך ×2",
+      "rationale": "Kumasen furakɛ: «i ka tɔgɔbagaw» fɔra fila, ale-ciyɛn min bɛ o fɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "Daɲɛ kɔrɔ ye foyi-kena ye (nothingness), n'a bɛ ka juguya fɔ misali la"
+    }
+  ],
+  "translation": "Sabu sanba, i ka tɔgɔbagaw, Yawe; sabu sanba, i ka tɔgɔbagaw bɛna sa; foyi-jugukɛlaw bɛɛ bɛna tigɛ ɲɔgɔn na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/92\/9-12.1791941070764.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sanba"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i ka tɔgɔbagaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sanba"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i ka tɔgɔbagaw"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bɛna sa"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "bɛna tigɛ ɲɔgɔn na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kɛlaw"
+    },
+    {
+      "surface": "און",
+      "gloss": "foyi-jugu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:30.764895957Z",
+  "model": "glm-5.3"
+}

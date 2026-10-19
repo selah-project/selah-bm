@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ka bolo wili",
+      "rationale": "אשיב ידי 'turn back my hand' = turn against, kept as hand-turning picture"
+    },
+    {
+      "kind": "alternative",
+      "subject": "dɔɔni",
+      "rationale": "כמעט 'as a little thing' rendered adverbially 'quickly\/easily'"
+    }
+  ],
+  "translation": "N tun bɛna dɔɔni ye u ka tɔrɔbɔrɔbagaw sigi duguma, ka N bolo wili u ka bɛnbagaw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/81\/13-16.1791940854780.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "dɔɔni"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "u ka tɔrɔbɔrɔbagaw"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "bɛna … sigi duguma"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "u ka bɛnbagaw"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "bɛ bolo wili"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "N bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:54.781274355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 11:13",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew verb lacks an object-pronoun; Bambara needs 'a' for 'your heart'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Job",
+      "rationale": "Zophar addresses Job directly with conditional imperatives"
+    },
+    {
+      "kind": "invitation",
+      "subject": "condition",
+      "rationale": "the 'if' clauses summon Job to repentance"
+    }
+  ],
+  "translation": "Ni i ye ⟨a⟩ i dusukun labɛn, ani i bolow yɛlɛ a fɛ,",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d9453ead6ef740f73e4b92ce97314adf1b44821849d067b7723c3fe54dbce252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/11\/13-16.1791943501158.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "labɛn"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "yɛlɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "bolow"
+    }
+  ],
+  "timestamp": "2026-10-14T02:05:01.159543222Z",
+  "model": "glm-5.3"
+}

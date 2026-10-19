@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 13:33",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yɔrɔ min na",
+      "rationale": "Hebrew uses preposition אל alone with לבו; Bambara needs a locative phrase"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "'except' reading (only Amnon) vs conditional 'if'; context favors exclusive"
+    },
+    {
+      "kind": "you",
+      "subject": "to David the king",
+      "rationale": "Jonadab addresses the king directly, deprecative negation אל"
+    }
+  ],
+  "translation": "Sisan, Matigi masakɛ, a kana kuma dɔ a dusukun na ko denw bɛɛ, masakɛ denw, sa wolen; Awunnon (Amnon) de dɔrɔn si sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "df218d587396a14150eed8842031c02d6f264faf36d9e2c8a76d81c5503c82c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/13\/33-36.1791931180711.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Sisan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "a kana … bilA"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Matigi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(yɔrɔ min na)"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "a dusukun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma dɔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "sa wolen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dɔrɔn si"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Awunnon"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "de dɔrɔn"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sa"
+    }
+  ],
+  "timestamp": "2026-10-13T22:39:40.712459174Z",
+  "model": "glm-5.3"
+}

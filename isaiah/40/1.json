@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחמו נחמו",
+      "rationale": "doubling of the imperative for intensity, kept in Bambara as a repeated call"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kɔngɔ furakɛw",
+      "rationale": "double imperative summoning the hearers to comfort"
+    },
+    {
+      "kind": "addition",
+      "subject": "i ka",
+      "rationale": "possessive pronoun supplied for the 2nd-person suffix on אלהיכם"
+    }
+  ],
+  "translation": "Kɔngɔ furakɛw, kɔngɔ furakɛw, n ka jamaw, ⟨i ka⟩ Elohim bɛ ko.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2c47c8032b261dec1f5806e5a5b6003ca79c26a4981197e86ddd957385c3521a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/40\/1-4.1791934347054.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "kɔngɔ furakɛw"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "kɔngɔ furakɛw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n ka jamaw"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bɛ ko"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "i ka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:27.055550779Z",
+  "model": "glm-5.3"
+}

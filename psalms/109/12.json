@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept as loan per discipline; single Bambara words (kanuya, makari) each shrink it"
+    },
+    {
+      "kind": "addition",
+      "subject": "mɔgɔ si",
+      "rationale": "Hebrew 'let there not be one who draws out…'; Bambara needs the negative existential 'mɔgɔ si' supplied"
+    }
+  ],
+  "translation": "Mɔgɔ si kana hesed dogo a ye, mɔgɔ si kana a yatimadenw hersa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/109\/9-12.1791941423219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "mɔgɔ si kana kɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "משך",
+      "gloss": "dogo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani kana"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "mɔgɔ si kana kɛ"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "hersa"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "a yatimadenw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:23.220583945Z",
+  "model": "glm-5.3"
+}

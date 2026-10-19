@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "גם תמול גם שלשם",
+      "rationale": "double 'גם' repetition flattened to 'kabini … la', an idiom for 'heretofore'"
+    },
+    {
+      "kind": "you",
+      "subject": "to the elders of Israel",
+      "rationale": "Abner addresses the elders directly, 'aw' second person plural"
+    }
+  ],
+  "translation": "Awner ka kuma tun bɛ Yisrael mogokorobaw fɛ, a ko: kabini kalo fitini la, aw tun bɛ ⟨את⟩ Dawid ɲinini, walasa a ka kɛ masakɛ ye aw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/3\/17-20.1791930916899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "ka kuma tun bɛ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awner"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tun bɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mogokorobaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kabini"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "kalo fitini"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kabini"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "kalo fitini la"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "aw tun bɛ"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ɲinini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aw kan"
+    }
+  ],
+  "timestamp": "2026-10-13T22:35:16.901327832Z",
+  "model": "glm-5.3"
+}

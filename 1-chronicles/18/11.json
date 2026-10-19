@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ליהוה",
+      "rationale": "The preposition ל ('to') merges into the name 'Yawe' in Bambara; its case is not a separate word."
+    },
+    {
+      "kind": "substitution",
+      "subject": "y'i sigi sumala la",
+      "rationale": "הקדיש ('to make holy, to dedicate') is rendered with 'to set apart for holiness'; the concept of 'dedication' is not a simple word in Bambara."
+    }
+  ],
+  "translation": "Olu fana masakɛ Dawid y'i sigi Yawe ka sumala la, ni warigwɛ ni sanu minnu ye a bɔ siyaw bɛɛ la: Edom, Moab, Amon denw, Filestiw, ani Amalek.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "066277b9bbcae6194ed27f51edeb5a3ffad1dcec6fc970339e0bdb5bfea40b95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/18\/10-11.1791951569866.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "olu"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "y'i sigi … ka sumala la"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "a bɔ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "siyaw bɛɛ la"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "…denw"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "Filestiw"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-10-14T04:19:29.867795349Z",
+  "model": "glm-5.3"
+}

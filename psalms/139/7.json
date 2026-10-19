@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Direct questions addressed to Elohim throughout."
+    },
+    {
+      "kind": "invitation",
+      "subject": "אנה ... אנה",
+      "rationale": "Parallel rhetorical questions draw the hearer into the psalm's central claim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוח is wind\/breath\/spirit; 'fiɲɛ' renders breath-wind, losing the 'Spirit' reading some translations take."
+    }
+  ],
+  "translation": "Min na ne bɛna taa bɔ i fiɲɛ na, ani min na ne bɛna woo i ɲɛda la?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/139\/5-8.1791941866410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "min na"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ne bɛna taa"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "i fiɲɛ na"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ani min na"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "i ɲɛda la"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ne bɛna woo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:46.410965824Z",
+  "model": "glm-5.3"
+}

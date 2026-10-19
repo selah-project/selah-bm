@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 31:32",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עם הצבא",
+      "rationale": "'people of the army' compressed to 'sofɛw' (soldiers); the double noun would read as two groups in Bambara."
+    },
+    {
+      "kind": "measurement",
+      "subject": "675,000",
+      "rationale": "Head-count of the sheep taken as prey — the census that drives the one-of-five-hundred levy."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בז \/ בזזו",
+      "gloss": "Hebrew paronomasia 'plunder\/plundered' flattened into minɛya\/minɛra, partially preserved."
+    },
+    {
+      "kind": "crux",
+      "subject": "יתר",
+      "rationale": "'the remainder of the plunder' (KJV 'rest of the prey') vs 'prey over and above the booty' (ASV\/JPS) — what remains after the warriors' portion is unclear."
+    }
+  ],
+  "translation": "Minɛ yeera: minɛya nɔ, minnu sofɛw minɛra — sagaw: 675,000.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "49ad611f8d320ac7fdb1d8727df9fe6c64af2dea47416f1259dcfa6efa4e2fa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/31\/29-32.1791927281252.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yeera"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "minɛ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "nɔ"
+    },
+    {
+      "surface": "הבז",
+      "gloss": "minɛya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "minɛra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "—"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sofɛw"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sagaw"
+    },
+    {
+      "surface": "שש",
+      "gloss": "wolonwula (6)"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kɛmɛ (100)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kɛmɛ (1000)"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "mugan-ni-fila-ni-tan (70)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kɛmɛ (1000)"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "duuru (5)"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kɛmɛ fila (2000)"
+    }
+  ],
+  "timestamp": "2026-10-13T21:34:41.254069262Z",
+  "model": "glm-5.3"
+}

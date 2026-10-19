@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "i tɔgɔ bɛ fɔ",
+      "rationale": "יאמרך: 'u bɛ i fɔ' (they speak\/mention you) — 'i tɔgɔ' farala a kan sabu Bamanankan ka a faamu; kjv: 'speak against thee wickedly'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bonbagaw",
+      "rationale": "עריך ye 'i ka ɲɛsinbagaw' ye litɛrali (foes watching for mischief); 'bonbagaw' ye nɔgɔya dɔrɔn"
+    }
+  ],
+  "translation": "Olu ye i tɔgɔ bɛ fɔ ni miiri jugu ye; i ka bonbagaw bɛ i tɔgɔ ta ni fɔli ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/139\/17-20.1791941898332.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "olu ye"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "i tɔgɔ bɛ fɔ"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "ni miiri jugu ye"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bɛ ... ta"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ni fɔli ye"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "i ka bonbagaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:38:18.333890357Z",
+  "model": "glm-5.3"
+}

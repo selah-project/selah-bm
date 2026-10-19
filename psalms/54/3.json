@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "n'giyɛ bolo bɔ",
+      "rationale": "הושיע 'ka lasɔrɔ ka hɛrɛ don' — Bamanankan 'bolo bɔ' (bamanan) ka nɔgɔya, 'ka hɛrɛ di' dɔgɔya"
+    },
+    {
+      "kind": "substitution",
+      "subject": "talen kɛ n na",
+      "rationale": "דין 'ka kɛ sariya-ɲɛmɔgɔ ye, ka ɲɛ hakili fɛn bɛɛ kan' — talen-kɛli dɔgɔya"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "dɛnmisɛn ka dɔgɔtɔrɔ kuma bɛ fɔ Elohim ma a yɛrɛ ma — minɛ-ko kelen don"
+    }
+  ],
+  "translation": "Elohim, i tɔgɔ na, n'giyɛ bolo bɔ; i fanga na, talen kɛ n na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/54\/1-4.1791940344286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "i tɔgɔ na"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "n'giyɛ bolo bɔ"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "i fanga na"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "talen kɛ n na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:24.287167142Z",
+  "model": "glm-5.3"
+}

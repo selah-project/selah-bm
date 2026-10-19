@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 12:6",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minɛliyɔrɔ",
+      "rationale": "יְרֻשָּׁה is a possessed patrimony\/conquest, not a mere taking; single Bambara word narrows it"
+    },
+    {
+      "kind": "elision",
+      "subject": "-um",
+      "rationale": "the object suffix on הִכֻּם (them) and the feminine -ah on ויתנה have no separate Bambara word"
+    },
+    {
+      "kind": "measurement",
+      "subject": "jamaden fa",
+      "rationale": "allotment of land to named tribes — apportioning list"
+    }
+  ],
+  "translation": "Moshe, Yawe ka sofa, ni Isirayildenw ye u labinu; k'a sɔrɔ Moshe, Yawe ka sofa, y'a di minɛliyɔrɔ ye Rewubenidenw, Gadidenw, ani Manase jamadenw fa ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3de8f4b4d1bb35b97a7b2d649fa6b7d90f0d99a6e05619671e9e633f8bf8f958",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/12\/5-8.1791928812864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עֶבֶד",
+      "gloss": "sofa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וּבְנֵי",
+      "gloss": "ni …denw"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Isirayil"
+    },
+    {
+      "surface": "הִכֻּם",
+      "gloss": "u labinu"
+    },
+    {
+      "surface": "וַיִּתְּנָהּ",
+      "gloss": "y'a di"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עֶבֶד",
+      "gloss": "sofa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יְרֻשָּׁה",
+      "gloss": "minɛliyɔrɔ"
+    },
+    {
+      "surface": "לָרֻאוּבֵנִי",
+      "gloss": "Rewubenidenw"
+    },
+    {
+      "surface": "וְלַגָּדִי",
+      "gloss": "ni Gadidenw"
+    },
+    {
+      "surface": "וְלַחֲצִי",
+      "gloss": "ani …fa"
+    },
+    {
+      "surface": "שֵׁבֶט",
+      "gloss": "jamaden"
+    },
+    {
+      "surface": "הַמְנַשֶּׁה",
+      "gloss": "Manase"
+    }
+  ],
+  "timestamp": "2026-10-13T22:00:12.865563979Z",
+  "model": "glm-5.3"
+}

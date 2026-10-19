@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered 'ni' (life-soul, breath-being), not a disembodied 'soul'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "a ɲɔgɔnmɔgɔ tɛ dimi ye a ɲɛ la",
+      "rationale": "Hebrew word order: 'his neighbor finds no favor in his eyes'; Bambara keeps the neighbor as subject as most versions do."
+    }
+  ],
+  "translation": "Mɔgɔ jugu ni b'a fɛ juguya; a ɲɔgɔnmɔgɔ tɛ dimi ye a ɲɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/21\/9-12.1791942660088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mɔgɔ jugu"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "b'a fɛ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "dimi di"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a ɲɛ la"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a ɲɔgɔnmɔgɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:51:00.089351453Z",
+  "model": "glm-5.3"
+}

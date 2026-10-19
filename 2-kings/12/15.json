@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "de",
+      "gloss-rationale": "emphatic particle supplied to carry the focus of כי here",
+      "rationale": "Hebrew כי opens with causal force; Bambara marks the emphasis explicitly"
+    }
+  ],
+  "translation": "Sabu baarakɛlaw ma de b'a di, k'u ye a la ⟨את⟩ Yawe so kɔlsi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "27feb0e5dd230df3b4916ebcefa483cdcea384dde59304d604633591939c3e15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/12\/13-16.1791932931636.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "baarakɛlaw ma"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "b'a di"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "kɔlsi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T23:08:51.641761359Z",
+  "model": "glm-5.3"
+}

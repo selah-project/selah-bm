@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ni\/ninakili ye — kelen ye 'ni' dɔrɔn de ma a caya k'a kɛ 'soul' ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב",
+      "rationale": "טוב daɲɛ bɛ tila lamɛrɛ 25–27 kɔnɔ — acrostic cogoya, a bɛ saelen Bamanankan na"
+    }
+  ],
+  "translation": "Yawe ye ɲɛwale don mɔgɔw minnu bɛ a lasɔmi, ni min bɛ a ɲini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b248cd7e741a04abc857fea2bf6b8b493e579edf1a0a2ed5d559d397e54e71b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/25-28.1791944908477.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ɲɛwale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "lasɔmi"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "a ɲini"
+    }
+  ],
+  "timestamp": "2026-10-14T02:28:28.478842858Z",
+  "model": "glm-5.3"
+}

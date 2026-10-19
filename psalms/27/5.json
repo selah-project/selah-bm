@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצפנני\/יסתרני\/בסתר",
+      "rationale": "Ulu fila ni 'סתר' daɲɛ bɛ dogoya kuma fila sisi o kelen kɔnɔ; Bamanankan na 'gen' ni 'dogo' ye kuma fila ye, o dogoya-donni na dɔgɔya."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wulunyali-wale tɛ yen",
+      "rationale": "סוכה (gafeso) ka kɔrɔ ye jiri kaɲu min ye jɔ; 'gafeso' ye a ka jirili ye."
+    },
+    {
+      "kind": "crux",
+      "subject": "ירוממני",
+      "rationale": "'A bɛ n tille sangarila kan' — רום kɔrɔ ye 'ka jɔ sanfɛ \/ ka tille'; KJV fɔ 'set me up upon a rock'."
+    }
+  ],
+  "translation": "Sabu don bubu don la, a bɛ n gen a gafeso kɔnɔ; a bɛ n dogo a so ka dogo yɔrɔ la; a bɛ n tille sangarila kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/27\/5-8.1791939917022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "a bɛ n gen"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "a gafeso kɔnɔ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don la"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bubu"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "a bɛ n dogo"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dogo yɔrɔ la"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "a so"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sangarila kan"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "a bɛ n tille"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:17.022818637Z",
+  "model": "glm-5.3"
+}

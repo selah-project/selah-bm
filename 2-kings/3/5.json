@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kɔfɛ",
+      "rationale": "ויהי … כמות literally 'and-it-came-to-pass at-the-death-of'; Bamanankan marks time with kɔfɛ (after)"
+    },
+    {
+      "kind": "crux",
+      "subject": "פשע",
+      "rationale": "'rebelled' vs 'transgressed\/broke away' — fɔliya (rebellion) chosen"
+    }
+  ],
+  "translation": "Ahab (Ahabi) ka saya kɔfɛ, Moab masakɛ fɔliyara Isirayeli (Isirayeli) masakɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "de72c38f04c22b0c941348d333157605a575036708220376c210d5bf7d2255c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/3\/5-8.1791932673782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "saya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "fɔliyara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "masakɛ la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    }
+  ],
+  "timestamp": "2026-10-13T23:04:33.787425568Z",
+  "model": "glm-5.3"
+}

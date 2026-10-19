@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 2:33",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ni",
+      "rationale": "Hebrew vav joins the two heads by juxtaposition; Bambara needs ni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "denw",
+      "rationale": "זרעו is literally 'his seed' (kisɛ), rendered as descendants"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ולדוד...ולכסאו",
+      "rationale": "fourfold lamed chain (to David, his seed, his house, his throne) mirrors the curse chain; parallelism kept"
+    }
+  ],
+  "translation": "U ka joli bɛna segin Yowab (Joab) i n'a denw kun na, waati bɛɛ; nka Dawid (Dawuda) ma, ni a denw ma, ni a so ma, ni a sigilanba ma, hɛrɛ bɛna kɛ waati bɛɛ, Yawe fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "073b6f02b96554669512d96159e7aacfe0ac5d23c48b159336762cf540a1d10a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/2\/33-36.1791931684925.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "bɛna segin"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "u ka joli"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "kun na"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ובראש",
+      "gloss": "kun na"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "a denw"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "waati bɛɛ"
+    },
+    {
+      "surface": "ולדוד",
+      "gloss": "Dawid ma"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "a denw ma"
+    },
+    {
+      "surface": "ולביתו",
+      "gloss": "a so ma"
+    },
+    {
+      "surface": "ולכסאו",
+      "gloss": "a sigilanba ma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waati bɛɛ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T22:48:04.930790592Z",
+  "model": "glm-5.3"
+}

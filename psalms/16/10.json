@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered as 'ni' (life\/soul); closer to throat, breath, life-force than an immortal soul."
+    },
+    {
+      "kind": "crux",
+      "subject": "Sheol",
+      "rationale": "Kept as Sheol per discipline; never jahanama; KJV's 'hell' imported later theology."
+    },
+    {
+      "kind": "crux",
+      "subject": "חסידך",
+      "rationale": "'your devout\/pious one' vs 'your Holy One'; rendered 'i ka tiɲɛ-mɔgɔ' (your faithful one) after the Hebrew shape, without later import."
+    }
+  ],
+  "translation": "Sabu i tɛna ne ka ni bila Sheol la, i tɛna i ka tiɲɛ-mɔgɔ bila ka ye koli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/16\/9-11.1791939614983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "bila"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ka ni"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheol la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bila ka"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "i ka tiɲɛ-mɔgɔ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ye"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "koli"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:14.984182252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברזל באה נפשו",
+      "rationale": "KJV fɔ 'a bila nɛgɛ la' — nka Heburukan kɔrɔ tiɲɛna ye ko 'nɛgɛ dona a ni kɔnɔ (נפש)'; LXX b'a fɔ 'nɛgɛ dona a dusukun la'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ni \/ kunbɛn-yɛrɛ ye — a tɛ 'dusukun' ye, a ye ɲɔgɔn-fɔli dɔw ye"
+    }
+  ],
+  "translation": "U ye kangolinw sigi a senw kan ka a jiyɔrɔ; nɛgɛ dona a ni la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/105\/17-20.1791941311734.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "jiyɔrɔ"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "kangolinw"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "a senw"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "nɛgɛ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "dona"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ni la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:28:31.734569800Z",
+  "model": "glm-5.3"
+}

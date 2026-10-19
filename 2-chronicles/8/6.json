@@ -1,0 +1,156 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 8:6",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חשק\/חשק",
+      "rationale": "noun 'delight' and verb 'to delight in' from one root repeated — the echo is flattened in Bambara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חשק",
+      "rationale": "'desire\/delight' rendered as fɛ-verb; the delight-nuance narrowed to 'what he wanted'"
+    },
+    {
+      "kind": "elision",
+      "subject": "היו",
+      "rationale": "past existence verb rendered with 'tun ye' — a tense particle Hebrew marks by context"
+    }
+  ],
+  "translation": "Ni ⟨את⟩ Baalat, ni ⟨את⟩ duguw bɛɛ minnu ye jago-duguw ye minnu tun ye Shelomo (Sɔlɔmɔ) ta, ni ⟨את⟩ wɔrɔ-duguw bɛɛ, ni ⟨את⟩ so-duguw minnu ye funankɛrɛtigi-duguw ye, ani bɛɛ min bɛ Shelomo fɛ ka dilan Yerushalayim (Jerusalɛmu) na, ani Lebanɔn na, ani a ka fanga dugukolo bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0cd70edb6853391723cb2988f4c5aaba27d706b0e18de56ecae86812517c383d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/8\/5-8.1791948908799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "duguw bɛɛ minnu ye jago-duguw ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "jago-duguw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tun ye"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomo ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wɔrɔ-duguw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "wɔrɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "funankɛrɛtigi-duguw"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "funankɛrɛtigiw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bɛɛ min bɛ Shelomo fɛ ka dilan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "min bɛ … fɛ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ka dilan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ובלבנון",
+      "gloss": "Lebanɔn"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "a ka fanga"
+    }
+  ],
+  "timestamp": "2026-10-14T03:35:08.800057653Z",
+  "model": "glm-5.3"
+}

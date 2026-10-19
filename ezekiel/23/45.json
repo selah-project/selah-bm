@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 23:45",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "Hebrew direct-object marker אותהם requires an expressed object pronoun in Bamanankan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "furenw",
+      "rationale": "נאפות rendered as 'adulteresses', literal adultery, also apostasy in Hebrew"
+    }
+  ],
+  "translation": "Mɔgɔ tilennenw, olu na sariya da ⟨u⟩ kan muso-furew sariya ye, ani joli-bɔli-musow sariya ye; sabu u ye furenw ye, joli bɛ u bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c5c91f3b3a04533209cccda0ddeb65d1563c472b7e4f07c49112e95f236b9eea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/23\/45-48.1791937281362.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשים",
+      "gloss": "Ani mɔgɔw"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "tilennenw"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "na sariya da u kan"
+    },
+    {
+      "surface": "אותהם",
+      "gloss": "⟨את⟩",
+      "marks": "u (Ahola ni Aholiba)"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "נאפות",
+      "gloss": "muso-furew"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ani sariya"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "joli-bɔli-musow"
+    },
+    {
+      "surface": "דם",
+      "gloss": "joli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נאפות",
+      "gloss": "furenw"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "olu ye"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ani joli"
+    },
+    {
+      "surface": "בידיהן",
+      "gloss": "u bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T00:21:21.362952991Z",
+  "model": "glm-5.3"
+}

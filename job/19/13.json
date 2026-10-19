@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 19:13",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew omits the subject of הרחיק; 'a' supplied (Yawe, from v.11-12)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרו \/ נכרי",
+      "rationale": "root זור repeats in v.15 (לזר, נכרי) — estrangement chain across the verses"
+    }
+  ],
+  "translation": "N ka balimakɛw — ⟨a⟩ y'u bɔ n sanfɛ ka tin — n ka dɔnninaw tiŋɛ bɛtɛ n ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c85719a68e869bd0c59a723cbe55fe2d1147611f66c00202299e5d1c329fe7da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/19\/13-16.1791943730519.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "n ka balimakɛw"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "n sanfɛ"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "y'u bɔ ka tin"
+    },
+    {
+      "surface": "וידעי",
+      "gloss": "n ka dɔnninaw"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tiŋɛ"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "bɛtɛ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:08:50.519734008Z",
+  "model": "glm-5.3"
+}

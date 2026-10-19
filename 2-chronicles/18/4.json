@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "khayom",
+      "rationale": "'like\/as today' — KJV\/JPS 'today' vs ASV\/BSB 'first' (seek first); Bambara follows 'bi' (today)"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king of Israel",
+      "rationale": "Jehoshaphat's imperative addresses Ahab directly with the courtesy particle 'awura'"
+    }
+  ],
+  "translation": "Yehoshafat ko Isirayɛl masakɛ ma ko: “Awura, i ɲini bi ⟨את⟩ Yawe ka kuma ɲɛ fɛ.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2c2d761bb9e2a0804c12ef98992ba61f43b54c578b4ead2620dcce9be90f42a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/18\/1-4.1791949168798.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "i ɲini"
+    },
+    {
+      "surface": "נא",
+      "gloss": "awura"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ka kuma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T03:39:28.799840851Z",
+  "model": "glm-5.3"
+}

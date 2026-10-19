@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "min \/ o",
+      "rationale": "Relative pronouns supplied for Hebrew participle clauses."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jɔ",
+      "rationale": "יכון 'be established\/stand firm' rendered as jɔ (stand); KJV 'tarry', Geneva 'remain'."
+    }
+  ],
+  "translation": "Min bɛ maafaga kɛ, o tɛ se ka sigi ne so kɔnɔ; min bɛ fɔlɔfɔli kuma, o tɛ se ka jɔ ne ɲɛ sangu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/101\/5-8.1791941239798.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sigi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ne so"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "maafaga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "fɔlɔfɔliw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "jɔ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "sangu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:19.799171534Z",
+  "model": "glm-5.3"
+}

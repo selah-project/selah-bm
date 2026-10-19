@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minɛ a jija",
+      "rationale": "שתולים kɔrɔ ye ko u bɔra yɔrɔ wɛrɛ la k'u jira yan — kɔrɔko-jirali"
+    },
+    {
+      "kind": "addition",
+      "subject": "olu bɛɛ",
+      "rationale": "nɔnabila min b'a jira ko שתולים kɔrɔko bɛ ciya sankolo 12 kan"
+    }
+  ],
+  "translation": "Olu bɛɛ minɛ a jija Yawe so la, an ka Elohim ka ɲɛda-kɔnɔ na, olu bɛna ɲɛfɛnbɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e412f0d7e0e31b96a367318f0332ee2c9e539cbdac9c9c401c93314e702759b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/92\/13-16.1791941092447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "minɛ a jija"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Yawe so la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "ɲɛda-kɔnɔ na"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "ɲɛfɛnbɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:52.448105600Z",
+  "model": "glm-5.3"
+}

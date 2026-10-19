@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "verb",
+      "rationale": "Hebrew withholds the main verb (saved\/delivered) until v12; the list dangles open — bracketed Bambara supplies it early"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "YHWH's rhetorical question addressed directly to the children of Israel"
+    }
+  ],
+  "translation": "Yawe ye kuma Isirayel denw ye, ko: ⟨Yala n ma aw yamaru wa⟩ — Mitsrayim de, ani Emoriw, ani Amɔn denw, ani Pelisitifana —",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "009c45b9a3ac5972de6712fe22ff7cfde225acf1d7fd5becc317e28a47adbdb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/10\/9-12.1791929560341.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ye kuma … ye ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayel"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨wa⟩"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ani … (bolo)"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriw"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ani … (bolo)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amɔn"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ani … (bolo)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisitiw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:12:40.345003884Z",
+  "model": "glm-5.3"
+}

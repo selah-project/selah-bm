@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jɛ",
+      "rationale": "אף kɔrɔtiɲɛ ye nɔgɔ ye (kunbɛ ɲɛminɛ); a bɛ jira Bamanankan na i n'a fɔ jɛ dɔrɔn, kunbɛ taamasiyɛn tumandɔrɔkun bɔra"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tɛmɛsira fila",
+      "rationale": "Kumasen in ye tɛmɛsira kelen-kelen ye: kun-ɲɛnibali fila (kana… kana…), sira fila bɛɛ bɛ tugu a yɛrɛ cogo kelen na"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Dankamini bɛ Yawe fɛ kiɛbɛma; dindunna-maana ye Dawid ka weleli ye"
+    }
+  ],
+  "translation": "Yawe, i kana ne ɲininka i jɛ la, i kana ne lasago i tasuma la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a1da9690225df42e0fdfa4d1cfe16a1eb9cf62543f8f54305f027625c6f94ab0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/6\/2-3.1791951146404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "i jɛ la"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "i ɲininka ne"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i kana"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "i tasuma la"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "i lasago ne"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:26.404699157Z",
+  "model": "glm-5.3"
+}

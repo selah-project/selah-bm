@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חזקי",
+      "rationale": "חזק 'strength' occurs only here in the Tanakh; most versions render it 'my strength'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye ... ye",
+      "rationale": "Bambara copula required; Hebrew is a bare apposition 'my strength'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "direct address opens the song body"
+    }
+  ],
+  "translation": "A ko: Yawe, n b'i kanuya, i ye n ka se ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/1-4.1791939773521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "n b'i kanuya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "n ka se"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:53.522228551Z",
+  "model": "glm-5.3"
+}

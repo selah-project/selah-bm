@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bamanankan bɛ kuma-jɔcogo wajibi, Heburukan ma a sɔrɔ."
+    },
+    {
+      "kind": "crux",
+      "subject": "v2 kumasen",
+      "rationale": "Ibrikan masin (KJV, ASV) b'a fɔ Kehat denw ye, nka Heburukan sɛbɛnnen (JPS, BSB) b'a fɔ Gershon denw ye — masin bɛ Heburukan tilennen ta."
+    }
+  ],
+  "translation": "O denw tɔgɔw ye Gershon denw ye: Libni ani Shimi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f58c106bd707b7e1e1544f436b6674ac016de478aa40c3e4ee95b3d456778c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/6\/1-4.1791947619059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "O"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "tɔgɔw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ani Shimi"
+    }
+  ],
+  "timestamp": "2026-10-14T03:13:39.060469085Z",
+  "model": "glm-5.3"
+}

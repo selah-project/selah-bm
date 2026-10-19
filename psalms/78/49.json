@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kininɛ",
+      "rationale": "אף literally nose\/nostril, anger pictured as burning of the nose"
+    },
+    {
+      "kind": "crux",
+      "subject": "משלחת",
+      "rationale": "mission\/sending vs 'band' of destroying angels — rendered here as ciyɔrɔ (sending-path)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משלחת",
+      "rationale": "מִשְׁלַחַת appears only here in the Tanakh in this sense"
+    }
+  ],
+  "translation": "A y'a ci u kan — a kininɛ ka ju, a dantigɛ, a jalo, ani gɛlɛya — jiɲɛma cidɛnw ciyɔrɔ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/49-52.1791940801640.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "y'a ci"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ka ju"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "a kininɛ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "dantigɛ"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "gɛlɛya"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "ciyɔrɔ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "cidɛnw"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "jiɲɛma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:01.641355667Z",
+  "model": "glm-5.3"
+}

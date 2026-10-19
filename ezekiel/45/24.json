@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 45:24",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "efa \/ hin",
+      "rationale": "Rationed measures: an ephah of grain per bull and per ram, a hin of oil per ephah."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kisɛ-saraka",
+      "rationale": "מנחה is a grain-tribute offering; rendered 'kisɛ-saraka' (grain offering), its tribute nuance narrowed."
+    }
+  ],
+  "translation": "Ani kisɛ-saraka: efa kelen misi kelen kama, ani efa kelen sagakɛ kelen kama, a bɛna o dilan; ani tulu, hin kelen efa kelen kama.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "71fef6124124922a471a36a195be2d461eb7ba14c115d53cfe54d33f52cb6058",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/45\/21-24.1791937939137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחה",
+      "gloss": "ani kisɛ-saraka"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa kelen"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "misi kelen kama"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ani efa kelen"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "sagakɛ kelen kama"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a bɛna o dilan"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ani tulu"
+    },
+    {
+      "surface": "הין",
+      "gloss": "hin kelen"
+    },
+    {
+      "surface": "לאיפה",
+      "gloss": "efa kelen kama"
+    }
+  ],
+  "timestamp": "2026-10-14T00:32:19.138784047Z",
+  "model": "glm-5.3"
+}

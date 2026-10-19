@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 13:8",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוא הם",
+      "rationale": "rhetorical 'are they not written?' rendered with Bambara question frame 'yala … wa'"
+    },
+    {
+      "kind": "elision",
+      "subject": "דברי הימים",
+      "rationale": "'don-kumaw' keeps literal 'words of the days' (chronicles) rather than a borrowed title"
+    }
+  ],
+  "translation": "Yehoahaz ka kumaw tɔɔrɔ, ani bɛɛ min na a kɛra, ani a ka fanga — yala olu tɛ sɛbɛn ɲɛ don-kumaw sɛbɛn kɔnɔ, min ye Israyel masaw ta ye, wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/13\/5-8.1791932985497.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "tɔɔrɔ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a kɛra"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "ani a ka fanga"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "yala … wa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "olu"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "…tɛ sɛbɛnna"
+    },
+    {
+      "surface": "על",
+      "gloss": "…kɔnɔ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…kumaw"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "don"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "masaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    }
+  ],
+  "timestamp": "2026-10-13T23:09:45.509257121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the poor \/ to David's hearers",
+      "rationale": "First-person testimony implicitly addresses the community summoned in v.4."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sirannenw",
+      "rationale": "מגורות is 'terrors\/fears' — rendered as 'things that make one flee'."
+    }
+  ],
+  "translation": "N ye ⟨את⟩ Yawe ɲini, a ye n jaabi, k'a bɔ n ka sirannenw bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/34\/5-8.1791939956982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "n ye … ɲini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "a ye n jaabi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "n ka sirannenw"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "a bɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:56.982781175Z",
+  "model": "glm-5.3"
+}

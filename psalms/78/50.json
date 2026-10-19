@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is throat\/life-breath, rendered as Bambara ni (life-force)"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפלס",
+      "rationale": "to level\/weigh: 'weighed a path' vs 'cleared a path' for His anger"
+    }
+  ],
+  "translation": "A y'a kininɛ ma sira lanbɛ; a mana hɔrɔnya u ni saya ye, ka u ka ni balo di banba ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/49-52.1791940801640.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "y'a … lanbɛ"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "sira"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "a kininɛ ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "hɔrɔnya"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ni saya ye"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "u ka ni"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "u ka ni balo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "banba ma"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "di"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:01.641547537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "copula-particle supplied for the verbless clause a ka bon ne ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dɔnniya",
+      "rationale": "חכמה rendered as 'knowledge-wisdom', the standing Bambara term"
+    }
+  ],
+  "translation": "N ye o fana ye: dɔnniya tile jukɔrɔ, wa a ka bon ne ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "48c71b762548b48ddb64f054fbfb93b67febd9eb6ee63540abdc6fb0e58bf4be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/9\/13-16.1791945296849.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "N ye … ye"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "dɔnniya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jukɔrɔ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "wa a ka bon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "a"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:34:56.850260414Z",
+  "model": "glm-5.3"
+}

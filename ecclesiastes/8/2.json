@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אני",
+      "rationale": "Bare 'I' — read as 'I counsel thee', 'I keep', or the king's own oath 'by my mouth, O king'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨An b'a fɔ i ye⟩",
+      "rationale": "Hebrew's abrupt אני needs an addressee-verb frame in Bamanankan."
+    }
+  ],
+  "translation": "⟨An b'a fɔ i ye:⟩ masakɛ ka da kɔlɔsi, sabu Elohim ka layidu-sɔgɔli ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/8\/1-4.1791945280718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "An"
+    },
+    {
+      "surface": "פי",
+      "gloss": "da"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sabu … ye"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "(sabu-kuma)"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "layidu-sɔgɔli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T02:34:40.719349026Z",
+  "model": "glm-5.3"
+}

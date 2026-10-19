@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "alsiri ni dibi",
+      "rationale": "Cloud and gloom surround Yawe — deliberate concealment of the divine presence."
+    },
+    {
+      "kind": "addition",
+      "subject": "a ka",
+      "rationale": "Hebrew construct מכון כסאו binds 'foundation of his throne' without a possessive word; Bambara supplies it."
+    }
+  ],
+  "translation": "Alsiri ni dibi bɛ a bɛɛ; titige ni masisɔ ye ⟨a ka⟩ siginkɔrɔ sigili ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/97\/1-4.1791941173778.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "alsiri"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ni dibi"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "bɛ a bɛɛ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "titige"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ni masisɔ"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "sigili"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "siginkɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:13.779198530Z",
+  "model": "glm-5.3"
+}

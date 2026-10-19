@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שחברה־יחדו",
+      "rationale": "Hebrew pairs 'joined' with 'together' — near-redundant intensification of unity."
+    },
+    {
+      "kind": "crux",
+      "subject": "לה",
+      "rationale": "'To itself' (city joined to itself) vs 'to it\/yah' — some read a hidden divine name in the suffix."
+    }
+  ],
+  "translation": "Yerushalayim, min labanna, a bɛ bɛn dugu ye min farala ɲɔgɔn kan ka kelen ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/122\/1-4.1791941793419.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "min labanna"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "a bɛ bɛn dugu ye"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "min farala ɲɔgɔn kan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a yɛrɛ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ka kelen ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:33.420170502Z",
+  "model": "glm-5.3"
+}

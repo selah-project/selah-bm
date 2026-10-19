@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "Literally 'nothingness\/vanity'; rendered jurumu (iniquity), a single word for a wide range."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yɛrɛ⟩",
+      "rationale": "Hebrew verb 'cover themselves' carries the reflexive without a pronoun."
+    }
+  ],
+  "translation": "U ka dalaw tɛ se ka kɛ ɲɔgɔn ye, u tɛ se ka u yɛrɛ datugu u ka baaraw ye; u ka baaraw ye jurumu baaraw ye, ani basitɛɲɛ baara bɛ u ka bolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6e6cadf105f81a8450ef9f254f281feaf64de37bc378f7a5da325cd77893e7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/59\/5-8.1791934803887.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "u ka dalaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "ɲɔgɔn ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani tɛ"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "datugu"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "u ka baaraw ye"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "u ka baaraw"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "baaraw"
+    },
+    {
+      "surface": "און",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ani baara"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "basitɛɲɛ"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "u ka bolo la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:40:04.072489736Z",
+  "model": "glm-5.3"
+}

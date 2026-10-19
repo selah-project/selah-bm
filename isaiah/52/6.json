@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "כי bɛ fɔ 'ko' (that) ye kumasen in lakuraya la, nka Hebrew kɔnɔ a bɛ tɛmɛ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nin de ne ye",
+      "rationale": "הנני ye 'here I am' ye — Bamanankan b'a fɔ ni 'nin de ne ye' ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לכן ... לכן",
+      "rationale": "Daɲɛ fila nɔnabila-yɛlɛma (l\/k\/n) ka segin o kɔnɔ, a bɛ jira Bamanankan na ni 'o la ... o la' ye"
+    }
+  ],
+  "translation": "O la, n ka jama bɛna n ka tɔgɔ dɔn; o la, o don in na, ⟨ko⟩ ne de ye min bɛ kuma fɔ — nin de ne ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6c8a2c4a33c94b96b592ac118a79b11390028c4e9e8cca95e7fe64bd99e2bb79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/52\/6-7.1791950798122.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "o la"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bɛna dɔn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n ka jama"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "n ka tɔgɔ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "o la"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o don in na"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ko⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne de"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ale de"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "min bɛ kuma fɔ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nin de ne ye"
+    }
+  ],
+  "timestamp": "2026-10-14T04:06:38.123314234Z",
+  "model": "glm-5.3"
+}

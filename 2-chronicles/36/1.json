@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dugukolo mɔgɔw",
+      "rationale": "עם הארץ ye jɔyɔrɔ-cogoya daɲɛ ye min bɛɛ bɛ ta kelen na — mɔgɔw minnu bɛ dugukolo la"
+    },
+    {
+      "kind": "measurement",
+      "subject": "masakɛya",
+      "rationale": "jɔyɔrɔ-fɔli: masakɛ dɔ bilali a fa nɔ na"
+    }
+  ],
+  "translation": "Dugukolo mɔgɔw ye ⟨את⟩ Yehoachaz (Yehowachazi) min ye Yoshiyahu (Yoshiya) denkɛ ye ta, k'a bila masakɛya la a fa nɔ na Yerushalayim (Jerusalɛmu) na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3db89a6fa8e7eb30aa1c0cf18e1b8a4fcd02324c19d64b1d494fa30136a7b23f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/36\/1-4.1791949888784.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "k'a bilala masakɛya la"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nɔ na"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-14T03:51:28.785143535Z",
+  "model": "glm-5.3"
+}

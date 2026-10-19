@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 4:26",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kɛra ... ye",
+      "rationale": "Hebrew juxtaposes two nouns (field — wilderness) without copula; Bambara requires kɛra...ye"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרון אפו",
+      "rationale": "literally 'the burning of his nose' — Hebrew idiom for fierce anger; rendered 'a nɔ furatɔ' (the burning of his nose) to keep the picture"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכרמל",
+      "rationale": "'planted field\/garden-land' — some read the proper name Carmel; rendered as common noun 'foro'"
+    }
+  ],
+  "translation": "N y'a ye, i na fɔ, foro kɛra dɔmoyakoro ye, ani duguw bɛɛ nana tu Yawe ɲɛ fɛ, a nɔ furatɔ ɲɛ fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b0977cf8996c91a22f42e9f0aee1c3f74584886385ef77c369525eb3da27565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/4\/25-28.1791935022853.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "N y'a ye"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i na fɔ"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "foro"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dɔmoyakoro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "nana tu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɲɛ fɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɲɛ fɛ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "furatɔ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "a nɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:43:42.854578645Z",
+  "model": "glm-5.3"
+}

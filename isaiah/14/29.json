@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 14:29",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Philistia",
+      "rationale": "The whole verse addresses Pelesheth as a feminine singular addressee."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sa fitini",
+      "rationale": "צפע is a specific viper; Bambara has no everyday word for it, so 'small snake' keeps the picture without inventing a term."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "snake lineage",
+      "rationale": "Hebrew escalates serpent → viper → flying saraph in a chain (three snake-words), a rhetorical escalation kept by hyphenating the third."
+    },
+    {
+      "kind": "crux",
+      "subject": "שבט מכך",
+      "rationale": "'the rod of your smiter' (the striker's rod) vs 'the rod that smote you' — whose rod, and who the smiter is (Assyria\/Ahaz) is disputed."
+    }
+  ],
+  "translation": "I kana ɲɛ, Peleshetɔw (Filistitɔw), i bɛɛ ye, sabu i min furakɛla ka bɛn bɔnen na; sabu sa ka sumaya fɛ, sa fitini bɛna bɔ, a ka den ye sa-min-bɛ-tasuma-ye-min-bɛ-tugu ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7e1e192fb7568955d3ed558ea1362fe6b04dafa03faa455085855ec11e20a70a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/14\/29-32.1791933803972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshetɔw"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "i bɛɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "bɔnen na"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "מכך",
+      "gloss": "i min furakɛla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "משרש",
+      "gloss": "sa ka sumaya fɛ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bɛna bɔ"
+    },
+    {
+      "surface": "צפע",
+      "gloss": "sa fitini"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "a ka den"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "min bɛ tasuma ye"
+    },
+    {
+      "surface": "מעופף",
+      "gloss": "min bɛ tugu"
+    }
+  ],
+  "timestamp": "2026-10-13T23:23:23.975697567Z",
+  "model": "glm-5.3"
+}

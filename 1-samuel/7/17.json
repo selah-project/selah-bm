@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a ka segili tun ye",
+      "rationale": "ותשבתו ye 'a ka segili' ye — san o san ka taama kɔlɔli, KJV fɔ 'his return was'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם x3",
+      "rationale": "daɲɛ 'sira min na' dulaba sabaa (sham) jukɔrɔ-kɔrɔ — jɔcogo yen ka nɔgɔya Bamanankan na"
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Bamanankan ka kan ka waati-daɲɛ 'tun' fara a kan, Heburukan ma a sɔrɔ"
+    }
+  ],
+  "translation": "A ka segili tun ye Rama (Ramata) ye, sabu a ka so ye sira min na, a y'⟨את⟩ Israyɛl (Israyili) ɲɛda-masara yira sira min na, a ye sarakabɔlan da Yawe ye sira min na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e714e65e23afa962580ad43f5c895393ae69c157cee7a3c2911844bae3b26786",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/7\/17-17.1791929925221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "a ka segili tun ye"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Rama (Ramata)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sira min na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a ka so"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "sira min na"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ɲɛda-masara yira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl (Israyili)"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a ye ... da"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sira min na"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarakabɔlan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ye"
+    }
+  ],
+  "timestamp": "2026-10-13T22:18:45.223628792Z",
+  "model": "glm-5.3"
+}

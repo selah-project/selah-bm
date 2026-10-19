@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 9:2",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kisɛ",
+      "rationale": "זרע is literally 'seed'; kept the seed-picture rather than 'descendants'."
+    },
+    {
+      "kind": "elision",
+      "subject": "לפני יהוה",
+      "rationale": "Hebrew of this verse has no 'before YHWH'; Wycliffe and Geneva supply it — the Hebrew only says 'they stood'."
+    }
+  ],
+  "translation": "Yisrayɛl kisɛw ye u yɛrɛ bɔ madekow denw bɛɛ la; u jɔra, u y'u jurumu fɔ, ni u baw ka juguyaliw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7df96e07a80ec1d0bd97725d0c7d5b960c9ebe58508f312f625a658ce3cb3f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/9\/1-4.1791947166373.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבדלו",
+      "gloss": "u ye u bɔ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kisɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛl"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "madeko"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "u jɔra"
+    },
+    {
+      "surface": "ויתודו",
+      "gloss": "u y'u jurumu fɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חטאתיהם",
+      "gloss": "u jurumuw"
+    },
+    {
+      "surface": "ועונות",
+      "gloss": "juguyaliw"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "u baw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:06:06.374282533Z",
+  "model": "glm-5.3"
+}

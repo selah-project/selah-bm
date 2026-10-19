@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "baji",
+      "rationale": "הנהר with article: tradition reads the Jordan (or Red Sea second crossing); rendered simply 'baji kɔnɔ' without naming the river"
+    },
+    {
+      "kind": "alternative",
+      "subject": "an donya",
+      "rationale": "cohortal 'let us rejoice' (jps) vs past 'we rejoiced' (kjb); Bambara leaves the tense open"
+    }
+  ],
+  "translation": "A ye kɔgɔji yɛlɛma ka kɛ dugukolo yɛrɛyɛrɛ ye; baji kɔnɔ, u ye senw ye taara; yonin, an donya a la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/66\/5-8.1791940470323.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "a y'a yɛlɛma"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "dugukolo yɛrɛyɛrɛ"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "baji kɔnɔ"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "u taara"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ni senw ye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yonin"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "an donya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:30.323798344Z",
+  "model": "glm-5.3"
+}

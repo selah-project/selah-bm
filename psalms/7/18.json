@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tilelenya",
+      "rationale": "צדק is rightness\/equity; tilelenya (straightness\/uprightness) is the closest Bamanankan shape"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔnɔdon",
+      "rationale": "זמר is to play strings; kɔnɔdon (praise song) loses the instrumental picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "ne",
+      "rationale": "Bamanankan requires the first-person subject pronoun that the Hebrew verb suffix carries implicitly"
+    }
+  ],
+  "translation": "Ne bɛna Yawe dankari a tilelenya la, ne bɛna Yawe Elyon tɔgɔ kɔnɔdon.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/7\/17-18.1791939593425.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ne bɛna dankari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "a tilelenya la"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ne bɛna kɔnɔdon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-10-14T00:59:53.426462904Z",
+  "model": "glm-5.3"
+}

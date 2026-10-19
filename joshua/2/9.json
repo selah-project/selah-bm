@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 2:9",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "di",
+      "rationale": "Hebrew has no 'to give' for Bambara, the verb 'di' takes 'ye … … ma' to build the construction"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nɔgɔya",
+      "rationale": "נמגו literally means 'to melt\/flow away', here rendered with the word 'nɔgɔya'"
+    },
+    {
+      "kind": "you",
+      "subject": "cɛw",
+      "rationale": "Rahab is directly addressing the two Israelite spies"
+    }
+  ],
+  "translation": "A y'a ko cɛw ma: n b'a dɔn ko Yawe ye ⟨את⟩ dugukolo di aw ma, ani ko aw ka siran dugunna an kan, ani ko dugukolo sigilenw bɛɛ bɛ nɔgɔya aw ɲɛ fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6b3ed85f11e9aefad794832e46a5eb8cf8e76a0f8325d9120289efa5f516715f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/2\/9-12.1791928610799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a y'a ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "cɛw"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "n b'a dɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ye … di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ani ko"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "dugunna"
+    },
+    {
+      "surface": "אימתכם",
+      "gloss": "aw ka siran"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "an kan"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ani ko"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "bɛ nɔgɔya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sigilenw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "aw ɲɛ fɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:56:50.800672799Z",
+  "model": "glm-5.3"
+}

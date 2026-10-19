@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויד",
+      "rationale": "yad = 'bolo' (hand) ni 'yɔrɔ' (place) cɛ: KJV\/JPS daɲɛ 'place', YLT 'station'; an b'o mara bolo-yɔrɔ ye."
+    },
+    {
+      "kind": "you",
+      "subject": "Israɛl",
+      "rationale": "Sariya in da Israɛl kan ye, nɔnabila 'lǝkha' fɛ."
+    }
+  ],
+  "translation": "Bolo-yɔrɔ dɔ bɛna sɔrɔ i bolo mabɛnso kɔkan, ani i bɛna taa yen kɔkan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/23\/13-16.1791928165725.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "bolo-yɔrɔ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bɛna sɔrɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i bolo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kɔkan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "mabɛnso kɔkan"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "i bɛna taa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "kɔkan"
+    }
+  ],
+  "timestamp": "2026-10-13T21:49:25.726665123Z",
+  "model": "glm-5.3"
+}

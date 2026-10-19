@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nɔgɔya",
+      "rationale": "החליק literally 'he made smooth'; rendered 'smoothed it over for himself', the flattery picture kept"
+    },
+    {
+      "kind": "crux",
+      "subject": "למצא עונו לשנא",
+      "rationale": "'to find his iniquity to be hated' — KJV reads 'until his iniquity be found to be hateful'; ASV reads 'will not be found out'; kept the literal infinitives"
+    }
+  ],
+  "translation": "Sabu a y'a nɔgɔya a yɛrɛ bolo a ɲɛ la, ka a ka jurumu don, ka o ta ko jugu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/36\/1-4.1791940023264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "nɔgɔya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a ɲɛ la"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ka … don"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "a ka jurumu"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ka o ta ko jugu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:03.265266065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 15:10",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔsɔn",
+      "rationale": "כתף ye fana ye kosɔn; ni Ibrayislan ye kulu 'kosɔn' bɔ cogo min na, Bambara bɛ o kɔrɔ ta fana"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tilebin",
+      "rationale": "ימה kɔrɔ ye 'kɔgɔji fɛ' ye, nka Isirayili jamanaw la, o bɛ fɔ tilebin fan ye k'a sababu kɛ Kɔgɔji Kɔrɔlen ye"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Yuda ka dan minɛn",
+      "rationale": "Dan minɛ taamasiyɛn bɛ taa Seir, Kesalon, Bet-Shemesh, Timna"
+    }
+  ],
+  "translation": "Dan ye a yɛlɛma Bala la ka taa tilebin fɛ, seere Seir kulu ma, ka tɛmɛ ka taa Yearim kuluw kɔsɔn la saheli fan fɛ — o ye Kesalon ye — ka na duguma Bet-Shemesh, ka tɛmɛ Timna.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "47e908eeaf8f49b712a0a7f2de2b4ebfa636882f2921b63c49117259ecb0e627",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/15\/9-12.1791928943592.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "ka yɛlɛma"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מבעלה",
+      "gloss": "Bala la"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "tilebin fɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ka tɛmɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "kɔsɔn"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kuluw"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim"
+    },
+    {
+      "surface": "מצפונה",
+      "gloss": "saheli fan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o ye"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "Kesalon"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ka na duguma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ka tɛmɛ"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "Timna"
+    }
+  ],
+  "timestamp": "2026-10-13T22:02:23.598563220Z",
+  "model": "glm-5.3"
+}

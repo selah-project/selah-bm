@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותי",
+      "rationale": "aleph-tav ni nɔnabila dɔrɔn, Yawe b'a jira a nɔ na"
+    },
+    {
+      "kind": "substitution",
+      "subject": "להושיע",
+      "rationale": "lasigi: kokura daɲɛ bɛ לא אוסיף kɔnɔ, 'n tɛna aw lasigi kokura'"
+    },
+    {
+      "kind": "you",
+      "subject": "Israelya ka jama",
+      "rationale": "Yawe kuma bɛ tɛmɛ Israelya bɛɛ kan, aw fɛ"
+    }
+  ],
+  "translation": "Nka aw yiyɛlɛma Yawe bolo, aw ye batofɛnw wɛrɛw jɔiya, o la n tɛna aw lasigi kokura.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/10\/13-16.1791929539567.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "aw yiyɛlɛma…bolo (aw bɔli Yawe la)"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "Yawe (⟨את⟩ min b'a jira)"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "aw ye…jɔiya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "batofɛnw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wɛrɛw"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "o la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "tɛna…kokura"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "lasigi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:12:19.571044182Z",
+  "model": "glm-5.3"
+}

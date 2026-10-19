@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דובב",
+      "rationale": "unique in Tanakh; root suggests gliding\/moving — 'moving the lips of sleepers'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שפתי ישנים",
+      "rationale": "'lips of the sleepers': drowsy lips murmuring, vs 'aged' (LXX\/aged, ylt), vs literally sleeping"
+    }
+  ],
+  "translation": "I ka da ye diwɛn nyuman ye, min bɛ taa a yɛrɛ ye Dɔdi fɛ, tilema la; a bɛ suɔmɔgɔw ka fɛnɛw tɛmɛ ka kuma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/7\/9-12.1791944673482.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "i ka da"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "i ko diwɛn"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nyuman"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "min bɛ taa"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "Dɔdi fɛ"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "tilema la"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "bɛ ... tɛmɛ ka kuma"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "fɛnɛw"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "suɔmɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:24:33.483697068Z",
+  "model": "glm-5.3"
+}

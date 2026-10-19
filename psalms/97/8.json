@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "i ka sariyaw",
+      "rationale": "Second-person address to Yawe begins here; 'i ka' (your) marks the direct addressee."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sariyaw",
+      "rationale": "משפטיך 'your verdicts\/judgments' rendered with the law-word sariya, losing the judicial-verdict shade."
+    }
+  ],
+  "translation": "Siyɔn (Ziyo) y'a mɛn, a diya; Yuda denmusow diyalen don i ka sariyaw la, Yawe.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "90ca7e6f79129eb100cd2a224c5a80a2d7aa9fcba58f34eadf132578bf49818c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/97\/5-8.1791941196349.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "y'a mɛn"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "a diya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyɔn"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "diyalen don"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "denmusow"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "...la"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "i ka sariyaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:36.350303539Z",
+  "model": "glm-5.3"
+}

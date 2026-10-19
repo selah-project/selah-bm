@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 65:1",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mɔgɔw fɛ",
+      "rationale": "Bambara passive -ra needs no agent; agent phrase supplied and bracketed for the Hebrew 'to-those-who' construction"
+    },
+    {
+      "kind": "crux",
+      "subject": "ne ɲinira",
+      "rationale": "נדרשתי Niphal passive 'I was inquired of' vs JPS 'I gave access'; passive rendering kept"
+    }
+  ],
+  "translation": "Ne ɲinira ⟨mɔgɔw fɛ⟩ minnu ma ɲini; ne yera minnu ma ne ɲini. Ne y'a fɔ ko: Nin ne de, nin ne de, siya min tɛ wele ni ne tɔgɔ ye ⟨ma⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ec6d24d98bc3c49334ea8e65009354aa4de03dae426c5af008d8061d1a71489a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/65\/1-4.1791934924249.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדרשתי",
+      "gloss": "ne ɲinira"
+    },
+    {
+      "surface": "ללוא",
+      "gloss": "minnu ma"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ɲini"
+    },
+    {
+      "surface": "נמצאתי",
+      "gloss": "ne yera"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "minnu ma"
+    },
+    {
+      "surface": "בקשני",
+      "gloss": "ne ɲini"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ne y'a fɔ ko"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nin ne de"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nin ne de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ma⟩"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "min tɛ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wele"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ni ne tɔgɔ ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:42:04.250833985Z",
+  "model": "glm-5.3"
+}

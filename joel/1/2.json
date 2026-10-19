@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yala … ?",
+      "rationale": "Hebrew yes\/no question marked only by intonation; Bambara needs yala…la"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Mɛn",
+      "rationale": "imperative summons opening the book of Joel"
+    },
+    {
+      "kind": "you",
+      "subject": "kɔrɔbɔrɔbagaw ani dugubaw",
+      "rationale": "elders and land-dwellers addressed directly as witnesses"
+    }
+  ],
+  "translation": "Mɛn nin, aw kɔrɔbɔrɔbagaw, ani kɛ tulo-dilan dugukolo bɛɛ dugubaw: yala nin kɛra aw tilew la, walima aw banaw tilew la?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ccaab6ecf0c2ec7cbec9f6388b619678d029be0bc6bd527957ab7dec0e226cd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joel\/1\/2-3.1791951038628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mɛn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "kɔrɔbɔrɔbagaw"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "ani kɛ tulo-dilan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dugubaw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "yala … kɛra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "aw tilew la"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walima"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "tilew la"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "aw banaw"
+    }
+  ],
+  "timestamp": "2026-10-14T04:10:38.629477170Z",
+  "model": "glm-5.3"
+}

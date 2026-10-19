@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתו",
+      "rationale": "Here אתו reads as 'with him' (preposition) rather than the object marker; bracket kept per discipline."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kabakurunw",
+      "rationale": "Hebrew says simply 'stones'; 'precious' (שה) implied by context, not added here."
+    }
+  ],
+  "translation": "Minnu ye ⟨את⟩ kabakurunw sɔrɔ, u ye ⟨את⟩ olu di Yawe so marayɔrɔ la, Yehiyeli (Yehiyeli) Gershoniden bolo fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "968b2f9747132728733d87a698d8d064194abaf82eb81635d3d438f471a47da9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/29\/5-8.1791948472766.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "minnu ye ... sɔrɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a ni — kabakurunw minnu ye sɔrɔ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kabakurunw"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "u ye ... di"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "marayɔrɔ la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Yehiyeli"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Gershoniden"
+    }
+  ],
+  "timestamp": "2026-10-14T03:27:52.767712687Z",
+  "model": "glm-5.3"
+}

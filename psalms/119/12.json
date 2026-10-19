@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ברוך אתה",
+      "rationale": "Lit. 'kneeled\/blessed are you'; rendered with 'dubatigi' (giver of blessing) — a shape change to make the adjective attributive"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חקיך",
+      "rationale": "חוק is an enacted statute\/appointment; rendered 'sariya kuntilenna' (inscribed statutes) to keep the enactment sense distinct from Torah as a whole"
+    },
+    {
+      "kind": "invitation",
+      "subject": "למדני",
+      "rationale": "Imperative petition: 'teach me' — a direct request to Yawe"
+    }
+  ],
+  "translation": "I ye dubatigiw ye, Yawe; i k'a kalan ne ye i sariyaw kuntilenna.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/9-12.1791941573250.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "I ye dubatigiw ye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "i k'a kalan ne ye"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i sariyaw kuntilenna"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:53.251019992Z",
+  "model": "glm-5.3"
+}

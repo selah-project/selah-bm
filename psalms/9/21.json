@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mora",
+      "rationale": "מורה: 'fear\/terror' (KJV, JPS) vs 'lawgiver\/director' (Wycliffe, YLT) — a famous split over the root."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hadamadenw",
+      "rationale": "אנוש is 'mortal' — a word for human frailty, weaker than אדם; 'hadamaden' keeps the mortal sense."
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "סלה is a musical pause mark, kept as the loanword Sela rather than translated."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Direct imperatives addressed to Yawe, closing the psalm's petition."
+    }
+  ],
+  "translation": "Yawe, i kɛ Siran-yɛlɛma, u bila siran kɔnɔ, walasa siyaw bɛna dɔn ko olu ye hadamadenw de ye. Sela.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "60f23c74c0b7a0dda8c2730f3e0f7b723a2ac2caa1d68f3be95aacc4ba63cb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/9\/21-21.1791939586813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "i kɛ Siran-yɛlɛma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "siran"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bɛna dɔn"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "hadamadenw"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-14T00:59:46.814240677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 52:9",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ye",
+      "rationale": "Hebrew fɔ אתו has no separate pronoun; Bambara needs 'a ye'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sariya-fɔliw",
+      "rationale": "משפטים literal 'verdicts\/judgments' plural; 'he spoke judgments with him'"
+    }
+  ],
+  "translation": "U ye masakɛ min, u nana ta ⟨אתו⟩ ka na a bɔ masakɛ Bawel (Babilɔn) fɛ Riwla, Hamat jamana kɔnɔ, ka sariya-fɔliw fɔ ⟨אתו⟩ a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f774a354f1bb6caa333b9e0b66f66cd83ecdce04581c7779b6931039a7001c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/52\/9-12.1791936466289.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masakɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "nana ta … ka na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "a (Sidkiyahu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bawel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Riwla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "jamana kɔnɔ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ka … fɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a ye"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "sariya-fɔliw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:07:46.290586254Z",
+  "model": "glm-5.3"
+}

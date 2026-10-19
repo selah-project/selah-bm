@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נושה",
+      "rationale": "'creditor' (JPS) vs 'extortioner' (KJV); root means lender on interest — kalanin tigi leans creditor"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a bɛɛ⟩",
+      "rationale": "Hebrew לכל אשר לו 'all that is to him' is fronted; Bambara needs the object marked as a bracketed phrase"
+    }
+  ],
+  "translation": "Kalanin tigi ka jonto bila ⟨a bɛɛ⟩ la min bɛ a bolo, ni winnw ka a ka baaradenw ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/109\/9-12.1791941423219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "jonto bila"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "kalanin tigi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "ולבזו",
+      "gloss": "ka ta"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "winnw"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "a ka baaradenw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:23.220452283Z",
+  "model": "glm-5.3"
+}

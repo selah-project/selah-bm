@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tile jukɔrɔ",
+      "rationale": "Hebrew idiom 'under the sun' rendered literally: tile jukɔrɔ; means 'in this world'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ורבה",
+      "rationale": "'heavy upon' (KJV 'common', JPS 'heavy') vs 'great upon' — rendered here as burdensome"
+    }
+  ],
+  "translation": "Bagoni dɔ bɛ, min n ye tile jukɔrɔ, a ka gɛlɛ koŋ mɔgɔw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e7d615df2aede3ce82de5c4d7bae7ef0fde2a970b29d382b558e6dc71bf68ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/6\/1-4.1791945322334.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "bɛ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bagoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "n ye … ye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jukɔrɔ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "a ka gɛlɛ koŋ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:35:22.335868390Z",
+  "model": "glm-5.3"
+}

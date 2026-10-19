@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tɔɔw",
+      "rationale": "זרים 'strangers\/foreigners' rendered with the plain word for stranger; no separate honorific layer in Hebrew"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Yawe addresses Jerusalem's leaders directly"
+    }
+  ],
+  "translation": "N bɛna aw bɔ ⟨את⟩ a cɛma, n bɛna aw di ⟨את⟩ tɔɔw ka bolo ma, n bɛna sariyaw kɛ aw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/11\/9-12.1791936749535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "n bɛna aw bɔ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "a cɛma"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "n bɛna aw di"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka bolo ma"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "tɔɔw"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "n bɛna kɛ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "aw kan"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "sariyaw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:12:29.535920369Z",
+  "model": "glm-5.3"
+}

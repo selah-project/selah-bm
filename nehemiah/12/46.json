@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 12:46",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מקדם",
+      "rationale": "Read as adverb 'of old' (ASV\/JPS) rather than attaching to Asaph ('Asaph of old')."
+    },
+    {
+      "kind": "addition",
+      "subject": "tun yera",
+      "rationale": "Bambara past-tense particle supplied; Hebrew verbless clause."
+    },
+    {
+      "kind": "measurement",
+      "subject": "roster of singers",
+      "rationale": "Verse cites the ancient order of chief singers under David and Asaph — a founding-institution record."
+    }
+  ],
+  "translation": "Sabu Dawida (Dawuda) ni Asaf (Asafi) tilew la, kɔrɔ ya, donkilidaɲɛmɔgɔw ka kuntilanw tun yera, donkili — fisaya ni ɲɛcamɛni — Elohim la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "398cdb4597e9ce9c9ae63dede15a3d7b260848815d1ca761e2f97b6f4c24cf2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/12\/45-47.1791947222368.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "tilew la"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kɔrɔ ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kuntilanw"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "donkilidaɲɛmɔgɔw"
+    },
+    {
+      "surface": "ושיר",
+      "gloss": "donkili"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "fisaya"
+    },
+    {
+      "surface": "והדות",
+      "gloss": "ɲɛcamɛni"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim la"
+    }
+  ],
+  "timestamp": "2026-10-14T03:07:02.369891667Z",
+  "model": "glm-5.3"
+}

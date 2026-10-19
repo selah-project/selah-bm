@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 27:16",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nophek-kɔkuruw",
+      "rationale": "בנפך: emerald (KJV\/ASV) vs garnet (Strong's) vs turquoise (BSB) — gem identification uncertain."
+    },
+    {
+      "kind": "crux",
+      "subject": "kadkad",
+      "rationale": "כדכד: ruby (Strong's\/JPS) vs agate (KJV); transliterated to keep the ambiguity."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעזבוניך",
+      "rationale": "Rendered 'jagoyɔrɔ' (market-place); can also mean trade-goods\/revenue, as YLT's 'remnants'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "aŋɛlenbin",
+      "rationale": "ארגמן is purple dye\/cloth; Bambara has no single word, so 'red-dyed cloth' compound used."
+    }
+  ],
+  "translation": "Aram ye i ka jagobaga ye i ka baarabonya la; u ye nophek-kɔkuruw, aŋɛlenbin, fini ɲɛfɔlenw, bulangi fini, kɔralli ani kadkad di i ka jagoyɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9d9adf4f2f0977201574e69e27d97df3175c8d3bbc283254c7f01633acd25664",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/27\/16-16.1791950979155.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "סחרתך",
+      "gloss": "i ka jagobaga"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "bɔnya la"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "i ka baaraw"
+    },
+    {
+      "surface": "בנפך",
+      "gloss": "nophek-kɔkuruw"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "aŋɛlenbin"
+    },
+    {
+      "surface": "ורקמה",
+      "gloss": "fini ɲɛfɔlenw"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "bulangi fini"
+    },
+    {
+      "surface": "וראמת",
+      "gloss": "kɔralli"
+    },
+    {
+      "surface": "וכדכד",
+      "gloss": "kadkad"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "u ye ... di"
+    },
+    {
+      "surface": "בעזבוניך",
+      "gloss": "i ka jagoyɔrɔ la"
+    }
+  ],
+  "timestamp": "2026-10-14T04:09:39.155984667Z",
+  "model": "glm-5.3"
+}

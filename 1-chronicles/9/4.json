@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tɔgɔjate",
+      "rationale": "Pure genealogical chain — a name register, ancestor to descendant."
+    },
+    {
+      "kind": "crux",
+      "subject": "בנימן",
+      "rationale": "Ketiv בנימן read as personal name 'Bani' (KJV\/ASV), not the tribe Benjamin; context (Perez\/Judah line) favors 'Bani'."
+    }
+  ],
+  "translation": "Utay, Amihud den, Omri den, Imri den, Bani den, Perets denw la, Yuda den.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/9\/1-4.1791947788726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "Utay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihud"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Imri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-10-14T03:16:28.728413049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "pardɛs",
+      "rationale": "פרדס is a Persian loanword (pairidaeza, 'park\/paradise'); kept as pardɛs rather than a Bambara substitute."
+    },
+    {
+      "kind": "crux",
+      "subject": "עץ כל פרי",
+      "rationale": "'trees of every fruit' vs 'every kind of fruit tree'; literal kept: trees — all fruit."
+    }
+  ],
+  "translation": "N ye n yɛrɛ ye nakɔw ni pardɛsw dilan, n ye jiriw jɔ u kɔnɔ, jiri minnu bɛ jiriden bɔ — bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1a135fadfed0d62284ec2d200cc9e0476717fa7655804c22111cd24238aac931",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/2\/5-8.1791945152644.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "N ye ... dilan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n yɛrɛ ye"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "nakɔw"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ni pardɛsw"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "n ye jiriw jɔ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u kɔnɔ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "jiriw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "jiriden"
+    }
+  ],
+  "timestamp": "2026-10-14T02:32:32.645093326Z",
+  "model": "glm-5.3"
+}

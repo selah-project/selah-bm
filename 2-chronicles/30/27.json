@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 30:27",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Yawe⟩",
+      "rationale": "Hebrew וישמע 'was heard' leaves the hearer implicit; the subject is supplied in brackets"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכהנים הלוים",
+      "rationale": "'the priests the Levites' — apposition (priests, namely Levites) or two groups; KJV\/ASV keep apposition, BSB reads 'and'"
+    }
+  ],
+  "translation": "Sarakalasebagaw ni Lewidenw wulira, u ye ⟨את⟩ mɔgɔw duba; ⟨Yawe⟩ ye u kan mɛn, u layeri na a senuma sigiyɔrɔ la, sankolow la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "83a786b04a31341ae3d91390297969cf832cac6ca0e837881cc8b810b45eb387",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/30\/25-27.1791949682041.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "wulira"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewidenw"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "u duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mɔgɔw"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "u layeri"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "sigiyɔrɔ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "a senuma"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "sankolow"
+    }
+  ],
+  "timestamp": "2026-10-14T03:48:02.041948243Z",
+  "model": "glm-5.3"
+}

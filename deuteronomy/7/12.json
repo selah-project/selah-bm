@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 7:12",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sabu",
+      "rationale": "עקב ye 'kunfe' ye (sɔrɔdasi kunfe); n'a fɔ daɲɛbɛn na, a kɔrɔ ye 'o kunfe la' — o kama 'sabu' (sabu\/sira) ye a ta ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמרתם \/ ושמר",
+      "rationale": "mara (aw y'u mara) ni mara (Yawe na mara) — misali kelen-kelen bɛ Kuma la; Bamanankan y'a mara"
+    },
+    {
+      "kind": "you",
+      "subject": "Israɛl",
+      "rationale": "kuma bɛ tugu Israɛl ka mɔgɔw kan (nɔnabila 'aw')"
+    },
+    {
+      "kind": "elision",
+      "subject": "תשמעון -ון",
+      "rationale": "paragogic nun suffix in תשמעון has no separate rendering"
+    }
+  ],
+  "translation": "O bɛna kɛ: sabu aw ye nin sariya-sariwaw mɛn, aw y'u mara, aw y'u baara, Yawe Aw Ala na ⟨את⟩ layidu ni ⟨את⟩ hesed min lɔ aw faaw ma, o mara aw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "57ed0f363d68caa8eadef1edd928d01f6d5756901a294199f5337fbf8073dc52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/7\/12-12.1791949997621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "O bɛna kɛ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "aw ye … mɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nin sariya-sariwaw"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "sariya-sariwaw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "aw y'u mara"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "aw y'u baara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u (sariya-sariwaw)"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "o mara aw ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Aw Ala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "layidu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hesed"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "lɔ"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "aw faaw ma"
+    }
+  ],
+  "timestamp": "2026-10-14T03:53:17.622150175Z",
+  "model": "glm-5.3"
+}

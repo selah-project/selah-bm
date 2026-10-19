@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "muso in",
+      "rationale": "Hoʃea kuma k'a kan muso in ma — anafɔlen dirɛtkɛ."
+    },
+    {
+      "kind": "addition",
+      "subject": "ne tɛna kɛ ɔninke cɛ ye",
+      "rationale": "Heburukan bɛ 'וגם אני אליך' dɔrɔn fɔ; Bamanankan ka kuma kunafonɔ ka kan ka fara a kan."
+    },
+    {
+      "kind": "crux",
+      "subject": "וגם אני אליך",
+      "rationale": "JPS b'a kalan 'ni tɛ n tɛ i cɛ ye' (kɔlɔkɔli), KJV fana; YLT 'ne fana ne bɛ i la' — hakilicogo fila."
+    }
+  ],
+  "translation": "Ne ko a ye: sonu caman na, i na tugu ne la; i kana fuguya, i kana kɛ ⟨ɔninke⟩ cɛ ye; ne fana, ne tɛna kɛ ⟨ɔninke⟩ cɛ ye ⟨i la⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9d47e7184f112630e5685209087dd2f219885b067baed2ca42cc7b76cc1b463a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/3\/1-4.1791938153006.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ne ko"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "caman"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "i na tugu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i kana"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "fuguya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i kana"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "kɛ … ye"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "cɛ ye"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ne fana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:35:53.007316869Z",
+  "model": "glm-5.3"
+}

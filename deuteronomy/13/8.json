@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dugukolo dan fɛ ka dugukolo dan ma",
+      "rationale": "Merism measuring the whole earth from one extremity to the other."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jama alaw la⟩",
+      "rationale": "Verse is a fragment continuing v.7; the framing 'of the gods of the peoples' is bound to the preceding verse, no verb supplied."
+    }
+  ],
+  "translation": "jama alaw la, minnu bɛ aw bɛbɛn, minnu ka surun aw ye walima minnu ka jan aw ye, dugukolo dan fɛ ka dugukolo dan ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eb099aedd85daf184805e78897f807560452dc1f2489903a2fd8df715b9fcade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/13\/5-8.1791927945566.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "alaw"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "jamaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "bɛ aw bɛbɛn"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "surun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "או",
+      "gloss": "walima"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "jan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "aw fɛ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dan fɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka ... ma"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-13T21:45:45.569784725Z",
+  "model": "glm-5.3"
+}

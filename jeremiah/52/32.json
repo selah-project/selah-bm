@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "both אתו tokens are the preposition 'with him' (H854), not the DOM; kept as ⟨את⟩ a la \/ a ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כסא",
+      "gloss": "rendered 'sigilan' (seat\/throne); throne-honor of Jehoiachin raised above fellow captive kings"
+    }
+  ],
+  "translation": "A ye ⟨את⟩ a la kuma ɲumanw fɔ, k'⟨את⟩ a ka sigilan bila masakɛw ka sigilanw la minnu bɛ ⟨את⟩ a ye Babilon, u ka sigilanw sanfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f8cb9a5b4dd041780de374819e937fe7fe45f88ff2970885a3110905602fe8d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/52\/29-32.1791936568217.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a la"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "kuma ɲumanw"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "bila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka sigilan"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "a ka sigilan"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "sigilanw la"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "masakɛw ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a ye"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-10-14T00:09:28.219114258Z",
+  "model": "glm-5.3"
+}

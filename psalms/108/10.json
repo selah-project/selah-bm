@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "סיר רחצי",
+      "rationale": "Heburu: 'ne ji-minɛn digi' — a b'a jira ko Moab ye jamana jan ye; Bamanankan b'o cogo lasɔrɔ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אשליך נעלי",
+      "rationale": "bɛne bɔyi ye fanga-ɲɛfɔli ye Heburu la; Bamanankan b'a daminɛ n'o ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתרועע",
+      "rationale": "kan bɛ talikɛ — 'ɲajɛ' ye cikan-da-ɲɛfɔli ye min bɛ se ka kɛ kɔgɔji-jɛ yɛrɛ ye"
+    }
+  ],
+  "translation": "Moab ye ne ji-minɛn digi ye; Edom kan, ne bɛne bɛna bɔ awa; Pelisetɛt kan, ne bɛna ɲajɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/108\/9-12.1791941397312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "digi"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ne ji-minɛn"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ne bɛne bɛna bɔ awa"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "awa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelisetɛt"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "ne bɛna ɲajɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:57.313040984Z",
+  "model": "glm-5.3"
+}

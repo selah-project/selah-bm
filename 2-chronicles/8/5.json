@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ni",
+      "rationale": "Hebrew lists two objects with paired את; Bambara needs 'ni' to join them"
+    },
+    {
+      "kind": "elision",
+      "subject": "מצור",
+      "gloss-note": "",
+      "rationale": "מצור (siege-fortification) rendered kɔlɔsili; 'bɛɛ la kɔlɔsi' nuance of hemming-in lost"
+    }
+  ],
+  "translation": "A ye ⟨את⟩ Bet-Horon (Bet-Orɔn) sanfɛla ni ⟨את⟩ Bet-Horon jugula da — duguw minnu ye kɔlɔsili-duguw ye, ni konkonw, ni dalaw ni dariyɔrɔbaw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0cd70edb6853391723cb2988f4c5aaba27d706b0e18de56ecae86812517c383d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/8\/5-8.1791948908799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a ye … da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horon sanfɛla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "sanfɛla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horon jugula"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "jugula"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "kɔlɔsili"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "konkonw"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "dalaw"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "dariyɔrɔbaw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:35:08.799754867Z",
+  "model": "glm-5.3"
+}

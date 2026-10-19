@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨fa si tɛ yen⟩",
+      "rationale": "אין אב is a bare negative 'no father'; Bambara requires the existential frame 'there is no father'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cɛ-sa musow",
+      "rationale": "Bambara has no single common word for widow; rendered as 'women whose husband has died'."
+    }
+  ],
+  "translation": "An kɛra denbalenw ye, ⟨fa si tɛ yen⟩; an ka baw bɛ i ko cɛ-sa musow ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e29e6d0fa4219d79e0b7e7a8123e85c32b15763f1b200b118a7ca81a55a30274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/5\/1-4.1791945049363.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "denbalenw"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "an kɛra … ye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "an ka baw"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "i ko cɛ-sa musow ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:30:49.364716496Z",
+  "model": "glm-5.3"
+}

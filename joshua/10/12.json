@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 10:12",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "i k'a jigi",
+      "rationale": "דום means 'be still\/silent'; famous crux — literal stopping of sun and moon vs poetic quotation (cf. book of Jasher, v.13)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jigi",
+      "rationale": "דום is 'be dumb\/still'; Bambara 'i k'a jigi' (stand still) keeps the command to halt."
+    },
+    {
+      "kind": "you",
+      "subject": "Tile ni kalo",
+      "rationale": "Joshua directly addresses sun and moon, in the sight of Israel."
+    }
+  ],
+  "translation": "O tuma, Yehoshua ye kuma Yawe ma don min na Yawe ye ⟨את⟩ Amoridenw (Amoridenw) di Yisraɛl denw ɲɛfɛ; a ye fɔ Yisraɛl ɲɛnw ye ko: Tile, i k'a jigi Gibɔn (Gibɔn) la; kalo, i k'a jigi Ayalon (Ayalon) dala la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c741e3fc4a09238b1d666fe19129aa6ca4422efa9a885629d9a0c5800d9f4c85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/10\/9-12.1791928730883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o tuma"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ye kuma"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ma"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don min na"
+    },
+    {
+      "surface": "תת",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amoridenw"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoridenw"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ye fɔ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ɲɛnw ye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Tile"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Gibɔn la"
+    },
+    {
+      "surface": "דום",
+      "gloss": "i k'a jigi"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "dala la"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    }
+  ],
+  "timestamp": "2026-10-13T21:58:50.886564635Z",
+  "model": "glm-5.3"
+}

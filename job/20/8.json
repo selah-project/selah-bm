@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 20:8",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lampi",
+      "rationale": "עוף 'fly (away)' rendered as 'flee'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲɛjirili",
+      "rationale": "חזיון 'night-vision, dream-revelation' rendered 'vision'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "a tɛna sɔrɔ",
+      "rationale": "The unfindable one — disappearance without trace, deliberate withholding"
+    }
+  ],
+  "translation": "A bɛna finye i n'a fɔ lampi, a tɛna sɔrɔ; bɛɛ bɛna a buli i n'a fɔ su ɲɛjirili ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "069c16e0745b9e2e5113f2773b6619d3c082ffbf70c966384b9301dc41c53185",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/20\/5-8.1791943799377.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "i n'a fɔ finye"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "lampi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a tɛ"
+    },
+    {
+      "surface": "ימצאוהו",
+      "gloss": "sɔrɔ"
+    },
+    {
+      "surface": "וידד",
+      "gloss": "bɛɛ bɛna a buli"
+    },
+    {
+      "surface": "כחזיון",
+      "gloss": "i n'a fɔ ɲɛjirili"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-10-14T02:09:59.378721714Z",
+  "model": "glm-5.3"
+}

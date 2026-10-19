@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 4:1",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויספו לעשות",
+      "rationale": "Hebrew 'added to do' = continued\/again did; Bambara 'y'a fara ... kan' keeps the adding picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "past marker supplied; Hebrew verb form carries the tense."
+    }
+  ],
+  "translation": "Israɛl denw y'a tun fara jurumu-kɛli kan Yawe ɲɛ na; Ewudi (Ehu) sa kɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0857687e4fafd5a3b3faefc6e9749ad447dade816daa5d4799ecc8f56f860610",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/4\/1-4.1791929353937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "y'a fara a kan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israɛl"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ɲɛ na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "Ewudi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sa kɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:09:13.939522269Z",
+  "model": "glm-5.3"
+}

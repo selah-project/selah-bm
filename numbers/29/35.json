@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kana",
+      "rationale": "Bambara negative imperative 'aw kana kɛ' supplied for Hebrew לא תעשו, a plain negative"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "direct address to Israel at the festival assembly"
+    },
+    {
+      "kind": "measurement",
+      "subject": "wolonfilanan",
+      "rationale": "eighth day counted in the festival sequence"
+    }
+  ],
+  "translation": "Don wolonfilanan na, jɛkɛli dɔ bɛna kɛ aw ye; baara bɛɛ min ye wale-baara ye, aw kana o kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "594d05aca4b4cf14db80cce4f1606e9c7896e6f41e18b0dc740838259e6ecf27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/29\/33-36.1791927225426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "don … na"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "wolonfilanan"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "jɛkɛli dɔ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "baara"
+    },
+    {
+      "surface": "עבודה",
+      "gloss": "wale-baara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aw … kɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:33:45.427386112Z",
+  "model": "glm-5.3"
+}

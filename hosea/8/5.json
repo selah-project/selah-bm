@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זנח",
+      "rationale": "Who rejects the calf: YHWH (ASV\/BSB 'he has rejected') or the calf rejects Samaria (KJV 'hath cast thee off') — verb subject left unstated."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרה אפי",
+      "rationale": "Literally 'my nose grew hot' = my anger burned; rendered as anger."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נקיון",
+      "rationale": "Literally 'cleanness\/purity'; rendered ɲɛjɛya (innocence\/purity)."
+    },
+    {
+      "kind": "you",
+      "subject": "to Shomeron",
+      "rationale": "Direct address to Samaria by name, followed by rhetorical question 'how long?'"
+    }
+  ],
+  "translation": "I ka misiden bɔra, Shomeron (Samaria) — ne ka jangasi bɛ ta u kan; fo jumɛn u tɛ se ka ɲɛjɛya sɔrɔ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/8\/5-8.1791938322876.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "i ka misiden"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "bɛ ta"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ne ka jangasi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jumɛn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "se"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "ɲɛjɛya"
+    }
+  ],
+  "timestamp": "2026-10-14T00:38:42.876677350Z",
+  "model": "glm-5.3"
+}

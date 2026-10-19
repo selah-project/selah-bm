@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנשך",
+      "rationale": "neshek (from the root 'to bite') — 'interest\/usury': traditional 'usury' vs modern 'interest' (nirankɛli)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "munu",
+      "rationale": "נקי 'innocent\/clean' rendered as munu (blameless), the nearest Bamanankan concept."
+    },
+    {
+      "kind": "elision",
+      "subject": "לעולם",
+      "rationale": "'to the vanishing point\/concealed age' rendered simply as 'tuma bɛɛ' (all time), losing the etymology of the vanishing point."
+    }
+  ],
+  "translation": "A ka warigwɛ tɛ di ⟨nirankɛli⟩ la, a tɛ noro ta munu de fɛ; min bɛ ninu kɛ, a tɛ bila tuma bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b85364eb3dbb3d189f6631d2ebf0bf5e4c281ad0816e4095de98cdd5631e76b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/15\/5-5.1791939587843.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "a ka warigwɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "⟨nirankɛli⟩ la"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "noro"
+    },
+    {
+      "surface": "על",
+      "gloss": "de fɛ"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "munu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ninu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bila"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tuma bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:59:47.843539277Z",
+  "model": "glm-5.3"
+}

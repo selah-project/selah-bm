@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ",
+      "rationale": "Bamanankan bɛ copula wajibiya, Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "you",
+      "subject": "Nka i, Yawe",
+      "rationale": "Yawe de ye welecogo nin ye, psalm-kɛla b'a lamɛn"
+    }
+  ],
+  "translation": "Nka i, Yawe, i ⟨bɛ⟩ sanfɛla, fan bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/92\/9-12.1791941070764.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Nka i"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sanfɛla"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "fan bɛɛ la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:30.764651213Z",
+  "model": "glm-5.3"
+}

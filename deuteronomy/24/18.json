@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 24:18",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fa i bɔ",
+      "rationale": "פדה 'to ransom, sever loose' rendered as 'fa … bɔ' (ransom out); the severing picture is softened."
+    },
+    {
+      "kind": "addition",
+      "subject": "kɛra",
+      "rationale": "Bambara past construction 'ye … kɛra' supplies what Hebrew היית carries as a simple stative verb."
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Direct address to Israel, grounding the law in the Egypt memory."
+    }
+  ],
+  "translation": "A fɔlɔ, i tamashen ko i ye jɔngɔ kɛra Mitsrayim (Misira) la, ani Yawe i ka Elohim ye i fa bɔ yen; o la sabu ne b'i laseli ka ⟨את⟩ kuma ninnu kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a4db4aa2f796a9a3589c3c7c90ecb070fffdc8208893bc0d8dbacd8bba3313b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/24\/17-20.1791928206326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "A fɔlɔ, i tamashen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "jɔngɔ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "i ye … kɛra"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim (Misira) la"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "ye i fa bɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "משם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "על",
+      "gloss": "o la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "b'i laseli"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ka … kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuma ninnu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ninnu"
+    }
+  ],
+  "timestamp": "2026-10-13T21:50:06.328564365Z",
+  "model": "glm-5.3"
+}

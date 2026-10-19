@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 22:44",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bamaw",
+      "rationale": "הבמות 'the high places' kept as the Hebrew term with a first-mention bracket, since 'elevation' alone misleads"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סרו \/ בבמות",
+      "rationale": "echo of v43's סר — 'he did not turn aside' but the high places 'did not turn aside' either; the repetition is lost in Bambara"
+    }
+  ],
+  "translation": "Nka fɛn dɔrɔn de: bamaw (sɔrɔdasi-sow) ma bɔ; jamaa tɔɔrɔ bɛ saraka bɔ ani swɛn fatigi bamaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "77d0d8fb2da234750bae7ff491fa646b58000c78335b2bbcdb8f751c997b1eb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/22\/41-44.1791932484754.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nka fɛn dɔrɔn de"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tɔɔrɔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "saraka bɔ"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ani swɛn fatigi"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bamaw la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:01:24.763990553Z",
+  "model": "glm-5.3"
+}

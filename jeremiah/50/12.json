@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 50:12",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Kashdim (Babilɔn)",
+      "rationale": "Address to Babylon continues: 'your mother…she who bore you'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "aw ka ba",
+      "rationale": "Mother-personification of Babylon; 'your mother' kept literally, no nation-name supplied."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Copula supplied before the triple-desert predicate; Hebrew juxtaposes nouns without a verb."
+    }
+  ],
+  "translation": "Aw ka ba bɛ nɔya kosɛbɛ, min bɛ aw dogo, a bɛ maloya. Nin ye: siyaw ka laban ye yangen dugu, dibi-dugukolo, a ye ɲagami dugu ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd30bd39cc9dcdf3e39c21ba13c902a8dba2733121b373c16a1dc264771e6fb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/50\/9-12.1791936332060.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בושה",
+      "gloss": "bɛ nɔya"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "aw ka ba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    },
+    {
+      "surface": "חפרה",
+      "gloss": "bɛ maloya"
+    },
+    {
+      "surface": "יולדתכם",
+      "gloss": "min bɛ aw dogo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nin ye"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "laban"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yangen dugu"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "dibi-dugukolo"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "ɲagami dugu"
+    }
+  ],
+  "timestamp": "2026-10-14T00:05:32.062476788Z",
+  "model": "glm-5.3"
+}

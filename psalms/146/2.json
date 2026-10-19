@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעודי",
+      "rationale": "'Ni n ka ni bɛ yen' (while my ni still exists) renders the adverb 'while I yet am', ni as life-breath kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בחיי",
+      "rationale": "בחיי is 'in my life', rendered as a temporal clause 'ni n bɛ balo' since Bambara lacks a bare prepositional form here."
+    }
+  ],
+  "translation": "Ni n bɛ balo, n bɛna Yawe jalaki; ni n ka ni bɛ yen, n bɛna kɔli kɛ n ka Elohim ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8dd21246e386acd736b200e117cc86ecc0fa399003de87a45aad8f08a61ed4b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/146\/2-3.1791951288358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "n bɛna … jalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ni n bɛ balo"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "n bɛna kɔli kɛ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "n ka Elohim ye"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ni n ka ni bɛ yen"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:48.359124906Z",
+  "model": "glm-5.3"
+}

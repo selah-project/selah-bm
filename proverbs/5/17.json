@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "preposition 'with you' rendered with the aleph-tav marker plus supplied phrase"
+    }
+  ],
+  "translation": "O ji bulow ka kɛ i ta ye, i yɛrɛ ma dɔrɔn, ani a tɛ ye jamana donw ye ⟨את⟩ i n'a fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cb5e11857aa1f8d623275b7be3c8a68dc344c55192ad1865286b7a8f31939512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/5\/17-20.1791942209624.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ta"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "i yɛrɛ ma dɔrɔn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ani a tɛ ye"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "jamana donw"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "i n'a fɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:43:29.624931378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רב טבחים",
+      "rationale": "literally 'chief of the slaughterers\/butcher-guards'; tradition softens to 'captain of the guard' (KJV), YLT keeps 'chief of the executioners'"
+    },
+    {
+      "kind": "elision",
+      "subject": "רבלתה",
+      "rationale": "place-suffix -תה 'to Riblah' rendered as locative 'Ribla la'"
+    }
+  ],
+  "translation": "Nebuzaradan (Nebuzaradan), tabaxɛbagaw ka tigiba, ye ⟨את⟩ olu ta, ka ⟨את⟩ olu minɛ taa Babɛlɔn masakɛ ma, Ribla (Ribla) la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7e859e4cfbdca3a70711b2928860f719c91ab916c40b3bfd3c5c6df804cc5d44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/52\/25-28.1791936536671.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ye … ta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "olu"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tigiba"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabaxɛbagaw"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka … taa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "olu (Babɛlɔn masakɛ ma)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babɛlɔn"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Ribla"
+    }
+  ],
+  "timestamp": "2026-10-14T00:08:56.672505483Z",
+  "model": "glm-5.3"
+}

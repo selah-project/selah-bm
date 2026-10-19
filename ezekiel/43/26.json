@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "fill its hand",
+      "rationale": "מלאו ידו literally 'fill its hand' is the ordination idiom; kept the literal picture 'bolo fa' rather than 'consecrate'."
+    },
+    {
+      "kind": "crux",
+      "subject": "whose hand",
+      "rationale": "KJV reads 'consecrate themselves', YLT 'filled their hand'; the Hebrew suffix is singular, pointing back to the altar."
+    },
+    {
+      "kind": "measurement",
+      "subject": "seven days",
+      "rationale": "Purification of the altar is bounded by a seven-day count."
+    }
+  ],
+  "translation": "Don wolonwula la, u bɛ ⟨את⟩ sarakabɔlan kunbɔn, k'a jɔnjɔn, ka sarakabɔlan bolo fa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dec333b4156e6981679dd4e05e7eb9ca7d0344f09d95f9d1977cad46022171ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/43\/25-27.1791937931119.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "don"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "u bɛ kunbɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarakabɔlan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sarakabɔlan"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "k'a jɔnjɔn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a (sarakabɔlan)"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ka bolo fa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T00:32:11.120556681Z",
+  "model": "glm-5.3"
+}

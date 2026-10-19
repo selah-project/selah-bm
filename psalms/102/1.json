@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kunbɛn tɔgɔma",
+      "rationale": "יעטף kɔrɔ ye 'kabakun da' ye — dɛnbali kun ka bɛn"
+    },
+    {
+      "kind": "addition",
+      "subject": "a ka",
+      "rationale": "Heburukan tɛ ni 'a' ta, Bamanankan ka a de wajibi"
+    }
+  ],
+  "translation": "Dɛnbali ka lakɔrɔ, ni a kunbɛn tɔgɔma, a b'a ka hakilijago bɔ Yawe ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/102\/1-4.1791941209972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "lakɔrɔ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "dɛnbali ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "kunbɛn tɔgɔma"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "a ka hakilijago"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:49.972905953Z",
+  "model": "glm-5.3"
+}

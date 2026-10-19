@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Copula supplied for 'his mother's name was', Hebrew omits it."
+    },
+    {
+      "kind": "measurement",
+      "subject": "san debyɛ ni kelen",
+      "rationale": "Reign length given in years, Hebrew counts 'forty and one'."
+    },
+    {
+      "kind": "crux",
+      "subject": "a ba",
+      "rationale": "אמו 'his mother' vs 2Chr 15:16 'grandmother' — some read Maakha as Asa's grandmother here."
+    }
+  ],
+  "translation": "A ye san debyɛ ni kelen masakɛya kɛ Yerushalayim (Jerusalɛmu); a ba tɔgɔ ye Maakha, Abishalom (Absalɔmu) denmuso ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ec9ef6b61e5365a130cda9d0125011fa2d62dea08417bea72f164226365200cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/15\/9-12.1791932223851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "san debyɛ"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ni kelen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛya kɛ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu)"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "denmuso"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Abishalom (Absalɔmu)"
+    }
+  ],
+  "timestamp": "2026-10-13T22:57:03.854878565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ka sanba",
+      "rationale": "ונשגב literally 'is set on high'; KJV 'is safe' reads the implied outcome, not the word."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עז \/ נשגב",
+      "rationale": "עז and שׂגב recur in v11 pairing Yawe's tower with the rich man's city — deliberate contrast, kept by reusing the same Bambara stems."
+    }
+  ],
+  "translation": "Yawe tɔgɔ ye kulu gɛlɛn ye; mɔgɔ tilennen bɛ boli don a kɔnɔ, ka sanba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eddb02db82d8ac86c48ed94bdfd03d31448b8a6062c564d01485dd56172109e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/18\/9-12.1791942682924.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "gɛlɛn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a kɔnɔ"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "boli"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mɔgɔ tilennen"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "sanba"
+    }
+  ],
+  "timestamp": "2026-10-14T01:51:22.926293766Z",
+  "model": "glm-5.3"
+}

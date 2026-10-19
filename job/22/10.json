@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על כן",
+      "rationale": "Hebrew 'upon thus' = 'therefore'; rendered sabu o ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dalaw",
+      "rationale": "פחים literally 'thin sheets \/ spring-nets'; dalaw (traps) keeps the catching picture"
+    }
+  ],
+  "translation": "Sabu o ye, dalaw bɛ i laɲini, ani siran min bɛ i bila ko kɔnɔ sɔɔni-sɔɔni.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d01e6bc1e0bab6467131e7d87dc627bb025d9f844b0fdaa1e6f12a788e0889c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/22\/9-12.1791943741639.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o ye"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "bɛ i laɲini"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "dalaw"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "bɛ i bila ko kɔnɔ"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "siran"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "sɔɔni-sɔɔni"
+    }
+  ],
+  "timestamp": "2026-10-14T02:09:01.639936344Z",
+  "model": "glm-5.3"
+}

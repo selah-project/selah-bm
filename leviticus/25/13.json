@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minɛli",
+      "rationale": "אחזתו ye 'fɛn min bɛ minɛ' kɔrɔ ye — a sɛbɛnna 'minɛli' ye, minɛli-kɔrɔ."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Yubila san",
+      "rationale": "San-jate (Yubila san) ye wale in da."
+    }
+  ],
+  "translation": "Yubila san in na, aw bɛna segin, mɔgɔ kelen-kelen kaa a ka minɛli ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d1ce4eac899fed536371a2406c0f5896084a8e27076b10caacde885917b0dc82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/25\/13-16.1791927056000.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "san in na"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "Yubila"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "in"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "aw bɛna segin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen-kelen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kaa … ma"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "a ka minɛli"
+    }
+  ],
+  "timestamp": "2026-10-13T21:30:56.000729945Z",
+  "model": "glm-5.3"
+}

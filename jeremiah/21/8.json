@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "aw \/ u",
+      "rationale": "YHWH speaks to the people through Jeremiah: 'I set before you the way of life and the way of death' — direct address to Jerusalem."
+    },
+    {
+      "kind": "invitation",
+      "subject": "balo sira ani saya sira",
+      "rationale": "Two ways set before the hearer — the verse summons a choice, the hinge of the following pledge (v.9)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החיים \/ המות",
+      "rationale": "Sharp paired opposites framing one repeated noun דרך; the parallelism 'sira … sira' keeps the structure."
+    }
+  ],
+  "translation": "Nin jamaa in fɛ, aw bɛ fɔ u ma cogo ninnu: Yawe cogo min fɔ: Nin de ye, An bɛ a dogo aw ɲɛ, ani ⟨את⟩ balo sira ani ⟨את⟩ saya sira.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/21\/5-8.1791935512228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "… ma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nin jamaa in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin … in"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "aw bɛ fɔ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "cogo ninnu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "cogo min fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Nin de ye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "An bɛ … dogo"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "aw ɲɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balo sira"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "balo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saya sira"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "המות",
+      "gloss": "saya"
+    }
+  ],
+  "timestamp": "2026-10-13T23:51:52.230359652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel's enemies",
+      "rationale": "Direct quoted speech of the conspirators, 'Come' (לכו) is an imperative summons among themselves."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hayi",
+      "rationale": "נכחיד is 'wipe out\/annihilate'; hayi 'destroy' chosen as closest plain Bambara verb."
+    }
+  ],
+  "translation": "U y'u fɔ ko: «Naw, an bɛna k'u hayi ka bɔ siya la, walasa Izraɛl tɔgɔ ma lasɔrɛ tuguni.»",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "02b742150d4ccef43bc15a48940308aed19a29ffbbb711be031338dc81698646",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/83\/5-8.1791940873713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "u y'u fɔ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "naw"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "an bɛna k'u hayi"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ka bɔ siya la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יזזכר",
+      "gloss": "lasɔrɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraɛl"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tuguni"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:13.713657996Z",
+  "model": "glm-5.3"
+}

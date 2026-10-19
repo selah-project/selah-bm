@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ראו object",
+      "rationale": "Hebrew leaves 'it' unstated at verse end; Bambara supplies pronoun 'o'."
+    },
+    {
+      "kind": "you",
+      "subject": "declaration",
+      "rationale": "Elders' formal declamation addressed to Yawe and assembly."
+    }
+  ],
+  "translation": "U bɛna da ale kan ka kuma ko: An bolo ma ⟨את⟩ joli in sɛgɛ, ani an ɲɛw ma o ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5100172d8d3cc7c5d7dfebd1ddd1efec1ff7763e7a64d8b22bbed8da8075b778",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/21\/5-8.1791928001602.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "bɛna da ale kan"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ka kuma ko"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "An bolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "sɛgɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joli in"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "joli in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "an ɲɛw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:41.605211939Z",
+  "model": "glm-5.3"
+}

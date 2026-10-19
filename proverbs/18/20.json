@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 18:20",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשבע\/ישבע",
+      "rationale": "same verb שׂבע frames both halves — belly sated \/ he sated; the repetition is the verse's hinge"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kanw",
+      "rationale": "שפתיו is literally 'his lips'; kanw ('his words') loses the mouth picture"
+    }
+  ],
+  "translation": "Mɔgɔ kɔrɔso bɛ kunun a da jiriden na; a kanw jate-bonya bɛ a kunundi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dca0a25dce8811f37fe2f0a35fd7ada92c83b5452e0d02d94c38f34edc6a65aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/18\/17-20.1791942689760.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "jiriden na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a da"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "bɛ ... kunun"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "kɔrɔso"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "jate-bonya"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "a kanw"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "bɛ ... kunundi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:51:29.763849533Z",
+  "model": "glm-5.3"
+}

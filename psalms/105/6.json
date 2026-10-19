@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Vocative address naming the addressees as Abraham's seed and Jacob's sons."
+    },
+    {
+      "kind": "substitution",
+      "subject": "denw",
+      "rationale": "זרע 'seed' rendered as 'children\/offspring'; the sowing image is lost in Bamanankan."
+    }
+  ],
+  "translation": "Aw, Awraham (Ibrahima) a ka surukɛ denw, Yakauba (Yakuba) denw, minnu ye a niniw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/105\/5-8.1791941295971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "denw"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham (Ibrahima)"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "a ka surukɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakauba (Yakuba)"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "minnu ye a niniw ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:28:15.972367353Z",
+  "model": "glm-5.3"
+}

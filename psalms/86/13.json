@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש אינו 'soul' ka kɔrɔ Tilubakan na; a lamini ninakili\/ni ye — kɛnɛma-ni"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Sheol josira",
+      "rationale": "תחתיה lamini 'duguma dɔ' ye; Sheol tɛ yɛlɛma — a bɛ to Heburu fɔcogo la"
+    },
+    {
+      "kind": "elision",
+      "subject": "hesed",
+      "rationale": "חסד tɛ Bamanankan daɲɛ kelen na bayɛlɛma; a to a yɛrɛ la (hesed)"
+    }
+  ],
+  "translation": "Sabu i ka hesed ka bon ne kan, aw ye ne ka ni bɔ Sheol josira la, min bɛ duguma dɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "28e4508dd72a495706bf46f85e5fe8856fb730f4d487a8579c269f22b6899e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/86\/13-16.1791940944693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "i ka hesed"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ka bon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ne kan"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "aw ye ... bɔ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ka ni"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Sheol josira"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "min bɛ duguma dɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:24.694430367Z",
+  "model": "glm-5.3"
+}

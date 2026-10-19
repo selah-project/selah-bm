@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "mizmor",
+      "rationale": "Hebrew musical-term for a poem set to notes, kept as a loanword rather than flattened to 'salo'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Bambara needs the possessive linker ל, supplied as 'ka'"
+    },
+    {
+      "kind": "you",
+      "subject": "superscription",
+      "rationale": "David's flight from Avshalom is the framing address that sets the whole psalm's stage"
+    }
+  ],
+  "translation": "Dawud (Dawuda) ka mizmor, ni a bɛ boli a bɔ Avshalom (Absalɔmu) — a denkɛ — ɲɛ fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "84bcaba9278bcefbd3e0198ae8979837af0ff2812b8b05b856813628ec9378ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/3\/1-4.1791939527869.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawud (Dawuda) ka"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "ni a bɛ boli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "bɔ … ɲɛ fɛ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom (Absalɔmu)"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:47.870411685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 51:18",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sɔngɔtɛ",
+      "rationale": "הבל (hebel) ye fininen-ji ye, fu min bɛ bɔ — 'sɔngɔtɛ' dɔgɔya a la"
+    },
+    {
+      "kind": "crux",
+      "subject": "lajɛlen",
+      "rationale": "פקדתם: 'lajɛlen' (inspection) walima 'jɔyɔrɔ-ɲinini' (punishment) — bayɛlɛmabagaw bɛ o fila suganti"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bamanankan ka jɔcogo b'a fɛ; Heburukan ka kumasen t'a la"
+    }
+  ],
+  "translation": "Olu de ye sɔngɔtɛ ye, dagidenw ka baara; u ka lajɛlen waati la, olu bɛna sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a40fbc71d732e61a0f45221524d969a272233ad208ed5ce20043688a052fee9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/51\/18-19.1791950945942.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "sɔngɔtɛ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olu de"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "dagidenw"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waati la"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "lajɛlen"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bɛna sa"
+    }
+  ],
+  "timestamp": "2026-10-14T04:09:05.942430453Z",
+  "model": "glm-5.3"
+}

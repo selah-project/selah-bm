@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 4:19",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ɲɛda-buru",
+      "rationale": "לחם הפנים is literally 'bread of the faces\/presence' — bread set before the face of Elohim; one compound keeps the picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "kɔnɔ",
+      "rationale": "Relative structure 'minnu bɛ … so' requires the locative kɔnɔ that Hebrew's construct chain omits."
+    }
+  ],
+  "translation": "Solomo ye ⟨את⟩ minanw bɛɛ minnu bɛ Elohim so kɔnɔ dilan: ⟨את⟩ sanu sarakabɔlan, ani ⟨את⟩ tabaliw, ani u kan ɲɛda-buru.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5acb737a7fc1abf950578a72ce9356f2b0ceb64e0951c3547bac25653c5fff75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/4\/17-20.1791948584293.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dilan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minanw bɛɛ minnu bɛ Elohim so kɔnɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "minanw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sanu sarakabɔlan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarakabɔlan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tabaliw"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "tabaliw"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buru"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ɲɛdaw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:29:44.294779046Z",
+  "model": "glm-5.3"
+}

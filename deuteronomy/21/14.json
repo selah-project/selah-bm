@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 21:14",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לנפשה",
+      "rationale": "נפש is life\/breath-force; 'to her own soul' = to her own will, rendered a ni ta fɛ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תתעמר",
+      "rationale": "עמר II occurs only here in the Tanakh; rendered as 'treat harshly' (i kana a ji)"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא תתעמר",
+      "rationale": "'deal with as a slave' vs 'tyrannize over'; root picture is heaping blows"
+    }
+  ],
+  "translation": "O bɛna kɛ: ni i ma a fɛ, i bɛna a bila ka t'a ni ta fɛ; yɔrɔli la, i kana a yɔrɔ warigwɛ ye; i kana a ji, sabu i y'a tiimɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2a32c3936654e6efe2a2ca34729192468634b9d0c6e697075eb4efbd5720e432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/21\/13-16.1791928035257.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "o bɛna kɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "i ma a fɛ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ושלחתה",
+      "gloss": "i bɛna a bila"
+    },
+    {
+      "surface": "לנפשה",
+      "gloss": "a ni ta fɛ"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "yɔrɔli la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תמכרנה",
+      "gloss": "i kana a yɔrɔ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "warigwɛ ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תתעמר",
+      "gloss": "i kana a ji"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עניתה",
+      "gloss": "i y'a tiimɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:47:15.261250470Z",
+  "model": "glm-5.3"
+}

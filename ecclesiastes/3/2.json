@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "denbɔ",
+      "rationale": "ללדת can read 'to be born' or 'to give birth'; Bambara denbɔ covers the event of birth itself"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "bilali \/ bilalan wulili",
+      "rationale": "Hebrew plants (נטוע) and uproots (עקר) the same participle; Bambara keeps the pair with bilala \/ wulili"
+    }
+  ],
+  "translation": "Waati don denbɔ ye, ani waati don saye ye; waati don jiri bilali ye, ani waati don bilalan wulili ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/3\/1-4.1791945156804.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waati don"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "denbɔ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ani waati don"
+    },
+    {
+      "surface": "למות",
+      "gloss": "saye"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waati don"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "jiri bilali"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ani waati don"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "wulili (bugu)"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "bilalan"
+    }
+  ],
+  "timestamp": "2026-10-14T02:32:36.805341393Z",
+  "model": "glm-5.3"
+}

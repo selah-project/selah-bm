@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a kɛ ka kɛ",
+      "rationale": "Hebrew jussive יהי rendered with Bambara periphrastic jussive; 'a' added as subject pronoun"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעזבנו \/ יטשנו",
+      "rationale": "near-synonymous pair 'leave\/abandon' in parallel negations, kept as two distinct Bambara verbs bila\/tugu"
+    }
+  ],
+  "translation": "Yawe, an ka Elohim, a kɛ ka bɔ an ni, a ye a kɛ an ka babaw ni cogo min na; a kana an bila, a kana an tugu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d611074c2dce6dc2205ae58c87777883de1ccc264ba1c45a58d28c1951626fb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/57-60.1791932023825.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "a kɛ ka kɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "an ni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a ye a kɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "an ka babaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a kana"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "an bila"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a kana"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "an tugu"
+    }
+  ],
+  "timestamp": "2026-10-13T22:53:43.829399925Z",
+  "model": "glm-5.3"
+}

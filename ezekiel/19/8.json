@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 19:8",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ותשם-pairing",
+      "rationale": "inבשחתם rendered with kɔlɔn (pit-trap); Hebrew word also means 'destruction', lost here"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "second את (on רשתם) carries the marked object jala; first verb's object is the lion itself, unmarked in Hebrew"
+    }
+  ],
+  "translation": "Siyaw ni a kɔnɔyɔrɔ marayɔrɔw bɛ a lamɛn ni jɛ ye; u ye ⟨את⟩ u ka jala di a kan, u ka kɔlɔn kɔnɔ a minɛna.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1da2ff61c81e6a171a547f8fd2a4dced5eda83ff3b8fc3d9ad5113e43e8450b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/19\/5-8.1791937069941.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "u ye … di\/lamɛn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ni jɛ ye"
+    },
+    {
+      "surface": "ממדינות",
+      "gloss": "a kɔnɔyɔrɔ marayɔrɔw (la)"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "u ye ⟨את⟩ … di"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "u ka jala"
+    },
+    {
+      "surface": "בשחתם",
+      "gloss": "u ka kɔlɔn kɔnɔ"
+    },
+    {
+      "surface": "נתפש",
+      "gloss": "a minɛna"
+    }
+  ],
+  "timestamp": "2026-10-14T00:17:49.942259786Z",
+  "model": "glm-5.3"
+}

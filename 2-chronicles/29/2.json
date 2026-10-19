@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "filɛ-tiɲɛ",
+      "rationale": "הישר is literally 'the straight (thing)'; rendered as 'straight-truth' to keep the uprightness picture rather than a generic 'right'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "Yawe ɲɛfɛ",
+      "rationale": "בעיני יהוה literally 'in the eyes of Yawe'; Bambara ɲɛfɛ keeps the literal eye idiom."
+    }
+  ],
+  "translation": "A ye filɛ-tiɲɛ kɛ Yawe ɲɛfɛ, i n'a fɔ a fa Dawid (Dawuda) ye min kɛlen-kelen bɛɛ kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "331fbc3ef0042364a2894aeb8a56af88967039b324b5fe1961062cd469c612af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/29\/1-4.1791949542791.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a ye … kɛ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "filɛ-tiɲɛ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "i n'a fɔ … kɛlen-kelen bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a fa"
+    }
+  ],
+  "timestamp": "2026-10-14T03:45:42.792866961Z",
+  "model": "glm-5.3"
+}

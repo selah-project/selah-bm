@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "waati min labɛnna",
+      "rationale": "מועד 'appointed time': set\/fixed time versus festival season"
+    },
+    {
+      "kind": "alternative",
+      "subject": "bɛ jɔ",
+      "rationale": "תקום read as 'arise' (JPS, KJV) rather than 'rise to act'"
+    }
+  ],
+  "translation": "I bɛ jɔ ka Ziyɔn (Ziɔn) dimi, bawo a ka waati bɛ don ka a ɲɛ-fɔ, bawo waati min labɛnna o bɛ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/102\/13-16.1791941182076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "bɛ jɔ"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "ka Ziyɔn dimi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bawo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waati"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "ka a ɲɛ-fɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bawo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bɛ na"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "waati min labɛnna"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:22.077115118Z",
+  "model": "glm-5.3"
+}

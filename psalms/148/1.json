@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מן",
+      "rationale": "'bɔ' (from) is placed before 'sankolow' to show the praise goes out from the heavens"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Toyiw",
+      "rationale": "plural imperatives summon the heavenly host to praise"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "the opening words form Hallelujah — 'Toyiw, Ya' splits the shout, losing the fused liturgical word"
+    }
+  ],
+  "translation": "Toyiw, Ya! Toyiw ⟨את⟩ Yawe sankolow la, toyiw a la sanumatigiyaw kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/148\/1-4.1791942022401.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Toyiw"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Toyiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "toyiw a"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "sanumatigiyaw kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:22.402320587Z",
+  "model": "glm-5.3"
+}

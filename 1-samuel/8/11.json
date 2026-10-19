@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 8:11",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "de",
+      "rationale": "Bambara emphasis particle supplied for demonstrative fronting"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Samuel's speech addresses the people directly ('your sons')"
+    }
+  ],
+  "translation": "A ko: nin de ye masakɛ ka sariya ye, min bɛna k'aw kan masakɛ kɛ: a bɛ ⟨את⟩ aw denkɛw ta, ka u bila a yɛrɛ ma a wɔrɔba la ani a so-donbagaw la, ka tugu a wɔrɔba ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "00ed4f9e203c4225df3114edbf866bf95f425e3a7ec6d77d95346c7180b51cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/8\/9-12.1791929967881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ye … ye"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "bɛna kɛ masakɛ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aw kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aw denkɛw"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "aw denkɛw"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "bila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a yɛrɛ ma"
+    },
+    {
+      "surface": "במרכבתו",
+      "gloss": "a wɔrɔba la"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "a so-donbagaw la"
+    },
+    {
+      "surface": "ורצו",
+      "gloss": "ka tugu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "מרכבתו",
+      "gloss": "a wɔrɔba"
+    }
+  ],
+  "timestamp": "2026-10-13T22:19:27.885532357Z",
+  "model": "glm-5.3"
+}

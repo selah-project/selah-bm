@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 4:20",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ninakili",
+      "rationale": "רוח אפינו 'breath of our nostrils' — most read King Zedekiah captured at Jericho; later tradition reads the Messiah."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ninakili",
+      "rationale": "רוח rendered 'breath' (ninakili) not 'spirit' — it is the life drawn through the nose, the people's own living breath personified."
+    },
+    {
+      "kind": "you",
+      "subject": "an",
+      "rationale": "The community's we — direct collective voice, the exiles speaking of their lost king."
+    }
+  ],
+  "translation": "An nɔnsow ka ninakili, Yawe ka Mashíach, minɛra u ka kunbogoliw la; ⟨min na⟩ an y'a fɔ ko: a lilan bɛɛ an bɛna balo siw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "778048a648accb3c90c8a65f9115e73e159d16d7ec34e2b57d5db1189258cf85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/4\/17-20.1791945116475.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ninakili"
+    },
+    {
+      "surface": "אפינו",
+      "gloss": "an nɔnsow"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashíach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נלכד",
+      "gloss": "minɛra"
+    },
+    {
+      "surface": "בשחיתותם",
+      "gloss": "u ka kunbogoliw la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨min na⟩"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "an y'a fɔ ko"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "a lilan bɛɛ"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "an bɛna balo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "siw la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:31:56.477038715Z",
+  "model": "glm-5.3"
+}

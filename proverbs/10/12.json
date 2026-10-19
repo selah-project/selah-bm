@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תעורר",
+      "rationale": "Hebrew 'wakes up' strife; Bambara 'jɔ' (raises\/stirs up) — no natural 'wake' idiom here."
+    },
+    {
+      "kind": "elision",
+      "subject": "ועל",
+      "gloss-dropped": "",
+      "rationale": "'and upon' — the preposition folds into Bambara word order; 'bɛɛ' (all) already covers the scope."
+    },
+    {
+      "kind": "idiom",
+      "subject": "תכסה",
+      "rationale": "Root כסה shared with v.11 'cover' — 'love covers transgressions' means conceals\/forgives, not hides physically."
+    }
+  ],
+  "translation": "Kɛlɛhakili bɛ mɔgɔw ɲɛkɔrɔkɔ jɔ; kanuya bɛ jurumuw bɛɛ datugu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/10\/9-12.1791942371689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "kɛlɛhakili"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "bɛ ... jɔ"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "mɔgɔw ɲɛkɔrɔkɔ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "jurumuw"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "bɛ ... datugu"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "kanuya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:46:11.691228431Z",
+  "model": "glm-5.3"
+}

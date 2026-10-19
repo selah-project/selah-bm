@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לעולם ועד",
+      "rationale": "fixed pair 'forever and ever' repeated from v.1, an inclusio framing the psalm's opening"
+    }
+  ],
+  "translation": "Don o don ne bɛna i duba, ani ne bɛna i ka tɔgɔ sangyɔrɔ fo waati bɛɛ, ani a kɔfɛ tɛ banna.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/145\/1-4.1791942017728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "don o don"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ne bɛna i duba"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "ani ne bɛna sangyɔrɔ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i ka tɔgɔ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "fo waati bɛɛ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ani a kɔfɛ tɛ banna"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:17.729546782Z",
+  "model": "glm-5.3"
+}

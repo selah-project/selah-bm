@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "a ka joli … a kun kan",
+      "rationale": "Hebrew 'his blood on his head' means his death is his own responsibility; kept literal, sense supplied by context"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע\/השמע",
+      "rationale": "infinitive-absolute plus verb, 'hearing he hears', intensification flattened in Bambara"
+    }
+  ],
+  "translation": "Min bɛ mɛn ⟨את⟩ shofar kan, nka a m'a lase, npan na o bɛn'a ta, a ka joli bɛna to a yɛrɛ ka kun kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8f1ca80d3354f7a00fa53d280ef366c2b80d30a1a1b53a3f36a03c07b561cf34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/33\/1-4.1791937549589.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "Min bɛ mɛn"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "min bɛ mɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shofar kan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka a m'a"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "lase"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "npan na o"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "npan"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "bɛn'a ta"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "a ka joli"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "a yɛrɛ ka kun kan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bɛna to"
+    }
+  ],
+  "timestamp": "2026-10-14T00:25:49.590581048Z",
+  "model": "glm-5.3"
+}

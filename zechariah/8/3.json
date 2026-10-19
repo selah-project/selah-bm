@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 8:3",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבתי",
+      "rationale": "Perfect 'I have returned' (past) vs JPS 'I return' — tense of the divine return is disputed."
+    },
+    {
+      "kind": "elision",
+      "subject": "kulu senuma",
+      "rationale": "Hebrew gives the mountain name-predicate 'the holy mountain' with no verb; Bambara supplies a dash-joins, mirroring the nominal style."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛ",
+      "rationale": "אמת is stability\/faithfulness\/trustworthiness, broader than propositional 'truth'."
+    }
+  ],
+  "translation": "Nin ko Yawe: ne seginna Tsiyon ma, an' ne bɛna Yerushalayim (Jerusalɛmu) kɔnɔ ɲɛ; Yerushalayim bɛna wele ko tiɲɛ dugu, ani Yawe jawtigi kulu — kulu senuma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bb5494065e83752749ddfbf8d4d27b0ece4191edfbbf1525f174eff1f04d91cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/8\/2-3.1791951147415.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nin ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ne seginna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "an' ne bɛna ɲɛ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu)"
+    },
+    {
+      "surface": "ונקראה",
+      "gloss": "bɛna wele ko"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "tiɲɛ ta"
+    },
+    {
+      "surface": "והר",
+      "gloss": "ani kulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "jawtigi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "senuma"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:27.416137574Z",
+  "model": "glm-5.3"
+}

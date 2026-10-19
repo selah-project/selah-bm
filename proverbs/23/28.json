@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 23:28",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i n'a fɔ",
+      "rationale": "כחתף is a bare comparative noun 'like prey\/robbery'; Bamanankan needs 'like a robber' spelled out"
+    },
+    {
+      "kind": "elision",
+      "subject": "היא",
+      "rationale": "emphatic pronoun absorbed into 'ale fana'; Hebrew word order with fronted אף היא compressed"
+    }
+  ],
+  "translation": "Ale fana, ⟨i n'a fɔ⟩ wɔgɛminɛbaga, a bɛ daɲu sigi, a bɛ mãgantɔw fara hadamadenw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "929f07695fdc1a7ff9bd5989217ce13ede2cbd66efb7f9290379a5ee38dd539a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/23\/25-28.1791942815888.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "fana"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ale"
+    },
+    {
+      "surface": "כחתף",
+      "gloss": "⟨i n'a fɔ⟩ wɔgɛminɛbaga"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "a bɛ daɲu sigi"
+    },
+    {
+      "surface": "ובוגדים",
+      "gloss": "mãgantɔw"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "hadamadenw kan"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "a bɛ … fara"
+    }
+  ],
+  "timestamp": "2026-10-14T01:53:35.889893390Z",
+  "model": "glm-5.3"
+}

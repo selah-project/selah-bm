@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o ka nyi",
+      "rationale": "Hebrew has no copula; 'it-is good' supplied in Bambara"
+    },
+    {
+      "kind": "invitation",
+      "subject": "aw fɔ",
+      "rationale": "imperative 'Say (to the righteous)' addresses the hearer directly"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי … כי",
+      "rationale": "double כי frames the verse ('that… for…'), a rhythm lost in Bambara"
+    }
+  ],
+  "translation": "Aw fɔ tamasiɲɛbagaw ma: ⟨o⟩ ka nyi, sabu u bɛna u ka walew jiriden dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f04059f1fdd7e48758f0f1a904ed5bfa8c29321e07d2e080d3d8420431c0c026",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/3\/9-12.1791933440148.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "aw fɔ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tamasiɲɛbagaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ka nyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "jiriden"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "u ka walew"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "u bɛna … dun"
+    }
+  ],
+  "timestamp": "2026-10-13T23:17:20.151951294Z",
+  "model": "glm-5.3"
+}

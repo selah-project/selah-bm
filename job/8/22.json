@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 8:22",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "to wear shame",
+      "rationale": "Hebrew 'clothe with shame' rendered as 'put on shame' (jɔya don), same garment picture in Bambara"
+    },
+    {
+      "kind": "addition",
+      "subject": "tɛna yen",
+      "rationale": "איננו is a single negative particle 'it is not'; Bambara needs verb 'tɛ yen' (not be there)"
+    }
+  ],
+  "translation": "I bɛɛtɔrbagaw bɛna jɔya don, ani jugubagaw so tɛna yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c81419a499af4329b2e6b7759862f466ec7fe1caa44cabfef8eee439013d20b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/8\/21-22.1791943291605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאיך",
+      "gloss": "i bɛɛtɔrbagaw"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "bɛna … don"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "jɔya"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ani … so"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jugubagaw"
+    },
+    {
+      "surface": "אינננו",
+      "gloss": "tɛna yen"
+    }
+  ],
+  "timestamp": "2026-10-14T02:01:31.606407847Z",
+  "model": "glm-5.3"
+}

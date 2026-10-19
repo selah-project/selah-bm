@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "שמעו",
+      "rationale": "opening imperative 'Hear ye' summons the hearers into the covenant recitation"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "addressed to the men of Judah and inhabitants of Jerusalem"
+    }
+  ],
+  "translation": "Aw mɛn ⟨את⟩ nin layidu kumaw, ka u fɔ Yuda (Yehuda) mɔgɔw ma ani Yerushalayim (Jerusalɛmu) sigimɛnw ma:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4e32f8bd0ea42e0ea90de0012431447227c898775ba84b1222e022390b23b397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/11\/1-4.1791935240977.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "aw mɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nin layidu kumaw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "ka u fɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani … ma"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sigimɛnw"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-13T23:47:20.979686181Z",
+  "model": "glm-5.3"
+}

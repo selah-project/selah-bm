@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 28:13",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hadamaden",
+      "rationale": "אנוש ye hadamaden-bon (mɔgɔ finman, min bɛ se ka sa) ye, a tɛ 'mɔgɔ' gansan ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "Heburukan ולא bɛ 'ni-tɛ' fɔ nka Bamanankan bɛ 'wa…tɛ' de wajibiya"
+    },
+    {
+      "kind": "mystery",
+      "subject": "hikima nafa",
+      "rationale": "kumasen in bɛ a jira ko hikima nafa tɛ se ka dɔn — a ye fin dogolen ye"
+    }
+  ],
+  "translation": "Hadamaden si ma a nafa dɔn, wa a tɛ yen dugukolo la, balo-dugukolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f65b8ed679d2b1ab378e3f5690930de30c2f0b0e6618e7a7c5e8f87e983d67fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/28\/13-16.1791943921168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יָדַע",
+      "gloss": "ma…dɔn"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "עֶרְכָּהּ",
+      "gloss": "a nafa"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "wa…tɛ"
+    },
+    {
+      "surface": "תִּמָּצֵא",
+      "gloss": "yen"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "הַחַיִּים",
+      "gloss": "balo-dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T02:12:01.169265720Z",
+  "model": "glm-5.3"
+}

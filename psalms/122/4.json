@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבטים שבטי",
+      "rationale": "Immediate repetition of 'tribes' — appositional emphasis kept by repeating kabilaw."
+    },
+    {
+      "kind": "crux",
+      "subject": "עדות לישראל",
+      "rationale": "'A testimony to\/for Israel' vs 'an ordinance of Israel' (LXX, ASV) — construct or prepositional reading disputed."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o ye⟩",
+      "rationale": "Bambara needs a predicate frame 'o ye … ye' for the noun phrase 'testimony for Israel'."
+    }
+  ],
+  "translation": "Min na, kabilaw bɛ sanfɛ ta, Ya (Yawe) kabilaw, ⟨o ye⟩ seere ye Yisraɛl (Isiraeli) ye, walasa ka Yawe tɔgɔ ye i-ni-ce fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/122\/1-4.1791941793419.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "min na"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "bɛ sanfɛ ta"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "kabilaw"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kabilaw"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "seere"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisraɛl (Isiraeli) ye"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ka i-ni-ce fɔ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:33.420345678Z",
+  "model": "glm-5.3"
+}

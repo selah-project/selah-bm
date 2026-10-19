@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dɔnniya",
+      "rationale": "חכמה rendered 'dɔnniya' (knowledge\/sense), the nearest Bamanankan word for wisdom"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עמדה לי",
+      "rationale": "literally 'stood for me', rendered 'jɔra ne bolo' (stood at my side)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לפני",
+      "rationale": "'ne kɔma' (before me in place) vs 'ne tɛmɛnen na' (before me in time); verse means predecessors in Jerusalem"
+    }
+  ],
+  "translation": "N ye jɔ ka bon ani ka n ka bonya fara, ka ɲɛ minnu tun bɛ ne kɔma Yerushalayim (Jerusalɛmu) kɔnɔ bɛɛ la; n ka dɔnniya fana tun jɔra ne bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "80321160a3071df02b380ba2779c238f184354f0827387fe41c7034980dc9009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/2\/9-12.1791945144973.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "n ye jɔ ka bon"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "n ye n ka bonya fara"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "minnu tun bɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ne kɔma"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu) kɔnɔ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fana"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "n ka dɔnniya"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "jɔra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T02:32:24.973891451Z",
+  "model": "glm-5.3"
+}

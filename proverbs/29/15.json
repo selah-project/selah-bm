@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 29:15",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sanuɲagafe bolo",
+      "rationale": "שבט ye ba finman ye (rod); 'sanuɲagafe bolo' (kaba finman min bɛ sanu ɲa gafe) — laadaɲɛ 'kaba' ma kɛ."
+    },
+    {
+      "kind": "elision",
+      "subject": "משלח",
+      "rationale": "Hebrew participle 'sent-away\/left loose'; Bamanankan de ye 'min ma lenkuba' (a ma a kɔlɔsi) ye."
+    }
+  ],
+  "translation": "Sanuɲagafe bolo ni kuma-ɲɛnamaya bɛ hakilidɔn di; nka denminan min ma lenkuba, a bɛ a ba masya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "db27470f4c8c4dd5b7471d268b8ad75521a2ed46c6eae8e54540cef840e0289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/29\/13-16.1791942981579.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבט",
+      "gloss": "sanuɲagafe bolo"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "ni kuma-ɲɛnamaya"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bɛ di"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hakilidɔn"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "nka denminan"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "min ma lenkuba"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "bɛ masya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "a ba"
+    }
+  ],
+  "timestamp": "2026-10-14T01:56:21.581054859Z",
+  "model": "glm-5.3"
+}

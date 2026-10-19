@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "nɔgɔyamɔgɔ nin",
+      "rationale": "'This poor one' may refer to David himself or to any afflicted caller; kept the demonstrative זה to hold the ambiguity."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gɛlɛyaw",
+      "rationale": "צרות is literally 'tightnesses, narrow places' — rendered 'difficulties'."
+    }
+  ],
+  "translation": "Nɔgɔyamɔgɔ nin ye wele, Yawe ye a mɛn, o y'a bɔ a ka gɛlɛyaw bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/34\/5-8.1791939956982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nɔgɔyamɔgɔ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ye wele"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ye a mɛn"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "a ka gɛlɛyaw"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "o y'a bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:56.983088852Z",
+  "model": "glm-5.3"
+}

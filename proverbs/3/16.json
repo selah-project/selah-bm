@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ",
+      "rationale": "Hebrew verbless clauses; Bambara locative copula supplied"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימינה \/ שמאולה",
+      "rationale": "right\/left hand pairing structures the verse chiastically; wisdom personified holding gifts in both hands"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tile-fɔlɔw ka tanka",
+      "rationale": "ארך ימים literally 'length of days'; rendered as days' length (tanka = length)"
+    }
+  ],
+  "translation": "Tile-fɔlɔw ka tanka bɛ a bolo numan na; kunnafoni ni ɲɛjatigɛ bɛ a bolo dofɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7932d61661b4d4a0808ca5e36159d9ac5c828bd5d220084a535f681cbc2b3689",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/3\/13-16.1791942148466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "tanka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "tile-fɔlɔw"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "a bolo numan na"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "a bolo dofɛ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kunnafoni"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ni ɲɛjatigɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:42:28.467271279Z",
+  "model": "glm-5.3"
+}

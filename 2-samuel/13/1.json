@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 13:1",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Hebrew has no present-tense copula before אחות יפה; Bambara needs don"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tigɛmuso",
+      "rationale": "אחות covers sister of either gender's sibling; tigɛmuso specifies father's-side sister, fitting Absalom and Tamar"
+    }
+  ],
+  "translation": "Kɔrɔ nin kɔfɛ, Awshalom (Absalom) Dawid (Dawuda) denkɛ, tigɛmuso ka ɲi don, a tɔgɔ Tamar; Amnon Dawid denkɛ y'a kanuya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c7cfb28fc23da02c8c2ef9357ed0794ee0526f07f6ba8ad99899e3dde8994a3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/13\/1-4.1791931219732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ולאבשלום",
+      "gloss": "Awshalom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "tigɛmuso"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "a tɔgɔ"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "ויאהבה",
+      "gloss": "y'a kanuya"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-13T22:40:19.733627310Z",
+  "model": "glm-5.3"
+}

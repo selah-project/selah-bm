@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔkɔrɔba",
+      "rationale": "נחשת is copper\/bronze; 'kɔkɔrɔba' (copper) keeps the metal, gates of brass in older versions"
+    }
+  ],
+  "translation": "Sabu a ye kɔkɔrɔba dakɔrɔw ɲagami, ani nɛgɛ kangaw a y'u gɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/107\/13-16.1791941375940.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "a ye … ɲagami"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dakɔrɔw"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kɔkɔrɔba"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ani … kangaw"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "nɛgɛ"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "a y'u gɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:35.941051942Z",
+  "model": "glm-5.3"
+}

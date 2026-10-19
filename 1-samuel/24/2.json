@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 24:2",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "wayyiqtol kɔgɔjɛbaga, Bambara tɛ a nɔ daɲɛ dɔ wajibiya, o la a ma bayɛlɛma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kungo",
+      "rationale": "מדבר kɔrɔ ye 'nakɔ-fɔli yɔrɔ, dase yɔrɔ' ye; 'kungo' (jala yɔrɔ) ye nɔgɔya-kɔrɔ dɔrɔn"
+    }
+  ],
+  "translation": "Sha-ul (Saul) ye a yɛrɛ segin Pelisitiw (Fulisintɛnw) tile fɛ, u y'a fɔ a ye ko: “Aw ye, Dawid bɛ Eyin-Gedi kungo kɔnɔ.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f87057065c432e457da7a07668390ef5126ec80feb3d6ba74b30131f2e9b59ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/24\/1-4.1791930660739.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tuma min na"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ye a yɛrɛ segin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "tile fɛ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisitiw"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "u y'a fɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kungo kɔnɔ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Eyin-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-10-13T22:31:00.741094289Z",
+  "model": "glm-5.3"
+}

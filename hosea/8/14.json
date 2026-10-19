@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "fana",
+      "rationale": "'also' for Judah supplied; Hebrew juxtaposes without connective sense-word"
+    },
+    {
+      "kind": "crux",
+      "subject": "היכלות",
+      "rationale": "'palaces\/temple-buildings': idols' temples (KJV) vs royal palaces (ASV\/JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואכלה",
+      "rationale": "fire 'eats' their citadels; Hebrew verb is the everyday 'eat', kept as 'dun'"
+    }
+  ],
+  "translation": "Isirayɛl binna ⟨את⟩ a dilanbaga, ka so janw jɔ; Yuda (Judaa) ⟨fana⟩ bayɛlɛna duguw dan-maraw; ⟨nka⟩ ne bɛna tasuma ci a duguw la, ka a so gɛrɛnw dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d532d7ad060efe1ecd558a908edcfab5e23df5d0d59e92a736c475e2f71b1fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/8\/13-14.1791938233407.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "binna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a dilanbaga"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "a dilanbaga"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ka ... jɔ"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "so janw"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yuda (Judaa)"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "bayɛlɛna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "dan-maraw"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "ne bɛna ... ci"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "a duguw la"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ka ... dun"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "a so gɛrɛnw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:37:13.408422778Z",
+  "model": "glm-5.3"
+}

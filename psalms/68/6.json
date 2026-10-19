@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ o kɛ",
+      "rationale": "Hebrew is verbless nominal clause; Bambara needs a verb."
+    },
+    {
+      "kind": "you",
+      "subject": "to jamana (nisɔgɔsira)",
+      "rationale": "third-person praise naming Elohim as father of orphans and judge of widows — the socially unprotected claimed as his."
+    }
+  ],
+  "translation": "Yatemedenw fa, kɔmusow masalasebaga — Elohim bɛ o kɛ a ka senuma sigisɔ kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/68\/5-8.1791940539579.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "yatemedenw"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "masalasebaga"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "kɔmusow"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "sigisɔ kɔnɔ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "a ka senuma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:15:39.580762690Z",
+  "model": "glm-5.3"
+}

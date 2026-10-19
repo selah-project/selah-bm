@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cɛya-donni",
+      "rationale": "ערות is literally 'nakedness', here the shame of Egypt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "shbi \/ galut",
+      "rationale": "two near-synonyms for captivity paired as a hendiadys on Egypt and Cush"
+    }
+  ],
+  "translation": "O cogo la, Ashur masakɛ bɛna ⟨את⟩ Mitsrayim minɛw ni ⟨את⟩ Kush barokɔnw ci taa, deniw ni mɔgɔkɔrɔw, wara ni sensankanta, ni u kɔgolow ye yelen — o ye Mitsrayim ka cɛya-donni ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dee70f1b0a5d118d2e4945ec1812b963b48feee69148f82443a9aeb3d94a3d20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/20\/1-4.1791933812978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "o cogo la"
+    },
+    {
+      "surface": "יִנְהַג",
+      "gloss": "bɛna ci taa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim minɛw"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "minɛw"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kush barokɔnw"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "barokɔnw"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "deniw"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "mɔgɔkɔrɔw"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "sensankanta"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "ni u ... ye yelen"
+    },
+    {
+      "surface": "שת",
+      "gloss": "kɔgolow"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "cɛya-donni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-13T23:23:32.987419290Z",
+  "model": "glm-5.3"
+}

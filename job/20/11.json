@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 20:11",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלומו",
+      "rationale": "'his youth\/vigor' (YLT\/ASV\/JPS) vs 'his iniquity' — KJV reads עונו, a one-letter difference"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלומו \/ עונו",
+      "rationale": "youth (עלום) and iniquity (עון) differ by one letter; the echo is likely deliberate and is lost in Bambara"
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "subject pronoun 'o' (it, the vigor) supplied; Hebrew leaves the subject of 'lie down' implicit"
+    }
+  ],
+  "translation": "A kolow ɲɛfɛlen don a ka dɔgɔkunna ye, o bɛna ni a ye so buguri kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e4d97f07fc892d1828c50cc0a3bcb2d30dd7320d4962bf0cba9121f8fe3f3fd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/20\/9-12.1791943798029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצמותיו",
+      "gloss": "a kolow"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ɲɛfɛlen don"
+    },
+    {
+      "surface": "עלומו",
+      "gloss": "a ka dɔgɔkunna"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ni a ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "buguri"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "bɛna so"
+    }
+  ],
+  "timestamp": "2026-10-14T02:09:58.030225471Z",
+  "model": "glm-5.3"
+}

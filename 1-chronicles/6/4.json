@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 6:4",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mɔgɔlenw",
+      "rationale": "משפחות ye dugulen-daɲɛ ye (denbay tɔgɔlen), 'mɔgɔlenw' ka surun ka fɔ a ye."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bamanankan kuma-jɔcogo min bɛ Heburukan kɔnɔ si tɛ yen."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mɔgɔlenw",
+      "rationale": "Sɔnsanna (census) ka kɔrɔ — Lewiya mɔgɔlenw jate u baw fɛ."
+    }
+  ],
+  "translation": "Merari denw: Mahli ani Mushi. O ye Lewiya ka mɔgɔlenw ye, u baw fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f58c106bd707b7e1e1544f436b6674ac016de478aa40c3e4ee95b3d456778c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/6\/1-4.1791947619059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Mahli"
+    },
+    {
+      "surface": "ומשי",
+      "gloss": "ani Mushi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "O"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mɔgɔlenw"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Lewiya"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "u baw fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:13:39.060864207Z",
+  "model": "glm-5.3"
+}

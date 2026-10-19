@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩",
+      "rationale": "Hebrew verbs lack an explicit subject; the pronoun a (Dawida, from the previous verse) is supplied and bracketed"
+    },
+    {
+      "kind": "you",
+      "subject": "narrative",
+      "rationale": "Verse closes the David–Jonathan farewell scene; Jonathan returns alone to the city"
+    }
+  ],
+  "translation": "⟨A⟩ y'a yɛrɛ kunbɛn ka taa; Yehonatan nana dugu kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/21\/1-4.1791930614519.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "y'a yɛrɛ kunbɛn"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugu kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:30:14.520681253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "imperatives — return, keep, wait — summon the hearer to act"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sariya",
+      "rationale": "משפט is judgment\/justice; single Bamanankan word 'sariya' covers law and verdict, nuance narrowed"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "preposition 'toward' absorbed into 'kan \/ nɔ na' construction"
+    }
+  ],
+  "translation": "N'aw, aw bɛna aw ka Elohim nɔ na segin; aw kana hesed ni sariya mara, aw kana aw ka Elohim sabati tiledonniya bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "298093ac566ff5b31945d7720608d7ca5db7a9700343f66a0023643e94079254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/12\/5-8.1791938277189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "n'aw"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "aw ka Elohim nɔ na"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "mara"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "sabati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "aw ka Elohim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tiledonniya bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:37:57.189841082Z",
+  "model": "glm-5.3"
+}

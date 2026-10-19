@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a ye⟩",
+      "rationale": "Bambara copula required: 'You ARE a hiding place'; Hebrew has none."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bolima daɲɛw",
+      "rationale": "רני is a ringing shout of deliverance; 'joyful shout' approximates the cry."
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Direct second-person address to Yawe throughout the verse."
+    }
+  ],
+  "translation": "I ye ⟨a ye⟩ ne ka dogoyɔrɔ ye; i bɛ ne mara gɛlɛya la; i bɛ ne lakolo bolima daɲɛw la. Sela.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/32\/5-8.1791940050825.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "dogoyɔrɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ka"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "gɛlɛya la"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "i bɛ ne mara"
+    },
+    {
+      "surface": "רני",
+      "gloss": "bolima daɲɛw"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "boli"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "i bɛ ne lakolo ... la"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:30.826040855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mun di ne ma",
+      "rationale": "מי יתן ('mun di ne ma') = yɛrɛ-yɛrɛ-kumalancɛ: 'hadiya ne b'a fɛ' — o ye Heburu ka sariya-daɲɛ ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sigilen yɔrɔ",
+      "rationale": "תכונה ye 'yɔrɔ min jɛ ka sigi' ye — 'a ka sigilen yɔrɔ', kana 'la ka dugu' walima 'a ka fɔlɔ' fɔ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ne⟩ ni ⟨Yawe⟩",
+      "rationale": "Heburukan bɛ nɔnabilaw ta tɛ; Bamanankan ka wajibiya walasa k'a ye: kuma bɛ Yawe (Elohim) bolo bilala"
+    }
+  ],
+  "translation": "Mun di ne ma — ⟨ne⟩ na ⟨Yawe⟩ dɔn, ka a ɲini sɔrɔ, ka na fɔ se a ka sigilen yɔrɔ ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "62576246290b15d4db42de6a4c92262ea8b116995dabd069b6a4124b72aff7b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/23\/2-3.1791951392328.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "di ne ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ne na … dɔn"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "ka a ɲini sɔrɔ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ka na"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fɔ se … ma"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "a ka sigilen yɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:16:32.329057047Z",
+  "model": "glm-5.3"
+}

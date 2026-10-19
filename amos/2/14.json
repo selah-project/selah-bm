@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 2:14",
+  "book": "amos",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a ni",
+      "rationale": "נפשו rendered 'a ni' (his life); נפש is life-force\/breath, not an immaterial 'soul'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מנוס מקל",
+      "rationale": "'flight shall perish from the swift' vs 'refuge shall fail the swift' — read here as escape failing the fast runner."
+    }
+  ],
+  "translation": "Boli bɛna sa nɔgɔya-tigi ma, sebagatɔ te a fanga kɛnɛ, wulufarabaga te a ni lakika.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3400542624ddd8f06834b2537a23ae028b6fbca21d99a829049939fc0db559ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/amos\/2\/13-16.1791938386602.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "bɛna sa"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "boli"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "nɔgɔya-tigi"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "sebagatɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יאמץ",
+      "gloss": "kɛnɛ"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "a fanga"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "wulufarabaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "lakika"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ni"
+    }
+  ],
+  "timestamp": "2026-10-14T00:39:46.603814433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sandibɔlan",
+      "rationale": "ארון is literally 'box\/chest'; rendered as 'sandibɔlan' (chest) to keep the container shape."
+    },
+    {
+      "kind": "addition",
+      "subject": "u sanfɛ",
+      "rationale": "עליהם 'upon them' — poles upon the shoulders; supplied as locative in Bambara."
+    }
+  ],
+  "translation": "Lewiw denkɛw ye ⟨את⟩ Elohim ka sandibɔlan ta, ka bɔ u bolo kun na ni mɛnw ye, i y'a fɔrɔ cogo min na Moshe (Musa) y'a ɲini fɔ Yawe ka kuma la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5805a0b79fda9fce2abf4402fc682384a02e55b52375aa8481b414daf85b8757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/15\/13-16.1791947909568.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ye…ta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandibɔlan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandibɔlan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim ka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i y'a fɔrɔ cogo min na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "y'a ɲini fɔ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Musa)"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kuma la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "u bolo kun na"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "ni mɛnw ye"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "u sanfɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:18:29.569283618Z",
+  "model": "glm-5.3"
+}

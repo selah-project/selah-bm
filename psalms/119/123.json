@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ɲɛw bana",
+      "rationale": "עיני כלו: literally 'my eyes are finished\/failed', i.e. exhausted from watching — kept the literal picture"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "petition addressed to Yawe"
+    }
+  ],
+  "translation": "N ka ɲɛw bana i ka musakaw ɲɛ, ani i ka kɛnɛya kuma ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/121-124.1791941670035.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "n ka ɲɛw"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "i ka musakaw ɲɛ"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "ani i ka … kuma"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kɛnɛya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:30.036400821Z",
+  "model": "glm-5.3"
+}

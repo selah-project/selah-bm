@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara equative marker supplied; Hebrew verbless clause אנכי יהוה"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Yawe's direct self-identification addressed to the assembled people"
+    }
+  ],
+  "translation": "Ne ⟨ye⟩ Yawe, i ka Elohim, min ye i bɔ Mitsrayim (Misira) dugukolo la, jonw ka so la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1ab2b47b3bedfc51dff3f23060f3249dcc99b48e3c942b5e8b93855b84089811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/5\/5-8.1791927560976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "ye i bɔ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "so la"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "jonw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:39:20.977442795Z",
+  "model": "glm-5.3"
+}

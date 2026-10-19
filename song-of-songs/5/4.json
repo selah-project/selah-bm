@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החור",
+      "rationale": "'The hole' (of the door latch, KJV\/JPS) vs YLT's 'net-work' — what the hand actually passed through is disputed."
+    },
+    {
+      "kind": "substitution",
+      "subject": "duyɔrɔ tigira",
+      "rationale": "המו is a roaring\/stirring of the inward parts (מעי), rendered 'my insides were torn\/moved for him'."
+    }
+  ],
+  "translation": "N kanubaga ye a ka bolo ci ⟨את⟩ doron na, n ka duyɔrɔ tigira a fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/5\/1-4.1791944569612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "n kanubaga"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ye … ci"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a ka bolo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "החר",
+      "gloss": "doron"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "n ka duyɔrɔ"
+    },
+    {
+      "surface": "המו",
+      "gloss": "tigira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:22:49.614101249Z",
+  "model": "glm-5.3"
+}

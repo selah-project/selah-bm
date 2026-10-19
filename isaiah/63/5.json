@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואשתומם",
+      "rationale": "'I was appalled\/astonished' vs 'I was devastated' — Hebrew hitpael of שמם, stunned and desolate at once."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזר\/סומך ... תושע\/סמכתני",
+      "rationale": "Two paired lines: no helper\/no supporter, then my arm helped\/my fury supported — parallelism with root echo."
+    }
+  ],
+  "translation": "N ye ɲɛ datugu, dɛmɛtigi si tɛ yen; n hakili tunuguya, bɔgɔtigi si tɛ yen; n bolo de ye dimi bɔ n ma, n kɔngɔ, o de ye n bɔgɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "58f5760b0fc2985f12f047f01c9e8e5fce91c18602dbc44702070c5142a6427c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/63\/5-8.1791934763137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "n ye ɲɛ datugu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "si tɛ yen"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "dɛmɛtigi"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "n hakili tunuguya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "si tɛ yen"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "bɔgɔtigi"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "ye dimi bɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n ma"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "n bolo"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "n kɔngɔ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o de"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "ye n bɔgɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:39:23.138745045Z",
+  "model": "glm-5.3"
+}

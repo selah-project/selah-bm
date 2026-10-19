@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 14:11",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ככחי אז וככחי עתה",
+      "rationale": "mirror repetition 'my strength then \/ my strength now'; kept symmetric in Bambara"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לצאת ולבוא",
+      "rationale": "idiom for military campaigning, rendered literally ka bɔ ani ka don (go out and come in)"
+    }
+  ],
+  "translation": "Dɔɔni na bi — ne maaya bɛ o don min cogo min na Moshe y'a cili ne ⟨את⟩: ne seko cogo min na tun ye o waati, o cogo de don bi, a bɛ se ka kɛ ɛtɛ ye, ani ka bɔ, ani ka don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3d79cd8fc07bdf5534eaea30df10274208d18a3715e96be7af49a84bde24fd52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/14\/9-12.1791928847330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עודני",
+      "gloss": "dɔɔni na"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ne maaya bɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o don min"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "y'a cili"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככחי",
+      "gloss": "ne seko cogo min na"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o waati"
+    },
+    {
+      "surface": "וככחי",
+      "gloss": "ni ne seko cogo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ɛtɛ kama"
+    },
+    {
+      "surface": "ולצאת",
+      "gloss": "ani ka bɔ"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ani ka don"
+    }
+  ],
+  "timestamp": "2026-10-13T22:00:47.332697919Z",
+  "model": "glm-5.3"
+}

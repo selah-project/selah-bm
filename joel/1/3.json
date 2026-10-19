@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבניכם\/לבניהם\/ובניהם",
+      "rationale": "threefold chain of 'sons' — generational relay, kept by repetition in Bambara"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dɔɔrɔ wɛrɛ",
+      "rationale": "counting of generations: sons → sons' sons → another generation"
+    }
+  ],
+  "translation": "O ko kan, aw denw fɔ o, aw denw fɔ u denw ma, ani u denw fɔ dɔɔrɔ wɛrɛ ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ccaab6ecf0c2ec7cbec9f6388b619678d029be0bc6bd527957ab7dec0e226cd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joel\/1\/2-3.1791951038628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "o ko kan"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "aw denw"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "fɔw"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "aw denw"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "u denw ma"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "u denw"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "dɔɔrɔ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wɛrɛ ma"
+    }
+  ],
+  "timestamp": "2026-10-14T04:10:38.629679517Z",
+  "model": "glm-5.3"
+}

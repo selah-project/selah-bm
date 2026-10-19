@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא קינה",
+      "rationale": "lit. 'lift a dirge', rendered 'bɛ kɔɔfɔli ɲɛsi aw kan' (lift\/raise a lament over you)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "shema",
+      "rationale": "imperative summons 'Hear' opens the dirge"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraɛl so",
+      "rationale": "direct address to the house of Israel"
+    }
+  ],
+  "translation": "Aw mɛn nin ⟨את⟩ kuma in, ne bɛ ⟨a⟩ kɔɔfɔli ɲɛsi aw kan, aw ye Yisraɛl so.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0747e184dfb0936586976f2fd2c2bcda4730dfd3f58533d77205d198cf4c004c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/amos\/5\/1-4.1791938621047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "aw mɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nin kuma in"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bɛ … ɲɛsi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aw kan"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "kɔɔfɔli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    }
+  ],
+  "timestamp": "2026-10-14T00:43:41.047806332Z",
+  "model": "glm-5.3"
+}

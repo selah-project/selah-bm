@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישאם",
+      "rationale": "'David ye u ta' (YLT 'lift them up') walima 'a y'u lasara' (KJV 'burned them', min bɔra 1 Ka badenw 14:12 na min kɔrɔta וישאם yɛrɛ; Selah b’a jɔ sɛbɛnni in tiɲɛ na)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "batofɛnw",
+      "rationale": "עצביהם ye alefaden ka batofɛn taamasiyɛnw ye; Tanaki kɔnɔ עצב bɛ fɔ fɛn min bɛ cuba — 'batofɛn' daɲɛ dɔrɔn de bɛ yen."
+    }
+  ],
+  "translation": "U y’u ka batofɛnw bila yen ⟨את⟩, Dawid (Dawuda) ni a ka mɔgw ye u ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fcdbe9b14556bdd47e12c7398ee23e4a5ac3c335874de02676fd33e065bec19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/5\/21-24.1791930990221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "u y’u bila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batofɛnw"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "u ka batofɛnw"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "u ye u ta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ni a ka mɔgw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:36:30.223306837Z",
+  "model": "glm-5.3"
+}

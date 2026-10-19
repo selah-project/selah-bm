@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבשת \/ לכלמה",
+      "rationale": "parallel pair shame\/disgrace, kept with two Bambara shame-words 'maloya' and 'jɔya'"
+    },
+    {
+      "kind": "addition",
+      "subject": "O de bɛna kɛ aw ye",
+      "rationale": " Hebrew has no 'therefore'; supplied to carry the consequence of verses 1-2"
+    }
+  ],
+  "translation": "O de bɛna kɛ aw ye: Paro dɔnki na kɛra aw ka maloya ye, ani sɔgɔsira Mitsrayim niyɔrɔ kɔnɔ — aw ka jɔya ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "87a6ac0b318be369340068cf7a6928778e631627660ae55ad41dabf11298b617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/30\/1-4.1791934044522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "dɔnki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "maloya"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "sɔgɔsira"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "niyɔrɔ kɔnɔ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "jɔya"
+    }
+  ],
+  "timestamp": "2026-10-13T23:27:24.529183039Z",
+  "model": "glm-5.3"
+}

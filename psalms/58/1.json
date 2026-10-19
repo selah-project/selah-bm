@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "Superscription formula 'to the choirmaster', not part of the verse body."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל תשחת",
+      "rationale": "Al-Tashet: likely the opening words of a known song ('destroy not'), kept as a title rather than translated into the sentence."
+    },
+    {
+      "kind": "crux",
+      "subject": "מכתם",
+      "rationale": "Mikhtam: 'engraved poem' or 'gold poem' — meaning uncertain, kept as Hebrew term."
+    }
+  ],
+  "translation": "Ɲɛmɔgɔ ma; Al-Tashet (i kana a tiimɛ); Dawuda (Dawid) ta salimɔ; mikhtam.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/58\/1-4.1791940394345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ɲɛmɔgɔ ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i kana"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "a tiimɛ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuda ta"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:14.345563750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טוב לי",
+      "rationale": "Verses 71–72 open with the same two words 'good for me', anaphora binding affliction and Torah; preserved by repeating 'ka ɲi ne ye'"
+    }
+  ],
+  "translation": "A ka ɲi ne ye ko ne binna tɔgɔya la, walasa ne bɛna i ka sariyaw kalan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7d73ce756908b15529b62e7c3c91224c6cf0c10a86e597b520a6dc97ec710c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/69-72.1791941658533.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ne binna tɔgɔya la"
+    },
+    {
+      "surface": "למען",
+      "gloss": "walasa"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "ne bɛna ... kalan"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i ka sariyaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:18.533960694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ליהוה → Yawe ta",
+      "rationale": "lam-ך construct rendered as possessive 'ta', Bambara lacks bound construct"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השמים שמים",
+      "rationale": "repetition 'the heavens, the heavens' intensifies; kept by doubling sankolow"
+    }
+  ],
+  "translation": "Sankolow, sankolow ye Yawe ta; nka dugukolo, o di a ye hadamaden-denw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "de9598d8da074556d8fce9f3a8019b42d0b02aa53310170c8250cf406783d188",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/115\/16-16.1791951201942.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ta"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nka dugukolo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "di a ye"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denw ma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:21.942974685Z",
+  "model": "glm-5.3"
+}

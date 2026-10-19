@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔrɔbɔgɔw \/ warima-sɔrɔw",
+      "rationale": "עני ni אביון — daɲɛ filafila minnu bɛ kɛɔ kelen na fɔ, nka Bamanankan tɛ u kɔrɔ-filen-filen faamuya"
+    },
+    {
+      "kind": "crux",
+      "subject": "bɛna ... kɛ",
+      "rationale": "יעשׂה: 'kɛ' walima 'sariya kɛ' — bayɛlɛmabagaw bɛ fɔ 'maintain the cause' (KJV) walima 'execute judgment' (YLT)"
+    }
+  ],
+  "translation": "Ne dɔnna ko Yawe bɛna kɔrɔbɔgɔw ka sariya-jate kɛ, ani warima-sɔrɔw ka sariya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2bb7e88c908a41c5097c75466d3c69ebd4ffa939f3d55a8d16e88372e1f8393e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/140\/13-14.1791941840356.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ne dɔnna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛna ... kɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דין",
+      "gloss": "sariya-jate"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kɔrɔbɔgɔw"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "warima-sɔrɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:20.356519583Z",
+  "model": "glm-5.3"
+}

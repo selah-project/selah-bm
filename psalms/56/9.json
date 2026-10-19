@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נדי",
+      "rationale": "lemma נוֹd ya 'exile' ye, nka masinw bɛ fɔ 'wanderings' (tugu-tuguw) — i n'a fɔ a bɛ ka a sɔrɔ jate."
+    },
+    {
+      "kind": "measurement",
+      "subject": "jate",
+      "rationale": "sɛbɛnni-yɛlɛma: Ala bɛ sindiya jate ani jiju tɔgɔsɛbɛn — kɔlɔsi-ha."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נאד",
+      "rationale": "sutura-yɔrɔ (bottle\/skin bag) — daɲɛ tilennen, Tanaki kɔnɔ o nɔ na a bɛ yen funu na."
+    }
+  ],
+  "translation": "I tugu-tuguw, i ye u jate: i bil'a sɔrɔ — n jiju bɛ i buteli kɔnɔ. Yala u tɛ i sɛbɛn kɔnɔ wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/56\/9-12.1791940338790.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "tugu-tuguw"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "i ye u jate"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "bil'a sɔrɔ"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "n jiju"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "i buteli kɔnɔ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "yala … wa"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "i sɛbɛn kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:18.790990375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 6:23",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kafara dilan",
+      "rationale": "לְכַפֵּר literally 'to cover'; rendered with the established Bambara word kafara (atonement)"
+    },
+    {
+      "kind": "crux",
+      "subject": "חַטָּאת",
+      "rationale": "word means both 'sin' and 'sin-offering'; here the offering, rendered jurumusaraka"
+    }
+  ],
+  "translation": "Jurumusaraka bɛɛ min ka joli donna ɛn-lajɔyɔrɔ kɔnɔ walasa ka kafara dilan senumayɔrɔ la, a tɛ se ka dun; a bɛna ɲagami tasuma kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "791b5af4d2f12504b2eb949be4f1d56b7b9ba2f27ddfe0bc5ce4fde48dd86f54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/6\/21-23.1791926977813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ni bɛɛ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "jurumusaraka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "donna"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "ka joli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(kɔnɔ)"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ɛn"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lajɔyɔrɔ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "walasa ka kafara dilan"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "senumayɔrɔ la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a tɛ se"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ka dun"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tasuma kɔnɔ"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "bɛna ɲagami"
+    }
+  ],
+  "timestamp": "2026-10-13T21:29:37.816423796Z",
+  "model": "glm-5.3"
+}

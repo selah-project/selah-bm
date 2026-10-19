@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew gives no subject for טח (he smeared\/plastered); versions supply 'he' (God) or read passive; Bambara brackets the supplied agent."
+    },
+    {
+      "kind": "crux",
+      "subject": "טח מראות",
+      "rationale": "'plastered over from seeing' — KJV 'he hath shut their eyes' (God as agent) vs JPS 'their eyes are bedaubed'; Bambara keeps the plaster image."
+    }
+  ],
+  "translation": "U ma dɔn, u ma faamu, sabu ⟨a⟩ teliyera u ɲɛw kan ka u bali ka ye, u dusukunw ka bali ka hakili sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/44\/17-20.1791934472467.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ani ma"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "faamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טח",
+      "gloss": "teliyera"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ye"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "u ɲɛw"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "hakili sɔrɔ"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "u dusukunw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:34:32.468873661Z",
+  "model": "glm-5.3"
+}

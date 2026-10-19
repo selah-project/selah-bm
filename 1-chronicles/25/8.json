@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 25:8",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הפילו גורלות",
+      "rationale": "'cause lots to fall' = to cast lots; rendered as casting the pebbles\/arrows 'kurunw bila'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lots for watches",
+      "rationale": "ordering of temple duty by lot, small and great, teacher and pupil alike"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מבין",
+      "rationale": "'the one-who-understands' read as teacher opposite תלמיד (pupil); KJV 'teacher' vs YLT 'intelligent'"
+    }
+  ],
+  "translation": "U ye kurunw bila kɔlɔsili-kanw la, ni; fitinnin i n'a fɔ bɔn, dɔnnibaga ni kalanden ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a86308fc40aa8628645eda1de031fae1ac2ab8ecc7876c9fbd5117bb1ae0d20b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/25\/5-8.1791948287019.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "u ye … bila"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "kurunw"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "kɔlɔsili-kanw"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "i n'a fɔ fitinnin"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "i n'a fɔ bɔn"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "dɔnnibaga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תלמיד",
+      "gloss": "kalanden"
+    }
+  ],
+  "timestamp": "2026-10-14T03:24:47.021013611Z",
+  "model": "glm-5.3"
+}

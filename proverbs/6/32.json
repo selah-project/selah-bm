@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dusukun-bali",
+      "rationale": "חסר לב literally 'lacking heart'; Bambara keeps the body part 'dusukun' rather than abstract 'understanding'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפשו again 'his life-force', not immortal soul"
+    },
+    {
+      "kind": "addition",
+      "subject": "o yɛrɛ",
+      "rationale": "emphatic הוא supplied as bracketed Bambara pronoun 'he himself'"
+    }
+  ],
+  "translation": "Min bɛ muso la suluya kɛ, o ye dusukun-bali ye; min bɛ o kɛ, ⟨o yɛrɛ⟩ bɛ a ni bin-bila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "88b811d010d6f28758a290bf59429bd169b81d6cb63faa7f4d3ab66fd0970cd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/6\/29-32.1791942339029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "bɛ suluya kɛ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "muso la"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "bali"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "bɛ bin-bila"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o yɛrɛ⟩"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "bɛ o kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:45:39.030427850Z",
+  "model": "glm-5.3"
+}

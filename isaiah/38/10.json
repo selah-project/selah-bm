@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדמי",
+      "rationale": "בדמי ka kɔrɔ ye 'hɛrɛ\/caya' ye — KJV 'cutting off' versus ASV 'noontide'; ne caya ta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פקדתי",
+      "rationale": "פקד ka kɔrɔ ye 'kɛlɛ\/yeelen don' walima 'sɔrɔ' ye — 'bɔ ne ma' (deprived) ye dalen ye."
+    },
+    {
+      "kind": "secret",
+      "subject": "Sheol",
+      "rationale": "Sheol — suw ka dugu, min bɛ dogo mɔgɔw bɛɛ fɛ."
+    }
+  ],
+  "translation": "Ne tun ko: ne donw caya la, ne bɛna taa Sheol (suw ka dugu) da la; ne sanu fitiniw bɔra ne ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "393e3593fef042dabaa66e7aee36224055d85f1a4cf129efeac267d2a01dd5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/38\/9-12.1791934163972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "caya la"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ne donw"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "ne bɛna taa"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "da la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "bɔra ne ma"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "fitiniw"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "ne sanu"
+    }
+  ],
+  "timestamp": "2026-10-13T23:29:23.974486674Z",
+  "model": "glm-5.3"
+}

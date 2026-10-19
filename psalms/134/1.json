@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 134,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duba",
+      "rationale": "ברך ka kɔrɔ ye kunbɛn ye; Bamanankan tɛ 'kunbɛn ka Ala duba' kuma dagalen dɔ ti, o la 'duba' ta"
+    },
+    {
+      "kind": "invitation",
+      "subject": "bless",
+      "rationale": "Weleli-dɔgɔkun: ברכו ye jɛkɔ ye min bɛ wele surunbagaw ma"
+    },
+    {
+      "kind": "you",
+      "subject": "servants of Yawe",
+      "rationale": "Kuma in bɛ tɛmɛ Yawe ka surunbagaw la tilennen na"
+    },
+    {
+      "kind": "elision",
+      "subject": "המעלות",
+      "rationale": "Sannu tɔgɔkun in (sira-sanu) ma jira bayɛlɛmali kɔnɔ — a ye sɛbɛnni-tɔgɔ ye"
+    }
+  ],
+  "translation": "Sanu min bɛ taa sanfelila. Ee, aw ni ⟨את⟩ Yawe duba, aw bɛɛ minnu ye Yawe ka surunbagaw ye, aw minnu bɛ jɔ Yawe ka so kɔnɔ, su la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9416ce6ae5af9e17335c739a8b2f3510b81a1506037e9a6fc535ce2dfed4d2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/134\/1-3.1791941708397.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "min bɛ taa sanfelila"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ee"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "aw ni … duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aw bɛɛ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "surunbagaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "minnu bɛ jɔ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so kɔnɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "su la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:08.397998969Z",
+  "model": "glm-5.3"
+}

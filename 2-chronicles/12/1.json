@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mɔgɔw",
+      "rationale": "Bamanankan bɛ jama tɔgɔ nɔ na daɲɛ farala a kan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bila",
+      "rationale": "עזב kɔrɔ ye 'ka bila \/ ka tɔgi' ye, 'forsake' tiɲɛna"
+    }
+  ],
+  "translation": "A kɛra, ni Rehavam ka masakɛya jɔra ani a y'a yɛrɛ maga kokura, a y'⟨את⟩ Yawe ka Tora bila, ani Isirayɛl mɔgɔw bɛɛ ni a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0335d5440a18d7dc4dcd9d32c47047f3fc45861eb7b5f25379bbf32a4c2c7da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/12\/1-4.1791949075082.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a kɛra"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "ni … jɔra"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "masakɛya"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "a y'a yɛrɛ maga kokura"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "bila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ka Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani … bɛɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ni a ye"
+    }
+  ],
+  "timestamp": "2026-10-14T03:37:55.082900253Z",
+  "model": "glm-5.3"
+}

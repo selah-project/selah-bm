@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 38:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וינקשו \/ מבקשי",
+      "rationale": "entrap (נקש) and seek (בקש) share a root-sound echo, lost in Bambara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפשי is breath\/life-force rendered 'ne ka ni' per the fixed vocabulary, not a disembodied soul."
+    }
+  ],
+  "translation": "Ni minnu bɛ ne ta ni ɲinini, u ye fisa da; ani jɔya minnu bɛ ne ta ɲinini, u ye jɔkumaw fɔ, ani magoya u bɛ miiri don bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "15ecc37329783fe2dd5340cf9baf2798718760c5537513fb17315b6ee0d50b2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/38\/13-16.1791940122525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינקשו",
+      "gloss": "u ye fisa da"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "minnu bɛ ɲinini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ka ni"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ani minnu bɛ ɲinini"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ne ka jɔya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "u ye ... fɔ"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "jɔkumaw"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "ani magoya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "u bɛ miiri"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:42.526328592Z",
+  "model": "glm-5.3"
+}

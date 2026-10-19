@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a bɛ",
+      "rationale": "Hebrew יתן has no stated giver; the Bambara verb needs a subject."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is breathing-creature\/life-force, not an immaterial soul; glossed ni per the table."
+    },
+    {
+      "kind": "mystery",
+      "subject": "munna",
+      "rationale": "Job's unanswerable question — why light and life reach the suffering — hangs over verses 20–23."
+    }
+  ],
+  "translation": "Munna ⟨a bɛ⟩ yeelen di mɔgɔ min bɛ gɛlɛya na, ani balo di mɔgɔ min ka ni bitibiti?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d35fe2d4d5ee4ece28db970e2d86c0f4b03b53991b29abe1b1be270a26a2180e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/3\/17-20.1791943158423.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "munna"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "mɔgɔ min bɛ gɛlɛya na"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yeelen"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ani balo"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "min ka … bitibiti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-10-14T01:59:18.424763337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨A yɛrɛ⟩",
+      "rationale": "Hebrew verb יחדל has no explicit subject; the 'he' (Elohim, min Job ka kuma) is supplied in brackets"
+    },
+    {
+      "kind": "you",
+      "subject": "kuma Yawe fɛ",
+      "rationale": "Ayuba b'a kuma bɔ Ala fɛ直接 — a bɛ Yawe de wele ni nin kumasen ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעט … מעט",
+      "rationale": "מעט filan nin verse kɔnɔ: tile dɔɔnin, hɛrɛ dɔɔnin — wuli-wuliko min bɔla Bamanankan na"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחדל",
+      "rationale": "An b'a fɔ ka jɔsi ye min bɛ to: Yawe k'a jɔsi ni Yawe k'a bila Ayuba la — hɛrɛ ta cogo minna, kelen-kelen bɛ ta ye"
+    }
+  ],
+  "translation": "Wala ne ka tilew tɛ dɔɔnin ye? ⟨A yɛrɛ⟩ jɔsi k'a bɔ ne la, walasa ne bɛna dɔɔnin hɛrɛ ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f41746ca7f0b23e636422c9267bea1f21037645cca54039013a7688f1b7af279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/10\/20-20.1791951298248.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "dɔɔnin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "tilew"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "jɔsi"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "bila"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ne la"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "hɛrɛ ta"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "dɔɔnin"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:58.248604417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'sabu' (for\/because) \/ 'ni … fɛ' (though) \/ 'min waati la' (when) — KJV 'when', JPS 'though'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזבוני",
+      "rationale": "daɲɛ kelen de min bɛ sigilen sira 9 na ('kana ne bila') don sira 10 na — ba-ne-dɛmɛ-wili bɛ kɛ ka tugu a fɛ"
+    }
+  ],
+  "translation": "Sabu ne fa ani ne ba b'u ne bila, wa Yawe de bɛna ne lajɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a15f111ed063f4a60cbff3d9e08f3f1035a3842b56f15b1beb4da6db1d082f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/27\/9-12.1791939874940.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ne fa"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ani ne ba"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "b'u ne bila"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yawe de"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "bɛna ne lajɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:34.940708475Z",
+  "model": "glm-5.3"
+}

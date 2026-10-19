@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Kumasen in bɛ Yawe wele ni kuma-suffixu -ך ye (I), mɔgɔ-sira 2ɛ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kanubagaw",
+      "rationale": "חסידים: hesed bolo tɔgɔ — 'mɔgɔ min bɛ I kanuya', 'seli-mɔgɔw' tɛ a kɔrɔ tilennen ye"
+    }
+  ],
+  "translation": "I ka baaraw bɛɛ bɛna I fɔ Yawe, ani I ka kanubagaw bɛna I duba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/145\/9-12.1791941987132.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "bɛna … fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "I ka baaraw"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ani I ka kanubagaw"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "bɛna I duba"
+    }
+  ],
+  "timestamp": "2026-10-14T01:39:47.132730817Z",
+  "model": "glm-5.3"
+}

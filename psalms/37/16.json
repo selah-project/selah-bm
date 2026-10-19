@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka gɛn",
+      "rationale": "טוב 'good' serves as comparative 'better than'; Bambara uses 'ka gɛn … ye'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעט … רבים",
+      "rationale": "'little' vs 'many' antithesis, kept as fitinin vs caman."
+    }
+  ],
+  "translation": "Fitinin min bɛ mɔgɔ tilennen bolo, o ka gɛn tiɲɛ caman min bɛ kɛlɛtigiw caman bolo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/13-16.1791940104719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ka gɛn"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "fitinin"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mɔgɔ tilennen bolo"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "tiɲɛ caman"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kɛlɛtigiw caman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "caman"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:24.720848480Z",
+  "model": "glm-5.3"
+}

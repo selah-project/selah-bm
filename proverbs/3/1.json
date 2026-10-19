@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ani i ka dusukun kana … werɛ",
+      "rationale": "Hebrew has one negative; Bambara repeats it for the second clause"
+    },
+    {
+      "kind": "you",
+      "subject": "to the son",
+      "rationale": "Father addresses 'my son' — paternal instruction summons the hearer"
+    },
+    {
+      "kind": "invitation",
+      "subject": "i kana … werɛ",
+      "rationale": "Negative imperatives draw the hearer in to keep and not forget"
+    }
+  ],
+  "translation": "Denkɛ, i kana ne ka Tora werɛ, ani i ka dusukun kana ne ka ladilibaw werɛ — a k'o kɔlɔsi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9e3efa0200e526c25cc16d6b56f2d5b0283d7a5b0748e09b2f2ef5fe56db5397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/3\/1-4.1791942172567.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Denkɛ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ne ka Tora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "werɛ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ne ka ladilibaw"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "i ka dusukun"
+    }
+  ],
+  "timestamp": "2026-10-14T01:42:52.567983744Z",
+  "model": "glm-5.3"
+}

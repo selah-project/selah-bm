@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "denbɔbagaw",
+      "rationale": "המילדדת bɛ fɔ 'denbɔbaga' ye (den+bɔ+baga, mɔgɔ min bɛ denw bɔ), a tɛ baara-yɔrɔ daɲɛ ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka kɔ a ye",
+      "rationale": "Bamanankan ka jɛya-sira ye, Hebrikan ma a sɔrɔ"
+    },
+    {
+      "kind": "crux",
+      "subject": "האלהים",
+      "rationale": "Elohim: 'Ala' (Tɔgɔ nɔ) walima 'Ala' min bɛ siran — an ye Elohim sɛbɛn a fɔcogo la"
+    }
+  ],
+  "translation": "Denbɔbagaw siran ⟨את⟩ Elohim, u ma kɛ ni Mitsrayim masakɛ fɔra u ye cogo min na, ka kɔ a ye, u ye ⟨את⟩ denkɛw balo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/1\/17-20.1791926923739.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "siran"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "denbɔbagaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fɔra"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "balo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denkɛw"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "denkɛw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:28:43.741239788Z",
+  "model": "glm-5.3"
+}

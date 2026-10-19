@@ -1,0 +1,209 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 1:6",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨flɛlɛ⟩",
+      "rationale": "Hebrew repeats 'the king who sent you' via the aleph-tav אתכם; Bambara needs the object named again"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות תמות",
+      "rationale": "infinitive absolute doubling 'die you shall die' rendered as 'i bɛna sa sa' with doubled verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Baal-Zebub",
+      "rationale": "name means 'lord of the fly'; kept as a proper name, its picture (fly-god of Ekron) is lost"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king (Ahaziah)",
+      "rationale": "Yawe's words address the king directly through the messengers"
+    }
+  ],
+  "translation": "U y'a fɔ a ye ko: cɛ dɔ nana ⟨an bolo la⟩ ka fɔ an ye ko: aw ye aw yɛrɛ segin masakɛ min bila aw la ⟨flɛlɛ⟩, aw ka fɔ a ye ko: Yawe ye n'ko min fɔ: Yala Elohim si tɛ Israyɛl kɔnɔ, i b'i bila ka ɲini Baal-Zebub, Ekron Ala fɛ wa? O la, so min bɛ yɔrɔ min, i tɛna bɔ a la, sabu i bɛna sa sa wa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3d7f1f04592c9a4d30035b76226e6ba79e954aa91b0f19e598cbc3853e5c89da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/1\/6-7.1791950560965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "U y'a fɔ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cɛ dɔ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nana"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "an bolo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a y'a fɔ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "an ye"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "aw ye taa"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "aw yɛrɛ segin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bila"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "aw ka fɔ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המבלי",
+      "gloss": "yala … si tɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israyɛl kɔnɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bila"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "ka ɲini"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "זבוב",
+      "gloss": "Zebub"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "o la"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "i y'a san"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yɔrɔ min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "i tɛna bɔ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "a la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "sa"
+    }
+  ],
+  "timestamp": "2026-10-14T04:02:40.966055366Z",
+  "model": "glm-5.3"
+}

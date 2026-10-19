@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 2:9",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ba mugan",
+      "rationale": "Four measures of 20,000 each: cors of wheat and barley, baths of wine and oil."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gaw",
+      "rationale": "שערים (barley) has no common Bamanankan word; gaw (a millet-type grain) is the nearest grain word."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ble",
+      "rationale": "חטים (wheat) rendered with the loanword ble; no native Bamanankan word."
+    },
+    {
+      "kind": "crux",
+      "subject": "מכות",
+      "rationale": "'Beaten' wheat (flail-striking, מכה = blow) vs 'ground' wheat; rendered sɛgɛlen (pounded)."
+    }
+  ],
+  "translation": "Saa nin, ne bɛ di i ka sunɔgɔw ma — minnu bɛ jiriw boli ani minnu bɛ jiriw gesen — ble sɛgɛlen, ba mugan; ani gaw, ba mugan; ani diwɛn, bat mugan; ani tulu, bat mugan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6b0c6715ad3b4bf7343e52f9f4df0d0899fb4356af4ad3e1732db4a2d5621e1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/2\/9-12.1791948597238.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "saa nin"
+    },
+    {
+      "surface": "לחטבים",
+      "gloss": "jiri-bolibagaw ma"
+    },
+    {
+      "surface": "לכרתי",
+      "gloss": "minnu bɛ jiriw gesen"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "jiriw"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ne bɛ di"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ble"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "sɛgɛlen"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "i ka sunɔgɔw ma"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ba (kor)"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mugan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ba (kɛmɛ-tan)"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "ani gaw"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ba (kor)"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mugan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ba (kɛmɛ-tan)"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ani diwɛn"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "bat"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mugan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ba (kɛmɛ-tan)"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ani tulu"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "bat"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mugan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ba (kɛmɛ-tan)"
+    }
+  ],
+  "timestamp": "2026-10-14T03:29:57.238783365Z",
+  "model": "glm-5.3"
+}

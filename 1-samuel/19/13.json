@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "terafimu",
+      "rationale": "התרפים: family idols in David's own house — rendered 'image' (KJV), 'household idol' (BSB), or kept as 'teraphim'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "kebir",
+      "rationale": "כביר appears only in 1 Samuel 19, a woven mat of goat hair; 'bisi nubilan' keeps the literal picture"
+    }
+  ],
+  "translation": "Mikal ye ⟨את⟩ terafimu ta, ka u bili liti kan, ani ⟨את⟩ bisi nubilan o bila a kun tilen na, ka a dabu ni yɛrɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/19\/13-16.1791930442711.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "a ye ... ta"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimu"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimu"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ka o bili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "liti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "bisi nubilan"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bisi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "o bila"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "a kun tilen na"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ka a dabu"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ni yɛrɛ ye"
+    }
+  ],
+  "timestamp": "2026-10-13T22:27:22.712269595Z",
+  "model": "glm-5.3"
+}

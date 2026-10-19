@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זר \/ נכר",
+      "rationale": " two near-synonymous words for 'foreign\/strange' in parallel lines; both rendered 'jan', losing the variation"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ŋgɔn",
+      "rationale": " תשתחוה literally 'prostrate oneself in homage'; 'bow down' keeps the body picture"
+    }
+  ],
+  "translation": "Ala jan kana kɛ ⟨i kɔnɔ⟩; ani i kana ŋgɔn Ala jan la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/81\/9-12.1791940836279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨i kɔnɔ⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "זר",
+      "gloss": "jan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani kana"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ŋgɔn"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Ala la"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "jan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:36.279928792Z",
+  "model": "glm-5.3"
+}

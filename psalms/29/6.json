@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sangan den",
+      "rationale": "בן ראמים kɔrɔ tiɲɛna ye 'sanganw ka den' ye; 'unicorn' (KJV) ye fili ye."
+    },
+    {
+      "kind": "crux",
+      "subject": "Siriyɔn",
+      "rationale": "ושרין = Siriyɔn, Hermon kulu tɔgɔ wɛrɛ; sɛbɛnniba caman b'a fɔ 'Sirion'."
+    }
+  ],
+  "translation": "A b'u falen-falen i n'a fɔ misiden; Lewbanɔn (Lebanon) ni Siriyɔn (Sirion), i n'a fɔ sangan den.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/29\/5-8.1791939854359.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "a b'u falen-falen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "misiden"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lewbanɔn"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "ni Siriyɔn"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "sangan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:14.360503271Z",
+  "model": "glm-5.3"
+}

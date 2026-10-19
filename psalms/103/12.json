@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רחק \/ הרחיק",
+      "rationale": "la même racine « loin\/éloigner » ouvre et scelle le verset — chiasme repris par jan … jan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מזרח \/ ממערב",
+      "rationale": "littéralement « lieu-du-levant \/ lieu-du-couchant » : gardé descriptivement (tile-fɔ \/ tile-bɔ)"
+    }
+  ],
+  "translation": "Iko tile-fɔ-yɔrɔ ka jan tile-bɔ-yɔrɔ ye, ale y'an ka tigɛli-juguw ⟨את⟩ bila jan ni an ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/103\/9-12.1791941187163.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "iko jan"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "tile-fɔ-yɔrɔ"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "tile-bɔ-yɔrɔ"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "y'a bila jan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ni an ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an ka tigɛli-juguw"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "an ka tigɛli-juguw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:27.164293237Z",
+  "model": "glm-5.3"
+}

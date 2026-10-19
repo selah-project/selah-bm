@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בל",
+      "rationale": "'not at all' — a single Hebrew adverb of negation spread over the two Bambara negation particles tɛ … tɛ."
+    },
+    {
+      "kind": "alternative",
+      "subject": "sigininkɔnɔw",
+      "rationale": "מכוניה is literally 'its fixed-foundations' (basis of a fixture); 'a nɔyɔrɔbilibaw' would be a second reading."
+    }
+  ],
+  "translation": "Yawe ye dugukolo sigi a sigininkɔnɔw kan; a tɛ bila tɛ bɛɛ, san bɛɛ, fo waati bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/104\/5-8.1791941239321.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "ye … sigi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "a sigininkɔnɔw"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tɛ … tɛ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "bila"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "san bɛɛ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo waati bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:19.322304517Z",
+  "model": "glm-5.3"
+}

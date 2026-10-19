@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Mount Ebal",
+      "rationale": "Samaritan Pentateuch reads Gerizim here; the Masoretic text names Ebal, kept as written"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "vesadta otam basid",
+      "rationale": "verb שדת and noun בשיד share the root; the plaster-plaster echo repeats from v.2"
+    }
+  ],
+  "translation": "O bɛna kɛ aw tɛmɛ ⟨את⟩ Yarden waati: aw bɛna ⟨את⟩ kabakurunw ninuw jɔ — minnu de ne bɛ ⟨את⟩aw di bi — Ewal (Ɛbala) kulu kan, k'⟨את⟩ u laji siji la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "94e96fb1ff8c31bc936b16b303a1d667fa8d0dbbd8893b8e4cf7c9e1d6634fe5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/27\/1-4.1791928233029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "o bɛna kɛ"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "aw tɛmɛ waati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "aw bɛna jɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabakurunw ninuw"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kabakurunw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ninuw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "bɛ di"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩aw",
+      "marks": "aw"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kulu kan"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ewal"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "ka laji"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kabakurunw ninuw"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "siji la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:50:33.033570633Z",
+  "model": "glm-5.3"
+}

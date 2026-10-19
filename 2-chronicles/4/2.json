@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔgɔji-kaba",
+      "rationale": "הים (ji-kɔgɔji) ye fɛn dagalen dɔ tɔgɔ ye min ye ji lamini — a tɛ kɔgɔji tiɲɛ ye."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ama tan \/ ama duuru \/ ama mugan ni saba",
+      "rationale": "Jate saba: a gunbɔ, a kɔgɔnɔ, ani a lamini-cogo (ku)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ku dɔ min ye ama mugan ni saba ye",
+      "rationale": "Lamini-cogo in (circumference ~30) ni ama tan lamini (diameter ~10) bɛ a ye: π mana 3; bayɛlɛmabagaw fɔ o ye ku ye, a tɛ ji-kɔgɔji yɛrɛ sorodɔ ye."
+    }
+  ],
+  "translation": "A ye ⟨את⟩ kɔgɔji-kaba dagalen dilan: ama tan a datugu fɛ ka taa a datugu fɛ, o ye bolofanta; a kɔgɔnɔ ye ama duuru; ani ku dɔ min ye ama mugan ni saba ye, o ye ⟨אתו⟩ lamini a la jɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f223a9e5cbd2feef00f255ed7b18545b1e5640d32e245e72e1b901a23a2446bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/4\/1-4.1791948671665.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a ye … dilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kɔgɔji-kaba"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji-kaba"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "dagalen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tan"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "a datugu fɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "a datugu fɛ"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "bolofanta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jɛ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "duuru"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "a kɔgɔnɔ"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mugan ni saba"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "o ye … lamini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kɔgɔji-kaba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:31:11.666576653Z",
+  "model": "glm-5.3"
+}

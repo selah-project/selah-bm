@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 31:9",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "N",
+      "rationale": "Hebrew participle עשיתיו without explicit subject; speaker (Yawe) supplied in brackets-free first person since the verb form is first person"
+    },
+    {
+      "kind": "elision",
+      "subject": "בגן",
+      "rationale": "Elohim has no possessive suffix; 'a ka' (his) supplied — Hebrew construct 'garden-of God' is bound directly"
+    }
+  ],
+  "translation": "N ye a dilen ka ɲɛ a dalenw ka boniya la, Edɛn ka jiriw bɛɛ, minnu bɛ Elohim ka nakɔ kɔnɔ, u ye a jalaki.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e4b565a9ac3f61e4c1b55a412452169718165a59770a07640a1dd14b3b315cd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/31\/9-12.1791937536400.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "ka ɲɛ"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "N ye a dilen"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "boniya la"
+    },
+    {
+      "surface": "דליותיו",
+      "gloss": "a dalenw"
+    },
+    {
+      "surface": "ויקנאהו",
+      "gloss": "u ye a jalaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "jiriw"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edɛn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "nakɔ kɔnɔ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T00:25:36.400754724Z",
+  "model": "glm-5.3"
+}

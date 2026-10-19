@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתנך",
+      "rationale": "Hebrew wish-formula 'who will give you' rendered as 'mun na i ma kɛ', longing-wish idiom"
+    },
+    {
+      "kind": "addition",
+      "subject": "mɔgɔsi",
+      "rationale": "Hebrew יבוזו lacks explicit subject; supplied impersonal 'mɔgɔsi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יונק שדי אמי",
+      "rationale": "suck-breasts-my-mother: intimacy picture, wished-for public legitimacy of the kiss"
+    }
+  ],
+  "translation": "Mun na i ma kɛ n balimakɛ ye, min tun dogolen n ba ŋoloma? Ni n b'i ye kɔnɔna, n b'i bo, wa mɔgɔsi tɛ n jabi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/8\/1-4.1791944718001.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יתנך",
+      "gloss": "i ma kɛ"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "balimakɛ ye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "dogolen"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ŋoloma"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "n ba"
+    },
+    {
+      "surface": "אמצאך",
+      "gloss": "n b'i ye"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kɔnɔna"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "n b'i bo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "olu bɛ n jabi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:18.002579730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fan",
+      "rationale": "רבעיהם is 'their fourths' — four quarters\/sides; Bambara says 'their four sides'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "naani",
+      "rationale": "The count four closes the verse as it opened it — structural refrain."
+    }
+  ],
+  "translation": "Hadamaden bolo bɛ olu jɛfinw kunbɛ, olu fan naani kan; ani olu ɲɛdaw, ani olu jɛfinw, bɛ u naani bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "03130aa741c68ffc2e6149173fd1f01e6b8e8ae2201c05e8aeb66029c2b602cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/1\/5-8.1791936515718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "ni ... bolo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "kunbɛ"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "olu jɛfinw"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "naani"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "olu fan naani"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ani olu ɲɛdaw"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "ani olu jɛfinw"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "u naani bɛɛ la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:08:35.719870532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "siraw",
+      "rationale": "מסלות בלבבם: siraw ye Elohim ka siraw ye (JPS) walima siraw minnu bɛ ka tugu Misra-kɔgɔji-fɛ (BSB 'pilgrimage')"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨olu⟩",
+      "rationale": "Nɔnabila min bɛ a jira ko 'u' — Hebrikan bɛ a lasɔrɔ dusukun taabolo kɔnɔ"
+    }
+  ],
+  "translation": "Dugaw ye hadamaden min ka ja bɛ i kɔnɔ, siraw bɛ ⟨olu⟩ dusukun na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/84\/5-8.1791940975405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "dugaw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i kɔnɔ"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "siraw"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "olu dusukun na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:55.406462159Z",
+  "model": "glm-5.3"
+}

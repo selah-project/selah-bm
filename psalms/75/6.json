@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בצואר עתק",
+      "rationale": "literally 'with a neck of impudence' — rendered as 'with a neck that does not bend'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "'impudent\/stiff' — some read the noun 'arrogance'; KJV 'stiff neck', JPS 'insolence'"
+    }
+  ],
+  "translation": "Aw kana minɛ aw ka kan sanfɛla; aw kana kuma ni kun min tɛ jɔ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/75\/5-8.1791940742302.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aw kana"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "minɛ"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "sanfɛla"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "aw ka kan"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "aw kana kuma"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ni kun"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "min tɛ jɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:02.302952404Z",
+  "model": "glm-5.3"
+}

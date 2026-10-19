@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ka hesed bɛ jonya abada",
+      "rationale": "boli-daɲɛ tɛ v20 kɔnɔ; a bɛ tunun ni kumasen kɔrɔ ta ye"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Sihon ni Og",
+      "rationale": "masakɛ tɔgɔw  jatelen ni tilenniya ye: tanasekɛ ninnu tɔgɔ bɛ sɛbɛn Tora kɔnɔ"
+    }
+  ],
+  "translation": "Ni Og (Ugu), Bashan ka masakɛ — sabu a ka hesed bɛ jonya abada.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "53a786b6a044b466b5488df5864251b5083198327558428d013442ff4eb9d5c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/136\/17-20.1791941866440.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "ni Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a ka hesed"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:46.441344605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lisi jatebɛ",
+      "rationale": "Census list verse: clan name plus head-count 372."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבעים",
+      "rationale": "Bambara lacks a simple word for 70; rendered as 50+20 (kanga ni mugan), a compound the Hebrew single word does not have."
+    }
+  ],
+  "translation": "Shefatya denw, kɛmɛ saba ni kanga ni mugan ni fila ⟨372⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a979d4778998aafa59ed09cb6702f2d4beb33490438dd1944cd6d3fce3218f66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/7\/9-12.1791947070443.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Shefatya"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "saba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "kanga ni mugan"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ni fila"
+    }
+  ],
+  "timestamp": "2026-10-14T03:04:30.443948781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "faamisa",
+      "rationale": "צמת literally 'extirpate\/cut off'; 'wore me out' keeps the consuming picture without 'destroy'"
+    },
+    {
+      "kind": "addition",
+      "subject": "i ka",
+      "rationale": "possessive supplied with צרי for clarity of whose foes"
+    }
+  ],
+  "translation": "N ka jɛgisiya ye n faamisa, sabu i ka tɔgɔbaliw ye i ka kumaw lasɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/137-140.1791941655191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "n faamisa"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "n ka jɛgisiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "yelasɔrɔ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "i ka kumaw"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "i ka tɔgɔbaliw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:15.192361025Z",
+  "model": "glm-5.3"
+}

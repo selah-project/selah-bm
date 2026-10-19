@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 16:11",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sebasɛbɛn kɔnɔ",
+      "rationale": "Citation formula: the acts are indexed by source document (the book of the kings of Judah and Israel)."
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Hebrew has only ‘of Judah and Israel’; possessive ta supplied to bind the names to the book."
+    }
+  ],
+  "translation": "Yala, Asa ka kumaw fɔlɔw ni labanw — olu de bɛ sɛbɛn masakɛw ka sebasɛbɛn kɔnɔ, Yuda (Judaa) ni Isirayɛl (Isirayɛli) ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "08f198e1710aeb747a7ae9759d89a5ce523faea7a582f32a034497206961695a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/16\/9-12.1791949039143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "yala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הראשונים",
+      "gloss": "fɔlɔw"
+    },
+    {
+      "surface": "והאחרונים",
+      "gloss": "ni labanw"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "olu de"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "bɛ sɛbɛn"
+    },
+    {
+      "surface": "על",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sebasɛbɛn"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "masakɛw ka"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ni Isirayɛl"
+    }
+  ],
+  "timestamp": "2026-10-14T03:37:19.144957174Z",
+  "model": "glm-5.3"
+}

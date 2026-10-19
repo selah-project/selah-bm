@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "kinor, newel, tof, halil",
+      "rationale": "Instrument names with no Bambara equivalent kept as Hebrew loans"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פעל\/מעשה, יביטו\/ראו",
+      "rationale": "Paired near-synonyms (work\/work, regard\/see) in parallel lines; parallelism flattened in Bambara"
+    }
+  ],
+  "translation": "Kinor ani newel, tof ni halil, ani diwɛn de b'u ka minɛ kɔnɔ; nka ⟨את⟩ Yawe ka baara u tɛ a lajɛ, ani a bolo baara, u ma a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b11006f1e6d9ab8e268edf6389367ebe4432f963b552b337684334a8d8032c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/5\/9-12.1791933472009.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "o kɛra"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "ani newel"
+    },
+    {
+      "surface": "תף",
+      "gloss": "tof"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "ni halil"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ani diwɛn"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "u ka minɛ kɔnɔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ka baara"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "baara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "lajɛ"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ani baara"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "a bolow"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:17:52.020393282Z",
+  "model": "glm-5.3"
+}

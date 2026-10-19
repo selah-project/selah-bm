@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתי \/ n ke",
+      "rationale": "Heburu bɛ fɔ 'layidu bugu' (כרת ברית); Bamanankan fɔ 'layidu ke' — buguli taamasiyɛn bɔra"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתכם",
+      "rationale": "כan na in kɔnɔ, אִתְּכֶם ye 'ni aw ye' kɔrɔlen ye (duguma-daɲɛ), direct-object taamasiyɛn tɛ o ye"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Yawe ka kuma bɛ tugu aw kan, ko layidu ma wera"
+    }
+  ],
+  "translation": "Ni layidu min n ke ni ⟨את⟩ aw ye, aw k'a werante, aw kana siran alaw wɛrɛw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/17\/37-40.1791933054962.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "ni layidu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "n ke"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "werante"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "siran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "alaw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wɛrɛw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:10:54.966859607Z",
+  "model": "glm-5.3"
+}

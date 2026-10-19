@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dɔ",
+      "rationale": "Hebrew has no indefinite article; Bambara needs ⟨dɔ⟩ for 'a widow'"
+    },
+    {
+      "kind": "crux",
+      "subject": "צויתי",
+      "rationale": "'I have commanded' — no command to the widow is narrated anywhere; readers differ over whether it is a heavenly decree or an act already done in the unseen"
+    },
+    {
+      "kind": "you",
+      "subject": "to Eliyahu",
+      "rationale": "Yawe commands Eliyahu directly: rise, go, dwell"
+    }
+  ],
+  "translation": "Yɛlɛn, taa Tsarefata (Sarepta), min bɛ Tsidon (Sida) fɛ, ka ɔnɔ yen; mira, ne ye minɛ yen muso furakɛli ⟨dɔ⟩, walasa k'i balo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d8d05319aa93ba74f05cdda76d50a5672a88c8eced2f3b20f12e9c45c4727645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/17\/9-12.1791932289630.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Yɛlɛn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taa"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "Tsarefata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ka ɔnɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mira"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ne ye minɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yɔrɔ min na"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "muso furakɛli"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "furakɛli"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "walasa k'i balo"
+    }
+  ],
+  "timestamp": "2026-10-13T22:58:09.632330873Z",
+  "model": "glm-5.3"
+}

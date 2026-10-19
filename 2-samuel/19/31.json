@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 19:31",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אחרי אשר",
+      "rationale": "'after that' rendered causal 'sabu', following the sense of all versions."
+    },
+    {
+      "kind": "elision",
+      "subject": "so",
+      "rationale": "'unto his house' — Bambara 'so kɔnɔ' absorbs the possessive 'his' already carried by the speech context."
+    }
+  ],
+  "translation": "Mefiboset (Mefiboseti) ye masakɛ fɔ ko: A ka ⟨את⟩ bɛɛ ta, sabu n Matigi masakɛ nana so kɔnɔ hɛrɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5140c72d81c8137d0ee21c34e9518fd493f18d22a66b04b0939440ead3661773",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/19\/29-32.1791931423326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "… ye … fɔ"
+    },
+    {
+      "surface": "מפיבשת",
+      "gloss": "Mefiboset (Mefiboseti)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… fɔ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fɔlɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɛɛ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "a ka … ta"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "n Matigi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "hɛrɛ la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… kɔnɔ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-10-13T22:43:43.328315638Z",
+  "model": "glm-5.3"
+}

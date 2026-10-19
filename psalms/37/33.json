@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fisa",
+      "rationale": "ירשיענו kɔrɔ ye «ka fisa ko jugu kɛ mɔgɔ dɛ» ye; «condemn» bɛ Bamanankan na fisa daɲɛ ye"
+    },
+    {
+      "kind": "you",
+      "subject": "walimasa",
+      "rationale": "sira in fɔra walimasa kan, Ps 37:32 kɔfɛ — a ye kuma walimasa la"
+    },
+    {
+      "kind": "alternative",
+      "subject": "a",
+      "rationale": "suffix -ו bɛ se ka fɔ Yawe ye (Yawe tɛna Yawe bila a bolo la) — masin ye walimasa ta"
+    }
+  ],
+  "translation": "Yawe tɛna a to a bolo la, wa tɛna a jɔ sariya kɔnɔ ni a bɛ fisenɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e35d96f0cad5c91005cc3d5dbf35260abc95dbea183174aa42c81731a35b560c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/33-36.1791940086365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna…tɛ"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "tɛna a to"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a bolo la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wa tɛna…tɛ"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "a jɔ (fisa ko jugu a kan)"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "ni a bɛ fisenɛ sariya kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:06.365822552Z",
+  "model": "glm-5.3"
+}

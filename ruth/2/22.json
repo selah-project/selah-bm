@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 2:22",
+  "book": "ruth",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mɔgɔw",
+      "rationale": "Bambara needs an explicit subject for the negative verb; Hebrew יפגעו leaves the agent vague ('they meet you not')"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפגעו בך",
+      "rationale": "'meet\/assail you': KJV 'meet thee not', JPS 'be not met', BSB softens to 'nothing happen'; the verb can mean violent attack"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ruth",
+      "rationale": "Naomi addresses Ruth directly as 'my daughter', protecting her within Boaz's field"
+    }
+  ],
+  "translation": "Nawemi ko Rut a kaladenmuso ye: n denmuso, a ka ɲi ko i na bɔ ni a denmusow ye, ani mɔgɔw kana i lamini foro wɛrɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dbaa07bbc94ff09d7eb10587cabfa1086177a2ab022eb61a343598f8cd0324cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ruth\/2\/21-23.1791944743413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Nawemi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "a kaladenmuso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "a ka ɲi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "n denmuso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "i na bɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "a denmusow ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani mɔgɔw kana"
+    },
+    {
+      "surface": "יפגעו",
+      "gloss": "i lamini"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "foro"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wɛrɛ la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:43.414361896Z",
+  "model": "glm-5.3"
+}

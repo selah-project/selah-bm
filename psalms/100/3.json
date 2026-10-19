@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ani an tɛ",
+      "rationale": "ולא אנחנו 'and not we' — KJV supplies 'we ourselves [made us]'; others read 'and we are his'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "aw ka dɔn",
+      "rationale": "imperative 'know' addressed to the congregation"
+    }
+  ],
+  "translation": "Aw ka dɔn ko Yawe, ale de ye Elohim ye; ale de ye an dilan, ani ⟨an yɛrɛ tɛ dilan⟩; an ye a jama ye ani a sagaw min bɛ a nakɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/100\/1-4.1791941240224.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "aw ka dɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ale de"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ale de"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ye an dilan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani … tɛ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "an"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a jama"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "a sagaw"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "a nakɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:20.225707994Z",
+  "model": "glm-5.3"
+}

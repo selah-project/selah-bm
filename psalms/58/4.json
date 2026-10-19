@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרו",
+      "rationale": "Root 'be a stranger\/turn aside': 'estranged from the womb' (KJV) vs 'go astray from the womb' — 'estranged' kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kunboli",
+      "rationale": "בטן is belly\/womb; paired with רחם (womb) as two words for one picture."
+    }
+  ],
+  "translation": "Jugubagaw ye bilasira ye dɛnso kɔnɔ, u tɔɔra kunboli la, u bɛ fitini kuma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/58\/1-4.1791940394345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "u ye bilasira ye"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jugubagaw"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "dɛnso kɔnɔ"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "u tɔɔra"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kunboli la"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "u bɛ ... kuma"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "fitini"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:14.346118545Z",
+  "model": "glm-5.3"
+}

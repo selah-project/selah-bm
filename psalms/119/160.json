@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "'head\/sum' — KJV 'from the beginning' vs ASV\/YLT 'the sum of thy word'; rendered 'kun' (head) keeping the literal picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan copula supplied for the verbless clause 'the head of your word [is] truth'"
+    }
+  ],
+  "translation": "I ka kuma kun ye tiɲɛ ye, waati bɛɛ i ka tileya sariyaw bɛɛ bɛ to.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ebceea0ab5e72f3b307cc5c217ad32df22e7a88725dc4c7454dd564e18f12351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/157-160.1791941685180.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "i ka kuma"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "waati bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariyaw"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "i ka tileya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:45.181584150Z",
+  "model": "glm-5.3"
+}

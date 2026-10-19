@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dubasarakaw",
+      "rationale": "תודות ye duba-saraka ye (fili saraka), o tɛ 'duba' dɔrɔn ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "n bɛna",
+      "rationale": "Heburukan ma kalanden-sigilen fɔ; a bɛ kalanbaga fɔlɔw ka jɔyɔrɔ la"
+    }
+  ],
+  "translation": "Ale, Elohim, i nɛdaw bɛ n na; n bɛna dubasarakaw di i ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8ce15f1bd49ea8a6c5a21311a0669f0a6c2ccf07f0cb165dd82d2a66b4fc59d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/56\/13-14.1791940303484.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "n na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "i nɛdaw"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "n bɛna … di"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "dubasarakaw"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:11:43.485281141Z",
+  "model": "glm-5.3"
+}

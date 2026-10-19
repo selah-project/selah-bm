@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨I⟩",
+      "rationale": "Bamanankan de ye Hebrew participle fɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Wulili-sira",
+      "rationale": "המעלות: 'ascent journey' (Temple pilgrimage) — rendered 'wulili-sira'"
+    }
+  ],
+  "translation": "Wulili-sira sanu. I kan, ne ye ⟨את⟩ n'ɲɛw wuli, ⟨I⟩ min bɛ sigi sankolow kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/123\/1-4.1791941795965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Wulili-sira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "I kan"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ne ye … wuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n'ɲɛw"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "n'ɲɛw"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "min bɛ sigi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sankolow kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:35.966093028Z",
+  "model": "glm-5.3"
+}

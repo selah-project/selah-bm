@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בשיחי",
+      "rationale": "שיח is 'musing\/complaint' — rendered 'miirili' (thought), losing the complaint sense present in some versions."
+    },
+    {
+      "kind": "crux",
+      "subject": "אריד",
+      "rationale": "Rare verb רוד: 'wander restlessly' vs 'grow faint' — rendered as restless wandering."
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Continued direct address in the petition."
+    }
+  ],
+  "translation": "Tulo ɲɛ n na, ani n datugu: n bɛ tirisan-na n ka miirili kɔnɔ, ani n bɛ fɔɔdi bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/55\/1-4.1791940380203.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "tulo ɲɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n na"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ani n datugu"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "tirasan-na"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "n ka miirili kɔnɔ"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "fɔɔdi bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:00.204602743Z",
+  "model": "glm-5.3"
+}

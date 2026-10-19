@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 12:2",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "san wolonwula \/ san niŋasan",
+      "rationale": "accession date and reign length: seven and forty years counted"
+    },
+    {
+      "kind": "elision",
+      "subject": "tɔgɔ",
+      "rationale": "Hebrew 'and the name of his mother was' — copula omitted; Bamanankan 'ye … ye' supplies it"
+    }
+  ],
+  "translation": "Yehu (Yehu) masaya san wolonwula na, Yehoash ye masaya kɛ, ani san niŋasan (40) o ye masaya kɛ Yerushalayim (Jerusalɛmu) la; a ba tɔgɔ ye Tsibyah (Sibiya), o bɔra Be'er Shewa (Bereshewa) la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0f72284d8fed7cd045d4b5c43a2df63901077305eddb3735653efbeca5a3cf4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/12\/1-4.1791932946116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "san…na"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "ליהוא",
+      "gloss": "Yehu (Yehu)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masaya kɛ"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ani san niŋasan (40)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masaya kɛ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu) la"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "Tsibjah (Sibiya)"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "Be'er (Bere)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shewa (shewa)"
+    }
+  ],
+  "timestamp": "2026-10-13T23:09:06.117552102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "denya-lisɛli",
+      "rationale": "Awbɔtigiw tɔgɔw lisɛli — sarakalasebagaaw ka denya jatebɔ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הוליד",
+      "rationale": "'bɔ denya na' (k'a bɔ denya na) — Heburu ka hifil 'a kɛ den bɔli ye' kɔrɔ."
+    }
+  ],
+  "translation": "Yeshua ye ⟨את⟩ Yoyakim bɔ denya na, Yoyakim ye ⟨את⟩ Elyashiv bɔ denya na, Elyashiv ye ⟨את⟩ Yoyada bɔ denya na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/12\/9-12.1791947211568.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ye … bɔ denya na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ye … bɔ denya na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-10-14T03:06:51.569355042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שבט",
+      "gloss": "",
+      "rationale": "'mara-ncɛ' bɛ ta — Heburukan שבט bɛ fɔ tugunini min bɛ fanga da"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Bamanankan bɛ genitive daɲɛ ka 'tent of Joseph' jɔ"
+    }
+  ],
+  "translation": "A ye Yosefu (Yusufu) ka tɛntɛ bali, a ma min bɔ Efrayim ka mara-ncɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/65-68.1791940833431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "bali"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tɛntɛ la"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "mara-ncɛ la"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma si"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "min bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:33.431918375Z",
+  "model": "glm-5.3"
+}

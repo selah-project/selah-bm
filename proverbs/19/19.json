@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גרל",
+      "rationale": "Rare word 'great\/harsh' (burning) modifying חמה; appears only in this phrase in the Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם תציל ועוד תוסף",
+      "rationale": "'If you deliver, you will only add to it again' — JPS 'you will add thereto' (to trouble) vs KJV 'you must do it again'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "faran",
+      "rationale": "ענש is literally a fine\/penalty; rendered with a general 'burden\/penalty' word."
+    }
+  ],
+  "translation": "Mɔgɔ min bɛ sila ba, o bɛ faran minɛ ⟨a yɛrɛ ye⟩; sabu ni i ye a bɔ, i bɛna o kɛ tuguni.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bad42d7a68c4700fffe7c247ac07c1e0cb354901859946ed401a490fc0e3ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/19\/17-20.1791942790164.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bɛ faran minɛ"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "faran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "i ye a bɔ"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "tuguni"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "i bɛna kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:53:10.165156987Z",
+  "model": "glm-5.3"
+}

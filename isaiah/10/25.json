@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעט מזער",
+      "rationale": "a-little then very-littleness — the doubling shrinks the time; Bambara repeats dɔɔnin without the second word's intensifying shape"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kosɛdi",
+      "rationale": "ואפי is literally 'and my nose\/nostril', Hebrew's picture of anger; Bambara takes the plain anger-word"
+    },
+    {
+      "kind": "alternative",
+      "subject": "u tiyebra",
+      "rationale": "תבליתם can read 'their destruction' or 'their completing (of the punishment)'; destruction chosen"
+    }
+  ],
+  "translation": "Sabu na, dɔɔnin dɔɔnin na, suna bɛna ban, ani n ka kosɛdi bɛ u tiyebra kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "438a605020493ef5f74ec52fb910c7bb1b24fe4985580ad1fe993c939d1c7771",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/10\/25-28.1791933585223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dɔɔnin"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "dɔɔnin"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "dɔɔnin"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "bɛna ban"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "suna"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "ani n ka kosɛdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "u tiyebra"
+    }
+  ],
+  "timestamp": "2026-10-13T23:19:45.227225476Z",
+  "model": "glm-5.3"
+}

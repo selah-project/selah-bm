@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כנעתך",
+      "rationale": "כנעה (bundle\/package) appears only here in the Tanakh; rendered 'fɛn-lamɛnw' (things to gather)."
+    },
+    {
+      "kind": "crux",
+      "subject": "datuguli",
+      "rationale": "מצור: 'siege' (KJV 'fortress', JPS 'siege'); Bambara takes 'datuguli' (the shutting-in)."
+    },
+    {
+      "kind": "you",
+      "subject": "i ye mɔgɔ min bɛ datuguli kɔnɔ",
+      "rationale": "Feminine singular imperative addressed to the inhabitress — Jerusalem\/Zion under siege."
+    }
+  ],
+  "translation": "Lamɛn ⟨את⟩ i ka fɛn-lamɛnw, bɔ dugukolo la, i ye mɔgɔ min bɛ datuguli kɔnɔ!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8fa59c9d6972726d009ace5291eb36e8cf6ca6cbf84c3170850657f111264609",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/10\/17-20.1791935140823.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "lamɛn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "i ka fɛn-lamɛnw"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "i ye mɔgɔ min bɛ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "datuguli kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:45:40.823957839Z",
+  "model": "glm-5.3"
+}

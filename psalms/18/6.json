@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sheol",
+      "rationale": "שאול kept as the proper name of the world of the dead; never rendered 'jahanama'"
+    },
+    {
+      "kind": "crux",
+      "subject": "קדמוני",
+      "rationale": "'came before\/confronted me' (JPS, ylt) vs KJV 'prevented me' (older sense 'came before'); Bambara takes the meeting sense"
+    }
+  ],
+  "translation": "Sheol kunw ye n lakolankyɛ; saya makɔnw nana n ɲɛkɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/5-8.1791939766089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "kunw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ye n lakolankyɛ"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "nana n ɲɛkɔrɔ"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "makɔnw"
+    },
+    {
+      "surface": "מות",
+      "gloss": "saya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:46.090205741Z",
+  "model": "glm-5.3"
+}

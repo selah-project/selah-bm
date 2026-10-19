@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 13:3",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "past-marker tun supplied; Hebrew verb form carries the past"
+    },
+    {
+      "kind": "crux",
+      "subject": "חכם",
+      "rationale": "'wise' (YLT) vs 'subtil\/shrewd' (KJV) — the story colors the wisdom as craft"
+    }
+  ],
+  "translation": "Amnon teri dɔ ⟨tun ye⟩, a tɔgɔ Yonadab, Shima denkɛ, Dawid balimakɛ; Yonadab ye dɔnni-tigi ye kosɛbɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c7cfb28fc23da02c8c2ef9357ed0794ee0526f07f6ba8ad99899e3dde8994a3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/13\/1-4.1791931219732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "teri dɔ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "a tɔgɔ"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Yonadab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Shima"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "balimakɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויונדב",
+      "gloss": "Yonadab"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tigi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "dɔnni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:40:19.735047576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על אבשלום",
+      "rationale": "על can mean 'upon\/toward' (favor) or 'against' — here context favors 'toward'."
+    },
+    {
+      "kind": "addition",
+      "subject": "siginnen",
+      "rationale": "Hebrew says only 'the heart of the king was upon Absalom'; Bambara needs a stative participle."
+    }
+  ],
+  "translation": "Yowab (Joab), Tsɛruya (Seruya) denkɛ, ye dɔn ko masakɛ ka dusukun bɛ ⟨siginnen⟩ Awshalɔm (Absalɔm) la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "372ea23b4c7856a668ad38eb43aa60b6ae69205f4ce510ad305ac0a78c71e955",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/14\/1-4.1791931222697.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ye dɔn"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tsɛruya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "bɛ … la"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awshalɔm"
+    }
+  ],
+  "timestamp": "2026-10-13T22:40:22.698937504Z",
+  "model": "glm-5.3"
+}

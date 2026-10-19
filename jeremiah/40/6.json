@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 40:6",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "remaining",
+      "rationale": "Bambara lacks a plain adjective for הנשארים 'the-ones-remaining'; a relative clause was used, English gloss shown for the borrowed word."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו (preposition)",
+      "rationale": "preposition את 'with' +ו suffix; ⟨את⟩ glyph preserved, gloss 'ni a ye'."
+    }
+  ],
+  "translation": "Yirmeyahu (Yeremiya) na so Gedalaya, Ahikam den, Mitspa (Misifa) kɔnɔ, ka ɲɛ sigi ni ⟨את⟩ a ye mɔgɔw kɔnɔ, o minnu remaining dugukolo kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "86c225f3f225906cd17ad16549c5228f41293277f330f9e2bb4b5cbae21c4577",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/40\/5-8.1791936101531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "na so"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so"
+    },
+    {
+      "surface": "גדליה",
+      "gloss": "Gedalaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikam"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Mitspa kɔnɔ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ka ɲɛ sigi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ni ⟨את⟩ a ye",
+      "marks": "a ye"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "o minnu remaining"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo kan"
+    }
+  ],
+  "timestamp": "2026-10-14T00:01:41.532945291Z",
+  "model": "glm-5.3"
+}

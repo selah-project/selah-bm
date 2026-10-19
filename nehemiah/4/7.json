@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 4:7",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בצחחיים",
+      "rationale": "unique word, from a root meaning 'to be bare\/white' — 'exposed sunny spots'; rendered 'bare-yɔrɔw'"
+    },
+    {
+      "kind": "crux",
+      "subject": "למשפחות",
+      "rationale": "'by their families\/clans' — arrangement of guards by kin groups; 'duguw' (clans) captures the unit"
+    }
+  ],
+  "translation": "N ye mɔgɔw bilila duguma yɔrɔw la, dɛgɛsira kɔfɛ, bare-yɔrɔw la, ani N ye ⟨את⟩ jamaa bilila duguw (kɔnɔ), ni u ka npanw, u ka lansiyaw, ani u ka daw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6781bd79e319c577f75d8fc65998cf5cbd79b8410d1c49e17104ff707be1073e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/4\/5-8.1791946967951.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעמיד",
+      "gloss": "N ye ... bilila"
+    },
+    {
+      "surface": "מתחתיות",
+      "gloss": "duguma yɔrɔw"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "yɔrɔw la"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "dɛgɛsira"
+    },
+    {
+      "surface": "בצחחיים",
+      "gloss": "bare-yɔrɔw la"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "ani N ye ... bilila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jamaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "למשפחות",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חרבתיהם",
+      "gloss": "u ka npanw"
+    },
+    {
+      "surface": "רמחיהם",
+      "gloss": "u ka lansiyaw"
+    },
+    {
+      "surface": "וקשתתיהם",
+      "gloss": "ani u ka daw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:02:47.953061466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "אבותיכם 'your fathers' addresses the listening congregation directly"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sɔsɔ \/ lajɛ",
+      "rationale": "שני פעלים (נסה\/בחן) — 'test' and 'probe as metal' rendered with two Bambara verbs to keep the pair"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נסוני בחנוני",
+      "rationale": "first-person suffixes on both verbs pile up the affront: 'tested ME, probed ME'"
+    }
+  ],
+  "translation": "Min na, aw faamaw ye n sɔsɔ, ye n lajɛ, a bɛɛ u ye ⟨ne baara⟩ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "31ad06238abde40becff53422bc1a7a4603b320c8617d2636113f0bd59aad6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/95\/9-11.1791941034143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "min na"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "ye n sɔsɔ"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "aw faamaw"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "ye n lajɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "a bɛɛ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "u ye … ye"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ne baara"
+    }
+  ],
+  "timestamp": "2026-10-14T01:23:54.143918428Z",
+  "model": "glm-5.3"
+}

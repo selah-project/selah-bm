@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Mɔgɔ dɔw bɛ yen",
+      "rationale": "Hebrew is a bare noun phrase 'a generation that…'; Bambara needs an existential frame."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקלל\/יברך",
+      "rationale": "curse-vs-bless antithesis in parallel lines; Bambara danga\/duba keeps the pair."
+    }
+  ],
+  "translation": "Mɔgɔ dɔw bɛ yen: u bɛ baw danga, ⟨a ma⟩ ⟨את⟩ ama u tɛ duba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/30\/9-12.1791943031350.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Mɔgɔ dɔw bɛ yen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baw"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "u bɛ danga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ama"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "u tɛ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "duba"
+    }
+  ],
+  "timestamp": "2026-10-14T01:57:11.351887913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 36:10",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "Bambara question particle added for the Hebrew rhetorical question"
+    },
+    {
+      "kind": "crux",
+      "subject": "Yawe ye ne fɛ ko",
+      "rationale": "Rabshakeh claims Yawe commanded the assault; the Hebrew reports his claim directly without narrator comment"
+    }
+  ],
+  "translation": "Sisan, yala ni Yawe tili tɛ yen, ne ye so dugukolo in kan walasa k'a tiɲɛ wa? Yawe ye ne fɛ ko: so dugukolo in kan, k'a tiɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "62275601c170bfb2988ab2f712812785a6132cba61d5bb033faeb36dcb41691a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/36\/10-11.1791950690433.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "המבלעדי",
+      "gloss": "ni … tili tɛ yen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליתי",
+      "gloss": "ne ye so"
+    },
+    {
+      "surface": "על",
+      "gloss": "… kan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "in"
+    },
+    {
+      "surface": "להשחיתה",
+      "gloss": "walasa k'a tiɲɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne fɛ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… kan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "in"
+    },
+    {
+      "surface": "והשחיתה",
+      "gloss": "k'a tiɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:04:50.434544067Z",
+  "model": "glm-5.3"
+}

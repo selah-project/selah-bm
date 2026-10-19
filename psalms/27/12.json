@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בנפש",
+      "rationale": "nefesh ye 'ni' ye sira in kɔnɔ; yan a kɔrɔ ye 'kunbɛnni\/diwili' ye — 'bɔnɛfɛ' KJV fɔcogo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויפח חמס",
+      "rationale": "litɛrɛ 'a bɛ jugu mininti (ka bɔ u nun na)' — ka bɔ ɲɛda la"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "sɔsɔli bɛ tugu Yawe ma ni 'kana ne di' ye"
+    }
+  ],
+  "translation": "Kana ne di ne ka tɔɔrɔbagaaw ni ma; sabu seerebagaw ni fuya don, y'u yeeresan ne kan, ani u bɛ jugu mininti.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a15f111ed063f4a60cbff3d9e08f3f1035a3842b56f15b1beb4da6db1d082f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/27\/9-12.1791939874940.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "ne di"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ni la"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ne ka tɔɔrɔbagaaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "y'u yeeresan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ne kan"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "seerebagaw"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fuya"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "bɛ … mininti"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "jugu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:34.940980320Z",
+  "model": "glm-5.3"
+}

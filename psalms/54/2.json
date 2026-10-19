@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 54:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sangali la",
+      "rationale": "עמנו 'an ye' — Bamanankan de siratigɛ la dɔrɔn de b'a di"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלא … מסתתר",
+      "rationale": "saw-complaint kuma: kɛnɛda-sira 'wa' bɛ Zifuw ka tigɛ-ɲɛ-ko jira — kuma-jɛlen don, a bɛ saaw-bla bila"
+    },
+    {
+      "kind": "you",
+      "subject": "u ko Sawulu ma",
+      "rationale": "kumasen in bɛ fɔ Sawulu ma a yɛrɛ ma — tigɛ-ɲɛ-ko kɔrɔlen don"
+    }
+  ],
+  "translation": "Zifu mɔgɔw (Ziph ka mɔgɔw) nana wa u ko Sawulu (Saul) ma: yala Dawid (Dawuda) tɛ dogo an bɛɛ sangali la wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/54\/1-4.1791940344286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "הזיפים",
+      "gloss": "Zifu mɔgɔw (Ziph ka mɔgɔw)"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u ko"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sawulu (Saul) ma"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid (Dawuda)"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "tɛ dogo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "an bɛɛ sangali la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:24.287017669Z",
+  "model": "glm-5.3"
+}

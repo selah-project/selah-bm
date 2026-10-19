@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u y'a di",
+      "rationale": "Hebrew has no verb here; the giving-verb is carried over from v. 27 and supplied in brackets"
+    },
+    {
+      "kind": "measurement",
+      "subject": "duguw jate",
+      "rationale": "verse continues the Levite city census; the tally 'four cities' falls at v. 31"
+    }
+  ],
+  "translation": "Ni Asher siya fɛ: ⟨u y'a di⟩ — ⟨את⟩ Mishal ni a sankyɔrɔw, ⟨את⟩ Abdon ni a sankyɔrɔw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7dc977a9060792cf01f6681291259fda8e705fd13c91b7f93f53703da1ec5228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/21\/29-32.1791929057669.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ni … siya fɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "a sankyɔrɔw"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "a sankyɔrɔw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "a sankyɔrɔw"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "a sankyɔrɔw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:04:17.670837945Z",
+  "model": "glm-5.3"
+}

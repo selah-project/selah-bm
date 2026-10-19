@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 9:1",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "masaba",
+      "rationale": "משא 'burden\/oracle' vs 'tribute'; here an oracle of judgment, not a load."
+    },
+    {
+      "kind": "crux",
+      "subject": "hadamaden ɲɛ ... Yawe ta",
+      "rationale": "'the eye of man and all tribes of Israel is toward\/to YHWH' — KJV reads eyes turned toward the LORD, JPS reads the eye belongs to YHWH."
+    },
+    {
+      "kind": "hapax",
+      "subject": "Hadrakh",
+      "rationale": "חדרך appears only here in the Tanakh; a Syrian deity\/place."
+    },
+    {
+      "kind": "mystery",
+      "subject": "masaba",
+      "rationale": "oracle open with withheld referent — what the burden contains unfolds only in the following verses."
+    }
+  ],
+  "translation": "Yawe kuma ka masaba Hadrakh jamana kɔnɔ na, ni Damasɛki ye a lafiya-yɔrɔ ye; sabu hadamaden ɲɛ ni Israyɛl sabetaw bɛɛ ɲɛw ⟨ye⟩ Yawe ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c9a202bb4e68a734844dcdbcd9b335033db4cd8f27b7272f0cdf0115669ee6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/9\/1-4.1791939317112.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "masaba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "jamana kɔnɔ"
+    },
+    {
+      "surface": "חדרך",
+      "gloss": "Hadrakh"
+    },
+    {
+      "surface": "ודמשק",
+      "gloss": "ni Damasɛki"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "a lafiya-yɔrɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ta"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ni bɛɛ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "sabetaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    }
+  ],
+  "timestamp": "2026-10-14T00:55:17.112712981Z",
+  "model": "glm-5.3"
+}

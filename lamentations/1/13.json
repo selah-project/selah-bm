@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 1:13",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew gives no subject for שלח; supplied pronoun ⟨a⟩ from context (Yawe, v12)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bangera",
+      "rationale": "דוה is sickness, specifically menstrual sickness — 'faint\/sick all the day' carries only part of the picture"
+    },
+    {
+      "kind": "idiom",
+      "subject": "tasuma ninka kolow la",
+      "rationale": "fire into my bones — Hebrew idiom for consuming inner anguish"
+    }
+  ],
+  "translation": "Sanfɛla la, ⟨a⟩ ye tasuma cɛgi ninka ne ka kolow la, ka u mouse; a ye jaso jan ne ka senw kama, a y'i bila kɔ; a y'i to toɔbilaya, ne bɛ bangera don bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2a9503cc05034d0f9c2404080a9adf1b4e12f4c546ee3ad2033a04e5bb4de7ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/1\/13-16.1791944955623.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממרום",
+      "gloss": "sanfɛla la"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ye … cɛgi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "בעצמתי",
+      "gloss": "ninka ne ka kolow la"
+    },
+    {
+      "surface": "וירדנה",
+      "gloss": "ka u mouse"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ye … jan"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "jaso"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "ne ka senw kama"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "a y'i bila"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "a y'i to"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "toɔbilaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "bangera"
+    }
+  ],
+  "timestamp": "2026-10-14T02:29:15.624055915Z",
+  "model": "glm-5.3"
+}

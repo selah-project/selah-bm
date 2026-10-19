@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יודע",
+      "rationale": "'knows' — JPS 'regardeth', BSB 'guards'; literal 'dɔn' kept, the guard sense left as a possible reading."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך…ודרך",
+      "rationale": "The verse pivots on the repeated 'way' — the same word leads to life or perishing; the parallel structure is kept intact."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תאבד",
+      "rationale": "Hebrew 'wander away\/perish' rendered 'bɔn' (be lost), preserving the lostness rather than mere destruction."
+    }
+  ],
+  "translation": "Sabu Yawe bɛ ɲɛtanw ka sira dɔn, olo jugutigɛw ka sira bɛna bɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7e04e106a071e4805e985b8f507baa435d69de80961220bb5df2be62ecdb2450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/1\/5-6.1791939449939.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bɛ … dɔn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka sira"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ɲɛtanw"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "olo … ka sira"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jugutigɛw"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "bɛna bɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T00:57:29.939997440Z",
+  "model": "glm-5.3"
+}

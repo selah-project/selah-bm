@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ɲumaninya",
+      "rationale": "צדקה 'righteousness' rendered ɲumaninya; concrete legal nuance softened"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "worshipper addresses God directly in third-then-second person shift"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדקתך",
+      "rationale": "repetition of צדקתך from v15 binds the two verses; carried by repeating ɲumaninya"
+    }
+  ],
+  "translation": "Ne bɛna don Adonay Yawe ka fanga la; ne bɛna i ka ɲumaninya fɔ kokura — i yɛrɛ dɔrɔn de.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0a1ee5dc1511e1ef3f3520935b85d72f87a00495bbe70beb00fb03821231156b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/71\/13-16.1791940569435.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ne bɛna don"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "ka fanga la"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ne bɛna ... fɔ kokura"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "i ka ɲumaninya"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "i yɛrɛ dɔrɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:16:09.436651086Z",
+  "model": "glm-5.3"
+}

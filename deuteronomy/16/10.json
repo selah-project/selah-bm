@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 16:10",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסת",
+      "rationale": "'According to the measure\/abundance' — KJV 'tribute', JPS 'after the measure': the offering is proportional to blessing; rendered with cogo min na ('in the manner that')."
+    },
+    {
+      "kind": "elision",
+      "subject": "min bɛ bɔ i ka bolo fɛ",
+      "rationale": "Hebrew uses only 'of your hand'; Bambara needs a verb of giving for the phrase to read."
+    }
+  ],
+  "translation": "I bɛna dɔnniw seli kɛ Yawe i ka Elohim ye, ni nidabali-sara ye min bɛ bɔ i ka bolo fɛ, i min bɛ di, i n'i cogo min na Yawe i ka Elohim bɛ i duba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bb34b9172bdacd966f11e5e688dcc25d9234e57f14d6bf7b7b94714e77b58086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/16\/9-12.1791928018088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i bɛna … kɛ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "seli"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "dɔnniw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "מסת",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "nidabali-sara"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "i ka bolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "i bɛ di"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'i cogo min na"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "bɛ i duba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:58.092261291Z",
+  "model": "glm-5.3"
+}

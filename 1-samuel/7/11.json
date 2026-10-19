@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתחת לבית כר",
+      "rationale": "'Beti-Kar jukɔrɔ' (KJV, JPS) verse 'Beti-Kar yɔrɔ' (ylt 'the place of Beth-Car') — jukɔrɔ (below) de ye sɛbɛnni ka tiɲɛ ye."
+    }
+  ],
+  "translation": "Isirayɛl ka mɔgɔw bɔra Mitspa (Misipa) la, ka ⟨את⟩ Filisti nw tu, ka u bɔn fo Beti-Kar (Beti-Kar) jukɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "122c78d6215d0cdeba1c2e8fa9c9236865495a04f3d9be1499e0c668f109a78c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/7\/9-12.1791929956371.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ka mɔgɔw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "מן",
+      "gloss": "la"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa (Misipa)"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ka ... tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filisti nw"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisti nw"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ka u bɔn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "jukɔrɔ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar (Beti-Kar)"
+    }
+  ],
+  "timestamp": "2026-10-13T22:19:16.374805983Z",
+  "model": "glm-5.3"
+}

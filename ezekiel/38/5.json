@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "אתם with plural suffix is the preposition 'with them', not the direct-object marker; carried as ⟨את⟩ with marks 'u'."
+    }
+  ],
+  "translation": "Paras, Kush ni Put ⟨u ye⟩; u bɛɛ ni ɲɛgɛn ni kunfitiri ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f9e60814802c096c07d8ad82e12253fd3bfb7ca9300c222feafa13fcfec886ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/38\/5-8.1791937648731.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ni Put"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u (jamana ninnu)"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "u bɛɛ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ɲɛgɛn"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "ni kunfitiri"
+    }
+  ],
+  "timestamp": "2026-10-14T00:27:28.732174538Z",
+  "model": "glm-5.3"
+}

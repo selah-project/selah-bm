@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 21:6",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "basigi",
+      "rationale": "נחם covers both 'grieved' and 'repented'; Bambara 'basigi' keeps the grief side"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגדע שבט",
+      "rationale": "the tribe is a 'stick' (שבט) that is 'cut down' like a tree — the picture of felling is kept in 'dogara'"
+    }
+  ],
+  "translation": "Israɛl denw y'i basigi Binyamin kɔrɔ, u balimakɛ la, u ko: bi siya kelen dogara Israɛl la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "76a57b4bbc54c2882cedbb7e5db5cac88d16d9c7ff5b5059c6cfffd3e7a6ceb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/21\/5-8.1791929818305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחמו",
+      "gloss": "y'i basigi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israɛl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔrɔ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "u balimakɛ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u ko"
+    },
+    {
+      "surface": "נגדע",
+      "gloss": "dogara"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israɛl la"
+    }
+  ],
+  "timestamp": "2026-10-13T22:16:58.307368574Z",
+  "model": "glm-5.3"
+}

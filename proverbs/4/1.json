@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Mɛn",
+      "rationale": "Plural imperative opening the father's address to the sons, drawing the hearer in"
+    },
+    {
+      "kind": "you",
+      "subject": "denw",
+      "rationale": "Direct address to the sons, the addressees of the whole chapter"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kalan",
+      "rationale": "מוסר spans chastisement, reproof and instruction; kalan keeps only the teaching sense"
+    }
+  ],
+  "translation": "Mɛn, denw, fa ka kalan; aw ka tulo jirali walasa ka faamu dɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8193dd1e1a15088d271e3e8876229dd56aaaf0387a15856dd2753f7772c259d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/4\/1-4.1791942186109.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mɛn"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "denw"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "אב",
+      "gloss": "fa"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "aw ka tulo jirali"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "walasa ka dɔn"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "faamu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:43:06.109769226Z",
+  "model": "glm-5.3"
+}

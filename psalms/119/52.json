@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 119:52",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "direct address to Yawe by Name at the verse's center"
+    },
+    {
+      "kind": "crux",
+      "subject": "makumara",
+      "rationale": "ואתנחם Niphal 'I was comforted' vs KJV reflexive 'I comforted myself' — passive reading preferred"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "xasala \/ makuma",
+      "rationale": "זכר of v49 returns as זכרתי and נחמה of v50 as ואתנחם — the zayin strophe binds remembering and comforting"
+    }
+  ],
+  "translation": "Ne yɛ i ka sariya-jatebaw xasala, minnu bɔra walɛrɔ kɔrɔ, Yawe, ani ne makumara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c9e2dba27090389238312a75e443044ea162f959c37a5db86bb09682301414db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/49-52.1791941641435.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ne yɛ ... xasala"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "i ka sariya-jatebaw"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "walɛrɔ kɔrɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואתנחם",
+      "gloss": "ani ne makumara"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:01.435960308Z",
+  "model": "glm-5.3"
+}

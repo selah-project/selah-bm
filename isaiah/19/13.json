@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פנת שבטיה",
+      "rationale": "'kɔnɔtigiw' (corner-chiefs): 'a siyaw ka kɔnɔtigiw' vs 'u ye a siyaw ka kunbila ye' — KJV\/ASV 'stay\/cornerstone of her tribes', BSB flips the clause to make the chiefs the subject."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נואלו",
+      "rationale": "יָאַל (to be slack → foolish) shares sounds with the passage's folly language; the slack-rope picture is lost in 'balenw kɛ'."
+    }
+  ],
+  "translation": "Tsowen (Tsoän) kuntigiw ye balenw kɛ, Nof kuntigiw y'a sɔrɔ yonko la; u y' ⟨את⟩ Mitsrayim (Misira) tɔɔsiyon kɛ, a siyaw ka kɔnɔtigiw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/19\/13-16.1791933804097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "balenw kɛ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kuntigiw"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsowen"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "y'…yonko la"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kuntigiw"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nof"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "tɔɔsiyon kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "kɔnɔtigiw"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "a siyaw ka"
+    }
+  ],
+  "timestamp": "2026-10-13T23:23:24.100669676Z",
+  "model": "glm-5.3"
+}

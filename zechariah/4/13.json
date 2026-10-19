@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sɛbɛn da",
+      "rationale": "Hebrew's interrogative phrase needs an explicit verb phrase in Bamanankan"
+    },
+    {
+      "kind": "you",
+      "subject": "kalanbaga (Zekariya)",
+      "rationale": "The ciden addresses Zekariya directly with the question 'Do you not know?'"
+    }
+  ],
+  "translation": "A ko ne ye ko: Yala i mɛnna minnu ye sɛbɛn da? Ne ko: Ayi, ne ka Matigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "76f0baf8b6ac329cadd81aee5376303ac3863a332ccadfe694d5e739223d23ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/4\/13-14.1791939118079.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "yala"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "i mɛnna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nin ye sɛbɛn da"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ne ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ne ka Matigi"
+    }
+  ],
+  "timestamp": "2026-10-14T00:51:58.079743714Z",
+  "model": "glm-5.3"
+}

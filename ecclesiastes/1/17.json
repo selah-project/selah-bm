@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רעיון רוח",
+      "rationale": "'vexation of spirit' (KJV) vs 'striving after wind' (ASV\/JPS) — literal is 'pursuit\/desiring of wind'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dɔnniya",
+      "rationale": "חכמה (wisdom) ni דעת (knowledge) bɛ fila-fila Bamanankan na: dɔnniya ni kunafoni — daɲɛ fila wajibiya"
+    }
+  ],
+  "translation": "N ye n ka dusukun di ka dɔn dɔnniya, ani ka dɔn balaya ni joso; n ye dɔn ko o fana de ye fiɲɛ ɲinini ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f8e4ddfd134e2f66f9d8524b8f85e73840c15349004a8d0c64adcb76e939e5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/1\/17-18.1791945046831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "n ye … di"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "n ka dusukun"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ka dɔn"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "dɔnniya"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ani ka dɔn"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "balaya"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "ani joso"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "n ye dɔn"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "ko fana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "o"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o de"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "ɲinini"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:30:46.832422193Z",
+  "model": "glm-5.3"
+}

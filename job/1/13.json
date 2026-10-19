@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew bəveit is bound construct; Bambara needs the possessor pronoun on the house"
+    },
+    {
+      "kind": "addition",
+      "subject": "tun bɛ",
+      "rationale": "Hebrew participle אכלים without tense; Bambara past-continuous supplied"
+    }
+  ],
+  "translation": "Don kelen na, a denkɛw ni a denmusow tun bɛ dun, ani bɛ diwɛn min, bɛ u balimakɛ min tun ye fɔlɔden ye, ⟨a⟩ so kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5792733491401a8b892c2b081b16eaf63c696502a0b7be2de2220a56401cd112",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/1\/13-16.1791943194796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don kelen"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "a denkɛw"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "ni a denmusow"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "dun"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ani min"
+    },
+    {
+      "surface": "יין",
+      "gloss": "diwɛn"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so kɔnɔ"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "u balimakɛ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "fɔlɔden"
+    }
+  ],
+  "timestamp": "2026-10-14T01:59:54.797557387Z",
+  "model": "glm-5.3"
+}

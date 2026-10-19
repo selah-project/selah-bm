@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Satana is directly addressing Yawe with a rhetorical question."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ala",
+      "rationale": "אלהים rendered Ala, the glossary-fixed equivalent."
+    }
+  ],
+  "translation": "Satana ye ⟨את⟩ Yawe jaabi ko: yala Iyobu bɛ Ala siran jigelenna la wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ea32cd530acba48f467ef0870a98f300b95b89696464165dc7cdc5f14e52e458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/1\/9-12.1791943172936.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ye … jaabi"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "jigelenna la"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "siran"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ala"
+    }
+  ],
+  "timestamp": "2026-10-14T01:59:32.937459413Z",
+  "model": "glm-5.3"
+}

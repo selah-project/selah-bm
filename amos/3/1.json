@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 3:1",
+  "book": "amos",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aw ni",
+      "rationale": "Hebrew repeats עַל before כל; Bambara needs the pronoun to bind the phrase"
+    },
+    {
+      "kind": "invitation",
+      "subject": "שמעו",
+      "rationale": "imperative summons opening the oracle — Hear"
+    },
+    {
+      "kind": "you",
+      "subject": "בני ישראל",
+      "rationale": "direct address to Israel"
+    }
+  ],
+  "translation": "Aw mɛnɛ ⟨את⟩ nin kuma in, min ye Yawe fɔ aw kan, Yisraɛl (Izraɛl) denw, aw ni jamaba bɛɛ min bɔra Mitsrayim dugukolo la, ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/amos\/3\/1-4.1791938427141.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "aw mɛnɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nin kuma in"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nin kuma in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aw kan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "על",
+      "gloss": "aw ni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "jamaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "n bɔra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko:"
+    }
+  ],
+  "timestamp": "2026-10-14T00:40:27.142146409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Hebrew interjection אשרי lacks a verb; Bambara copula supplied"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם … ואדם",
+      "rationale": "parallel repetition of 'adam' frames the two halves of the beatitude"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפיק",
+      "rationale": "'bring forth \/ draw out' understanding vs 'obtain\/acquire' (KJV\/JPS); literal is to draw out like water"
+    }
+  ],
+  "translation": "Hɛrɛ don hadamaden min ye hakili sɔrɔ, ani hadamaden min bɛ dɔnniya bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7932d61661b4d4a0808ca5e36159d9ac5c828bd5d220084a535f681cbc2b3689",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/3\/13-16.1791942148466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "hɛrɛ don"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "sɔrɔ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hakili"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ani hadamaden"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "bɛ … bɔ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "dɔnniya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:42:28.466718230Z",
+  "model": "glm-5.3"
+}

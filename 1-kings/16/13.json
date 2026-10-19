@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חטאו \/ החטיאו",
+      "rationale": "sinned \/ caused-to-sin: the same root repeated three times in the verse, kept as jurumu…jurumu in Bambara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בהבליהם",
+      "rationale": "rendered 'habalw' (breath-vanities); many versions read 'worthless idols'"
+    },
+    {
+      "kind": "crux",
+      "subject": "habalw",
+      "rationale": "הבל: 'vanities' (KJV) vs 'worthless idols' (BSB) — kept literal 'empty things'"
+    }
+  ],
+  "translation": "Baasha ka jurumuw bɛɛ kan, ani a denkɛ Ela ka jurumuw, minnu ye o kɛ, ani minnu ye ⟨את⟩ Yisrayɛl (Isirayɛli) bila jurumu kɛli la, walasa ka ⟨את⟩ Yawe, Yisrayɛl ka Elohim, lasɔsɔ ni u ka habalw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "02bdaab2e11b56cc7c8d4a928e26b0c8891045fb69772f50ca88f47af0532f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/16\/13-16.1791932338706.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "jurumuw"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "ani jurumuw"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ye o kɛ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ani minnu"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "bila jurumu kɛli la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛl"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "lasɔsɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛl"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "ni u ka habalw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:58:58.711346627Z",
+  "model": "glm-5.3"
+}

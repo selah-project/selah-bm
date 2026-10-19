@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "Here אֵת is the preposition 'with', not the direct-object marker, so it is rendered 'ni' rather than ⟨את⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונשמת מי",
+      "rationale": "'Whose breath\/spirit came from you' — JPS adds 'with whose help'; alternatives read it as the source of Bildad's inspiration, possibly not his own."
+    },
+    {
+      "kind": "you",
+      "subject": "to Bildad",
+      "rationale": "Final barbed question closing the address."
+    }
+  ],
+  "translation": "Ni jɔn i ye kumaw fɔ a ye? Ninakili min bɔra i la, jɔn de?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a2f3b40aff160d0dd3c365ff1752a3fd0cf77a6274e6186a3bce8ca368fff7d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/26\/1-4.1791943879734.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "jɔn"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "i ye … fɔ a ye"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "ni ninakili min"
+    },
+    {
+      "surface": "מי",
+      "gloss": "jɔn"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "i la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:11:19.736830693Z",
+  "model": "glm-5.3"
+}

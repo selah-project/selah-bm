@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "2-samuel 22:51",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "faamuyɔrɔw",
+      "rationale": "ישועות plural 'deliverances\/victories'; some versions read 'tower of salvation' (KJV\/JPS) with different text"
+    },
+    {
+      "kind": "crux",
+      "subject": "מגדיל",
+      "rationale": "'he magnifies (the deliverances of his king)' vs KJV\/JPS 'tower of salvation' — verb vs noun reading of מגדול"
+    },
+    {
+      "kind": "addition",
+      "subject": "Dawida",
+      "rationale": "gloss of Mashíaciden supplied since Bambara has no common word for 'anointed one'"
+    },
+    {
+      "kind": "elision",
+      "subject": "עולם",
+      "rationale": "literally 'concealed \/ vanishing point' — time beyond sight; rendered as eternity phrase"
+    }
+  ],
+  "translation": "A bɛ a ka masakɛ faamuyɔrɔw ka bonya, a bɛ hesed kɛ a Mashíaciden (Dawida) ye, Dawid (Dawuda) ni a kisɛw la, fo janka kɔrɔ fitini bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1f1f0d025142afc18f46cc442f0ea9d9d59166607e228b872b054268e9a299d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/22\/49-51.1791931532688.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגדיל",
+      "gloss": "a bɛ ... ka bonya"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "faamuyɔrɔw"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "a ka masakɛ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a bɛ ... kɛ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "a Mashíaciden (Dawida) ye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid (Dawuda)"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "ani a kisɛw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "janka kɔrɔ fitini bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:45:32.691257629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חנם … חנם",
+      "rationale": "Daɲɛ in sanfɛla ni dugubala — 'ni jɛya' fila, ka jira ni bɔnbɔliw tɛ kuntilon-tigɛli ye."
+    },
+    {
+      "kind": "crux",
+      "subject": "kɛnɛ ni jalaki cogoya",
+      "rationale": "KJV\/JPS bɛ רשתם ka jɔcogo faamuya caman-fɛfɛ: net in a pit (KJV) walima pit + net fila yɔrɔ fitinin (JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש tɛ 'soul' ye Tubabukan na; Bamanankan 'ni' (ninakili\/bolo) ka ɲɛ o cogo min."
+    }
+  ],
+  "translation": "Sabu ni jɛya u ye kɛnɛ da n na, u ka jalaki; ni jɛya u kolonna kɛnɛ n ka ni kama.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/35\/5-8.1791940031984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ni jɛya"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "u ye … datugu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n na"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "kɛnɛ"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "u ka jalaki"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ni jɛya"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "u kolonna"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "n ka ni kama"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:11.985005124Z",
+  "model": "glm-5.3"
+}

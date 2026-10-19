@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יפת\/יפת",
+      "rationale": "verb yafat 'enlarge\/widen' plays on the name Yefet, lost in Bambara"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפת",
+      "rationale": "'God enlarge Japheth' vs Geneva 'God persuade'; root can mean both make roomy and entice"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "למו poetic 'to them' needs explicit pronoun u"
+    }
+  ],
+  "translation": "Elohim ka Yefet (Yafetu) yɛlɛ yaamɛ, k'a bila a ka wili Shem tantiw kɔnɔ; k'a sɔrɔ Kenaan bɛna kɛ ⟨u⟩ jon ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "27204ea4fb7a74f502d72646453072f00b985e7a6468aacc58c4051f88a7e5e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/genesis\/9\/25-28.1791926844749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "yɛlɛ yaamɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "Yefet"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "wili"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "tantiw kɔnɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "k'a sɔrɔ … kɛ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "jon"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨u⟩ ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:27:24.751412034Z",
+  "model": "glm-5.3"
+}

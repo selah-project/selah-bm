@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 1:9",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "muso kelen ni a terimuso",
+      "rationale": "Hebrew idiom 'ishshah el aḥotah (woman to her sister)' means 'one to another', not literal kinship"
+    },
+    {
+      "kind": "addition",
+      "subject": "fan fɛ",
+      "rationale": "Bambara needs 'side of' to render the adverbial 'el ever' (toward the region of)"
+    }
+  ],
+  "translation": "U seniw bɛ ɲɔgɔn mara, muso kelen ni a terimuso ye; u tɛ jɔli kɛ u taana la; kelen-kelen bɛ taa a ɲɛda fan fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c2064f9d6c31054ecd64abb83845003ab14c943a031c8a1077ece208ee717401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/1\/9-12.1791936503305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חברת",
+      "gloss": "bɛ ɲɔgɔn mara"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "muso kelen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni … ye"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "a terimuso"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "u seniw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "jɔli kɛ"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "u taana la"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kelen-kelen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… fan fɛ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "fan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "a ɲɛda"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bɛ taa"
+    }
+  ],
+  "timestamp": "2026-10-14T00:08:23.306432878Z",
+  "model": "glm-5.3"
+}

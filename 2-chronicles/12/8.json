@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "Nin 'כי' in bɛ fɔ 'nka\/walima' ye (Baadilu 12:7 ka yɛrɛkɛli), a tɛ fɔ 'sabu' ye awa — bayɛlɛmabaga dɔw b'a fɔ 'Nevertheless'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עבודה",
+      "rationale": "עבודה bɛ fɔ 'baara' ye wa 'dinen-baara' (worship) — kumasen in bɛ nin jɔyɔrɔ fila wuli don-don; Bamanankan 'baara' bɛ o fla lamini kelen na"
+    }
+  ],
+  "translation": "Nka u bɛna kɛ a josaw ye, walasa u bɛna dɔn ne ka baara ni jamana masakɛw ka baara cɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7737da1ed1038ad80d1eaad8df4d1e89ca0acd5d95fa6e1ea61ef3ada5d4a892",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/12\/5-8.1791949054593.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "u bɛna kɛ … ye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "josaw"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "u bɛna dɔn"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "ne ka baara"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "… ka baara"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "jamana masakɛw"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "jamana"
+    }
+  ],
+  "timestamp": "2026-10-14T03:37:34.594616642Z",
+  "model": "glm-5.3"
+}

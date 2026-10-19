@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "כי here marks the temporal clause 'when', rendered by Bambara conditional ni rather than 'that'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisrayɛl denw",
+      "rationale": "imperative dbr addressed to Israel, relayed through Moshe"
+    }
+  ],
+  "translation": "Kuma Yisrayɛl (Isirayɛl) denw ma, k'A ko: ni aw bɛ ⟨את⟩ Yarden (Jori) tɛmɛ ka taa Kanaan (Kanahan) dugukolo la,",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9ceeb1c87cf123bb8c17e200ee0c9efadc9b5b5f04b8eee99a568daa30fbc83b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/35\/9-12.1791927394601.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛl (Isirayɛl)"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "k'A ko"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "A"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "bɛ ... tɛmɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden (Jori)"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden (Jori)"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dugukolofa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan (Kanahan)"
+    }
+  ],
+  "timestamp": "2026-10-13T21:36:34.602313795Z",
+  "model": "glm-5.3"
+}

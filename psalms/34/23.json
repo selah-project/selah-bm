@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is life-force\/breath, rendered with Bambara ni"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩",
+      "rationale": "pronoun supplied for the suffix in בו, capitalized as referring to Yawe"
+    }
+  ],
+  "translation": "Yawe bɛ a ka sɔnramaraw ni filɛ, ani mɔgɔ bɛɛ min bɛ ⟨A⟩ la mini, o tɛna jurumu sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d36f55ed0d71b2f1a8e2e25a2781e79b4d6736842c3e68296853adf2636c3455",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/34\/21-23.1791939946083.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "bɛ … filɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sɔnramaraw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "jurumu sɔrɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "min bɛ … mini"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨A⟩ la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:46.084019641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept as hesed per discipline; no single Bambara word carries kindness-covenant-loyalty together"
+    },
+    {
+      "kind": "invitation",
+      "subject": "aw kɛ … aw b'ɛ kalan n ye",
+      "rationale": "imperatives addressed to Yawe summon divine action"
+    }
+  ],
+  "translation": "Aw kɛ i ka sow ni i ka hesed ye; aw b'i ka sariyaw kalan n ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/121-124.1791941670035.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "aw kɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni … ye"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i ka sow"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "i ka hesed ye"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "i ka sariyaw"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "aw b'ɛ kalan n ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:30.036551272Z",
+  "model": "glm-5.3"
+}

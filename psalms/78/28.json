@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "u ka so",
+      "rationale": "מחנהו suffix: 'his camp' (YHWH's, YLT) vs 'their camp' (KJV); rendered 'their' following the story's people."
+    }
+  ],
+  "translation": "A y'o to ka bɔ u ka so kɔnɔ, o bɛɛ bɛ u ka sow kuntlan dɔrɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/25-28.1791940820835.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "y'o to ka bɔ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "u ka so"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuntlan dɔrɔn"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "u ka sow"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:20.836684600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "היארי",
+      "rationale": "KJV\/ASV fɔ 'chief minister' — כהן tun bɛ fɔ 'nɔgɔnya-mɔgɔ' la gɛlɛyɔrɔ la; masalan JPS ni BSB fɔ 'priest' de ye; Ira tun ye Dawid ka sarakalasebaga ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ye⟩",
+      "rationale": "Bamanankan ka wale-daɲɛ 'ye … ye' bɛ Bamanankan na, Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Yayiri-taden",
+      "rationale": "היארי kɔrɔ ye 'Yayiri den' ye — tɔgɔ-famuden; a tɛ 'Yayiri ka ba ye'"
+    }
+  ],
+  "translation": "Ira (Ira), Yayiri-taden (Yayiri den), ye Dawid (Dawuda) sarakalasebaga ⟨ye⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ba9cb8e86a61b0d3b346c61ce16820ced44238f7f7bbd60c4d60111fd7062bd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/20\/25-26.1791931385611.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Ira"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "Yayiri-taden"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tun ye"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ta"
+    }
+  ],
+  "timestamp": "2026-10-13T22:43:05.615684543Z",
+  "model": "glm-5.3"
+}

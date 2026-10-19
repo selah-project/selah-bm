@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "san ni tan",
+      "rationale": "twenty years counted — temple-building span"
+    },
+    {
+      "kind": "addition",
+      "subject": "yɛrɛ",
+      "rationale": "apposition marker supplied for the two named houses"
+    }
+  ],
+  "translation": "A kɛra cogo min na, san ni tan (tan ni fila) kɔfɛ minnu na Shelomoh (Sulɛmanu) ye so fila哪 — A kɛra cogo min na, san ni tan kɔfɛ Shelomoh (Sulɛmanu) ye ⟨את⟩ so fila da yɛrɛ: ⟨את⟩ Yawe so ani ⟨את⟩ masakɛ so.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "83c105468cb03b4b62e29e5cfd3777ca43e5ea82f11da8090585f6c89da39106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/9\/9-12.1791931963130.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a kɛra cogo min na"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tan ni fila"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min na"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "da"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh (Sulɛmanu)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "so fila"
+    },
+    {
+      "surface": "שני",
+      "gloss": "fila"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masakɛ so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:52:43.136516333Z",
+  "model": "glm-5.3"
+}

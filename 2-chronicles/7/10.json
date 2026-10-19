@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 7:10",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew verb שלח has no explicit subject; pronoun supplied from context"
+    },
+    {
+      "kind": "substitution",
+      "subject": "so",
+      "rationale": "אהלים is 'tents'; rendered as so (dwelling\/home), the natural Bambara for where they returned"
+    },
+    {
+      "kind": "measurement",
+      "subject": "date",
+      "rationale": "verse fixes the exact day: twenty-third of the seventh month"
+    }
+  ],
+  "translation": "Kalo wolonwula-nan na, don mugan ani saba don, ⟨a⟩ ye ⟨את⟩ jamanw bila ka taa u so, dikanw ni dusukundi ye, kan diyalen min na Yawe kɛra Dawid (Dawuda) ye, Shelomoh (Sulɛmanu) ye, ani Isirayɛl a jama ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e78a55af438030c1d5802a1d0581fbff84d0c3fa7c46be60dbcd2bf941ee4033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/7\/9-12.1791948885219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ani don"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mugan"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ani saba"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wolonwula-nan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jamanw"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jamanw"
+    },
+    {
+      "surface": "לאהליהם",
+      "gloss": "u so"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "dikanw"
+    },
+    {
+      "surface": "וטובי",
+      "gloss": "ani dusukundi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "diyalen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawid (Dawuda)"
+    },
+    {
+      "surface": "ולשלמה",
+      "gloss": "ani Shelomoh (Sulɛmanu)"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ani Isirayɛl"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a jama"
+    }
+  ],
+  "timestamp": "2026-10-14T03:34:45.220517547Z",
+  "model": "glm-5.3"
+}

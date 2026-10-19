@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "masakɛw ni sariyakɛw",
+      "rationale": "Ladililanw (imperatives) tugu v.10 ka weleli kɔrɔ kɔ."
+    },
+    {
+      "kind": "idiom",
+      "subject": "funanfunan",
+      "rationale": "ברעדה bɔrɔla 'sisi-siranba' (shudder); 'funanfunan' dɔgɔya a ka sɔrɔ a bɛ kuma wal'an famu ka diya sabatili na a kɔ."
+    }
+  ],
+  "translation": "Aw ka ⟨את⟩ Yawe ladonna ni siran ye, aw ka diya faba ni funanfunan ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8d533ebe6cabfaf3f69d9f613443902ecf5dcc17aedfcc9ed447684e0a1ae411",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/2\/9-12.1791939473987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "aw ka ... ladonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "ni siran ye"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "aw ka diya faba"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "ni funanfunan ye"
+    }
+  ],
+  "timestamp": "2026-10-14T00:57:53.988790298Z",
+  "model": "glm-5.3"
+}

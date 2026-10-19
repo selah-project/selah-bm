@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כחשיהם",
+      "rationale": "Root sense 'failure of flesh, emaciation' → hypocrisy\/lies; rendered 'falen-falenw' (falsehoods), with KJV's 'lies'."
+    }
+  ],
+  "translation": "U ka juguw bɛ masakɛ diya, u ka falen-falenw bɛ saucew diya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/7\/1-4.1791938303936.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "u ka juguw"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bɛ … diya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "u ka falen-falenw"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "saucew"
+    }
+  ],
+  "timestamp": "2026-10-14T00:38:23.937735799Z",
+  "model": "glm-5.3"
+}

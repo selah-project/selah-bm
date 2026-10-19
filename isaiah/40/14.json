@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "suffix -הו \/ -נו object pronouns require explicit 'a' in Bamanankan"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וילמדהו … וילמדהו",
+      "rationale": "repeated 'taught him' builds climactic triplet teach-teach-make-known, kept by repetition"
+    },
+    {
+      "kind": "elision",
+      "subject": "question particle",
+      "rationale": "Hebrew marks the question only by מי; Bamanankan keeps interrogative 'min' without added particle"
+    }
+  ],
+  "translation": "⟨את⟩ min ni ɲɛjɔ, min faamu da a ye, min kalan a ye sariya-sira la, min kalan a ye dɔnniya, min tiɲɛni-sira jira a ye?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fcaa3dd87cedb27c1e3ee5f73965053c96214276126dc226312ba0d8a2e8fb91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/40\/14-15.1791950732451.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "ni ɲɛjɔ"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "faamu da a ye"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "kalan a ye"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "sariya-sira la"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "kalan a ye"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "dɔnniya"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "tiɲɛni"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "jira a ye"
+    }
+  ],
+  "timestamp": "2026-10-14T04:05:32.452102209Z",
+  "model": "glm-5.3"
+}

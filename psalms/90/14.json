@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "hesed",
+      "rationale": "kept as Hebrew loan per discipline; single word whose full span (loyal love\/mercy\/kindness) no one Bambara word carries"
+    },
+    {
+      "kind": "addition",
+      "subject": "walasa",
+      "rationale": "purpose connector supplied; Hebrew links by simple suffix 'that we may'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "petition continues direct address to God"
+    }
+  ],
+  "translation": "Sɔgɔma don, k'i hesed bɔn an ma, walasa an bɛna kɔngɔ da ani dɔnniya sɔrɔ an kw bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3f225827a7058d87ddbce5c0afd9998834a95364ffe8d8a857f9b9b5d5eaaff4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/90\/13-16.1791941075897.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "k'a bɔn an ma"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sɔgɔma don"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "i hesed"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "an bɛna kɔngɔ da"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "dɔnniya sɔrɔ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "an kw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:35.897855768Z",
+  "model": "glm-5.3"
+}

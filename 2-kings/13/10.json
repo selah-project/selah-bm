@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 13:10",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "san",
+      "rationale": "Regnal dating formula: thirty-seventh year of Joash of Judah, sixteen-year reign of Jehoash."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tan ni wolonwula",
+      "rationale": "Hebrew ‘thirty and seven’; Bambara counts decades-plus-units."
+    }
+  ],
+  "translation": "Yowas (Yowa), Yuda masakɛ, san bɛɛ tan ni wolonwula na, Yehowas, Yehoachaz denkɛ, Yisraela Yewe la Suronɔ (Samariya), san tan ni wolonwula.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "760f2d9d78123e0c0e4624102740f3a380001eaee31b977af1b5d2c35f38875a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/13\/9-12.1791932875672.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "san"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tan ni wolonwula"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "Yowas (Yowa)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Yewe (Yowa)"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehowas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Suronɔ (Samariya)"
+    },
+    {
+      "surface": "שש",
+      "gloss": "san tan ni wolonwula"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-10-13T23:07:55.679481346Z",
+  "model": "glm-5.3"
+}

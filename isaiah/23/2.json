@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלאוך",
+      "rationale": "'they filled you' (suffix 2ms) vs KJV 'have replenished thee' — some read as noun מלאך; rendered as verb 'fill'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "i ye ko dumba",
+      "rationale": "imperative 'be silent' addressed to coastland dwellers"
+    }
+  ],
+  "translation": "I ye ko dumba, i minnu bɛ jikogow la ɲɛ; Tsidon (Sidɔn) ka jagobaga, minnu bɛ kɔgɔji tɔɔrɔ, u ye i laibri.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/23\/1-4.1791933940503.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "i ye ko dumba"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "minnu bɛ ... ɲɛ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "jikogow"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "jagobaga"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "minnu bɛ tɔɔrɔ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "u ye i laibri"
+    }
+  ],
+  "timestamp": "2026-10-13T23:25:40.509117795Z",
+  "model": "glm-5.3"
+}

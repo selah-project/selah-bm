@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אישן המות",
+      "rationale": "literally 'sleep the sleep of death'; rendered saya sunɔgɔ keeping the construct picture"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "imperative petition addressed directly to Yawe, ne ka Elohim"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הביטה ענני",
+      "rationale": "double imperative summons Yawe to look and answer"
+    }
+  ],
+  "translation": "Ɲɛfalila, ne jaabi, Yawe, ne ka Elohim; k'a yeelen di ne ka ɲɛ ma, ni ne tɛna saya sunɔgɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/13\/1-4.1791939655371.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Ɲɛfalila"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ne jaabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ne ka Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "k'a yeelen di"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ne ka ɲɛ ma"
+    },
+    {
+      "surface": "ןפ",
+      "gloss": "ni … tɛ"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "tɛna sunɔgɔ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "saya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:55.372707254Z",
+  "model": "glm-5.3"
+}

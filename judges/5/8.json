@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 5:8",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים חדשים",
+      "rationale": "'They chose new gods' (plural, KJV) vs 'God chose new' \/ 'new gods were chosen' (LXX-derived readings); plural 'gods' kept."
+    },
+    {
+      "kind": "addition",
+      "subject": "U",
+      "rationale": "Subject pronoun supplied; Hebrew verb lacks explicit subject."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ארבעים אלף",
+      "rationale": "Count of forty thousand in Israel; numbers kept literal."
+    }
+  ],
+  "translation": "⟨U⟩ ye alaw kuraw ɲini, o waati la ɛ kɛra so-daw la: yala bɛnbɛn walima mura yeelen don Israyɛl la, ni mɔgɔ ɲanin fila kɛmɛ kɔnɔ wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/5\/5-8.1791929253445.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "ɲini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "alaw"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "kuraw"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o waati la"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ɛ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "so-daw"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "bɛnbɛn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yala … wa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yeelen don"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "mura"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "ɲanin fila"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israyɛl la"
+    }
+  ],
+  "timestamp": "2026-10-13T22:07:33.449173119Z",
+  "model": "glm-5.3"
+}

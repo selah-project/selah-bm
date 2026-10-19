@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne",
+      "rationale": "pronoun supplied for emphasis before verbs"
+    },
+    {
+      "kind": "idiom",
+      "subject": "eaten ashes like bread",
+      "rationale": "mourning idiom: sitting in ashes as if it were food"
+    }
+  ],
+  "translation": "Sabu ne dunna buru i n'a fɔ nnukunitɔn, ani ne ye n ka minɛ da lakurayali la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/102\/9-12.1791941151072.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "nnukunitɔn"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "buru i n'a fɔ"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ne dunna"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ne ka minɛ"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "lakurayali la"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ye … da"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:51.072674393Z",
+  "model": "glm-5.3"
+}

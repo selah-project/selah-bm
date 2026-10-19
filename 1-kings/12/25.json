@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויבן",
+      "rationale": "Hebrew lacks an explicit subject; Yarabɛam supplied from context, unbracketed since the verb form carries it"
+    }
+  ],
+  "translation": "Yarabɛam (Yarabowam) ye ⟨את⟩ Shekɛm da Efrayim kulu kan, ka tuguni o kɔnɔ; ka bɔ yen, ka ye ⟨את⟩ Penuɛl da.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c0ff6b2a3315af840b7a0e5ac52824fcedeae5edfc2ed721f65307826d803bc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/12\/25-28.1791932135223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ye … da"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarabɛam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekɛm"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekɛm"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kulu kan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ka tuguni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "o kɔnɔ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ka … da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuɛl"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuɛl"
+    }
+  ],
+  "timestamp": "2026-10-13T22:55:35.225577882Z",
+  "model": "glm-5.3"
+}

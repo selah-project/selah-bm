@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 2:16",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "belen",
+      "rationale": "פתה means 'entice\/persuade' (often seduce or deceive); KJV 'allure', JPS 'allure… tenderly' — a word of both wooing and trickery."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kuma a dusukun na",
+      "rationale": "על לב 'speak upon the heart' is Hebrew for comforting, wooing speech; literal 'upon heart' would mislead."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "The preposition על is absorbed into 'dusukun na' (upon the heart); nothing stands alone for it."
+    }
+  ],
+  "translation": "O la, aw ye a ye: ne de bɛna a belen, n bɛna a ta a taa kɛnɛma la, n bɛna kuma a dusukun na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8409e26cb5687f7845a7be93c8657ef5993e23252f2ca8236104b7bd69a42b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/2\/13-16.1791938163345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "o la"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "aw ye a ye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne de"
+    },
+    {
+      "surface": "מפתיה",
+      "gloss": "bɛna a belen"
+    },
+    {
+      "surface": "והלכתיה",
+      "gloss": "n bɛna a ta a taa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kɛnɛma la"
+    },
+    {
+      "surface": "ודברתי",
+      "gloss": "n bɛna kuma"
+    },
+    {
+      "surface": "על",
+      "gloss": "…"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "a dusukun na"
+    }
+  ],
+  "timestamp": "2026-10-14T00:36:03.346637139Z",
+  "model": "glm-5.3"
+}

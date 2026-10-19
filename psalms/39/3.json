@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מטוב",
+      "rationale": "'Silent even from good' (refrained even from good words) vs 'silent from good' as lacking comfort (JPS 'had no comfort' reads differently)."
+    },
+    {
+      "kind": "crux",
+      "subject": "נעכר",
+      "rationale": "'Stirred\/roiled' (KJV, fire image of v4) vs 'held in check' (JPS); root means to roil water."
+    },
+    {
+      "kind": "idiom",
+      "subject": "דומיה",
+      "rationale": "Silence-stillness noun used adverbially; rendered 'nin bɛɛ la' (in all quietness)."
+    }
+  ],
+  "translation": "N ma kuma, nin bɛɛ la; n ye dɔgɔkun kɛ, hali ka bɔ nyumannu kɔrɔdɔ la; n toɔ ka gɛlɛya ka bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/39\/1-4.1791940146134.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "n ma kuma"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "nin bɛɛ la"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "n ye dɔgɔkun kɛ"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ka bɔ nyumannu"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "n toɔ"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "ka gɛlɛya ka bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:06.134971413Z",
+  "model": "glm-5.3"
+}

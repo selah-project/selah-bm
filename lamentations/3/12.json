@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "No expressed subject in Hebrew; supplied from context"
+    },
+    {
+      "kind": "crux",
+      "subject": "nzɔn dɔn-yɔrɔ",
+      "rationale": "כמטרא: 'like a target\/mark' (Aramaic מטרא); some read 'as for the arrow'"
+    }
+  ],
+  "translation": "⟨A⟩ ye a nzɔnbolo gili, a y'a bilila n ka kɛ nzɔn dɔn-yɔrɔ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "00ecde460e6c6b06ebcfcf155c764a06b40c98997c028415c3d023e979bd0292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/9-12.1791944866645.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "gili"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "a nzɔnbolo"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "a y'a bilila n"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "ka kɛ dɔn-yɔrɔ ye"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "nzɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T02:27:46.648023753Z",
+  "model": "glm-5.3"
+}

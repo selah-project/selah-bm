@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "taamasiyɛnw",
+      "rationale": "אותתינו 'our signs': cultic signs\/omens vs visible miracles vs military standards; rendered plainly as 'signs'"
+    },
+    {
+      "kind": "elision",
+      "subject": "fo waati jumɛn",
+      "rationale": "עד מה is an unfinished clause 'until how long?' — completed in Bambara with the question implicit"
+    },
+    {
+      "kind": "mystery",
+      "subject": "verse",
+      "rationale": "No sign, no prophet, no one who knows how long — sealed knowledge, withheld time"
+    }
+  ],
+  "translation": "An ka taamasiyɛnw, an ma u ye — nabi si tɛ tugu, mɔgɔ si tɛ ⟨an ye⟩ min bɛ dɔn ⟨fo waati jumɛn⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/74\/9-12.1791940705702.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "an ka taamasiyɛnw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "an ye … ye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ yen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wa tɛ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "an ye"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "min bɛ dɔn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waati jumɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:18:25.703212745Z",
+  "model": "glm-5.3"
+}

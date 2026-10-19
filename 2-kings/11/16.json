@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 11:16",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישימו לה ידים",
+      "rationale": "'they laid hands on her' (KJV, YLT) vs 'they made way for her' (ASV, JPS read 'sides\/opened space'); Bambara follows the hand-laying."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "so \/ so",
+      "rationale": "In Bambara 'horse' and 'house' are both 'so' — the verse says 'the horses' (so-w) entrance to the king's house (so), a coincidence not in the Hebrew."
+    }
+  ],
+  "translation": "U ye bolo bila a la, a na don so-w ka donyɔrɔ sira la ka taa masakɛ so, ka sa yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bc97ce36e676d180b906541b4208ff24bc52064fd2d8da49705b6ca66653c514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/11\/13-16.1791932931508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "u ye bolo bila"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a la"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "a na don"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "donyɔrɔ"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "so-w (sow)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ותומת",
+      "gloss": "ka sa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    }
+  ],
+  "timestamp": "2026-10-13T23:08:51.514809890Z",
+  "model": "glm-5.3"
+}

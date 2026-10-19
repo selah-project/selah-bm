@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tulu",
+      "rationale": "דונג is wax; tulu is oil — Bambara lacks a distinct common word for beeswax here"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והתפרדו",
+      "rationale": "'were separated\/disjointed' — traditionally 'out of joint'; literal 'spread apart' kept"
+    }
+  ],
+  "translation": "Ne jɛlira i n'a fɔ ji min bɛ tigɛ, ne kolow bɛɛ bɔra ɲɔgɔn jɔli na; ne dusukun kɛra i n'a fɔ tulu min na a laya, a laya ne kunuman kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/22\/13-16.1791939795656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "i n'a fɔ ji"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "ne jɛlira"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "bɔra ɲɔgɔn jɔli na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ne kolow"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ne dusukun"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "i n'a fɔ tulu"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "laya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ne kunuman"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:15.657040323Z",
+  "model": "glm-5.3"
+}

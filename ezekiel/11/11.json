@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "dagan ni sogo",
+      "rationale": "the pot-and-flesh proverb from Ezek 11:3 overturned literally — city not the pot, leaders not the meat"
+    },
+    {
+      "kind": "crux",
+      "subject": "וְאַתֶּם תִּהְיוּ בְתוֹכָהּ",
+      "rationale": "JPS reads it as adversative 'but ye shall be the flesh in the midst thereof'; most versions take it as another denial 'neither shall ye be the flesh'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "היא",
+      "rationale": "'it\/she' — the city of v.3 understood, supplied by context"
+    }
+  ],
+  "translation": "O tɛna kɛ dagan ye aw ye, aw ɲɛ, aw tɛna kɛ sogo ye a cɛma; Yisrayɛlɛ ka dan kan n bɛna aw latigɛ ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/11\/9-12.1791936749535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kɛ … ye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "dagan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "tɛna kɛ … ye"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "a cɛma"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "sogo ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛlɛ"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "n bɛna aw latigɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:12:29.536296215Z",
+  "model": "glm-5.3"
+}

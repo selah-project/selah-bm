@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 11:16",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dɔ",
+      "rationale": "Bambara needs a determiner where Hebrew has bare מסלה with definite sense"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a bɔra",
+      "rationale": "עלתו 'his going up' rendered as 'he came up out of', ascent verb flattened"
+    }
+  ],
+  "translation": "Sira dɔ bɛna kɛ a ka jama minnu ka to Ashur na ye, i n'a fɔ a yɛrɛ tun ye Israyil ye a bɔra Misira dugukolo na don la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9f61b4d71260feb10497706973338ffb27fa5354ddbb5a8b6c93c535b53fa45c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/11\/13-16.1791933660138.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "minnu ka to"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a ka jama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ישאר",
+      "gloss": "ka to"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tun ye"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israyil ye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don la"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "a bɔra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misira"
+    }
+  ],
+  "timestamp": "2026-10-13T23:21:00.143035135Z",
+  "model": "glm-5.3"
+}

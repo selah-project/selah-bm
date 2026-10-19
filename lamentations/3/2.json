@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ma taa",
+      "rationale": "Hebrew ולא אור is a bare 'and-not light'; Bambara needs the repeated verb frame 'a ma taa … kɔnɔ'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חשך",
+      "rationale": "dibi carries both literal darkness and the misery\/death range of חשך."
+    }
+  ],
+  "translation": "A ye ⟨את⟩ ne ɲɛmɔda k'a taa dibi kɔnɔ, a ma taa yeelen kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/1-4.1791944892050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "a ye ne ɲɛmɔda"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "k'a taa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dibi kɔnɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ma taa"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yeelen kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:28:12.056745561Z",
+  "model": "glm-5.3"
+}

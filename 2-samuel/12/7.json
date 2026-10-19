@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 12:7",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula required for 'you are the man'; Hebrew has no verb"
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "Nathan's direct accusation and Yawe's oracle addressed to David"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ye i tila",
+      "rationale": "הצלתיך 'snatched you out' rendered 'freed you from'; the violent snatch softened"
+    }
+  ],
+  "translation": "Natan ye kuma fɔ Dawuda ma ko: I ye o mɔgɔ ye. N'cogo min, Yawe, Isirayeli (Izirayɛli) Elohim, ye kuma fɔ ko: Ne ye buti da i la ka kɛ masakɛ ye Isirayeli kan, ani ne ye i tila Shawul (Sawulu) bolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/12\/5-8.1791931173560.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ye kuma fɔ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "o mɔgɔ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "n'cogo min"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ye kuma fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "ye buti da i la"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ka kɛ masakɛ ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ani ne"
+    },
+    {
+      "surface": "הצלתיך",
+      "gloss": "ye i tila"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "bolo la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawul"
+    }
+  ],
+  "timestamp": "2026-10-13T22:39:33.562761791Z",
+  "model": "glm-5.3"
+}

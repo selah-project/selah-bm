@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ciden dɔ",
+      "rationale": "המלאך here is the human messenger who brought the heads, not a heavenly one; ciden keeps the literal 'one sent' shape."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tuguni",
+      "rationale": "צברים is literally 'piles\/heaps'; tuguni (heap) preserves the picture of stacked heads."
+    },
+    {
+      "kind": "addition",
+      "subject": "dɔ",
+      "rationale": "Bambara needs a determiner where the Hebrew article on המלאך is carried by context; dɔ supplied."
+    }
+  ],
+  "translation": "Ciden dɔ na, a y'a jira a ma ko: u na masakɛ denw ka kunw. A ko: aw bɛ u bila ⟨אתם⟩ tuguni fila la, sira da lance, fo sɔgɔma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1d9693db4c42d17d2ee90bbf44b6b7a78378d1ccd30376dcddf627f30bbb3dba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/10\/8-8.1791950506305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ciden"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a y'a jira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "u na"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kunw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "aw bɛ u bila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u — masakɛ denw ka kunw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "fila"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "tuguniw"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "da lance"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sɔgɔma"
+    }
+  ],
+  "timestamp": "2026-10-14T04:01:46.306108698Z",
+  "model": "glm-5.3"
+}

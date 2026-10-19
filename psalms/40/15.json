@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "נפש ye ni \/ kunbala ye Heburukan na, a tɛ 'soul' ye Tubabukan cogo la."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרו\/ויכלמו",
+      "rationale": "Danga fila-ɲɔgɔn daɲɛw — tilo-cɛya-juya — sahaka laseli, bɛɛ bɛ fɔ kelen-kelen."
+    }
+  ],
+  "translation": "K'u tilo, k'u cɛya ɲɔgɔn ye — minnu bɛ n ka ni ɲini ka n fa; k'u segin kɔfɛ, k'u juya — minnu bɛ n ka juya ɲini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/40\/13-16.1791940148335.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "k'u tilo"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "k'u cɛya"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ɲɔgɔn ye"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "minnu bɛ ... ɲini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n ka ni"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "ka n fa"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "k'u segin kɔ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "k'u juya"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "minnu b'a di"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "n ka juya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:08.336291970Z",
+  "model": "glm-5.3"
+}

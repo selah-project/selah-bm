@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "laseli",
+      "rationale": "jama laseli — Awa tigɛli kɔrɔ ye laseli-kɛrɛnkɛrɛnnen ye."
+    },
+    {
+      "kind": "addition",
+      "subject": "ma",
+      "rationale": "wele-kanko ma — Bamanankan ka wajibi, Heburukan אל kɔnɔ a bɛ yen k'a da."
+    }
+  ],
+  "translation": "A bɛna sankolow wele sanfɛ, ni dugukolo, walasa ka a jama laseli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/50\/1-4.1791940276382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "a bɛna … wele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ma⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ni ⟨ma⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "walasa ka laseli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a jama"
+    }
+  ],
+  "timestamp": "2026-10-14T01:11:16.383502873Z",
+  "model": "glm-5.3"
+}

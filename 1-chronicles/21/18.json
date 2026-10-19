@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 21:18",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ciden",
+      "rationale": "מלאך rendered 'ciden' (one-sent); mɛlɛkɛ reserved for heavenly beings under later doctrine"
+    },
+    {
+      "kind": "addition",
+      "subject": "Dawid (object)",
+      "rationale": "Hebrew לדויד sits inside the quote chain; Bambara repeats the name to keep the indirect command readable"
+    }
+  ],
+  "translation": "Yawe ka ciden ye kuma fɔ Gad fɛ, ko ka fɔ Dawid ye ko Dawid ka kunbɔ, ka sarakabɔlan dila Yawe kama, Ornan (Ornane) Yebusiden ka sabuluyɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1ed6be97b6feb03419ee1b558bd6c655f970a2b04ff143703b5b07b07114f785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/21\/17-20.1791948185269.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "ciden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ye kuma fɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko ka fɔ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawid ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ka kunbɔ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ka … dila"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarakabɔlan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe kama"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "sabuluyɔrɔ la"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "היבסי",
+      "gloss": "Yebusiden"
+    }
+  ],
+  "timestamp": "2026-10-14T03:23:05.270577531Z",
+  "model": "glm-5.3"
+}

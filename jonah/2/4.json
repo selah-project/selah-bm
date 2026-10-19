@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 2:4",
+  "book": "jonah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mɛn-yɔrɔw \/ ji-kurukurubaw",
+      "rationale": "משבר(breakers) and גל(waves) are near-duplicates; two distinct Bambara compounds supplied where Hebrew has two near-synonyms"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "prayer continues in direct second-person address to Yawe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כל משבריך וגליך",
+      "rationale": "paired merism of sea-words with second-person suffixes, all surf-sound repetition; partially carried by the paired Bambara compounds"
+    }
+  ],
+  "translation": "Aw ye min bɔ ji-jugujugu kɔnɔ, kɔgɔjiw dusukun kɔnɔ; baji datugunra; aw ka mɛn-yɔrɔw bɛɛ ni aw ka ji-kurukurubaw n bolo tumamin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jonah\/2\/1-4.1791938699474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וַתַּשְׁלִיכֵנִי",
+      "gloss": "aw ye min bɔ"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ji-jugujugu kɔnɔ"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "dusukun kɔnɔ"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "kɔgɔjiw"
+    },
+    {
+      "surface": "וְנָהָר",
+      "gloss": "baji"
+    },
+    {
+      "surface": "יְסֹבְבֵנִי",
+      "gloss": "datugunra"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מִשְׁבָּרֶיךָ",
+      "gloss": "aw ka mɛn-yɔrɔw"
+    },
+    {
+      "surface": "וְגַלֶּיךָ",
+      "gloss": "ni aw ka ji-kurukurubaw"
+    },
+    {
+      "surface": "עָלַי",
+      "gloss": "n bolo"
+    },
+    {
+      "surface": "עָבָרוּ",
+      "gloss": "tumamin"
+    }
+  ],
+  "timestamp": "2026-10-14T00:44:59.475542749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɛlɛ kɔnɔ",
+      "rationale": "מצרהlit. 'tightness\/narrow place' rendered as 'in distress'"
+    },
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "rationale": "'to me' folded into the Bambara prepositional phrase ma; kept as bracketed ⟨n⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Jonah turns to direct address of Yawe mid-verse; third person becomes second person"
+    }
+  ],
+  "translation": "A ko: “N kɛlɛ kɔnɔ, n weleli ye Yawe ma, a ye n ye; Sheol kunmin na n y'aw wele, aw ye n kan mɛn.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jonah\/2\/1-4.1791938699474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "n weleli"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "kɛlɛ kɔnɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨n⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "a ye n ye"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kunmin na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "n y'aw wele"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "aw ye…mɛn"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "n kan"
+    }
+  ],
+  "timestamp": "2026-10-14T00:44:59.475371345Z",
+  "model": "glm-5.3"
+}

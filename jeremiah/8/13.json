@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 8:13",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסף אסיפם",
+      "rationale": "Infinitive absolute doubling of the same root, 'gathering I will gather them'; Bambara doubles bɔli\/bɔbɔli to keep the echo."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואתן להם יעברום",
+      "rationale": "'I gave them and they pass away' vs KJV 'the things I have given them shall pass away' vs JPS 'I gave them that which they transgress'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɔninkɛbilen-ji",
+      "rationale": "ראש is a poisonous plant (probably poppy); rendered generically as poison-juice."
+    }
+  ],
+  "translation": "Bɔli bɔbɔli, an bɛna u bɔ, Yawe ka kuma: emberew tɛ yen wolo jiri la, kenew tɛ yen kenejiri la, yɛlɛkun bɛnɛ; ani minnu ne ye u di, olu bɛna taa u bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e19a54080b3db9253b4e2bfd8ff910e202404d625d7911012b33081568bad122",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/8\/13-16.1791935182497.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "bɔli"
+    },
+    {
+      "surface": "אסיפם",
+      "gloss": "bɔbɔli"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ yen"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "emberew"
+    },
+    {
+      "surface": "בגפן",
+      "gloss": "wolo jiri la"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ani tɛ yen"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "kenew"
+    },
+    {
+      "surface": "בתאנה",
+      "gloss": "kenejiri la"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ani yɛlɛkun"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "bɛnɛ"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ne ye … di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יעברום",
+      "gloss": "bɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:46:22.498435338Z",
+  "model": "glm-5.3"
+}

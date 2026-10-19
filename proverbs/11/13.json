@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "siriyakɔrɔ (kɔrɔkɔrɔ min bɛ ɲɛw da) — verse is about revealing vs concealing the sod."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "רוח rendered as 'ni' (breath\/spirit) — 'min ka ni ye tiɲɛni ta' holds the Hebrew's spirit-of-person sense."
+    },
+    {
+      "kind": "hapax-ish",
+      "subject": "רכיל",
+      "rationale": "רכיל rare word, picture of one travelling about with slander; gloss keeps the going-about image."
+    }
+  ],
+  "translation": "Mɔgɔ min bɛ ta ka kuma-wɛrɛw lamini, o bɛ siriyakɔrɔ fitinin; nka mɔgɔ min ka ni ye tiɲɛni ta, o bɛ kuma mara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/11\/13-16.1791942434405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "min bɛ ta"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "kuma-wɛrɛ lamini (foto-taamabaga)"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "bɛ … fitinin"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "siriyakɔrɔ"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "nka min ka ni ye tiɲɛni ta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "bɛ … mara"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:47:14.405770551Z",
+  "model": "glm-5.3"
+}

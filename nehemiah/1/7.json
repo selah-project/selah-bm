@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חבל חבלנו",
+      "rationale": "Infinitive-absolute cogo: daɲɛ kelen fila-fila, 'bɛnbali-kɛ an ye bɛnbali kɛ' — a jɔcogo ka gɛlɛn Bamanankan na"
+    },
+    {
+      "kind": "crux",
+      "subject": "חבל",
+      "rationale": "Daɲɛ in kɔrɔ 'jɔnjɔn tigɛ \/ bɛnbali kɛ' — bayɛlɛmabaga dɔw fɔ 'wuli bànbali kɛ' (dealt corruptly), dɔw fɔ 'jurumu kɛ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fɛnw",
+      "rationale": "המשפטים kɔrɔ ye 'fɛn-judgement' ye; Bamanankan fɔ 'fɛnw' (kɛcogo-fɛnw) nɔgɔya la"
+    }
+  ],
+  "translation": "An ye bɛnbali-kɛ-kɛ tigɛ i ma; an ma ⟨את⟩ lasariya ka na mara, an ma ⟨את⟩ sariya-tilannenw mara, an ma ⟨את⟩ fɛnw i minnu lasa Moshe (Musa), i sofen ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8f5a258e3e12b7cd256ccb241971e4e467dac2fb53bba301489757cc2f73152f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/1\/5-8.1791946943371.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "bɛnbali-kɛ-kɛ"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "an ye … tigɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani an ma"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lasariyaw"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "lasariyaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sariya-tilannenw"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sariya-tilannenw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fɛnw"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "fɛnw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "i lasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Musa)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i sofen"
+    }
+  ],
+  "timestamp": "2026-10-14T03:02:23.373695628Z",
+  "model": "glm-5.3"
+}

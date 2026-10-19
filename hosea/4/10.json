@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפרצו",
+      "rationale": "פרץ 'break out' — KJV 'increase' (of offspring) vs 'break out\/lose restraint'; rendered 'bonya' (multiply)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשמר",
+      "rationale": "infinitive 'to keep\/guard' rendered as Bambara verbal 'ka mara', preserving the guarding sense"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זנה root",
+      "rationale": "root זנה begins a run through verses 10–14 that the single Bambara word 'goloya' carries"
+    }
+  ],
+  "translation": "U bɛ dun, nka u tɛ bɛn; u bɛ goloya kɛ, nka u tɛna bonya; sabu u yela Yawe ka ⟨את⟩ Yawe mara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/4\/9-12.1791938099226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "u bɛ dun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka u tɛ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ka bɛn"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "u bɛ goloya kɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka u tɛ"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ka bonya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "u yela"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ka mara"
+    }
+  ],
+  "timestamp": "2026-10-14T00:34:59.227675262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "wula-werew",
+      "rationale": "ערב is dusk, evening wolves (KJV, JPS note); some read ערבה as desert wolves, wolves of the desert"
+    },
+    {
+      "kind": "crux",
+      "subject": "kolosi tɛ to sɔgɔma ma",
+      "rationale": "לא גרמו לבקר: KJV they gnaw not the bones till the morrow, i.e. leave nothing overnight; YLT they have not gnawn the bone in the morning — the verb גרם is literally to bone, to strip bones"
+    },
+    {
+      "kind": "substitution",
+      "subject": "were",
+      "rationale": "Bambara has no everyday word for wolf; were (wild carnivore) carries the picture of a night predator"
+    }
+  ],
+  "translation": "A ka masakɛw a kɔnɔ ye warabaw ye minnu bɛ gɔngɔ; a ka jusokɛlaw ye wula-werew ye — kolosi tɛ to sɔgɔma ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "55145628e3fe4c7b4f83faf509ed27ca8d44ccee802c73e77eab97dd692eb160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zephaniah\/3\/1-4.1791939074982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "a kɔnɔ"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "warabaw"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "minnu bɛ gɔngɔ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "jusokɛlaw"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "werew"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "kolosi to"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "sɔgɔma"
+    }
+  ],
+  "timestamp": "2026-10-14T00:51:14.983456666Z",
+  "model": "glm-5.3"
+}

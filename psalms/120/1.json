@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "sankolo-sira-sira",
+      "rationale": "שיר המעלות ka bɔko (ascent-song) tɛ Bambara daɲɛ dɔnnen ye; a jirala k'a lasɔrɔ"
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Nɔnabila ⟨i⟩ farala קראתי kan weleli kɔnɔ, Hebrikan t'o la"
+    },
+    {
+      "kind": "invitation",
+      "subject": "sira",
+      "rationale": "Sira daminɛ ye sumuni ye — Awraham kalanbaga bɛ Yawe wele dɔgɔya la"
+    }
+  ],
+  "translation": "Sankolo-sira-sira. N y'i wele Yawe, dɔgɔya la, a ye mɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/120\/1-4.1791941715145.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sira"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sankolo-sira-sira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "dɔgɔya la"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "n y'i wele"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "a ye mɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:15.146322471Z",
+  "model": "glm-5.3"
+}

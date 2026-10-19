@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבודי",
+      "rationale": "'my glory' (KJV\/ASV) vs 'my tongue' (Geneva\/BSB, reading כבוד as liver\/tongue); rendered 'ne ka jã' (my glory) after the majority."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמח\/יגל",
+      "rationale": "Paired verbs of exultation (brighten up \/ spin round with joy); Bambara gets two verbs but loses the spinning image."
+    },
+    {
+      "kind": "you",
+      "subject": "to the worshipper",
+      "rationale": "First-person speech of confident trust, continuing the direct address of Ps 16:8."
+    }
+  ],
+  "translation": "O de sabu, ne ka dusukun bɛ fisaya, ani ne ka jã bɛ kɔŋɔdon, ni ne ka sogo fana bɛna sigi kalayan na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/16\/9-11.1791939614983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "o de sabu"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "bɛ fisaya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ne ka dusukun"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ani … bɛ kɔŋɔdon"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ne ka jã"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ni … fana"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ne ka sogo"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bɛna sigi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kalayan na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:14.983972221Z",
+  "model": "glm-5.3"
+}

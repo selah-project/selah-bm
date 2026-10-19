@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duba",
+      "rationale": "ברך root means 'kneel'; blessing is derived — Bambara duba keeps the act, loses the kneeling picture"
+    }
+  ],
+  "translation": "A jɔɔ, ka Israel jama ⟨את⟩ bɛɛ duba, kan belebele la, ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "663d1146ff5302bced86ddd3163010ad9d5076ef6699b86236ab273e69b782c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/53-56.1791931984419.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a jɔɔ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ka … duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel jama bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "belebele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-13T22:53:04.427058376Z",
+  "model": "glm-5.3"
+}

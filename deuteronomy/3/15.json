@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "land allocation",
+      "rationale": "Short grant verse assigning Gilead to Makir."
+    }
+  ],
+  "translation": "Ani ne ye ⟨את⟩ Gilad di Makir ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c36051e3bc6d73039da18a663527e9820265d30406423c3d1cd34ce4cc5296e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/3\/13-16.1791927514012.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "ani Makir ma"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ne ye … di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-10-13T21:38:34.014465975Z",
+  "model": "glm-5.3"
+}

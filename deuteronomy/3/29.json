@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ɲɛkɔrɔ",
+      "rationale": "מול 'in front of \/ opposite' rendered with Bambara position word"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dala",
+      "rationale": "גיא is a gorge with lofty sides; Bambara 'dala' is the nearest valley word"
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "rationale": "waw-consecutive narrative link carried by word order, no separate Bambara word"
+    }
+  ],
+  "translation": "An sigi dala la (Betse-Peɔr) ɲɛkɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4b652af9edd031f6bfea736ca287dde6ea477c336891be3999fbdbd08fd9eb9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/3\/29-29.1791927529107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "an sigi"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "dala la"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ɲɛkɔrɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betse-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peɔr"
+    }
+  ],
+  "timestamp": "2026-10-13T21:38:49.108282539Z",
+  "model": "glm-5.3"
+}

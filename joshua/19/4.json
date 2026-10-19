@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Wetul",
+      "rationale": "בְּתוּל — ב min dagesh t'a la → w, i n'a fɔ Hewel misali min na."
+    }
+  ],
+  "translation": "ani Eltolad, ani Wetul, ani Horma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b7bb391ebb91805c11919be2c7d00e25cf8c3f27cce6458c16ca839dd03defb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/19\/1-4.1791928967380.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "ani Eltolad"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "ani Wetul"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "ani Horma"
+    }
+  ],
+  "timestamp": "2026-10-13T22:02:47.384960630Z",
+  "model": "glm-5.3"
+}

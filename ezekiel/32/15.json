@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 32:15",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ונשמה",
+      "gloss-context": "Bambara 'ka bɔ' for 'grow numb\/devastate'",
+      "rationale": "Same root as 'be desolate' (שמם); rendered as emptying-out to keep the parallel with שממה."
+    },
+    {
+      "kind": "addition",
+      "subject": "de",
+      "rationale": "Emphatic particle added for 'ani ani ne' — 'I am Yawe' carries the recognition formula."
+    }
+  ],
+  "translation": "Ni n ye ⟨את⟩ Mitsrayim (Misira) dugukolo tiɲɛwali kɛ, ka dugukolo ka a kɔnɔ bɛɛ bɔ, ani ni n ye ⟨את⟩ a sigidamw bɛɛ latigɛ, u bɛna dɔn ko ne ye Yawe de ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ea43647c18cfa8272363a7be921856d06ffb4585a8ec045dde12c071902d76fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/32\/13-16.1791937572235.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתתי",
+      "gloss": "ni n ye … kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim dugukolo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Misira)"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tiɲɛwali"
+    },
+    {
+      "surface": "ונשמה",
+      "gloss": "ka bɔ … bɛɛ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ממלאה",
+      "gloss": "a kɔnɔ bɛɛ"
+    },
+    {
+      "surface": "בהכותי",
+      "gloss": "ni n ye … latigɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a sigidamw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sigidamw"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "u bɛna dɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T00:26:12.236851874Z",
+  "model": "glm-5.3"
+}

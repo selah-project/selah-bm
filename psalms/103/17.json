@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד ye tɔgɔ taamasiyɛnnen ye, a tɛ dɔgɔya ka kɛ daɲɛ kelen ye (kanuya, ɲumanya)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעולם ועד עולם",
+      "rationale": "עולם filan-ɲɔgɔnna, waati kɔrɔ ka se waati kɔrɔ — daɲɛw laseli min b'a jira ka bon"
+    }
+  ],
+  "translation": "Nka Yawe ka hesed bɛ jamanakɔrɔ la ka se jamanakɔrɔ la, o bɛ a siranbaw kan, a ka keneya bɛ denw ka denw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/103\/17-20.1791941201337.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "nka hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "jamanakɔrɔ la"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "jamanakɔrɔ la"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "a siranbaw"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "a ka keneya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denw ka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "denw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:41.337674633Z",
+  "model": "glm-5.3"
+}

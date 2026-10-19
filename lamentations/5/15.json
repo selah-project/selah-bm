@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת משוש \/ נהפך מחול",
+      "rationale": "Chiastic reversal — joy ceases, dance turns to mourning — the pivot of the chapter's lament."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ko di",
+      "rationale": "משוש is concrete delight\/cause of joy, not abstract 'joy'."
+    }
+  ],
+  "translation": "An ka dusukun na ko di banna; an ka bɛlɛli yɛlɛmara kasi-kunu ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "55feb2082ad0c94562169a2af9adf4acda3b8f8c108d8187d6960a2d18b52d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/5\/13-16.1791945062070.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "banna"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ko di"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "an ka dusukun"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "yɛlɛmara"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "kasi-kunu"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "an ka bɛlɛli"
+    }
+  ],
+  "timestamp": "2026-10-14T02:31:02.071559036Z",
+  "model": "glm-5.3"
+}

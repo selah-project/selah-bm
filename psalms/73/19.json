@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ספו\/תמו",
+      "rationale": "paired near-synonymous verbs 'swept away\/finished' — the double verbs intensify suddenness, kept as two verbs."
+    },
+    {
+      "kind": "crux",
+      "subject": "מן בלהות",
+      "rationale": "'consumed from terrors' vs 'by terrors' — source or instrument; rendered as source ('ka bɔ jankow la')."
+    }
+  ],
+  "translation": "I cogo di u kɛra yakatigɛ ye, wati dɔɔnin de kɔnɔ! U bɔra, u banra ka bɔ jankow la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "706e0ae5166191d4df70945a04387cddf4f617f665a833988c3618f362067263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/73\/18-19.1791951233191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "I cogo di"
+    },
+    {
+      "surface": "היו",
+      "gloss": "u kɛra"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "yakatigɛ ye"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "wati dɔɔnin de kɔnɔ"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "u bɔra"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "u banra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "jankow la"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:53.192268012Z",
+  "model": "glm-5.3"
+}

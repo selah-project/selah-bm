@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "nɔnabila min Heburukan ma sɔrɔ a kɔnɔ, Bamanankan ka kan ka a klarifi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסה \/ מחסי",
+      "rationale": "«dogɔ» (91:4 חסה) ni «yɔrɔ-ka-siginbaga» (91:2 מחסי) bɛ bɔ kan kelen na — jɔyɔrɔ-fili Bamanankan na"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dabali",
+      "rationale": "צנה ani סוחרה ye bɔn-dilanw ye (shield kura ni shield sɔrɔdalan); Bamanankan daɲɛ kelen dɔrɔ de bɛ yen, dɔgɔya kɛra"
+    }
+  ],
+  "translation": "A ka ni la, a bɛ ⟨i⟩ kɛ surun, ani a ka jukɔrɔkalanw jukɔrɔ, i bɛ dogɔ ⟨a kɔnɔ⟩; a ka tiɲɛ ye dabali ye ani dabali min bɛ i bɛɛ ɲagami.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4378b2ae66edad1eb8182fd2f627b8f97b17efceab305f8980faf21032273c55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/91\/1-4.1791941136405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "a ka ni la"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "bɛ kɛ surun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ani jukɔrɔ"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "a ka jukɔrɔkalanw"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "i bɛ dogɔ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "dabali"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "ani dabali ɲagamila"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "a ka tiɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:36.406743304Z",
+  "model": "glm-5.3"
+}

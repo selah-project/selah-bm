@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "האח נפשנו",
+      "rationale": "'Aha, our nepeš' is a gloat; rendered 'aha, an ka nyini tiɲɛna' (aha, our desire is fulfilled) after the versions"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nyini",
+      "rationale": "נפש here is appetite\/desire, not 'soul'; Bambara nyini (desire) keeps the shape"
+    },
+    {
+      "kind": "addition",
+      "subject": "tiɲɛna",
+      "rationale": "supplied 'is fulfilled' to make the gloat a complete sentence"
+    },
+    {
+      "kind": "crux",
+      "subject": "בלענוהו",
+      "rationale": "'we swallowed him' vs 'we devoured him'; literal swallowing kept with suffix -hu as object ⟨a⟩"
+    }
+  ],
+  "translation": "K'u kana fɔ u dusukun na: “Aha, an ka nyini tiɲɛna!” K'u kana fɔ: “An ye ⟨a⟩ minɛ ka a dun.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/35\/25-28.1791940032974.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "k'u fɔ"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "u dusukun na"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "an ka nyini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "k'u fɔ"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "an ye ⟨a⟩ minɛ ka a dun"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:12.974652103Z",
+  "model": "glm-5.3"
+}

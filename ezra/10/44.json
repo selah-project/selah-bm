@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 10:44",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישימו בנים",
+      "rationale": "Put sons: KJV\/JPS ”had children by them” vs YLT ”adopt sons” (a rendering adopted by some); Bambara keeps literal ”bilala denw”."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sinkɔrɔ-musow",
+      "rationale": "נכריות ”strange\/foreign women” rendered with one Bambara compound ”sinkɔrɔ-muso” (foreign woman)."
+    },
+    {
+      "kind": "addition",
+      "subject": "minnu",
+      "rationale": "Bambara relative marker supplied to bind the object clauses, which Hebrew leaves implicit."
+    }
+  ],
+  "translation": "Olu bɛɛ ye muso minnu ta, olu ye sinkɔrɔ-musow ye; ani olu dɔ la, muso minnu yen, u bilala ⟨את⟩ denw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e39984195b6823d10d1dd5c9fde68d38a713263fde8a1043dda208a3b537541b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/10\/44-44.1791951488673.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ye … ta"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "muso minnu"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "sinkɔrɔ-musow"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "yen"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "olu dɔ la"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "muso minnu"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "u bilala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "denw",
+      "marks": "denw"
+    }
+  ],
+  "timestamp": "2026-10-14T04:18:08.673493828Z",
+  "model": "glm-5.3"
+}

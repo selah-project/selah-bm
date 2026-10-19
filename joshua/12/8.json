@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וּבָאֲשֵׁדוֹת",
+      "rationale": "'slopes' (ASV\/JPS) vs 'springs' (KJV, from אֵשָׁד\/אֵשׁוֹד shoulder-streams); rendered as slopes"
+    },
+    {
+      "kind": "substitution",
+      "subject": "worodugu",
+      "rationale": "הַנֶּגֶב is the dry southern district as proper region; Bambara gives plain 'south'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "yɔrōw lisi",
+      "rationale": "six-land-type list paired with six nations — a survey inventory of the conquered land"
+    }
+  ],
+  "translation": "kulu la, gen la, Araba la, nsaw la, kɔgɔmajɔyɔrɔ la, ani worodugu la — Hetidenw, Emoridenw, Kenaanidenw, Perisidenw, Hiwidenw, ani Yebusidenw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3de8f4b4d1bb35b97a7b2d649fa6b7d90f0d99a6e05619671e9e633f8bf8f958",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/12\/5-8.1791928812864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בָּהָר",
+      "gloss": "kulu la"
+    },
+    {
+      "surface": "וּבַשְּׁפֵלָה",
+      "gloss": "ni gen la"
+    },
+    {
+      "surface": "וּבָעֲרָבָה",
+      "gloss": "ni Araba la"
+    },
+    {
+      "surface": "וּבָאֲשֵׁדוֹת",
+      "gloss": "ni nsaw la"
+    },
+    {
+      "surface": "וּבַמִּדְבָּר",
+      "gloss": "ni kɔgɔmajɔyɔrɔ la"
+    },
+    {
+      "surface": "וּבַנֶּגֶב",
+      "gloss": "ani worodugu la"
+    },
+    {
+      "surface": "הַחִתִּי",
+      "gloss": "Hetidenw"
+    },
+    {
+      "surface": "הָאֱמֹרִי",
+      "gloss": "Emoridenw"
+    },
+    {
+      "surface": "וְהַכְּנַעֲנִי",
+      "gloss": "ni Kenaanidenw"
+    },
+    {
+      "surface": "הַפְּרִזִּי",
+      "gloss": "Perisidenw"
+    },
+    {
+      "surface": "הַחִוִּי",
+      "gloss": "Hiwidenw"
+    },
+    {
+      "surface": "וְהַיְבוּסִי",
+      "gloss": "ni Yebusidenw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:00:12.866215446Z",
+  "model": "glm-5.3"
+}

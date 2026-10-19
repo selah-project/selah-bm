@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 55:24",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "se u tilew ka fila",
+      "rationale": "יחצו ימיהם literally 'shall not halve their days' — will not live out half their appointed days"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kunu",
+      "rationale": "שחת = pit of destruction; not Sheol (שאול), so 'kunu' not 'Sheol'"
+    }
+  ],
+  "translation": "Nka nim, Elohim, i bɛna u bila kunu la — kunu minnu bɛ jɔ sanu-ka-don yɔrɔ la; jolibagaw ni mɔgɔ ɲɛfɔli-bagaw tɛna se u tilew ka fila, nka ne, ne bɛ i bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "90a7f7bda4c6f34dcd96227750125f62b893a19f5cf6317094f0adfe1d6f9133",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/55\/21-24.1791940364698.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "nim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תורדם",
+      "gloss": "i bɛna u bila"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "kunu la"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "kunu minnu bɛ jɔ sanu-ka-don yɔrɔ la"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "jolibagaw"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "mɔgɔ ɲɛfɔli-bagaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "se u tilew ka fila"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "u tilew"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ne bɛ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:44.699263997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נושאים פנים",
+      "rationale": "'ɲɛda jɔ' (to lift the face) = to show partiality; Hebrew idiom kept literally."
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "direct address to the priests."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כפי",
+      "gloss note": "פה 'mouth' used adverbially 'according as', rendered 'cogo min na'."
+    }
+  ],
+  "translation": "Nin ye de, ani ne yɛrɛ, ne ye aw di ka kɛ mɔgɔ minnu la bɛn-bɛnbaliya ye ani dɔgɔtɔrɔya jama bɛɛ fɛ, aw ye sira aw ma kɔlɔsi cogo min na, aw ye ɲɛda jɔ Tora la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0f55e91eead03bf26917e2f572149bf92f7791d5599a0f8edf5e6a3b93faed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/malachi\/2\/9-12.1791939464543.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ani … yɛrɛ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ne ye … di"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aw",
+      "marks": "aw (nɔnabila)"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "mɔgɔ minnu la bɛnbaliya"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "dɔgɔtɔrɔya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ fɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sira"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "an ka sira"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "ɲɛda jɔ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ɲɛda"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "Tora la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:57:44.544276039Z",
+  "model": "glm-5.3"
+}

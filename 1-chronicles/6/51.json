@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 6:51",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o ye",
+      "rationale": "ויהי rendered with Bambara presentational construction; Hebrew lacks copula"
+    },
+    {
+      "kind": "alternative",
+      "subject": "u ka dan-duguw",
+      "rationale": "ערי גבולם 'cities of their border' — could read 'cities on their territory'"
+    }
+  ],
+  "translation": "Ani Kehat denw ka dumaw dɔw la, u ka dan-duguw bɔra Efrayim lasigiden na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d7f8203b399c7bb06e783bb6d6b6e44c5c310e466b18c4c3e05090dc60003919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/6\/49-52.1791947597885.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממשפחות",
+      "gloss": "ani dumaw dɔw la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw ka"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o ye"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "u ka dan-duguw"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "bɔra … lasigiden na"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-10-14T03:13:17.886874825Z",
+  "model": "glm-5.3"
+}

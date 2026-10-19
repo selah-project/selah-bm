@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "amos 5:22",
+  "book": "amos",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "concessive 'though' idiom rendered ni … sabu"
+    },
+    {
+      "kind": "addition",
+      "subject": "u kan",
+      "rationale": "Bambara needs the object pronoun phrase after laɲini; Hebrew אביט carries it in the verb"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "direct second-person address over Israel's sacrifices"
+    }
+  ],
+  "translation": "Ni aw ye bɔn-sarakaw ni aw ka sara-diw di n ye, n tɛ u sɔn; aw ka misi minnu bɛ danfaralenw, n tɛ u laɲini ⟨u kan⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d5eaed421cdd709104698850b82996d13217bc65fe642a6efecda9189b37aa96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/amos\/5\/21-24.1791938534269.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "aw ye … di"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n ye"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "bɔn-sarakaw"
+    },
+    {
+      "surface": "ומנחתיכם",
+      "gloss": "aw ka sara-diw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n tɛ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sɔn"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "hɛrɛ-saraka"
+    },
+    {
+      "surface": "מריאיכם",
+      "gloss": "aw ka misi minnu bɛ danfaralenw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n tɛ"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "laɲini ⟨u kan⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T00:42:14.270135955Z",
+  "model": "glm-5.3"
+}

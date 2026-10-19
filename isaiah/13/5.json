@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 13:5",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Bambara equative required for 'even the LORD with the weapons'; Hebrew appositions lack a copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bali",
+      "rationale": "לחבל literally 'to bind\/wind tightly as a rope', here destruction; Bambara takes the outcome, the rope-picture is lost"
+    }
+  ],
+  "translation": "U bɛ bɔ jamana jan na, sankolow ka gɔfe fɛ — Yawe ni a ka ŋgirija minɛnw don, walasa ka dugukolo bɛɛ bali.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f6410302172dcf66097e8343d4f9a4b3a9565c4c1b0e3894d06fe10605cb1ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/13\/5-8.1791933641993.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "u bɛ bɔ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "jamana"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "jan"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "gɔfe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ni minɛnw"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "a ka ŋgirija"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "walasa ka bali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-13T23:20:41.995811175Z",
+  "model": "glm-5.3"
+}

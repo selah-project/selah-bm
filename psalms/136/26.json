@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "El hashamayim",
+      "rationale": "אל השמים: 'El min ye sankolow ɲɛ' (construct) — 'sinkolow-El' walima 'sankolo-El', misalen caman bɛ yen"
+    },
+    {
+      "kind": "addition",
+      "subject": "sankolow ɲɛ",
+      "rationale": "Bamanankan tɛ construct cogo di, kun ɲɔgɔn-sira de ka kan ka bisa"
+    },
+    {
+      "kind": "crux",
+      "subject": "hesed",
+      "rationale": "חסד bɛ to a yɛrɛ la sariya-matarafali kɔrɔ; bayɛlɛmali dɔgɔnw tɛ se ka a ta cogo kelen na"
+    },
+    {
+      "kind": "you",
+      "subject": "jama",
+      "rationale": "הודו imperatif pluriel — kuma in bɛ jama di k'a fɔ aw ye"
+    },
+    {
+      "kind": "hapax-structure",
+      "subject": "sankolo-El",
+      "rationale": "Tɔgɔ in 'El min aw sankolow ɲɛ' — Tanaki kɔnɔ a bɛ kɛ tuma dɔw (Ezra, Neh, Ps) — PS 136:26 bɛ a fɔ"
+    }
+  ],
+  "translation": "Aw ni sango El min aw sankolow ɲɛ, sabu a ka hesed bɛ ta kɔlɔkɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b005a3986b7f0d63889d4132df88acbdf6a329a954a90888883bde5ceffe42ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/136\/25-26.1791941823117.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "aw ni sango"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "min aw sankolow ɲɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔlɔkɔ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a ka hesed"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:03.117722716Z",
+  "model": "glm-5.3"
+}

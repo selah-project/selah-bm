@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ארב דם",
+      "rationale": "'ambush of blood': words ARE the ambush (KJV) vs words urge others to shed blood (Targum)"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Pronoun 'u' (them) in יצילם supplied explicitly in Bamanankan verb phrase"
+    }
+  ],
+  "translation": "Kojugunenw ka kumaw ⟨ye⟩ joli lambɔli ⟨ye⟩; nka tilelenw ka da b'u larila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d2779ffb0844c10ed427f898d0e6419f70e0ab81aee59b173f3351f6e1aae832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/12\/5-8.1791942457461.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kojugunenw"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "lambɔli"
+    },
+    {
+      "surface": "דם",
+      "gloss": "joli"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "nka … da"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "tilelenw"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "b'u larila"
+    }
+  ],
+  "timestamp": "2026-10-14T01:47:37.461905235Z",
+  "model": "glm-5.3"
+}

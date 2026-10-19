@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "Bamanankan question particle wa has no Hebrew counterpart"
+    },
+    {
+      "kind": "you",
+      "subject": "Shaul kɔrɔ David fɛ",
+      "rationale": "direct address: Saul questions David across the camp"
+    }
+  ],
+  "translation": "Shaul (Sawulu) ye ⟨את⟩ Dawid (Dawuda) ka kan ye, a ko: i ka kan nin de wa ⟨ne den⟩ Dawid? Dawid ko: ne ka kan de, ne Matigi masakɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "480f4f2861ac7761bb775a6e651b8aab82f40e8d3abe1a6cd16e6d5ba012ae23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/26\/17-20.1791930763680.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "ye … ye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid ka kan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "i ka kan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ne den"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ne ka kan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Matigi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:32:43.681322171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ni ... ye",
+      "rationale": "Bambara preposition ni…ye required to mark the instrument 'with peace'; Hebrew has only the prefixed ב."
+    }
+  ],
+  "translation": "Yawe bɛ seko di a ka jamaa ma; Yawe bɛna ⟨את⟩ a ka jamaa duba ni hɛrɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/29\/9-11.1791939834749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "seko"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "a ka jamaa ma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bɛ ... di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bɛna ... duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka jamaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a ka jamaa"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ni hɛrɛ ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:54.750276218Z",
+  "model": "glm-5.3"
+}

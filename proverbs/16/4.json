@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למענהו",
+      "rationale": "'for its answer\/purpose' vs 'for himself' — YLT reads the wicked as subject ('worketh for a day of evil'); KJV\/JPS take YHWH as maker of all."
+    },
+    {
+      "kind": "substitution",
+      "subject": "a yɛrɛ nɔ na",
+      "rationale": "למענהɔ literally 'for its purpose\/answer', rendered 'for his own sake'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רעה",
+      "rationale": "rasha'\/ra'ah — wicked\/evil sound-pair, lost in Bambara."
+    }
+  ],
+  "translation": "Yawe ye baara bɛɛ da a yɛrɛ nɔ na; walasa mɔgɔjugutigi fana tila don juguw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f72286e8f123cdd3b0707876e22af083840c4cb565608302181de454d84f77f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/16\/4-4.1791951296672.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "baara … da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "a yɛrɛ nɔ na"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mɔgɔjugutigi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "don … ma"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "juguw"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:56.673226401Z",
+  "model": "glm-5.3"
+}

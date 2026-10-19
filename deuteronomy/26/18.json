@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 26:18",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "האמירך",
+      "rationale": "Hiphil of אמר appears only in Deut 26:17–18 in the whole Tanakh — a deliberate reciprocal pair."
+    },
+    {
+      "kind": "substitution",
+      "subject": "segula",
+      "rationale": "סגולה literally 'closely shut-up wealth\/treasure'; rendered as bound compound 'jama-segula' (treasured-people)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האמרת \/ האמירך",
+      "rationale": "Israel declares Yawe, Yawe declares Israel — chiastic covenant mutuality across vv.17–18."
+    }
+  ],
+  "translation": "Nka Yawe ye i wele don in na ka kɛ a yɛrɛ ka jama-segula ye, i n'a fɔ a ye i ma kuma cogo min na, ani ka a lasigidenw bɛɛ mara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cf6b3f9646d291ccfc80b1051ac25a330f3281f7744b92bf839d189f61d679ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/26\/17-19.1791928135920.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "nka Yawe"
+    },
+    {
+      "surface": "האמירך",
+      "gloss": "i ye wele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don in na"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a yɛrɛ ka"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "segula"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ cogo min na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kumalen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ma"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "ani ka mara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "a lasigidenw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:48:55.923150562Z",
+  "model": "glm-5.3"
+}

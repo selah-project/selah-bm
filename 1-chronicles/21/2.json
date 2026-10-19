@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "⟨את⟩",
+      "rationale": "aleph-tav preserved as glyph; Bambara has no direct-object marker."
+    },
+    {
+      "kind": "measurement",
+      "subject": "jate",
+      "rationale": "census command with geographic bounds Beer-Sheba to Dan — whole-land count."
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "David directly addresses Joab and the commanders with imperatives."
+    }
+  ],
+  "translation": "Dawid ko Yowab (Joabi) ma ani jamanatigiw ma: Aw y'aw ka taa, aw ka ⟨את⟩ Yisraɛl jate Bɛɛr-Shewa (Beer-Shewa) fɛ ka tugu se Dan (Dani) ma, k'aw b'a na ne ye, ne b'u ⟨את⟩ jatebila dɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "92a75c249f8f7cfbe7959122378f62ccf14d7d934b12e7b8df875cf3a6b6fa89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/21\/1-4.1791948155615.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani…ma"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "jamanatigiw"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "aw ka taa"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "aw ka…jate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "Bɛɛr-Shewa fɛ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bɛɛr-Shewa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka tugu se…ma"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "k'aw b'a na"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ne bɛ…dɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jatebila"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "jatebila"
+    }
+  ],
+  "timestamp": "2026-10-14T03:22:35.616123067Z",
+  "model": "glm-5.3"
+}

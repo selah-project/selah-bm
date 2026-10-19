@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 15:26",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Yawe ɲɛ la",
+      "rationale": "Hebrew idiom 'evil in the eyes of Yawe'; Bambara keeps the literal eye-image."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jurumu",
+      "rationale": "חטאת covers sin, its guilt, and its penalty; Bambara jurumu renders only the offence."
+    }
+  ],
+  "translation": "A kɛra fiɲɛ ye Yawe ɲɛ la, a taara a fa sira la, ni a jurumu la, min na a ye ⟨את⟩ Israel bila jurumu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a7ddbd4f495617363e05595ef67b9ddc55b79d9df598e43de2cef29c74d18b96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/15\/25-28.1791932230989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A kɛra"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ɲɛ la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a taara"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira la"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "ובחטאתו",
+      "gloss": "ni a jurumu la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min na"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ye … bila jurumu la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-10-13T22:57:10.993493482Z",
+  "model": "glm-5.3"
+}

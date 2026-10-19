@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sanduki",
+      "rationale": "ארון ye 'kɛnɛ-sanduki' kɔrɔ ye — a tɛ 'layidu-sandu' ye, a ye sɛbɛnw ka sanduki ye"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kalo wolonwula",
+      "rationale": "sanudden sabatiyen jate kalo wolonwula la"
+    }
+  ],
+  "translation": "Yawe ka sanduki sigira Pelisitiw (Filisititigiw) ka foro la, kalo wolonwula ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/6\/1-4.1791930005763.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sigira"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "foro la"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisitiw"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "kalow"
+    }
+  ],
+  "timestamp": "2026-10-13T22:20:05.765216928Z",
+  "model": "glm-5.3"
+}

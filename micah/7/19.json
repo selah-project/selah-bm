@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "micah 7:19",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minɛ ka bɔ nɔrɔ la",
+      "rationale": "יכבש literally 'tread down\/subdue'; rendered 'seize and put under foot'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותשליך\/חטאותם",
+      "rationale": "verb suddenly second person ('you will cast') while the sins are called 'their' — many versions smooth to 'our'"
+    }
+  ],
+  "translation": "A bɛna segin ka an lamɛn, a bɛna an ka jurumuw minɛ ka bɔ nɔrɔ la, i bɛna u bɛɛ tosi kɔgɔji jaw kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a416de0f5096386a423ccfb9b0fb2936443c559291f8bd99291ca4d6b3e549b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/7\/17-20.1791938900042.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "a bɛna segin"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "ka an lamɛn"
+    },
+    {
+      "surface": "ייכבש",
+      "gloss": "a bɛna … minɛ ka bɔ nɔrɔ la"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "an ka jurumuw"
+    },
+    {
+      "surface": "ותשליך",
+      "gloss": "i bɛna … tosi"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "jaw kɔnɔ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "u (jurumuw)"
+    }
+  ],
+  "timestamp": "2026-10-14T00:48:20.043357414Z",
+  "model": "glm-5.3"
+}

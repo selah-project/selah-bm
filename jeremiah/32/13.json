@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "Hebrew infinitive 'to say' introduces speech; Bambara ko: carries it directly."
+    }
+  ],
+  "translation": "An ye ⟨את⟩ Baruk (Baru) laseli u ɲɛ ye, ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8fd57db92a3793e1c34098d64eaf4c3fe7fb78d18ec97b283e42ac3d1760ebc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/32\/13-16.1791935869236.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "n ye … laseli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruk"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "u ɲɛ ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko:"
+    }
+  ],
+  "timestamp": "2026-10-13T23:57:49.237757095Z",
+  "model": "glm-5.3"
+}

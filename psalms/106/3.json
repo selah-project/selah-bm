@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olu ye",
+      "rationale": "Hebrew's אשרי is an exclamation with no pronoun; Bambara construction needs the demonstrative 'olu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛ-kɛli",
+      "rationale": "צדקה kɔrɔ ye 'kɛnɛya \/ sariya-tilenniya' ye; tiɲɛ-kɛli ye nɔgɔya-dɔnniya daɲɛ ye"
+    }
+  ],
+  "translation": "Hɛrɛ de don olu ye, minnu bɛ sariya-fɛnw mara, minnu bɛ tiɲɛ-kɛli kɛ waati bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/106\/1-4.1791941335355.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "hɛrɛ de don olu ye"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "minnu bɛ mara"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya-fɛnw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "minnu bɛ kɛ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tiɲɛ-kɛli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "waati bɛɛ la"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waati"
+    }
+  ],
+  "timestamp": "2026-10-14T01:28:55.355969880Z",
+  "model": "glm-5.3"
+}

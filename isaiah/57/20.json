@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 57:20",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נגרש\/ויגרשו",
+      "rationale": "same verb 'cast out\/driven' of the sea and its waters, repetition kept"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וטיט",
+      "gloss": "rendered 'nɛgɛsira-buguri' (sticky mud); the pairing רפש\/טיט is mire and mud"
+    },
+    {
+      "kind": "you",
+      "subject": "kabakɛlaw",
+      "rationale": "implicit contrast addressed to the hearer against verse 19's peacemakers"
+    }
+  ],
+  "translation": "Kabakɛlaw bɛ i n'a fɔ ji min bɛ gɛlɛya na, kɔgɔji min tɛ se ka janya; a jiw bɛ lensɛn ni nɛgɛsira-buguri wuli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4ea6d513f3e08da37aca3c846d55a885418a37f3eb838b416de2fd94e6a4f465",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/57\/17-20.1791934727215.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרשעים",
+      "gloss": "kabakɛlaw"
+    },
+    {
+      "surface": "כים",
+      "gloss": "i n'a fɔ ji"
+    },
+    {
+      "surface": "נגרש",
+      "gloss": "min bɛ gɛlɛya na (min bɛ bɔ)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "janya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "ויגרשו",
+      "gloss": "bɛ … wuli"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "a jiw"
+    },
+    {
+      "surface": "רפש",
+      "gloss": "lensɛn"
+    },
+    {
+      "surface": "וטיט",
+      "gloss": "nɛgɛsira-buguri"
+    }
+  ],
+  "timestamp": "2026-10-13T23:38:47.217284304Z",
+  "model": "glm-5.3"
+}

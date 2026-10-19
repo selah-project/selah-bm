@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 2:16",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שכיות",
+      "rationale": "Occurs only here in the Tanakh; root meaning 'conspicuous object', hence 'images\/pictures' guessed from context"
+    },
+    {
+      "kind": "crux",
+      "subject": "cogoya ɲumanw",
+      "rationale": "שכיות החמדה: 'pleasant images' (MT) vs 'ships of the sea' (LXX, supported by 1QIsᵃ) — the parallelism with ships favors the latter"
+    }
+  ],
+  "translation": "Ani Tarshishi batow bɛɛ kan, ani cogoya ɲumanw minnu bɛ mɔgɔw ka kanuya bɛɛ kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "13bb5e7dd5f6cb11d1d2df0886f8ced0277d3961499d5f13d6d3bfac28274311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/2\/13-16.1791933325796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "batow"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "cogoya ɲumanw"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "minnu bɛ mɔgɔw ka kanuya"
+    }
+  ],
+  "timestamp": "2026-10-13T23:15:25.801170267Z",
+  "model": "glm-5.3"
+}

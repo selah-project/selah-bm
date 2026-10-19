@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dibi",
+      "rationale": "שׁעה is to gaze\/strain the eyes; rendered as eyes-not-dimmed per the idiom"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Hebrew participle ראים has no possessive; Bamanankan genitive 'ka' supplied"
+    }
+  ],
+  "translation": "Yebagaw ka ɲɛw tɛna dibi, ani mɛnbagaw ka tulow bɛna lisiniri kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "05fcd370f2b52b8a124c7aa18890659c4680642e1a15d7bf4beb4076bdae0ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/32\/1-4.1791934051277.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "dibi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ɲɛw"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "yebagaw"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ani tulow"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "mɛnbagaw"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "bɛna lisiniri kɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:27:31.281898950Z",
+  "model": "glm-5.3"
+}

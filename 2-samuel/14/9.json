@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 14:9",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bambara copula supplied for verbless Hebrew clause 'and the king and his throne innocent'"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "the woman addresses the king directly with plea language"
+    }
+  ],
+  "translation": "Tekowa muso in ko masakɛ ye: “N Matigi masakɛ, jurumu kɛra n kan, ani n fa so kan; masakɛ fana ni a ka sigilan ⟨ye⟩ janabaliya ⟨ye⟩.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b1802e3378ad2be28406f9b4f91b7775b657e4cff246c88d03f7a3dcf2f4eb18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/14\/9-12.1791931279370.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "muso in"
+    },
+    {
+      "surface": "התקועית",
+      "gloss": "Tekowa (muso)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n kan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "n Matigi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "העון",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani … kan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "n fa"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "masakɛ fana"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ni a ka sigilan"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "janabaliya"
+    }
+  ],
+  "timestamp": "2026-10-13T22:41:19.375058461Z",
+  "model": "glm-5.3"
+}

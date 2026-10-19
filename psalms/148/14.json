@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "waraba",
+      "rationale": "קרן 'horn' = strength\/exaltation; translators keep the literal horn or render 'power'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed mɔgɔw",
+      "rationale": "חסידים kept as hesed-people; glossary forbids collapsing hesed to one word"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "halelu-Yah = the 'Hallelujah' itself; rendered as command 'praise Ya'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "final imperative addresses Israel, the people near to Him"
+    }
+  ],
+  "translation": "A y'a jamaa ka waraba jɔ, fo ɲuman bɛ a ka hesed mɔgɔw bɛ la, Israɛl (Isirayɛl) dɛnw ma — jama min bɛ a la surun. Aw ka Ya fo!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a5bbcb0beb00f7f3fc978e43535203bba88b14031399f6bdaef66693da220704",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/148\/13-14.1791941974451.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "a y'a ... jɔ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "waraba"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "a jamaa ka"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "fo ɲuman"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛ ... bɛ la"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "a ka hesed mɔgɔw"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dɛnw ma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israɛl"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "min bɛ a la surun"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "aw ka ... fo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:39:34.452046236Z",
+  "model": "glm-5.3"
+}

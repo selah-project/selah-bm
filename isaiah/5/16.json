@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גבה\/שפל",
+      "rationale": "Verse 16 inverts verse 15: the same root גבהה (lofty) now applied to Yawe — man humbled, God exalted, pivot lost in translation."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛ",
+      "rationale": "צדקה rendered 'tiɲɛ' (truth\/rightness); 'ɲɛfɛ-tiɲɛ' avoided to keep the justice pairing with sariya."
+    }
+  ],
+  "translation": "Yawe Tsevaot (jasaw Tigi) bɛna kɔgɔji sariya la, Ala senuma bɛna to senuma ye tiɲɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "988038cb44c31336a7d8a568dd306b64c41acf14bf492a5add613d4a16eddeeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/5\/13-16.1791933498053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "bɛna kɔgɔji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sariya la"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "bɛna to senuma ye"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "tiɲɛ la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:18:18.056734955Z",
+  "model": "glm-5.3"
+}

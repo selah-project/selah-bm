@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 1:12",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בלע\/שאול",
+      "rationale": "Sheol is the swallower in Hebrew idiom; here the sinners claim her mouth — the picture of swallowing-while-alive carries into Bambara miɲɛ"
+    },
+    {
+      "kind": "secret",
+      "subject": "ambush speech",
+      "rationale": "the sinners' own hidden plot voiced verbatim, concealment as speech"
+    }
+  ],
+  "translation": "An bɛ u miɲɛ ka u bɛ balo, i n'a fɔ Sheol; ka u bɛɛ faamuyala, i n'a fɔ minnu bɛ bɔn na don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9af6714ea55aa2485d349f22dda7c26a72b486da40a0a9b437c2a392860c255b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/1\/9-12.1791942077800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבלעם",
+      "gloss": "an bɛ u miɲɛ"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "i n'a fɔ Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ka u bɛ balo"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "ka u bɛɛ faamuyala"
+    },
+    {
+      "surface": "כיורדי",
+      "gloss": "i n'a fɔ minnu bɛ … don"
+    },
+    {
+      "surface": "בור",
+      "gloss": "bɔn na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:41:17.801385288Z",
+  "model": "glm-5.3"
+}

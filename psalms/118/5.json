@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצר\/מרחב",
+      "rationale": "narrow-place vs broad-place antithesis; the spatial picture kept literally"
+    },
+    {
+      "kind": "addition",
+      "subject": "n",
+      "rationale": "Hebrew קראתי carries 'I' in its suffix; Bambara needs the free pronoun n"
+    }
+  ],
+  "translation": "Gɛlɛyakɔnɔ na, n ye Ya wele; Ya ye n wɔla yɔrɔ julaya kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d1f158183503e33ea23efd3424494acda8b8320abb90d908340f6dee26a33c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/118\/5-8.1791941506466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "gɛlɛyakɔnɔ na"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "n ye … wele"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "wɔla n"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "yɔrɔ julaya kɔnɔ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:31:46.466519276Z",
+  "model": "glm-5.3"
+}

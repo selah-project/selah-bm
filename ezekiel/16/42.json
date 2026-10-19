@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 16:42",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sɔgɔsɔgɔ",
+      "rationale": "חמה is literally heat, rendered as Bambara anger-word"
+    },
+    {
+      "kind": "addition",
+      "subject": "i la",
+      "rationale": "Bambara requires a goal phrase with jɔ (be angry), repeated from ממך"
+    }
+  ],
+  "translation": "Ne bɛna n ka sɔgɔsɔgɔ sigi i kan, n ka ɲamatura bɔ i la; ne bɛna hɛrɛ sɔrɔ, ne tɛna kokura kɛ ka jɔ i la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1637f107a9beea5361044937165237a388109f0e17ba4a46f75720d50f865180",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/16\/41-44.1791936978891.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנחתי",
+      "gloss": "ne bɛna ... sigi"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "n ka sɔgɔsɔgɔ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i kan"
+    },
+    {
+      "surface": "וסרה",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "n ka ɲamatura"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "ושקטתי",
+      "gloss": "ne bɛna hɛrɛ sɔrɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "אכעס",
+      "gloss": "jɔ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kokura"
+    }
+  ],
+  "timestamp": "2026-10-14T00:16:18.892676189Z",
+  "model": "glm-5.3"
+}

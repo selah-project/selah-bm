@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רקה",
+      "rationale": "'Temples' (side of the head) vs 'brow\/cheek' in modern versions."
+    },
+    {
+      "kind": "substitution",
+      "subject": "toro",
+      "rationale": "Pomegranate rendered by the local fruit word; no native Bamanankan pomegranate term is standard."
+    }
+  ],
+  "translation": "I kunfanw ka toro gbɛrɛ ye i nɔgɔla gbɛlɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/6\/5-8.1791944727013.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "gbɛrɛ"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "toro"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "i kunfanw"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "gbɛlɛ"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "i nɔgɔla"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:27.014747478Z",
+  "model": "glm-5.3"
+}

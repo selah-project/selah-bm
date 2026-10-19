@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i n'a fɔ",
+      "rationale": "כבקר is a prefixed comparative (like-the-ox); Bambara needs the explicit phrase i n'a fɔ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "taba",
+      "rationale": "תבן is chopped straw\/stalks; taba (grain chaff) is the nearest Bambara word."
+    }
+  ],
+  "translation": "Misimuso ni tɛmɛ bɛna foro ɲini ɲɔgɔn fɛ, u denw bɛnaɲɔgɔn sigi, waraba bɛna taba dun i n'a fɔ misi dun o ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/11\/5-8.1791933610508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "misimuso"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "tɛmɛ"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "bɛna foro ɲini"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɲɔgɔn fɛ"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "bɛnaɲɔgɔn sigi"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "u denw"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "waraba"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "i n'a fɔ misi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bɛna dun"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "taba"
+    }
+  ],
+  "timestamp": "2026-10-13T23:20:10.513925751Z",
+  "model": "glm-5.3"
+}

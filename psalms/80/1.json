@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Shoshannim",
+      "rationale": "Sira-tɔgɔ min ma kɔrɔ ye: 'sankolo-dɔrɔme' walima donniyasira tɔgɔ dɔ; ale de bɛ sɛbɛn Shoshannim ye."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Heburukan bɛ fɔ 'bɔ yɔrɔ min na' — o nɔgɔyara 'kan' ye."
+    }
+  ],
+  "translation": "Ɲɛmɔgɔ ma, Shoshannim (dɔnniyasira) kan, seere, Asaf ka kumadon.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8e910a471fd8d26e668a5dc44d3ba682eddc44a533ef86a6ca147406d912f26d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/80\/1-4.1791940892751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ɲɛmɔgɔ ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "seere"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf ka"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kumadon"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:32.751838856Z",
+  "model": "glm-5.3"
+}

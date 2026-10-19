@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sunkɔrɔ",
+      "rationale": "נשפו literally 'evening breeze', rendered as 'twilight'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲɛsanbaw",
+      "rationale": "עפעפי literally 'eyelashes', figurative for rays of dawn"
+    }
+  ],
+  "translation": "Sunkɔrɔ dolow ka kɛ dibi ye; a na yeelen makɔnɔ, nka a tɛ yen; k'a bana ka ye sɔgɔma ɲɛsanbaw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/3\/9-12.1791943144756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "ka kɛ dibi ye"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "dolow"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "sunkɔrɔ"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "na … makɔnɔ"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "yeelen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nka a tɛ yen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "k'a bana"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "ɲɛsanbaw"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "sɔgɔma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:59:04.756967667Z",
+  "model": "glm-5.3"
+}

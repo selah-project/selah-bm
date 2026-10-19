@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛna",
+      "rationale": "Hebrew participle with finite sense; Bambara future marker supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duwɔ",
+      "rationale": "הלל is to shine\/clear → to praise; rendered with the Bambara word for praise"
+    }
+  ],
+  "translation": "Sabu minnu na o lajɛ, olu bɛna a dun, ka ⟨את⟩ Yawe duwɔ; ani minnu na o minɛ, olu bɛna a min ne ka senuma dalaw kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ad2358ce4624816b15fb009e656e446101a8e1ac322b1403fbbbb8e577dc2ca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/62\/9-12.1791934717232.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "o lajɛlaw"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "bɛna a dun"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "ka duwɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "ani o minɛlaw"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "bɛna a min"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "dalaw kɔnɔ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ne ka senuma"
+    }
+  ],
+  "timestamp": "2026-10-13T23:38:37.233829927Z",
+  "model": "glm-5.3"
+}

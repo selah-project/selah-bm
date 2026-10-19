@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד bɛ to Heburu fɔcogo la; Bamanankan kelen-kelen (kanuya, makari) bɛ a dɔgɔ"
+    },
+    {
+      "kind": "elision",
+      "subject": "construct chain",
+      "rationale": "חסד יהוה construct (hesed min bɛ Yawe ta) bɛ bayɛlɛma ni «Yawe ka hesed» ye"
+    }
+  ],
+  "translation": "Yawe bɛ tɔgɔdaɲɛ ni sariya-fɔli kanuya; dugukolo bɛ Yawe ka hesed makɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/33\/5-8.1791939982232.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "bɛ … kanuya"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tɔgɔdaɲɛ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ni sariya-fɔli"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "bɛ … makɔnɔ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:22.232871029Z",
+  "model": "glm-5.3"
+}

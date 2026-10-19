@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 26:5",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "preposition folded into 'ka mɛn kumaw' (listen to the words), no separate Bambara word"
+    },
+    {
+      "kind": "idiom",
+      "subject": "והשכם ושלח",
+      "rationale": "lit. 'rising early and sending' — idiom of persistent repeated sending, rendered 'ci ni ci kɔ' (sending and sending again)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨n⟩",
+      "rationale": "Bambara needs the subject pronoun 'n' that Hebrew implies in the participle שלח"
+    }
+  ],
+  "translation": "ka mɛn n ka sukuw ka — nabiw ka kumaw minnu de, aw fɛ minnu ci, ni sɔgɔma-sɔgɔmaw ci ni ci kɔ, nka aw ma mɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1899e3346f2fce31185c979409cb4b8bc58539c792b5b1db7ba2294f4a950124",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/26\/5-8.1791935582561.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ka mɛn"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "n ka sukuw"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nabiw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu de"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨n⟩"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "aw fɛ minnu ci"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": ""
+    },
+    {
+      "surface": "והשכם",
+      "gloss": "ni sɔgɔma-sɔgɔmaw ci"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ni ci kɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "aw ma mɛn"
+    }
+  ],
+  "timestamp": "2026-10-13T23:53:02.562217094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 16:6",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בראש \/ תמיד",
+      "rationale": "v.6 tɛ bɔko kelen sɔrɔ: 'baara kɛ bɛɛ bɛɛ' (BSB) ni 'lakanenw bɛ yen bɛɛ bɛɛ' (KJV) — a bɛnen don ni v.5 ka cogensanw ye, ni sarakalasebagaw ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "wale-daɲɛ",
+      "rationale": "Heburukan tɛ wale-daɲɛ si sɔrɔ; 'fɔ' (to blow) farala a kan ka kuma dɔgɔya nɔgɔya, i n'a fɔ BSB kɛ cogo min na"
+    }
+  ],
+  "translation": "ni Benayahu (Benaya) ni Yaheziel, sarakalasebagaw, bɛ ka lakanenw fɔ bɛɛ bɛɛ, Elohim ka layidu sanduku ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8be06e074bef461ccf37de3f152695f072a24572f5de0145049c15bc64973912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/16\/6-7.1791951558753.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "ni Benayahu"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "ni Yaheziel"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "ka lakanenw fɔ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bɛɛ bɛɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim ka"
+    }
+  ],
+  "timestamp": "2026-10-14T04:19:18.754053940Z",
+  "model": "glm-5.3"
+}

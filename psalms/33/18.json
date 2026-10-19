@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩ yɛrɛ",
+      "rationale": "אל bɛ fɔ ko 'ɲɛ bɛ taa' — Bamanankan bɛ nɔnabila dɔ fara a kan walasa k'a jira."
+    },
+    {
+      "kind": "elision",
+      "subject": "hesed",
+      "rationale": "חסד ma bayɛlɛma kuma kelen ye; a tora hesed ye (kanuya ni makari ni ɲumanya bɛɛ bɛ a kɔnɔ)."
+    }
+  ],
+  "translation": "I ye! Yawe ka ɲɛ bɛ ⟨a⟩ yɛrɛ siranbagaw kan, u minnu bɛ a hesed la duku.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/33\/17-20.1791940001914.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "I ye!"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…kan"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "siranbagaw"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "duku (bagaw)"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "a hesed la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:41.914921938Z",
+  "model": "glm-5.3"
+}

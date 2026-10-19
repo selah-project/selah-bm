@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a bɛna",
+      "rationale": "Hebrew participle וחלק has no explicit auxiliary; Bambara needs the future bɛna"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הנה",
+      "rationale": "הנה summons the hearer to look — the verse opens with a call to attention"
+    },
+    {
+      "kind": "you",
+      "subject": "suffix ־ך",
+      "rationale": "feminine singular suffixes address Jerusalem directly"
+    }
+  ],
+  "translation": "Yɛ, don kelen bɛ na Yawe fɛ, ani i ka warati bɛna filanabɔ i kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cce2866ceba8eafebeb4cf0ff28a21cff42b6ec859c6040f99d39587f2fd2ed0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/14\/1-4.1791939387757.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yɛ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don kelen"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bɛ na"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe fɛ"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "ani ⟨a bɛna⟩ filanabɔ"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "i ka warati"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "i kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:56:27.758535376Z",
+  "model": "glm-5.3"
+}

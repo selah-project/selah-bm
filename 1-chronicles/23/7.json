@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara predicate marker supplied; Hebrew is bare name list."
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Name list of Gershonite clan heads — a census-style register."
+    }
+  ],
+  "translation": "Gershondenw ye: Ladan ani Shimi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "46c003404f311bbda53646321ee5081a50720b0a20bda5dc0e0688be7b894c1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/23\/5-8.1791948250779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "Gershondenw"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Ladan"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ani Shimi"
+    }
+  ],
+  "timestamp": "2026-10-14T03:24:10.780565389Z",
+  "model": "glm-5.3"
+}

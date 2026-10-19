@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saraniw",
+      "rationale": "סרן ye Peleseti ka masakɛminɛw tɔgɔ ye; a literal kɔrɔ ye 'finfin-bolo (axle)' ye nka o tɛ bayɛlɛmali kɔnɔ."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tɔgɔ⟩",
+      "rationale": "Bamanankan bɛ fɛ dugu tɔgɔ ɲɛfɛli k'a jira ko dugu tɔgɔ de don, Heburukan ma min fɔ."
+    },
+    {
+      "kind": "elision",
+      "subject": "ההוא",
+      "rationale": "demonstratif 'o' bɛ don 'o don' kɔnɔ — token dɔgɔlen don, a ma ban."
+    }
+  ],
+  "translation": "Filistina saraniw tilon-naani (balimakɛtilon-naani) y'o ye, u y'a ye, u tun kɛra ⟨tɔgɔ⟩ Ekrono (Ekron) san o don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d638e240ff3b030ebc616f6f6e290e00e83ae3802ac47aa09da9f481c237b77d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/6\/16-16.1791950164185.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "ani tilon-naani (balimakɛtilon-naani)"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "saraniw"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "y'a ye"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "u tun kɛra"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "⟨tɔgɔ⟩ Ekrono (Ekron)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "san o don"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-10-14T03:56:04.185465700Z",
+  "model": "glm-5.3"
+}

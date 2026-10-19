@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 7:28",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "denmusow",
+      "rationale": "בנותיה 'her daughters' = dependent towns, rendered as 'denmusow' (dependent-villages sense)"
+    },
+    {
+      "kind": "crux",
+      "subject": "Azzah",
+      "rationale": "עיה pointed as עַיָּה 'Aiah' (JPS, BSB) vs lemma עַזָּה 'Gaza\/Azzah' (KJV); rendering follows the consonants' Gaza reading with the Aiah alternative noted"
+    },
+    {
+      "kind": "measurement",
+      "subject": "territory list",
+      "rationale": "Delimitation of Ephraim's holdings by cardinal points and dependent towns"
+    }
+  ],
+  "translation": "U ka minɛw ni u ka sigiyɔrɔw ye Bet-El (Beteli) ni a denmusow, sɔgɔma-tile-fɛ Naaran, wula-tile-fɛ Gezer ni a denmusow, ani Shekem ni a denmusow, fo Azzah (Gaza) ni a denmusow.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cbe2c3f9916d540bab2e2e4d3f6e34836528a155057f86e53cbce3411d267f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/7\/25-28.1791947631957.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחזתם",
+      "gloss": "u ka minɛw"
+    },
+    {
+      "surface": "ומשבותם",
+      "gloss": "u ka sigiyɔrɔw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El (Bet-El)"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ni a denmusow"
+    },
+    {
+      "surface": "ולמזרח",
+      "gloss": "sɔgɔma-tile-fɛ"
+    },
+    {
+      "surface": "נערן",
+      "gloss": "Naaran"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "wula-tile-fɛ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ni a denmusow"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ni a denmusow"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עיה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ni a denmusow"
+    }
+  ],
+  "timestamp": "2026-10-14T03:13:51.958588162Z",
+  "model": "glm-5.3"
+}

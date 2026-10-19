@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 8:13",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan needs the ye … ye predication that Hebrew lacks"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרנים",
+      "rationale": "'the last\/later ones' of Adonikam — later arrivals vs a younger branch; rendered 'labaw' (last)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "verse counts returning exiles by clan and tally of males"
+    }
+  ],
+  "translation": "Ni Adonikam (Adonikamu) ka denw labaw la, olu ye u tɔgɔw ye: Elifeleti, Yeieli ni Shemaya; ani ni u ye, cɛw biɛ-tan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "39fcbbadd3d8b8ef28363f7042fd0f00d5c7bce5af1fc2e0660d2344f4cd4a1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/8\/13-16.1791946695923.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ni … ka denw"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "Adonikam"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "labaw"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "u tɔgɔw"
+    },
+    {
+      "surface": "אליפלט",
+      "gloss": "Elifeleti"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Yeieli"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "ni Shemaya"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "ani ni u ye"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "biɛ-tan"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "cɛw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:58:15.923894634Z",
+  "model": "glm-5.3"
+}

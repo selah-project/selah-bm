@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bɔ bɔbɔ",
+      "rationale": "נבע kɔrɔ tiɲɛ ye 'ji bɔ bɔbɔ' ye — kuma bɛ ji ye; Bamanankan 'bɔ bɔbɔ' mara o ji-yɛlɛma ta"
+    },
+    {
+      "kind": "addition",
+      "subject": "ko fana",
+      "rationale": "זכר (remembrance\/mention) fɔcogo dajɛnen ye Bamanankan na"
+    }
+  ],
+  "translation": "I ka diya koɲuman faama ko fana, u bɛ o bɔ bɔbɔ; i ka kɛnɛya kan, u bɛ donkili kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/145\/5-8.1791941999309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ko fana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "faama"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "i ka diya koɲuman"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "u bɛ … bɔ bɔbɔ"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "i ka kɛnɛya"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "u bɛ donkili kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:39:59.310470174Z",
+  "model": "glm-5.3"
+}

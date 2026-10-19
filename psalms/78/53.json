@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחדו\/לבטח",
+      "rationale": "siran-ni-lafiya wuli fili (fear vs safety) — Hebrew contrast kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "datugu",
+      "rationale": "כסה is literally 'covered'; 'overwhelmed\/engulfed' versions lose the plain cover image."
+    }
+  ],
+  "translation": "A y'u ɲɛminɛ lafiya la, u ma siran, kɔgɔji ye ⟨את⟩ u bɛnw datugu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "235876a10c4c3a9ff0cc8b9400f0d479064f1e0007418d04a57222ffebbf93aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/53-56.1791940834058.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "y'u ɲɛminɛ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "lafiya la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "siran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u bɛnw"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "u bɛnw"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "datugu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:34.058993087Z",
+  "model": "glm-5.3"
+}

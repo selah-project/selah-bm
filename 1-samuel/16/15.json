@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Shaul",
+      "rationale": "Servants address Saul directly with הנה נא 'behold now'"
+    },
+    {
+      "kind": "addition",
+      "subject": "n",
+      "rationale": "pronoun supplied for the participle מבעתך 'is terrifying you'"
+    }
+  ],
+  "translation": "Ani Shaul ka serifɛw ye a ye ko: aw ye a ye nimisa, fiɲɛɛ jugu min bɔ Elohim fɛ, n b'i bɔɔti.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d09a6ba2d51d6c2f2dca20b4de87dbb9e2bce136a5480532478c4df89a4add23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/16\/13-16.1791930313012.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ye a ye ko"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "serifɛw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "aw ye a ye"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nimisa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "n b'i bɔɔti"
+    }
+  ],
+  "timestamp": "2026-10-13T22:25:13.013501146Z",
+  "model": "glm-5.3"
+}

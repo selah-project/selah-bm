@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Hebrew says literally 'cut a covenant'; Bambara uses 'sigi layidu' (set a pact), the cutting image is lost."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "עליך 'against you' — direct second-person address to God."
+    }
+  ],
+  "translation": "Sabu u ye u ka dusukun lamɛn ɲɔgɔn fɛ; u bɛ layidu sigi i kan, Yawe.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "02b742150d4ccef43bc15a48940308aed19a29ffbbb711be031338dc81698646",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/83\/5-8.1791940873713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "u yɛ u lamɛn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɲɔgɔn fɛ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "i kan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "u bɛ a sigi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:13.713842322Z",
+  "model": "glm-5.3"
+}

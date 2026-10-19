@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלי",
+      "rationale": "'bɛ ne kan' (walima 'bɛ ne ye') — YLT kɔrɔfɔli 'upon me' ɲɛfɔla de ye; KJV fana b'o ye 'toward me' ye."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "Taamasiyɛn ⟨את⟩ min bɛ sira sanfɛ, a ma bayɛlɛma Heburu kɔnɔ — a ye ɲɛfɔli jiralan ye (verse in tɔgɔdilen ye)."
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Kumasen in bɛ Yawe wele ni ɲɛkɔrɔ ye — galon weleli (petition), masa tɔgɔ la."
+    }
+  ],
+  "translation": "Mah bɛ se ka segin Yawe ma, nin ⟨את⟩ a ka tagemulow bɛɛ bɛ ne ye? — ni a sɔrɔ a ka tagemulow bɛɛ bɛ ne kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "18d3f431a105015364a7148e9828fe22803ac71f56c93dac0a0c0838f178f98e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/116\/12-12.1791951213110.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mah"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "bɛ se ka segin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "a ka tagemulow"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bɛ ne kan"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:33.110971354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "בנפש 'into the soul\/appetite' of his enemies rendered as their desire\/will; KJV 'will', JPS 'greed'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Bambara possessive link needed between 'enemies' and 'ni'"
+    }
+  ],
+  "translation": "Yawe bɛ a mara, a bɛ a balo; a bɛ nyɛ ka dugukolo kan; ani i kana a di a juguw ka ni ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/41\/1-4.1791940137792.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "bɛ a mara"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "a bɛ a balo"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "bɛ nyɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo kan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani kana"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "a di"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ni ma"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "a juguw ka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:57.793220399Z",
+  "model": "glm-5.3"
+}

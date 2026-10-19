@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על גבול",
+      "rationale": "'upon the border' — Bambara 'kan' renders על without preposition stacking"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "continued direct address to the leaders of Jerusalem"
+    }
+  ],
+  "translation": "Npan fɛ aw bɛna tu; Yisrayɛlɛ (Isirayɛlɛ) ka dan kan n bɛna aw latigɛ ⟨את⟩; aw bɛna dɔn ko ne ye Yawe ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/11\/9-12.1791936749535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "npan fɛ"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "aw bɛna tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayɛlɛ"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "n bɛna aw latigɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "aw bɛna dɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T00:12:29.536106371Z",
+  "model": "glm-5.3"
+}

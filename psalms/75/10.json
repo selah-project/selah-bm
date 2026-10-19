@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka a barika",
+      "rationale": "לאלהי יעקב 'barika' kuma ma sɔrɔ sɛbɛnni kɔnɔ; a farala a kan ka dɔnkili-daɲɛ nɔgɔya"
+    }
+  ],
+  "translation": "Nka ne, ne bɛna a fɔ san bɛɛ; ne bɛna dɔnkili da Yaaƙubu (Jakuba) Elohim ye, ka a barika.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a1edde4bd6e9c9dbe7b7eee7b020ec4548b3c434cf39f1336034e8163dad2f79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/75\/9-11.1791940684248.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nka ne"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ne bɛna a fɔ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "san bɛɛ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "bɛna dɔnkili da"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaƙubu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:18:04.249014942Z",
+  "model": "glm-5.3"
+}

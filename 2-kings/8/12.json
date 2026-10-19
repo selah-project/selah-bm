@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 8:12",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "באש",
+      "gloss-note": "",
+      "rationale": "Hebrew 'in the fire' has no separate verb — the fire is 'sent' against the fortresses; Bambara needs tasuma ci, supplying a verb."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשלח באש \/ תהרג בחרב",
+      "rationale": "parallel verb-plus-beth-phrase chains: send-in-fire, kill-in-sword, dash, rip — the four-fold escalation of violence kept as parallel clauses."
+    },
+    {
+      "kind": "you",
+      "subject": "Hazael ka aŋ",
+      "rationale": "Hazael addresses Elisha directly as 'matigi, why do you weep?'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "den-son-muso taba",
+      "rationale": "הרות 'pregnant (women)' rendered with a descriptive compound 'belly-carrying wife', the Hebrew single adjective expanded."
+    }
+  ],
+  "translation": "Hazael ko: matigi, mun na i tununna? A ko: sabu ne b⟨את⟩ dɔn juju min na i bɛna kɛ Isirayeli (Izirayeli) denw ye: i bɛna tasuma ci u ka dugu kɔlɔsilenw la, i bɛna u ka cɛsirilenw faa ni npan ye, i bɛna u ka den fitininw lasindi, ani i bɛna u ka den-son-muso taba furu-bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ef3e1dd3ad2524176cd96db34c2bf7bee4578bd8e1282a9356eebfe0349daf89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/8\/9-12.1791932829103.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "matigi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "tununnen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ne b'a dɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juju min (min na i bɛna kɛ)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "i bɛna kɛ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…denw ye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "juju"
+    },
+    {
+      "surface": "מבצריהם",
+      "gloss": "u ka dugu kɔlɔsilenw"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "i bɛna tasuma ci"
+    },
+    {
+      "surface": "באש",
+      "gloss": "…la (tasuma)"
+    },
+    {
+      "surface": "ובחריהם",
+      "gloss": "u ka cɛsirilenw"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ni npan ye"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "faa"
+    },
+    {
+      "surface": "ועלליהם",
+      "gloss": "u ka den fitininw"
+    },
+    {
+      "surface": "תרטש",
+      "gloss": "lasindi"
+    },
+    {
+      "surface": "והרתיהם",
+      "gloss": "u ka den-son-muso taba"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "furu-bɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:07:09.107211081Z",
+  "model": "glm-5.3"
+}

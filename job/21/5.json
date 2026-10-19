@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨aw ka⟩",
+      "rationale": "Hebrew has no possessive on 'hand' and 'mouth'; Bamanankan requires it"
+    },
+    {
+      "kind": "idiom",
+      "subject": "bolo bila da kan",
+      "rationale": "hand-on-mouth gesture of stunned silence rendered literally, as the Hebrew picture"
+    },
+    {
+      "kind": "you",
+      "subject": "to Job's friends",
+      "rationale": "plural imperatives address the three friends directly"
+    }
+  ],
+  "translation": "Aw ɲɛlama ne ma, ka mununɛ, ka bolo bila ⟨aw ka⟩ da kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ef790e8718d28fb3292fd97390fe9bc3013636d181d4c3ae1d89b4bab442cd47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/21\/5-8.1791943789937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "aw ɲɛlama"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne ma"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "ka mununɛ"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "ka bila"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פה",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-10-14T02:09:49.938061971Z",
+  "model": "glm-5.3"
+}

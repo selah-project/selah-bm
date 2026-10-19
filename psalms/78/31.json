@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "juguya",
+      "rationale": "אף literally 'nose\/nostrils', idiom for anger; rendered 'wrath'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sebagaw",
+      "rationale": "משמנים literally 'fat ones', i.e. the stoutest; rendered 'strongest'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wili-duguya",
+      "rationale": "הכריע literally 'caused the knee to bend'; rendered 'brought down'"
+    }
+  ],
+  "translation": "Elohim ka juguya nana ⟨olu⟩ kan, a y'u ka sebagaw faga, ka Yisrael wɔlɔw wili-duguya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7f05e286c20bc88af0af5af257fb4720fa24f024fdf58f7b0446cf1aa6136ef7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/29-32.1791940828467.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nana"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨olu⟩ kan"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "a y'e faga"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "u ka sebagaw"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "wɔlɔw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "ka ... wili-duguya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:28.468504765Z",
+  "model": "glm-5.3"
+}

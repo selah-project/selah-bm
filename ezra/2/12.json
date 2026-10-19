@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "Azgad clan counted at 1,222 — the largest clan figure so far in the list."
+    },
+    {
+      "kind": "addition",
+      "subject": "kelen",
+      "rationale": "Bambara needs the counter 'kelen' after 'waa' where Hebrew's אלף is indefinite"
+    }
+  ],
+  "translation": "Azgad denw, waa kelen ni kɛmɛ fila ni muguyan ni fila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d7e54d5614b092ec6d6201ccc48f450826d1a57de7403f19901c203dc94a9b74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/2\/9-12.1791946320918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Azgad"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waa kelen"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kɛmɛ fila"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "muguyan"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ni fila"
+    }
+  ],
+  "timestamp": "2026-10-14T02:52:00.919427028Z",
+  "model": "glm-5.3"
+}

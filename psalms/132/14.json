@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula ye … ye supplied; Hebrew verblessly juxtaposes 'this \/ my rest'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדי עד",
+      "rationale": "doubled עַד 'till-of-till' = forever; single phrase 'fo bɛɛ' loses the repetition"
+    }
+  ],
+  "translation": "Nin de ⟨ye⟩ n' sigihɛrɛyɔrɔ ⟨ye⟩, fo bɛɛ; yan n bɛna sigi, sabu n y'o fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/132\/13-16.1791941751170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "nin de"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "n' sigihɛrɛyɔrɔ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "yan"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "n bɛna sigi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "n y'o fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:51.171686809Z",
+  "model": "glm-5.3"
+}

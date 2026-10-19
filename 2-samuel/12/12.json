@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשית \/ אעשה",
+      "rationale": "same verb 'do' in second vs first person — you did secretly, I will do openly; parallelism kept"
+    }
+  ],
+  "translation": "Sabu i ye o kɛ kobiri la, n bɛna ⟨את⟩ kuma in kɛ Isirayɛl bɛɛ ɲɛda la ani tile ɲɛda la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6356cf0eb645372d040b72acc73c6be74b1655d3acbc9901e87d698bc5d4eaa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/12\/9-12.1791931182976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i ye … kɛ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "kobiri la"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "n"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuma in"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ɲɛda la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ani … ɲɛda la"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    }
+  ],
+  "timestamp": "2026-10-13T22:39:42.979729825Z",
+  "model": "glm-5.3"
+}

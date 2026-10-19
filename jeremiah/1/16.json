@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "alaw (batofɛnw)",
+      "rationale": "foreign gods here אלהים אחרים, rendered 'ala tɔɔw' — not the Name Elohim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משפחות \/ משפטי",
+      "rationale": "'families' (v15 mishpachot) judged by 'judgments' (v16 mishpatim) — Hebrew assonance linking the verses"
+    }
+  ],
+  "translation": "Ne bɛna ne ka fɛnw dɔgɔkɔrɔya kuma u ye ⟨את⟩ ⟨אותם⟩, u bonya bɛɛ la, minnu yɛ ne tigi bɔyen: u y’u yɛlɛma i ko gɛlɛyali, ka sanga ala tɔɔw (alaw) ma, ka ɲɛ bila u bolo baara dɔw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd14288c05d776619a7cc3bc340265350d7167a44280452a7504a686752aa6d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/1\/13-16.1791934909882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "ne bɛna kuma"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ne ka fɛnw dɔgɔkɔrɔya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "u"
+    },
+    {
+      "surface": "על",
+      "gloss": "… la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "u bonya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "yɛ ne tigi bɔyen"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "u ye sanga"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "alaw (batofɛnw)"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "tɔɔw"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ka ɲɛ bila"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "baara dɔw la"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "u bolo"
+    }
+  ],
+  "timestamp": "2026-10-13T23:41:49.885141460Z",
+  "model": "glm-5.3"
+}

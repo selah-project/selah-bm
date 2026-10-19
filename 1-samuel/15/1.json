@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i k'an",
+      "rationale": "Hebrew imperative שמע has no explicit pronoun; 'i' added for clarity"
+    },
+    {
+      "kind": "you",
+      "subject": "Shaulu",
+      "rationale": "Samuel addresses Saul directly with a summons to obey"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lamɛn",
+      "rationale": "imperative 'hear\/hearken' draws the addressee in, Shema-style"
+    }
+  ],
+  "translation": "Shemuɛl (Shemuel) y'a fɔ Shaulu (Sawulu) ma: ⟨את⟩ ne de Yawe cilen ka tulu bil'i kan k'a kɛ masakɛ ye a jama Israyɛl (Izrayɛl) kan; nin don, i k'an lamɛn Yawe ka kumaw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/15\/1-4.1791930364481.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuɛl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "cilen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "ka tulu bil'i kan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛ ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jama"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "nin don"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lamɛn"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T22:26:04.482336151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Hebrew lacks a verb; Bamanankan needs the linking ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba-tan",
+      "rationale": "רבוא (myriad, ten-thousand) rendered with the Bamanankan large-count word ba-tan"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census total",
+      "rationale": "The verse counts the returned assembly: 42,360"
+    }
+  ],
+  "translation": "Jama bɛɛ ka kelen ye: wolonwula ba-tan ni ba fila, kɛmɛ saba ni wɔrɔ-tan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "182387a264e9ec4a3759d22f47529101c88060136af177618261c971fcd9a92b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/7\/66-67.1791951545277.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jama"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ka kelen ye"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ba-tan"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ba fila"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "saba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "wɔrɔ-tan"
+    }
+  ],
+  "timestamp": "2026-10-14T04:19:05.278253336Z",
+  "model": "glm-5.3"
+}

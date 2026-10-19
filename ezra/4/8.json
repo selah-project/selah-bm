@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 4:8",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wungo-tigi",
+      "rationale": "Bambara gloss 'beel-taam' needs a title word; the bracket supplies the office-title reading 'chancellor'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "כנמא",
+      "rationale": "Aramaic particle 'thus' occurs only here in the Tanakh."
+    }
+  ],
+  "translation": "Rehum, taam-tigi ⟨wungo-tigi⟩, ani Shimshay sɛbɛbagatigi, ye sɛbɛn kelen sɛbɛn Yerushalayim (Jerusalɛmu) kan, Artachshasta masakɛ ma, nin cogo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cebcd1c2d5db7c1032d76f990de8f6ba96f03719a9161daae9df580ce415f644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/4\/5-8.1791946447282.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Rehum"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "tigi"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "taam (wungo)"
+    },
+    {
+      "surface": "ושמשי",
+      "gloss": "ani Shimshay"
+    },
+    {
+      "surface": "ספרא",
+      "gloss": "sɛbɛbagatigi"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "u ye sɛbɛn"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu)"
+    },
+    {
+      "surface": "לארתחששתא",
+      "gloss": "Artachshasta ma"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "nin cogo la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:54:07.289773268Z",
+  "model": "glm-5.3"
+}

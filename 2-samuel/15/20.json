@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 15:20",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אנועך",
+      "rationale": "ketiv\/qere: 'should I make you wander' (question, KJV\/ASV) vs reading as statement 'I make you go' (YLT)"
+    },
+    {
+      "kind": "elision",
+      "subject": "חסד ואמת",
+      "rationale": "no verb — blessing 'may hesed and truth be with you' (KJV) vs 'go back... in kindness and truth' (JPS); Bambara supplies ⟨ka to i la⟩ per KJV reading"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "hesed kept per discipline; single-word renderings like kanuya would narrow the covenant-loyalty sense"
+    }
+  ],
+  "translation": "Kunu bi i nana, bi n bɛna i bilala ka dogo ni an ye wa? Ne fɔlɔ, n bɛ taa min na, n t'o dɔn: i yɛrɛ segin, k'⟨את⟩ i balimaw wuli k'u na ni i ye. Hesed ni tiɲɛ ⟨ka to i la⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "af50f32a54ece5a84435e983865e47d7df66d4934083546d0200c8fc010b3757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/15\/20-20.1791950391168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמול",
+      "gloss": "kunu"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "i na"
+    },
+    {
+      "surface": "והיום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "אנועך",
+      "gloss": "n bɛna i bilala ka dogo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ni an ye"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ne fɔlɔ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "n bɛ taa"
+    },
+    {
+      "surface": "על",
+      "gloss": "min na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אני",
+      "gloss": "n"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "bɛ taa"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "k'u wuli ka u na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i balimaw"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "i balimaw"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ni i ye"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ni tiɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:59:51.169406088Z",
+  "model": "glm-5.3"
+}

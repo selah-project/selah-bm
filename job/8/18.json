@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "miirɛ",
+      "rationale": "בלע ka kɔrɔ tiŋɛna ye 'ka mɔgɔ miirɛ (ni da ye)' — 'to swallow him up' ka gɛlɛn Bamanankan na, n'an y'a nɔgɔya"
+    },
+    {
+      "kind": "crux",
+      "subject": "a y'a kɔngɔ",
+      "rationale": "וכחש: sɛbɛnniw bɛε tɛ o ye — 'a y'a kɔngɔ' (deny), 'a daɲɛw bɛ fɔ fiya' (lie), walima 'a tɛ a dɔn' (disown)"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא ראיתיך",
+      "rationale": "Heburukan bɛ kuma-ka-fo-cogo ye (direct speech), Bamanankan bɛ 'ko' de wajibiya a jira"
+    }
+  ],
+  "translation": "Ni mɔgɔ y'a miirɛ a yɔrɔ la, a y'a kɔngɔ a la, ko: N tɛ i ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "29e08ef7de10bff43ebe4f9f204541b91b8d8206707417c032237b395f58bbcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/8\/18-19.1791951332180.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "y'a miirɛ"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "a yɔrɔ la"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "a y'a kɔngɔ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "N ... i ye"
+    }
+  ],
+  "timestamp": "2026-10-14T04:15:32.181146833Z",
+  "model": "glm-5.3"
+}

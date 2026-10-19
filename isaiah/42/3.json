@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jijiri",
+      "rationale": "קנה is a marsh reed; rendered as 'water-plant' since Bamanankan has no single fixed reed word."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כהה \/ יכבנה",
+      "rationale": "The dim wick (כהה) and the quenching (יכבנה) chime in sound; verse 4 then reuses כהה of the servant himself."
+    }
+  ],
+  "translation": "Jijiri min bɔnna, a tɛ bɔn o; ani fitin min kɔni, a tɛ butu o; tiɲɛ na a bɛ sariya bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/42\/1-4.1791934382909.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "jijiri"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "min bɔnna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a tɛ … o"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "bɔn"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "ani fitin"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "min kɔni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a tɛ … o"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "butu"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "tiɲɛ na"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    }
+  ],
+  "timestamp": "2026-10-13T23:33:02.910815914Z",
+  "model": "glm-5.3"
+}

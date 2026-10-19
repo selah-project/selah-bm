@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וידבקו",
+      "rationale": "'to cling\/cleave to' rendered as ɲagami (pursue); Hebrew root דבק picture of clinging lost"
+    },
+    {
+      "kind": "you",
+      "subject": "Saul",
+      "rationale": "Saul direct object with three ⟨את⟩ markers, one per son — the marker set is the verse's structure"
+    }
+  ],
+  "translation": "Pelistinw tuna ka Saul (Sawulu) ni a denkɛw ɲagami, ka Pelistinw ye Saul denkɛw Yonatan (Yunusa), Abinadab, ani Malkishua (Malkishua) bɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5af08338117be119e983160416ce7a695d5be80c90fbcc42497ccfa5951866f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/10\/1-4.1791947808809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "tuna ka ɲagami"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistinw"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ni kɔfɛ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a denkɛw"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ka bɔn"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistinw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מלקי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul ka"
+    }
+  ],
+  "timestamp": "2026-10-14T03:16:48.811096184Z",
+  "model": "glm-5.3"
+}

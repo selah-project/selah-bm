@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bambara equative requires 'ye … ye'; Hebrew is nominal phrase without verb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "silver-crucible \/\/ gold-furnace \/\/ Yawe-hearts: the third term escalates, testing moves from metal to the hidden"
+    }
+  ],
+  "translation": "Kabakurun ye warigwɛ sɛgɛsɛgɛli ye, ji magalan ye sanu sɛgɛsɛgɛli ye, wa Yawe ye dusukunw sɛgɛsɛgɛla ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a4a6ac4f9a499f64129053a89dbef8434d73903c1126f2fa50528d16e8a6236f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/17\/1-4.1791942600956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "kabakurun"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "ji magalan"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "sɛgɛsɛgɛ"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "dusukunw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:50:00.957572149Z",
+  "model": "glm-5.3"
+}

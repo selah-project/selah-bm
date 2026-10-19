@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גרה",
+      "rationale": "Cud has no Bamanankan word; rendered descriptively as 'dunoya wulili' — bringing the food back up."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פרסה",
+      "rationale": "Hoof rendered 'nɔda' (foot-front); Bamanankan lacks a single word for split hoof."
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Law addressed directly to Israel; plural 'aw bɛ se ka dun' — you may eat."
+    }
+  ],
+  "translation": "Ni bagan bɛɛ min bɛ nɔda sɔrɔ, ka nɔda in fila-fila ka kɛ fila ye, min bɛ a dunoya wulili ka na dun kokura, bagan minnu ye o ye, ⟨את⟩ o bɛɛ aw bɛ se ka dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/14\/5-8.1791927917942.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ni ... bɛɛ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bagan"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "min bɛ ... ka ... fila-fila"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "nɔda"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ka ... fila-fila"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "fila-fila"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "fila"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "nɔda"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "min bɛ ... wulili"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "dunoya"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "bagan minnu ye o ye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "o bɛɛ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "aw bɛ se ka dun"
+    }
+  ],
+  "timestamp": "2026-10-13T21:45:17.945580932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dommeya",
+      "rationale": "רחמים ye 'dommeya' (jiɲɛ-ɲumandɔ) ye, k'a tɔgɔ bila — a kɔrɔ ka surun ni 'womb-misiri' ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "sarisdenw",
+      "rationale": "סריס bɛɛ mamannenw fɛ 'eunuch' walima 'jamadɔnnin (jama kɛnɛ)'; an ta 'sarisden' — Heburu kɔgɔji nɔnabila, sabu Bamanankan tɛ o daɲɛ ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "ko … na sɔrɔ",
+      "rationale": "Bamanankan ka 'di' wale-daɲɛ bɛ 'kama' minɛn ka a dɔgɔya — Heburukan t'a minɛ"
+    }
+  ],
+  "translation": "Ani Elohim y'a di ko ⟨את⟩ Daniel na sɔrɔ hesed ni dommeya, sarisdenw ɲɛmɔgɔ ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cca800926c12a3eedccf394fc6fd6cffd1e650b94aa0a6fa04045bc6e87ad545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/1\/9-12.1791945645629.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "y'a di"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "ani dommeya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ɲɛmɔgɔ"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sarisdenw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:40:45.630010623Z",
+  "model": "glm-5.3"
+}

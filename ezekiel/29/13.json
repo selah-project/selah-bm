@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 29:13",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne",
+      "rationale": "Hebrew verb form אקבץ carries the 'I'; Bambara needs the pronoun separately"
+    },
+    {
+      "kind": "measurement",
+      "subject": "san banaani",
+      "rationale": "the forty-year term of Egypt's desolation is counted out"
+    }
+  ],
+  "translation": "Sabu Adonay Yawe ko nin: san banaani kɔfɛ, ne bɛna ⟨את⟩ Misira (Mitsrayim) lajɛ siyaw na minnu sebeera yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d7776574e5fa9a1611955f73768600e1a5932d0f2b9abd138187164eea311b3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/29\/13-16.1791937437892.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "banaani"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "lajɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misira"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "sebeera"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "yen"
+    }
+  ],
+  "timestamp": "2026-10-14T00:23:57.893207806Z",
+  "model": "glm-5.3"
+}

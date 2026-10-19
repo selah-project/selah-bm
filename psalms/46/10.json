@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fitila",
+      "rationale": "קשת is a bow (shooting weapon); fitila is the nearest plain Bambara weapon-word"
+    },
+    {
+      "kind": "addition",
+      "subject": "bɛɛ",
+      "rationale": "plural 'all' added to מלחמות (wars), Hebrew plural alone"
+    }
+  ],
+  "translation": "A bɛ kɛlɛw bɛɛ datugu ka se dugukolo labasigilen ma; a bɛ fitila wɔgɔrɔ, a bɛ npanw gesen, a bɛ wɔrɔdɔnw lasa tasuma la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/46\/9-12.1791940193272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "A bɛ … datugu"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "kɛlɛw bɛɛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "labasigilen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "fitila"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "wɔgɔrɔ"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "gesen"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "npanw"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "wɔrɔdɔnw"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "lasa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tasuma la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:53.273741137Z",
+  "model": "glm-5.3"
+}

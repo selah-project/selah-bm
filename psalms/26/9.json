@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ni-nsɛbɛn ye ni ye — kunbolo\/ninakili\/balo, tɛ 'soul' yɛrɛ ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan bɛ fɛ 'ye' daɲɛ wajibiya ni-lagini kumasen kɔnɔ, Heburukan ma a sɔrɔ"
+    }
+  ],
+  "translation": "Kana n ni lagini ni jurumutɔw ye, ani n balo ni jolibagaw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8abf0f1c75d1ad7f331abc0dd0de1a9916fb9243d0c731aa7052472fa2c06bb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/26\/9-12.1791939849504.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "lagini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "jurumutɔw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n ni"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bagaw"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "joli"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "n balo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:09.504757114Z",
+  "model": "glm-5.3"
+}

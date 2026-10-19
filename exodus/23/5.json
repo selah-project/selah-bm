@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עזב תעזב",
+      "rationale": "Infinitive absolute doubling 'release you-shall-release'; Bambara keeps only one verb, intensity lost."
+    },
+    {
+      "kind": "crux",
+      "subject": "וחדלת מעזב לו",
+      "rationale": "Read either 'you shall cease from leaving it' (KJV: 'wouldest forbear to help') or 'you shall forbear to leave him alone'; Bambara follows the ASV\/JPS line."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person singular command within the Covenant Code addressed to each Israelite."
+    }
+  ],
+  "translation": "Ni i ye mɔgɔ min bɛ i juli ka buruku ye, a sigilen don ⟨a ka balan jukɔrɔ⟩, i kana bɔ ka a bila; i ka a bɔ ni ⟨a ka tigɛ⟩ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c0c585789626f2fee303a3e7af77154ea080d0f936fa8dcc57a77b1c213ca524",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/23\/5-8.1791926890535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "i ye … ye"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "buruku"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "min bɛ i juli"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "a sigilen don"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jukɔrɔ"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "a ka balan"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "i kana bɔ"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ka a bila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "i ka … bɔ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ni a ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:28:10.536575725Z",
+  "model": "glm-5.3"
+}

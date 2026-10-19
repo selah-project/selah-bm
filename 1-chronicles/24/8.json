@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bɔra⟩",
+      "rationale": "verb 'came out' carried over from verse 7; Hebrew gives names and ordinals only"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sabanan · nananan",
+      "rationale": "continuation of the numbered order of lots"
+    }
+  ],
+  "translation": "Sabanan bɔra Harim (Arimu) ma; nananan bɔra Seorim (Sɛɔrimu) ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b8711f0e5d66cd8891bd418ee6d28547b4996d40debd5c8047525645c761b4bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/24\/5-8.1791948255428.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "Harim ma"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sabanan"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "Seorim ma"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "nananan"
+    }
+  ],
+  "timestamp": "2026-10-14T03:24:15.430393679Z",
+  "model": "glm-5.3"
+}

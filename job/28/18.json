@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 28:18",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גביש",
+      "rationale": "occurs only here in the Tanakh; crystal from its resemblance to ice, rendered 'jɛ' (ice)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומשך",
+      "rationale": "KJV 'the price' vs YLT 'acquisition' vs literal 'drawing out' — I take the value sense, glossed 'nafa'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nafa",
+      "rationale": "the verse weighs wisdom against pearls — value-comparison framing"
+    }
+  ],
+  "translation": "Koral ni jɛ tɔgɔ si tɛ fɔ; hakili nafa bɛ pɛrɛnw kun bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9a39dad4af560f1c75bfdb9147d53561308b20fc62810c15ab0461e209ccd4d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/28\/17-20.1791943946652.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "koral"
+    },
+    {
+      "surface": "וגביש",
+      "gloss": "ni jɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "tɔgɔ si tɛ fɔ"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "nafa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hakili"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "pɛrɛnw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:12:26.653065821Z",
+  "model": "glm-5.3"
+}

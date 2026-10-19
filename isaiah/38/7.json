@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula supplied; Hebrew has no verb 'is'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "sign",
+      "rationale": "The אות is a promised omen — a hidden token given before the deed."
+    }
+  ],
+  "translation": "Ani n'o ye seere ye i ye ⟨את⟩ Yawe fɛ, ko Yawe bɛ ⟨את⟩ kuma n kɛ, min o fɔla.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ed20e3b4376694dfa32e05f5983ecae6384470d32bae31ee0ba86c9c327660b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/38\/5-8.1791934214869.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "n'o"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "האות",
+      "gloss": "seere"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ … fɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛ … kɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuma n"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "n"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fɔla"
+    }
+  ],
+  "timestamp": "2026-10-13T23:30:14.871534809Z",
+  "model": "glm-5.3"
+}

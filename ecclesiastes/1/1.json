@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Koheleth",
+      "rationale": "קהלת ye mɔgɔ tɔgɔ ye (lajɛligi-tigi) — masin tɛ a yɛlɛma kɛ 'karamɔgɔ' walima 'sarakalasebaga' ye; tɔgɔ bɛ to tɔgɔ ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "masakɛ Yerushalayim na",
+      "rationale": "Heburukan fɔcogo: 'masakɛ [min bɛ] Yerushalayim' — tɔgɔdilan dɔw bɛ fɔ 'Yerushalayim masakɛ' ye."
+    }
+  ],
+  "translation": "Koheleth (mɔgɔw lajɛligi-tigi) ka kumaw, Dawid (Dawuda) denkɛ, masakɛ Yerushalayim (Jerusalɛmu) na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/1\/1-4.1791945126198.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleth"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-14T02:32:06.200367785Z",
+  "model": "glm-5.3"
+}

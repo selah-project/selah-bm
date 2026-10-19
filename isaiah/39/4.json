@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 39:4",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Isaiah's question addressed directly to Hezekiah"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבר",
+      "rationale": "dabar 'word\/thing' rendered kuma inside a double-negative 'nothing I did not show them'"
+    }
+  ],
+  "translation": "A y'a fɔ ko: U ye mun ye i ka so kɔnɔ? Khizkiyahu y'a fɔ ko: ⟨את⟩ fɛn bɛɛ min bɛ ne ka so kɔnɔ, u ye o ye; kuma si ma yen min tɛ ne ye u ye ne ka marayɔrɔw kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "92cf5a8618657adb8e6650f5fc5d2d46d3593d873834521b4e7e0bd18ae2b604",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/39\/1-4.1791934369217.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a y'a fɔ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "i ka so kɔnɔ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fɛn bɛɛ min bɛ ne ka so kɔnɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fɛn bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "ne ka so kɔnɔ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "u ye o ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si … tɛ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ma yen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "הראיתים",
+      "gloss": "ne ye u ye"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "ne ka marayɔrɔw kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:49.220586522Z",
+  "model": "glm-5.3"
+}

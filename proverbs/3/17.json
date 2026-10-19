@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרכיה\/דרכי",
+      "rationale": "derakheha…darkei — repetition of 'her ways\/ways of', the echo flattened to a single word pair in Bambara"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bambara copula required by the noun-clause; Hebrew has no verb"
+    }
+  ],
+  "translation": "A siraw ye nimɔrɔya-siraw ye; ani a taamasiraw bɛɛ, hɛrɛ de ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2c00e03554356e4ffe22ae69de5b7b63f08a53be63d49413389d9724bc38fe0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/3\/17-20.1791942182531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "a siraw"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "siraw"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "nimɔrɔya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani … bɛɛ"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "a taamasiraw"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:43:02.531666993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 20:17",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ye … kuma ye",
+      "rationale": "oracle-formula אמר יהוה rendered with a speech verb 'a ye' that Hebrew leaves implicit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɛna wuli taa",
+      "rationale": "ונשא 'will be lifted\/carried' rendered as 'will rise and go' — passive carried-off turned active-motion"
+    },
+    {
+      "kind": "you",
+      "subject": "Hizikiya",
+      "rationale": "prophecy addressed directly to Hezekiah ('i so', 'i faaw')"
+    }
+  ],
+  "translation": "Yele, tilew bɛ na: fɛn bɛɛ min bɛ i so kɔnɔ, ani fɛn minnu i faaw mara fo nin donu na, bɛna wuli taa Babilɔn; fɛn si tɛna to ⟨yen⟩, a ye Yawe kuma ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "46423c9ec65d9570647e29cd79a7578560568e4a145ebc0bbd11f159eec93aca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/20\/17-20.1791933266468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "tilew"
+    },
+    {
+      "surface": "באים",
+      "gloss": "bɛ na"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "bɛna wuli taa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "i so kɔnɔ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ani minnu"
+    },
+    {
+      "surface": "אצרו",
+      "gloss": "mara"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "i faaw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nin donu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilɔn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si tɛna"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "to"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fɛn"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T23:14:26.475619265Z",
+  "model": "glm-5.3"
+}

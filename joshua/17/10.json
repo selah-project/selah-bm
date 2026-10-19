@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "de",
+      "rationale": "Bambara emphatic particle added to carry the Hebrew terse 'south to Ephraim, north to Manasseh' possession clauses"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dan",
+      "rationale": "boundary verse: territories assigned by compass directions"
+    }
+  ],
+  "translation": "Worodugu fɛ Efrayim de ta, saheli fɛ Menashe (Manasi) de ta, kɔgɔji ye a dan ye; Asher (Asɛr) fɛ u bɛ don ɲɔgɔn na saheli fɛ, ani Yisasakar (Isakari) kɔrɔn fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c5985b1a5d00ea9376a6ee0be1523ab07c78ec899613575ddb1deab07c87482d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/17\/9-12.1791928945121.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "worodugu fɛ"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "saheli fɛ"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a ye … ye"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "a dan"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "Asher fɛ"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "u bɛ don ɲɔgɔn na"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "saheli fɛ"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "ani Yisasakar"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kɔrɔn fɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:02:25.125399663Z",
+  "model": "glm-5.3"
+}

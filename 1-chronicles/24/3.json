@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 24:3",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחלקם דויד וצדוק",
+      "rationale": "Bayɛlɛmabaga be ɲɛjɔ ys kɔnɔ: KJV 'Dawid ye u boɲɛ ni Tsadok ye' versus ASV\/JPS 'Dawid ni Tsadok ye u boɲɛ' — Heburukan jɔcogo bɛ sɔn a fila bɛɛ."
+    },
+    {
+      "kind": "addition",
+      "subject": "dɔ",
+      "rationale": "מן fɔcogo 'min bɔ … la' ma lasɔn Bamanankan kelen-kelen na; 'dɔ' farala a kan walasa a nɔgɔya."
+    }
+  ],
+  "translation": "Dawid (Dawuda) ni Tsadok, Elazar denkɛw dɔ, ni Ahimelek, Itamar denkɛw dɔ, ye u boɲɛ u ka ɲɛmɔli la u ka baara kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2eba3e8651940b0bc165d42ef5f9ed31d3cecc1f37ae34e5e98849bc29af445f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/24\/1-4.1791948276473.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "ye u boɲɛ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid (Dawuda)"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ni Tsadok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dɔ, …w la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "ni Ahimelek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dɔ, …w la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "לפקדתם",
+      "gloss": "u ka ɲɛmɔli la"
+    },
+    {
+      "surface": "בעבדתם",
+      "gloss": "u ka baara kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:24:36.474821080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 13:18",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רחמים\/ורחמך",
+      "rationale": "NdLambda root r-ḥ-m doubles: 'mercy' noun and 'love you' verb — the Bamanankan rendering splits it into two unrelated words."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרון אפו",
+      "rationale": "Hebrew is 'burning of his nose' (idiom for anger); rendered as one noun 'jɛgɛn-bonya'."
+    },
+    {
+      "kind": "crux",
+      "subject": "החרם",
+      "rationale": "Devoted thing (herem): 'cursed thing' (KJV) vs 'devoted to destruction' (BSB) — danga-kɛli keeps the ban sense."
+    }
+  ],
+  "translation": "Fɛn si min bɛ danga-kɛli la, o tɛna mara i bolo, walasa Yawe ka bɔ a ka jɛgɛn-bonya na, ka sumanan di i ma, ka i kanuya, ka i ka mɔgɔw camaya, cogo min na a kunbɛ i baw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dbb9544cf4b6928334cb06570bcf9f5c1bcf5f981d76d38ad9b2a10ee9fd68f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/13\/18-19.1791950130937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ani tɛna"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "mara"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i bolo"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "fɛn si"
+    },
+    {
+      "surface": "מן",
+      "gloss": "min bɔra"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "danga-kɛli la"
+    },
+    {
+      "surface": "למען",
+      "gloss": "walasa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "jɛgɛn-bonya"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "a ka"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ka di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ma"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "sumanan"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "ka i kanuya"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "ka i ka mɔgɔw camaya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "kunbɛ"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "i baw ma"
+    }
+  ],
+  "timestamp": "2026-10-14T03:55:30.938300895Z",
+  "model": "glm-5.3"
+}

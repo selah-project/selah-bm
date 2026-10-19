@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 20:16",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "u ka jaw",
+      "rationale": "גלולים literally 'round logs' (contemptuous term for idols); Bambara 'jaw' (images) loses the log-mockery"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאסו \/ הלכו",
+      "rationale": "verse inverts v.13's order — rejected\/walked becomes walked\/rejected — chiasm of recitation, kept in Bambara"
+    }
+  ],
+  "translation": "Sabu u ye ne ka fɛnw bali, ani ⟨את⟩ ne ka sariyaw mannin taa a la, ani ⟨את⟩ u ye ne ka Shabatiw fin bila; sabu u ka dusukun bɛ taa u ka jaw kɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e87a502bde36b1b95f9a535fced6af0bc075319762f74a35359166fee0b2cca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/20\/13-16.1791937143224.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "ne ka fɛnw"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "bali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka sariyaw"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "ne ka sariyaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mannin"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "taa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a la"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka Shabatiw"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "ne ka Shabatiw"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "fin bila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "u ka jaw"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "u ka dusukun"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "taa"
+    }
+  ],
+  "timestamp": "2026-10-14T00:19:03.225939869Z",
+  "model": "glm-5.3"
+}

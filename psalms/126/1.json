@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lasugini",
+      "rationale": "שיבת: 'restoration\/returning of fortunes' (abstract) vs 'captives\/those-who-returned' (concrete, KJV 'captivity'); Bambara 'lasugini' keeps the abstract turning."
+    },
+    {
+      "kind": "substitution",
+      "subject": "san-siraw",
+      "rationale": "המעלות literally 'the ascents'; rendered as 'upward ways' for the pilgrimage-song title."
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Past marker supplied; Hebrew היינו is emphatic 'we were' without tense particle."
+    }
+  ],
+  "translation": "Dɔnkuma san-siraw la. Ni Yawe ye ⟨את⟩ Siyon ka lasugini segina, an ye ⟨tun⟩ i n'a fɔ mɔgɔ minnu bɛ dɛsiri.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/126\/1-4.1791941805210.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "dɔnkuma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "san-siraw"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "ni … segina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siyon ka lasugini"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "lasugini"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "an ye"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "i n'a fɔ dɛsiri-mɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:45.211543945Z",
+  "model": "glm-5.3"
+}

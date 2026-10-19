@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mɔgɔ (person)",
+      "rationale": "'אין פרק' is literally 'none tearing off'; Bambara needs 'mɔgɔ si' (no person) for the clause to read"
+    },
+    {
+      "kind": "crux",
+      "subject": "עבדים",
+      "rationale": "'servants\/slaves ruled over us' — taken as slaves now masters (reversal), or base men\/servants of foreigners; Bambara 'jonw' keeps the slave sense"
+    }
+  ],
+  "translation": "Jonw ye an kan masakɛli kɛ, mɔgɔ si tɛ yen min bɛ se ka an yɛlɛ bɔ u bolow na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9e4897c6c587e63c6fc9ff098eb02feddcb2cb6503c7cd2489c8e2ddd86242a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/5\/5-8.1791945053129.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "jonw"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ye an kan masakɛli kɛ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "an kan"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ka yɛlɛ bɔ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mɔgɔ si tɛ yen"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "u bolow na"
+    }
+  ],
+  "timestamp": "2026-10-14T02:30:53.130345992Z",
+  "model": "glm-5.3"
+}

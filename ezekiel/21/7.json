@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 21:7",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Ezekiel",
+      "rationale": "imperatives addressed to 'son of man', the prophet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "והטף",
+      "rationale": "literally 'drip' (speech distilling drop by drop) — rendered 'drip words toward', verb picture kept"
+    },
+    {
+      "kind": "addition",
+      "subject": "kuma",
+      "rationale": "object of dripping supplied; Hebrew הטף carries no explicit object"
+    }
+  ],
+  "translation": "Hadamaden, i ɲɛda bila Yerushalayim (Jerusalɛmu) kan, k'i kuma da ji miiri misekolo la, ka na nabi-kuma fɔ Izrayɛl (Izraeli) dugukolo kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9d32deb05e15fd65597d6b86865b491ffa1f3f5aa861ae629a0b080580be1424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/21\/5-8.1791937062886.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "שים",
+      "gloss": "bila"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i ɲɛda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu)"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "ka kuma da ji miiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "misekolo"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ka na nabi-kuma fɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrayɛl (Izraeli)"
+    }
+  ],
+  "timestamp": "2026-10-14T00:17:42.887150126Z",
+  "model": "glm-5.3"
+}

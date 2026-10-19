@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔn",
+      "rationale": "Aramaic יכל 'prevail, be able' rendered as 'win\/overcome'; plain 'prevail' has no single Bambara word"
+    },
+    {
+      "kind": "alternative",
+      "subject": "senumaw",
+      "rationale": "קדישין may be heavenly beings ('holy ones') rather than human saints; plural left open"
+    }
+  ],
+  "translation": "N y'a ye, karan min ye, o kɛra kɛli kɛ ni senumaw ye, ka kɔn u la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6869ac6c9fd439e4e9ed4e91c40ed17b7c1a35fc21164cbf2e504ca212384fb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/7\/21-22.1791951480720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "N y'a ye"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "tun"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "karan min"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "o"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kɛli kɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "senumaw"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "ka kɔn"
+    },
+    {
+      "surface": "להון",
+      "gloss": "u la"
+    }
+  ],
+  "timestamp": "2026-10-14T04:18:00.720532642Z",
+  "model": "glm-5.3"
+}

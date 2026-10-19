@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אִתָּךְ",
+      "rationale": "O ye daɲɛsurunba ye (ni i ye), a ye ⟨את⟩ DOM taamasiyɛn tɛ ye; a bɛ fɔ 'ni i ye' kuma kɔnɔ."
+    }
+  ],
+  "translation": "U ko a la ko: N'i de ye, an bɛna segin i ka mɔgɔw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "11699d63f16aad11cdd437e11517fa1be8299682567cebab23a9610f9943d4ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ruth\/1\/9-12.1791944699076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "u ko"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'i de ye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ni i ye",
+      "marks": "an — u bɛ fɔ ko an bɛna segin ni Nawemi ye"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "an bɛna segin"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "i ka mɔgɔw la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:24:59.077549493Z",
+  "model": "glm-5.3"
+}

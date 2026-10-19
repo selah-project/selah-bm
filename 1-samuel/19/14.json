@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "speaker of ותאמר is Mikal, supplied from context since Hebrew names no subject"
+    }
+  ],
+  "translation": "Sha-ul ye cidennw ci ka ⟨את⟩ Dawida ta, a ko: a bana don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/19\/13-16.1791930442711.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ye ... ci"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "cidennw"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ka ... ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "a bana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "don"
+    }
+  ],
+  "timestamp": "2026-10-13T22:27:22.713084151Z",
+  "model": "glm-5.3"
+}

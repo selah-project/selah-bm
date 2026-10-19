@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 19:11",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a ka⟩ \/ question framing",
+      "rationale": "Bambara requires framing particles for the rhetorical question; Hebrew has bare איך."
+    },
+    {
+      "kind": "you",
+      "subject": "to Pharaoh's counselors",
+      "rationale": "Second-person address to the wise men boasting to Pharaoh."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכמי\/עצה\/נבערה",
+      "rationale": "The wise ones' counsel has become brutish — root repetition of counsel (יעצי\/עצה\/יעץ) chains through vv. 11–12."
+    }
+  ],
+  "translation": "Tsɔan (Tanis) ni mɔgɔw ye balima-dɔnnibaliw ye; Firawuni ni nn-bɔbagaw ye nn-ko — a bɛ fɔlifɔli-ya. I bɛ se ka fɔ Firawuni ye ko: 'Ne ye nn-bɔbaw dan ye, ne ye kɔrɔlen masaw dan ye' i n'a fɔ ne yɛrɛ sɛbɛnna o cogo min?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "47530c4199bac5d775d2edccd5e9f5423491bf0c0560d1f4ff40a38fb5399c91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/19\/9-12.1791933745059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ninkɔrɔ"
+    },
+    {
+      "surface": "אולים",
+      "gloss": "balima-dɔnnibaliw"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kɛnɛmɔgɔw"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsɔan (Tanis)"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "nn-bɔbaw"
+    },
+    {
+      "surface": "יועצי",
+      "gloss": "nn-bɔbaga-ko-dilanw"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firawuni"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "nn-ko"
+    },
+    {
+      "surface": "נבערה",
+      "gloss": "bɛ fɔlifɔli-ya"
+    },
+    {
+      "surface": "איך",
+      "gloss": "i bɛ se ka"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firawuni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "nn-bɔbaw"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "masaw"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kɔrɔlen"
+    }
+  ],
+  "timestamp": "2026-10-13T23:22:25.067692100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 26:17",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האמרת",
+      "rationale": "Hiphil of אמר, only here and 26:18: 'avouch\/cause to promise' (KJV) vs 'proclaim\/declare' (BSB) — rendered 'wele' (declare)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i ka⟩",
+      "rationale": "Hebrew לך lacks a possessive pronoun; Bambara requires 'i ka Ala'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct address to Israel in the covenant-declaration liturgy."
+    }
+  ],
+  "translation": "I ye ⟨את⟩ Yawe wele don in na, ka kɛ ⟨i ka⟩ Ala ye, ani ka taa a siraw la, ani ka a sariyaw ni a lasigidenw ni a hukumuw mara, ani ka a kan mɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cf6b3f9646d291ccfc80b1051ac25a330f3281f7744b92bf839d189f61d679ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/26\/17-19.1791928135920.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "האמרת",
+      "gloss": "i ye … wele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don in na"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Ala ye"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "ani ka taa"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "a siraw la"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "ani ka mara"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "a sariyaw"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ani a lasigidenw"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ani a hukumuw"
+    },
+    {
+      "surface": "ולשמע",
+      "gloss": "ani ka mɛn"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "a kan"
+    }
+  ],
+  "timestamp": "2026-10-13T21:48:55.922547853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dusukun",
+      "rationale": "לבב is heart-as-innermost; Bambara dusukun is the body's heart, nearest fixed term."
+    },
+    {
+      "kind": "alternative",
+      "subject": "jussive",
+      "rationale": "Read as promise 'they shall eat' rather than wish 'let them eat'; Hebrew yiqtol allows both."
+    }
+  ],
+  "translation": "Sɔgɔmadenw bɛna dun, ka ɲagami; Yawe ɲininninew bɛna a ɲɛfɔ; aw ka dusukunw bɛna balo waati bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/22\/25-28.1791939830478.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "bɛna dun"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "sɔgɔmadenw"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ka ɲagami"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "bɛna a ɲɛfɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "a ɲininninew"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "bɛna balo"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "aw ka dusukunw"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "waati bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:50.479460444Z",
+  "model": "glm-5.3"
+}

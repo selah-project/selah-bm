@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "latigɛli-donw",
+      "rationale": "מועד ye 'waati min latigɛra' kɔrɔ; 'dɔnniyali-jaw' tɛ a lamini"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Heburukan tɛ copula sɔrɔ 'elu hem' kɔnɔ; Bamanankan ka kan ka a fàra"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kuma Isirayɛl denw ma",
+      "rationale": "weleli ni lamini min bɛ tugu Isirayɛl denw ma"
+    }
+  ],
+  "translation": "Kuma Isirayɛl (Yisraɛl) denw ma, i n'a fɔ u ye: Yawe ka latigɛli-donw, minnu ka kan aw wele ⟨את⟩ u ka kɛ senuma wele-jamaw ye, olu ye ⟨a⟩ ye ne ka latigɛli-donw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b3d0fc4e4072df08a2e8eaa075ad5aec8d392f95e273127b2ca8247fa846ee97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/23\/1-4.1791927065480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i n'a fɔ u ye"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "u"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "latigɛli-donw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "aw wele"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u (senuma wele-jamaw)"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "wele-jamaw"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ye ⟨a⟩ ye"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "ne ka latigɛli-donw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:31:05.481509830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 28:5",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew verb ויבחר carries no explicit subject pronoun; Bambara needs ⟨a⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלמה\/שלום",
+      "rationale": "Shelomoh echoes shalom (hɛrɛ), the man of peace chosen for the temple — sound link lost in Bambara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשבת",
+      "rationale": "literally 'to sit' (throne idiom) rendered 'ka jɔ' — to sit\/enthrone"
+    }
+  ],
+  "translation": "Ne denkɛw bɛɛ la — sabu Yawe ye denkɛw caman di ne ma — ⟨a⟩ ye Shelomo (Solomɔn) ne denkɛ minɛ ka jɔ Yawe ka masakɛya kunnasigi kan Israyel (Izirayɛl) sanfe.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "581094651e59083d473786f83d7141d6989c0fff4fe95484688eff0e0996a9be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/28\/5-8.1791948510530.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ne denkɛw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "caman"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "minɛ"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "Shelomo (Solomɔn)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ne denkɛ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ka jɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kunnasigi"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "masakɛya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanfe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel (Izirayɛl)"
+    }
+  ],
+  "timestamp": "2026-10-14T03:28:30.530792409Z",
+  "model": "glm-5.3"
+}

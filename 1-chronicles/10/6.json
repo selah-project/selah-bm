@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "so",
+      "rationale": "ביתו here means Saul's household\/dynasty, not his physical house"
+    },
+    {
+      "kind": "measurement",
+      "subject": "saba",
+      "rationale": "the count of Saul's sons is stated: three"
+    }
+  ],
+  "translation": "Saul sa ni a denkɛ sabanniw, a so bɛɛ, u sa ɲɔgɔn ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "991b7ec85408e7da5b96635d84220b56b475265c6e0131cd838c9295b8af7a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/10\/5-8.1791947813516.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "saba"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a denkɛw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a so"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɲɔgɔn ye"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "u sa"
+    }
+  ],
+  "timestamp": "2026-10-14T03:16:53.517324870Z",
+  "model": "glm-5.3"
+}

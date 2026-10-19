@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 1:7",
+  "book": "nahum",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ye … ye",
+      "rationale": "Hebrew is noun-phrase only 'good YHWH for-stronghold'; Bambara requires a copula"
+    },
+    {
+      "kind": "crux",
+      "subject": "וידע",
+      "rationale": "'he knows' — knowers' refuge vs cares for (BSB); Bambara keeps literal 'a dɔn'"
+    }
+  ],
+  "translation": "Yawe ka ɲi, a ye funtɛso ye gɛlɛya don kɔnɔ, k'a dɔn mɔgɔw minnu bɛ a la bila ⟨ɲɔgɔn na⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2753e24e13d4cfac7b4006ad05314ad699fbf76baec817c473e4a5a738a79613",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nahum\/1\/5-8.1791938886353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למעוז",
+      "gloss": "a ye funtɛso ye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don kɔnɔ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "gɛlɛya"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "k'a dɔn"
+    },
+    {
+      "surface": "חסי",
+      "gloss": "minnu bɛ a la bila"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ɲɔgɔn na⟩ a la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:48:06.354281340Z",
+  "model": "glm-5.3"
+}

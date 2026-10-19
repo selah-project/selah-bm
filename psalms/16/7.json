@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kininiw",
+      "rationale": "כליות literally kidneys, interior self; many versions soften to 'heart' or 'conscience'"
+    },
+    {
+      "kind": "addition",
+      "subject": "di",
+      "rationale": "ברך as blessing-giving needs 'di' (give) in Bambara verb frame"
+    }
+  ],
+  "translation": "N bɛna ⟨את⟩ Yawe duba di, min n ma ɲɛsɔn di; hali su kɔnɔ n ka kininiw bɛ n kalan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/16\/5-8.1791939689061.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "duba di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "n ma ɲɛsɔn di"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hali"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "su kɔnɔ"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "bɛ n kalan"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "n ka kininiw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:29.062180770Z",
+  "model": "glm-5.3"
+}

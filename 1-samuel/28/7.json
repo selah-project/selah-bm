@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 28:7",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ob",
+      "rationale": "אוב: 'mumble\/bottle-skin' → necromancer's spirit; versions split between 'familiar spirit' (KJV), 'ghost' (JPS), 'medium' (BSB) — kept as Hebrew marker 'ob' with first-mention gloss."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ob-tigi",
+      "rationale": "בעלת אוב is 'mistress of an ob' — 'ob-tigi muso' keeps the possessive construction rather than a role-word."
+    }
+  ],
+  "translation": "Shaul ko a ka surunw ma: “Aw ye ne ye muso min ye ob-tigi (jinɛfɛ-welebaga) ɲinini, walasa ne bɛna taa a fɛ ka ɲinɛ a fɛ.” A ka surunw ko a ye: “Yala, ob-tigi muso dɔ bɛ En-Dor (Endor).”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "93e13a5bc7758e50f368d55c5fe0ecf8fa3d9ee9af084a736af4b4234a53a784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/28\/5-8.1791930766571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "a ka surunw ma"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "aw ye … ɲinini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "muso"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "-tigi"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "ob"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ne bɛna taa"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "ואדרשה",
+      "gloss": "ne bɛna ɲinɛ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u ko"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a ka surunw"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yala"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "muso"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "-tigi"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "ob"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor (Endor)"
+    }
+  ],
+  "timestamp": "2026-10-13T22:32:46.572970697Z",
+  "model": "glm-5.3"
+}

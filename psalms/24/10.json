@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tsebaot",
+      "rationale": "צבאות (hosts\/armies) kept as the name-compound Tsebaot per the Name discipline, not rendered 'serew tigi'"
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "Musical pause marker kept as the fixed term Selah, untranslated"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוא ... הוא",
+      "rationale": "Emphatic repeated pronoun frames the answer: 'He — Yawe Tsebaot — He is the King of glory'; Bambara repeats a de"
+    },
+    {
+      "kind": "you",
+      "subject": "to the gates",
+      "rationale": "The question continues the direct liturgical exchange begun in v.8"
+    }
+  ],
+  "translation": "Min ye nin Kabu-Masakɛ ye? Yawe Tsebaot — a de ye Kabu-Masakɛ ye. Selah.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/24\/9-10.1791939820711.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Masakɛ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a de"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Masakɛ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kabu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:40.711979567Z",
+  "model": "glm-5.3"
+}

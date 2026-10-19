@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mɔgɔ bɛ se",
+      "rationale": "Hebrew has only 'that one says'; Bamanankan needs an actor for the saying."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חדש",
+      "rationale": "'New' echoes v9's fɛn kura si tɛ yen — the imagined claim Qoheleth immediately refutes."
+    }
+  ],
+  "translation": "Fɛn dɔ bɛ yen mɔgɔ bɛ se ka fɔ ko: Y'e o ye, o kura de ye! A kɔnɔ ni kɛra, kan kɔrɔw la, minnu kɛra anw bilen ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "27f173a84f9a1ec94f8ebd53284a036761940cecce59e8b5ebee17c31b58bc0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/1\/9-12.1791945057119.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "bɛ yen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fɛn dɔ"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "mɔgɔ bɛ se ka fɔ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "y'e"
+    },
+    {
+      "surface": "זה",
+      "gloss": "o"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kura"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o de ye"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kɔnɔ ni"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "kan kɔrɔw la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "anw bilen ma"
+    }
+  ],
+  "timestamp": "2026-10-14T02:30:57.120345454Z",
+  "model": "glm-5.3"
+}

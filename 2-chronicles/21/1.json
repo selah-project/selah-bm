@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nana zoo a bamaw nɔ ma",
+      "rationale": "וישכב עם אבתיו (literally 'lay down with his fathers') is Hebrew idiom for dying; rendered 'sa' implied by context"
+    },
+    {
+      "kind": "alternative",
+      "subject": "a denkɛ Yehoram",
+      "rationale": "Hebrew order is 'Jehoram his son' — Bambara places 'a denkɛ' before the name"
+    }
+  ],
+  "translation": "Yehoshafat (Yehoshafat) nana zoo a bamaw nɔ ma, a kebura ni a bamaw ye Dawid (Dawuda) dugu kɔnɔ, a denkɛ Yehoram ko masaya a nɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/21\/1-4.1791949318081.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nana zoo"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "a bamaw"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a kebura"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "a bamaw"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dugu kɔnɔ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ko masaya"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a nɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:41:58.082699515Z",
+  "model": "glm-5.3"
+}

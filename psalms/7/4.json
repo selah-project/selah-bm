@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ne kpalanw la",
+      "rationale": "בכפי kɔrɔ literal ye «ne kpalanw kɔnɔ» — Bamanankan «bolo la» dɔgɔya ni a ye; kpalan de b'a la."
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Kelen-kelen ladamulen wele Yawe ma — dangatigɛli-ka-lɔn (oath) daminɛ."
+    }
+  ],
+  "translation": "Yawe, ne ka Elohim, ni ne ye o kɛ wa, ni jurumu don ne kpalanw la wa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/7\/1-4.1791939566782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ne ka Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni ... wa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ne ye o kɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "o"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni ... wa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "don"
+    },
+    {
+      "surface": "עול",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "ne kpalanw la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:59:26.782984235Z",
+  "model": "glm-5.3"
+}

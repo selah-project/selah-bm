@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "micah 7:17",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Hebrew preposition folded into the verb phrase; no separate Bambara word"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממסגרתיהם",
+      "rationale": "'their enclosures\/fortresses' vs 'their holes' — I kept a neutral 'saraw' (dens\/enclosures)"
+    },
+    {
+      "kind": "you",
+      "subject": "ממך",
+      "rationale": "sudden shift to second person addressing Yawe"
+    }
+  ],
+  "translation": "U bɛna buguri lafiŋɛ i n'a fɔ sa ye; i n'a fɔ dugukolo kunfiɲɛri-baganw ye, u bɛna kasa-kasa u saraw na; u bɛna Yawe, an ka Elohim, siran, ka siran ⟨i⟩ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a416de0f5096386a423ccfb9b0fb2936443c559291f8bd99291ca4d6b3e549b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/7\/17-20.1791938900042.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילחכו",
+      "gloss": "u bɛna lafiŋɛ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "buguri"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "i n'a fɔ sa ye"
+    },
+    {
+      "surface": "כזחלי",
+      "gloss": "i n'a fɔ kunfiɲɛri-baganw ye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "u bɛna kasa-kasa"
+    },
+    {
+      "surface": "ממסגרתיהם",
+      "gloss": "u saraw na"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "יפחדו",
+      "gloss": "u bɛna siran"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ka siran"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "⟨i⟩ la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:48:20.042888246Z",
+  "model": "glm-5.3"
+}

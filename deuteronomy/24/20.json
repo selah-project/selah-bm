@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tugu a fɛ ka ɲini",
+      "rationale": "פאר 'to gleam\/go over' with אחריך: 'go over the boughs again' (KJV) vs 'examine the branch behind you' (YLT); rendered as 'search again behind you'."
+    },
+    {
+      "kind": "addition",
+      "subject": "de ka o ye",
+      "rationale": "Bambara requires a possessive clause for Hebrew's bare יהיה plus lamed."
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Commandment addressed directly to the olive grower."
+    }
+  ],
+  "translation": "Ni i b'i ka zɛtɛnw bɔ a nɔ na, i kana tugu a fɛ ka ɲini; dunan, denbɛn ani kɔngɔbaga de ka o ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a4db4aa2f796a9a3589c3c7c90ecb070fffdc8208893bc0d8dbacd8bba3313b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/24\/17-20.1791928206326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "i b'i ka zɛtɛnw bɔ a nɔ na"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "i ka zɛtɛnw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "tugu a fɛ ka ɲini"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "a bɛ i kɔfɛ"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "dunan"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "denbɛn"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "ani kɔngɔbaga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "de ka o ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:50:06.329412795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 16:21",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lasabati kɛ ni Eloa ye",
+      "rationale": "וכח: 'plead for a man with God' (KJV, third party arbiter) vs 'a man pleading with God' (BSB, man as party); YLT reads it as statement, not wish"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tɔgɔma",
+      "rationale": "רע literally 'associate\/companion', rendered with Bambara companion-word"
+    },
+    {
+      "kind": "addition",
+      "subject": "kena",
+      "rationale": "Hebrew has no optative verb; wish-context supplied (as in existing renderings 'Oh that...')"
+    }
+  ],
+  "translation": "Mɔgɔ kena lasabati kɛ ni Eloa ye, hadamaden fana ka lasabati kɛ ni a tɔgɔma ye!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e65b250617846323796a3211c8efede72f9618b05f9969b0d17a71fb713c7937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/16\/21-22.1791943588291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוכח",
+      "gloss": "ka lasabati kɛ"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "mɔgɔ kama"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "hadamaden fana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ni a tɔgɔma ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:06:28.292241504Z",
+  "model": "glm-5.3"
+}

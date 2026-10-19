@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minɛw",
+      "rationale": "מעי literally the intestines\/inward parts; rendered 'my insides' rather than 'heart'"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim i ye",
+      "rationale": "direct address to the psalmist's God"
+    }
+  ],
+  "translation": "Ka kɛ i ka bolo ye, Elohim i ye, n ye kanuya kɛ; i ka Tora bɛ n ka minɛw ⟨kɔnɔ⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/40\/9-12.1791940128649.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "i ka bolo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim i ye"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "n ye kanuya kɛ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "i ka Tora"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "n ka minɛw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:48.650003240Z",
+  "model": "glm-5.3"
+}

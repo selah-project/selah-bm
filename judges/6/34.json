@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 6:34",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "laso",
+      "rationale": "לבש 'clothed' kept literally — the spirit puts Gideon on like a garment, not merely 'came upon'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wele",
+      "rationale": "ויזעק 'cried out as a herald' rendered 'wele' (call); 'rally' would lose the shout"
+    },
+    {
+      "kind": "you",
+      "subject": "Abi-ezer",
+      "rationale": "clan-summons: the horn-call addresses the clan of Abiezer to gather behind Gideon"
+    }
+  ],
+  "translation": "Yawe ka fiɲɛ ye ⟨את⟩ Gidɔn (Gideon) laso; a ye shofar (kɔngɔ min bɛ da) da, ka Abi-ezer wele a nɔ fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f400795a03e4f0d40d078b59238be634684544a97733b3a091a8f48c2c10eca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/6\/33-36.1791929304267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "laso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gidɔn"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidɔn"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "da"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "wele"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abi-ezer"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "a nɔ fɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:08:24.270124186Z",
+  "model": "glm-5.3"
+}

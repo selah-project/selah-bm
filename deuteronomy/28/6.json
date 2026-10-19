@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ",
+      "rationale": "Hebrew participle without copula, twice"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבאך\/בצאתך",
+      "rationale": "come-in\/go-out merism framing all activity; chiastic repetition of ברוך אתה"
+    }
+  ],
+  "translation": "Duba ⟨bɛ⟩ i kan ni i don na, duba ⟨bɛ⟩ i kan ni i bɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7ba576684ab76643af980a6ddeaeadd1e8f5e6e4078ac7f2ca712657c8f30fac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/28\/5-8.1791928264117.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "duba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ni i don na"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ni duba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ni i bɔ na"
+    }
+  ],
+  "timestamp": "2026-10-13T21:51:04.169724379Z",
+  "model": "glm-5.3"
+}

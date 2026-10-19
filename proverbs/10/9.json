@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הולך\/ילך",
+      "rationale": "A 'walk\/will-walk' pair in one line — a walking verb used twice, the repetition lost in Bambara's single 'taa'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יודע → yira",
+      "rationale": "Hebrew 'shall be known' rendered 'shall be revealed'; Bambara 'dɔn' alone would read as mere knowing, not exposure."
+    }
+  ],
+  "translation": "Min bɛ taa ni ninɛ ye, a bɛ taa jiɲɛ la; nka min bɛ a siraw wɔgɔtɔ, a bɛna yira.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/10\/9-12.1791942371689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "min bɛ taa"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "ni ninɛ ye"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "a bɛ taa"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "jiɲɛ la"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "nka min bɛ ... wɔgɔtɔ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "a siraw"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "a bɛna yira"
+    }
+  ],
+  "timestamp": "2026-10-14T01:46:11.690456202Z",
+  "model": "glm-5.3"
+}

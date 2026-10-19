@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אוי נא לי",
+      "rationale": "Hebrew lament-cry 'Woe-now-to-me' rendered as Bambara cry 'Awiya, ne bɛ nin'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hɛrɛ",
+      "rationale": "מנוחה is rest\/repose; hɛrɛ (peace) carries the nearest sense in Bambara."
+    }
+  ],
+  "translation": "I y'a fɔra ko: Awiya, ne bɛ nin, sabu Yawe ye ban fara ne tusu kan; ne kpɛlɛnna ne kunbɛn-ciyali la, hɛrɛ de ne ma ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f8a590235eed7de6e5e90bacf80bb1d69cba08f8c48ea50a904a68d81982438b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/45\/1-4.1791936184732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "i y'a fɔra"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Awiya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "fara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "ban"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "ne tusu"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ne kpɛlɛnna"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "ne kunbɛn-ciyali la"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ne ... ta"
+    }
+  ],
+  "timestamp": "2026-10-14T00:03:04.733376158Z",
+  "model": "glm-5.3"
+}

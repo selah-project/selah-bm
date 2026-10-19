@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וְעָנָה",
+      "rationale": "'answered\/testified to his face' (KJV\/JPS) vs 'humbled' (YLT, from ענה II); I follow the testify reading."
+    },
+    {
+      "kind": "elision",
+      "subject": "אֵל",
+      "rationale": "preposition אל folded into 'segin ... kɔ'; no standalone word."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גָּאוֹן ... בְּפָנָיו",
+      "rationale": "pride testifying 'to his face' is a personification; the pointed courtroom image is kept literal."
+    }
+  ],
+  "translation": "Yisraɛli ka jɔnjɔn ye seere ye a ɲɛda ye; nka u ma segin Yawe u Elohim kɔ, ani u ma a ɲini o bɛɛ kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "55dbc5decd1db779089d2671c66891a9b63af9bfede3c5436f0c10a8ec8a276b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/7\/10-11.1791951012516.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ye seere ye"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "jɔnjɔn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛli"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "a ɲɛda ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka u ma"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "segin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "u Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani u ma"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "a ɲini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "o bɛɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:10:12.516718334Z",
+  "model": "glm-5.3"
+}

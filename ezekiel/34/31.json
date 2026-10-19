@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 34:31",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula required; Hebrew has no verb between hadamaden and atem."
+    },
+    {
+      "kind": "you",
+      "subject": "anw",
+      "rationale": "direct address to the flock, the people of Israel."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צאן\/מרעית",
+      "rationale": "shepherd-chapter closes with flock-and-pasture pairing; repetition of צאן keeps the metaphor explicit."
+    }
+  ],
+  "translation": "Anw ye ne ka sagaw ye, ne ka nakɔ sagaw ye, hadamadenw ye anw ⟨ye⟩; ne ye anw Ala ye, Yawe Adonay kuma ko.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "90c6e1b91d0bdf78768a7abc01dced1d94d35a526e78298aa63217f9291f427a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/34\/29-31.1791937614911.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "anw"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "ne ka sagaw"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sagaw"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "ne ka nakɔ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamadenw"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anw"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "anw Ala"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T00:26:54.912901247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jisiraw",
+      "rationale": "נחלים is a winter-torrent \/ narrow valley; Bambara takes 'stream-roads', losing the dry-season emptiness"
+    }
+  ],
+  "translation": "Min bɛ bajiw ci jisiraw kɔnɔ, kuluw cɛ u bɛ taama.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/104\/9-12.1791941243707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "min bɛ … ci"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "bajiw"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "jisiraw kɔnɔ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kuluw"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "bɛ taama"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:23.708257733Z",
+  "model": "glm-5.3"
+}

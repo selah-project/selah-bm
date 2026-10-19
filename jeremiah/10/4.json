@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפיק",
+      "rationale": "verb from פוק 'waver\/topple': 'that it move not' (KJV) vs 'that it fall not' (Geneva) vs 'it doth not stumble' (YLT); rendered as 'not totter'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sankolo ni masmɛrɛw",
+      "rationale": "idiomatic structure: instrument phrases fronted as Hebrew does, Bambara keeps ni…ni frame"
+    }
+  ],
+  "translation": "Ni warigwɛ ni sanu, u bɛ a ɲɛfɔ; ni masmɛrɛw ni taabolo, u bɛ a lasago, walasa a tɛ na ka ɲagami.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/10\/1-4.1791935213669.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "u bɛ a ɲɛfɔ"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "masmɛrɛw"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "taabolo"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "u bɛ a lasago"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "walasa a tɛ"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "na ka ɲagami"
+    }
+  ],
+  "timestamp": "2026-10-13T23:46:53.671265289Z",
+  "model": "glm-5.3"
+}

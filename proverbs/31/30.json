@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החן",
+      "gloss-target": null,
+      "rationale": "'grace\/charm\/favor' — versions split between 'favor', 'charm', 'grace'; rendered nyɛnama (loveliness)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fɛn dabolen",
+      "rationale": "הבל is 'vapor\/breath' (as in Ecclesiastes) — rendered as 'empty thing' rather than the literal 'breath'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היא תתהלל",
+      "rationale": "Emphatic pronoun plus Pual of הלל — the same root returns in v.31; the 'praise' word brackets the poem's close."
+    }
+  ],
+  "translation": "Nyɛnama ye fitama ye, jɔɔli ye fɛn dabolen ye; muso min bɛ Yawe siran, o de bɛna kabako sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "07edb7f87577324bea021f95e54fa2a37428de599886e4ee14f692a189de3177",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/31\/29-31.1791943130503.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "fitama"
+    },
+    {
+      "surface": "החן",
+      "gloss": "nyɛnama"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "fɛn dabolen"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "jɔɔli"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "muso"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "siran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o de"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "bɛna kabako sɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:58:50.504433082Z",
+  "model": "glm-5.3"
+}

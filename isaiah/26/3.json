@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום שלום",
+      "rationale": "doubled shalom, 'peace, peace'; repetition kept literally"
+    },
+    {
+      "kind": "addition",
+      "subject": "Yawe \/ i",
+      "rationale": "second-person pronoun supplied where Hebrew verb implies God as subject"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hakili",
+      "rationale": "יצר is 'formed thing\/inner disposition', rendered hakili (mind)"
+    }
+  ],
+  "translation": "Hakili min tilen Yawe ⟨i⟩ kan, i bɛ hɛrɛ, hɛrɛ mara ⟨a la⟩, sabu a tila i la fidili.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/26\/1-4.1791933934728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "hakili"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "tilen"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "i bɛ … mara"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "fidili"
+    }
+  ],
+  "timestamp": "2026-10-13T23:25:34.732056114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o ye … ye",
+      "rationale": "Hebrew ellipsis: ordinals alone; Bambara needs a small copula phrase"
+    }
+  ],
+  "translation": "Yishay (Yese) ye ⟨את⟩ a bɛɛkɔrɔden ⟨את⟩ Eliab da; Abinadab, o ye filanan ye; Shima (Sima), o ye sabanan ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2673d87b0643082370fcb0303a3351e8e5caaff3791c7bbd9790288d244c2318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/2\/13-16.1791947382192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "Yishay (Yese)"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ye … da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bɛɛkɔrɔden"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "a bɛɛkɔrɔden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "Abinadab"
+    },
+    {
+      "surface": "השני",
+      "gloss": "filanan"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "Shima (Sima)"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sabanan"
+    }
+  ],
+  "timestamp": "2026-10-14T03:09:42.194267994Z",
+  "model": "glm-5.3"
+}

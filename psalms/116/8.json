@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ni\/ɲɛ\/sen",
+      "rationale": "three-part parallelism: soul from death, eye from tears, foot from falling — same verb חלצת governs all three"
+    },
+    {
+      "kind": "substitution",
+      "subject": "binli",
+      "rationale": "מדחי literally 'a push' causing a fall, rendered 'falling'"
+    }
+  ],
+  "translation": "Sabu i ye ne ka ni bɔ sayala, ⟨את⟩ ne ka ɲɛ bɔ jedili la, ⟨את⟩ ne ka sen bō binli la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bf679b867d8ce0507218fe155fd981818a59f80f102dcfea0512928489773723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/116\/5-8.1791941549252.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "bō"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ka ni"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "sayala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka ɲɛ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ne ka ɲɛ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bō … la"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "jedili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka sen"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ne ka sen"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "binli"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:29.253290886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 10:14",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבער",
+      "rationale": "same root 'burn' and 'become brutish'; KJV\/ASV 'brutish' vs 'burned up' — kept the brutish sense as balen."
+    },
+    {
+      "kind": "crux",
+      "subject": "נסכו",
+      "rationale": "'his molten image' vs 'his libation' — both senses of נסך; cast-image kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוח here 'breath' — the idols have no breath in them; fiɲɛ covers wind\/breath."
+    }
+  ],
+  "translation": "Hadamaden bɛɛ ye balen ye dɔnni la; nɛgɛbilibaga bɛɛ bɛ yɛrɛ ma fidɔ bata-fɛnw (bensilidenw) la; sabu a bilibagen ye firikyalen ye, fiɲɛ si tɛ u kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/10\/13-16.1791935164039.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "ye balen ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "dɔnni la"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "bɛ yɛrɛ ma fidɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "nɛgɛbilibaga"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "bata-fɛnw la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "firikyalen"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "a bilibagen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:46:04.041221590Z",
+  "model": "glm-5.3"
+}

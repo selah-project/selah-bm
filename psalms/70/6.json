@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bambara copula supplied; Hebrew has no verb in 'my help and my deliverer are you'"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim, Yawe",
+      "rationale": "Direct plea addressed to Elohim and Yawe, the psalmist's cry for haste"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תאחר",
+      "rationale": "'Be behind\/loiter' rendered as Bambara 'don't stay behind' to keep the picture of lagging"
+    }
+  ],
+  "translation": "Nka ne ye miskin ye ani mɔgɔ min ma fɛn si; Elohim, k'i yoliya ne fɛ; i de ⟨ye⟩ ne dɛmɛtigi ⟨ye⟩ ani ne yɛlɛmabagi; Yawe, kana to a kɔfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/70\/5-6.1791940525010.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nka ne"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ani mɔgɔ min ma fɛn si"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "k'i yoliya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne fɛ"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ne dɛmɛtigi"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ani ne yɛlɛmabagi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "kana to a kɔfɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:15:25.011254356Z",
+  "model": "glm-5.3"
+}

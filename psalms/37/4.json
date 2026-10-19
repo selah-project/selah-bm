@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔnɔfiya sɔrɔ",
+      "rationale": "התענג ka kɔrɔ ye 'ka wunjuya' ye (softness\/luxury) — 'delight' ye nɔgɔyali ye"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperative",
+      "rationale": "kumasen in bɛ kalanbagaw wele i n'a fɔ 37:3 ni 37:5 kumasenw"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ni min bɛna",
+      "rationale": "משאלת fɔcogo fila: 'ni min bɛna' walima 'i niw min bɛ i dusukun na'"
+    }
+  ],
+  "translation": "I na kɔnɔfiya sɔrɔ Yawe la, wa a bɛna i dusukun ni min bɛna, o di ⟨i ma⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "33c5ee800858bc043bc012fd1198a66741861641b1d8d3bd9ab58b18a04b9c5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/4-4.1791951137307.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "na kɔnɔfiya sɔrɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "bɛna … di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ma"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "ni min bɛna"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dusukun"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:17.308308303Z",
+  "model": "glm-5.3"
+}

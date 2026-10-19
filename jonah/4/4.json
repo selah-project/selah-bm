@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ההיטב חרה לך",
+      "rationale": "'Is it well that it burns to you?' — question (KJV, JPS) or perhaps statement; YLT reads differently ('is doing good displeasing to thee?')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dusukun ɲɔgɔn",
+      "rationale": "חרה literally 'to burn' — anger as burning heat."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jonah",
+      "rationale": "Yawe's direct question addresses Jonah personally."
+    }
+  ],
+  "translation": "Yawe ko: yala a bɛ di i ko i dusukun ɲɔgɔn wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bbeda3bd2ad668cc58b89b610bf315bc141b08f6c66f7a62f708ca6adcc8bf9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jonah\/4\/1-4.1791938690225.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "yala a bɛ di i ko … wa"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "dusukun ɲɔgɔn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-10-14T00:44:50.227124649Z",
+  "model": "glm-5.3"
+}

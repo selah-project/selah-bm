@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "n ka a ɲini",
+      "rationale": "תפלה 'ɲinikɛli, Ala-fɔli' — Bamanankan 'a ɲini' ka lasɔrɔ, nka tanaki-daɲɛ tɛ yen"
+    },
+    {
+      "kind": "idiom",
+      "subject": "i tulo di",
+      "rationale": "האזין 'ka tulo lase ka daminɛ' — Bamanankan fɛn-dilan 'tulo di' ka bɛn a la"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע \/ האזינה",
+      "rationale": "kuma-fila-ka-sɔrɔ: 'mɛn' ni 'tulo di' — kelen-kelen bɛɛ bɛ fɔ a yɛrɛ kɔnɔ, sira-nsa don kele la"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "kɛlɛ-kɔrɔ kuma bɛ fɔ Elohim ma a yɛrɛ ma"
+    }
+  ],
+  "translation": "Elohim, n ka a ɲini mɛn; i tulo di n da kumaw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/54\/1-4.1791940344286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "n ka a ɲini"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "i tulo di"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "… ma"
+    },
+    {
+      "surface": "פי",
+      "gloss": "n da kumaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:24.287353564Z",
+  "model": "glm-5.3"
+}

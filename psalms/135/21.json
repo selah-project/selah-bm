@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a bɛ",
+      "rationale": "Hebrew pair construct 'from Zion who dwells' lacks Bambara preposition\/copula support, supplied locative 'a bɛ … la'"
+    },
+    {
+      "kind": "elision",
+      "subject": "הללו יה",
+      "rationale": "rendered 'aw ka Ya dugaw' (aw ka = plural imperative), the liturgical Hallelujah form unpacked into Bambara words"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "closing summons addressed to the congregation"
+    }
+  ],
+  "translation": "Yawe dubaralen don ⟨a bɛ⟩ Tsiyon la, min bɛ Yerushalayim sigiden. Aw ka Ya dugaw!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "10072aa7bab679e1cb7defa042c8456358e8ab948dd74b8e78f7f79bbbec6d4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/135\/21-21.1791941815787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "dubaralen don"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyon la"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "min bɛ sigiden"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "aw ka dugaw"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:55.787941693Z",
+  "model": "glm-5.3"
+}

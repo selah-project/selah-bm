@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Pronoun for Yawe supplied before 'kuma' (word), since Bambara possessive without an overt possessor is unclear here."
+    }
+  ],
+  "translation": "U yɛ dugukolo min na ninyɔrɔ ye, u y'a bali, u ma ⟨a⟩ kuma la nin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "150c162f992e3756c3ed160d70e20c0e9b3694ea8e6a31a8b8e4dfe9f591c1d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/106\/21-24.1791941286748.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "u y'a bali"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "ninyɔrɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "la nin"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "a kuma la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:28:06.749658044Z",
+  "model": "glm-5.3"
+}

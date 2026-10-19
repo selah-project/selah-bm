@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Bamanankan ka kan ka jira-kan sɔrɔ; Heburukan ma a sɛbɛn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "niw",
+      "rationale": "נפשות ye niw ye (ninakili-jagosira), a tɛ 'misiiri' ye n'a ye kuma-fɛfɛ ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "min bɛ niw ta",
+      "rationale": "לוקח נפשות: 'ka niw ta' (ka mɔgɔw fanga) walima 'ka niw lasɔrɔ' (donya-fɔcogo); an ta gofeman dɔrɔn"
+    }
+  ],
+  "translation": "Nsematigi ka jiriden ye ⟨a⟩ ni-ni jiri ye; min bɛ niw ta, o ye dɔnniyatigi ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "738265098498f9a90c008ce173b3bcf8c2ec1e374fdb0f5954fe98d77e23d816",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/11\/29-31.1791942461035.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "jiriden"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nsematigi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ni-ni"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "min bɛ … ta"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "niw"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "dɔnniyatigi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:47:41.036665208Z",
+  "model": "glm-5.3"
+}

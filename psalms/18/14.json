@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברד וגחלי אש",
+      "rationale": "refrain repeated from v13, chiastic thunder-voice-frame around it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elyon",
+      "rationale": "ו עליון is a title 'the Most High', transliterated per name rules"
+    }
+  ],
+  "translation": "Yawe ye tasuma-ka-ɲagamili bɔ sankolow la, Elyon da a kan — sankolo-nɛn ni tasuma koɛnw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/13-16.1791939771558.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "ɲagamili bɔ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sankolow la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "sankolo-nɛn"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ni koɛnw"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:51.559148624Z",
+  "model": "glm-5.3"
+}

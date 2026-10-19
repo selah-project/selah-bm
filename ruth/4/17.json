@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 4:17",
+  "book": "ruth",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka kɛnɛmɔgɔmusow … a bɛɛnmɔgɔw",
+      "rationale": "Bamanankan needs a subject before the verb; the suffix -nah makes the Hebrew subject explicit"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עובד",
+      "rationale": "Obed's name means 'the one who serves\/worksw' — the meaning is dormant here but active in the genealogy's shape"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "the verse seals Ruth's story with a name-list linking Obed to Jesse and David"
+    }
+  ],
+  "translation": "Ka kɛnɛmɔgɔmusow (a bɛɛnmɔgɔw) ye a tɔgɔ da ko: Denkɛdora na Naɔmi ma; u ye a tɔgɔ da Obed; ale ye Yishi fa ye, Dawuda (Dawud) fa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0485f68bb8bde4fd6a559b3fda2b3b05d59b3c903ac507f2bd036d9913ed98b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ruth\/4\/17-20.1791944824022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקראנה",
+      "gloss": "u ye … tɔgɔ da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a"
+    },
+    {
+      "surface": "השכנות",
+      "gloss": "kɛnɛmɔgɔmusow"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dɔra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "לנעמי",
+      "gloss": "Naɔmi ma"
+    },
+    {
+      "surface": "ותקראנה",
+      "gloss": "u ye … da"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a tɔgɔ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    }
+  ],
+  "timestamp": "2026-10-14T02:27:04.025282349Z",
+  "model": "glm-5.3"
+}

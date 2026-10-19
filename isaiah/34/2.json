@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "החרימם",
+      "rationale": "חרם is ban\/devotion-to-destruction, not simple killing; Bambara dangatigɛli keeps the devoted-to-destruction shade"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לטבח",
+      "rationale": "slaughter imagery; Bambara bɔli keeps the butchered-meat picture"
+    }
+  ],
+  "translation": "Sabu Yawe ka kɔnɔdon bɛ siya bɛɛ kan, a ka sansun bɛ ⟨את⟩ u ka soɔkunw bɛɛ kan; a y'u kɛ dangatigɛli ye, a y'u di ⟨את⟩ bɔli ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d8f45b3900e259ba86a508dc047b78886e00c0c8918568f5d218f775186c69f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/34\/1-4.1791934171396.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kɔnɔdon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "bɛ … kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "sansun"
+    },
+    {
+      "surface": "על",
+      "gloss": "bɛ … kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "u ka soɔkunw"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "a y'u kɛ dangatigɛli ye"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "a y'u di"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "bɔli ma"
+    }
+  ],
+  "timestamp": "2026-10-13T23:29:31.398236711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פדם",
+      "rationale": "'He ransomed them' — root means sever\/ransom; Bambara yamarasa (redeem\/release) keeps the ransom sense."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צר",
+      "rationale": "'Adversary' — literally 'narrow one \/ tight place'; rendered with the common 'enemy\/ɲɛtɔgɔ' rather than the spatial picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Object pronoun 'them' supplied: Hebrew participle implies the redeemed ones without stating them."
+    }
+  ],
+  "translation": "U ma ⟨את⟩ a bolo mɛn, don min na a ye u yamarasa u ka ɲɛtɔgɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/41-44.1791940780313.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "u ma … mɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bolo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don min na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "a ye u yamarasa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "u ka … la"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɲɛtɔgɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:40.314489743Z",
+  "model": "glm-5.3"
+}

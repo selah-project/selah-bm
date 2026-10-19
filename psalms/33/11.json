@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ",
+      "rationale": "Bamanankan ka wajibi ka bɛn-dɔnni sɛbɛn, Heburukan ma min sɛbɛn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dusukun",
+      "rationale": "לב kɔrɔ ye dusukun ye n'a fɔ miiri-sigi-yɔrɔ ye, tɛ 'heart' laada kɔrɔ ye ko bɛɛ"
+    }
+  ],
+  "translation": "Yawe ka lasigi bɛ jɔ bamɛmɛ bɛɛ la, a dusukun ka miiriw dɔrɔ ni dɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2cb67cf099fe60ea1bf1bf3356000e8671c1375dddb0a6477de9fe5aa26cb945",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/33\/11-12.1791951157517.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "lasigi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bamɛmɛ bɛɛ la"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "bɛ jɔ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "miiriw"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "a dusukun"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dɔrɔ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ni dɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:37.517957877Z",
+  "model": "glm-5.3"
+}

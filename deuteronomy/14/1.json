@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קרחה",
+      "rationale": "kun-balo (kun-balo) — Hebrew 'baldness', an act of mourning-gashing, not a state"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בין עיניכם",
+      "rationale": "'between your eyes' = forehead; rendered 'aw ɲɛ sira' (path between your eyes)"
+    },
+    {
+      "kind": "you",
+      "subject": "Israel",
+      "rationale": "law addressed directly to Israel as sons of Yawe"
+    }
+  ],
+  "translation": "Aw ye denw Yawe Aw ka Elohim ye; aw kana aw yɛrɛ ja ni npan ye, aw kana kun-balo bila aw ɲɛ sira la, mɔgɔ min sara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/14\/1-4.1791927834138.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "denw"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Aw ka Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "aw yɛrɛ ja ni npan ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aw kana"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "bila"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kun-balo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sira"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "aw ɲɛ"
+    },
+    {
+      "surface": "למת",
+      "gloss": "mɔgɔ min sara"
+    }
+  ],
+  "timestamp": "2026-10-13T21:43:54.139564033Z",
+  "model": "glm-5.3"
+}

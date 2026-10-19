@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 39:29",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew has no pronoun object on 'hide'; Bambara needs it to say from whom the face is hidden"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוח rendered as fiɲɛ (wind\/spirit) per the fixed vocabulary table"
+    },
+    {
+      "kind": "crux",
+      "subject": "bɔ tɛmɛ",
+      "rationale": "שפכתי 'poured out' is perfect in Hebrew (done); most versions keep it past, BSB shifts to future — Bambara keeps the accomplished"
+    }
+  ],
+  "translation": "Ni m'i tɛnɛ ɲɛ ⟨a⟩ dogo u ye kokura, sabu n'ye ⟨את⟩ n ka fiɲɛ bɔ dɔɔnin Yisrayela so kan, Yawe ku min bɔra, Adonay Yawe fɔra.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8e54b7304b90ede725bd7d847ffc2432ee827ff0d9bc42ef822e72f70483b173",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/39\/29-29.1791937727946.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ni m'ï tɛnɛ"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "dogo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kokura"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שפכתי",
+      "gloss": "n'ye … bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n ka fiɲɛ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "n ka fiɲɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "dɔɔnin … kan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayela"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ku min bɔra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T00:28:47.946573999Z",
+  "model": "glm-5.3"
+}

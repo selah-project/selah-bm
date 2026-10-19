@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sanfɛ dɔɔrɔw",
+      "rationale": "שחקים ye 'kunko fitininw \/ dɔɔrɔ ninw' kɔrɔ ye — n'u tilenne ni 'sanfɛ dɔɔrɔw' ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "la",
+      "rationale": "Bamanankan ka kɔfɛ-daɲɛ 'la' de ye על minɛn jira, ⟨⟩ tɛ a la"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "sankolow\/sanfɛ dɔɔrɔw",
+      "rationale": "Heburukan ka ɲɔgɔnfa שמים\/שחקים jɛlenya dogoyalen don Bamanankan na"
+    }
+  ],
+  "translation": "Sabu i ka hesed ka bon sankolow la, i ka tiɲɛ fana ka se sankolow sanfɛ dɔɔrɔw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/108\/5-8.1791941443982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ka bon"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "i ka hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "sanfɛ dɔɔrɔw"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "i ka tiɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:43.983320904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 17:14",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fɔ",
+      "rationale": "רפא ni ישע fila wɛrɛ bɛ Bamanankan na kelen-kelen fɔli la; fɔ dɔgɔya bɛ yen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fɔli",
+      "rationale": "תהלתי ye 'donyali-kuma' ye, 'i ye ne ka fɔli ye' ye a nɔgɔya"
+    },
+    {
+      "kind": "crux",
+      "subject": "וְאֵרָפֵא",
+      "rationale": "cohortative san: 'ne bɛna fɔ' (daminɛ) walima 'ne tɛna fɔ bali' — ni a tɛ fɔ, Yawe tɛ se ka a kɛ"
+    }
+  ],
+  "translation": "Ne bɛ fɔ Yawe, k'a ye ne fɔ; ne bɛ fɔ Yawe, k'a ye ne fɔ; sabu i de ye ne ka fɔli ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a4dcdd24f2437a85be5dd08ca2bb04264d64a9332c8903adfa6e10b11c0f3a4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/17\/14-15.1791950826820.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רפאני",
+      "gloss": "ne bɛ fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וארפא",
+      "gloss": "k'a ye ne fɔ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ne bɛ fɔ"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "k'a ye ne fɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ne ka fɔli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i de"
+    }
+  ],
+  "timestamp": "2026-10-14T04:07:06.820798784Z",
+  "model": "glm-5.3"
+}

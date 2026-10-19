@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 25:21",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לשקר",
+      "rationale": "'for a lie \/ in vain' rendered as noun zo with postposition dropped; Bambara has no matching adverbial"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Bambara possessive requires a resumptive pronoun before la"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפקד",
+      "rationale": "'was mustered\/missed' rendered 'did not leave (ma bɔ)'; the counting-inspection sense is narrowed"
+    }
+  ],
+  "translation": "Dawid y'a fɔ ko: zo dɔrɔn de, n ye ⟨את⟩ fɛn bɛɛ min b'⟨a⟩ la nin mɔgɔ fɛ mara jɛgɛna kɔnɔ, ani foyi ma bɔ bɛɛ la min b'a la min na; a ye jugu segin n na, ɲuma nɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e5f6e5097240e80c2f77db70cbb33114dfb26b5dee2f116c70cf3eb7afbc373b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/25\/21-24.1791930754627.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "y'a fɔ ko"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dɔrɔn de"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "zo"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "n ye … mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fɛn bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "nin mɔgɔ fɛ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jɛgɛna kɔnɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani … ma"
+    },
+    {
+      "surface": "נפקד",
+      "gloss": "ma bɔ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a b'a la min na"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "foyi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a ye … segin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n na"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nɔ na"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ɲuma"
+    }
+  ],
+  "timestamp": "2026-10-13T22:32:34.629094942Z",
+  "model": "glm-5.3"
+}

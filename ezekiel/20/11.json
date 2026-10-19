@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨amin⟩",
+      "rationale": "Hebrew wajyi bɛ tiɲɛ-cogo jira — Bamanankan ka 'a bɛna balo' ka nɔgɔya, kɔrɔ-tɛmɛsira bɛ a fɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sariya-jatew",
+      "rationale": "משפטים kɔrɔ ye 'sariya-kɛlignw' — 'sariya-jatew' bɛ se, a tɛ fika"
+    }
+  ],
+  "translation": "Ani N ye ⟨את⟩ n sariyaw di u ma, N ye ⟨את⟩ n sariya-jatew fɔ u ye, minnu hadamaden bɛ kɛ, a bɛna balo ⟨את⟩ o la ⟨amin⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b7b7d84e98cce438ce2136fbdb288b77e2342ba6b17ce96403181e923a211fad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/20\/9-12.1791937089484.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "N ye … di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n sariyaw"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "n sariyaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n sariya-jatew"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "n sariya-jatew"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "N ye … fɔ u ye"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ u"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛ kɛ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ o"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "a bɛna balo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "o la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:18:09.486148231Z",
+  "model": "glm-5.3"
+}

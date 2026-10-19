@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye \/ bɛ",
+      "rationale": "Hebrew lacks copula; Bamanankan needs 'ye … ye' and 'bɛ' to bind the clauses"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔrɔya",
+      "rationale": "כבוד literally 'weight\/heaviness'; rendered as 'honor\/respect'"
+    },
+    {
+      "kind": "crux",
+      "subject": "dimi",
+      "rationale": "ענוה: 'humility\/modesty' vs 'clemency'; also word order — Hebrew puts humility last for emphasis, Bamanankan keeps it"
+    }
+  ],
+  "translation": "Yawe siran ye dɔnniya ka kalan ⟨ye⟩; ani kɔrɔya ɲɛ na, dimi ⟨bɛ⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cb107a19c85a2399931faf5f74ac1ac97b8f43ef700369adc427945960f9fcf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/15\/33-33.1791942499459.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "siran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "dɔnniya"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ani … ɲɛ na"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kɔrɔya"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "dimi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:48:19.460304656Z",
+  "model": "glm-5.3"
+}

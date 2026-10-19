@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "dagi",
+      "rationale": "ויחתרו literally 'to force a passage (as by burglary)', here with oars; rendered by rowing-word 'dagi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הולך וסער",
+      "rationale": "sea 'walking and storming' — infinitive absolute-like intensification 'more and more', kept as 'ka gɛlɛ o gɛlɛ'"
+    }
+  ],
+  "translation": "Mɔgɔw ye dagi ka segin ka taa dugukolo la, nka u ma se, sabu kɔgɔji tun bɛ taa ka sumsun ka gɛlɛ o gɛlɛ u kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jonah\/1\/13-16.1791938710675.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "dagi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ka segin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka u ma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "tun taa"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "ka sumsun"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "u kan"
+    }
+  ],
+  "timestamp": "2026-10-14T00:45:10.676044811Z",
+  "model": "glm-5.3"
+}

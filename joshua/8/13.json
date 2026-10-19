@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 8:13",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עקבו",
+      "rationale": "Hebrew 'its heel' = rear of the army; rendered 'a kɔ' (its rear)"
+    },
+    {
+      "kind": "crux",
+      "subject": "מים",
+      "rationale": "literally 'from the sea' = westward direction; rendered tilebinfɛ (sunset side)"
+    },
+    {
+      "kind": "elision",
+      "subject": "ההוא",
+      "rationale": "demonstrative 'that' absorbed into 'o su ni' (that night)"
+    }
+  ],
+  "translation": "Mɔgɔw ye ⟨את⟩ so bɛɛ min bɛ dugu ka sahelifɛ jɔ, ani ⟨את⟩ a kɔ min bɛ dugu ka tilebinfɛ; Yehoshua taara o su ni dugubon kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1405c917282e6929f518035c0adeb1d1003df8978adfed62d587b9e64d83e2dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/8\/13-16.1791928675569.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ye … jɔ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "so bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "sahelifɛ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "dugu ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a kɔ"
+    },
+    {
+      "surface": "עקבו",
+      "gloss": "a kɔ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tilebinfɛ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "dugu ka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "taara"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "su ni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "dugubon"
+    }
+  ],
+  "timestamp": "2026-10-13T21:57:55.570968840Z",
+  "model": "glm-5.3"
+}

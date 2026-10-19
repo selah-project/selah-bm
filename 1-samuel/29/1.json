@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ji bolo",
+      "rationale": "עין literally 'eye\/fountain'; Bambara ji bolo keeps the water picture, not the eye."
+    },
+    {
+      "kind": "addition",
+      "subject": "la",
+      "rationale": "Bambara needs the locative la after place names where Hebrew uses a bare accusative."
+    }
+  ],
+  "translation": "Pelishtiw ye ⟨את⟩ u mɛnbolo bɛɛ lajɛ Afeke (Aphek) la; Israyɛl de sigilen don ji bolo min bɛ Yizreɛl (Jezireli) kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/29\/1-4.1791930719529.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "lajɛ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u mɛnbolo bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "u mɛnbolo"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeke"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "sigilen"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ji bolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Yizreɛl kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:31:59.530797398Z",
+  "model": "glm-5.3"
+}

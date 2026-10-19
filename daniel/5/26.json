@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 5:26",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "Mene",
+      "rationale": "The inscribed word is itself a counting verb: Eloa has counted\/numbered the kingdom."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנא\/מנה",
+      "rationale": "Aramaic pun — the written word MENE is repeated as the verb 'he numbered'; Bamanankan keeps the name and repeats 'jate' but the sound-play is lost."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ka a ban",
+      "rationale": "והשלמה is literally 'and completed\/restored it'; rendered as 'brought it to an end', the sense all versions take."
+    }
+  ],
+  "translation": "Nin ye kuma in kɔrɔfɔli ye: Mene — Eloa ye i masaya jate, ka a ban.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0917f7e1ba5a53a8f508b95eefab6d0e9edd6cdf8adcb96d20f320efc93b522d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/5\/26-27.1791951476014.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "kɔrɔfɔli"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "jate"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "i masaya"
+    },
+    {
+      "surface": "והשלמה",
+      "gloss": "ka a ban"
+    }
+  ],
+  "timestamp": "2026-10-14T04:17:56.014446226Z",
+  "model": "glm-5.3"
+}

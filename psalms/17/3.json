@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זמתי בל יעבר פי",
+      "rationale": "Kalan fila: 'i ɲɛnamaw tɛ tɛmɛ i da la' (Heburukan sira, YLT\/JPS) walima 'i da tɛ juguya kɛ' (KJV\/ASV) — Heburukan jɔcogo fɔlɔ de ka kan ka mara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צרפתני",
+      "gloss": "i y'a kɛnɛya",
+      "rationale": "Heburukan kɔrɔ ye sanu walima nɛgɛ ka bɔ tasuma la — 'kɛnɛya' b'a nɔgɔya nka bɛ se ka kɔrɔ bɔrɔ-dɔ diya."
+    }
+  ],
+  "translation": "I ye i dusukun lajɛ, i y'a lajɛ su la, i y'a kɛnɛya, i ma fɛn si sɔrɔ; i ɲɛnamaw tɛ tɛmɛ i da la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/17\/1-4.1791939699567.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "i ye … lajɛ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "i dusukun"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "i y'a lajɛ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "su la"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "i y'a kɛnɛya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma … si"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "sɔrɔ"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "i ɲɛnamaw"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "tɛmɛ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "i da"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:39.568139637Z",
+  "model": "glm-5.3"
+}

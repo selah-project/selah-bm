@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 27:14",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duba\/danga",
+      "rationale": "Hebrew wordplay ברך\/קללה — blessing counted as curse; irony, not literal blessing"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sɔgɔma jon",
+      "rationale": "השכים literally 'to load up early', idiom for rising at dawn"
+    }
+  ],
+  "translation": "Min bɛ a teri duba di ni kan belebɛn ye sɔgɔma jon la, danga de bɛ jate a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4529e6ea2fd96df2dc4e91b60327ade49c1d130e16032ad6dc9ff19310329d16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/27\/13-16.1791942975481.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מברך",
+      "gloss": "duba di"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a teri"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ni kan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "belebɛn"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sɔgɔma"
+    },
+    {
+      "surface": "השכים",
+      "gloss": "jon"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "danga"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "bɛ jate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:56:15.481928320Z",
+  "model": "glm-5.3"
+}

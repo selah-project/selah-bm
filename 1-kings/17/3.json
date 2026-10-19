@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ɲɛsanfɛ",
+      "rationale": "על פני 'upon the face of' rendered as ɲɛsanfɛ 'face-top', a fixed positional idiom for 'east of \/ before'"
+    },
+    {
+      "kind": "you",
+      "subject": "Eliya",
+      "rationale": "Yawe's word addresses Eliya directly with imperatives — go, turn, hide"
+    },
+    {
+      "kind": "invitation",
+      "subject": "taa … jɔ … dogo",
+      "rationale": "three imperatives summon the addressee to movement and concealment"
+    }
+  ],
+  "translation": "Taa nin na, i y'i jɔ i ye kɔrɔnfɛ, ani i y'i dogo Kerit baji la, min bɛ Yarden (Yaradɛn) ɲɛsanfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "48041c0401a9014acb30685077a62d88f0a54014b86549e2442ffac9cc2049db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/17\/2-3.1791950453719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "taa"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nin na"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "i y'i jɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kɔrɔnfɛ"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "i y'i dogo"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "baji la"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-10-14T04:00:53.720123588Z",
+  "model": "glm-5.3"
+}

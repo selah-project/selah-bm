@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ninakili-ni ye (dusi min bɛ hɛ), a tɛ 'ni' kelen-kelen ye ani 'soul' min bɔ Tubabuw fɛ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "duba",
+      "rationale": "kumaden in bɛ wele a yɛrɛ ma — lase ni dusukun bɛɛ"
+    },
+    {
+      "kind": "you",
+      "subject": "ni ma",
+      "rationale": "a bɛ a yɛrɛ ka ni wele — mɔgɔ min bɛ kuma, o yɛrɛ"
+    }
+  ],
+  "translation": "Dawid ka sɛbɛn. Ni ma, i n'i dusukunw bɛɛ, Yawe ⟨את⟩ ka duba; i n'i kun-na-ngɔnw bɛɛ, ⟨את⟩ a tɔgɔ senuma ka duba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/103\/1-4.1791941218621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ka sɛbɛn"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ka duba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ni ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "dusukunw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tɔgɔ senuma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "senuma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:58.621772866Z",
+  "model": "glm-5.3"
+}

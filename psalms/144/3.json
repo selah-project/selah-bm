@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mɔgɔ⟩",
+      "rationale": "בן אנושׁ is a construct pair 'son of mortal'; Bambara needs the possessor noun supplied"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "the psalmist's direct question addressed to Yawe"
+    }
+  ],
+  "translation": "Yawe, hadamaden ye mun ye, i ko i b'a dɔn? ⟨mɔgɔ⟩ den bɛɛbɛn ka sa, i ko i b'a miiri?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/144\/1-4.1791942046045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ye mun ye"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "i ko i b'a dɔn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨mɔgɔ⟩ den"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "bɛɛbɛn ka sa"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "i ko i b'a miiri"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:46.046801274Z",
+  "model": "glm-5.3"
+}

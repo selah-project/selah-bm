@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רק \/ הרחק \/ תרחיקו",
+      "rationale": "Triple root-play on רחק (far): 'only — far — do not go far', the limitation hammers the same root; Bambara repeats yɛrɛ jan twice to keep some of it."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲininka",
+      "rationale": "העתירו literally 'burn incense (intercede)'; rendered 'seek\/ask (Yawe)' — incense picture lost."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moshe and Aharon",
+      "rationale": "Paroh's concession ends with an imperative addressed to them: 'entreat for me'."
+    }
+  ],
+  "translation": "Paroh ko: ne bɛ ⟨את⟩ aw bila, aw bɛ saraka bɔ Yawe aw ka Elohim ye ɲɛwilɛ kɔnɔ; ko dɔrɔn: aw kana yɛrɛ jan ka taa. Aw bɛ Yawe ɲininka ne kama.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eb70608fdca283c9f342c3b827ba5a6978de7a20ec89bbd06d6f35ad9efd7b83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/8\/21-24.1791926932214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "bɛ ... bila"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "aw bɛ saraka bɔ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ye"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "aw ka Elohim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ɲɛwilɛ kɔnɔ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ko dɔrɔn"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "yɛrɛ jan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "aw ka yɛrɛ jan"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "aw bɛ ɲininka"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ne kama"
+    }
+  ],
+  "timestamp": "2026-10-13T21:28:52.217746789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 23:16",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔnɔ",
+      "rationale": "כליות literally 'kidneys', Hebrew seat of feeling; rendered 'kɔnɔ' (inner being), the picture lost."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kinsiw",
+      "rationale": "'kinsiw' (kidneys) kept literally would preserve the anatomy image but reads oddly in Bambara."
+    }
+  ],
+  "translation": "Ne ka kɔnɔ bɛ feliya ni i ka daɲɛw bɛ fɔ sira-ɲumanw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/23\/13-16.1791942849831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעלזנה",
+      "gloss": "bɛ feliya"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ne ka kɔnɔ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bɛ fɔ"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "i ka daɲɛw"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "sira-ɲumanw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:54:09.832722261Z",
+  "model": "glm-5.3"
+}

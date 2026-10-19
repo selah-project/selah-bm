@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula added; Hebrew has no verb in 'our father — you'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "direct petition addressing Yawe as father"
+    },
+    {
+      "kind": "invitation",
+      "subject": "potter image",
+      "rationale": "clay-potter image summoned as grounds for mercy"
+    }
+  ],
+  "translation": "Sisan, Yawe, i de ye an fa; an ye len ye, ani i ye an len ka dilanbagaw ye; ani an bɛɛ ye i bolo baara ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/64\/5-8.1791934867783.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "an fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i de ye"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "an"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "ye len ye"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ani i"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ye an len ka dilanbagaw ye"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ani … baara"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "i bolo"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "an bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:41:07.785685836Z",
+  "model": "glm-5.3"
+}

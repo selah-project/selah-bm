@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צעצעים",
+      "rationale": "Sculpture-work word occurs only here in the Tanakh."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צעצעים",
+      "rationale": "Reduplicated root צע־צע mimics the carved detail; lost in Bamanankan sɛbɛnni-baara."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kerubi fila",
+      "rationale": "Two cherubim counted in the sanctuary furnishings."
+    }
+  ],
+  "translation": "A ye so senumasenuma kɔnɔ kerubi fila dilan, sɛbɛnni-baara ye; a ye ⟨אתם⟩ sanu di u kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f8eba62acef14d8203e1d5769e9688cdc596aa4f202f43cf60ee1384c9b52625",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/3\/9-12.1791948571140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a ye ... dilan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so ... kɔnɔ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "senumasenuma"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "fila"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "sɛbɛnni-baara"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "a ye sanu di ... kan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "u (kerubi fila)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sanu"
+    }
+  ],
+  "timestamp": "2026-10-14T03:29:31.141384400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ",
+      "rationale": "Bamanankan ka ni bɛ a jira, Heburukan ma a sɛbɛn"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחקרי",
+      "rationale": "מֶחְקְרֵי אֶרֶץ — Tanaki kɔnɔ o de bɛ yen fɔlɔ ni fɔlɔ (yan kodɔnnen 'jidabaw')"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותועפות",
+      "rationale": "'kuluba sanfɛlaw' (JPS\/KJV 'heights\/strength') ni 'bagan lankolonw' (Num 24:4 misali) — sanfɛla kɔrɔ bɔrɔbaliyen don"
+    }
+  ],
+  "translation": "Min bolo kɔnɔ dugukolo jidabaw bɛ, ani kuluba sanfɛlaw bɛ ⟨a ta⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/95\/1-4.1791941119336.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Min"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "bolo kɔnɔ"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "jidabaw"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "sanfɛlaw"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kuluba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ta"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:19.337123510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a simaw",
+      "rationale": "אויב kɔrɔ ye 'min bɛ sima' ye; 'simala' bɛ Heburu ka cogo mara, a tɛ 'kɛlɛda' (min ye ja kelen-kelen ye) ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דוד \/ דברי",
+      "rationale": "dawid\/dibre — kuma-damadɔ ni tɔgɔ bɛ ɲɔgɔn jɔ, o bɛnna Bamanankan na"
+    }
+  ],
+  "translation": "Dawid (Dawuda) ye fɔ Yawe ma ⟨את⟩ donkili kuma nin, don min na Yawe ye ⟨אתו⟩ a lasoɔgɔ bɔ a simaw ka bolo bɛɛ la ani bɔ Shaul (Sawulu) bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/22\/1-4.1791931612243.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ye fɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "donkili kuma nin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "donkili"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don min na"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "lasoɔgɔ bɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "a (Dawid)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "a simaw"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "ani bolo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-10-13T22:46:52.247919101Z",
+  "model": "glm-5.3"
+}

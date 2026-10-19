@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sumaya",
+      "rationale": "כבוד kɔrɔ fɔlɔ ye 'sira\/girinya' ye; Bamanankan 'sumaya' dɔgɔya dɔw bɛ yen"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Weleli dannaya Elohim fɛ — kumasen in ye duw ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "to … kan",
+      "rationale": "ו לאַל conjugué ni kɔfɛ-daɲɛw ye, Heburukan t'u la"
+    }
+  ],
+  "translation": "Yi sankolow sanfɛ, Elohim, i ka sumaya to dugukolo bɛɛ kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/108\/5-8.1791941443982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "yi sanfɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "to … kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "i ka sumaya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:43.983482181Z",
+  "model": "glm-5.3"
+}

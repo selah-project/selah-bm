@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 1:1",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ani",
+      "rationale": "Hebrew lists the kings by simple juxtaposition; Bambara needs a connector"
+    },
+    {
+      "kind": "measurement",
+      "subject": "king list",
+      "rationale": "verse dates the prophecy by naming six reigns"
+    }
+  ],
+  "translation": "Yawe ka kuma min na, min na Hoshea (Ose) ma, Beeri (Beri) denkɛ, Uziya (Oziya), Yotam (Yotam), Ahaz (Aha), ani Hizkiya (Ezekiya), Yuda masakɛw ka sonw la, ani Yarobeam (Jeroboam) ka sonw la, min ye Yoash (Yowas) denkɛ ye, Isirayɛl (Izrayɛl) masakɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "958d3b6c15167617e99ac0fa1adfc3a9bcbe857f73dc2a12fc5e2331f54a3d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/1\/1-4.1791938185582.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "היה",
+      "gloss": "na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "Beeri"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ka sonw la"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "Uziya"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "יחזקיה",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ani ka sonw la"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayɛl"
+    }
+  ],
+  "timestamp": "2026-10-14T00:36:25.582891598Z",
+  "model": "glm-5.3"
+}

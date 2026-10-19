@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "Bambara quotative needed to introduce the inner speech; Hebrew אשר rendered as the quote marker"
+    }
+  ],
+  "translation": "A y'a fɔ a dusukun na ko: “N tɛ ɲagami; dorow ni dorow, n tɛ bi jurumu na.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/10\/5-8.1791939657424.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "a y'a fɔ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "a dusukun na"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ɲagami"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dorow ni"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dorow"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n tɛ bi"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "jurumu na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:57.425622201Z",
+  "model": "glm-5.3"
+}

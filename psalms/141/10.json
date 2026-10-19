@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka ... lɔ",
+      "rationale": "Hebrew יפלו is jussive 'let them fall'; Bambara needs the imperative k'u lɔ to carry the wish"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחד אנכי",
+      "rationale": "'together — I': read as 'let them fall together, while I pass over' (KJV\/JPS) vs 'each in his own net, until I pass' (YLT); I follow the first"
+    }
+  ],
+  "translation": "Mɔgɔ juguw, k'u lɔ ɲɔgɔn kan u ka jalaki kɔnɔ, fo ne na tugu taabolo ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ed57e002cc009c647fee44da040c825b80f78ee00c9d0768dcb79644b3ceb2f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/141\/9-10.1791941838227.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יִפְּלוּ",
+      "gloss": "k'u lɔ"
+    },
+    {
+      "surface": "בְמַכְמֹרָיו",
+      "gloss": "u ka jalaki kɔnɔ"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "mɔgɔ juguw"
+    },
+    {
+      "surface": "יַחַד",
+      "gloss": "ɲɔgɔn kan"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "אֶעֱבֽוֹר",
+      "gloss": "na tugu taabolo ta"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:18.227960347Z",
+  "model": "glm-5.3"
+}

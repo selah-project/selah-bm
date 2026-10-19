@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "'if' vs 'surely': conditional or asseverative — YLT\/JPS keep 'if', KJV\/ASV read 'surely'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ללצים\/יליץ",
+      "rationale": "scoff-the-scoffers root repetition לוץ, kept by repeating lasigi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עניים",
+      "rationale": "literally 'poor\/afflicted', rendered 'humble' (fedɔnnu) following the idiom."
+    }
+  ],
+  "translation": "Ni lasigibaliw bɛ lasigi, ⟨Ale de⟩ bɛ u lasigi; nka a bɛ fedɔnnu ma kanuya di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b3bc622b8015263e52784ef20da37f1faa393144720524ffdb7565c3402bc0af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/3\/34-35.1791951291987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "lasigibaliw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ale"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "bɛ u lasigi"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "nka a bɛ fedɔnnu ma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kanuya"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:51.988302091Z",
+  "model": "glm-5.3"
+}

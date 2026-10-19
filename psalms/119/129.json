@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "Hebrew ni 'my soul\/my self' — Bambara renders as pronoun a with bracketed subject marker since 'soul' as actor is not natural"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פלאות \/ פתח",
+      "rationale": "Pe-strophe: פלאות (wonders) and פתח (opening, v.130) share the strophe letter פ"
+    }
+  ],
+  "translation": "I ka seere-dɔnnenw ye fɛn-fɛnw ye, o la n'i ni mara olu, ⟨a ye⟩ Yawe.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/129-132.1791941623242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "fɛn-fɛnw"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "i ka seere-dɔnnenw"
+    },
+    {
+      "surface": "על",
+      "gloss": "o la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o la"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "n'i ni mara olu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨a ye⟩ Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:43.243016433Z",
+  "model": "glm-5.3"
+}

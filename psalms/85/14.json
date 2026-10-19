@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Yawe⟩",
+      "rationale": "לפניו is only 'before his face'; the one walking is unnamed — Bambara needs the name supplied."
+    },
+    {
+      "kind": "crux",
+      "subject": "לדרך פעמיו",
+      "rationale": "KJV reads 'set us in the way of his steps' (supplying 'us'); JPS\/ASV read 'make his footsteps a way' — the Bambara follows the literal 'puts his footsteps as a way'."
+    },
+    {
+      "kind": "you",
+      "subject": "to the community",
+      "rationale": "The psalm's closing vision is spoken over the people, righteousness preparing the way before God's coming."
+    }
+  ],
+  "translation": "Kɛnɛya bɛ taa ⟨Yawe⟩ ɲɛfɛ, ka a ka bogow da sira ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cf0931526d8497ec42f1c5180566b79e392002d141456bdd64445ef32aba1d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/85\/13-14.1791940893833.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Kɛnɛya"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a ɲɛfɛ"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "bɛ taa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ka ... da"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "sira ye"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "a ka bogow"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:33.834273307Z",
+  "model": "glm-5.3"
+}

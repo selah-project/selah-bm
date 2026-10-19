@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "minnu de",
+      "rationale": "אשר relative particle rendered with Bambara relativizer minnu"
+    },
+    {
+      "kind": "addition",
+      "subject": "in",
+      "rationale": "demonstrative added to dugukolo; Hebrew has definite article only"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lajɛ \/ bɔn",
+      "rationale": "לנחל 'to cause to inherit' rendered as dividing\/apportioning the land, following the divider context"
+    }
+  ],
+  "translation": "Olu ye nin mɔgɔw ye, minnu de Yawe y'i lajɛ walasa k'u fa ka dugukolo in bɔn ⟨את⟩ Israyel denw ma, Kanaan dugukolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a455b7b39a2bd01a4b9b08e30b2acf81350228c33ac075accde37b057c2afa77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/34\/29-29.1791927319200.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "y'i lajɛ walasa k'u fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "dugukolo in bɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyel denw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-10-13T21:35:19.200892080Z",
+  "model": "glm-5.3"
+}

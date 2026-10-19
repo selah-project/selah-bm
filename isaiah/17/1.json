@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "masha",
+      "rationale": "משא ye «burden \/ masin-kuma» ye; an ta a ye «sɔsɔli-mashi» ye, min bɛ daminɛ sɔsɔli la"
+    },
+    {
+      "kind": "elision",
+      "subject": "masha",
+      "rationale": "דמשק kan kɔrɔ «Damashi ka masha»; kɔfɛ-daɲɛ «ka» ma jira, a bɔra jɔcogo la"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעי\/מפלה",
+      "rationale": "dɔgɔkun filan bɛɛ fɔ «kɛgɛn-falen» na — Heburukan bɛ jɔcogo kelen fɔ daɲɛ fila la, Bamanankan bɛ a fara daɲɛ kelen ye"
+    }
+  ],
+  "translation": "Damashi (Damasi) masha. Ee, Damashi bɛna bɔ duguya la, a na kɛ bɔgɔtigi-falen ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "33aebae5b3414892baed01785e786de29ff4cfa4e594b2de95438ce9123fbf95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/17\/1-4.1791933813971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "masha"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damashi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damashi"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "bɛna bɔ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "duguya"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "a na kɛ"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "bɔgɔtigi"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "falen"
+    }
+  ],
+  "timestamp": "2026-10-13T23:23:33.975561844Z",
+  "model": "glm-5.3"
+}

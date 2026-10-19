@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 68:28",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רדם",
+      "rationale": "verb 'rule over them' (JPS, BSB) vs consonantal repointing 'their ruler' (KJV, ASV); rendered here as 'their leader'."
+    },
+    {
+      "kind": "crux",
+      "subject": "רגמתם",
+      "rationale": "literal 'their stone-heap\/throng' — KJV 'their council', YLT 'their defence'; rendered as 'their crowd\/company'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרי…שרי…שרי",
+      "rationale": "threefold repetition of 'princes of' builds a processional list, kept by repeating saraw."
+    }
+  ],
+  "translation": "Fin yɔrɔ min na, Binyamin (Binyamin) fitini ye u ɲɛmɔgɔ ye, Yuda (Yuda) saraw ni u ka jama, Zebulun (Zebulun) saraw, Naftali (Naftali) saraw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "878aa51ab572d46cceb596ce03d50db2dcd9b38baaf888bc7f3c13a3af19e050",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/68\/25-28.1791940582150.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "fin yɔrɔ min na"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "fitini"
+    },
+    {
+      "surface": "רדם",
+      "gloss": "u ɲɛmɔgɔ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "saraw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "רגמתם",
+      "gloss": "u ka jama"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "saraw"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "saraw"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    }
+  ],
+  "timestamp": "2026-10-14T01:16:22.151238587Z",
+  "model": "glm-5.3"
+}

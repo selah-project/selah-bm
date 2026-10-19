@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 13:10",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אף",
+      "rationale": "Hebrew 'his nose burned' = anger; Bambara 'kunbɛ bɔra … la' (anger rose against) renders the idiom."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative particle has no separate Bambara word here; folded into 'sabu …' construction."
+    }
+  ],
+  "translation": "Yawe ka kunbɛ bɔra Uza la, a ye Uza bɔ, sabu a ye a bolo da sandili kan; a sa yen Elohim ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "14b22c7c42cfc2a5004ffc6d3ee75c2614bf2936d3091435aea09f3c76ed2833",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/13\/9-10.1791951571829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kunbɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "Uza la"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "a ye Uza bɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a ye a bolo da"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandili"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T04:19:31.830321166Z",
+  "model": "glm-5.3"
+}

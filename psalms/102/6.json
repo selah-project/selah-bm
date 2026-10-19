@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kolo (kelen)",
+      "rationale": "עצמי kelen de ye — 'n ka kolo' kelen — nka bayɛlɛmabaga caman b'a kɛ kolow (caman) ye."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kolo farala sogo la",
+      "rationale": "Heburu ka kuma: ni wolojugu bɛ se ko kolo bɛ sogo la — a bɛ jira ko kunbali ni bonya bɛ mɔgɔ la."
+    }
+  ],
+  "translation": "N ka yɛlɛyɛli kan bɛɛ, n ka kolo farala n ka sogo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/102\/5-8.1791941178343.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "kan bɛɛ"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "n ka yɛlɛyɛli"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "farala"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "n ka kolo"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "n ka sogo la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:18.344550356Z",
+  "model": "glm-5.3"
+}

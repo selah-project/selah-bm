@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 8:13",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שנאת\/שנאתי",
+      "rationale": "'hate' frames both the opening and the close of the verse, an inclusion lost in Bambara word order."
+    },
+    {
+      "kind": "idiom",
+      "subject": "תהפכות",
+      "rationale": "literally 'twisted things' (from הפך, to turn over); rendered as speech that twists the truth."
+    },
+    {
+      "kind": "substitution",
+      "subject": "siran",
+      "rationale": "יראה is reverence-awe, not mere fright; Bambara 'siran' leans to fear-of-danger."
+    }
+  ],
+  "translation": "Yawe ka siran ye ko fɛn jugu ju: namaɲiya, fanga-ŋwɛrɛɛli, sira jugu, ani ⟨da min bɛ kuma tiɲɛ-wilibagali kɛ⟩ — n y’u ju bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5298c9b4aa4fdca0ae007e485b353920cb2b5e71d3e467f379336aacbc41cf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/8\/13-16.1791942241799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "siran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ju"
+    },
+    {
+      "surface": "רע",
+      "gloss": "fɛn jugu"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "namaɲiya"
+    },
+    {
+      "surface": "וגאון",
+      "gloss": "fanga-ŋwɛrɛɛli"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "da"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "tiɲɛ-wilibagali"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "n ju"
+    }
+  ],
+  "timestamp": "2026-10-14T01:44:01.800063720Z",
+  "model": "glm-5.3"
+}

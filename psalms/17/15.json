@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛ",
+      "rationale": "צדק ye sariya-tiɲɛ \/ ka ɲɛ don cogo ye; 'tiɲɛ' dɔrɔn tɛ sariya-kɔrɔ bɛɛ ta"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בהקיץ",
+      "rationale": "'ne dɛsɛna' bɛ se ka kɛ su ka bɔ ye walima balo-kɔfɛ ka dɛsɛ ye — kumasen in ka ɲɛfɔli bɛ o fila lamini"
+    }
+  ],
+  "translation": "Ne yɛrɛ, ne bɛna i ɲɛda ye ni tiɲɛ ye; ne bɛna ɲagami, ne dɛsɛna, ni i cogo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/17\/13-15.1791939719360.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ne yɛrɛ"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ni tiɲɛ ye"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ne bɛna ye"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i ɲɛda"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "ne bɛna ɲagami"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "ne dɛsɛna"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "i cogo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:59.360802236Z",
+  "model": "glm-5.3"
+}

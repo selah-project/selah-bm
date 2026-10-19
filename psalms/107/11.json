@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bɛn-baliya",
+      "rationale": "מרה kɔrɔ yɛrɛ ye 'ka kɛ sunu ye' — 'rebel' ye a ka nɔgɔya-bayɛlɛmali ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲɛsɔngɔ",
+      "rationale": "עצה ye kɔrɔfɔli \/ ɲɛsɔngɔ \/ lajɛ ye"
+    }
+  ],
+  "translation": "Sabu u tun bɛ El ka kumaw kɛ i n'a fɔ bɛn-baliya, u tun ye Elyon ka ɲɛsɔngɔ kɔlkɔrɔ-ya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/107\/9-12.1791941347801.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "bɛn-baliya kɛ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "ka ɲɛsɔngɔ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "kɔlkɔrɔya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:07.802000015Z",
+  "model": "glm-5.3"
+}

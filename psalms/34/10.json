@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aw",
+      "rationale": "Bambara requires the addressee pronoun that Hebrew implies in the imperative"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יראו\/ליראיו",
+      "rationale": "Same root ירא frames the verse — command and promise hinge on one word"
+    }
+  ],
+  "translation": "Aw ka Yawe ⟨את⟩ siran, ⟨aw⟩ minnu ye a ka senumaw ye, sabu bɔnbaliya si tɛ minnu bɛ a siran u la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "95135d11609701d8a44ef03261bde90c730b5875a370fa116b056eba0a669052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/34\/9-12.1791939982701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "siran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "a ka senumaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "bɔnbaliya"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "minnu bɛ a siran"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:22.702306393Z",
+  "model": "glm-5.3"
+}

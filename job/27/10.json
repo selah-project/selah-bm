@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "Hebrew אם alone carries the conditional question; Bambara closes with wa"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתענג",
+      "rationale": "Rare verb 'to be soft\/delicate' — 'delight in' vs 'seek pleasure from'; rendered as finɛ (enjoy)"
+    }
+  ],
+  "translation": "Yala a bɛ finɛ Shaday la, a bɛ Eloa wele waati bɛɛ wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "674c6db14c7ce9f8951ccd277c2f694bb54a8948ae3ce99b9e668777f6b616d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/27\/9-12.1791943882099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yala"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaday"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "bɛ finɛ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bɛ wele"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waati"
+    }
+  ],
+  "timestamp": "2026-10-14T02:11:22.100457053Z",
+  "model": "glm-5.3"
+}

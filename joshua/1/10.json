@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Hebrew construct שטרי העם needs Bambara possessive 'ka'"
+    },
+    {
+      "kind": "you",
+      "subject": "shotɛrw",
+      "rationale": "imperative speech to the officers begins here and runs through v.11"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ko",
+      "rationale": "introduces direct command, the address that summons the people"
+    }
+  ],
+  "translation": "Yehoshua (Yozwe) ye ⟨את⟩ jama ka shotɛrw laseli, ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3190b9a367082073efa68cb26fabfd3b4aa2ab645494765e0586597803cb8c47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/1\/10-11.1791950104284.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ye … laseli"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama ka shotɛrw"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "shotɛrw"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama ka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-10-14T03:55:04.285156038Z",
+  "model": "glm-5.3"
+}

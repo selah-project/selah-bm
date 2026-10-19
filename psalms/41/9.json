@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יצוק",
+      "rationale": "Hebrew 'poured out on him' — a word poured like liquid; rendered 'bɛ ci o kan' to keep the pouring picture"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יוסיף לקום",
+      "rationale": "literally 'will not add to rise' = will not rise again; 'wili kokura' keeps the again-sense"
+    }
+  ],
+  "translation": "Beliyal kuma bɛ ci o kan; o min gbenna, a tɛna wili kokura.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/41\/9-12.1791940124180.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyal"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "bɛ ci"
+    },
+    {
+      "surface": "בו",
+      "gloss": "o kan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ni o min"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "gbenna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "wili kokura"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:44.180580614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨n ma⟩",
+      "rationale": "Hebrew gives the heritage to 'those who fear your name'; the psalmist's inclusion of himself is supplied in brackets."
+    },
+    {
+      "kind": "crux",
+      "subject": "ירשת יראי שמך",
+      "rationale": "KJV reads the heritage as given to the speaker from among the God-fearers; YLT\/JPS give it to the God-fearers generally."
+    }
+  ],
+  "translation": "Sabu i de ye, Elohim, i ye n ka layiduw mɛn; i y'i tɔgɔ siranbagaw ka lasigidi di ⟨n ma⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/61\/5-8.1791940494122.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "i ye … mɛn"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "n ka layiduw"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "i y'a di"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "lasigidi"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "siranbagaw"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i tɔgɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:54.123566282Z",
+  "model": "glm-5.3"
+}

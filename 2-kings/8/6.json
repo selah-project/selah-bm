@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סריס",
+      "rationale": "eunuch (YLT, Geneva) vs court officer (KJV, JPS); Bambara renders 'masa ka bolo-kɛtigi' (officer), leaving the eunuch sense aside."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבואות השדה",
+      "rationale": "literally 'produce\/income of the field', rendered 'foro-denw' (field-yields); not just 'fruits'."
+    },
+    {
+      "kind": "you",
+      "subject": "השיב",
+      "rationale": "the king's command addresses the officer directly ('segin' imperative), addressee: the appointed officer."
+    },
+    {
+      "kind": "measurement",
+      "subject": "מיום ... ועד עתה",
+      "rationale": "the verse fixes a dated restitution span, from the day she left the land until now."
+    }
+  ],
+  "translation": "Masakɛ ye muso in ɲininka, a y'a fɔ a ye. Masakɛ ye masa ka bolo-kɛtigi kelen di a ma, ko: Segin ⟨את⟩ bɛɛ min ye ⟨a⟩ ta, ani ⟨את⟩ foro-denw bɛɛ, don min na a y'a to ⟨את⟩ dugukolo kan, fo bi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3aee302f199c59b67f963eaaec4daebff03194252c7057a0a1d97ed067e9c7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/8\/6-7.1791950567175.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ɲininka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "muso in"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "masa ka bolo-kɛtigi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɛɛ min ye a ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "foro-denw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "denw"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "foro"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "don min na"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "a y'a to"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bi"
+    }
+  ],
+  "timestamp": "2026-10-14T04:02:47.176203337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax-adjacent",
+      "subject": "פתגם",
+      "rationale": "Persian loanword (patigama) for a royal sentence, rare in Tanakh; Bambara 'datu' is likewise a borrowed court word"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למגדול ועד קטן",
+      "rationale": "merism 'from great to small' kept as full span 'bon de fo fitinin'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bɛɛ kɔnɔ",
+      "rationale": "בכל מלכותו is 'in all his kingdom'; Bambara adds locative 'kɔnɔ' which the Hebrew construct implies"
+    }
+  ],
+  "translation": "Masakɛ ka datu min bɛna kɛ, bɛna bɛn a masaya bɛɛ kɔnɔ — sabu a ye bon ye — musow bɛɛ bɛna ɲɛmaya di u cɛw ma, bon de fo fitinin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9a33d35b65288750b57841875921342f7516de5e2a1f95bf5c9b6aae50cdb6ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/1\/17-20.1791945507330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "bɛna bɛn"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "datu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ kɔnɔ"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "a masaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "bon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "a"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "musow"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "bɛna di"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ɲɛmaya"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "u cɛw ma"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "bon de"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "fitinin"
+    }
+  ],
+  "timestamp": "2026-10-14T02:38:27.332072508Z",
+  "model": "glm-5.3"
+}

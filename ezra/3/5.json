@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 3:5",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a yɛrɛ",
+      "rationale": "Hebrew verse is a verbless list; Bamanankan needs a carrier subject for the offerings"
+    },
+    {
+      "kind": "substitution",
+      "subject": "don-jamabɔw",
+      "rationale": "מועדים is 'appointed times'; don-jamabɔw keeps the fixed-time picture"
+    }
+  ],
+  "translation": "O kɔfɛ, ⟨a yɛrɛ⟩ ye tasuma-saraka min bɛ kɛ tile bɛɛ la, ani kalow la, ani Yawe ka don-jamabɔw bɛɛ minnu bɛ senuma, ani mɔgɔ o o min b'a ɲini ka a yɛrɛ di Yawe ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "51a95af595ec64a53451fff6268b72a2a16b0354979a6905650df2c3a63407a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/3\/5-8.1791946560699.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "o kɔ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o kɔfɛ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "tasuma-saraka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "min bɛ kɛ tile bɛɛ"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "ani kalow la"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ani … bɛɛ"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "don-jamabɔw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המקדשים",
+      "gloss": "minnu bɛ senuma"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ani … bɛɛ"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "min bɛ a yɛrɛ di"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "yɛrɛ-disoya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ma"
+    }
+  ],
+  "timestamp": "2026-10-14T02:56:00.700450741Z",
+  "model": "glm-5.3"
+}

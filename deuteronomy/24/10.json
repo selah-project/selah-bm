@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kabini",
+      "rationale": "עבט rendered 'kabini' (guarantee\/deposit) — the pawn taken as security for a loan."
+    },
+    {
+      "kind": "you",
+      "subject": "תשה",
+      "rationale": "Law addressed to individual Israelite ('i' singular), casuistic form."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לעבט עבטו",
+      "gloss": "",
+      "rationale": "Infinitive-construct doubling, 'to pawn his pawn', flattened to 'ka a kabini ta'."
+    }
+  ],
+  "translation": "Ni i bɛ wari di i ka tɔ ma, fɛn o fɛn min ye wari-minɛ ye, i kana don a so kɔnɔ ka a kabini ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cdf8b6e50b4230c3fef408b52b36eddd2e935af721eb46878f63230031d1d515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/24\/9-12.1791928125882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "i bɛ wari di"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "i ka tɔ"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "wari-minɛ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "fɛn o fɛn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i kana"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "don"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so kɔnɔ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a so"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "ka kabini ta"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "a kabini"
+    }
+  ],
+  "timestamp": "2026-10-13T21:48:45.886105896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mikhtam",
+      "rationale": "מכתם: 'sɛbɛn min senbuma' walima 'sanu-sɛbɛn' — bayɛlɛmabagaw bɛ a kɔrɔ sugandili la; an y'a to Heburu fɔcogo la."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל תשחת",
+      "rationale": "Dɔnniyɔrɔ daɲɛ 'Kana a jɔnjɔn' — diumɔ dɔ ka daminɛ daɲɛ ye, a tɛ kumasen in kɔrɔ ye."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dugukolo-da lajɛbɛn kɔnɔ",
+      "rationale": "Sɛbɛnni-dɔnniyɔrɔ min bɛ wele ko a bɛra Shaul bolo, bɔla kɔnɔ."
+    }
+  ],
+  "translation": "Ɲɛmɔgɔ ma: \"Kana a jɔnjɔn\" — Dawid ka sɛbɛn, mikhtam, a bɔli waati, Shaul (Sawula) ɲɛ na, a bɛ dugukolo-da lajɛbɛn kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/57\/1-4.1791940397552.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ɲɛmɔgɔ ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "a jɔnjɔn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid (Dawuda) ka sɛbɛn"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "a bɔli waati"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɲɛ na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul (Sawula)"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "dugukolo-da lajɛbɛn kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:17.552814806Z",
+  "model": "glm-5.3"
+}

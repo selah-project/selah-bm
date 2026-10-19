@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sanu-kɛsisɛn",
+      "rationale": "ארון literally 'box'; Bambara compounds to 'wooden chest'"
+    },
+    {
+      "kind": "addition",
+      "subject": "in",
+      "rationale": "Bambara definite article supplied where Hebrew has ה"
+    }
+  ],
+  "translation": "N y'aka fɔ, n ye kulu in na bɔ, n ye ⟨את⟩ sɛbɛn-kalansow bila sanu-kɛsisɛn in kɔnɔ min n y'i dilan, olu ye yen Yawe min na n min'i kɛli cogo min na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd6f3422dfe18aa0169a6b7592ae2c3b82f03f978a642382451ecff2d54abfb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/10\/5-8.1791927699958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "n y'aka fɔ"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "n ye ... na bɔ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kulu in"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "n ye ... bila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sɛbɛn-kalansow in"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "sɛbɛn-kalansow in"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sanu-kɛsisɛn in kɔnɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "n y'i dilan"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "olu ye yen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "o ye n kɛli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T21:41:39.964737447Z",
+  "model": "glm-5.3"
+}

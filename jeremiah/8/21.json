@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 8:21",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר\/השברתי",
+      "rationale": "Brokenness\/broken — the root שבר repeats: 'over the breaking of my people I am broken'; Bambara loses the echo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ne dibiya-ra",
+      "rationale": "קדרתי literally 'I am black\/ashen(-dark)', mourning idiom; rendered 'I am darkened in grief'."
+    },
+    {
+      "kind": "crux",
+      "subject": "verse division",
+      "rationale": "KJV\/Geneva place 'the harvest is past' (v.20 in Hebrew) here; Hebrew 8:21 begins at על שבר."
+    }
+  ],
+  "translation": "Ne ka jama denmuso gebɛ kama, ne joo-ra; ne dibiya-ra, sɔsɔ ye ne minɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "acb5b3cd3d21efab2b506d45b4e87f34cb07ab5fd115ec35ee4fe005956c2792",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/8\/21-23.1791935138259.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kama"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "gebɛ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "denmuso"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne ka jama"
+    },
+    {
+      "surface": "השברתי",
+      "gloss": "ne joo-ra"
+    },
+    {
+      "surface": "קדרתי",
+      "gloss": "ne dibiya-ra"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sɔsɔ"
+    },
+    {
+      "surface": "החזקתני",
+      "gloss": "minɛ ne"
+    }
+  ],
+  "timestamp": "2026-10-13T23:45:38.259947920Z",
+  "model": "glm-5.3"
+}

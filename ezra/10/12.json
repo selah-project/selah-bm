@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kan fitin",
+      "rationale": "'with a great voice' — Hebrew idiom for a loud communal shout, rendered with loud voice."
+    },
+    {
+      "kind": "crux",
+      "subject": "עלינו לעשות",
+      "rationale": "'on us to do' — YLT keeps the infinitive; KJV 'so must we do' reads it as obligation."
+    }
+  ],
+  "translation": "Jama bɛɛ ye jaabi, u fɔra ni kan fitin ye ko: i ni kuma — i y'a fɔ an ye cogo min na, an bɛ se k'a ke.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9f9f29d41547f27acca2cbb80ea88b76eef33363cefd452f4051d3d6e31f1b94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/10\/9-12.1791946673255.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "jaabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jama"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "u fɔra"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "fitin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "i ni kuma"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "i y'a fɔ cogo min na"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "an ye"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "k'a ke"
+    }
+  ],
+  "timestamp": "2026-10-14T02:57:53.256988333Z",
+  "model": "glm-5.3"
+}

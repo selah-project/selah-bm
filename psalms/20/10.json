@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Masakɛ",
+      "rationale": "הושיעה המלך: is 'the king' object of 'save' (save the king, YLT) or separate vocative (save, YHWH; let the King answer, KJV\/JPS)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i ka an la balo⟩",
+      "rationale": "Bamanankan needs a possessive frame for the imperative 'save', supplied in brackets"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "direct address to Yawe, closing plea of the psalm"
+    }
+  ],
+  "translation": "Yawe, ⟨i ka an la balo⟩! Masakɛ bɛna an kan da don min na an y'a wele.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "818e6ed0e344f179ad700476c5a46fa027c8d31a3544aa3c03a89f5a27c8839e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/20\/9-10.1791939707222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "i ka an la balo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "bɛna an kan da"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don min na"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "an y'a wele"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:47.222954238Z",
+  "model": "glm-5.3"
+}

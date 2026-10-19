@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יבצר",
+      "rationale": "בצר from 'cut off\/gather grapes': KJV 'cut off' vs YLT 'gather' vs JPS 'minisheth' — the verb's picture is debated."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוח is wind\/breath\/spirit; Bambara fiɲɛ covers wind and spirit."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a yɛrɛ bɛ⟩",
+      "rationale": "Hebrew has no pronoun; added to mark who is fearful to the kings."
+    },
+    {
+      "kind": "you",
+      "subject": "to the kings of the earth",
+      "rationale": "Indirect address naming Yawe's awe before earthly kings."
+    }
+  ],
+  "translation": "A bɛ negidibaw ka fiɲɛ bɔ ⟨a yɛrɛ bɛ⟩ siranbaliya dɔ ye dugukolo masakɛw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eb78fc4a60bd8f5941b7fa786b88fc66a5436e02bd61b66edd90c1c4e0d5dc39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/76\/13-13.1791940644693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יִ֭בְצֹר",
+      "gloss": "a bɛ … bɔ"
+    },
+    {
+      "surface": "ר֣וּחַ",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "נְגִידִ֑ים",
+      "gloss": "negidibaw"
+    },
+    {
+      "surface": "נ֝וֹרָ֗א",
+      "gloss": "siranbaliya dɔ"
+    },
+    {
+      "surface": "לְמַלְכֵי",
+      "gloss": "masakɛw ye"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:24.693582029Z",
+  "model": "glm-5.3"
+}

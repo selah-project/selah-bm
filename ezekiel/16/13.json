@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 16:13",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אכלתי",
+      "rationale": "form looks 1cs ('I ate') but context reads 2fs 'you ate'; some read as archaic 2fs"
+    },
+    {
+      "kind": "addition",
+      "subject": "ani",
+      "rationale": "Bambara needs conjunction between list items where Hebrew uses waw prefix"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerusalem",
+      "rationale": "whole verse addresses Jerusalem as the woman"
+    }
+  ],
+  "translation": "I y'i ɲɛfo ni sanu ni warigwɛ ye, ani i ka mabɛrɛ min ye sɛn jɛman, siliki ni bɛnta ye; sɛngi jɛman, kɔnɔmɔgulen ani tulu, i dun; i ka ɲi kosɛbɛ kosɛbɛ, i nana mɛn ka kɛ masaya ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8f6f64e27475b261e727ab50998d4addc71408d1c55ad1c011a120509953862e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/16\/13-16.1791936964742.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעדי",
+      "gloss": "i y'i ɲɛfo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ni warigwɛ"
+    },
+    {
+      "surface": "ומלבושך",
+      "gloss": "i ka mabɛrɛ"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "sɛn jɛman"
+    },
+    {
+      "surface": "ומשי",
+      "gloss": "siliki"
+    },
+    {
+      "surface": "ורקמה",
+      "gloss": "bɛnta"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sɛngi jɛman"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "kɔnɔmɔgulen"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "tulu"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "i dun"
+    },
+    {
+      "surface": "ותיפי",
+      "gloss": "i ka ɲi"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "kosɛbɛ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    },
+    {
+      "surface": "ותצלחי",
+      "gloss": "i nana mɛn"
+    },
+    {
+      "surface": "למלוכה",
+      "gloss": "ka kɛ masaya ye"
+    }
+  ],
+  "timestamp": "2026-10-14T00:16:04.742926514Z",
+  "model": "glm-5.3"
+}

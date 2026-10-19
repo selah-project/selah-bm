@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kafara",
+      "rationale": "כפר kɔrɔ ye «ka dabɔ ( Yugusuba) » ye — ka jurumu fin bila, ka a fin; « kafara » dɔgɔya a la."
+    },
+    {
+      "kind": "you",
+      "subject": "Gibonitew",
+      "rationale": "Dawid bɛ kuma Gibonitew ye ni ɲininkili fila ye — kuma tilennen don u kan."
+    }
+  ],
+  "translation": "Dawid ko Gibonitew ye: Mun ne bɛ se ka kɛ aw ye? Mun na ne bɛ se ka kafara? Aw ye ⟨את⟩ Yawe ka lasigiden duba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "20c2868b665c4622140a1657fb7101e51e5e4c34b72231e31306dcef9f9d3d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/21\/1-4.1791931513346.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "Gibonitew"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "n bɛ kɛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "kafara"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ka lasigiden"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "lasigiden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T22:45:13.351026743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ciden",
+      "rationale": "Hebrew 'sent and took' implies a messenger; ciden supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ta bɔ",
+      "rationale": " Hebrew 'take' rendered 'bring out of' per sense"
+    }
+  ],
+  "translation": "Masa Shelomo (Sulɛman) ye ciden ci, ka ⟨את⟩ Hiram ta bɔ Tsori (Tire).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7ebbcfcafde2ec3f44535ec4d5af3406182a8e9527a34f23a26eb69a3789fad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/7\/13-16.1791931899710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ye ciden ci"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ka ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "Tsori"
+    }
+  ],
+  "timestamp": "2026-10-13T22:51:39.718547576Z",
+  "model": "glm-5.3"
+}

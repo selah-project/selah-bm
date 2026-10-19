@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tilew boli",
+      "rationale": "Hebrew 'my days fled' — days run like a runner; Bambara keeps the running picture"
+    },
+    {
+      "kind": "alternative",
+      "subject": "רץ",
+      "rationale": "'runner' (courier) vs 'post' (KJV); rendering as bolomɔgɔ, one who runs"
+    }
+  ],
+  "translation": "N tilew ka ɔgɔya bolomɔgɔ ye min bɛ tombolo; u boli, u ma ye diye ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4801450eb48f99f045c3af83460d9b6faffe4507bc4d9480dc0e2b91a1342361",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/9\/25-28.1791943462332.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "ani n tilew"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ka ɔgɔya"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ye ... ye"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "bolomɔgɔ min bɛ tombolo"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "u boli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "u ma ye ... ye"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "diye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:04:22.333595260Z",
+  "model": "glm-5.3"
+}

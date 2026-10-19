@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "oracle inquiry",
+      "rationale": "second hidden-future question answered by Yawe"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "suffixed aleph-tav 'me' — the pronoun itself is supplied by the suffix, glossed as ne"
+    }
+  ],
+  "translation": "Dawid ko: Yala Kewila tigiw bɛna ⟨את⟩ ne ni ⟨את⟩ n ka mɔgɔw digi Shawulu bolo la wa? Yawe ko: U bɛna u digi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/23\/9-12.1791930560420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "bɛna digi"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "tigiw"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kewila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "n ka mɔgɔw"
+    },
+    {
+      "surface": "אנשׁי",
+      "gloss": "n ka mɔgɔw"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo la"
+    },
+    {
+      "surface": "שׁאול",
+      "gloss": "Shawulu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "bɛna u digi"
+    }
+  ],
+  "timestamp": "2026-10-13T22:29:20.424578968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bagafini",
+      "rationale": "בשק ye fini min ka gɛlɛn ka bɔ saaju la; Bamanankan tɛ daɲɛ tilennen dɔɔnin dɔ ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "gloss": "wayway-dañɛ min bɛ kɛ waati-dañɛ ye o, a bɛ Bayɛlɛmali kɔnɔ ka kɛ 'a kɛra cogo min na' ye"
+    }
+  ],
+  "translation": "A kɛra cogo min na: masakɛ Hizikiyahu (Hizikiya) y'a mɛn, a ye ⟨את⟩ a ka finiw laja, a ye bagafini ɲɔ sin a yɛrɛ kan, a donna Yawe so.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fa7c2b83604e4475c7031ddbe0206dad3b1f567ffa09c04745d3fb2c86541665",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/19\/1-4.1791933143463.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a kɛra cogo min na"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "y'a mɛn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "a ye … laja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka finiw"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "a ka finiw"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "a ye … ɲɔ sin a yɛrɛ kan"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "bagafini"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a donna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T23:12:23.464984167Z",
+  "model": "glm-5.3"
+}

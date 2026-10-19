@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שרשם יבש פרי",
+      "rationale": "Root–fruit imagery continues the planted-tree picture of v13; tree metaphor sustained."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בלי יעשון",
+      "rationale": "Literal 'they will not make fruit' = 'u tɛ se ka jiriden wuli' — the making verb becomes an ability phrase."
+    }
+  ],
+  "translation": "Efrayim dugunen don, u jiri-ɲɔgɔnna (suman) bɔnna; u tɛ se ka jiriden wuli; hali ni u wolila, ne bɛ fin minnu la kanuya — u bitikolo denw — di u faga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f6243b485cf7bec4dc7695fe6fadca4abcc53382ac49bec8bccc0ae4a6405495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/9\/13-16.1791938245692.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "dugunen don"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "u suman (jiri-ɲɔgɔnna)"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "bɔnna"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "jiriden"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tɛ se ka … wuli"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "wuli"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "u wolila"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "ne bɛ … faga"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "fin minnu la kanuya"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "u bitikolo"
+    }
+  ],
+  "timestamp": "2026-10-14T00:37:25.693597104Z",
+  "model": "glm-5.3"
+}

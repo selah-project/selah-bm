@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 25:18",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a ye aw ka ɲɛgɛn bɔ",
+      "rationale": "ויזנב literally 'he cut off your tail (zanav)' — a tail-picture verb; rendered 'cut off your rear ones', the picture is kept but the tail-word is not Bamanankan-idiomatic."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הנחשלים",
+      "rationale": "Rare passive participle 'the weakened\/limping ones', occurring only here — kept as 'nɔgɔyala' (weak ones)."
+    },
+    {
+      "kind": "crux",
+      "subject": "Elohim",
+      "rationale": "'He did not fear Elohim' — some read Elohim here as 'God', some ancient versions as 'you showed no fear of God'; name kept untranslated."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרך",
+      "rationale": "Root קרה 'happen upon' also evokes קר 'cold' in rabbinic reading (they cooled you toward heaven) — wordplay untranslatable here."
+    }
+  ],
+  "translation": "Min i bɛn aw la sira la, a ye aw ka ɲɛgɛn bɔ — o bɛɛ minnu tun ye nɔgɔyala — aw kɔfɛ, ka ɔ fɔ aw tun ye maayalenw ni lasaralenw, nka a ma Elohim siran.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0d587a611ce6b42080e05f531a9eef60016013debea04f41561d6deae8b5db96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/25\/17-19.1791928146471.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "קרך",
+      "gloss": "bɛn i la"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira la"
+    },
+    {
+      "surface": "ויזנב",
+      "gloss": "a ye aw ka ɲɛgɛn bɔ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aw la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o bɛɛ"
+    },
+    {
+      "surface": "הנחשלים",
+      "gloss": "nɔgɔyala"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "aw kɔfɛ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "maayalen"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "lasaralen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka ... ma"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "siran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-13T21:49:06.473660033Z",
+  "model": "glm-5.3"
+}

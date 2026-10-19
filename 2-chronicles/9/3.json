@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "gloss": "",
+      "rationale": "Bambara relative clause needs o ('he') to carry the verb; a word the Hebrew lacks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "so",
+      "rationale": "הבית here is Solomon's palace, rendered with the plain word for house"
+    }
+  ],
+  "translation": "Shɛba masamuso ye ⟨את⟩ Shelomo ka dɔnniya ye, ani so min o ye dabɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2b6658eb8b144776200fa24f9b6f3cc3b46e9e81b80fe172c543c4e3f4385aa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/9\/1-4.1791948909086.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ye … ye"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "masamuso"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shɛba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo ka dɔnniya"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "dɔnniya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo ka"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ani so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dabɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:35:09.087789858Z",
+  "model": "glm-5.3"
+}

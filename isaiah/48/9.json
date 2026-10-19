@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew verb אחטם carries no explicit object; Bambara needs it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jaugu",
+      "rationale": "אף literally 'nose\/nostrils', anger by extension"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel (Yakov\/Isirayeli)",
+      "rationale": "Yawe addresses Israel directly in second person"
+    }
+  ],
+  "translation": "N tɔgɔ kama, n bɛ n jaugu kɛ awa, ani n duba-fɔli kama n bɛ ⟨a⟩ domi i la, walasa n tɛ ⟨i⟩ fa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/48\/9-12.1791934396844.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kama"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "n tɔgɔ"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "n bɛ … kɛ awa"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "n jaugu"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ani n duba-fɔli"
+    },
+    {
+      "surface": "אחטם",
+      "gloss": "n bɛ … domi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "walasa n tɛ"
+    },
+    {
+      "surface": "הכריתך",
+      "gloss": "i fa"
+    }
+  ],
+  "timestamp": "2026-10-13T23:33:16.845259125Z",
+  "model": "glm-5.3"
+}

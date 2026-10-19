@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשרי",
+      "rationale": "'how happy!' interjection rendered as a blessing statement 'duba bɛ … la' because Bambara lacks the exclamative plural-construct"
+    },
+    {
+      "kind": "invitation",
+      "subject": "אשרי כל ירא יהוה",
+      "rationale": "Beatitude summons the hearer into the blessed state"
+    }
+  ],
+  "translation": "Sanfe-sira donkili. Duba bɛ bɛɛ la minnu bɛ Yawe siran, minnu bɛ taa a siraw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/128\/1-4.1791941706934.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "donkili"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sanfe-sira"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "duba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "min siran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "minnu bɛ taa"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "a siraw la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:06.934566632Z",
+  "model": "glm-5.3"
+}

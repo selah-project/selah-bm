@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 28:31",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olu",
+      "rationale": "object pronoun supplied: Hebrew תעשו has no stated object"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dɔgɔsi tɛ u la",
+      "rationale": "תמימם is 'whole\/blameless'; rendered as flawless animals"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minɛsarakaw",
+      "rationale": "נסכים is libations, poured-out drink offerings"
+    }
+  ],
+  "translation": "O ti lasarasaraka min bɛ kɛ tuma bɛɛ ni a ka dibu, aw bɛ ⟨olu⟩ kɛ; olu ye sago saniyaba ye aw kama, ni ⟨olu ka⟩ minɛsarakaw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/28\/29-31.1791927120813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "o ti"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "lasarasaraka"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "min bɛ kɛ tuma bɛɛ"
+    },
+    {
+      "surface": "ומנחתו",
+      "gloss": "ni a ka dibu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aw bɛ kɛ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "sago saniyaba"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olu ye … ye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw kama"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ni minɛsarakaw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:32:00.813998584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "את פני יהוה",
+      "rationale": "'Before the face of YHWH', same idiom as v.17, chaining the boy Samuel to the priests' sin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "efod fin",
+      "rationale": "חגור אפוד בד is literally 'girded with an ephod of linen'; order rearranged in Bambara."
+    }
+  ],
+  "translation": "Samuwɛl yera Yawe ⟨את⟩ ɲɛkɔrɔ baarala, denminen ye, a ye efod fin sera.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "53307a92db703bb329923e8eec1180f4547d05a5bc0d9aeb9b55fc69c224d5b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/2\/17-20.1791929920945.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Samuwɛl"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "baarala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ɲɛ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ɲɛkɔrɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "denminen"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "sera"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "fin"
+    }
+  ],
+  "timestamp": "2026-10-13T22:18:40.948725832Z",
+  "model": "glm-5.3"
+}

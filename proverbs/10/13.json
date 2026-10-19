@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 10:13",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ",
+      "rationale": "Hebrew second half has no verb; Bambara existential required"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kilisi",
+      "rationale": "שבט is a rod\/stick of punishment; rendered with whip-word, the punishing-instrument sense kept"
+    }
+  ],
+  "translation": "Hakilidɔnbaga da la, dɔnni bɛ ɲɛ; nka kilisi ⟨bɛ⟩ dusukun-bɔlen ka gɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3327ddd08224dd2b01ba9ebc43fe55f4beea596d03ea59b3aef588bb4393e959",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/10\/13-16.1791942416178.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "da la"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "hakilidɔnbaga"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bɛ ɲɛ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "dɔnni"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "nka kilisi"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "gɔ la"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "-bɔlen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    }
+  ],
+  "timestamp": "2026-10-14T01:46:56.178728902Z",
+  "model": "glm-5.3"
+}

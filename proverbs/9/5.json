@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne ka",
+      "rationale": "Hebrew has 'my bread\/my wine' with no possessive pronoun apart from the suffix; Bambara needs ne ka"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Wisdom's call",
+      "rationale": "plural imperatives summon the simple to her table"
+    }
+  ],
+  "translation": "Aw na, aw dun ne ka buru, aw min ne ka diwɛn min n ye ɲagami.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ba54514a2842e0a842f4b9a272f64e53e48c68672d900aa915d7f018379fe2f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/9\/5-8.1791942320524.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "aw na"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "aw dun"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "ne ka buru"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "aw min"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "ne ka diwɛn"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "min n ye ɲagami"
+    }
+  ],
+  "timestamp": "2026-10-14T01:45:20.525575751Z",
+  "model": "glm-5.3"
+}

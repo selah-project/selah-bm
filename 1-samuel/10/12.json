@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "u fa ye mun",
+      "rationale": "'Who is their father?' — either dismissing the prophets' pedigree or noting God inspires them, not lineage"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגם שאול בנביאים",
+      "rationale": "Verse 11's question now quoted as a proverb; identical wording kept so the refrain is visible"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kumadon",
+      "rationale": "The verse itself marks the saying becoming a fixed proverb — a counted cultural fact"
+    }
+  ],
+  "translation": "O yɔrɔ dɔ mɔgɔ dɔ jaabi ko: ani u fa ye mun? O de sabu, kuma kɛra kumadon ye ko: wali Shaul fana de nabiw la?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a004ae1c86ab7e71dd760a3915358d6eaee7b31d1e41006ebb8fd68290b4adc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/10\/9-12.1791930160786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ dɔ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "o yɔrɔ dɔ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ani ... ye mun"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "u fa"
+    },
+    {
+      "surface": "על",
+      "gloss": "o la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o de sabu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "kumadon ye"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "wali ... fana de"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "nabiw la"
+    }
+  ],
+  "timestamp": "2026-10-13T22:22:40.788929337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 13:5",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כתמול שלשום",
+      "rationale": "'ni bi ni kalo tɛmɛnen cogo ye' — literal 'as yesterday and day-before-yesterday', idiom for 'as formerly'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מושיע",
+      "gloss_note": "",
+      "rationale": "'mɔgɔ min bɛ furakɛ' (one-who-delivers); Hebrew participle of ישׁע kept as a doer-shape, not a title",
+      "notes": ""
+    },
+    {
+      "kind": "elision",
+      "subject": "באהליהם",
+      "rationale": "'u so kɔnɔ' softens 'in their tents' to 'in their homes'; tent-word ɲɛgɛso avoided for readability"
+    }
+  ],
+  "translation": "Yawe ye Israyel ma mɔgɔ min bɛ furakɛ di, kabini a bɔra Aram (Siria) bolo ma, ani Israyel denw y'u sigi u so kɔnɔ, ni bi ni kalo tɛmɛnen cogo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/13\/5-8.1791932985497.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a y'a … di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israyel ma"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mɔgɔ min bɛ furakɛ"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "u bɔra"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "…bolo ma jukɔ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "u sigira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "u so kɔnɔ"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "ni bi"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ni kalo tɛmɛnen cogo ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:09:45.503102572Z",
+  "model": "glm-5.3"
+}

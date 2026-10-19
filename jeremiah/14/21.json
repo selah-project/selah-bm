@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 14:21",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "an",
+      "rationale": "Hebrew verb תנאץ has no explicit object pronoun; 'an' (us) is supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "jalaki",
+      "rationale": "נאץ: 'despise\/abhor' (KJV, ASV) vs 'contemn' (JPS) vs 'give over to shame' (Wycliffe)"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "direct plea addressed to Yawe within the communal confession"
+    }
+  ],
+  "translation": "Kana an jalaki i tɔgɔ sabu; kana i ka ɲɛtan sigilenba dibiya kɛ; k'aw yɛlɛko, kana i ka layidu tigɛ ⟨את⟩ an ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0a22c37075a4a00cdee73751f0e66c7636c43dfc933c35debd38bff90bcb38a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/14\/21-22.1791935271306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תנאץ",
+      "gloss": "jalaki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i tɔgɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תנבל",
+      "gloss": "dibiya kɛ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "sigilenba"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "i ka ɲɛtan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "k'aw yɛlɛko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "tigɛ"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "i ka layidu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ an ye",
+      "marks": "an — layidu min bɛ an bɛɛ ni"
+    }
+  ],
+  "timestamp": "2026-10-13T23:47:51.306951757Z",
+  "model": "glm-5.3"
+}

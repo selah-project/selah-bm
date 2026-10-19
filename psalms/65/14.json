@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כרים הצאן",
+      "rationale": "'the rams of the flock' — do the flocks clothe the pastures, or are pastures clothed with flocks? KJV supplies the passive"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "ergative marker required by Bamanankan transitive construction, Hebrew lacks it"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבשו \/ יעטפו",
+      "rationale": "two clothing verbs (put-on, wrap-around) framing the verse — dressing imagery partially lost"
+    }
+  ],
+  "translation": "Sagaw ka misew ye nakɔw donna, dakunw bɛ kɔ miri, u bɛ wele, u bɛ dɔnkili da fana.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8bd1d6519478a185abca914a7ea7d6042fd66b1d3baa98088102f49994c71d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/65\/13-14.1791940411746.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "ye … donna"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "misew"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sagaw"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "dakunw"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "bɛ miri"
+    },
+    {
+      "surface": "בר",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "bɛ wele"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fana"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "bɛ dɔnkili da"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:31.747689399Z",
+  "model": "glm-5.3"
+}

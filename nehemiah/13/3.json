@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערב",
+      "rationale": "'mixed multitude' (Exod 12:38) vs 'mongrel race' vs 'foreign mixture' — whom exactly was separated is disputed"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "Hebrew narrative opener 'and it came to pass' rendered as a situational frame"
+    }
+  ],
+  "translation": "A kɛra cogo min na: ni u ye ⟨את⟩ Tora mɛn, u ye mɔgɔ-lamɛnw bɛɛ bɔ Yisraɛla la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "82e74346f050f7983a14ff82b45861843a0229ec55164d5445f98464f7dcdfab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/13\/1-4.1791947445981.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a kɛra cogo min na"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "ni u ye … mɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "u ye … bɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mɔgɔ-lamɛnw"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Yisraɛla la"
+    }
+  ],
+  "timestamp": "2026-10-14T03:10:45.982934547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "דור",
+      "rationale": "'generation of your children' folded into 'i ka denw'; the noun דור has no clean Bambara equivalent here"
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "past marker added to mark the unspoken-contrary-to-fact condition the Hebrew leaves implicit"
+    },
+    {
+      "kind": "crux",
+      "subject": "בגדתי",
+      "rationale": "בגד 'act treacherously\/deal faithlessly': 'offend against' (KJV), 'been faithless to' (JPS), 'betray' (BSB)"
+    }
+  ],
+  "translation": "Ni m'an y'a fɔ ko n bɛ a fɔ i n'a fɔ nin, an — nd'oye, n tun bɛ i ka denw bɔbɔri.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/73\/13-16.1791940662125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ni m'an"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "n bɛ a fɔ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "i n'a fɔ nin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nd'oye"
+    },
+    {
+      "surface": "דור",
+      "gloss": "⟨dɔgɔtɔrɔba⟩"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "i ka denw"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "n tun bɛ … bɔbɔri"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:42.126415079Z",
+  "model": "glm-5.3"
+}

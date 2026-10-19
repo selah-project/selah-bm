@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aw",
+      "rationale": "Hebrew plural imperative lacks an explicit pronoun; Bambara needs aw"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe ka suna nɔlu",
+      "rationale": "direct address to the servants of Yawe"
+    },
+    {
+      "kind": "invitation",
+      "subject": "fɔli kɛ",
+      "rationale": "triple imperative summons to praise"
+    }
+  ],
+  "translation": "Aw Ye fɔli kɛ, Ya! Aw Ye ⟨את⟩ Yawe tɔgɔ fɔli kɛ; Yawe ka suna nɔlu, aw Ye fɔli kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/135\/1-4.1791941797547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "aw fɔli kɛ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "aw fɔli kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe tɔgɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "aw fɔli kɛ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "suna nɔlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:37.547671495Z",
+  "model": "glm-5.3"
+}

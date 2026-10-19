@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "דבר has no indefinite marker; Bambara needs 'kuma si' (not a word) to render 'not a word'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "aleph-tav with suffix rendered as bare ⟨את⟩ marker pointing at kuma"
+    },
+    {
+      "kind": "addition",
+      "subject": "aw",
+      "rationale": "Hebrew negative לא תענהו is singular address; Bambara plural 'aw' reflects the many officials commanded"
+    }
+  ],
+  "translation": "U ye suɲɲa ta, ani kuma si jaabi ma a ye, sabu masakɛ ka laseli ye n'ko: Aw kana a jaabi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ca36c4a236b330a95c6fef8a7cb197cade9895cc3c991b9e4c96374a235022ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/36\/21-22.1791934120766.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "u ye suɲɲa ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani … ma"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "jaabi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kuma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "laseli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "n'ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aw kana"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "a jaabi"
+    }
+  ],
+  "timestamp": "2026-10-13T23:28:40.770182392Z",
+  "model": "glm-5.3"
+}

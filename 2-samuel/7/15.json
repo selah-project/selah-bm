@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 7:15",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept as 'hesed', not collapsed to a single word like kanuya"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסור\/הסרתי",
+      "rationale": "root סור three times — turn aside \/ I removed \/ I removed — repetition kept with 'bɔ'"
+    }
+  ],
+  "translation": "Ani n ka hesed tɛna bɔ a la, i n'a fɔ ne y'a bɔ Shaul (Sawulu) fɛ, min ne y'a bɔ i ɲɛw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bae71cb18a95e60b73fabc575f3a3296ce7f1885291d8ccaac33a9c12f9d01e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/7\/13-16.1791930987081.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "ani n ka hesed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "bɛna bɔ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "ne y'a bɔ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "…fɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul (Sawulu)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "ne y'a bɔ"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "i ɲɛw la"
+    }
+  ],
+  "timestamp": "2026-10-13T22:36:27.084687665Z",
+  "model": "glm-5.3"
+}

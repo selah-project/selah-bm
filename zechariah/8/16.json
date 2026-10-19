@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 8:16",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "This את is the preposition 'with' (Strong's 854), not the direct-object marker — rendered 'ni…ye', not ⟨את⟩."
+    },
+    {
+      "kind": "invitation",
+      "subject": "civic imperatives",
+      "rationale": "Chain of plural imperatives (speak, judge) summons the community to act."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמת…אמת",
+      "rationale": "'Truth' frames the clause twice — an inclusio around 'each man with his neighbor'."
+    }
+  ],
+  "translation": "Nin ye kumaw ye minnu aw bɛna kɛ: aw bɛ tiɲɛ fɔ, mɔgɔ kelen-kelen ni ⟨את⟩ a bɛn-ɲɛmɔgɔ ye; tiɲɛ, ani hɛrɛ sariya-fɔli, aw bɛ datugu aw ka dow kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "705d74d82d87111793bbf84a739679aff1d169c2c813eaccdcb758ec3f458117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/8\/13-16.1791939235720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aw bɛna kɛ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "aw bɛ fɔ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen-kelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ni…ye"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a bɛn-ɲɛmɔgɔ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ani hɛrɛ sariya-fɔli"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "aw bɛ datugu"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "aw ka dow kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:53:55.721689179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a bɛna silikila",
+      "rationale": "תורד is passive 'you will be brought down'; Bambara supplies pronoun and passive-like verb phrase."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ascend\/descend",
+      "rationale": "׃14's 'I will ascend' answered by 'you will be brought down' — height-to-depth reversal, kept by gɛn\/silikila contrast."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dugubaw",
+      "rationale": "ירכתי literally 'flanks, recesses'; rendered 'dugubaw' (depths\/remote parts)."
+    }
+  ],
+  "translation": "Nka ⟨a bɛna silikila⟩ Sheol la, bɔlan jugu ka dugubaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4f4686a3f2a9d920ff6c6eaf4a9149d21d6310382c94c8e0483d3098e3b3234d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/14\/14-15.1791950680466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "⟨a bɛna silikila⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "dugubaw"
+    },
+    {
+      "surface": "בור",
+      "gloss": "bɔlan jugu"
+    }
+  ],
+  "timestamp": "2026-10-14T04:04:40.467251526Z",
+  "model": "glm-5.3"
+}

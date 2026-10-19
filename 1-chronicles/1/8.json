@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Mitsrayim",
+      "rationale": "dual form 'two Mitsraim' (Upper and Lower Egypt) carried as the name Mitsrayim; first mention glossed Misira"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "name list of Kam's four sons, the nations' census"
+    }
+  ],
+  "translation": "Kam (Ham) denkɛw: Kush, ani Mitsrayim (Misira), Put, ani Kenaan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "546c94284ef12ced0d55276aac6c88de94b4219db0e22611faddcdc5cf0b7ea4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/1\/5-8.1791947321653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kam (Ham)"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ani Mitsrayim (Misira)"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ani Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-14T03:08:41.654949311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אטנפם (טנף)",
+      "rationale": "The verb 'to soil' appears only here in the Tanakh."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallel halves",
+      "rationale": "Two identical how-questions mirror each clause (put off\/put on, washed\/soiled), kept by the repeated cogodi."
+    }
+  ],
+  "translation": "N bɔra ⟨את⟩ n ka kɛsɛ la; cogodi na n y'a labɔ a la? N masanra ⟨את⟩ n ka sɛnw; cogodi na n y'u jɛgɛ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/5\/1-4.1791944569612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "n bɔra … la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n ka kɛsɛ"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "n ka kɛsɛ"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "cogodi"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "n y'a labɔ a la"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "n masanra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n ka sɛnw"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "n ka sɛnw"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "cogodi"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "n y'u jɛgɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:22:49.613866284Z",
+  "model": "glm-5.3"
+}

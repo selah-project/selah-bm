@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ויפקד",
+      "rationale": "mustering\/census of Aram; the same verb recurs in v27 for Israel's muster"
+    },
+    {
+      "kind": "addition",
+      "subject": "tiyɛn na",
+      "rationale": "Bambara narrative needs a 'it came to pass' frame; ויהי folded into it"
+    }
+  ],
+  "translation": "San ka segin na tiyɛn na, Ben-Hadad (Ben-Hadada) ye ⟨את⟩ Aramuw jɛsiri, a nana Afeke (Afeka), ka taa kɛ Israyelw ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dda7015237efff6b35ac886273246967713e63c84c99c8763a843ebac5d11006",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/20\/25-28.1791932457053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tiyɛn na"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "ka segin na"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ye jɛsiri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramuw"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramuw"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a nana"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeke"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ka taa kɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyelw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:00:57.063346276Z",
+  "model": "glm-5.3"
+}

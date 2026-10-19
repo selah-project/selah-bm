@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩ \/ ⟨a⟩",
+      "rationale": "Hebrew yaṭen lacks an explicit subject; the doer (Yawe, from verse 2) is supplied in Bambara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲɛnamaw",
+      "rationale": "עצתך is 'your counsel\/advice'; ɲɛnamaw renders it as 'your intentions\/plans'"
+    }
+  ],
+  "translation": "⟨A⟩ bɛna i di i dusukun b'a fɔ cogo min na, ani i ɲɛnamaw bɛɛ ⟨a⟩ bɛna u kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/20\/5-8.1791939823034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "bɛna … di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "i dusukun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani … bɛɛ"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "i ɲɛnamaw"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "bɛna … kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:43.035021615Z",
+  "model": "glm-5.3"
+}

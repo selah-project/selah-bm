@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 5:18",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ji bɔyɔrɔ",
+      "rationale": "מקור is a dug source of water; metaphor for wife, kept literal"
+    },
+    {
+      "kind": "addition",
+      "subject": "duba",
+      "rationale": "blessing word supplied for the jussive ברוך"
+    }
+  ],
+  "translation": "I ka ji bɔyɔrɔ ka lasigi ni duba ye, i ka dusu don i ka denmisan muso la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cb5e11857aa1f8d623275b7be3c8a68dc344c55192ad1865286b7a8f31939512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/5\/17-20.1791942209624.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ka lasigi"
+    },
+    {
+      "surface": "מקורך",
+      "gloss": "i ka ji bɔyɔrɔ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ni duba ye"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "dusu don"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "i ka denmisan muso"
+    },
+    {
+      "surface": "נעורך",
+      "gloss": "denmisan (jaman fitinin)"
+    }
+  ],
+  "timestamp": "2026-10-14T01:43:29.625155378Z",
+  "model": "glm-5.3"
+}

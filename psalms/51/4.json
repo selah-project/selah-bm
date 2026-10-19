@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ji-santeya",
+      "rationale": "כבס kɔrɔtɔ 'ka senw ka ji kɔnɔ kabɛ' (furakɛ cogo) — 'ji-santeya' ye nɔgɔya ye, a tɛ kabɛ-taamasiyɛn jira."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "jurumu \/ jurumuye",
+      "rationale": "עון ni חטאת daɲɛfila bɛɛ bɛ 'jurumu' kɔrɔ la nka u ye daɲɛ fila ye — jɛɲɔgɔnya fitinin bɛ Bambara na."
+    }
+  ],
+  "translation": "N ka ji-santeya caman ka bɔ n jurumu la, k'a nɔ n jurumuye bɔ ka n jɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fe8866d2d56353d4a1d9ad7f3f521a9718b01d975b2aa21f395ecd0b8de80bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/51\/1-4.1791940306409.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "caman"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "n ka ji-santeya"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "n jurumu bɔ"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "n jurumuye bɔ"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "ka n jɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:11:46.410067674Z",
+  "model": "glm-5.3"
+}

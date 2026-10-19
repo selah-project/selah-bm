@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 32:2",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף\/אפו",
+      "rationale": "'nose\/nostrils' = anger in Hebrew; Bambara renders with gɛlɛya (hardness\/anger), the nose picture lost."
+    },
+    {
+      "kind": "crux",
+      "subject": "צדקו נפשו מאלהים",
+      "rationale": "'justifying his soul more than God' vs 'before God' — ancient versions differ; rendered 'more than Elohim'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש as 'soul\/life' → Bambara ni, the life-breath word."
+    },
+    {
+      "kind": "measurement",
+      "subject": "fa-dugaw",
+      "rationale": "genealogy naming — lineage of Ram counted as background."
+    }
+  ],
+  "translation": "O kɔ, Eliyu (Elihu), min ye Barakeli (Barakel) den ye, Buzukaw la, Ram (Ram) fa-dugaw na, a hakili gɛlɛnna; a gɛlɛnna Ayubu la, sabu a y'a yɛrɛ ni ɲɛminɛ kosɛbɛ Elohim (Ala) bɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/32\/1-4.1791944107661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "a hakili gɛlɛnna"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kɔngɔ-ɲagami"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Eliyu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "ברכאל",
+      "gloss": "Barakeli"
+    },
+    {
+      "surface": "הבוזי",
+      "gloss": "Buzukaw"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "fa-dugaw na"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "באיוב",
+      "gloss": "Ayubu la"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "gɛlɛnna"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "a kɔngɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu (na)"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "a yɛrɛ-ɲɛfɔ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "Elohim bɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:15:07.665302918Z",
+  "model": "glm-5.3"
+}

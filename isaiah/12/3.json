@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "plural address — to the people Israel."
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Bambara needs a demonstrative where Hebrew has the article ה on הישועה."
+    }
+  ],
+  "translation": "Aw bɛna ji to ni diya ye, ⟨o⟩ woligili bulondiw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b11a1770a91e83a3b027b120f03b4a3702eec15948219e84aca02524f2b22ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/12\/1-4.1791933621358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "aw bɛna ji to"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "ni diya ye"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "bulondiw la"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "o woligili"
+    }
+  ],
+  "timestamp": "2026-10-13T23:20:21.364902538Z",
+  "model": "glm-5.3"
+}

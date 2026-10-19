@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 46:17",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kunku",
+      "rationale": "שאון rendered 'noise\/uproar' as KJV\/JPS; alternatives read it as 'destruction' (YLt 'desolation') from the root's implication"
+    },
+    {
+      "kind": "crux",
+      "subject": "o basigi",
+      "rationale": "העביר המועד: 'he let the appointed time pass' (KJV\/ASV) vs 'the appointed time has passed' (reading the verbs impersonally, cf. Geneva)"
+    },
+    {
+      "kind": "you",
+      "subject": "Egyptian fugitives",
+      "rationale": "the cry of v16 is quoted; the taunt against Pharaoh is spoken by the fleeing soldiers"
+    }
+  ],
+  "translation": "U ye wele o yɔrɔ na ko: Parao, Mitsrayim (Misira) masakɛ, ye kunku dɔrɔn ye; a ye waati-jɔlen min tun bɛ, o basigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7aa0eeef7829677e74f9724532f72c6cbe801c828d1a7f8bece79488b56941d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/46\/17-20.1791936176211.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "u ye wele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o yɔrɔ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Misira)"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "kunku"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "basigi"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "waati-jɔlen"
+    }
+  ],
+  "timestamp": "2026-10-14T00:02:56.211802062Z",
+  "model": "glm-5.3"
+}

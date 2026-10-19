@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארך אפים",
+      "rationale": "sɛbɛnni-yɛrɛ: 'ɲa-fila (ninboli-fila) jan' — kuma bɛɛ di Bamanankan na 'a ka ɲa jan' (slow to anger)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד bɛ to Heburu tɔgɔ ye 'hesed'; makari walima kanuya kelen-kelen dɔgɔ a ye"
+    }
+  ],
+  "translation": "Yawe bɛ dimi-ɲɛ, a bɛ foŋ di, a ka ɲa jan, a bɛ hesed tiimɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/103\/5-8.1791941183518.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "dimi-ɲɛ"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "a bɛ foŋ di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "jan"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ɲa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "bɛ … tiimɛ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:23.519471063Z",
+  "model": "glm-5.3"
+}

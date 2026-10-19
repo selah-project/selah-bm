@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "העפל",
+      "rationale": "'the Ophel' vs KJV 'the tower', JPS 'the hill' — proper-name kept"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויפקד",
+      "rationale": "'deposited\/stored' — lemma ranges from muster to oversee; 'ka o to' (set it down) chosen"
+    }
+  ],
+  "translation": "A naana Ɔfɛla (the Ophel) kan, ka o bɔ u bolo ma, ka o to so kɔnɔ; ka ⟨את⟩ mɔgw ledonna, olu ka taa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "14148017701166900a4c133113357bfb9fa3b4d0ab4a75189f0f3270b28a639c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/5\/21-24.1791932647812.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "naana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…kan"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ɔfɛla"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ka o bɔ…ma"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "u bolo"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ka o to"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so kɔnɔ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ka ledonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mɔgw"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mɔgw"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "olu ka taa"
+    }
+  ],
+  "timestamp": "2026-10-13T23:04:07.826887246Z",
+  "model": "glm-5.3"
+}

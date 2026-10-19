@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siranba kaba",
+      "rationale": "פלצות is a rare word for gripping horror\/affright; one strong phrase carries it."
+    }
+  ],
+  "translation": "Siran ni jegere bɛ don n la, ani siranba kaba ye n kube.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/55\/5-8.1791940328916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "siran"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "ni jegere"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bɛ don"
+    },
+    {
+      "surface": "בי",
+      "gloss": "n la"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "ani … ye n kube"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "siranba kaba"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:08.917330274Z",
+  "model": "glm-5.3"
+}

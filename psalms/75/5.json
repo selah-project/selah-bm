@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוללים\/תהלו",
+      "rationale": "same root as noun and verb — 'boasters, do not boast' — echo lost in Bambara"
+    },
+    {
+      "kind": "addition",
+      "subject": "aw ka",
+      "rationale": "possessive pronoun supplied for קרן, since the verb's subject suffix alone carries it in Hebrew"
+    }
+  ],
+  "translation": "N ye fɔ bonya-fɔlaw ma: aw kana bonya-fɔ; ani jurumutɔrw ma: aw kana ⟨aw ka⟩ kan minɛ sanfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/75\/5-8.1791940742302.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "n ye fɔ"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "bonya-fɔlaw ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aw kana"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "bonya-fɔ"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "ani jurumutɔrw ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aw kana"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "minɛ sanfɛ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:02.302756483Z",
+  "model": "glm-5.3"
+}

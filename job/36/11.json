@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 36:11",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a la⟩",
+      "rationale": "Hebrew has no object for 'serve' — 'him' supplied for clarity."
+    },
+    {
+      "kind": "you",
+      "subject": "u",
+      "rationale": "Elihu's address concerns the afflicted righteous, a conditional summons to obey."
+    }
+  ],
+  "translation": "Ni u mɛn, ani u baara kɛ ⟨a la⟩, u ka sonw bɛna ban ka kɛ nyɛ ye, ani u ka sanw ka kɛ domisenyɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "49a09f21a4b4d4c6e5f24796a2c21b82c7bbada85bd18360ae376fb3088aeafe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/36\/9-12.1791944139241.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "u mɛn"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ani u baara kɛ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bɛna ban"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "u ka sonw"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ka kɛ nyɛ ye"
+    },
+    {
+      "surface": "ושניהם",
+      "gloss": "ani u ka sanw"
+    },
+    {
+      "surface": "בנעימים",
+      "gloss": "ka kɛ domisenyɛ ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:15:39.251510610Z",
+  "model": "glm-5.3"
+}

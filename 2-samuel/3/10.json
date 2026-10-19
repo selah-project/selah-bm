@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "מדן ועד באר שבע",
+      "rationale": "north-to-south merism: the whole land measured from Dan to Beer-sheba"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כסא",
+      "gloss": "fanga-kisi ('power-seat') for throne; Bambara has no single native word"
+    }
+  ],
+  "translation": "ka masaya bɔ Shaul ka so la, ka ⟨את⟩ Dawid ka fanga-kisi jɔ Yisrael kan ani Yuda kan, Dan na fo Beershewa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "310cc5d93efec93e8936256316913592c0c8d1b3acd996b53030dfca13a57ab5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/3\/9-12.1791930891876.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "masaya"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "so la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "ka jɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid ka fanga-kisi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "fanga-kisi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani kan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dan na"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shewa"
+    }
+  ],
+  "timestamp": "2026-10-13T22:34:51.878558802Z",
+  "model": "glm-5.3"
+}

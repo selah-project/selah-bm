@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Hebrew is bare apposition (name + ordinal); Bambara needs the ye copula"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ordinal list",
+      "rationale": "verse ranks men by number: eighth, ninth"
+    }
+  ],
+  "translation": "Yochanan (Yowana) ye seginnan, Elzabad ye konontonan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/12\/13-16.1791947972589.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan (Yowana)"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "seginnan"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "Elzabad"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "konontonan"
+    }
+  ],
+  "timestamp": "2026-10-14T03:19:32.589700583Z",
+  "model": "glm-5.3"
+}

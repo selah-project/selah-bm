@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסיד\/תתחסד · תמים\/תתמם",
+      "rationale": "hitpael echoes its noun — 'with the kind you kindness, with the whole you wholeness' — the root-play is kept by repeating hesed\/timmadi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "i bɛ … jira",
+      "rationale": "Hebrew hitpael 'you show yourself as'; Bambara needs an explicit verb 'jira'"
+    }
+  ],
+  "translation": "Ni hesed-tigi ye, i bɛ hesed jira; ni cɛ timmadi ye, i bɛ timmadiya jira i yɛrɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/25-28.1791939777026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hesed-tigi"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "i bɛ hesed jira"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "timmadi"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "i bɛ timmadiya jira i yɛrɛ la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:57.027050528Z",
+  "model": "glm-5.3"
+}

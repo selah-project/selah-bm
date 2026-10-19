@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 34:28",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בז לגוים",
+      "rationale": "literally 'plunder to the nations'; rendered as 'siyaw ka bara' (prey of the nations), the predicative lamed smoothed into a possessive."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מחריד",
+      "rationale": "participle 'the one causing terror'; rendered as verbal clause 'mɔgɔ si tɛ' u bisigi da' (no one will frighten them), matching the negative ואין."
+    }
+  ],
+  "translation": "U tɛna kɛ siyaw ka bara ye tuguni, dugukolo baganw tɛ' u dun; u bɛna sigi ni lakanaya ye, mɔgɔ si tɛ' u bisigi da.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d80b246f8f8d3c7cd3ead4db6812f73adc15a82f8dccdc990b81a228482ecfd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/34\/25-28.1791937623701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "tɛna kɛ … ye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tuguni"
+    },
+    {
+      "surface": "בז",
+      "gloss": "bara"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "siyaw ka"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "baganw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "u dun"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "u bɛna sigi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ni lakanaya ye"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "si tɛ yen"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "min bɛ bisigi da"
+    }
+  ],
+  "timestamp": "2026-10-14T00:27:03.703093073Z",
+  "model": "glm-5.3"
+}

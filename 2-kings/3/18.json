@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Yawe ka ɲɛ kɔnɔ fɛn fitinin",
+      "rationale": "בעיני...ונקל literally 'light in the eyes of YHWH' = a small thing to him"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula 'ye...ye' supplied; Hebrew has no copula"
+    }
+  ],
+  "translation": "O ye fɛn fitinin ye Yawe ka ɲɛ kɔnɔ, a bɛna ⟨את⟩ Moab di aw bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/3\/17-20.1791932702453.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "fɛn fitinin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "o"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ka ɲɛ kɔnɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "bɛna di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "aw bolo"
+    }
+  ],
+  "timestamp": "2026-10-13T23:05:02.462154012Z",
+  "model": "glm-5.3"
+}

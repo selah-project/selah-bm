@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 16:9",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olu bɛ",
+      "rationale": "Hebrew verbless clause; Bambara needs the locative copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dugu fitiniw",
+      "rationale": "חצריהן are unwalled hamlets\/enclosures, not villages with walls"
+    }
+  ],
+  "translation": "Ani duguw minnu kɛra kelen-kelen Efrayim (Efraim) denw ma, olu bɛ Manashe (Manase) denw ka kɔrɔbɔli kɔnɔ — duguw bɛɛ ani u ka dugu fitiniw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "44311bccf6264e785b994295119ed5743b516c244641fd0fc3eadd223ad75e1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/16\/9-10.1791928901953.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "ani duguw"
+    },
+    {
+      "surface": "המבדלות",
+      "gloss": "minnu kɛra kelen-kelen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denw ma"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim (Efraim)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "kɔrɔbɔli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manashe (Manase)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ani u ka dugu fitiniw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:01:41.954342979Z",
+  "model": "glm-5.3"
+}

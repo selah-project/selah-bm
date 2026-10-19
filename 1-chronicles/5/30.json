@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ye ... da",
+      "rationale": "הוליד is causative 'he-begot'; Bambara needs ye…da construction for the past transitive."
+    }
+  ],
+  "translation": "Elazar ye ⟨את⟩ Pinchas da; Pinchas ye ⟨את⟩ Avishua da.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ee2038c59a8a8d237dce71378cb6f2dad9a19e034d2e38a9879f73f5263e5ddf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/5\/29-32.1791947535879.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ye ... da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ye ... da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    }
+  ],
+  "timestamp": "2026-10-14T03:12:15.881079860Z",
+  "model": "glm-5.3"
+}

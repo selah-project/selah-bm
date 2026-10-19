@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 18:36",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nabi",
+      "rationale": "הנביא rendered nabi per discipline; kira is barred because it names Muhammad in Bambara usage"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יודע",
+      "rationale": "literal 'let it be known today'; Hebrew niphal 'be known' rendered 'k'a jira' (cause it to be seen\/shown)"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Elijah's prayer addresses Yawe directly"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבריך \/ הדברים",
+      "rationale": "'by your word … all these words\/deeds' — דבר repeated; Bambara kuma\/kumaw keeps the echo"
+    }
+  ],
+  "translation": "Sara minɛn waati ma a na, Eliyahu (Eliya) nabi in ye a ɲɛ fɔ ko: Yawe, Awraham (Ibrahima), Itsɛɛkɛ ni Isirayel ka Elohim, bi k'a jira ko aw ye Isirayel la Elohim ye, ani ne ye aw ka sɔrɔdala ye, ne ye nin kumaw ⟨את⟩ bɛɛ kɛ ni aw ka kuma ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6e181a50c7be3ae0ddb4e3bbf164542da036ad17ed6af16a55e27f40751f2b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/18\/33-36.1791932423802.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sara waati ma a na"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "minɛn waati ma"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "sara"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "a ye a ɲɛ fɔ (a sowɔ)"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu (Eliya)"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi in"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham (Ibrahima)"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsɛɛkɛ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ni Isirayel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "k'a jira ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isirayel la"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "aw ka sɔrɔdala"
+    },
+    {
+      "surface": "ובדבריך",
+      "gloss": "ni aw ka kuma ye"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ne ye … kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumaw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nin"
+    }
+  ],
+  "timestamp": "2026-10-13T23:00:23.807756511Z",
+  "model": "glm-5.3"
+}

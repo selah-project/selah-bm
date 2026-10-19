@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 8:6",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויגלום",
+      "rationale": "KJV 'removed them' vs ASV\/JPS 'carried them captive' — גלה ka kɔrɔ ye ka bɔ yɔrɔ la ka kɛ jɔgɔden ye."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss_note": "",
+      "rationale": "Hebrew preposition folded into Bambara postposition 'la' rather than a separate word."
+    }
+  ],
+  "translation": "Olu ye Ehud (Ehud) denw ye; olu de ye Gueba (Geba) dugujɔninw ka awabagaw kuntilenw ye, ka u bilala Manahat (Manahath) la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e76b22e0627a4ad16b6ffa23e9907de17a283bef0d312cbb6d88aec91c7162b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/8\/5-8.1791947675040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "אחוד",
+      "gloss": "Ehud (Ehud)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "olu de"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kuntilenw"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "awabagaw"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "dugujɔninw ka"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gueba (Geba)"
+    },
+    {
+      "surface": "ויגלום",
+      "gloss": "ka u bilala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "Manahat (Manahath)"
+    }
+  ],
+  "timestamp": "2026-10-14T03:14:35.041374468Z",
+  "model": "glm-5.3"
+}

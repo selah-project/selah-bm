@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתחו … ודרכו",
+      "rationale": "'opened (the sword)' and 'trodden (the bow)': two verbs of bodily action for drawing weapons; Bambara loses the treading picture."
+    },
+    {
+      "kind": "crux",
+      "subject": "ודרכו",
+      "rationale": "'they tread' (to string a bow by foot) vs 'they bend' — Bambara follows the sense 'gili' (bend)."
+    }
+  ],
+  "translation": "Kɛlɛtigiw ye npanw da, u y'u ka moɲɔw gili, walasa ka ololenw ni mɔgɔ fitiniw bila yuguyugu, walasa ka sirajɛlenw fa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/13-16.1791940104719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "npanw"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ye … da"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kɛlɛtigiw"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "u y'u ka … gili"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "moɲɔw"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "walasa ka … bila yuguyugu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ololenw"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mɔgɔ fitiniw"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "walasa ka … fa"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "sirajɛlenw"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sira"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:24.720550232Z",
+  "model": "glm-5.3"
+}

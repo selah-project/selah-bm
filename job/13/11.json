@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שאתו",
+      "rationale": "'His exaltation\/majesty' (KJV, ASV) vs reading as 'when he stirs himself' (cf. Wycliffe) — the noun שׂאת means elevation."
+    },
+    {
+      "kind": "you",
+      "subject": "to the three friends",
+      "rationale": "Rhetorical question aimed directly at Job's friends."
+    }
+  ],
+  "translation": "Yala a ka minɛkɛbali tɛ aw ⟨את⟩ ɲɔgɔn siran wa? a ka siranba tɛna ci aw kan?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a03f396d8017cd9af76fc3885c64bd789e66619cf0b77c44e0b2edf7dd66d9e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/13\/9-12.1791943501081.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "yala ... tɛ ... wa"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "a ka minɛkɛbali"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "bɛ aw siran"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "a ka siranba"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tɛna ci"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aw kan"
+    }
+  ],
+  "timestamp": "2026-10-14T02:05:01.083213689Z",
+  "model": "glm-5.3"
+}

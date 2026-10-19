@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jiɲɛ",
+      "rationale": "קצף daɲɛ in kɔrɔ ye kuruw-boli ye (splinter) — bɛɛ ka fɔ a kan ko a bɛ tuna i n'a fɔ jiɲɛ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kosɛbɛya",
+      "rationale": "חמה kɔrɔ ye tasko\/gɛlɛya ye (fury) — a bɛ don kosɛbɛ la, nka a bɛ fɔ 'taskoya' fana"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Dawid bɛ Yawe wele直接 a bɛ ne-ni-i kuma kɛ"
+    }
+  ],
+  "translation": "Yawe, i kana ne filu i ka jiɲɛ fɛ, wa i kana ne juguya ɲɛfɔ i ka kosɛbɛya fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/38\/1-4.1791940126727.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "i ka jiɲɛ fɛ"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ne filu"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "i ka kosɛbɛya fɛ"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ne juguya ɲɛfɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:46.727711232Z",
+  "model": "glm-5.3"
+}

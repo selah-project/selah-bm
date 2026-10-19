@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "saraka in",
+      "rationale": "Hebrew bo suffix 'in it' implies the offering; Bambara needs the noun named"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɛnɛ",
+      "rationale": "שָׁבַר 'burst\/break' rendered as 'bɛnɛ' (break in two), the everyday Bambara breaking verb"
+    }
+  ],
+  "translation": "Dakun min kɔnɔ saraka in sirilen don, o dakun bɛ bɛnɛ; n'a sirila kurowuli kɛnɛ kɔnɔ, a bɛ furu ka kɔlɔsi ji la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "791b5af4d2f12504b2eb949be4f1d56b7b9ba2f27ddfe0bc5ce4fde48dd86f54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/6\/21-23.1791926977813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "ni kɛnɛ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "dakun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "sirilen don"
+    },
+    {
+      "surface": "בו",
+      "gloss": "o kɔnɔ"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "bɛ bɛnɛ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "n'a sira"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "kɛnɛ kɔnɔ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kurowuli"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "sirila"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "a bɛ furu"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "ka kɔlɔsi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ji la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:29:37.814227183Z",
+  "model": "glm-5.3"
+}

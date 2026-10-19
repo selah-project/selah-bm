@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "prayer to Yawe",
+      "rationale": "Direct petition: 'turn to me and be gracious' — the speaker asks God to act"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמשפט",
+      "rationale": "'as is your custom\/judgment' — kjv 'as thou usest to do'; rendered 'as is your way'"
+    },
+    {
+      "kind": "addition",
+      "subject": "sɔrɔ",
+      "rationale": "'who have\/find your name in love' — Bambara needs a verb where Hebrew participle suffices"
+    }
+  ],
+  "translation": "Yɛlɛ i ɲɛ n na, i dugaw n ma, i n'a fɔ i ka cogo ye minnu bɛ i tɔgɔ sɔrɔ kanuya la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/129-132.1791941623242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Yɛlɛ i ɲɛ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n na"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "i dugaw n ma"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "i n'a fɔ i ka cogo ye"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "minnu bɛ … kanuya la"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i tɔgɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:43.243521706Z",
+  "model": "glm-5.3"
+}

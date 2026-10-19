@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם תשים",
+      "rationale": "KJV 'when thou shalt make' (2nd person); Hebrew is 3rd person 'if his soul places' — JPS 'if his soul would offer itself'; rendered here as 3rd-person conditional."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשם",
+      "rationale": "jurumusaraka for guilt-offering; the word covers both the guilt itself and the offering that answers it."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Pronoun supplied twice: Hebrew verbs carry no expressed subject, Bambara needs one."
+    }
+  ],
+  "translation": "Nka Yawe fɛn don k'a basigi, k'a bana ɲɛ; ni ⟨a⟩ bɛ a ni bila jurumusaraka ye, ⟨a⟩ bɛna a denw ye, a donw bɛna jan ka tɛmɛ, ani Yawe bɔnnen bɛna kɔnɔ ɲɛ a bolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/53\/9-12.1791934577028.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "nka Yawe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "fɛn don"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "k'a basigi"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "k'a bana ɲɛ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "bɛ ... bila"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "jurumusaraka"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bɛna ... ye"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "a denw"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "bɛna jan ka tɛmɛ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "a donw"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "ani Yawe bɔnnen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a bolo la"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "bɛna kɔnɔ ɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:36:17.030395527Z",
+  "model": "glm-5.3"
+}

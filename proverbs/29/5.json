@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "daɲɛ-jɛlenw",
+      "rationale": "מחליק literally 'makes smooth' — flattery rendered as 'smooth words'"
+    },
+    {
+      "kind": "crux",
+      "subject": "mɔgɔ min",
+      "rationale": "גבר can be 'warrior\/valiant man' or simply 'a person'; KJV takes 'a man', YLT reads מחליק as 'takes a portion' (bribery)"
+    }
+  ],
+  "translation": "Mɔgɔ min bɛ daɲɛ-jɛlenw fɔ a tɛrɛma kan, o bɛ jalaki bila a senw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c644f8531f7bbd514f8bcfd93b0aaa606ef3edfad4bbfd71ecdbde04cafbe7dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/29\/5-8.1791943023197.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "bɛ daɲɛ-jɛlenw fɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a tɛrɛma"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "jalaki"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "bɛ bila"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "a senw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:57:03.198421994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ge bila",
+      "rationale": "verb יכרת is singular with feminine suffix — 'her dwelling not cut off' (ASV\/JPS) vs KJV 'their dwelling', person of the addressee disputed"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אך \/ אכן",
+      "rationale": "'surely' opening vs 'but indeed' at the turn — the hope\/confraud contrast framed by two near-identical particles"
+    },
+    {
+      "kind": "idiom",
+      "subject": "u ye sɔgɔma wili",
+      "rationale": "השכימו 'rose early' — idiom for zealous eager action, rendered as rising at dawn"
+    }
+  ],
+  "translation": "N y'a fɔ ko: sinen i na N siran, i na kalan ta; o tɛna a sigiyɔrɔ ge bila, N y'a lajɛ a kan o bɛɛ kɔrɔ; nka u ye sɔgɔma wili, u ye u baaraw bɛɛ busu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "836c4e52db6b467a94d4233a92d202931a39b82f5a57caa2decf493b778251c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zephaniah\/3\/5-8.1791939117811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "N y'a fɔ ko"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sinen"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "i na siran"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "N (Yawe, min bɛ kuma)"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "i na ta"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o tɛna"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "ge bila"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "a sigiyɔrɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "N y'a lajɛ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "nka"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "u ye sɔgɔma wili"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "u ye … busu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "u baaraw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:51:57.812181439Z",
+  "model": "glm-5.3"
+}

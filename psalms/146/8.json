@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יהוה ×3",
+      "rationale": "triple anaphora of the Name, one per clause; the hammering rhythm carries into the Bambara by repeating Yawe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kunfɔlenw",
+      "rationale": "כפופים literally 'the bent\/curved ones'; kunfɔlenw keeps the bent-back picture."
+    }
+  ],
+  "translation": "Yawe bɛ ɲɛdibiw ɲɛ di, Yawe bɛ kunfɔlenw jɔ, Yawe bɛ tilelenw kanuya:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "df2325d84195eeda451fcf47037af6d3c7fb2a77f3bf3cf53c2d0809185a5939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/146\/5-8.1791942055317.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ɲɛ di"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ɲɛdibiw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "jɔ"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "kunfɔlenw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kanuya"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tilelenw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:55.318307908Z",
+  "model": "glm-5.3"
+}

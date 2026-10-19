@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 1:7",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kura",
+      "rationale": "נחשת is copper\/bronze; Bambara kura covers the bright metal broadly."
+    },
+    {
+      "kind": "crux",
+      "subject": "קלל",
+      "rationale": "Rare word read as 'burnished\/polished' (KJV) vs 'brightened as if sharpened' — the root elsewhere means to sharpen."
+    },
+    {
+      "kind": "mystery",
+      "subject": "sensira",
+      "rationale": "Anatomy of the vision beings given in precise, non-natural detail — sealed imagery."
+    }
+  ],
+  "translation": "Ni olu senw ye sen tilennen; olu sen ɲɛ ye misiden sen ɲɛ ye i n'a fɔ; u bɛ yeelen i n'a fɔ kura caaman yeelen ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "03130aa741c68ffc2e6149173fd1f01e6b8e8ae2201c05e8aeb66029c2b602cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/1\/5-8.1791936515718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורגליהם",
+      "gloss": "ni olu senw"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "tilennen"
+    },
+    {
+      "surface": "וכף",
+      "gloss": "ni ... ɲɛ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "olu sen ɲɛ"
+    },
+    {
+      "surface": "ככף",
+      "gloss": "i n'a fɔ ... ɲɛ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "misiden"
+    },
+    {
+      "surface": "ונצצים",
+      "gloss": "ni bɛ yeelen"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "i n'a fɔ ... yeelen"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kura"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "caaman"
+    }
+  ],
+  "timestamp": "2026-10-14T00:08:35.719730279Z",
+  "model": "glm-5.3"
+}

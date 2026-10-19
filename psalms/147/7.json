@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the congregation",
+      "rationale": "plural imperatives summon the community to sing"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dasi",
+      "rationale": "תודה literally 'extension of the hand', i.e. thanksgiving — rendered 'dasi' (thanks)"
+    },
+    {
+      "kind": "crux",
+      "subject": "answer\/sing",
+      "rationale": "ענו can mean 'answer' (YLT) or 'sing' (KJV\/JPS); both 'sing' senses chosen"
+    }
+  ],
+  "translation": "Aw ye Yawe don dasi la, aw ye an ka Elohim kɔnɔkɔrɔfoli kɛ kinɛrɛ fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/147\/5-8.1791942041247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "aw ye … don"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "dasi la"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "aw ye … kɔnɔkɔrɔfoli kɛ"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinɛrɛ fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:41.248233674Z",
+  "model": "glm-5.3"
+}

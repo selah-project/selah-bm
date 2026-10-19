@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 2:25",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔnɔ",
+      "rationale": "וגרנך (גרון) ye kɔnɔ\/da ye — versions bɛɛ b'a fɔ 'throat' (dagingɔ ye)",
+      "note": ""
+    },
+    {
+      "kind": "you",
+      "subject": "Israel (muso cogo)",
+      "rationale": "Kumasen in bɛ Israel Wele muso nɔnabila fɛ ('i', kelen-fɔ)"
+    },
+    {
+      "kind": "crux",
+      "subject": "נואש",
+      "rationale": "'Sira si tɛ yen' (KJV\/JPS) walima 'A tɛ se ti' (ASV 'in vain')"
+    }
+  ],
+  "translation": "I ji i sen ka bɔ yɔgɔyɔgɔ la, ani i kɔnɔ ka bɔ sumaya la; nka i y'a fɔ ko: “Sira si tɛ yen, ala; sabu ne ye dunow kanuya, ani ne bɛ tugu u bɔ taa.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a46dbd09477120d0c5a3dd09e42365c69585f78053b9469bb06eba927d6000cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/2\/25-28.1791934909406.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנעי",
+      "gloss": "ji"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "i sen"
+    },
+    {
+      "surface": "מיחף",
+      "gloss": "yɔgɔyɔgɔ"
+    },
+    {
+      "surface": "וגורנך",
+      "gloss": "i kɔnɔ"
+    },
+    {
+      "surface": "מצמאה",
+      "gloss": "sumaya"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "i y'a fɔ ko"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "sira si tɛ yen"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ne ye … kanuya"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "dunow"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "ani u bɔ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ne bɛ taa"
+    }
+  ],
+  "timestamp": "2026-10-13T23:41:49.408032275Z",
+  "model": "glm-5.3"
+}

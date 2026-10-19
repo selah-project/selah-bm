@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i ta",
+      "rationale": "Hebrew says literally 'they will not be to you'; Bambara needs the possessive shape 'i ta ye'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנים\/תוליד",
+      "rationale": "root בנה\/ילד pair — begetting sons; the beget\/possess tension is the curse's hinge"
+    }
+  ],
+  "translation": " Denkɛw ni denmusow, i bɛna bɔ ⟨את⟩ u ye, nka u tɛna kɛ i ta ye, sabu u bɛna taa jalaki kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2956d3abc210f37e2d164b4fab7e31b71026f51a3d68b732e6893eb3bf862514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/28\/41-44.1791928274137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ni denmusow"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "i bɛna bɔ … ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka … tɛ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "u tɛna kɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "u bɛna taa"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "jalaki kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:51:14.138713426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סלית",
+      "rationale": "the verb סלה (to weigh\/contemn) occurs only here in the Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "josi",
+      "rationale": "סלית: 'weighed' (hang up in scales), 'trodden down' (KJV, from סול), or 'set at nought' — root uncertain"
+    },
+    {
+      "kind": "substitution",
+      "subject": "frogoya",
+      "rationale": "תרמית is fraud\/deception specifically, narrowed to general 'deceit'"
+    }
+  ],
+  "translation": "Mɔgɔ minnu yelen i ka sariyaw na, i y'u bɛɛ josi, sabu u ka frogoya ye falifoli ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a4883c5a39ebe37aec8aa6c88f09eda5e0a94d92f61eb925fce7ea87fbecaee4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/117-120.1791941646895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "i y'u josi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "mɔgɔ minnu yelen"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "i ka sariyaw na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falifoli"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "u ka frogoya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:06.895887446Z",
+  "model": "glm-5.3"
+}

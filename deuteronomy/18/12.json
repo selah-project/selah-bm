@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mɔgɔ",
+      "rationale": "Hebrew 'all who do' has no noun for person; Bambara needs 'mɔgɔ bɛɛ' (every person)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תועבת…התועבת",
+      "rationale": "Root תועב repeated in both halves, framing the verse; kept by repeating 'toebaw'."
+    }
+  ],
+  "translation": "Sabu mɔgɔ bɛɛ min bɛ ninnu kɛ, o bɛɛ ye Yawe toebaw ye; ani o toebaw ninnu yɛrɛ la, Yawe i ka Elohim bɛ ⟨את⟩ u bɔ ⟨i ɲɛw la⟩ ka u fon.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2d78e60d156a9819c1ba92c9c919e8d3bccb2a65f0cc314098737ff1131d3bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/18\/9-12.1791927987752.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "toebaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ninnu"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "ani o … la"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "toebaw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ninnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "bɛ bɔ … ka u fon"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "u"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "i ɲɛw la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:27.755045343Z",
+  "model": "glm-5.3"
+}

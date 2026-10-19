@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is throat\/breath\/life-force, rendered with 'ni' per the fixed table"
+    },
+    {
+      "kind": "crux",
+      "subject": "hesed-kɛla",
+      "rationale": "חסיד: 'godly\/pious' (KJV\/ASV) vs 'one who shows hesed'; the compound keeps the hesed root visible"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "second-person petition continues, addressee is God"
+    }
+  ],
+  "translation": "Mara ne ni, sabu ne ye hesed-kɛla ye; i ka i ka balla bɔ yamaruya la, I min ye ne Elohim ye, o min b'i la tigida.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/86\/1-4.1791940978669.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hesed-kɛla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "bɔ yamaruya la"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i ka balla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "I"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ne Elohim"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "min b... tigida"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:58.670460922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Bambara needs the connector 'ka' where Hebrew has verbless clause 'Great is Yawe'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jate",
+      "rationale": "חקר literally 'searching, enumeration' — rendered as 'counting\/measuring'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "a ka bonba jate tɛ yen",
+      "rationale": "God's greatness declared beyond searching"
+    }
+  ],
+  "translation": "Yawe ka bon, a bɛ sankyɔrɔ caman sɔ̃ɔ, ani a ka bonba — jate tɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/145\/1-4.1791942017728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "bon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ani a bɛ sankyɔrɔ sɔ̃ɔ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "caman"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "ani a ka bonba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ yen"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "jate"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:17.729671389Z",
+  "model": "glm-5.3"
+}

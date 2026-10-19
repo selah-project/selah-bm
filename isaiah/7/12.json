@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאל",
+      "rationale": "Akazi (Ahaz) ye 'ɲini' daɲɛ fɔ yen min bɛ a bolo (שאל, סaya 11) — a ko 'n tɛ ɲini', o ye Yawe ka weleli kurubali ye"
+    },
+    {
+      "kind": "you",
+      "subject": "Akazi ka kuma",
+      "rationale": "Akazi (Ahaz) bɛ Yawe yɛlɛma — kuma in bɛ Yawe kan"
+    }
+  ],
+  "translation": "Akazi (Ahaz) ko: N tɛ ɲini, wa n tɛ ⟨את⟩ Yawe kɔlɔsi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c98f078f313b73a8784c949650af5c89516139d3e118f10f31c027a8ad8ee195",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/7\/9-12.1791933444628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ɲini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wa ... tɛ"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T23:17:24.633336890Z",
+  "model": "glm-5.3"
+}

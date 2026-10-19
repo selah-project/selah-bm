@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 15:38",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "soma a faaw ye",
+      "rationale": "'slept with his fathers' — euphemism for death, kept literal picture with 'soma' (lie down)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɛra masakɛ ye",
+      "rationale": "וימלך 'he became king\/reigned' rendered with Bambara inceptive construction"
+    }
+  ],
+  "translation": "Yotam soma a faaw ye, a sinna a faaw ye Dawid (Dawuda) so, a fa dugu kɔnɔ; a denkɛ Alaz (Ahasi) kɛra masakɛ ye a nɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "16351c9d427a17384d79dcc85c5a53ad3cb7627a5e1a4b00354fef947edc84ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/15\/37-38.1791933026235.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "soma"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "a faaw ye"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a sinna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "a faaw ye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dugu kɔnɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kɛra masakɛ ye"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Alaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a nɔ na"
+    }
+  ],
+  "timestamp": "2026-10-13T23:10:26.239676771Z",
+  "model": "glm-5.3"
+}

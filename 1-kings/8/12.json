@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערפל",
+      "rationale": "dibi bon (thick darkness) vs 'cloud' (Wycliffe) — the word is gloom, not the cloud of v.11"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמר ... אמר",
+      "rationale": "said\/said repetition frames Solomon's word around Yawe's word"
+    }
+  ],
+  "translation": "O waati la, Shelomoh y'a fɔ ko: Yawe ye fɔ ko a bɛna sigi dibi bon kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "26e7197c1f4efd1d55b53cf3bbc76fa0203a728d513a55cdfbb563ef0d9ed7d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/12-12.1791950381205.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "O waati la"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ye fɔ ko"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "a bɛna sigi"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "dibi bon kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:59:41.205573916Z",
+  "model": "glm-5.3"
+}

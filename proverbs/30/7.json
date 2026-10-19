@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "fila",
+      "rationale": "The prayer numbers its requests: exactly two things asked of God."
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Direct address to God, prayer voiced in the first person."
+    },
+    {
+      "kind": "addition",
+      "subject": "fɛn",
+      "gloss": "Bambara needs a counted noun; Hebrew has only the numeral 'two'."
+    }
+  ],
+  "translation": "Ne ye fɛn fila ɲini ⟨את⟩ i fɛ; an ka waati don, i kana ne bila, ne ka sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e1cf376e432d0aa6f16c1746730b119b74a6a3c4ad09995311c8329af21d926a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/30\/5-8.1791943065391.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "fila"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ne ye fɛn fila ɲini"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ i fɛ",
+      "marks": "i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ne bila"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ne ma"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "an ka waati don"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ne ka sa"
+    }
+  ],
+  "timestamp": "2026-10-14T01:57:45.392715964Z",
+  "model": "glm-5.3"
+}

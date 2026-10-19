@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויקרע את בגדיו",
+      "rationale": "Rending one's garments is the Hebrew grief-and-alarm gesture, kept literal as tigɛ."
+    },
+    {
+      "kind": "addition",
+      "subject": "a yɛrɛ ta",
+      "rationale": "Possessive 'his own' supplied — the Hebrew suffix on בגדיו carries it, Bambara needs the full phrase."
+    }
+  ],
+  "translation": "Masakɛ Tora sɛbɛn ⟨את⟩ kumaw mɛnli waati, a y'⟨את⟩ a yɛrɛ ta ɲɛnamaw tigɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "082bf40211ddafb5ac2df370970d3739275cadb31a81d019ad4eed5815e1f8ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/22\/9-12.1791933251729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waati"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mɛnli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora sɛbɛn kumaw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "y'e tigɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a yɛrɛ ta ɲɛnamaw"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "a yɛrɛ ta ɲɛnamaw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:14:11.740840273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את מי",
+      "rationale": "KJV\/JPS b'imini ye ɲininka ye; BSB a tɔgɔ da ko densiri ye — kumasen in laseli jɔyɔrɔ."
+    },
+    {
+      "kind": "alternative",
+      "subject": "o di?",
+      "rationale": "Kumasen in sɛgɛsɛgɛli: sɔsɔli-daɲɛ ni i ye, a bɛ se ka kɛ ɲininka ye min bɛ sege — «densiri dupanw la wa?»"
+    },
+    {
+      "kind": "elision",
+      "subject": "גמולי מחלב",
+      "rationale": "גמול ji kɔnɔ = dupan-kalan; Bamanankan fɛ «dupana ji la» de b'a lakika."
+    }
+  ],
+  "translation": "A bɛna dɔnniya kalan ⟨את⟩ min ye, a bɛna kumasenli faamu ⟨את⟩ min ye? Densiriw minnu dupana ji la, minnu bɔra numu la, o di?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a1e58da1d627cba7d7308cf88327d072fa531b1a05a0d6d50c9d2e528f7cdaa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/28\/9-12.1791934017579.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min (mɔgɔ min kan da)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "dɔnniya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "min (mɔgɔ min kan da)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "min"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "faamu"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "kumasenli"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "dupanen"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ji"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "bɔlen"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "numu"
+    }
+  ],
+  "timestamp": "2026-10-13T23:26:57.583467250Z",
+  "model": "glm-5.3"
+}

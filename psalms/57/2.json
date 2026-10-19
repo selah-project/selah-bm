@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסיה\/אחסה",
+      "rationale": "Daɲɛ kelen-kelen bɛ soma fila — ni siginna Yawe la, o kɔfɛ ni siginna janw su — fara ɲɔgɔn kan kumasen kɔnɔ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ni \/ balo-kɔrɔ ye, a tɛ 'soul' ye Tubabukan kɔrɔ la."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנני",
+      "rationale": "Kuma-ɲagami: 'i n'son ne ma' dɔrɔn bɛ soma fila, Heburukan fɔcogo kelen-kelen."
+    }
+  ],
+  "translation": "Elohim, i n'son ne ma, i n'son ne ma; sabu ne ka ni bɛ i la, siginnin don, ani i ka janw bɛɛ su, ne bɛ sigin don, fo gɛlɛyaw tɛmɛ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/57\/1-4.1791940397552.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "i n'son ne ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "i n'son ne ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "bɛ siginnin don"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ka ni"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "su"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "i ka janw bɛɛ"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ne bɛ sigin don"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "tɛmɛ na"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "gɛlɛyaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:17.553066954Z",
+  "model": "glm-5.3"
+}

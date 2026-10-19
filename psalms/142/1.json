@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ni ... tun bɛ",
+      "rationale": "בהיותו bɛ fɔ 'a tun bɛ yɔrɔ min na' — Bamanankan ka kan k'a jira ni kumasen ni kɔrɔdaɲɛ ye"
+    },
+    {
+      "kind": "measurement",
+      "subject": "salmu kun",
+      "rationale": "Verse in ye sɛbɛn kunbolo ye (maskil tɔgɔ, Dawida, kɔgɔmaare yɔrɔ) — a tɛ kuma dɔ ye, a ye sɛbɛnni-bolofara ye"
+    }
+  ],
+  "translation": "Laselili, Dawida ta, ni a tun bɛ kɔgɔmaare kɔnɔ — laseli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/142\/1-4.1791941878109.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Laselili"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida ta"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ni a tun bɛ"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "kɔgɔmaare kɔnɔ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "laseli"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:58.110343415Z",
+  "model": "glm-5.3"
+}

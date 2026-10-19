@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hebel",
+      "rationale": "Kohelet's key word: 'vapor\/breath' — kept as hebel; 'vanity', 'futile', 'absurd' all common but each loses the breath-picture."
+    },
+    {
+      "kind": "crux",
+      "subject": "ורעות רוח",
+      "rationale": "'grazing\/pasturing of wind': 'vexation of spirit' (KJV) vs 'striving after wind' (ASV\/JPS) vs 'pursuit of wind' (BSB)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחת השמש",
+      "rationale": "'under the sun' kept literally as tile nɔ — Kohelet's formula for the mortal sphere."
+    }
+  ],
+  "translation": "Ne ye ⟨את⟩ baara bɛɛ minnu kɛra tile nɔ na ye, han — bɛɛ ye hebel ye, ni fiɲɛ minili ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "88885696a6c6f925e4a32cec718a1f9f8999b0bd8c499054ba50f2264dc505d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/1\/13-16.1791945096600.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ne ye … ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baara bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "baara"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "minnu kɛra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nɔ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "han"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ni … minili"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:31:36.601963771Z",
+  "model": "glm-5.3"
+}

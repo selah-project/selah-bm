@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 20:10",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wariw",
+      "rationale": "אוֹן is strength\/wealth broadly; 'wariw' (money\/riches) narrows it"
+    },
+    {
+      "kind": "crux",
+      "subject": "his sons appease the poor",
+      "rationale": "'seek favor of the poor' (KJV\/ASV\/JPS) vs 'oppress the poor' (YLT, revocalizing ירוצו); the consonantal text allows both"
+    }
+  ],
+  "translation": "A denw bɛna dankaranw ka lafidali ɲini, a bolow bɛna a wariw lɔbɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e4d97f07fc892d1828c50cc0a3bcb2d30dd7320d4962bf0cba9121f8fe3f3fd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/20\/9-12.1791943798029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "a denw"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "bɛna … ɲini lafidali"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "dankaranw"
+    },
+    {
+      "surface": "וידיו",
+      "gloss": "a bolow"
+    },
+    {
+      "surface": "תשבנה",
+      "gloss": "bɛna … lɔbɔ"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "a wariw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:09:58.029977303Z",
+  "model": "glm-5.3"
+}

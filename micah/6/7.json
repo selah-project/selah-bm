@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 6:7",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wulujɛbagaw",
+      "rationale": "אילים lit. 'strong ones' = rams; strength-shape kept via 'wulujɛbagaw'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is throat\/life-force, not immaterial soul; rendered 'ni' per glossary"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכורי פשעי",
+      "rationale": "'my firstborn for my transgression' — rhetorical horror-question echoing child sacrifice, not a command"
+    }
+  ],
+  "translation": "Yawe bɛna a wolo ni wulujɛbagaw sariw ye, walima ni sanjiw ɲagami tulu bɛɛ ye? N bɛna n daminɛkɛden di ne ka jurumu la, n balo den ne ka ni ka jurumu kɛ la?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dc496f949c71ee693c20fa9167001a0e4d13552e18c0a3a5077de089ee6d3871",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/6\/5-8.1791938943317.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הירצה",
+      "gloss": "bɛna a wolo ni … ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באלפי",
+      "gloss": "sariw"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "wulujɛbagaw"
+    },
+    {
+      "surface": "ברבבות",
+      "gloss": "ɲagami bɛɛ"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "sanjiw"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "tulu"
+    },
+    {
+      "surface": "האתן",
+      "gloss": "n bɛna … di"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "n daminɛkɛden"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ne ka jurumu"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "n balo den"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "n balo"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "jurumu kɛ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ka ni"
+    }
+  ],
+  "timestamp": "2026-10-14T00:49:03.318030748Z",
+  "model": "glm-5.3"
+}

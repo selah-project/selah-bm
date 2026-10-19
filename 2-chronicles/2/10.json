@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 2:10",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עמו",
+      "rationale": "עם ye jamaa-sigilen ye (jamana-sen), 'a jamaa' ye a ta."
+    },
+    {
+      "kind": "addition",
+      "subject": "o de kɔ",
+      "rationale": "Bamanankan bɛ tugu-daɲɛ wajibi kuma in kɔnɔ, Heburukan ma a sɔrɔ."
+    },
+    {
+      "kind": "you",
+      "subject": "Sholomo",
+      "rationale": "Sɛbɛn in da Sholomo kan nin sɛbɛn kɔnɔ."
+    }
+  ],
+  "translation": "Kuram (Huram), Tsor ka masakɛ, ko kuma ni sɛbɛn ye, k'o ci Sholomo (Solomɔn) ma: Yawe ka kanuya bɛ ⟨את⟩ a jamaa la kosɔn, o de kɔ, a bilala i u kan masakɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a54d7b8032daddcd95ac46545a2d00f7ed055af652d61538215577df4e3939fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/2\/10-11.1791951590190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko kuma"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Kuram (Huram)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "ni sɛbɛn ye"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "k'o ci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sholomo (Solomɔn)"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "kanuya la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a jamaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a jamaa"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "a bilala i"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ ye"
+    }
+  ],
+  "timestamp": "2026-10-14T04:19:50.191331423Z",
+  "model": "glm-5.3"
+}

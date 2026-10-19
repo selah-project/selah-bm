@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Yawe da fɛ",
+      "rationale": "על פי 'on the mouth of' = by the command of; rendered literally as 'at Yawe's mouth'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "taamaw\/bɔyɔrɔw",
+      "rationale": "chiasm: goings-out by journeys … journeys by goings-out; the ABBA order is kept"
+    }
+  ],
+  "translation": "Moshe ye ⟨את⟩ u ka bɔyɔrɔw sɛbɛn u ka taamaw la, Yawe da fɛ; ninnu de ye u ka taamaw ye u ka bɔyɔrɔw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9c764a169de2d830d3830ba5db880ed5dc15beacaeab66316fbd146026acd95c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/33\/1-4.1791927363664.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ye … sɛbɛn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka bɔyɔrɔw"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "u ka bɔyɔrɔw"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "u ka taamaw la"
+    },
+    {
+      "surface": "על",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ninnu de"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "u ka taamaw"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "u ka bɔyɔrɔw la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:36:03.665628702Z",
+  "model": "glm-5.3"
+}

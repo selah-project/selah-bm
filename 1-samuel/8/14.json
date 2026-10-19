@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וזיתיכם",
+      "rationale": "aleph-tav tɛ o daɲɛ nɔ na — ⟨את⟩ tɛ yen, olu nɔ na sira dabɔlen don"
+    },
+    {
+      "kind": "substitution",
+      "subject": "diwɛnforo",
+      "rationale": "כרם ye diwɛn-jiriw ka foro ye; Bamanankan tɛ daɲɛ kelen sɔrɔ, o la kumasen-faralen dilanna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tulu-jiri",
+      "rationale": "זית ye tulu ka jiri ye — 'tulu-jiri' ye a ka tiɲɛ ɲɛfɔli ye"
+    }
+  ],
+  "translation": "A bɛna ⟨את⟩ aw ka forow ni ⟨את⟩ aw ka diwɛnforow ni aw ka tulu-jiriw — minnu ka ɲi kosɛbɛ — ta, ka u di a ka dɛmmaw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "23b143ef79b8b28a06835b93331d0e8cc9f9d5ab43b3fc136c9d9dd7ee694a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/8\/13-16.1791929964596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aw ka forow"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "aw ka forow"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aw ka diwɛnforow"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "aw ka diwɛnforow"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "aw ka tulu-jiriw"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "minnu ka ɲi kosɛbɛ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bɛna … ta"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ka u di"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "a ka dɛmmaw ma"
+    }
+  ],
+  "timestamp": "2026-10-13T22:19:24.617827690Z",
+  "model": "glm-5.3"
+}

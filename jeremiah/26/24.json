@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 26:24",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bolo \/ hand",
+      "rationale": "Idiom 'hand was with' = support; Bambara 'bolo bɛ … fɛ' keeps the literal hand-image."
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Pronoun added in 'a bolo' where Hebrew's prefixed object marker אתו points back to Yirmiyahu."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אך",
+      "rationale": "Hebrew wordplay: 'ak (only\/surely) opens the verse, contrasting Uriyah's death with Yirmiyahu's deliverance; rendered nka."
+    }
+  ],
+  "translation": "Nka Ahikam (Axikam), Shafan denkɛ, ka bolo tun bɛ ⟨את⟩ Yirmiyahu (Yeremiya) fɛ, walasa mɔgɔw tɛna ta ⟨את⟩ a bolo ka faga a.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2932070cd9ec489dc154fddddd55c4e483733ddf6fc4b5910b1a91b6cc6403bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/26\/24-24.1791950858381.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tun bɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmiyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyahu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "walasa … tɛna"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a bolo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ka faga a"
+    }
+  ],
+  "timestamp": "2026-10-14T04:07:38.381543913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 10:4",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הערלים",
+      "rationale": "'the uncircumcised (in foreskin)' — literal Hebrew picture; rendered kɛlɛkɛlɛtigiw (enemies) since Bamanankan lacks the circumcision epithet as battle term"
+    },
+    {
+      "kind": "you",
+      "subject": "cakɛdalan minɛbaga",
+      "rationale": "Saul addresses his armor-bearer directly with imperatives — direct speech"
+    },
+    {
+      "kind": "crux",
+      "subject": "והתעללו בי",
+      "rationale": "'they will abuse\/mock\/torture me' — root עלל range: mock (JPS), abuse (KJV), torture (BSB); here ɲɛfɔ (mock)"
+    }
+  ],
+  "translation": "Saul ko a ka cakɛdalan minɛbaga ma: i ka npan bɔ, k'a ne dugaw, a bɛ se ka kɛ ko: kɛlɛkɛlɛtigiw ninnu bɛ se na, ka ne ɲɛfɔ. Nka cakɛdalan minɛbaga ma a bolo di a ma, sabu a tun bɛ siran ko den. Saul ye npan min ta, k'a bɔ a kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5af08338117be119e983160416ce7a695d5be80c90fbcc42497ccfa5951866f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/10\/1-4.1791947808809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ma"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "minɛbaga"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "cakɛdalan"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "i ka npan"
+    },
+    {
+      "surface": "ודקרני",
+      "gloss": "k'a ne dugaw"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a la"
+    },
+    {
+      "surface": "פן",
+      "gloss": "a bɛ se ka kɛ ko"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bɛ se na"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "kɛlɛkɛlɛtigiw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ninnu"
+    },
+    {
+      "surface": "והתעללו",
+      "gloss": "ka ɲɛfɔ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ne kan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka … ma"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "a bolo di a ma"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "minɛbaga"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "cakɛdalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "a siran"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ko den"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ye … ta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "npan"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "npan"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "k'a bɔ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kan"
+    }
+  ],
+  "timestamp": "2026-10-14T03:16:48.811712022Z",
+  "model": "glm-5.3"
+}

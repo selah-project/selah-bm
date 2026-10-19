@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "“Kana a joo”",
+      "rationale": "אל תשחת ye donkili dɔ ka daminɛ-kuma ye ('Kana a joo'), a tɛ kumasen in kɔrɔ ye"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אל",
+      "rationale": "Eradɔ korɔ: אל ye Matigi Ala tɔgɔ ye (El), tɛ dɛnmisɛn-kunbali-kuma 'kana' ye"
+    }
+  ],
+  "translation": "Nimisiratigi ma; “Kana a joo”; Asaf (Asafa) ka mizimɔ, donkili.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/75\/1-4.1791940747292.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "nimisiratigi ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "a joo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizimɔ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf (Asafa) ma"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "donkili"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:07.292754192Z",
+  "model": "glm-5.3"
+}

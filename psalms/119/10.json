@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aw ka t'a to",
+      "rationale": "Bambara negative imperative needs the periphrastic 'aw ka t'a to'; Hebrew has only אל"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממצותיך",
+      "rationale": "מצות rendered 'lakirada' (commandments) vs 'sariya' (law); preposition מִן 'from\/away from' rendered as 'bɔ ... la'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Direct address to God throughout the verse"
+    }
+  ],
+  "translation": "Ne ye i ɲini ne dusukun bɛɛ ye; aw ka t'a to ne bɔ i lakiradaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/9-12.1791941573250.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ne dusukun"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "ne ye i ɲini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aw ka t'a to"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "ne bɔ"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "i lakiradaw la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:53.250770359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Jalaki, Ya",
+      "rationale": "Opening imperative summons the community to praise."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "acrostic",
+      "rationale": "Psalm 112 is an alphabetic acrostic mirroring Psalm 111; the letter-order is invisible in translation."
+    }
+  ],
+  "translation": "Jalaki, Ya! Cɛ min bɛ ⟨את⟩ Yawe siran, o ni bɛ di; a bɛ ⟨את⟩ ⟨a⟩ lasariyaw la kanuya kosɛbɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/112\/1-4.1791941406432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Jalaki"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ni bɛ di"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "siran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "a lasariyaw la"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kanuya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:06.433051362Z",
+  "model": "glm-5.3"
+}

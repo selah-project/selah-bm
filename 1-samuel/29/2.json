@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 29:2",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sara",
+      "rationale": "סרני is a Philistine title for the five lords; Bambara sara (chief) approximates the rank, the Philistine flavor is lost."
+    },
+    {
+      "kind": "crux",
+      "subject": "באחרנה",
+      "rationale": "'rear guard' vs 'passed in review last' — the root is 'hindmost\/last'."
+    }
+  ],
+  "translation": "Pelishti ka saraw tɛmɛtɛra kɛmɛya ni wolonwuluya; Dawid (Dawuda) ni a mɔgɔw tɛmɛtɛra ɲɛfɛ-laban na, ni Akish ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/29\/1-4.1791930719529.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסרני",
+      "gloss": "saraw"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tɛmɛtɛra"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "kɛmɛya"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "wolonwuluya"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ni a mɔgɔw"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tɛmɛtɛra"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "ɲɛfɛ-laban na"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    }
+  ],
+  "timestamp": "2026-10-13T22:31:59.531066168Z",
+  "model": "glm-5.3"
+}

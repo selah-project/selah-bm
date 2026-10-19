@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dugukolo",
+      "rationale": "ארץ here is 'the land of Egypt' (partitive), rendered dugukolo rather than the whole earth"
+    }
+  ],
+  "translation": "U faamaw ɲɛfɛ, a ye fɛnw minnu bɛ lajɛ kɛ Misira dugukolo la, Soan foro la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/9-12.1791940749004.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "u faamaw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a ye … kɛ"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "fɛnw minnu bɛ lajɛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misira"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "foro"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Soan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:09.005314103Z",
+  "model": "glm-5.3"
+}

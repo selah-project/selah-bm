@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ni \/ ninakili \/ kunnafoni ye, a tɛ 'âme' tiɲɛ ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "שקקה",
+      "rationale": "daɲɛ in kɔrɔ ye 'ka ɲagami i n'a fɔ bagan bɛ songo minɛ' — 'ka janfa' walima 'ka fɛ ko bɛɛ'”; u bɛ fɔ 'longing' (KJV) walima 'thirsty' (BSB)"
+    }
+  ],
+  "translation": "Sabu a ye ni min bɛ ɲagami kunbɛ, a ye ni kokɔrɔba mara kabu ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/107\/9-12.1791941347801.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "kunbɛ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "min bɛ ɲagami"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "a ye ni"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "kokɔrɔba"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mara kabu ye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:07.801663772Z",
+  "model": "glm-5.3"
+}

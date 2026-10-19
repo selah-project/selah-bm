@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זלעפה",
+      "rationale": "Dabali: 'sɔsɔli' (bɔnni) walima 'tasuma-ɲi' (a ka bɔn bɛɛ ye); KJV 'horror', ASV 'hot indignation'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sɔsɔli",
+      "rationale": "זלעפה kɔrɔ ye yeelen-bɔnni \/ kunba ju ye, 'horror' tɛ a dantigɛ dɔrɔn."
+    }
+  ],
+  "translation": "Sɔsɔli ye ne minɛ mɔgɔ juguw la, minnu ye ⟨את⟩ i ka Tora bila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9436762ab9cfb774137d9b4ea8f9a7e0d6bc0c56891c9a58eaa37b100b21d52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/53-56.1791941646696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "sɔsɔli"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "ye ne minɛ"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "mɔgɔ juguw la"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "minnu ye ... bila"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "i ka Tora"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:06.696942646Z",
+  "model": "glm-5.3"
+}

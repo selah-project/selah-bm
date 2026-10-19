@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ala ka mɔgɔ",
+      "rationale": "איש האלהים is a construct chain 'man of God', rendered as a bound Bambara phrase, not 'man of the god'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Hebrew participle שם איש האלהים 'the man of God being there'; Bambara past marker supplied for the narrative frame."
+    }
+  ],
+  "translation": "Shaul ko a denbilen ma: i kuma ka ɲi; i na, an ka taa. U taara dugubolo la min kɔnɔ Ala ka mɔgɔ tun bɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "726618519fc0d1fa85f8e84a1328ca3c79d8fc170346a081a5076b45010040cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/9\/9-12.1791930116565.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "a denbilen ma"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "i kuma"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "i na"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "an ka taa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "u taara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugubolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Ala ka"
+    }
+  ],
+  "timestamp": "2026-10-13T22:21:56.567361697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 47:7",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "a y'a ɲɛ",
+      "rationale": "יעדה literally 'he appointed it' — the sword's task fixed by decree; rendered as 'set it there for that purpose'"
+    },
+    {
+      "kind": "addition",
+      "subject": "a kɛ",
+      "rationale": "Bambara needs a verb of motion where Hebrew has only 'against Ashkelon' with prepositions"
+    }
+  ],
+  "translation": "Ale bɛ se ka hɛrɛ cogo di, ko Yawe y'a to a la — a kɛ Ashkelon kan, ani kɔgɔji senfe kan? Yen de a y'a ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2f11236b7b61a040822ab48a1d3d4bbcda20878906becfa0b51cdab63a092c18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/47\/5-7.1791936159010.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "cogo di"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "ka hɛrɛ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ko Yawe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "y'a to"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani … kan"
+    },
+    {
+      "surface": "חוף",
+      "gloss": "senfe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "a y'a ɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:02:39.011092438Z",
+  "model": "glm-5.3"
+}

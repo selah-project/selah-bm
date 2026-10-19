@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "da",
+      "rationale": "שפה (lips) ni פה (mouth) bɛɛ bayɛlɛma ni 'da' ye — Bamanankan tɛ daɲɛ fila sɔrɔ o nɛɛma kelen na"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duba",
+      "rationale": "תהלה (dɔnkili-ka-don \/ sangali) bayɛlɛma ni 'duba' ye — k'a dɔgɔya kɛ daɲɛ kelen ye"
+    },
+    {
+      "kind": "you",
+      "subject": "Adonay",
+      "rationale": "Dawid bɛ Adonay wele a ka kumasen in kɔnɔ"
+    }
+  ],
+  "translation": "Adonay, i ye n ka da lase ⟨ka digi⟩, ani n da bɛna i ka duba jira.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "01a448002bf81ede559e3a8e2da5a496bb26d9544bf329aa8a6254a3171b2918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/51\/17-20.1791940324703.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "n ka da"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "i ye … lase ⟨ka digi⟩"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ani n da"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bɛna … jira"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "i ka duba"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:04.704433301Z",
+  "model": "glm-5.3"
+}

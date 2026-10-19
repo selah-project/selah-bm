@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Bamanankan nɛnabila bɛ wajibiya sɛbɛnni-min bɛ kumalen kan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lagilasi",
+      "rationale": "לחתום — 'lagilasi' (dibi-la-ka-don) bɛ 'to close up\/seal' ka jalaki"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mozanw",
+      "rationale": "במאזנים — duwal: mfeeri fila; 'mozanw' bɛ sɔn, a ye duwa-yɛrɛ kuma ye"
+    }
+  ],
+  "translation": "N ye a sɛbɛn gafe kɔnɔ, n ye a lagilasi, n ye seerew ɲini, n ye ⟨את⟩ warigwɛ sunun mozanw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "059f3ff1c36588cbdf1aa86e1a502ca90f66d4e19d6768d0c66e7703915cfdb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/32\/9-10.1791950895500.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "n ye a sɛbɛn"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "gafe kɔnɔ"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "n ye a lagilasi"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "n ye seerew ɲini"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "seerew"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "n ye … sunun"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "mozanw la"
+    }
+  ],
+  "timestamp": "2026-10-14T04:08:15.501465570Z",
+  "model": "glm-5.3"
+}

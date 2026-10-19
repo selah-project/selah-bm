@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וגזית נבנה",
+      "rationale": "Hebrew has two verbs (cut-stone we-will-build); Bambara folds 'build' into the ni…ye construction and 'renew' into yɛlɛma"
+    },
+    {
+      "kind": "addition",
+      "subject": "an",
+      "rationale": "Hebrew omits the pronoun 'we'; supplied to carry the boast"
+    },
+    {
+      "kind": "you",
+      "subject": "quotation",
+      "rationale": "The verse is Israel's arrogant boast quoted — speech addressed by the people about themselves, not to the reader"
+    }
+  ],
+  "translation": "Lɛbɛnw bɔyara, nka an bɛna bɔ ni kabakurun tiɲɛnenw ye; sikamɔrɛ jiriw bɛtigiyara, nka an bɛna bɔ yɛlɛma araz jiriw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/9\/9-12.1791933668412.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "lɛbɛnw"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "bɔyara"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "nka an bɛna bɔ ni kabakurun tiɲɛnenw ye"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": ""
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "sikamɔrɛ jiriw"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "bɛtigi"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "araz jiriw"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "an bɛna bɔ yɛlɛma"
+    }
+  ],
+  "timestamp": "2026-10-13T23:21:08.413831278Z",
+  "model": "glm-5.3"
+}

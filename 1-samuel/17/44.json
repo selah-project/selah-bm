@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "Direct summons and threat addressed to David: 'Come to me.'"
+    },
+    {
+      "kind": "addition",
+      "subject": "an",
+      "rationale": "BM needs the subject pronoun 'an\/I' with bɛ for the cohortative 'I will give'."
+    }
+  ],
+  "translation": "Pelisiti ko Dawida ye: na ne fɛ, an b'⟨את⟩ i ka sogo di sankolow kɔnɔw ma ani foro baganw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "89b451cf4c78c8112e53eb22c64d8df8cf73f2ef168c05ac3796b2370ae12e83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/17\/41-44.1791930478817.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelisiti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne fɛ"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "n bɛ ... di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ka sogo"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "i ka sogo"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "kɔnɔw ma"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "ani baganw ma"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "foro"
+    }
+  ],
+  "timestamp": "2026-10-13T22:27:58.821365820Z",
+  "model": "glm-5.3"
+}

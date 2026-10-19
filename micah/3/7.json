@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 3:7",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שפם",
+      "rationale": "שפם is the upper lip \/ mustache-piece; rendered 'lan' (lip) — the beard\/mustache nuance lost."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Possessive particle supplied: 'Elohim ka jaabi' — Hebrew construct מענה אלהים is bound, no separate possessive word."
+    },
+    {
+      "kind": "you",
+      "subject": "about the prophets",
+      "rationale": "Continues the judgment speech against the seers and diviners, now in third person."
+    }
+  ],
+  "translation": "Mahazɔnbagaw na yaasa, kɛsɛmɛbagaw na jijya, u bɛɛ na u lan gbɛ, sabu Elohim ka jaabi si tɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "36ba64aad36a6e0f92da37ce1146e951251c2f0c7ca48efd09aaaddf6b6ecab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/3\/6-7.1791951092088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "na yaasa"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "mahazɔnbagaw"
+    },
+    {
+      "surface": "וחפרו",
+      "gloss": "na jijya"
+    },
+    {
+      "surface": "הקסמים",
+      "gloss": "kɛsɛmɛbagaw"
+    },
+    {
+      "surface": "ועטו",
+      "gloss": "na … gbɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "(kan)"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "u lan"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "u bɛɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ yen"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "jaabi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T04:11:32.089054239Z",
+  "model": "glm-5.3"
+}

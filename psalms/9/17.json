@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הגיון סלה",
+      "rationale": "Ladilikanw taamasiyɛnw — mɔgɔw b'u fɔ u cogo la, u tɛ bayɛlɛma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רשע",
+      "rationale": "bagan-jurumatɔ (bagan ni jurumu tɔ) — dɔnniyakɔrɔbaga tɛ, a ye mɔgɔ min ye jurumu kɛ aktiwali ye"
+    },
+    {
+      "kind": "you",
+      "subject": "kalanbaga ma",
+      "rationale": "Sara-sɛbɛn in bɛ fɔ jamana bɛɛ ye; kuma bɛ se kalanbaga ma"
+    }
+  ],
+  "translation": "Yawe ye a yɛrɛ jira ni sariya ye; a b'a kɛ. Bagan-jurumatɔw bɛ yɛrɛ bolo baara la minɛ. Higayɔn. Sela.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/9\/17-20.1791939635451.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "jira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a b'a kɛ"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "baara la"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "minɛ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bagan-jurumatɔw"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayɔn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:35.451577795Z",
+  "model": "glm-5.3"
+}

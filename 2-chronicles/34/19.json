@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויקרע את בגדיו",
+      "rationale": "Tearing one's garments is a Hebrew grief\/mourning gesture; rendered literally, the ritual act kept visible."
+    },
+    {
+      "kind": "addition",
+      "subject": "a yɛrɛ ka",
+      "rationale": "Hebrew suffix -יו already means 'his'; Bambara needs the possessive phrase 'a yɛrɛ ka' supplied."
+    }
+  ],
+  "translation": "A kɛra tiɲɛ ye, masakɛ ka ⟨את⟩ Tora kumaw mɛn na, a ye ⟨את⟩ a yɛrɛ ka dɔgɔkɔminɛ sɛgɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "834726cfbac34520d6037b08b427a57f1b470e3057b2e15497643291537dcbd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/34\/17-20.1791949894044.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a kɛra tiɲɛ ye"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ka … mɛn na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora kumaw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "a ye … sɛgɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a dɔgɔkɔminɛ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "a yɛrɛ ka dɔgɔkɔminɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:51:34.044995720Z",
+  "model": "glm-5.3"
+}

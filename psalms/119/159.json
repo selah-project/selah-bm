@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 159,
+  "ref": "psalms 119:159",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept as hesed; single Bambara word (kanuya, makari) would narrow it"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "direct address with imperative 'see' — the psalmist's plea spoken to Yawe"
+    }
+  ],
+  "translation": "Yɛ, sabu ne b'i ka sariya-ɲininiw kanuya, Yawe; i ka hesed la, ne balo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ebceea0ab5e72f3b307cc5c217ad32df22e7a88725dc4c7454dd564e18f12351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/157-160.1791941685180.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Yɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "i ka sariya-ɲininiw"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ne bɛ ... kanuya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "i ka hesed la"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ne balo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:45.181441383Z",
+  "model": "glm-5.3"
+}

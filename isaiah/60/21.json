@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 60:21",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew apposition lacks a demonstrative tying 'branch of my planting' back to the people; Bambara needs ⟨a⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "walasa ⟨n⟩ ka ɲɛjira",
+      "rationale": "להתפאר read as purpose 'that I may be glorified' (KJV) vs JPS 'wherein I glory' (result)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "denjiri",
+      "rationale": "נצר is a shoot\/sprout, a messianic figure-word (Isa 11:1); rendered 'young tree', the shoot-picture kept partially."
+    }
+  ],
+  "translation": "I ka jama bɛɛ na tiɲɛdenna ye, u bɛna dugukolo mara waati bɛɛ; olu ye ⟨a⟩ ye — n denjiri min n da, n ka bolo baara — walasa ⟨n⟩ ka ɲɛjira.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fb7108b4f69f7d3a7bf06b03d9fc21ca27a2a6eb29965b2bda7f0825b097292f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/60\/21-22.1791934675602.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמך",
+      "gloss": "i ka jama"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tiɲɛdenna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waati bɛɛ"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bɛna mara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "denjiri"
+    },
+    {
+      "surface": "מטעו",
+      "gloss": "min n da"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "n ka bolo"
+    },
+    {
+      "surface": "להתפאר",
+      "gloss": "walasa ka ɲɛjira"
+    }
+  ],
+  "timestamp": "2026-10-13T23:37:55.603744973Z",
+  "model": "glm-5.3"
+}

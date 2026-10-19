@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הים",
+      "gloss": "kɔgɔji",
+      "rationale": "Kɔgɔji ye bɔnanna ye min bɛ Babilen datugu — a ye fiɲɛ-bɔnanna ye, ji tiɲɛnw tɛ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "waves",
+      "rationale": "גליו ye 'a bimbannu' ye (kɔgɔji ka bilenw), ji-jate-yɔrɔ laseli"
+    }
+  ],
+  "translation": "Kɔgɔji nana Bawel kan, a bimbannu ka bɔnanna ye a datugu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bcc3df932f9b70f6340cd410f0138c33ae230269093daf76966228dec60d0900",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/51\/41-44.1791936497138.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "nana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bawel"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "bɔnanna"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "a bimbannu"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "a datugu"
+    }
+  ],
+  "timestamp": "2026-10-14T00:08:17.139217879Z",
+  "model": "glm-5.3"
+}

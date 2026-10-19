@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Yawe commands Jeremiah directly with imperatives: taa, kuma, bila, min"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "gloss-note": "",
+      "rationale": "object suffix -tam rendered as Bambara pronoun u, the marker itself shown as ⟨את⟩"
+    }
+  ],
+  "translation": "Taa Rekabitiw (Rekab-denw) so la, i na kuma u ye, i na u bila Yawe so lasufɛ kelen kɔnɔ, k'i na diwɛn min u ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c5a63b4c1703e1bfb7b0639a655569b502daf91bd1b9fb4ba04ba8e69dd183bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/35\/1-4.1791935937230.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "taa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Rekabitiw (Rekab-denw)"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "kuma u ye"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "u (Rekabitiw)"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "u bila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "lasufɛw"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "min"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "u"
+    },
+    {
+      "surface": "יין",
+      "gloss": "diwɛn"
+    }
+  ],
+  "timestamp": "2026-10-13T23:58:57.231962437Z",
+  "model": "glm-5.3"
+}

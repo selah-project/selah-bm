@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 35:27",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hɛrɛ",
+      "rationale": "שלום is wholeness\/welfare, broader than 'peace'; hɛrɛ is the closest single Bambara word"
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "pronoun i supplied in 'i baarabaga' where Hebrew has only the suffix -o on עבדו"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חפצי\/החפץ",
+      "rationale": "same verb חפץ frames both halves — those who delight in my righteousness, and He who delights in His servant's shalom"
+    }
+  ],
+  "translation": "Y'u dii, k'u diya, aw minnu bɛ n tiɲɛ-ɲɛ fɛ; k'u na tugu fɔ ko: “Yawe ka bon, min bɛ i baarabaga hɛrɛ fɛ.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/35\/25-28.1791940032974.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירנו",
+      "gloss": "y'u dii"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "k'u diya"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "minnu bɛ ... fɛ"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "n tiɲɛ-ɲɛ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "k'u na tugu fɔ ko"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ka bon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "min bɛ ... fɛ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "i baarabaga"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:12.975021245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יהללו",
+      "rationale": "halal is 'shine\/praise'; rendered as fɔ ka ɲɛ (speak well of), the idiomatic sense."
+    },
+    {
+      "kind": "crux",
+      "subject": "יתגרו בם",
+      "rationale": "'contend with them' vs 'become angry with them' — garah root covers both stirring strife and anger."
+    }
+  ],
+  "translation": "Minnu bɛ Tora bila, u bɛ rasha fɔ ka ɲɛ; Tora maralaw bɛ u kan ka u ɲagami.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/28\/1-4.1791943048396.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "minnu bɛ … bila"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "bɛ … fɔ ka ɲɛ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rasha"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "Tora maralaw"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "bɛ … ka u ɲagami"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:57:28.397508849Z",
+  "model": "glm-5.3"
+}

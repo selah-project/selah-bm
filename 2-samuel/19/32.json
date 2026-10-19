@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מרגלים",
+      "rationale": "Rogelim appears only here and in 2 Sam 17:27 as a place name; kept as name."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ירד",
+      "rationale": "'he went down' — rendered 'bɔra…na' (came from), descending implied by geography."
+    },
+    {
+      "kind": "elision",
+      "subject": "leshalho et hayarden",
+      "rationale": "'to send him over the Jordan' — second את marks the river; Bambara 'ka taa Yardɛn kɔfɛ' carries it without a second marker word."
+    }
+  ],
+  "translation": "Barzilayi (Barzilayi), Giladi ka mɔgɔ, tun bɔra Rogelim (Rogelim) na, a ye ⟨את⟩ masakɛ tɛmɛ Yardɛn (Zɔrɔdan) kan, walasa k'a bila ka taa ⟨את⟩ Yardɛn kɔfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5140c72d81c8137d0ee21c34e9518fd493f18d22a66b04b0939440ead3661773",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/19\/29-32.1791931423326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "Barzilayi"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladi ka mɔgɔ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bɔra…na"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "Rogelim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "a ye … tɛmɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masakɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardɛn"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "walasa k'a bila ka taa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardɛn"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Yardɛn kɔfɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:43:43.328747082Z",
+  "model": "glm-5.3"
+}

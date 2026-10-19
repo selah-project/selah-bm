@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i bɔra",
+      "rationale": "Heburukan tɛ kumajɔdili sɔrɔ; Bamanankan b'a dɔwɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעולם",
+      "rationale": "סגור-waati, min bɛɛ ma dɔn o bɔlen — 'waati kunafonbila'"
+    }
+  ],
+  "translation": "I ka sigisigi jɔra daminɛ la, i bɔra waati kunafonbila la, Yawe.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/93\/1-4.1791941112453.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "jɔra"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "i ka sigisigi"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "daminɛ la"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "waati kunafonbila la"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i bɔra ⟨i⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:12.454578400Z",
+  "model": "glm-5.3"
+}

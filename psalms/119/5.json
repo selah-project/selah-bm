@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחלי",
+      "rationale": "Wish-particle rendered variously 'Oh that' \/ 'Would that'; Bambara 'I n'a fɔ' (if only) keeps the optative shape"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sariya-jukɔrɔw",
+      "rationale": "חוק is an enacted statute; hyphenated coinage keeps 'statute' distinct from general תורה"
+    }
+  ],
+  "translation": "I n'a fɔ — n siraw bɛna jɔ, walasa n ka i ka sariya-jukɔrɔw mara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "98bb0e9185f46b87e351d62541c78edc3e05053bb5c705a5a6612adebae06563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/5-8.1791941543832.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "I n'a fɔ"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "bɛna jɔ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "n siraw"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "walasa n ka mara"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i ka sariya-jukɔrɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:23.833629116Z",
+  "model": "glm-5.3"
+}

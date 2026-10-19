@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lisi jatebɛ",
+      "rationale": "Census list verse: clan name plus head-count 1254."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמשים",
+      "rationale": "Here 50 rendered as 40+10 (dege ni tan) while 7:10 used kanga — the Bambara tens system has competing forms; a native ear should settle one."
+    }
+  ],
+  "translation": "Elam denw, ba kelen ni kɛmɛ fila ni dege ni tan ni naani ⟨1254⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a979d4778998aafa59ed09cb6702f2d4beb33490438dd1944cd6d3fce3218f66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/7\/9-12.1791947070443.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ba kelen"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kɛmɛ fila"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "dege ni tan"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ni naani"
+    }
+  ],
+  "timestamp": "2026-10-14T03:04:30.444670429Z",
+  "model": "glm-5.3"
+}

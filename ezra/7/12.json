@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 7:12",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "וכענת",
+      "rationale": "Aramaic formula 'and at this point \/ and so forth', unique closing flourish; bracketed as editorial seam."
+    },
+    {
+      "kind": "crux",
+      "subject": "גמיר",
+      "rationale": "'perfect' — does it modify the scribe (a perfect\/expert scribe) or serve as greeting (KJV 'perfect peace')? Rendered as modifier 'sɛbɛbaga timadena'."
+    },
+    {
+      "kind": "you",
+      "subject": "letter opening",
+      "rationale": "The king's letter directly addresses Ezra; the verse is the salutation of a royal decree."
+    }
+  ],
+  "translation": "Artashasta, masaw ka masakɛ, kuma bɛ Ezira ma: sarakalasebaga, sɛbɛbaga, sinkolo Ala ka sariya sɛbɛbaga timadena — ani ⟨o cogo⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/7\/9-12.1791946654800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artashasta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "masaw ka"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "Ezira ma"
+    },
+    {
+      "surface": "כהנא",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sɛbɛbaga"
+    },
+    {
+      "surface": "דתא",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "די",
+      "gloss": "…ka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "sinkolo"
+    },
+    {
+      "surface": "גמיר",
+      "gloss": "timadena"
+    },
+    {
+      "surface": "וכענת",
+      "gloss": "ani ⟨o cogo⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T02:57:34.802832798Z",
+  "model": "glm-5.3"
+}

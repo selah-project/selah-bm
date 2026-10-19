@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 12:22",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩",
+      "rationale": "Participle with no explicit subject; Bambara needs one"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sayafinanw",
+      "rationale": "צלמות is literally 'death-shade', one word; Bambara compounds it as saya-finan"
+    },
+    {
+      "kind": "mystery",
+      "subject": "kɔgɔjuguw ka bɔ dibi la",
+      "rationale": "Verse names the unveiling of hidden deep things from darkness"
+    }
+  ],
+  "translation": "⟨A⟩ bɛ kɔgɔjuguw jira ka bɔ dibi la, ka sayafinanw bɔ ka na yeelen na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6cce5daa9ee4f23dd0efc89477366f23b0eabe562369eef9efcbe8ad2d0311d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/12\/21-24.1791943544063.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגלה",
+      "gloss": "bɛ ... jira"
+    },
+    {
+      "surface": "עמקות",
+      "gloss": "kɔgɔjuguw"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ka bɔ ... la"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dibi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "bɔ ka na"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "yeelen na"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "sayafinanw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:05:44.065079972Z",
+  "model": "glm-5.3"
+}

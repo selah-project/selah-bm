@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 7:9",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Yala",
+      "rationale": "Hebrew interrogative ה rendered as question particle 'Yala…wa?'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "alaw",
+      "rationale": "אלהים אחרים — foreign gods rendered 'alaw', not the Name Elohim"
+    },
+    {
+      "kind": "you",
+      "subject": "to Judah at the temple gate",
+      "rationale": "Rhetorical questions accuse the hearers directly"
+    }
+  ],
+  "translation": "Yala aw bɛ son ta, mɔgɔ faga, ni furu-ja kɛ, ni tiɲɛtɛ daɲɛw la kuma-ka-bɔ, ni Baal ye tasuma di, ka taa alaw wɛrɛw kɔ — minnu aw ma dɔn?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "de524f14ad9416449c63f096373ec9d235c2dea283cffb62435d67b908e03ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/7\/9-12.1791935189235.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגנב",
+      "gloss": "son ta"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "mɔgɔ faga"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "ni furu-ja kɛ"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "kuma-ka-bɔ"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "tiɲɛtɛ daɲɛw la"
+    },
+    {
+      "surface": "וקטר",
+      "gloss": "ni tasuma di"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal ye"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "alaw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wɛrɛw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ali"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "aw ma dɔn"
+    }
+  ],
+  "timestamp": "2026-10-13T23:46:29.236244927Z",
+  "model": "glm-5.3"
+}

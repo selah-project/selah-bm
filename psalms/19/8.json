@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is throat\/breath\/life-force, not a detachable 'soul'; rendered 'ni' (life)"
+    },
+    {
+      "kind": "crux",
+      "subject": "bɛ ni segin",
+      "rationale": "משיבת נפש: 'restoring\/reviving the life' vs KJV 'converting the soul' — return-language of שׁוב"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Tora \/ seere",
+      "rationale": "opening of the Torah-section; six paired lines each naming Yawe — chiasm of heaven's word (v.5) and Torah's word"
+    }
+  ],
+  "translation": "Yawe ka Tora ka pɛpɛya, a bɛ ni segin; Yawe ka seere ye tiɲɛ-donnen ye, a bɛ fɔlifɔli-mɔgɔw hakilitigiya di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/19\/5-8.1791939807251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "ka pɛpɛya"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "bɛ ... segin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "seere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "tiɲɛ-donnen"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "bɛ hakilitigiya di"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "fɔlifɔli-mɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:27.252616664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "yɔrɔ ye a ye",
+      "rationale": "Hebrew makes the place the subject: 'his place will not recognize him again' — Bamanankan keeps the place as subject rather than 'he will not be remembered'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ani",
+      "rationale": "ולא carries the conjunction; the second negation needs 'ani' to join the two clauses"
+    }
+  ],
+  "translation": "A tɛna segin kokura a so na, ani a yɔrɔ tɛna a ye kokura.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d8ba12b9daabce994c5f8ce4a616c85559260e8db075b0b41b0beb4964da3879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/7\/10-11.1791951315631.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kokura"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "a so na"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani tɛ"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kokura"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "a yɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:15:15.632179150Z",
+  "model": "glm-5.3"
+}

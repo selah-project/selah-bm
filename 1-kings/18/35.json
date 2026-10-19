@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "המים וילכו",
+      "rationale": "literal 'the water walked around the altar'; Bambara 'ji in ta … tiŋɛ' keeps the motion picture"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sɔgɔboli",
+      "rationale": "התעלה is a channel\/trench for irrigation; 'sɔgɔboli' (dug ditch) nearest shape"
+    }
+  ],
+  "translation": "Ji in ta sarakabɔlan in tiŋɛ tiŋɛ, a ye ⟨את⟩ sɔgɔboli in ye ji ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6e181a50c7be3ae0ddb4e3bbf164542da036ad17ed6af16a55e27f40751f2b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/18\/33-36.1791932423802.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ta tiŋɛ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tiŋɛ tiŋɛ"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sarakabɔlan in la"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a fana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sɔgɔboli in"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "sɔgɔboli in"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ye ji ye"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    }
+  ],
+  "timestamp": "2026-10-13T23:00:23.806472863Z",
+  "model": "glm-5.3"
+}

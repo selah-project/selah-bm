@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאתי",
+      "rationale": "מאתי (את taabolo ni 'min bɛ taa') — ⟨את⟩ taamasiyɛn b'a mara, 'bɔ ne fɛ' ye a kɔrɔ ye."
+    },
+    {
+      "kind": "hapax-ɲɛfɔli",
+      "subject": "hesed",
+      "rationale": "חסד bɛ to hesed ye sɛbɛnni-yɛlɛma la, a tɛ dɔgɔya ka kɛ kanuya dɔrɔn ye."
+    }
+  ],
+  "translation": "Elohim nana i duba, min ma ne juwowili bali, a hesed ma bali ⟨את⟩ ne fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f13630ea18a75644aaafc904cdca32724e5b75ccf6659031f7d73cc10c737c52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/66\/17-20.1791940436282.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "i duba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ... bali"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "bali"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ne juwowili"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "a hesed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ne fɛ",
+      "marks": "juwowili ni hesed bɛ bɔ yɔrɔ (ne fɛ)"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:56.282978204Z",
+  "model": "glm-5.3"
+}

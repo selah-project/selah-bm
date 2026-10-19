@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jate-sen",
+      "rationale": "חבל ye kɔrɔko-sen ye min bɛ kɛ jate ye; n'a bɛ wele ko 'dɔrɔn' fɔlɔ, kuntilen-tɛ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Heburukan ma nɔnabila sɛbɛn; Bamanankan ka kan ka a fara a kan"
+    }
+  ],
+  "translation": "Sabi Yawe ka dɔɔnin ye ⟨a⟩ ka jamaa ye; Yakyubu ye ⟨a⟩ ka jate-sen ka nafoloya ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "84704971e5f4610be27062eddd43f82b1ba82dd58b84246afd1c5d91eb7770f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/32\/9-12.1791928359232.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "dɔɔnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ale ka jamaa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakyubu"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "jate-sen"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ale ka nafoloya"
+    }
+  ],
+  "timestamp": "2026-10-13T21:52:39.234119953Z",
+  "model": "glm-5.3"
+}

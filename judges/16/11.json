@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 16:11",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסור יאסרוני",
+      "rationale": "Infinitive absolute plus finite verb — 'if binding they bind me' — intensifies the verb; Bambara single bila flattens the doubling."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וְחָלִיתִי",
+      "rationale": "Root חלה is 'become sick\/weak'; rendered dɔgɔya (become weak), not literal sickness."
+    },
+    {
+      "kind": "crux",
+      "subject": "כְּאַחַד הָאָדָם",
+      "rationale": "'like one of the men\/humankind' — 'as any other man' (kjv) vs literal 'like one of humankind' (ylt)."
+    }
+  ],
+  "translation": "A ko a ma: “Ni u ye blɔbagaw kura ye ⟨את⟩ ne bila, minnu la baara ma kɛ, ne bɛna dɔgɔya, ka kɛ ⟨mɔgɔ dɔ⟩ ye.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d282b50fe19c3496e413890043dcf8205e2acef3b91891940e82cb60311d675c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/16\/10-11.1791950209233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "bila"
+    },
+    {
+      "surface": "יאסרוני",
+      "gloss": "u ye ne bila"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "blɔbagaw la"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "kura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u la"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "וחליתי",
+      "gloss": "ne bɛna dɔgɔya"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "⟨mɔgɔ dɔ⟩ ye"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:56:49.234036103Z",
+  "model": "glm-5.3"
+}

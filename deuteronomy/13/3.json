@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 13:3",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "alaw",
+      "rationale": "אלהים אחרים here is gods of the nations, not the Name; rendered with the plain word alaw per the discipline."
+    },
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "Bambara quotative ko supplied before direct speech; Hebrew לאמר rendered within the verb."
+    }
+  ],
+  "translation": "O taamasiyɛn ni o kɛfuruni min kɛra, min y'a fɔ aw ye ko: an ka tugu alaw wɛrɛw nɛ — aw minnu ma dɔn — an ka bɛ u diinɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "542fd8d0522e6009e64564577275be6afd7271017da2e841f66b82c3b01a45e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/13\/1-4.1791927867494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ka kɛra"
+    },
+    {
+      "surface": "האות",
+      "gloss": "taamasiyɛn o"
+    },
+    {
+      "surface": "והמופת",
+      "gloss": "ni kɛfuruni o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "an ka taa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "alaw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wɛrɛw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "ונעבדם",
+      "gloss": "an ka bɛ u diinɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:44:27.498355793Z",
+  "model": "glm-5.3"
+}

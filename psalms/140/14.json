@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "colu",
+      "rationale": "יודה kɔrɔtiɲɛ ye 'bɛ fɔ k'a tɔgɔ ɲini' ye — 'colu' ye nɔgɔya dilan"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "פניך bɛ fɔ 'i ɲɛ' fɔcogo na Bamanankan na"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיקים \/ ישרים",
+      "rationale": "keneyatɔw ni juw — daɲɛ fila minnu bɛ sira-ɲɛfɛli kelen ta, Bamanankan faamuya nɔgɔya la"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "kumasen in bɛ Yawe wele kɛrɛnkɛrɛnnenya la (Tɔgɔ, ɲɛda)"
+    }
+  ],
+  "translation": "A tiɲɛna de, keneyatɔw bɛ ⟨את⟩ Tɔgɔ colu; juw bɛ sigin ⟨את⟩ ⟨i⟩ ɲɛdama.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2bb7e88c908a41c5097c75466d3c69ebd4ffa939f3d55a8d16e88372e1f8393e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/140\/13-14.1791941840356.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "A tiɲɛna de"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "keneyatɔw"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "bɛ ... colu"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Tɔgɔ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bɛ sigin"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "juw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ɲɛdama"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ɲɛdama"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:20.356767819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "pronoun supplied: 'his sons' — suffix on בניו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dugaw … la",
+      "rationale": "וידבקו 'clung\/pursued closely' rendered as 'pressed hard upon'"
+    },
+    {
+      "kind": "elision",
+      "subject": "שוע",
+      "gloss": "",
+      "rationale": "second half of the name Malkishua, one name split over two tokens"
+    }
+  ],
+  "translation": "Filistiw dugaw Sawulu ni ⟨a⟩ denkɛw la, Filistiw bana ⟨את⟩ Yonatan ni ⟨את⟩ Awinadab ni ⟨את⟩ Malkishua, Sawulu denkɛw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4d58a11e9585da1d0ab4c9bb6a498cf93acdc7312f7e4d83624cc74d42f561da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/31\/1-4.1791930869158.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "dugaw … la"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sawulu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a denkɛw"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a denkɛw"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "bana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Awinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Awinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malkishua"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "(tɔgɔ kɔfɛ)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawulu"
+    }
+  ],
+  "timestamp": "2026-10-13T22:34:29.160740092Z",
+  "model": "glm-5.3"
+}

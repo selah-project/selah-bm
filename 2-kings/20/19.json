@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 20:19",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוא אם",
+      "rationale": "double particle 'is-it-not if' rendered as one Bambara question frame 'yala … wa'"
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "second ויאמר subject 'a' (Hezekiah continuing) supplied — Hebrew omits it"
+    },
+    {
+      "kind": "you",
+      "subject": "Yeshaya",
+      "rationale": "Hezekiah speaks directly to Isaiah"
+    }
+  ],
+  "translation": "Hizikiya ye Yeshaya ko: Yawe ka kuma min i fɔra, o ka ɲi. A ye fɔ kɔrɔ ko: yala hɛrɛ ni tiɲɛ tɛna bɛ n tilew kɔnɔ wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "46423c9ec65d9570647e29cd79a7578560568e4a145ebc0bbd11f159eec93aca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/20\/17-20.1791933266468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "i fɔra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ye fɔ kɔrɔ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yala"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ani tiɲɛ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tɛna bɛ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "n tilew kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:14:26.480356907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne ka",
+      "rationale": "Hebrew ma minɛn sɔrɔ 'ne' (sira: סבבoun 'ne lakiliyaw'); a farala ye minnu bɛ ne wuli ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמל",
+      "rationale": "טובלי-vs-bɔgɔli: עמל ye kunicogo ye (a bɛ se ka kɛ bagatigi ya 'bɔgɔli' walima kunicogo-ko ye); 'gɛlɛya' ye sira kabakoma ye"
+    }
+  ],
+  "translation": "Ne ka surunyɔrɔlaw ka kun — u ka munw ka gɛlɛya bɛ u dansi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/140\/9-12.1791941850264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "surunyɔrɔlaw"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "gɛlɛya"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "u ka munw"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "bɛ u dansi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:30.265458548Z",
+  "model": "glm-5.3"
+}

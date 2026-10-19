@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 8:9",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מיאם",
+      "rationale": "lemma 'sea' is a misparse; it is מִיָּם 'from the west', rendered tilebin fɛ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וילן",
+      "rationale": "'lodged overnight' vs 'spent the night'; sigilen don keeps the sitting-staying shape"
+    }
+  ],
+  "translation": "Yosua y'u ci, u taala ka dogo, ka sigi Bet-El (Bet-El) ni Ayi (Ayi) cɛma, Ayi tilebin fɛ. Su in na, Yosua sigilen don mɔgɔw cɛma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fe875eb6d8cde84fbe23cc9a1ecff7c0a5dd2d2781d25c7507bb159d82e1591e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/8\/9-12.1791928656829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחם",
+      "gloss": "y'u ci"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yosua"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "u taala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המארב",
+      "gloss": "dogoyɔrɔ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ka sigi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tilebin"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "Ayi ka fɛ"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "sigilen don"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yosua"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "su in na"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "cɛma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:57:36.830826160Z",
+  "model": "glm-5.3"
+}

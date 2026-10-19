@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minɛ",
+      "rationale": "ימישון is 'touch\/feel'; 'minɛ' (grasp\/take) is the nearest Bambara action verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuma",
+      "rationale": "הגה is 'murmur\/moan low in the throat'; plain 'kuma' loses the guttural rumble"
+    }
+  ],
+  "translation": "Bolow b'u la, nka u tɛ minɛ; senw b'u la, nka u tɛ taa; u tɛ kuma u ka kɔkɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d238467357eb2dd7bd7606a902d92ce1147ea96c7a51483d5250e9db09898798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/115\/5-8.1791941532329.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "bolow (u bolow)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka u tɛ"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "minɛ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "senw (u senw)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka u tɛ"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "taa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "u tɛ"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "u ka kɔkɔrɔ la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:12.330329400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשאו\/ישאו ×3",
+      "rationale": "kuma kelen saba laseli — bajiw ka jirali saba, cogo bajaw bɛ kuma cogo min"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דכים",
+      "rationale": "ji min bɛ don-i-don — 'ji-bolow' ka dɔgɔ dɔɔnin"
+    }
+  ],
+  "translation": "Bajiw ye u yɛrɛw jirali, Yawe; bajiw ye u kanw jirali; bajiw bɛ u ji-bolow jirali.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/93\/1-4.1791941112453.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "jirali"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "bajiw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "jirali"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "bajiw"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "u kanw"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bɛ jirali"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "bajiw"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "u ji-bolow"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:12.454726336Z",
+  "model": "glm-5.3"
+}

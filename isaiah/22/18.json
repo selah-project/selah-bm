@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 22:18",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צנוף יצנפך צנפה",
+      "rationale": "Triple root repetition צנף: 'wrapping he will wrap you like a wrapped-ball'; doubled ɲagamili keeps only part of it."
+    },
+    {
+      "kind": "idiom",
+      "subject": "רחבת ידים",
+      "rationale": "Literally 'broad of hands' = wide, spacious; rendered 'bolo fara ɲɔgɔn kan'."
+    },
+    {
+      "kind": "crux",
+      "subject": "קלון בית אדניך",
+      "rationale": "Apposition ('you, disgrace of your lord's house', JPS) vs. predicate ('chariots are the disgrace', KJV); I take the predicate."
+    },
+    {
+      "kind": "elision",
+      "subject": "כבודך",
+      "rationale": "'Your glory\/splendor' rendered as 'i jaw' — 'your honor'."
+    }
+  ],
+  "translation": "A bɛ i ɲagamili ka kɛ kɛrɛ ye, a bɛ i ta ka taa dugukolo min bɛ bolo fara ɲɔgɔn kan; yen i bɛna sa, yen i kɛlɛsow ni i jaw bɛna to — i matigi so dɔgɔya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "32fa59ba57dcbe7bad0e200916733d11fb10661db114c9aab1d2969d9bc3a9bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/22\/17-20.1791933881134.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צנוף",
+      "gloss": "ɲagamili"
+    },
+    {
+      "surface": "יצנפך",
+      "gloss": "bɛ i ɲagamili"
+    },
+    {
+      "surface": "צנפה",
+      "gloss": "kɛrɛ"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "kɛrɛ ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "bolo fara ɲɔgɔn kan"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "i bɛna sa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "kɛlɛsow"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "i jaw"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "dɔgɔya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "i matigi"
+    }
+  ],
+  "timestamp": "2026-10-13T23:24:41.137987483Z",
+  "model": "glm-5.3"
+}

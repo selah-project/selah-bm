@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye balo-fitiŋɛ ye, ni-minɛn ye; 'nafsou' tɛ a fɔ cogo tiɲɛ na."
+    },
+    {
+      "kind": "addition",
+      "subject": "suw",
+      "rationale": "כמתי ye 'i n'a fɔ suw' ye — 'suw' bɛ fara a kan ka kuma a ɲɛfɛ."
+    }
+  ],
+  "translation": "Sabu bɛnbaga dogonna n ka ni, a gan n ka balo dugukolo la, a ye n sigi dibi kɔnɔ, i n'a fɔ suw minnu sa waati kɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/143\/1-4.1791941929083.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "dogonna"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "bɛnbaga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n ka ni"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "gan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "n ka balo"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "a ye n sigi"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "dibi kɔnɔ"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "i n'a fɔ suw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waati kɔrɔ la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:38:49.084157121Z",
+  "model": "glm-5.3"
+}

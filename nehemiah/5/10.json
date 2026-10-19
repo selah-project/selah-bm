@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 5:10",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "wari-jaw",
+      "rationale": "המשא: 'sarakaw-minɛ' (KJV usury) walima 'wari min bɛ jalaki u kan' (JPS exaction)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "denmisɛnw",
+      "rationale": "ונערי ye ne ka baaradɛnw (servants) ye fana, tɛ denw dɔrɔn ye"
+    }
+  ],
+  "translation": "Ni ne fana, an balimaw ni ne denmisɛnw bɛ bɔ u ye warigwɛ ni kɔn; k'an bɔ nin ye, n'aw fa: an ka ⟨את⟩ wari-jaw nin bɔ a la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cdfe77fa6482759403c9d36940b487a5e20f21a33153cce94b14dadac3e25e41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/5\/9-12.1791946964643.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ni … fana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "an balimaw"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "ni ne denmisɛnw"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "bɛ bɔ u ye"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "ni kɔn"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "k'an bɔ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "n'aw fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wari-jaw nin"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "wari-jaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin"
+    }
+  ],
+  "timestamp": "2026-10-14T03:02:44.644314904Z",
+  "model": "glm-5.3"
+}

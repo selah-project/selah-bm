@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olu ye",
+      "rationale": "Hebrew lacks an explicit subject-copula; the abstractions תם וישר are the implied agents of יצרוני"
+    },
+    {
+      "kind": "substitution",
+      "subject": "watili",
+      "rationale": "קוה is literally 'to twist\/bind together, cord'; rendered as 'wait\/hope for you', the expected sense"
+    }
+  ],
+  "translation": "Tiɲɛ ni tugetilenya, olu ye n'mara, sabu ne b'i ka watili.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d39c11fa390c92cffbb3e01a556c69c05dec81b3b2447a395fcd727d1d73ccf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/25\/21-22.1791939833828.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "tugetilenya"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "olu ye n'mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "ne b'i ka watili"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:53.829349309Z",
+  "model": "glm-5.3"
+}

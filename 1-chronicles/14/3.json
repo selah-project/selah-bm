@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עוד",
+      "rationale": "'again\/more' rendered as wɛrɛw (others) rather than an adverb of repetition"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוד…עוד",
+      "rationale": "repeated עוד links taking wives and begetting children; Bambara repeats wɛrɛw to keep the echo"
+    }
+  ],
+  "translation": "Dawid ye muso wɛrɛw ta Yerushalayim (Jerusalɛmu) na; Dawid ye denkɛ wɛrɛw ni denmuso wɛrɛw din.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7ed76f83aea95b085d90990f9b1f4d967d72263dd006e6f38338f5038a0cd95f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/14\/2-3.1791951560406.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ye … ta"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wɛrɛw"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "muso"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ye … din"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wɛrɛw"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ni denmuso"
+    }
+  ],
+  "timestamp": "2026-10-14T04:19:20.406837039Z",
+  "model": "glm-5.3"
+}

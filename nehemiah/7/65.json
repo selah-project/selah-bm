@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "nehemiah 7:65",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Hatarsata",
+      "rationale": "Hatarsata ye Persiya ka governor tɔgɔ ye; ASV fɔcogo 'governor' bɛ ta laada daɲɛ ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "Urim ni Thumim",
+      "rationale": "עד עמד הכהן: 'fo sarakalasebaga ka je ni Urim ni Thumim ye' — kɔrɔfonya bɛ yen: kɔnɔmɔgɔw weleli walima sarakalasebaga ka du-wale ni Urim-Thumim ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "daɲɛ min bɛ kuma jɛ, o bɛ weleli kɔkan"
+    }
+  ],
+  "translation": "Hatarsata (governor) ye u ma ko u kana ⟨את⟩ senumaw ka senumaya dun, fo sarakalasebaga ka je ni Urim ni Thumim ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d35f2d1a32ee9a7a5dacd9f9de2c5cbf0ee8a0c229f4b88ada223216b074f80a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/7\/65-68.1791947057453.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ye … ko"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "Hatarsata (governor)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dun"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "senumaw ka"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "senumaya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ka je"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "לאורים",
+      "gloss": "ni Urim"
+    },
+    {
+      "surface": "ותומים",
+      "gloss": "ni Thumim"
+    }
+  ],
+  "timestamp": "2026-10-14T03:04:17.454236229Z",
+  "model": "glm-5.3"
+}

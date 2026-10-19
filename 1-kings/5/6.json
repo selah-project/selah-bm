@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 5:6",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "so-nyɔgɔnyɔrɔ",
+      "rationale": "אֻרְוֺת occurs only here in the Tanakh in this form (2 Chr 9:25 uses a different word); sense 'stalls' is inferred."
+    },
+    {
+      "kind": "measurement",
+      "subject": "wolonfila kɛmɛ … kilinin ni fila kɛmɛ",
+      "rationale": "Census of Solomon's chariot horses and cavalry; the numbers are kept exact."
+    },
+    {
+      "kind": "crux",
+      "subject": "so-ɲɛminɛbagaw",
+      "rationale": "פָּרָשִׁים: chariot-team horses vs mounted horsemen; Bambara 'so-ɲɛminɛbagaw' takes the rider reading."
+    }
+  ],
+  "translation": "Shɛlomo ye ⟨את⟩ so-nyɔgɔnyɔrɔ wolonfila kɛmɛ sɔrɔ a ka marakɛnw kama, ani so-ɲɛminɛbagaw kilinin ni fila kɛmɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "67c0c506ec3d2e7b5a79e4f076fa23dd9addcc8bc601895f9869a7259e5e4225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/5\/5-8.1791931806059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shɛlomo ye"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "wolonfila"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "ארות",
+      "gloss": "so-nyɔgɔnyɔrɔ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "so"
+    },
+    {
+      "surface": "למרכבו",
+      "gloss": "a ka marakɛnw kama"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ani kilinin ni fila"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "so-ɲɛminɛbagaw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:50:06.062908578Z",
+  "model": "glm-5.3"
+}

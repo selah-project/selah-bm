@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "mun don o mɔgɔ jɔ",
+      "rationale": "rhetorical question drawing the hearer in: 'Who is this?'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כתימרות",
+      "rationale": "'columns of smoke' vs 'palm columns' (תמר = palm); rare word, rendered literally as smoke-pillars"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tumun",
+      "rationale": "מקטרת means smoking\/perfuming with incense; Bambara has no single word, 'ka tumun' covers smoke-fragrance"
+    }
+  ],
+  "translation": "Mun don o mɔgɔ jɔ min bɛ kɛnɛ na bɔ ka na, i n'a fɔ si-kuruw — a bɛ tumun ni mor (miri) ani ni lebona ye, ani jagokɛla pwɛdan bɛɛ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/3\/5-8.1791944597980.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "mun don"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "o"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bɛ ... bɔ ka na"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kɛnɛ"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "i n'a fɔ si-kuruw"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "si"
+    },
+    {
+      "surface": "מקטרת",
+      "gloss": "ka tumun"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mor"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "ani ni lebona ye"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "pwɛdan"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "jagokɛla"
+    }
+  ],
+  "timestamp": "2026-10-14T02:23:17.982150815Z",
+  "model": "glm-5.3"
+}

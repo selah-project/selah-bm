@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ב\/ni",
+      "rationale": "Hebrew beth-instrumental rendered with Bambara 'ni … ye' (with), the closest instrumental frame"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "chiasm",
+      "rationale": "YHWH—wisdom—founded—earth \/\/ established—heavens—understanding: mirrored halves, kept in order"
+    }
+  ],
+  "translation": "Yawe, ni hakili ye, ye dugukolo da; ni faamuyɛ ye, a ye sankolow jɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2c00e03554356e4ffe22ae69de5b7b63f08a53be63d49413389d9724bc38fe0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/3\/17-20.1791942182531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ni hakili ye"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "da"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "jɔ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ni faamuyɛ ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:43:02.532012457Z",
+  "model": "glm-5.3"
+}

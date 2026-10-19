@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 3:39",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רך",
+      "rationale": "Hebrew 'soft\/tender' rendered dɔgɔbaga (weak one); KJV 'weak', YLT 'tender'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula ye supplied; Hebrew juxtaposes 'and I — tender and anointed king'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישלם יהוה",
+      "rationale": "Jussive wish ('may Yawe repay') vs plain future ('Yawe will repay'); Bambara optative ka chosen."
+    }
+  ],
+  "translation": "Ni ne, don in na, ye dɔgɔbaga ye ani masakɛ folilen; mɔgɔ ninnu, Tsɛruya (Sɛruya) denkɛw, gɛlɛyaw ne ye; Yawe ka kafoli di mɔgɔ min bɛ jugu kɛ o ye, a jugu kɔrɔ cogo min na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "00d91dafc87941300e606976ca2ffeb947016096734c0aae0f36f55fe61f0d1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/3\/37-39.1791930848460.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ni ne"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don in na"
+    },
+    {
+      "surface": "רך",
+      "gloss": "dɔgɔbaga"
+    },
+    {
+      "surface": "ומשוח",
+      "gloss": "ani folilen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "ani mɔgɔ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ninnu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tsɛruya"
+    },
+    {
+      "surface": "קשים",
+      "gloss": "gɛlɛyaw"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kafoli di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעשה",
+      "gloss": "mɔgɔ min bɛ ... kɛ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "כרעתו",
+      "gloss": "a jugu kɔrɔ cogo min na"
+    }
+  ],
+  "timestamp": "2026-10-13T22:34:08.462361836Z",
+  "model": "glm-5.3"
+}

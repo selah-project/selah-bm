@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Nka",
+      "rationale": "וא (waw) bayɛlɛma 'Nka' ye — a bɛ jira ko kuma in bɛ seere Verse 2 kan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sankolow",
+      "rationale": "בשמים ye ɲɔgɔn-fila ye (dual); Bamanankan caman-cogo 'sankolow' mara len"
+    }
+  ],
+  "translation": "Nka an ka Elohim bɛ sankolow la: o bɛɛ min b'a fɛ, o kɛra.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/115\/1-4.1791941540187.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Nka an ka Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sankolow la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "b'a fɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o kɛra"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:20.188477334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 37:39",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dɔgɔ",
+      "rationale": "מעוז is a fortified place; rendered 'dɔgɔ' (shelter), the nearest Bambara fortress concept"
+    },
+    {
+      "kind": "idiom",
+      "subject": "dɛsɛ",
+      "rationale": "צרה literally 'tightness\/narrowness', rendered as 'dɛsɛ' (difficulty)"
+    }
+  ],
+  "translation": "Dendimissenw ka bulon bɛ bɔ Yawe fɛ, o ye u ka dɔgɔ ye dɛsɛ waati la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "10ffa8087773e2267d981a8ce2b7177710c8479a881122a141ddfcc64e99a39b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/37-40.1791940121892.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשועת",
+      "gloss": "bulon"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dendimissenw ka"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "bɔ Yawe fɛ"
+    },
+    {
+      "surface": "מעוזם",
+      "gloss": "u ka dɔgɔ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waati la"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dɛsɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:41.893364180Z",
+  "model": "glm-5.3"
+}

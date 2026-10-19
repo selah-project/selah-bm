@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "fana",
+      "rationale": "Bambara needs 'fana' (also) to carry the Hebrew ו- 'nor'; 'su la fana' smooths the parallel."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tile",
+      "rationale": "Hebrew pairs shemesh\/yareach, day\/night; Bambara 'tile' serves both 'sun' and 'day', so 'don na' was chosen for 'by day' to avoid collision."
+    }
+  ],
+  "translation": "Don na, tile tɛ i to; su la fana, kalo tɛ i to.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/121\/5-8.1791941754600.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "don na"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "i to"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "kalo fana"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "su la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:54.601524103Z",
+  "model": "glm-5.3"
+}

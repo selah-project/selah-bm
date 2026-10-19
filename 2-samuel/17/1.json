@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 17:1",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mɔgɔw fila ni tan kɛnɛ",
+      "rationale": "military count: twelve thousand men, given before the plan."
+    },
+    {
+      "kind": "you",
+      "subject": "to Awshalom",
+      "rationale": "Ahitofel addresses Awshalom directly with his counsel; נא softens the request."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Hebrew 'to' absorbed into the Bambara quotative frame y'a fɔ ... ye ko."
+    }
+  ],
+  "translation": "Ahitofel y'a fɔ Awshalom (Absalom) ye ko: i baasinɛ, ne bɛ mɔgɔw fila ni tan kɛnɛ sugandi, ka wuli ka tugu Dawid (Dawuda) kɔ su in na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/17\/1-4.1791931348310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "y'a fɔ ... ko"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahitofel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Awshalom (Absalom)"
+    },
+    {
+      "surface": "אבחרה",
+      "gloss": "ne bɛ sugandi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "i baasinɛ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "fila"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ni tan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kɛnɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "ואקומה",
+      "gloss": "ka wuli"
+    },
+    {
+      "surface": "וארדפה",
+      "gloss": "ka tugu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid (Dawuda)"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "su in na"
+    }
+  ],
+  "timestamp": "2026-10-13T22:42:28.313745305Z",
+  "model": "glm-5.3"
+}

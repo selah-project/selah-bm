@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקרת הבית",
+      "rationale": "Construct 'barren-one of the house': 'barren woman of the household' (JPS) vs 'to keep house' (KJV) vs 'barren one of the house' (YLT)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Pronoun added to clarify whose house — Hebrew construct leaves the possessor implicit."
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללו יה",
+      "rationale": "Imperative summons to praise addressed to the hearers, closing the psalm."
+    },
+    {
+      "kind": "you",
+      "subject": "הללו יה",
+      "rationale": "Direct plural address to the congregation."
+    }
+  ],
+  "translation": "Min bɛ muso min ma se ka den sɔrɔ sigi ⟨a⟩ so kɔnɔ, a kɛra denw ba dɛrɛden ye — aw ye Ya duba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4dea4c503804498d51d5212b4c24b1f12ad4023e8a039e1d30fba7656bec96a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/113\/9-9.1791941361582.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "min bɛ … sigi"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "muso min ma se ka den sɔrɔ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "denw"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "dɛrɛden"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "aw ye … duba"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:21.582831681Z",
+  "model": "glm-5.3"
+}

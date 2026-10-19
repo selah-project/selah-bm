@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔgɔjugu",
+      "rationale": "עמל 'toil, wearing effort' — rendered 'trouble\/hardship'; JPS 'wearisome'"
+    },
+    {
+      "kind": "crux",
+      "subject": "a tun ye kɔgɔjugu ye",
+      "rationale": "עמל היא בעיני: 'it was too painful' (KJV\/ASV) vs 'it is perversity' (YLT) — the toil of understanding vs the wrongness of the thought"
+    }
+  ],
+  "translation": "M'an miiri ka nin dɔn, a tun ye kɔgɔjugu ye n ka ɲɛ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/73\/13-16.1791940662125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "M'an miiri"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ka dɔn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kɔgɔjugu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n ka ɲɛ na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:42.126548697Z",
+  "model": "glm-5.3"
+}

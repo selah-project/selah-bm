@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 10:9",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dusukun",
+      "rationale": "לב heart: Bambara dusukun (liver-heart) is the feelings\/will seat, matching Hebrew heart-wide usage"
+    },
+    {
+      "kind": "addition",
+      "subject": "di a ma",
+      "rationale": "Hebrew says God 'turned to him another heart'; Bambara needs 'gave' construction"
+    },
+    {
+      "kind": "you",
+      "subject": "Saul",
+      "rationale": "Narrative about Saul, the signs addressed to him; no direct address to reader"
+    }
+  ],
+  "translation": "A ye kɛ cogo min na: ni a ye a kun jɔ ka bɔ Shemuɛl (Samuɛl) fɛ, Elohim ye dusukun wɛrɛ di a ma, ani taamasiyɛn bɛɛ ninuw kɛra o don kelen na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a004ae1c86ab7e71dd760a3915358d6eaee7b31d1e41006ebb8fd68290b4adc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/10\/9-12.1791930160786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "a ye kɛ cogo min na"
+    },
+    {
+      "surface": "כהפנתו",
+      "gloss": "ni a ye a kun jɔla"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "a kun"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuɛl (Samuɛl)"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ye ... yɛlɛma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wɛrɛ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "taamasiyɛnw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ninuw"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o don"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kelen na"
+    }
+  ],
+  "timestamp": "2026-10-13T22:22:40.787749899Z",
+  "model": "glm-5.3"
+}

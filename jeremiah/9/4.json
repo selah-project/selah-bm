@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 9:4",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעהו \/ רע",
+      "rationale": "Neighbor-word repeated from verse 3 (רעהו, רע) — the neighbor-slander chain continues across verses."
+    },
+    {
+      "kind": "substitution",
+      "subject": "u yɛlɛma",
+      "rationale": "נלאו 'they grow weary' rendered 'u yɛlɛma' (they are worn out) — weariness from committing wrong."
+    }
+  ],
+  "translation": "Mɔgɔ kelen-kelen bɛ i ka kɛnɛ yeɛrɛ; ani tiɲɛ u tɛ fɔ; u ye ⟨את⟩ u kan kalanni kɛ ka fitinɛ fɔ, ka jugu kɛ — u yɛlɛma sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5135c34095ebc6d5b4692f2f10a15aa294dc1553b64f2ce9acfa24415b3281c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/9\/1-4.1791935250936.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְאִ֤ישׁ",
+      "gloss": "mɔgɔ kelen-kelen"
+    },
+    {
+      "surface": "בְּרֵעֵ֨הוּ֙",
+      "gloss": "i ka kɛnɛ la"
+    },
+    {
+      "surface": "יְהָתֵ֔לּוּ",
+      "gloss": "yeɛrɛ"
+    },
+    {
+      "surface": "וֶאֱמֶ֖ת",
+      "gloss": "ani tiɲɛ"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יְדַבֵּ֑רוּ",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "לִמְּד֧וּ",
+      "gloss": "u ye … kalanni"
+    },
+    {
+      "surface": "לְשׁוֹנָ֛ם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "דַּבֶּר",
+      "gloss": "ka … fɔ"
+    },
+    {
+      "surface": "שֶּׁ֖קֶר",
+      "gloss": "fitinɛ"
+    },
+    {
+      "surface": "הֶעֱוֵ֥ה",
+      "gloss": "ka jugu kɛ"
+    },
+    {
+      "surface": "נִלְאֽוּ",
+      "gloss": "u yɛlɛma"
+    }
+  ],
+  "timestamp": "2026-10-13T23:47:30.938857755Z",
+  "model": "glm-5.3"
+}

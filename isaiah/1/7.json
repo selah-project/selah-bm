@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ye⟩",
+      "rationale": "Heburukan ma kɔlɔsili-daɲɛ sɔrɔ; Bamanankan ka wajibiya a la banalɛ-fɔli kɔnɔ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרים … זרים",
+      "rationale": "dunanw-fɔli fila — a bɛ tɛmɛ sira kelen na, a bɛ kuma bila don; Bamanankan b'a mara dɔrɔn 'dunanw' fɔli fila fɛ"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמהפכת זרים",
+      "rationale": "'bilali min kɛra dunanw fɛ' (KJV\/ASV) walima 'ji-bilali la' (JPS 'overthrown by floods' — mahpekhat i n'a fɔ Nooma ka ji-bilali)"
+    }
+  ],
+  "translation": "Aw ka dugukolo ⟨ye⟩ banalɛ ye, aw ka duguw tununen don ni tasuma ye; aw ka foro, dunanw bɛ ⟨את⟩ a dun aw ɲɛw fɛ, ani ⟨a⟩ bɛna kɛ banalɛ ye, i n'a fɔ bilali min kɛra dunanw fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7a9b6cf8adc85bcdeae4a031c62d97e6fcfd5906f924ebf9535e357f4851c011",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/1\/6-7.1791950701468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "aw ka dugukolo"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "banalɛ"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "aw ka duguw"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "tununen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "aw ka foro"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "aw ɲɛw fɛ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "dunanw"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "bɛ dun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "a (dugukolo)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ani banalɛ"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "i n'a fɔ bilali"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "dunanw"
+    }
+  ],
+  "timestamp": "2026-10-14T04:05:01.468840350Z",
+  "model": "glm-5.3"
+}

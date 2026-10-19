@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "The king of Israel addresses his servants directly with a question."
+    },
+    {
+      "kind": "alternative",
+      "subject": "bɛ da tigi",
+      "rationale": "מחשים literally 'we are hushing\/keeping silent'; 'we keep quiet' rather than 'we are negligent'."
+    }
+  ],
+  "translation": "Isirayil masakɛ y'a ka donnmogow ko: aw ye dɔn wa, Ramot Gilad (Ramoti Gileadi) ye an ta ye, nka anw bɛ da tigi, an ma bɔ ⟨את⟩ a ta Aram masakɛ bolo?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/22\/1-4.1791932553532.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "y'a … ko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a ka donnmogow"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "aw ye dɔn wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wa\/ko"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an ta"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "anw"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "bɛ da tigi"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "bɔ…ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Ramot Gilad (a)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-13T23:02:33.538624491Z",
+  "model": "glm-5.3"
+}

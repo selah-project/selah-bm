@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "והשביסים",
+      "rationale": "שביס hair-net appears only here in the Tanakh."
+    },
+    {
+      "kind": "hapax",
+      "subject": "והשהרנים",
+      "rationale": "שהרון round pendant\/crescent appears only here in the Tanakh."
+    },
+    {
+      "kind": "addition",
+      "subject": "ni",
+      "rationale": "Bambara coordination added before each item in the list; Hebrew uses prefixed ו only."
+    }
+  ],
+  "translation": "O don in na, Adonay bɛna ⟨את⟩ sensenw ka ɲɛtan bɔ, ni kun-minɛnw, ni kalo-daɲɛw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "08761c1d77bb90d66ae3ee5e89da76a7cc74d48af1e64381aed32daadb8e865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/3\/17-20.1791933433639.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "O don in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "in"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "bɛna ... bɔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sensenw ka ɲɛtan"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ɲɛtan"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "sensenw"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "kun-minɛnw"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "kalo-daɲɛw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:17:13.646089622Z",
+  "model": "glm-5.3"
+}

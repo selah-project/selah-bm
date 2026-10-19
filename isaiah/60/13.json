@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 60:13",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "berosh \/ tidahar \/ tsur",
+      "rationale": "Tree species uncertain: cypress, fir, plane, box — renderings vary widely (KJV 'fir\/pine\/box' vs JPS 'cypress\/plane\/larch')."
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew uses suffix רגלי 'my feet'; third-person self-reference of Yawe rendered with bracketed pronoun."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבוד \/ אכבד",
+      "rationale": "The verse opens with 'glory' (kabod) and closes with the verb 'to make glorious' (akhabed) — an inclusion lost in Bambara."
+    },
+    {
+      "kind": "you",
+      "subject": "to Zion",
+      "rationale": "The verse addresses Zion in the feminine singular."
+    }
+  ],
+  "translation": "Lewanon ka lamɛn bɛna na i ma: berosh-jiri, tidahar-jiri ani tsur-jiri bɛɛ lamɛn, walasa u ka Yawe ka sansan-yɔrɔ ɲɛfɔ; anka Yawe bɛna a senw yɔrɔ lamɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e27ae2e4541e16ee2ebfdbc67bd9b52d3a592179879c5d5f895798f87b184420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/60\/13-16.1791934718162.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "lamɛn"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lewanon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i ma"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bɛna na"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "berosh-jiri"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "tidahar-jiri"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "ani tsur-jiri"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bɛɛ lamɛn"
+    },
+    {
+      "surface": "לפאר",
+      "gloss": "walasa u ka … ɲɛfɔ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yɔrɔ"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "Yawe ka sansan-yɔrɔ"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "a senw yɔrɔ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "senw"
+    },
+    {
+      "surface": "אכבד",
+      "gloss": "bɛna … lamɛn"
+    }
+  ],
+  "timestamp": "2026-10-13T23:38:38.163658037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "2-samuel 22:49",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וּמוֹצִיאִי",
+      "rationale": "participle construction 'and my bringer-out' rendered as relative clause with supplied subject markers"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jaɲɛ",
+      "rationale": "חמסים 'violences' rendered with singular 'jaɲɛ' (injustice\/violence); Hebrew plural of intensity"
+    },
+    {
+      "kind": "alternative",
+      "subject": "i bɛ ne lamini",
+      "rationale": "תַּצִּילֵנִי is imperfect 'you deliver me', not future; rendered with habitual bɛ"
+    }
+  ],
+  "translation": "Min bɛ bɔ a yɛrɛ ma ko ne bɔ a yɛrɛ la n'ka tɔrɔtɔrɔbagaw fɛ, ani min bɛ ne jɔ ka tɛmɛ minnu bɛ ne kan wuliwuli la; mɔgɔ min ye jaɲɛ kɛ, ne tigɛli la i bɛ ne lamini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1f1f0d025142afc18f46cc442f0ea9d9d59166607e228b872b054268e9a299d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/22\/49-51.1791931532688.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומוציאי",
+      "gloss": "min bɛ ne bɔ"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "n'ka tɔrɔtɔrɔbagaw fɛ"
+    },
+    {
+      "surface": "ומקמי",
+      "gloss": "ani minnu bɛ ne kan wuliwuli"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "i bɛ ne jɔ ka tɛmɛ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mɔgɔ min"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ye jaɲɛ kɛ"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "i bɛ ne lamini"
+    }
+  ],
+  "timestamp": "2026-10-13T22:45:32.690139520Z",
+  "model": "glm-5.3"
+}

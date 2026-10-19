@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka tugu … cogo la",
+      "rationale": "ללכת בחקות is 'to walk in the statutes', Hebrew idiom of conduct; rendered 'follow the way of'."
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "emphatic pronoun absorbed into word order; Bambara subject marking carries it."
+    }
+  ],
+  "translation": "Shelomo ye ⟨את⟩ Yawe kanuya, ka tugu a fa Dawid ka sariyaw cogo la, dɔrɔn sanfɛduguw kan a bɛ saraka bɔ ani noson bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "13bc83cd5ee81310752fa8490abb43c74b033ccb7bf71fcc2aa250165d31d2fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/3\/1-4.1791931759069.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ye kanuya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ka tugu … cogo la"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "sariyaw la"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "dɔrɔn"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sanfɛduguw kan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bɛ saraka bɔ"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "ani noson bɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:49:19.072460784Z",
+  "model": "glm-5.3"
+}

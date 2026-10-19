@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bɛnbaga",
+      "rationale": "שטן kɔrɔ ye 'dantigɛbag' \/ bɛnbaga ye — a tɛ Tɔgɔ Siye ye; artikel tɛ kɔnɔ."
+    },
+    {
+      "kind": "addition",
+      "subject": "min",
+      "rationale": "Copula ni mara-daɲɛ min Bamanankan de wajibiya, Hebrew ma ɔ fɔ."
+    }
+  ],
+  "translation": "Yawe ye bɛnbaga jɔ Sholomo (Sulɛmanu) kama: ⟨את⟩ Hadad Edomkɛ (Idumekɛ) min, a bɔra masakɛ kisɛ la, Edom (Idume) kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/11\/13-16.1791932083165.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ye … jɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "bɛnbaga"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Sholomo kama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad Edomkɛ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomkɛ"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "a bɔra … kisɛ la"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a ye … ye"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edom kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:54:43.170093103Z",
+  "model": "glm-5.3"
+}

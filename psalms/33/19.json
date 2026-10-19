@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ni-baloli ye (jujɔ, kunbolo, balo-tɛgɛ), a tɛ 'soul' ye min bɔ Tubabukan la."
+    },
+    {
+      "kind": "elision",
+      "subject": "Walasa",
+      "rationale": "לְ prefix dɔrɔn de ye; Bamanankan bɛ 'walasa' fara a kan kuma tilennen na."
+    }
+  ],
+  "translation": "Walasa ka u ka ni yɔrɔ bɔ sayala la, ani ka u balo kominɛ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/33\/17-20.1791940001914.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "bɔ (walasa ka … bɔ)"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "sayala la"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "u ka ni"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "ka u balo"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "kominɛ na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:41.915051016Z",
+  "model": "glm-5.3"
+}

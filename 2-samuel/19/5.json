@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאט",
+      "rationale": "'to muffle' — the king muffled his own face; rendered as 'a ɲɛ datugu' with the object folded in"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני...בני...בני",
+      "rationale": "'my son' three times and 'Absalom' twice — a lament's rocking repetition, kept in full"
+    }
+  ],
+  "translation": "Masakɛ ye ⟨את⟩ a ɲɛ datugu, masakɛ ye kan kɔrɔbolɔn da: denkɛ n, Awshalom (Absalom)! Awshalom, denkɛ n, denkɛ n!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2833f676bee4b3aabb94c57ca4ca3288575400bc6b5d040637883b9028a34be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/19\/5-8.1791931495122.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "a ɲɛ datugu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ɲɛ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "a ɲɛ"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "ye kan kɔrɔbolɔn da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kɔrɔbolɔn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛ n"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛ n"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛ n"
+    }
+  ],
+  "timestamp": "2026-10-13T22:44:55.124114697Z",
+  "model": "glm-5.3"
+}

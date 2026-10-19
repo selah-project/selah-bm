@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 8:17",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אהביה\/אהב",
+      "rationale": "root אהב repeated in both clauses — lover and loved — the echo is flattened in Bambara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sɔgɔma-nyininkaw",
+      "rationale": "משחרי literally 'my dawn-seekers' (שחר = dawn); the dawn picture is kept but compressed into one word"
+    },
+    {
+      "kind": "invitation",
+      "subject": "u bɛ ne nyini sɔrɔ",
+      "rationale": "Wisdom summons hearers with a promise of finding her"
+    }
+  ],
+  "translation": "Ne de, ne bɛ mɛn bɛ ne kanuya kanuya; ne ka sɔgɔma-nyininkaw bɛ ne nyini sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/8\/17-20.1791942297334.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ne de"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "mɛn bɛ ne kanuya"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ne bɛ … kanuya"
+    },
+    {
+      "surface": "ומשחרי",
+      "gloss": "ne ka sɔgɔma-nyininkaw"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "u bɛ ne nyini sɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:44:57.335279225Z",
+  "model": "glm-5.3"
+}

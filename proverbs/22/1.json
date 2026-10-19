@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ɲuman⟩",
+      "rationale": "Hebrew says just 'a name'; 'good' is supplied as in most versions"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲɛ-ɲuma",
+      "rationale": "חן is grace\/favor\/beauty; rendered as 'good face' — the closest Bamanankan picture"
+    }
+  ],
+  "translation": "Tɔgɔ ⟨ɲuman⟩ ka lasɔn ka fisa ka bɔ araja caman na; ɲɛ-ɲuma ka ɲi ka bɔ warigwɛ ani ⟨ka bɔ⟩ sanu ⟨na⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/22\/1-4.1791942761899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "ka lasɔn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "araja"
+    },
+    {
+      "surface": "רב",
+      "gloss": "caman"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "ani sanu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ɲɛ-ɲuma"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ka ɲi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:52:41.900528219Z",
+  "model": "glm-5.3"
+}

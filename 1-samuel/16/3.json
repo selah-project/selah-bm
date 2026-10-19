@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משחת",
+      "rationale": "'anoint' rendered as 'tulu bilali' (pouring of oil) — the literal act, no separate Bambara verb exists"
+    },
+    {
+      "kind": "you",
+      "subject": "to Samuel",
+      "rationale": "Yawe gives Samuel direct commands"
+    }
+  ],
+  "translation": "I ka Yisi wele ka na saraka la, an b'ale fɔ i ye i bɛna min kɛ; i ka tulu bilali kɛ ⟨anw ye⟩, min bɛ ⟨a yɛrɛ⟩ ne fɔ i ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6cff96d454d016e01c77892dd5e25096fa8ea6673eb0cbbf5617ef551412177e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/16\/1-4.1791930350070.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "i ka wele"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yisi"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "saraka la"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "anw"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "b'ale fɔ i ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i bɛna min kɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "i bɛna kɛ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "i ka tulu bilali kɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anw ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne fɔ i ye min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i ye"
+    }
+  ],
+  "timestamp": "2026-10-13T22:25:50.072268572Z",
+  "model": "glm-5.3"
+}

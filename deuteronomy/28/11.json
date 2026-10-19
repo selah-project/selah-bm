@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 28:11",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kunuko denw",
+      "rationale": "בטנך is literally 'your womb\/belly'; rendered as 'the children of your womb'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "object pronoun supplied for 'give' where Bambara requires it."
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "continued direct address to Israel."
+    }
+  ],
+  "translation": "Yawe bɛna i falen kaɲi la: i kunu denw la, i misiw la, ani i dugukolo denw na — dugukolo min kan Yawe ye i faaw ma layidu kɛ ka ⟨a⟩ di i ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5095ba7f814684cb08d5351a4e3a7a1773ebd2d40f7506fc17de9c6a76131912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/28\/10-11.1791950117247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והותרך",
+      "gloss": "bɛna i falen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "kaɲi la"
+    },
+    {
+      "surface": "בפרי",
+      "gloss": "denw la"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "i kunu"
+    },
+    {
+      "surface": "ובפרי",
+      "gloss": "denw la"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "i misiw"
+    },
+    {
+      "surface": "ובפרי",
+      "gloss": "denw na"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "i dugukolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "layidu kɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "faaw ma"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ka di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ma"
+    }
+  ],
+  "timestamp": "2026-10-14T03:55:17.248323455Z",
+  "model": "glm-5.3"
+}

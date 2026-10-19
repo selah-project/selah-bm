@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ruth 3:7",
+  "book": "ruth",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בלט",
+      "rationale": "adverb 'secretly' rendered with phrase 'ko jisiri'; no single Bambara adverb"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩",
+      "gloss": "Hebrew ותבא has no explicit subject; context requires it"
+    },
+    {
+      "kind": "crux",
+      "subject": "וייטב לבו",
+      "rationale": "'his heart was merry' — literal 'his heart became good', kept literal here"
+    }
+  ],
+  "translation": "Bowazi dunna, minna, a dusukun dielenra; a taara ka sigi gɛ-kuru ro kɔrɔ la. ⟨A⟩ naa ko jisiri, a ye ⟨את⟩ a senw gala, ka sigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c5309de76b8f4c5c3b2bdf802e411d5aef99cbe3c5e01ce2543121485100f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ruth\/3\/5-8.1791944744051.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "dunna"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Bowazi"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "minna"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "dielenra"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "a dusukun"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a taara"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ka sigi"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ro kɔrɔ la"
+    },
+    {
+      "surface": "הערמה",
+      "gloss": "gɛ-kuru"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "⟨A⟩ naa"
+    },
+    {
+      "surface": "בלט",
+      "gloss": "ko jisiri"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "a ye gala"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "a senw"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "ka sigi"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:44.053406015Z",
+  "model": "glm-5.3"
+}

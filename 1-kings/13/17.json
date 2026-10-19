@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 13:17",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Bamanankan yɛlɛma-kan b'a dɔnni kɔ, Heburukan ma a fɔ"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי דבר",
+      "rationale": "Hebrew 'a word was to me' flattened to 'kuma dɔ kɛra ne ye'"
+    }
+  ],
+  "translation": "Sabu kuma dɔ kɛra ne ye Yawe ka kuma fɛ: i tɛna buru dun, i tɛna ji min yen, i tɛna segin ka taa sira min na i tun taa ra.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "db82c1816ef2ec591a38ccc960d4ddc51df2bac377b3474aa1e4821103110ef8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/13\/17-20.1791932094089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma dɔ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "Yawe ka kuma fɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dun"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani i tɛna"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "min"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "i tun taa ra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "o (sira) na"
+    }
+  ],
+  "timestamp": "2026-10-13T22:54:54.091306382Z",
+  "model": "glm-5.3"
+}

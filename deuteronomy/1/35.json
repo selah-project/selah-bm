@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם יראה",
+      "rationale": "oath formula 'if [any] man sees... then (may this happen)'; versions supply 'surely not one of... shall see' — the conditional frame is kept literal with 'Ni' and a dash"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הדור",
+      "rationale": "'generation' rendered 'o waati mɔgɔw' (the people of that time) to avoid a coined word"
+    }
+  ],
+  "translation": "Ni mɔgɔ dɔ b'o mɔgɔw la, o waati mɔgɔ finmanw ninnu, ye ⟨את⟩ dugukolo nyinin ye, min de ma laadu kɛ ka di aw bayaw ma —",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/1\/33-36.1791927482744.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ye ... ye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ dɔ"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "o mɔgɔw la"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ninnu"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "o waati mɔgɔw"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "finmanw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo nyinin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "nyinin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "n ma laadu kɛ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ka di"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "aw bayaw ma"
+    }
+  ],
+  "timestamp": "2026-10-13T21:38:02.747110762Z",
+  "model": "glm-5.3"
+}

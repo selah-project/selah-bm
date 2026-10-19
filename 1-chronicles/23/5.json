@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 23:5",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשיתי",
+      "rationale": "First person 'I made' with no speaker named in the Hebrew; versions supply 'said David'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Dawida y'a fɔ⟩",
+      "rationale": "Speaker attribution added because Hebrew shifts to first person without marking it."
+    },
+    {
+      "kind": "measurement",
+      "subject": "naani kunwala",
+      "rationale": "Levite census counts: two groups of four thousand."
+    }
+  ],
+  "translation": "ni naani kunwala dadatugubagaw, ani naani kunwala lokololabagaw Yawe la, ni minɛw min n ye dilan walasa ⟨n⟩ lokoloki, ⟨Dawida y'a fɔ⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "46c003404f311bbda53646321ee5081a50720b0a20bda5dc0e0688be7b894c1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/23\/5-8.1791948250779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "ni naani"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kunwala"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dadatugubagaw"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "ani naani"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kunwala"
+    },
+    {
+      "surface": "מהללים",
+      "gloss": "lokololabagaw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe la"
+    },
+    {
+      "surface": "בכלים",
+      "gloss": "ni minɛw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "n ye dilan"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "walasa lokoloki"
+    }
+  ],
+  "timestamp": "2026-10-14T03:24:10.780258762Z",
+  "model": "glm-5.3"
+}

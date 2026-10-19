@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתוך",
+      "rationale": "hapax-like form: KJV 'deceit', ASV\/JPS 'oppression'; from תוך 'oppression' or 'from the midst of'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fili",
+      "rationale": "גאל is kinsman-redeemer, kinship obligation; fili (ransom) loses the kin-law picture"
+    }
+  ],
+  "translation": "A bɛna u ni fili ka bɔ dannaya ani ja la, wa u ka joli bɛna nafa ti a ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/72\/13-16.1791940681791.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "dannaya"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "ani ja"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "bɛna fili"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "u ka ni"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "bɛna nafa ti"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "u ka joli"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a ɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:18:01.792272328Z",
+  "model": "glm-5.3"
+}

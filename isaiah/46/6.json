@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 46:6",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kanko",
+      "rationale": "בקנה is a reed, here the beam of the balance; reed-picture kept"
+    },
+    {
+      "kind": "addition",
+      "subject": "a la",
+      "rationale": "object of worship supplied; Hebrew verb שחה carries it alone"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הזלים…ישקלו…ישכרו",
+      "rationale": "chain of sound-alike verbs (z-l, sh-q-l, s-k-r) describing idol-making, flattened in Bambara"
+    }
+  ],
+  "translation": "Mɔgɔw minnu bɛ sanu ɲagami bɔ kisɛ la, ka warigwɛ jate kanko kan, u bɛ sanudilantigi sɔngɔ, ka o dilan ka kɛ El ye; u bɛ finen, a bɛɛ u bɛ jasabi ⟨a la⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f63118e8af6f796429a26da125c4abd1e3690d88d43cc14b87e4d806dbf18030",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/46\/5-8.1791934457526.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזלים",
+      "gloss": "minnu bɛ sanu ɲagami bɔ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "מכיס",
+      "gloss": "kisɛ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ani warigwɛ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "kanko kan"
+    },
+    {
+      "surface": "ישקלו",
+      "gloss": "u bɛ jate"
+    },
+    {
+      "surface": "ישכרו",
+      "gloss": "u bɛ sɔngɔ"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "sanudilantigi"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "ka o dilan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יסגדו",
+      "gloss": "u bɛ finen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "a bɛɛ"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "u bɛ jasabi a la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:34:17.527607693Z",
+  "model": "glm-5.3"
+}

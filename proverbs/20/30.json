@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תמריק",
+      "rationale": "Unpointed in MT: read as verb 'scours away evil' (KJV) vs noun 'bandages\/stripes' (YLT 'thou removest')"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תמריק",
+      "rationale": "This form of the verb מרק appears only here in the Tanakh"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חדרי בטן",
+      "rationale": "'rooms of the belly' = the innermost being, rendered 'kun ka bɔnkɔnw' (inner rooms of the belly)"
+    }
+  ],
+  "translation": "Dɔgɔ ka bolokiliw bɛ jiɲɛsi juguya; ani takuw bɛ se kun ka bɔnkɔnw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6f470061edb896d65a39e812fe8b9cc41b6faa1019529df174eadd0c44ea442f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/20\/29-30.1791942660823.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "bolokiliw"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "dɔgɔ"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "bɛ jiɲɛsi"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "ani takuw"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "bɔnkɔnw"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-10-14T01:51:00.824637298Z",
+  "model": "glm-5.3"
+}

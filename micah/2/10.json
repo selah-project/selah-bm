@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "aw yɛlɛn, aw ka taa",
+      "rationale": "Imperative summons — arise and depart — addressed to the hearers."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bamanankan needs the copula ye for 'this is not the rest', which Hebrew omits."
+    },
+    {
+      "kind": "crux",
+      "subject": "wiliyali bonyalen",
+      "rationale": "וחבל נמרץ: 'a rope\/bond that is pressed' — versions split between 'grievous destruction' and 'a pitiless rope\/measuring line'."
+    }
+  ],
+  "translation": "Aw yɛlɛn, aw ka taa, bawo nin tɛ son-yɔrɔ ye; lackaya kosɔn, o bɛwili — wiliyali bonyalen de.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "76e3e6a7c1a772534e723fff7f3d2008a275492a767aadef8244b7d850ffad57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/2\/9-12.1791938683469.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "aw yɛlɛn"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "aw ka taa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "son-yɔrɔ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kosɔn"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "lackaya"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "o bɛwili"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "wiliyali"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "bonyalen"
+    }
+  ],
+  "timestamp": "2026-10-14T00:44:43.469997092Z",
+  "model": "glm-5.3"
+}

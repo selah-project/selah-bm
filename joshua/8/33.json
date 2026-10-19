@@ -1,0 +1,192 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 8:33",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "חציו",
+      "rationale": "jama cogoya filanan tila kulu fila ɲɛfɛ — half of the assembly measured against each mountain."
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Hebrew participle עמדים has no pronoun; Bambara needs u."
+    },
+    {
+      "kind": "crux",
+      "subject": "בראשנה",
+      "rationale": "'at the first' — could modify the command (as Moses commanded at first) or the blessing (blessed first); KJV\/ASV split."
+    }
+  ],
+  "translation": "Israɛl bɛɛ, ani u mɔgɔkɔrɔw, ni kunnafonidilaw, ni sariyakaraw, u bilasen bɛ nin fɛ ni nin fɛ sanda la, sarakalasebaga Lewiw (Levitɛw) minnu bɛ Yawe ka layidu sanda ta, o ɲɛfɛ — dɔgɔtɔrɔla la ni jɔdennin la cogo kelen na — u fanba ni Gerizim kulu ɲɛfɛ, ni u fanba ni Ebal kulu ɲɛfɛ, i n'a fɔ Moshe (Musa), Yawe ka baarakɛla, y'a lazɛ fɔlɔ, walasa ka ⟨Israɛl⟩ ⟨את⟩ jama duba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "72a236c80121ed401e1c6c1f34c527f1060d41422e1d25e3400a6ee62b8ec6d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/8\/33-35.1791928673608.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israɛl"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "ani u mɔgɔkɔrɔw"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "ni kunnafonidilaw"
+    },
+    {
+      "surface": "ושפטיו",
+      "gloss": "ni sariyakaraw"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "u bilasen"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nin fɛ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ni nin fɛ"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sanda la"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiw"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "minnu bɛ … ta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "dɔgɔtɔrɔla la cogo min na"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "jɔdennin la cogo min na"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "u fanba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "והחציו",
+      "gloss": "ni u fanba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebal"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "y'a lazɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "baarakɛla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "walasa ka … duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israɛl jama"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israɛl"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "fɔlɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:57:53.609735954Z",
+  "model": "glm-5.3"
+}

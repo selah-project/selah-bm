@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "n",
+      "rationale": "First-person pronoun supplied by verb inflection context."
+    }
+  ],
+  "translation": "Sabu n ye sukun kɛ, n ka kolow bɛ wɔgɔrɔya n'ka ɲagamili la, tile bɛɛ don kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "597c22f8483057877c4c741b33466b7b61002057e18ba7a0843808bc5ed6349b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/32\/1-4.1791940043838.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "n ye sukun kɛ"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "bɛ wɔgɔrɔya"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "n ka kolow"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "n'ka ɲagamili la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tile bɛɛ don kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:07:23.839442642Z",
+  "model": "glm-5.3"
+}

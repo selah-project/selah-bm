@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפשו ni 'ni' (dɛgɛni\/未见 force) ye ni — u bɛ fɔ a ye 'a ni' i n'a fɔ dusukun-ɲɛnamaya, tɛ 'soul' min bɔ Tubabukan na"
+    },
+    {
+      "kind": "elision",
+      "subject": "לשבע",
+      "rationale": "l- prefixed lemma; lamed- prefix ma bayɛlɛme, a gloss 'ka man ka kɔɔrɔ' de bɛ a mara"
+    },
+    {
+      "kind": "addition",
+      "subject": "a la",
+      "rationale": "נפשו-context bɔli bila cogo min na — pronoun farala a kan walasa jɔgɔn ka tiɲɛ Bambara kɔnɔ"
+    }
+  ],
+  "translation": "Mɔgɔ nyuman bɛ dun ka a ni man ka kɔɔrɔ, nka mɔgɔ juguw ka jɔgɔn bɛ bɔ ⟨a la⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ccca0a766737d01783c5100890cb8b191844fa6b052813071620d84488539b42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/13\/25-25.1791942355209.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "mɔgɔ nyuman"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "bɛ dun"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ka man ka kɔɔrɔ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "nka … jɔgɔn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mɔgɔ juguw ka"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "bɛ bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:45:55.210033787Z",
+  "model": "glm-5.3"
+}

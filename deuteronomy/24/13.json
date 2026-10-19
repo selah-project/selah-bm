@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השב תשיב",
+      "rationale": "Infinitive-absolute doubling of שׁוּב, 'returning you-shall-return'; Bamanankan renders the emphasis with 'i ka kan ka segin'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עבוט",
+      "rationale": "The pledge-garment word עבוט appears only in Deut 24:10–13; rendered 'dɔnni-fɛn', a compounded picture-coinage."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person singular instruction within the covenant code."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כבא השמש",
+      "rationale": "'The sun comes in' = sunset; rendered 'tile ka don' keeping the literal image."
+    }
+  ],
+  "translation": "Tile ka don cogo na, i ka kan ka segin a ma ⟨את⟩ dɔnni-fɛn; a na dangɔ a ka ɲɔgɔn na, a na i duba; i na kɛ tiɲɛ ye Yawe i Ala (Elohim) ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6aaea6d8910b8e00cf423ccccbde75dab512cc0914e1836a2a4df4845ad17941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/24\/13-16.1791928171498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "ka kan ka segin"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dɔnni-fɛn"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "dɔnni-fɛn"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ka don"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "dangɔ"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "a ka ɲɔgɔn na"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "a na i duba"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "na kɛ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i Ala (Elohim)"
+    }
+  ],
+  "timestamp": "2026-10-13T21:49:31.500508538Z",
+  "model": "glm-5.3"
+}

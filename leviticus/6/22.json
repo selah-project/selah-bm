@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קֹדֶשׁ קָדָשִׁים",
+      "rationale": "Hebrew superlative repetition 'holy of holies'; Bambara doubles 'senumaya senuman' to keep the structure"
+    },
+    {
+      "kind": "addition",
+      "subject": "dumuni in",
+      "rationale": "Hebrew object suffix on אתה points back to the offering; Bambara needs a noun expressed"
+    }
+  ],
+  "translation": "Sarakalasebagaw la, cɛ kelen-kelen bɛ se ka dun ⟨את⟩ dumuni in; o ye senumaya senuman ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "791b5af4d2f12504b2eb949be4f1d56b7b9ba2f27ddfe0bc5ce4fde48dd86f54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/6\/21-23.1791926977813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "cɛ kelen-kelen"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "sarakalasebagaw la"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bɛ se ka dun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dumuni in (saraka in)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senumaya"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "senuman"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:29:37.815563633Z",
+  "model": "glm-5.3"
+}

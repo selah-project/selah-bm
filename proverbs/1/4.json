@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mɔgɔ ɲɛmajɔrɔw",
+      "rationale": "פתאי is 'the open-minded, seducible ones', not merely naive; Bambara needs a phrase"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערמה",
+      "rationale": "same root as the crocodile-subtle in Gen 3:1 — prudence here in a good sense, trickery elsewhere; hakili-ɲɛnabɔli keeps the cunning picture"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Walasa ka … di",
+      "rationale": "the giving-clauses address the simple and the young as recipients, drawing the reader in"
+    }
+  ],
+  "translation": "Walasa ka hakili-ɲɛnabɔli di mɔgɔ ɲɛmajɔrɔw ma, ka dɔnniya ni ɲaɲɛmiiri di kɔrɔfitini ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2cca88d6c846f7141918ca5763a5e9df5eccf4f1fb0f0a227eb2c343c45abd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/1\/1-4.1791942090019.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "ka … di"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "mɔgɔ ɲɛmajɔrɔw ma"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "hakili-ɲɛnabɔli"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "kɔrɔfitini ma"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "dɔnniya"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "ni ɲaɲɛmiiri"
+    }
+  ],
+  "timestamp": "2026-10-14T01:41:30.021009373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɛrɛfɛn min bɔra",
+      "rationale": "אבד ye 'min bɔli \/ minw bɔli' ye — kumasen kɔrɔ 'perishing vessel', tubabu-bayɛlɛmaliw bɛ 'broken vessel' fɔ"
+    },
+    {
+      "kind": "addition",
+      "subject": "banna",
+      "rationale": "Heburukan ma 'out of mind' daɲɛ sɔrɔ Bamanankan la; o farala a kan"
+    }
+  ],
+  "translation": "Ne ma hakili to i n'a fɔ mɔgɔ min sa la, o bɛ dusukun na banna; n'kɛra kɛrɛfɛn min bɔra.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "69a7a776067940c6d8c11359738eef81aac1f5e14588a2392c6139c92624bb75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/31\/13-16.1791939952611.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "ne ma hakili to"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "i n'a fɔ mɔgɔ min sa la"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "dusukun na"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "n'kɛra"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "kɛrɛfɛn i n'a fɔ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "min bɔra"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:52.611452523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gɛlɛya",
+      "rationale": "צרה kɔrɔ tiɲɛna ye 'kɛnɛ dɔgɔya' ye (dɔgɔyali), a bɛ fɔ gɛlɛya la Bamanankan na"
+    },
+    {
+      "kind": "addition",
+      "subject": "nin gɛlɛya in na",
+      "rationale": "Bamanankan mago bɛ a la kɔrɔfɔli kɛ ka a jira bɔyɔrɔ ye, Heburukan t'o la"
+    },
+    {
+      "kind": "invitation",
+      "subject": "i k'a wele ne na",
+      "rationale": "Yawe ka weleli sinsin ko a wele a la gɛlɛya donw la; tapuli ka tugu 50:14 weleli la"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Yawe bɛ kuma kɔrɔdɔgɔ weleli ɲɛ 'i' ye"
+    }
+  ],
+  "translation": "I k'a wele ne na don min na gɛlɛya bɛ; ne bɛna i bɔ ⟨nin gɛlɛya in na⟩, i tuguni na ne nimuya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "47085baddbbdd9aae39ca7497ecc06c6f970865960c73f8b68d1f405cb5eaad9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/50\/14-15.1791951227383.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "i k'a wele ne na"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don min na"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "gɛlɛya"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ne bɛna i bɔ"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "i na ne nimuya"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:47.383531791Z",
+  "model": "glm-5.3"
+}

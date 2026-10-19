@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Hebrew verb תכניע is second person with no pronoun; Bambara needs the subject"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dɔgōya",
+      "rationale": "כנע literally 'bend the knee, bow'; here rendered 'brought low'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרב בציון",
+      "rationale": "KJV 'heat in a dry place' vs literal 'heat in a drought\/desert-place'; ציון here is dryness, not Zion"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרב … חרב",
+      "rationale": "repetition of 'heat' frames both halves of the parallel couplet"
+    }
+  ],
+  "translation": "Ni dari de yɔrɔ labɛnnen na, ⟨i⟩ bɛ dansebagaw ka ɲɛjiriseli dɔgɔya; ni dari de bili sanu la, baganjatigɛw ka donkili bɛ dɔgɔya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "37da0810a92eda810ba0118502593c87eb368b9bc2b2975b94b8f4c1321f3e5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/25\/5-8.1791933960976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "ni dari de"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "yɔrɔ labɛnnen na"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ɲɛjiriseli"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "dansebagaw"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "i bɛ ... dɔgɔya"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "dari"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "עב",
+      "gloss": "bili"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "donkili"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "baganjatigɛw"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "bɛ dɔgɔya"
+    }
+  ],
+  "timestamp": "2026-10-13T23:26:00.979581013Z",
+  "model": "glm-5.3"
+}

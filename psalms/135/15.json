@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "batofɛnw",
+      "rationale": "עצבי (idolatrous images) rendered with the fixed term for objects of worship, per the gods-of-the-nations ruling"
+    }
+  ],
+  "translation": "Siya minnu ka batofɛnw ye warigwɛ ni sanu ye, hadamadenw ka bolow baara de.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "21e4c846f6fcfbb12fe1c6634aaff1c736b87d3fa02af7da7038206331789f57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/135\/13-16.1791941841057.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "batofɛnw"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "siya minnu ka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ni sanu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bolow"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamadenw ka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:21.058518549Z",
+  "model": "glm-5.3"
+}

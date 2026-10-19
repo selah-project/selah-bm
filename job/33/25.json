@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 33:25",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רטפש",
+      "rationale": "rare word appearing only here; renderings range from 'fresh\/soft' to 'wasted'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bɛ",
+      "rationale": "Bamanankan needs the present-tense marker; Hebrew participle carries it alone"
+    }
+  ],
+  "translation": "A farisogo bɛ kura a deneya la, a bɛna segin a deneya tilew la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5c40663e9b049011f83a61f4f0770d7ed7994842b61788ac66cda02c7bc8d9a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/33\/25-28.1791944145489.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רטפש",
+      "gloss": "bɛ kura"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "a farisogo"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "a deneya la"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "bɛna segin"
+    },
+    {
+      "surface": "לימי",
+      "gloss": "tilew la"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "a deneya"
+    }
+  ],
+  "timestamp": "2026-10-14T02:15:45.492963591Z",
+  "model": "glm-5.3"
+}

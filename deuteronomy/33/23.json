@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 33:23",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ים",
+      "rationale": "'kɔgɔji' (sea, JPS) vs 'the west' (KJV\/ASV, sea as direction — the Mediterranean lies west)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "object pronoun supplied for the imperative 'minɛ'; Hebrew leaves the object implicit"
+    },
+    {
+      "kind": "you",
+      "subject": "to Naphtali",
+      "rationale": "direct apostrophe and jussive\/imperative addressed to the tribe"
+    }
+  ],
+  "translation": "Naftali kan na, o kɔra: A Naftali, i sununna ni kanuya ye, i mansara Yawe ka dubaw ye; kɔgɔji ni gindi, minɛ ⟨u⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "33fc7020d85a01256bbdcd175e83682baa6c388649076e15e056c94ec7541968",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/33\/21-24.1791928360165.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולנפתלי",
+      "gloss": "Naftali kan na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fɔra"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sununna"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kanuya"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "mansara"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "dubaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "ודרום",
+      "gloss": "ni gindi"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "minɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:52:40.168409650Z",
+  "model": "glm-5.3"
+}

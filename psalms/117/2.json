@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 117,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept as hesed: kanuya kelen dɔgɔ a kɔrɔ (loyal love) — a single Bambara word narrows it."
+    },
+    {
+      "kind": "crux",
+      "subject": "gɛlɛn an bolo",
+      "rationale": "גבר עלינו: 'prevailed over us' vs 'is great toward us'; Bambara follows the 'strong upon us' sense."
+    }
+  ],
+  "translation": "Sabu a ka hesed gɛlɛn an bolo, ani Yawe ka tiɲɛ bɛ waati bɛɛ bɛɛ; aw jɔnjɔn Ya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/117\/1-2.1791941491459.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gɛlɛn"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "an bolo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a ka hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ani … tiɲɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waati bɛɛ bɛɛ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "aw jɔnjɔn"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:31:31.460596518Z",
+  "model": "glm-5.3"
+}

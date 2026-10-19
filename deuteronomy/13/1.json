@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Verse is direct plural command from Moshe to Israel regarding the Torah's words."
+    },
+    {
+      "kind": "addition",
+      "subject": "fɛn",
+      "rationale": "Bambara needs an object noun for 'add\/diminish'; Hebrew verbs תסף\/תגרע carry no explicit object."
+    }
+  ],
+  "translation": "Kuma bɛɛ min ne bɛ lase aw ye, ⟨את⟩ o aw k'o mara ka kɛ; aw kana fɛn fara a kan, ani aw kana fɛn bɔ a la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "542fd8d0522e6009e64564577275be6afd7271017da2e841f66b82c3b01a45e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/13\/1-4.1791927867494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuma bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "lase"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "o (kuma)"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "mara"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "tɛ fara"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani kana"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "tɛ bɔ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "a la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:44:27.497038270Z",
+  "model": "glm-5.3"
+}

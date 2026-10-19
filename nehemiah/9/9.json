@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ים סוף",
+      "rationale": "Hebrew 'sea of reeds'; first mention gives Yamsufu with bracket, then glosses as reed-sea"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara perfective auxiliary supplied; Hebrew wayyiqtol lacks it"
+    }
+  ],
+  "translation": "I ye an ka awa bɛɛ ⟨את⟩ lasɔrɔdɔnɔnniya ye Mitsrayim (Misira), i ye ⟨את⟩ u ka kandɔli mɛn Yamsufu (Kɔgɔji-Sɔgɔma) kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "325ef4c828f8ae8fafd90ea34927f1947bac8074a2dafb1e394f72c1cd21fc8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/9\/9-12.1791947101661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "i ye … ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lasɔrɔdɔnɔnniya"
+    },
+    {
+      "surface": "עני",
+      "gloss": "lasɔrɔdɔnɔnniya"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "an ka awa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kandɔli"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "u ka kandɔli"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "i ye … mɛn"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sɔgɔma (bɔko fɔlɔ: Yamsufu)"
+    }
+  ],
+  "timestamp": "2026-10-14T03:05:01.667560569Z",
+  "model": "glm-5.3"
+}

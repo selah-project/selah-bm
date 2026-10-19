@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "O de kama",
+      "rationale": "Hebrew lacks the connective 'therefore'; supplied from verse logic"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jalaki",
+      "rationale": "הבל is 'breath\/vapor'; rendered with the emptiness word jalaki"
+    },
+    {
+      "kind": "alternative",
+      "subject": "A y'u donw dafa",
+      "rationale": "ויכל can be transitive (he ended) or intransitive (their days came to an end); transitive chosen following KJV\/JPS"
+    }
+  ],
+  "translation": "O de kama, A ye u donw dafa ni jalaki ye, ani u sanw ni jakari ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/33-36.1791940790715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "A ye … dafa"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ni jalaki ye"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "u donw"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "u sanw"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "ni jakari ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:50.716232971Z",
+  "model": "glm-5.3"
+}

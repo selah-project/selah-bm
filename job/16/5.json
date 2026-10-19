@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 16:5",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aw ka ɲɛmisi",
+      "rationale": "יחשך ka direct object (your grief) ma sɛbɛn Hebrew kɔnɔ; Bambara b'a dɔŋi"
+    },
+    {
+      "kind": "crux",
+      "subject": "וְנִיד",
+      "rationale": "c\/5205 'lips ka tugu-tugu' — versions tie a kɛ comfort ye (Geneva, KJV) walima restraining ye (YLT); n ye motion tilennen ta"
+    }
+  ],
+  "translation": "N bɛ aw mɛnɛya ni n da ye, ani n nɔ ka tugu-tugu bɛ ⟨aw ka ɲɛmisi⟩ dabu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/16\/5-8.1791943630110.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אאמצכם",
+      "gloss": "n bɛ aw mɛnɛya"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ni … ye"
+    },
+    {
+      "surface": "פי",
+      "gloss": "n da"
+    },
+    {
+      "surface": "וניד",
+      "gloss": "ani tugu-tugu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "n nɔ"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "bɛ … dabu"
+    }
+  ],
+  "timestamp": "2026-10-14T02:07:10.110978648Z",
+  "model": "glm-5.3"
+}

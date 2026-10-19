@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kuma in",
+      "rationale": "הדבר is 'the word\/matter' — the secret signal between the two, rendered as a spoken arrangement"
+    },
+    {
+      "kind": "secret",
+      "subject": "layidu-kuma",
+      "rationale": "the lad knows nothing; only Jonathan and David know the hidden matter"
+    }
+  ],
+  "translation": "Nka denbaga ma dɔn fɛn si; Yehonatan ni Dawid dɔrɔn de ye ⟨את⟩ kuma in dɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "807c0bad338d19899fca959482ee043cd0256365a608cb1be576551c4fc60236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/20\/37-40.1791930581478.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "nka denbaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "fɛn si"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dɔrɔn de"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ni Dawid"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ye … dɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuma in"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma in"
+    }
+  ],
+  "timestamp": "2026-10-13T22:29:41.480140364Z",
+  "model": "glm-5.3"
+}

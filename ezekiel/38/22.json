@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 38:22",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sɔrɔdasiw",
+      "rationale": "אגפיו is literally 'his wings' (army-wings); rendered as troops, picture lost."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו (second)",
+      "rationale": "Preposition את 'with' elided into a fɛ; only the object-marker function bracketed."
+    }
+  ],
+  "translation": "An bɛna k'a latigɛ ⟨אתו⟩ ni bana ye ani ni joli ye; an bɛna sanji min bɛ taabon, ani yɔrɔgɛn kabakurun, tasuma ani sulfuri miiri a kan, ani a ka sɔrɔdasiw kan, ani siya caman minnu bɛ ⟨אתו⟩ a fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ae1143ca43e705c992ee53b893e855eb45bbc6150cf5f8d25b48dbc176d006ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/38\/21-23.1791937611691.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשפטתי",
+      "gloss": "an bɛna latigɛ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a (Gog)"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ni bana ye"
+    },
+    {
+      "surface": "ובדם",
+      "gloss": "ani ni joli ye"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "sanji"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "min bɛ taabon"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "kabakurun"
+    },
+    {
+      "surface": "אלגביש",
+      "gloss": "yɔrɔgɛn"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "sulfuri"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "an bɛna miiri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani … kan"
+    },
+    {
+      "surface": "אגפיו",
+      "gloss": "a ka sɔrɔdasiw"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani … kan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "siya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "caman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a fɛ (minnu bɛ a fɛ)"
+    }
+  ],
+  "timestamp": "2026-10-14T00:26:51.692170926Z",
+  "model": "glm-5.3"
+}

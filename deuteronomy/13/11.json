@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 13:11",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להדיחך",
+      "rationale": "'Push\/drive you away' (נדח): KJV 'thrust away', JPS 'draw thee away' — Bambara 'bɔsan' keeps the removal sense."
+    },
+    {
+      "kind": "addition",
+      "subject": "i yɛrɛ",
+      "rationale": "Reflexive added before 'Mitsrayim dugukolo' to mark 'out of the land' as source; Bambara needs it."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Command continues direct second-person address."
+    }
+  ],
+  "translation": "I bɛna a bɔ kabakurunw ye ka a sa, sabu a n'a ɲini ka i bɔsan Yawe i Ala min la, min b'i bɔsan i yɛrɛ Mitsrayim (Misira) dugukolo la, ka bɔ kɔrɔmɔnw so la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e0f9ce1d132c843cd2c076639817602f421949aff458c2ad188426a7831943b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/13\/10-11.1791950111445.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסקלתו",
+      "gloss": "i bɛna a bɔ"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kabakurunw ye"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ka a sa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "a n'a ɲini"
+    },
+    {
+      "surface": "להדיחך",
+      "gloss": "ka i bɔsan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka bɔ ... la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i Ala"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "min b'i bɔsan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Misira)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ka bɔ ... so la"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kɔrɔmɔnw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:55:11.445807740Z",
+  "model": "glm-5.3"
+}

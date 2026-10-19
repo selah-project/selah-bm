@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 6:24",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויצר על",
+      "gloss-context": "a ye ... da ɲɛ sin",
+      "rationale": "Hebrew 'pressed against' = laid siege; Bambara idiom 'set the face against' used for siege"
+    },
+    {
+      "kind": "addition",
+      "subject": "o kɔfɛ",
+      "rationale": "אחרי־כן 'after-so' rendered with explicit demonstrative 'after that'"
+    }
+  ],
+  "translation": "O kɔfɛ, Aram masakɛ Ben-Hadad ye ⟨את⟩ a lasigidenw bɛɛ lamɛn, a kaara, a ye Shomeron (Samari) da ɲɛ sin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7cf0dd2deb5262068c3e1f0f128b34586cca44643b69b51959a773a7c148ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/6\/21-24.1791932657969.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "o kɔfɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "a ye ... lamɛn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lasigidenw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "a lasigidenw"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a kaara"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "a ye ... da ɲɛ sin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-13T23:04:17.979382318Z",
+  "model": "glm-5.3"
+}

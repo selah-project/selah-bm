@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census of the Levites",
+      "rationale": "counting by age threshold and by heads, yielding 38,000"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לגלגלתם",
+      "rationale": "'by their skulls' (round heads) is the census idiom, rendered kunw bɛɛ ye 'head by head'"
+    }
+  ],
+  "translation": "Lewiw dɛmɛnbagaw jate bɛɛra denkɛ san 30 (mugani ni tan) la wa a bɛn; u jate kunw bɛɛ ye, cɛcamaw fɛ: 38 000.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/23\/1-4.1791948269084.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "jate bɛɛra"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiw dɛmɛnbagaw"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "denkɛ san … la"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "30"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "wa a bɛn"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ye … ye"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "u jate"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "kunw bɛɛ ye"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "cɛcamaw fɛ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "38"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "000"
+    }
+  ],
+  "timestamp": "2026-10-14T03:24:29.085706104Z",
+  "model": "glm-5.3"
+}

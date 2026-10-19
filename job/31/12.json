@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 31:12",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Abaddon",
+      "rationale": "אבדון is the place of perishing, kept as the name; 'sãya-yɔrɔ' would flatten the proper noun"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשרש",
+      "rationale": "'root out' (pluck up by the roots) vs 'take root' — the fire itself rooting; kept the plucking-up as most versions do"
+    }
+  ],
+  "translation": "Sabu o ye tasuma ye min bɛ dun ka se Abaddon, a bɛna n lamɛn bɛɛ bɔ a kokolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "34533fc120fb568d24c58f4cdb8a5ff4eb35ebdc1b72dc53ccf44fa87ef4ef5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/31\/9-12.1791943989215.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "אבדון",
+      "gloss": "Abaddon"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dun"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "תבואתי",
+      "gloss": "n lamɛn"
+    },
+    {
+      "surface": "תשרש",
+      "gloss": "bɔ a kokolo la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:13:09.217289027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "i ye i ɲɛ pan",
+      "rationale": "Hebrew 'you open your eye upon' = to scrutinize; rendered literally with 'pan' (open)"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Job addresses God directly, questioning the judgment on such a frail one"
+    }
+  ],
+  "translation": "Hali o la, i ye i ɲɛ pan ⟨a kan⟩, ani i bɛ ⟨את⟩ ne fila sariya kɔnɔ i ta?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/14\/1-4.1791943678132.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "hali"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a kan⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "o la"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "i ye i ɲɛ pan"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "i ɲɛ"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne min bɛ fila sariya kɔnɔ"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "i bɛ … fila"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sariya kɔnɔ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i ta"
+    }
+  ],
+  "timestamp": "2026-10-14T02:07:58.134721721Z",
+  "model": "glm-5.3"
+}

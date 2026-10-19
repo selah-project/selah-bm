@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 8:13",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lasirali",
+      "rationale": "פתשגן ye sɛbɛn min lasira, sɛbɛn lasirali — laada sɛbɛn dɔ ye fɔli ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "היהודיים עתודים",
+      "rationale": "ketubim MS ka kuma: 'Yehudiw kɛra a ladilikanw ye' — Masoret 'נכונים' ye 'u sigilen don' ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאיביהם",
+      "rationale": "'u bɛfaribaw bolo' — Heburukan fafli yɛrɛ de bɛ yen, 'ni' ma fara a kan"
+    }
+  ],
+  "translation": "Sɛbɛn in lasirali, walasa sariya di ka tugu jamana o jamana kɔnɔ, a bɛ jira jamana bɛɛ mɔgɔw ma — ani walasa Yehudiw kɛra a ladilikanw ye don in na, ka bɔ u bɛfaribaw bolo ka faga u ka tɛmɛsira la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "66396aabd55949de2545aa5105ae795d243905e6557ae01f3765fd2ad5451ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/8\/13-16.1791945581856.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתשגן",
+      "gloss": "lasirali"
+    },
+    {
+      "surface": "הכתב",
+      "gloss": "sɛbɛn in"
+    },
+    {
+      "surface": "להנתן",
+      "gloss": "walasa ka di"
+    },
+    {
+      "surface": "דת",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka tugu … o … kɔnɔ"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "jamana o"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "jamana"
+    },
+    {
+      "surface": "גלוי",
+      "gloss": "a bɛ jira"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mɔgɔw ma"
+    },
+    {
+      "surface": "ולהיות",
+      "gloss": "ani walasa … kɛra"
+    },
+    {
+      "surface": "היהודיים",
+      "gloss": "Yehudiw"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "a ladilikanw ye"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "don in na"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "o"
+    },
+    {
+      "surface": "להנקם",
+      "gloss": "ka faga u ka tɛmɛsira la"
+    },
+    {
+      "surface": "מאיביהם",
+      "gloss": "u bɛfaribaw bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T02:39:41.857523834Z",
+  "model": "glm-5.3"
+}

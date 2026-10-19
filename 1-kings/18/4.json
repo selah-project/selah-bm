@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kelen-kelen",
+      "rationale": "Hebrew says 'fifty men in a cave'; Bambara adds distributive to show groups of fifty"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nnaba",
+      "rationale": "נביא rendered nnaba, never kira (Kira is Muhammad's title in Bambara usage)"
+    },
+    {
+      "kind": "elision",
+      "subject": "בהכרית",
+      "rationale": "Hebrew infinitive 'in the cutting-off' flattened to finite 'was exterminating'; literal 'when Jezebel cut off' structure lost"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kɛmɛ ni bisaba",
+      "rationale": "Verse counts a hundred prophets hidden in groups of fifty"
+    }
+  ],
+  "translation": "A kokura Izebel (Izebeli) tun bɛ ⟨את⟩ Yawe nnabaw kɔrɔbɔ, Obadaya ye nnaba kɛmɛ ta, ka u dogo, mɔgɔ bisaba kelen-kelen kɛgɛ-jon kɔnɔ, ka buru ni ji di u ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "781c82a8b834ea216c90b635122e729291a135ea44a2d53a3a05042c8dcdc845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/18\/1-4.1791932409353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a kokura"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "kɔrɔbɔ"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe nnabaw"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nnabaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadaya"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "nnaba"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "ka u dogo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "bisaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "kɛgɛ-jon kɔnɔ"
+    },
+    {
+      "surface": "ויכלכלם",
+      "gloss": "ka … di u ma"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buru"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ji"
+    }
+  ],
+  "timestamp": "2026-10-13T23:00:09.363286509Z",
+  "model": "glm-5.3"
+}

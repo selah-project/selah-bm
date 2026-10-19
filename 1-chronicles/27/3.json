@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ye … ye",
+      "rationale": "Hebrew is verbless ('of the sons of Perez, the head of all captains'); Bambara requires the copular frame."
+    }
+  ],
+  "translation": "Perets denw la, a ye kunba ye sɔrɔdasi ɲɛmɔgɔw bɛɛ kun na, kalo fɔlɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7457e84ce4292d8094b74b6dddfd3ee06a3ab4847d01b152933f00ac85d65b00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/27\/1-4.1791948419297.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kunba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ɲɛmɔgɔw"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "sɔrɔdasi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "fɔlɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:26:59.298203908Z",
+  "model": "glm-5.3"
+}

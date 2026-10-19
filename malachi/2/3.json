@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הזרע",
+      "rationale": "'si' = kisɛ\/denkɛw (KJV 'seed') walima sarakabolo min bɛ bɔ donkun na (JPS fɔcogo); 'gaari' גער kɔrɔ de ye.'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɔgu",
+      "rationale": "פרש ye misi ka bɔgu ye; sɛbɛnni-jɔyɔrɔ minnu bɛ a nɔgɔya 'waste' (BSB), olu bɛ fɛn suman in minɛ."
+    },
+    {
+      "kind": "you",
+      "subject": "sarakalasebagaw",
+      "rationale": "kuma in bɛ tugu sarakalasebagaw minɛ dɔrɔn."
+    }
+  ],
+  "translation": "Yala, ne bɛ aw ka si gaari; ne bɛna bɔgu yaɲi aw ɲɛda kan — aw ka donw ka bɔgu — ka o na aw ta a bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/malachi\/2\/1-4.1791939500785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Yala, ne"
+    },
+    {
+      "surface": "גער",
+      "gloss": "gaari"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "si"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ne bɛ yaɲi"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "bɔgu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "aw ɲɛda"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "bɔgu"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "aw ka donw"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aw"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:20.787006122Z",
+  "model": "glm-5.3"
+}

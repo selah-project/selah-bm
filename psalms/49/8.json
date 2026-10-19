@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אח",
+      "rationale": "אח (balimakɛ) ansi 'olu si' (any of them) — KJV fɔ 'olu si min bɛ se', Heburukan kuma jɛlen ye 'balimakɛ' ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sangaya-ji",
+      "rationale": "כפר ye 'sangaya-ji' ye (fɛn min bɛ sanu ka bɔ a bolo) — a tɛ 'sasumaya' (expiation) ye cogo min na, a ye fɛn min di a bolo, o ye."
+    }
+  ],
+  "translation": "Balimakɛ si se ka mɔgɔ bɔ a bolo, a te se ka a ka sangaya-ji di Elohim ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/49\/5-8.1791940189433.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "balimakɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si tɛ se"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "mɔgɔ bɔ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ se"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim ma"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "a ka sangaya-ji"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:49.434246278Z",
+  "model": "glm-5.3"
+}

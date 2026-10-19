@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מרו את פי יהוה",
+      "rationale": "literally 'made bitter the mouth of YHWH'; rendered jujubaliya kɛ … da kan, keeping 'mouth' (da) as in Hebrew"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Moses addresses Israel directly in the second person"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תמרו",
+      "rationale": "root means 'be bitter'; rendered as rebellion (jujubaliya), the figurative sense"
+    }
+  ],
+  "translation": "Nka aw ma b'a fɛ ka taa sanfe, aw ye jujubaliya kɛ ⟨את⟩ Yawe aw ka Elohim ka da kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "48b94d0c530c9153dd626acbc65bfd49b575b7097124b0dd708cea1861387080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/1\/25-28.1791927521439.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nka aw ma"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "ma b'a fɛ"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ka taa sanfe"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "aw ye jujubaliya kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe aw ka Elohim ka da"
+    },
+    {
+      "surface": "פי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "aw ka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-13T21:38:41.440777195Z",
+  "model": "glm-5.3"
+}

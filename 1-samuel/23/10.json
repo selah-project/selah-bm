@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שׁמוע שׁמע",
+      "rationale": "infinitive absolute doubling 'hearing he heard' = 'heard truly'; rendered once with intensifier tiɲɛ"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss-note": "preposition 'unto' folded into Bambara 'ka na Kewila'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "direct prayer address: 'Yawe, Elohim of Israel'"
+    }
+  ],
+  "translation": "Dawid ko: Yawe, Isirayeli Ala, i denbaga mɛn ko tiɲɛ, ko Shawulu b'a ɲini ka na Kewila ka dugu jigi n ta te.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/23\/9-12.1791930560420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "ישׂראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "שׁמוע",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "שׁמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i denbaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מבקשׁ",
+      "gloss": "b'a ɲini"
+    },
+    {
+      "surface": "שׁאול",
+      "gloss": "Shawulu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ka na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kewila"
+    },
+    {
+      "surface": "לשׁחת",
+      "gloss": "ka jigi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "n ta te"
+    }
+  ],
+  "timestamp": "2026-10-13T22:29:20.423215414Z",
+  "model": "glm-5.3"
+}

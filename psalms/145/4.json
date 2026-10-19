@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛna",
+      "rationale": "Hebrew uses participles\/yiqtol without explicit future marker; Bambara 'bɛna' supplied"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ישבח",
+      "rationale": "the verb שׁבח 'to praise aloud' is rare, here in the piel — loud public lauding"
+    }
+  ],
+  "translation": "Seli kelen bɛna i ka baaw laseli kelen ma — sangyɔrɔ; ani i ka seba-kɛraw bɛna jira.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/145\/1-4.1791942017728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "seli kelen"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "seli kelen ma"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "bɛna sangyɔrɔ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "i ka baaw"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "ani i ka seba-kɛraw"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "bɛna jira"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:17.729788313Z",
+  "model": "glm-5.3"
+}

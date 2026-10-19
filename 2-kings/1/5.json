@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוב\/שבתם",
+      "rationale": "Root שׁוּב repeated: 'they turned back… why have you turned back' — the echo is kept with segin\/segina."
+    },
+    {
+      "kind": "you",
+      "subject": "masakɛ ko cidenw ye",
+      "rationale": "The king directly questions his messengers."
+    }
+  ],
+  "translation": "Cidenw seginna ka na a fɛ, a ko u ye: mun na a sɔrɔ aw seginna?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/1\/5-8.1791932581515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "seginna"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "cidenw"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "a sɔrɔ"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "aw seginna"
+    }
+  ],
+  "timestamp": "2026-10-13T23:03:01.519072457Z",
+  "model": "glm-5.3"
+}

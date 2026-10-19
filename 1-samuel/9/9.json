@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 9:9",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "yebaga \/ nabi",
+      "rationale": "הראה 'seer (the-one-who-sees)' vs נביא 'nabi': the verse itself records the old name giving way to the new; rendering both with one word would erase the point."
+    },
+    {
+      "kind": "substitution",
+      "subject": "yebaga",
+      "rationale": "הראה is a participle of 'to see' — a coined Bambara agent-noun 'one-who-sees' keeps the picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "tiŋɛnana",
+      "rationale": "Hebrew uses only יקרא 'is called'; the verb 'was called of old' is carried by context."
+    }
+  ],
+  "translation": "(Lafaninw na, Israel kɔnɔ, mɔgɔ min kunbɛna a taa Ala (Elohim) ɲinini na, o ko nin kuma: I na, an ka taa yebaga fɛ, sabu min bɛ wele bi ko nabi, lafaninw a tɔgɔ tiŋɛnana ko yebaga.)",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "726618519fc0d1fa85f8e84a1328ca3c79d8fc170346a081a5076b45010040cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/9\/9-12.1791930116565.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "lafaninw na"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israel kɔnɔ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nin kuma"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "a ka taa"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ɲinini na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ala (Elohim)"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "i na"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "an ka taa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "yebaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bɛ wele"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "lafaninw"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "yebaga"
+    }
+  ],
+  "timestamp": "2026-10-13T22:21:56.566884362Z",
+  "model": "glm-5.3"
+}

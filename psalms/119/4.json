@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨an⟩",
+      "rationale": "Hebrew has no 'us'; KJV supplies it, Hebrew is simply 'to keep diligently'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wasonw",
+      "rationale": "פקודים is God's appointed precepts; wasonw (commands) chosen as nearest Bamanankan"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "direct second-person address to Yawe begins the stanza's pivot from third to second person"
+    }
+  ],
+  "translation": "I y'i ka wasonw da ko ⟨an⟩ ka u mara ka tige kosɛbɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/1-4.1791941582182.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "I"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "y'a da"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "i ka wasonw"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ko ⟨an⟩ ka mara"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:02.182914017Z",
+  "model": "glm-5.3"
+}

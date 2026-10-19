@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 27:13",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hadamadenw",
+      "rationale": "נפש אדם ni hadamaden: Hebrew 'soul of man', rendered 'persons\/human beings' — trading in slaves"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i ka⟩",
+      "rationale": "Bambara possessive needed for 'thy merchandise' sense of מערבך"
+    },
+    {
+      "kind": "you",
+      "subject": "to Tiro",
+      "rationale": "Verse addresses Tyre directly with second-person suffixes רכליך מערבך"
+    }
+  ],
+  "translation": "Yawan, Tuwal ani Meshek, olu ye i ka jagokɛlaw ye; hadamadenw ni kura-minɛnw, u ye ⟨i ka⟩ jagoya di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1602e6e1c68a13bed739779e9c9f3c4a46e7815ff65de9aedf14ecc2492dfcb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/27\/13-16.1791937372168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יון",
+      "gloss": "Yawan"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "Tuwal"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "ani Meshek"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "i ka jagokɛlaw"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "hadamadenw ni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamadenw"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ni kura-minɛnw"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kura"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "u ye ... di"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "i ka jagoya"
+    }
+  ],
+  "timestamp": "2026-10-14T00:22:52.169398056Z",
+  "model": "glm-5.3"
+}

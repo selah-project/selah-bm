@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "The psalm opens with direct address to Yawe, asking him to remember Dawid."
+    },
+    {
+      "kind": "addition",
+      "subject": "i k'i la hakili to",
+      "rationale": "זכור is one imperative verb; Bamanankan needs a fuller phrase 'keep your memory on'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fitinaw",
+      "rationale": "ענותו is singular 'his affliction'; rendered as plural to match the sense of repeated hardships."
+    }
+  ],
+  "translation": "Ascentiw ka don. Yawe, i k'i la hakili to Dawid (Dawuda) kan, ⟨את⟩ a ka fitinaw bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/132\/1-4.1791941746466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "don"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ascentiw ka"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "i k'i la hakili to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid (Dawuda) kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka fitinaw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "a ka fitinaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:46.466823791Z",
+  "model": "glm-5.3"
+}

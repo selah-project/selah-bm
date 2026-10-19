@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 3:5",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Hebrew ordinal list lacks a verb; Bambara list construction supplies one"
+    },
+    {
+      "kind": "measurement",
+      "subject": "denw jate",
+      "rationale": "genealogical count of David's six sons born at Hebron"
+    }
+  ],
+  "translation": "Filanan don, Yitream, Eglah ta, Dawid ka muso. Dawid ka denw ninu bɛ bɔ Hebiron (Koron) na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e1b392a5a7285ac24cf02330a62137c448872bfc67e49c51806a005d72ca8293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/3\/5-8.1791930901554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "filanan don"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Yitream"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "Eglah ta"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "muso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ninu"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "denw bɛ bɔ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ka"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hebiron na"
+    }
+  ],
+  "timestamp": "2026-10-13T22:35:01.556135232Z",
+  "model": "glm-5.3"
+}

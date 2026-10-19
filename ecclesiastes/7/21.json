@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Hebrew participle מקללך carries the object 'you' in its suffix; Bambara needs the pronoun stated"
+    },
+    {
+      "kind": "you",
+      "subject": "to the listener",
+      "rationale": "imperative 'do not give your heart' directly addresses Qohelet's hearer"
+    }
+  ],
+  "translation": "Kumaw bɛɛ la fana minnu bɛ fɔ, i kana i dusukun di o kan, walasa i tɛna mɛn ⟨את⟩ i busɔbɔgɔ min bɛ ⟨i⟩ danga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "385c9c9fdc314d77e75f5b26db6d111d282e8b4cd842916d92321956b6bc9450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/7\/21-24.1791945244457.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bɛ fɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "di"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "i dusukun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i busɔbɔgɔ min b'i danga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i busɔbɔgɔ"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "min b'i danga"
+    }
+  ],
+  "timestamp": "2026-10-14T02:34:04.458628321Z",
+  "model": "glm-5.3"
+}

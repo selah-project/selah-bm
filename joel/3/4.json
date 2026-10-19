@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Bambara needs 'don' repeated after the two adjectives; Hebrew has one 'day'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "day of Yawe",
+      "rationale": "The great and fearsome day is announced by cosmic reversal — a sealed future event."
+    }
+  ],
+  "translation": "Tile bɛna yɛlɛma ka kɛ dibi ye, kalo ka kɛ joli ye, kaban Yawe ka donba ni siranba don ka na don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ddca5f210e9b183415c9563878292a6ef19bb5043533e29a4c388e56be191b07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joel\/3\/1-4.1791938438658.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "bɛna yɛlɛma"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "ka kɛ dibi ye"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ka kɛ joli ye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ka na"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "donba"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "siranba"
+    }
+  ],
+  "timestamp": "2026-10-14T00:40:38.659563401Z",
+  "model": "glm-5.3"
+}

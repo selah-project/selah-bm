@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 1:9",
+  "book": "joel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "burusaraka \/ minsaraka",
+      "rationale": "מנחה ye buru-kisɛ saraka ye, נסך ye min-saraka ye — 'saraka' dɔrɔn de tun tɛ toɔ"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Bamanankan bɛ 'ka' fara Yawe kan min-kɔnɔso la, Heburukan tɛ o"
+    }
+  ],
+  "translation": "Burusaraka ni minsaraka banna, u bɔra Yawe ka so la; sarakalasebagaw, Yawe ka minɛbagaw, bɛ yɔgɔyɔgɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joel\/1\/9-12.1791938403306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכרת",
+      "gloss": "banna (bɔra)"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "burusaraka"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "ni minsaraka"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "bɔra … so la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אבלו",
+      "gloss": "bɛ yɔgɔyɔgɔ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "minɛbagaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T00:40:03.306854045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עודני",
+      "rationale": "KJV 'robbed me' vs ASV\/JPS 'surrounded\/wrapped me' — Piel of עודד means surround, not rob; Bambara follows 'surrounded'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nansiw",
+      "rationale": "חבלי literally twisted ropes\/cords, not 'bands' of men."
+    }
+  ],
+  "translation": "Mɔgɔ juguw ka nansiw ye ne sisilen; i ka Tora la ye, n ma a tamasti.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/61-64.1791941669701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "nansiw"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mɔgɔ juguw"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "ne sisilen"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "i ka Tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "n tamasti"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:29.701722914Z",
+  "model": "glm-5.3"
+}

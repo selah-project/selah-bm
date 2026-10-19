@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Object pronoun supplied: Hebrew לעשקם and עליהם carry the suffix -ם ('them') for the fathers of v. 12."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ju",
+      "rationale": "ויוכח is 'argue, decide, rebuke'; ju ('call to account') narrows the legal picture."
+    }
+  ],
+  "translation": "A ma hadamaden dɔ bila ka u nɔɔrɔ; a ye masakɛw ju u kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/105\/13-16.1791941303410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "bila"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden dɔ"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "ka u nɔɔrɔ"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "a ye … ju"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "u kan"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "masakɛw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:28:23.411156977Z",
+  "model": "glm-5.3"
+}

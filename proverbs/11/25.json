@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ni\/kelen ye, a tɛ 'âme' tubabuya ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "יורא",
+      "rationale": "יָרָה ka kɔrɔ ye sanji bɔcogo ye; bayɛlɛmabaga dɔw fɔ 'ji bɛna a minɛ', dɔw fɔ 'sanji bɛna na a kan'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kunu fa",
+      "rationale": "דשן ka kɔrɔ literal ye kunu-facogo ye; o ye Barsa-kan daɲɛ ye min bɔcogo jira kɛnɛya nafamafɛnw"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכה\/ברך",
+      "rationale": "duba daɲɛ bɛ sira Yawe ka duba kɛcogo la"
+    }
+  ],
+  "translation": "Ni min bɛ duba di, o ni bɛna kunu fa; ni min bɛ ji minɛ, ale fana bɛna sanji sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d27d585a90bc99d96c8d9dd6edc124656d194a7c8b74ddacd919acd2aaa7e207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/11\/25-28.1791942472315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "duba"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "bɛna kunu fa"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "ni min bɛ ji minɛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ale"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "bɛna sanji sɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:47:52.316431739Z",
+  "model": "glm-5.3"
+}

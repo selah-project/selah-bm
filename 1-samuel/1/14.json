@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Hannah",
+      "rationale": "Eli addresses Hannah directly with two imperatives."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויאמר",
+      "gloss-note": "",
+      "rationale": "conversational 'ko' carries the English 'said'; Eli named after the addressee, Hebrew word order kept."
+    }
+  ],
+  "translation": "Eli ko a ye: fo jumɛn na i bɛna faden ye? I ka ⟨את⟩ i ka diwɛn bɔ i sanfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "56a964ae5905dd4befa74b4b11a7d23deb74c15c4c379024b8d6e51e5ca0c379",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/1\/13-16.1791929869297.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jumɛn na"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "i bɛna faden ye"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "i ka … bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ka diwɛn"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "i ka diwɛn"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "i sanfɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:17:49.300921628Z",
+  "model": "glm-5.3"
+}

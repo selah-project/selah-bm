@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "double particle 'for indeed\/though' folded into the Bambara assertion; no clean single equivalent"
+    },
+    {
+      "kind": "crux",
+      "subject": "goel nearer",
+      "rationale": "the nearer kinsman of v12 sets up the legal contest of chapter 4; goel kept untranslated as kinship-redeemer term"
+    }
+  ],
+  "translation": "Sisan, a tiɲɛ de ye: ne ye goel ye fo, nka goel dɔ fana bɛ yen min ka surun ne fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ruth\/3\/9-12.1791944725512.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "a tiɲɛ de ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nka … fana"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bɛ yen"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ka surun"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ne fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:25.520354117Z",
+  "model": "glm-5.3"
+}

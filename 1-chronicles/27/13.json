@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 27:13",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "don",
+      "rationale": "Hebrew lacks a noun for the captain slot; ordinal 'the tenth' stands alone"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mugan-ni-nanani ba",
+      "rationale": "division headcount: twenty-four thousand, part of the twelve-course roster"
+    }
+  ],
+  "translation": "Tan na don, tan na kalo na, ye Maharai (Netofatigiman, Zarachi den) ye; ani a gɛlɛn-kɔnɔ, mɔgɔ mugan-ni-nanani ba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "41c17bc6e3b31b6e6d56e6e8584a8e42401f8187a94799fde6235d143c404b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/27\/13-16.1791948388266.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "tan na"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kalo na"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "tan na"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "Maharai"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "Netofatigiman"
+    },
+    {
+      "surface": "לזרחי",
+      "gloss": "Zarachi den"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani a kan"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "a gɛlɛn"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mugan"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ani nanan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-14T03:26:28.266855812Z",
+  "model": "glm-5.3"
+}

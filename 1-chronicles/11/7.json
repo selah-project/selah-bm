@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על כן",
+      "rationale": "'therefore' rendered 'o la, sabu' rather than literal 'upon so'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לו",
+      "gloss": "a",
+      "rationale": "Hebrew 'called to it' — the city, named 'Dawida ka dugu'"
+    }
+  ],
+  "translation": "Dawida sigira mãtugu kɔnɔ; o la, u ye ⟨את⟩ a wele ko Dawida ka dugu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/11\/5-8.1791947706470.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sigira"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "mãtugu kɔnɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "o la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "u ye ... wele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-10-14T03:15:06.472219855Z",
+  "model": "glm-5.3"
+}

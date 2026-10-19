@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Suf Ji",
+      "rationale": "ים סוף: 'Bun ji' (diɲɛ bɛɛ fɔ) walima sɛbɛnni-yɛlɛma 'Suf Ji' — an ta sɛbɛnni-yɛlɛma la, a bɛ to Heburu fɔcogo la."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד tɛ bɔ Bamanankan daɲɛ kelen na — a toora 'hesed' i n'a fɔ daɲɛ taamasiyɛnnen."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ים ... בים",
+      "rationale": "Ji daɲɛ in bɛ fila-fila don kumasen kelen kɔnɔ — a bɛ yɛlɛma 'kan' ni 'Suf Ji' ye, min bɔko bɛn tɛ."
+    }
+  ],
+  "translation": "An baw, Mitsrayim (Misira) kɔnɔ, u ma i ninkyɔrɔnw faamu; u ma ⟨את⟩ i hesed caman fɔntɔ; u y'i banco Suf Ji kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/106\/5-8.1791941323195.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "an baw"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim (Misira) kɔnɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "u ma ... faamu"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "i ninkyɔrɔnw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "u ma ... fɔntɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i hesed caman"
+    },
+    {
+      "surface": "רב",
+      "gloss": "caman"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "i hesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "u y'i banco"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Ji"
+    },
+    {
+      "surface": "בים",
+      "gloss": "Suf Ji"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-14T01:28:43.196744890Z",
+  "model": "glm-5.3"
+}

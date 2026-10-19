@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 18:14",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוח is wind\/breath\/spirit; fiɲɛ covers wind and spirit but not breath"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכאה",
+      "rationale": "'smitten\/broken spirit' vs 'crushed'; rendered kunbɔra (struck down)"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "rhetorical question addresses the hearer directly"
+    }
+  ],
+  "translation": "Hadamaden ka fiɲɛ bɛ a ka bana kɔlɔsi, nka fiɲɛ min kunbɔra, mɔgɔ di bɛ se ka a ta?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0caa280d11821f426c443f316129b619762aff88ad1807092ef6444b23708b50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/18\/13-16.1791942711033.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "מחלהו",
+      "gloss": "a ka bana"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "nka fiɲɛ"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "min kunbɔra"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mɔgɔ di"
+    },
+    {
+      "surface": "ישאנה",
+      "gloss": "bɛ se ka a ta"
+    }
+  ],
+  "timestamp": "2026-10-14T01:51:51.034704653Z",
+  "model": "glm-5.3"
+}

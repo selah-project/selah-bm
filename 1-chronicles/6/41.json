@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חצריה",
+      "rationale": "חצר ye nɔdɔyɔrɔ\/dugu fitini ye — 'a ka dugu fitiniw' (a ka dugu fitiniw), tɛ 'courtyard' dɔrɔn ye"
+    },
+    {
+      "kind": "measurement",
+      "subject": "foro ni duguw tila-tila",
+      "rationale": "verse in ye yɔrɔ-tilali ye: nɔnabila bɛ fɔ dugu ni foro minnu bɛ di"
+    },
+    {
+      "kind": "crux",
+      "subject": "Heburu sɛbɛnni ni Tubabu jateden",
+      "rationale": "Heburu masakaw 41–44 tɛ bɔ KJV ka fisayali la (Ethni, Zerah...) — Ebrew 6:41-44 ye dugu-diwali ye; JPS ka ɲɛ"
+    }
+  ],
+  "translation": "Ni ⟨את⟩ dugu in foro ani ⟨את⟩ a ka dugu fitiniw, u y'u di Kalev (Kalebu) ma, Yefune denkɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "64856c99f64cbd4f76b22ebd58503854a0979f8096c54f982adec649990b3571",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/6\/41-44.1791947629742.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "dugu in foro"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "foro"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugu in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "a ka dugu fitiniw"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "a ka dugu fitiniw"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "u y'u di"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalev ma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    }
+  ],
+  "timestamp": "2026-10-14T03:13:49.743432248Z",
+  "model": "glm-5.3"
+}

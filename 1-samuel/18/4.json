@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaba",
+      "rationale": "מעיל ye sanu-kaba \/ julakaba ye — 'kaba' ye daɲɛ dɔnnen ye min bɛ Bamanankan na"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ועד × 3",
+      "rationale": "'fo … fo … fo' tonw bɛ tanpiyɔn walɛsira jira — a kɔrɔ bɛ yen: o bɛɛ bɔlen don Dawid ma"
+    }
+  ],
+  "translation": "Yehonatan ye yɛrɛ bɔ ⟨את⟩ kaba min b'a bɔ, o ye Dawid di, ani a ka ɲɛnamaw, fo a ka npan, fo a ka gɔn, fo a ka ka.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/18\/1-4.1791930460828.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "ye yɛrɛ bɔ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaba"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "kaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "b'a bɔ"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "o ye … di"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ma"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ani a ka ɲɛnamaw"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "a ka npan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "a ka gɔn"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "a ka ka"
+    }
+  ],
+  "timestamp": "2026-10-13T22:27:40.831084126Z",
+  "model": "glm-5.3"
+}

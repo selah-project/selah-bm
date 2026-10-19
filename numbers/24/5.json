@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה טבו",
+      "rationale": "Exclamative 'how good!': literal question word מה turned to exclamation, rendered 'Ɔ ka nii dɔ'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהליך\/משכנתיך",
+      "rationale": "Parallel pair tent\/dwelling in balanced two-cola naming Jacob then Israel; the chiastic balance is kept."
+    }
+  ],
+  "translation": "Ɔ ka nii dɔ, i ka sousouw, ewe Yakub, i ka sigiyɔrɔw, ewe Isirayel!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "91510087081c40ae0d4bbc15222ac732f10eaa01fd2212901955416c750f2fcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/24\/5-8.1791927171273.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ɔ"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "ka nii dɔ"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "i ka sousouw"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakub"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "i ka sigiyɔrɔw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayel"
+    }
+  ],
+  "timestamp": "2026-10-13T21:32:51.274455348Z",
+  "model": "glm-5.3"
+}

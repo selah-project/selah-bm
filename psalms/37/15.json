@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u yɛrɛ",
+      "rationale": "Hebrew has only 'their heart'; Bambara adds 'u yɛrɛ' (their own) to mark the reversal."
+    },
+    {
+      "kind": "idiom",
+      "subject": "npan don dusukun kɔnɔ",
+      "rationale": "'their sword enters their heart' — the weapon turns on its wielder, kept literally."
+    }
+  ],
+  "translation": "U ka npan bɛna don u yɛrɛ ka dusukun kɔnɔ, ani u ka moɲɔw bɛ bɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/13-16.1791940104719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "u ka npan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bɛna don"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "u yɛrɛ ka dusukun kɔnɔ"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ani u ka moɲɔw"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "bɛ bɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:24.720697191Z",
+  "model": "glm-5.3"
+}

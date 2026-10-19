@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פי יהוה",
+      "rationale": "'mouth of Yawe' = his counsel\/word; rendered 'Yawe ka da' with the idiom kept."
+    },
+    {
+      "kind": "crux",
+      "subject": "מצידם",
+      "rationale": "'from their provision' vs 'from them as provision' — some read the men sampled the food itself."
+    }
+  ],
+  "translation": "Mɔgɔw ye u ka dumuniw ta, nka ⟨את⟩ Yawe ka da, u ma a ɲini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6e7daa4ee37735a371b6d43300e557172430840b51ca950c09d6be133a1df191",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/9\/13-16.1791928671379.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "u ye ... ta"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "u ka dumuniw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ka da"
+    },
+    {
+      "surface": "פי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ɲini"
+    }
+  ],
+  "timestamp": "2026-10-13T21:57:51.382369416Z",
+  "model": "glm-5.3"
+}

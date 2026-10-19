@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דמיתי",
+      "rationale": "'I have likened' (KJV, from דמה II) vs 'I will destroy' (ASV\/JPS, from דמה I) — famous split."
+    },
+    {
+      "kind": "alternative",
+      "subject": "translation",
+      "rationale": "If דמיתי is 'I will cut off', the verse reads: 'The comely and delicate one, daughter of Zion, I will destroy.'"
+    },
+    {
+      "kind": "elision",
+      "subject": "copula",
+      "rationale": "Hebrew apposition has no verb; Bambara future ⟨a bɛna sa⟩ supplied only on the destroy-reading branch."
+    }
+  ],
+  "translation": "N ɲɛsin Beauty-ni-nɔgɔya-muso ye, Bati Sion (Zion) — ⟨a bɛna sa⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ce034e7494189da34e25a48e89a75395785afb3971c68b39f0f17df39daea6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/6\/1-4.1791935028972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "Beauty-muso"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "ni-nɔgɔya-muso"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "n ɲɛsin"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bati"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-10-13T23:43:48.974646417Z",
+  "model": "glm-5.3"
+}

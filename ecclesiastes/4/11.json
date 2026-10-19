@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ɲɔgɔn la",
+      "rationale": "Hebrew says 'if two lie' — 'together' supplied for sense."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יחם",
+      "rationale": "verb 'be warm' rendered with noun sumaya + sɔrɔ, Bambara lacks a simple 'be warm' verb."
+    },
+    {
+      "kind": "invitation",
+      "subject": "cogo di na a bɛ sumaya sɔrɔ",
+      "rationale": "rhetorical question put to the hearer."
+    }
+  ],
+  "translation": "Hali ni filanw sigi ɲɔgɔn la, sumaya bɛ u ye; nka kelen fɛ, cogo di na a bɛ sumaya sɔrɔ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/4\/9-12.1791945143089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hali"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "sigi ɲɔgɔn la"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "filanw"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "sumaya bɛ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "nka kelen fɛ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "cogo di"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "bɛ sumaya sɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:32:23.091930954Z",
+  "model": "glm-5.3"
+}

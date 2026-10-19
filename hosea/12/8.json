@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Kenaan",
+      "rationale": "כנען read as 'merchant' (KJV 'trafficker') vs literal 'Canaan\/Canaanite'; pun on the trader people, kept as name"
+    },
+    {
+      "kind": "measurement",
+      "subject": "minan fila",
+      "rationale": "מאזני is dual — the two pans of the balance kept as 'fila' (two)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כנען \/ מרמה",
+      "rationale": "charge of Canaanite-style deceitful commerce; wordplay on the nation's name lost in any single rendering"
+    }
+  ],
+  "translation": "Kenaan — minan fila minnu bɛ fɛn-dɔgɔya, olu bɛ a bolo kɔnɔ; a kanuya ka mɔgɔw jonya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "298093ac566ff5b31945d7720608d7ca5db7a9700343f66a0023643e94079254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/12\/5-8.1791938277189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a bolo kɔnɔ"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "minan fila"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fɛn-dɔgɔya"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "mɔgɔw jonyali"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kanuya"
+    }
+  ],
+  "timestamp": "2026-10-14T00:37:57.190024220Z",
+  "model": "glm-5.3"
+}

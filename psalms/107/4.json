@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sira jɔlen",
+      "rationale": "דרך bɛ a yɛrɛ sɔrɔ 'sira' ye; 'jɔlen' farala a kan ka Bamanankan kumasen jɔ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɛnkan-yɔrɔ",
+      "rationale": "ישימון ye 'bɛnkan-yɔrɔ \/ yɔrɔ min bɔra' ye; daɲɛ nɔgɔman dɔrɔn de bɛ se ka a ta."
+    }
+  ],
+  "translation": "U tuntunna sahelu kɔnɔ, bɛnkan-yɔrɔ la sira jɔlen, dugu min na mɔgɔ bɛ se ka sigi, u ma a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/107\/1-4.1791941364345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "u tuntunna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sahelu kɔnɔ"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "bɛnkan-yɔrɔ la"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sira jɔlen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "min na mɔgɔ bɛ se ka sigi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "u … ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:24.346214274Z",
+  "model": "glm-5.3"
+}

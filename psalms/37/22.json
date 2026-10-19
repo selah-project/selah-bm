@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bɛ bɔ",
+      "rationale": "יכרתו literally 'are cut off'; rendered 'are removed\/perish'."
+    },
+    {
+      "kind": "addition",
+      "subject": "Yawe",
+      "rationale": "Hebrew suffix 'his' (blessed of him) made explicit as Yawe; supplied name in brackets of sense."
+    }
+  ],
+  "translation": "Sabu aw minnu Yawe duba, olu bɛ ⟨את⟩ dugukolo minɛ; aw minnu bɛ danga, olu bɛ bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a13246e97a02c7faa3e9a509ae8ffa9dbb697ccf6ae0b306fdec14b5ea9e05e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/21-24.1791940083701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "aw minnu Yawe duba"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bɛ minɛ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "aw minnu bɛ danga"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bɛ bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:03.702019267Z",
+  "model": "glm-5.3"
+}

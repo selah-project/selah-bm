@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fanga",
+      "rationale": "עזוז is 'forcibleness\/might' — fanga (power\/strength) closest single Bambara word"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fɛn-ɲɔgɔnmaw",
+      "rationale": "נפלאות 'wonders' rendered 'fɛn-ɲɔgɔnmaw' (things-out-of-the-ordinary)"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרון",
+      "rationale": "'last generation to come' vs simply 'later generation'; adjective taken with לדור"
+    }
+  ],
+  "translation": "An tɛ-ko-bɔ u yɛrɛ-ko-bɔ u denw bɛɛbɛyya Yawe dubaw ni a fanga, ani a fɛn-ɲɔgɔnmaw minnu o kɛra u bolo; an tɛ u dogo u denw la, an bɛna o fɔ tile kɔnɔ min ka kɔ nin ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3e3ee46cb0243c73fa00113b107409634b754c7f3d77dde0081c59b41f124e16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/1-4.1791940754034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "An tɛ … dogo"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "u dogo"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "u denw la"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "tile kɔnɔ … bɛna o fɔ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "min ka kɔ nin ye"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "an bɛna o fɔ"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "dubaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "ni a fanga"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ani a fɛn-ɲɔgɔnmaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o kɛra u bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:14.035737333Z",
+  "model": "glm-5.3"
+}

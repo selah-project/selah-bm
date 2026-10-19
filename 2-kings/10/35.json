@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישכב עם אבתיו",
+      "rationale": "'lay with his fathers' = death euphemism, rendered sigira ni a bashɛmaw ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחתיו",
+      "rationale": "'under him' rendered as 'yɔrɔ min bɔ a la' (the place that came from him), i.e. in his stead"
+    }
+  ],
+  "translation": "Yehu sigira ni a bashɛmaw ye, u ye ⟨את⟩ a su Shomeron (Samari), a denkɛ Yehoahaz ye masa yɔrɔ min bɔ a la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b580f0b7859b0b7472a414970f84671da3dd2a86a8c1a111b243dc57d23db64d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/10\/34-35.1791950580563.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "sigira"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni ... ye"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "a bashɛmaw"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "u ye ... su"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a (Yehu)"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ye masa yɔrɔ bɔ"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a la"
+    }
+  ],
+  "timestamp": "2026-10-14T04:03:00.563833169Z",
+  "model": "glm-5.3"
+}

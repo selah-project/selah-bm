@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 15:22",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "masabaya",
+      "rationale": "סוד is a close council\/deliberate session; 'masabaya' keeps the deliberation sense, not 'secret'."
+    },
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "סוד elsewhere carries the intimate-council\/secret sense; here it is the counsellors' circle."
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Hebrew verb תקום has singular subject 'thoughts' (feminine plural); Bambara requires the pronoun u."
+    }
+  ],
+  "translation": "Sɛbɛnw bɛ sanbaliya ni masabaya tɛ yen, nka ni masabagaw caman ye, u bɛ jɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "10d741359f5567c10274222739567fd7c55a943430016e07bfc5ad6b88103e71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/15\/21-24.1791942549425.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפר",
+      "gloss": "sanbaliya"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "sɛbɛnw"
+    },
+    {
+      "surface": "באין",
+      "gloss": "ni … tɛ yen"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "masabaya"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ni camaya ye"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "masabagaw"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "u bɛ jɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:49:09.426244588Z",
+  "model": "glm-5.3"
+}

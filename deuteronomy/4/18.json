@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bɔgɔbɔgɔli",
+      "rationale": "רמש is a participle 'the-one-that-creeps', rendered as a noun class 'creeping things' since Bambara needs a noun here."
+    },
+    {
+      "kind": "addition",
+      "subject": "kan",
+      "rationale": "Bambara locative postposition added for באדמה; Hebrew preposition ב carried by it."
+    }
+  ],
+  "translation": "cogoya bɔgɔbɔgɔli bɛɛ min bɛ taamini dugukolo kan, cogoya jɛgɛ bɛɛ min bɛ ji kɔnɔ, dugukolo jukɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2ac6ebff37a0f5d99d6e6182659f48e1e45c94f6f805b2d564e0f8cd1578e6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/4\/17-20.1791927623513.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "cogoya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "bɔgɔbɔgɔli"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "dugukolo kan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "cogoya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "jɛgɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ji kɔnɔ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "jukɔrɔ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-13T21:40:23.514952568Z",
+  "model": "glm-5.3"
+}

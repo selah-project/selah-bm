@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ברגליו",
+      "rationale": "Heburukan fɔ ko 'a senw fɛ' — a kɔrɔ ye 'u bɛ tugu a kɔ' ye; Bamanankan 'a senfɛ' bɛ o cogo jira"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pilegesw",
+      "rationale": "פילגש — Heburu daɲɛ taamasiyɛnnen; ɲɛfɔli-faralen: so-musow minnu bɛ so tila-fɔli la"
+    }
+  ],
+  "translation": "Masakɛ boli taa, a ka so bɛɛ bɛ a senfɛ; masakɛ y'a bila: ⟨את⟩ musow tan, pilegesw (so-musow minnu bɛ so tila-fɔli la), minnu ka so mara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/15\/13-16.1791931282152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "boli taa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani ... bɛɛ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a ka so"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "a senfɛ"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "y'a bila"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musow tan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tan"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "musow"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "pilegesw"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ka mara"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-10-13T22:41:22.163665756Z",
+  "model": "glm-5.3"
+}

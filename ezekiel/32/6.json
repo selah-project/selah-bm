@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 32:6",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dugukolo min bɛ i ka jikilili kɔnɔ",
+      "rationale": "צפתך 'your inundation\/flowing': KJV 'wherein thou swimmest' (from צוף to swim); YLT 'thy flowing'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ji-siraw",
+      "rationale": "ואפקים are stream-beds\/watercourses, not perennial rivers."
+    }
+  ],
+  "translation": "N bɛna dugukolo min bɛ i ka jikilili kɔnɔ, min di ni i ka joli ye, kosɔbɛ hali kuluw ma; ji-siraw bɛna i la fɛn fa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e5633830e5fc24685ae250da5e045fbf1822becc8f2c9ad347a3d517e7741ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/32\/5-8.1791937493951.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשקיתי",
+      "gloss": "n bɛna … min di"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "צפתך",
+      "gloss": "i ka jikilili"
+    },
+    {
+      "surface": "מדמך",
+      "gloss": "i ka joli ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hali … ma"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "kuluw"
+    },
+    {
+      "surface": "ואפקים",
+      "gloss": "ji-siraw"
+    },
+    {
+      "surface": "ימלאון",
+      "gloss": "bɛna … fa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "i la fɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T00:24:53.952545410Z",
+  "model": "glm-5.3"
+}

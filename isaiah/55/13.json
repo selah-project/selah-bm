@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 55:13",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברוש",
+      "rationale": "Cypress vs fir tree — tree identification uncertain; beroshi transliterated with jiri."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hunyajiri",
+      "rationale": "סרפד nettle rendered as 'stinging tree', a descriptive coinage; no standard Bambara word."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o ye⟩",
+      "rationale": "Bambara needs the pronoun copula 'it is' before 'for a name'; Hebrew והיה carries it."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלה ... יעלה",
+      "rationale": "Repetition of 'shall come up' in parallel halves — rhetorical echo kept by repeating bɛna wuli."
+    }
+  ],
+  "translation": "Kɔgɔjiri nɔ na, beroshi jiri bɛna wuli; hunyajiri nɔ na, hadasa jiri bɛna wuli; o bɛna kɛ Yawe ye ⟨o ye⟩ tɔgɔ ye, taamasiyɛn roboroya ye, o tɛna ge.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e6052375b8369706000f17193e587bfbc1889eb7f6039818c8513d77b0828ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/55\/13-13.1791934511026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "nɔ na"
+    },
+    {
+      "surface": "הנעצוץ",
+      "gloss": "kɔgɔjiri"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bɛna wuli"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "beroshi jiri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nɔ na"
+    },
+    {
+      "surface": "הסרפד",
+      "gloss": "hunyajiri"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bɛna wuli"
+    },
+    {
+      "surface": "הדס",
+      "gloss": "hadasa jiri"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "o bɛna kɛ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ye"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "tɔgɔ ye"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "taamasiyɛn"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "roboroya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "bɛna ge"
+    }
+  ],
+  "timestamp": "2026-10-13T23:35:11.027701648Z",
+  "model": "glm-5.3"
+}

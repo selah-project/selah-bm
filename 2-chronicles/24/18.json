@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jɔgɔw",
+      "rationale": "עצבים 'carved images' rendered with Bambara jɔgɔw (idol-images)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באשמתם זאת",
+      "rationale": "Hebrew puts 'this their guilt' last for emphasis; word order shifted in Bambara"
+    }
+  ],
+  "translation": "U ye Yawe, u bobaw Ala Elohim ka so bila, ka kɛ Asheraw (Asheraw) ni ⟨את⟩ jɔgɔw (jɔgɔw) laselitigiw ye; kɔrɔko kunbila Yuda (Yuda) ni Yerushalayim (Yerushalayim) kan, u jurumu ninnu ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e5a76f2b82749c94eb134694161ca357e1c0bc5474cbdc5c001fda036d47fe69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/24\/17-20.1791949449136.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "u ye … bila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ka so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "u bobaw"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "u ye laseli kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asheraw"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asheraw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jɔgɔw"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "jɔgɔw"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kunbila"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kɔrɔko"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "u jurumu ninnu la"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin"
+    }
+  ],
+  "timestamp": "2026-10-14T03:44:09.137448920Z",
+  "model": "glm-5.3"
+}

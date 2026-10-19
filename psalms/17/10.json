@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלבמו",
+      "rationale": "חלב kɔrɔ fɔlɔ ye 'sɛgɛ' ye (dunɔ sɛgɛ, bɔnba fɛn); JPS b'a fɔ 'u dusukun ye' — hakili bɛ sɛgɛ fɛ Bamanankan na, nka sɛbɛnni kɔrɔ ye sɛgɛ ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "u ka da nu",
+      "rationale": "פה plural daɲɛmɔgɔw kɔrɔ — 'da' kelen-kelen bɛ se ka to, nka 'da nu' jira plural cogo"
+    }
+  ],
+  "translation": "U ka sɛgɛ ye u bila: u ka da nu bɛ kuma ni yaŋayiya ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/17\/9-12.1791939725314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "u ka sɛgɛ"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "u bila"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "u ka da nu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "bɛ kuma"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ni yaŋayiya ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:05.315548597Z",
+  "model": "glm-5.3"
+}

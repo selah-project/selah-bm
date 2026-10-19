@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 48:6",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "hear, see",
+      "rationale": "imperatives summon the addressee to attend"
+    },
+    {
+      "kind": "secret",
+      "subject": "ונצרות",
+      "rationale": "things guarded\/hidden, unknown to the hearer"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jira\/fɔ",
+      "rationale": "תגידו rendered 'declare\/acknowledge'; nagad's 'front\/stand opposite' sense lost"
+    }
+  ],
+  "translation": "I y'a mɛn; ye ⟨bɛɛ⟩ ye; aw fana, yala aw tɛna a fɔ wa? Sisan feere, n b'i to mɛn kuraw, ani dogolenw minnu ma i dɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8b6113ccaf0aac0671ffce9bd14cd038c81859b948a1c859f31ab10162d7ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/48\/5-8.1791934418082.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "i y'a mɛn"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ye ⟨bɛɛ⟩ ye"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "aw fana"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "yala … wa"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "aw tɛna a fɔ"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "n b'i to mɛn"
+    },
+    {
+      "surface": "חדשות",
+      "gloss": "kuraw"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "sisan feere"
+    },
+    {
+      "surface": "ונצרות",
+      "gloss": "ani dogolenw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "minnu ma"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "i dɔn"
+    }
+  ],
+  "timestamp": "2026-10-13T23:33:38.084009879Z",
+  "model": "glm-5.3"
+}

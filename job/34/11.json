@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 34:11",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Subject pronoun for ישלם supplied; Hebrew leaves it implicit (God)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם \/ איש",
+      "rationale": "Parallelism pairs 'adam-kind' and 'ish' (man) in the two halves; both rendered hadamaden\/mɔgɔ to keep the pairing."
+    }
+  ],
+  "translation": "Sabu hadamaden ka baara, ⟨a⟩ b'o laso ⟨a⟩ ma, ani a bɛ mɔgɔ fo a ka sira sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3ffb375b8b937087dca96c982a7456ed856af0c4bcf2792f26d1c4f6c82c5b6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/34\/9-12.1791944219456.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "baara"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "b'o laso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "וכארח",
+      "gloss": "ani a ka sira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "fo a sɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:16:59.458112252Z",
+  "model": "glm-5.3"
+}

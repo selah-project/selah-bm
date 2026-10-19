@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Tun",
+      "rationale": "Bambara past marker required; Hebrew verb has no tense word"
+    },
+    {
+      "kind": "you",
+      "subject": "to Nebuchadnezzar the king",
+      "rationale": "the narrative frames the fulfillment of the dream-decree against the named king"
+    }
+  ],
+  "translation": "O bɛɛ Tun na Nebukadnetsar masakɛ (Nabukodonosɔr) la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9badc238cb2b893dbecbe21cfa65c9cad05f21409d89d8c63b6d99029dce2b7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/4\/25-28.1791945808028.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "O bɛɛ"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "Tun na"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "masakɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:43:28.028909567Z",
+  "model": "glm-5.3"
+}

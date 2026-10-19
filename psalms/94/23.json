@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצמיתם יצמיתם",
+      "rationale": "Daɲɛ in dasira siran kɔnɔ — a laseli kelen kɔ, a tumadɔ kɔ; Bamanankan mara a ni dasira ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "juguya",
+      "rationale": "און kɔrɔfɔ dɔ ye 'fɔli-mamalen' (nothingness) ye; 'juguya' dɔgɔya a ka seko bɛɛ"
+    }
+  ],
+  "translation": "A bɛ ⟨את⟩ u ka juguya lase u ma, ka u ban u ka juguya la; Yawe, Ala ne ka, bɛna u ban.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0f15ef12c275c81bdcb9a43b9ac6e3af98f1cdd262cee3fd259d75ed0ba68830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/94\/21-23.1791941058984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a bɛ … lase"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka juguya (אונם)"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "u ka juguya"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "u ka juguya la"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "ka u ban"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "bɛna u ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Ala ne ka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:18.985121052Z",
+  "model": "glm-5.3"
+}

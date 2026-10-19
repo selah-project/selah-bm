@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדים \/ שדי",
+      "rationale": "shedim (jinɛw) tanu tɔgɔ Shaday (Sebaayabɛɛtigi) la; jɔya in bɛn Bamanankan na tɛ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jinɛw",
+      "rationale": "לשדים kɔrɔ ye mɔgɔ mara jɛgunw ye; Bamanankan 'jinɛ' ye o ka kan dantigɛli ye."
+    }
+  ],
+  "translation": "U ye ⟨את⟩ u ka denkɛw ni ⟨את⟩ u ka denmusow saraka da jinɛw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/106\/37-40.1791941317125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "u ye … saraka da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka denkɛw"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "u ka denkɛw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u ka denmusow"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "u ka denmusow"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "jinɛw ma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:28:37.125599327Z",
+  "model": "glm-5.3"
+}

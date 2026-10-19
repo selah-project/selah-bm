@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ye a yɛrɛ bɔ",
+      "rationale": "פשע 'break away from just authority' rendered as 'withdrew itself from'"
+    }
+  ],
+  "translation": "Moab ye a yɛrɛ bɔ Israyɛl la Ahabi (Ahab) saya kɔfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d4da3ecf09d8dbc7bdf118ca2bc3fa1fec0e9896447a31ce38e7567052c5a331",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/1\/1-4.1791932588170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "ye a yɛrɛ bɔ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israyɛl la"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "saya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi (Ahab)"
+    }
+  ],
+  "timestamp": "2026-10-13T23:03:08.183514580Z",
+  "model": "glm-5.3"
+}

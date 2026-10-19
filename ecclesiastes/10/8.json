@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גֻּמָּץ",
+      "rationale": "this word for pit occurs only here in the Tanakh"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɛna bɔ",
+      "rationale": "יִפּוֹל is 'will fall'; 'bɔ' (come out of \/ drop out of) used because Bamanankan 'fall into' takes the source construction 'bɔ … kɔnɔ'"
+    }
+  ],
+  "translation": "Min bɛ daŋ bɔ, o bɛna bɔ a kɔnɔ; min bɛ gaye tigɛ, sa bɛna o tu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0588a275be6adbfa70bbf9af9e0fa67a7805a40dccd6d1d0f66351098406449c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/10\/5-8.1791945256531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "min bɛ … bɔ"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "daŋ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a kɔnɔ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "bɛna bɔ"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "min bɛ … tigɛ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "gaye"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "bɛ tu"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "sa"
+    }
+  ],
+  "timestamp": "2026-10-14T02:34:16.532737850Z",
+  "model": "glm-5.3"
+}

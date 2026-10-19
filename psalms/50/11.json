@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "foro niw",
+      "rationale": "זיז ye daɲɛ dɔgɔnnen ye — 'ni filɛ-filɛla' (moving creature); 'foro niw' dɔgɔyalen don"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ne bolo",
+      "rationale": "עמדı 'ne ye' (with me) → 'ne bolo' (n ta) i n'a fɔ seerew da fɔ cogo min na"
+    }
+  ],
+  "translation": "Ne dɔn kɔnɔ bɛɛ min bɛ kulow kan, ani foro niw bɛ ne bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/50\/9-12.1791940256062.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ne dɔn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kulow kan"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ani foro niw"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "foro"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ne bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:56.063916097Z",
+  "model": "glm-5.3"
+}

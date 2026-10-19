@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהולל אקרא יהוה",
+      "rationale": "'The-Praised-One I call, YHWH' (JPS) vs 'I call upon YHWH who is worthy to be praised' (KJV); Bambara follows the first"
+    },
+    {
+      "kind": "invitation",
+      "subject": "wele",
+      "rationale": "the verse enacts the call to Yawe as model invocation"
+    }
+  ],
+  "translation": "Min bɛ duba sɔrɔ, nin ye Yawe ye; n bɛ o wele, ani n datugulenw bolo ma n bɛn ka bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/1-4.1791939773521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "min bɛ duba sɔrɔ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "n bɛ ... wele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "... bolo ma"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "n datugulenw"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "n bɛn ka bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:53.522531060Z",
+  "model": "glm-5.3"
+}

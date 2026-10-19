@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כילי",
+      "rationale": "Rare word: 'miser\/niggard' vs some read 'churl' — here kisɛbolikɛla, the one who pinches the seed."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara predicative marker supplied; Hebrew has no copula."
+    },
+    {
+      "kind": "elision",
+      "subject": "לְ",
+      "rationale": "Hebrew preposition 'to' before נבל absorbed into Bambara object structure."
+    }
+  ],
+  "translation": "Mɔgɔ bubu tɛna wele kɛ kokura di-tigi ye; kisɛbolikɛla ma, seba-tigi tɛna fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "53d23cbd994253d13f78c38678c077e527f1ab8c0ae2b2241a0adedc88dff514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/32\/5-8.1791934058870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "wele-kɛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kokura"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "mɔgɔ-bubu"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "di-tigi"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "kisɛbolikɛla-ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "seba-tigi"
+    }
+  ],
+  "timestamp": "2026-10-13T23:27:38.872686323Z",
+  "model": "glm-5.3"
+}

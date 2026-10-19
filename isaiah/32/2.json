@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 32:2",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בציון",
+      "rationale": "Here ציון is a dry place (from ציה), not Zion the city — most versions render 'dry place'; some read 'Zion'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "girin",
+      "rationale": "כבד literally 'heavy'; rendered as 'girin' (weighty\/great) for the rock"
+    },
+    {
+      "kind": "elision",
+      "subject": "i n'a fɔ",
+      "rationale": "the כ comparison prefix needs a Bamanankan simile phrase not present in Hebrew"
+    }
+  ],
+  "translation": "Mɔgɔ bɛna kɛ fiɲɛ dogoyɔrɔ ye, ani ji wuli dogoyɔrɔ ye; i n'a fɔ ji-jɔsiraw ye kunu-yɔrɔ la, i n'a fɔ girin kabakurun ɲɛma ye lasara dugukolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "05fcd370f2b52b8a124c7aa18890659c4680642e1a15d7bf4beb4076bdae0ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/32\/1-4.1791934051277.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "כמחבא",
+      "gloss": "i n'a fɔ fiɲɛ dogoyɔrɔ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "וסתר",
+      "gloss": "ani dogoyɔrɔ"
+    },
+    {
+      "surface": "זרם",
+      "gloss": "ji wuli"
+    },
+    {
+      "surface": "כפלגי",
+      "gloss": "i n'a fɔ ji-jɔsiraw"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "kunu-yɔrɔ la"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "i n'a fɔ ... ɲɛma"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "kabakurun"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "girin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "lasara"
+    }
+  ],
+  "timestamp": "2026-10-13T23:27:31.281103114Z",
+  "model": "glm-5.3"
+}

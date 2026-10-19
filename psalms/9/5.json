@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשית משפטי",
+      "rationale": "'kɛ' (did\/made) jɛlen; Tubabukan kanw bɛ 'maintained\/upheld' fɔ — Heburukan bɛ fɔ 'i ye ne ka sariya kɛ'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדק",
+      "rationale": "צדק kɔrɔ ka jabɔ 'tiɲɛ' kɔrɔfɛ — a ye 'right-righteousness' ye, 'holy' tɛ o ye."
+    }
+  ],
+  "translation": "Sabu i ye ne ka sariya ani ne ka jate kɛ, i sigira kisɛ la, i ye tiɲɛ sariya-fɔtɔ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/9\/5-8.1791939628135.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ne-ka-sariya"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "ani-ne-ka-jate"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "sigira"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "kisɛ-la"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "sariya-fɔtɔ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tiɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:28.136097048Z",
+  "model": "glm-5.3"
+}

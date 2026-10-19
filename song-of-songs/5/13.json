@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 5:13",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מגדלות",
+      "rationale": "'Towers of perfumes' (megadlot) vs KJV's 'sweet flowers' (read as מגדלות from נגד); JPS 'banks of sweet herbs'; literal 'towers\/raised beds' kept."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מור עובר",
+      "rationale": "'Myrrh that passes\/flows' — mor echoes the root of 'distilling'; the dripping-motion pun is lost."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mor",
+      "rationale": "מור (myrrh, a bitter gum resin) kept as transliteration; no Bamanankan perfume-word matches its resin-distilling sense."
+    }
+  ],
+  "translation": "A ɲɛdaw ye nakɔ-yɔrɔw ye minnu bɛ ni nɔnabolo-finw ye, minnu jɔra i n'a fɔ jɔnbaw ye; a da-nɔgɔnw ye susunw ye, minnu bɛ mor tigɛ ka taa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/5\/13-16.1791944565095.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחיו",
+      "gloss": "a ɲɛdaw"
+    },
+    {
+      "surface": "כערוגת",
+      "gloss": "i n'a fɔ nakɔ-yɔrɔ"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "nɔnabolo"
+    },
+    {
+      "surface": "מגדלות",
+      "gloss": "jɔnbaw"
+    },
+    {
+      "surface": "מרקחים",
+      "gloss": "finw"
+    },
+    {
+      "surface": "שפתותיו",
+      "gloss": "a da-nɔgɔnw"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "susunw"
+    },
+    {
+      "surface": "נטפות",
+      "gloss": "minnu bɛ tigɛ"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mor"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ka taa"
+    }
+  ],
+  "timestamp": "2026-10-14T02:22:45.095841337Z",
+  "model": "glm-5.3"
+}

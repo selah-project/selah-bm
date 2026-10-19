@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 27:20",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חרי",
+      "rationale": "חֹרִי 'nobles\/freeborn' appears only here in the Tanakh; rendered ɲɛfanabaw ('honored ones')"
+    },
+    {
+      "kind": "addition",
+      "subject": "Minnu min ta tɛ",
+      "rationale": "Relative clause head repeated at the front for readability; Hebrew fronts אשר לא לקחם only"
+    }
+  ],
+  "translation": "Minnu min ta tɛ — minnu min ta Nebukadnetsar (Nebukɔnɛzɛr), Babilen masakɛ, ta tɛ a ka falili waati na, a y'a falen ⟨את⟩ Yekonayah, Yehoyakim denkɛ, Yehuda masakɛ, Yerushalayim kɔnɔ b'o taa Babilen, ni ⟨ואת⟩ Yehuda ɲɛfanabaw bɛɛ ani Yerushalayim ɲɛfanabaw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5be01117f3073b00fe12666d113c7d51725eab4bb7794bda23ca90e1bdf629ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/27\/17-20.1791935794383.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "minnu min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "לקחם",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilen"
+    },
+    {
+      "surface": "בגלותו",
+      "gloss": "a ka falili waati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekonayah"
+    },
+    {
+      "surface": "יכוניה",
+      "gloss": "Yekonayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalayim kɔnɔ"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda ɲɛfanabaw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ɲɛfanabaw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ani Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-13T23:56:34.385494668Z",
+  "model": "glm-5.3"
+}

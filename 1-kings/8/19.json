@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 8:19",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɔrɔ",
+      "rationale": "חלצים 'loins' rendered 'kɔrɔ' (back\/loins); Bambara lacks a distinct everyday 'loins' word."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Fixed pair 'but\/rather' folded into single 'nka'; אם empty."
+    }
+  ],
+  "translation": "Nka i yɛrɛ, i tɛna so da; nka i denkɛ min bɛna bɔ i kɔrɔ la, o de na so da n tɔgɔ ye kama.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/17-20.1791932007000.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "nka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i yɛrɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "na … da"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nka"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בנך",
+      "gloss": "i denkɛ"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "min bɛna bɔ"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "i kɔrɔ la"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o de"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "na … da"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "n tɔgɔ ye kama"
+    }
+  ],
+  "timestamp": "2026-10-13T22:53:27.008132068Z",
+  "model": "glm-5.3"
+}

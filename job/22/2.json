@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יסכן",
+      "rationale": "'be profitable\/useful' vs 'be familiar\/minister to'; KJV takes it as profit, some take as intimate service"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עלימו",
+      "rationale": "'upon him' i.e. to God (KJV reads 'to himself' repointing עלימו as עָלָיו); Hebrew as written says 'upon Him'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "El",
+      "rationale": "הלאל is 'the El' (God), not just 'God' as a common noun; the name-shape kept"
+    }
+  ],
+  "translation": "Yala gbɛrɛ bɛ se ka kɛ nafa ye El ye, wa ni mɔgɔ don-dɔnnin bɛ nafa sɔrɔ ⟨a yɛrɛ la⟩?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8fc5ab1d839753eca683b85835ee639ebad44e799dfc2355db64e85071ff0917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/22\/1-4.1791943828264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "bɛ se ka kɛ nafa ye"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gbɛrɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wa ni"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "bɛ nafa sɔrɔ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "⟨a yɛrɛ la⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mɔgɔ don-dɔnnin"
+    }
+  ],
+  "timestamp": "2026-10-14T02:10:28.267873039Z",
+  "model": "glm-5.3"
+}

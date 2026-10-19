@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tu",
+      "rationale": "נגח ka kɔrɔ tiɲɛna ye misi ka jɛ (to butt); 'tu' ye nɔgɔyali ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "Kumasen fila bɛ ɲɔgɔn lamini: bolo \/ tɔgɔ, tu \/ jamin — Bamanankan b'a mara"
+    }
+  ],
+  "translation": "Ni i ye, an bɛ an ka kɛlɛtigiw tu; ni i tɔgɔ ye, an bɛ minnu bɛ an ganmin, an bɛ u jamin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/44\/5-8.1791940202136.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "ni i ye"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "an ka kɛlɛtigiw"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "an bɛ … tu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ni i tɔgɔ ye"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "an bɛ … jamin"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "minnu bɛ an ganmin"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:02.136843499Z",
+  "model": "glm-5.3"
+}

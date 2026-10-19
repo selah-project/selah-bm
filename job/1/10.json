@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "question frame",
+      "rationale": "Hebrew הלא is a negative rhetorical particle; Bambara question frame supplied to carry the force."
+    },
+    {
+      "kind": "substitution",
+      "subject": "misiw",
+      "gloss": "lit. 'cattle\/livestock' for מקנהו, all his livestock-property"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Satana continues direct address to Yawe."
+    }
+  ],
+  "translation": "Yala i ma gɛ bila a ni a so ni fɛn bɛɛ min b'a bolo la a ntigamɛ n'a ye wa? I ye a bolow baara duba, a misiw pante ka bon dugukolo kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ea32cd530acba48f467ef0870a98f300b95b89696464165dc7cdc5f14e52e458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/1\/9-12.1791943172936.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "yala … n'a ye wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "i"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "gɛ bila"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "a ntigamɛ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a so"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fɛn bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לו",
+      "gloss": "b'a bolo la"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "a ntigamɛ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "a bolow"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "duba"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "a misiw"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "pante ka bon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:59:32.937801036Z",
+  "model": "glm-5.3"
+}

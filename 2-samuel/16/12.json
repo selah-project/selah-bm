@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 16:12",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעוני",
+      "rationale": "'Yawe will look on my affliction' (KJV\/BSB) vs 'the wrong done unto me' (ASV) vs idiom 'look on mine eye' (JPS); rendered as my suffering."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨diɲɛ⟩",
+      "rationale": "Bamanankan needs a noun where Hebrew uses the adjective טובה as a noun 'good'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה … יהוה",
+      "rationale": "The doubled Name frames the verse: Yawe sees, Yawe repays — kept as two occurrences."
+    }
+  ],
+  "translation": "Yalen don, Yawe bɛ ne ka don-juguya ye, ani Yawe bɛ ne ye diɲɛ diya segin, o bɛnna a ka danga ma don nin na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3377ac7a48fb82a6df0e977ae2adfbfab6f8fdf4d47da93b36631a87c1fda9c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/16\/12-12.1791950383681.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "yalen don"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bɛ … ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "ne ka don-juguya"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ani … bɛ … segin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "diɲɛ diya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bɛnna"
+    },
+    {
+      "surface": "קללתו",
+      "gloss": "a ka danga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin na"
+    }
+  ],
+  "timestamp": "2026-10-14T03:59:43.681634639Z",
+  "model": "glm-5.3"
+}

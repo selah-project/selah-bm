@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kalanni-sebɛn",
+      "rationale": "משכיל ye kalan-sebɛn dɔ tɔgɔ ye min bɛ kalanni di; 'masikili' fana bɛ se ka kɛ tɔgɔ ye"
+    }
+  ],
+  "translation": "Ɲɛmɔgɔ ma; Korach denw fɛ; kalanni-sebɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/44\/1-4.1791940277452.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ɲɛmɔgɔ ma"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denw fɛ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kalanni-sebɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:11:17.452986202Z",
+  "model": "glm-5.3"
+}

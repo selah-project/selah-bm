@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "למעני למעני",
+      "rationale": "doubled 'for my own sake' — repetition kept verbatim"
+    },
+    {
+      "kind": "elision",
+      "subject": "tɔgɔ",
+      "rationale": "Hebrew יחל has no explicit subject; 'n tɔgɔ' supplied from context (KJV adds 'my name')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jɛ",
+      "rationale": "חלל literally 'bore\/pierce\/wound', profane by extension"
+    }
+  ],
+  "translation": "N yɛrɛ kama, n yɛrɛ kama, n bɛ a kɛ; sabu n tɔgɔ bɛ se ka jɛ cogo di? N' i jɛya, n tɛ n nya di mɔgɔ wɛrɛ ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/48\/9-12.1791934396844.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "n yɛrɛ kama"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "n yɛrɛ kama"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "n bɛ a kɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "איך",
+      "gloss": "cogo di"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "bɛ se ka jɛ"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ani n nya"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "mɔgɔ wɛrɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n tɛ … di"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "di"
+    }
+  ],
+  "timestamp": "2026-10-13T23:33:16.845836620Z",
+  "model": "glm-5.3"
+}

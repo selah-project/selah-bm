@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kanya",
+      "rationale": "אבושה lit. 'to pale, be ashamed'; Bambara 'kanya' covers the public-disgrace sense."
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Direct second-person address to Yawe begins here and runs through v4."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ne dogotora i la",
+      "rationale": "The psalm opens the psalmist's plea that draws the hearer into trust."
+    }
+  ],
+  "translation": "Ne dogotora i la, Yawe; ne kana kanya dɔɔni tɛmɛsira bɛɛ; i keneya la, aw ne bɔ ne bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/31\/1-4.1791939918507.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ne dogotora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "kanya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tɛmɛsira bɛɛ"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "i keneya la"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "aw ne bɔ ne bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:18.508166061Z",
+  "model": "glm-5.3"
+}

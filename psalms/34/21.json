@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a ka⟩",
+      "rationale": "Hebrew suffix on עצמותיו requires the possessive in Bambara"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kelen si tɛ bugɔ",
+      "rationale": "counting: not one bone — totalizing count of bones kept"
+    }
+  ],
+  "translation": "A bɛ ⟨a ka⟩ kolow bɛɛ mara: olu kelen si tɛ bugɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d36f55ed0d71b2f1a8e2e25a2781e79b4d6736842c3e68296853adf2636c3455",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/34\/21-23.1791939946083.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "mara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "kolow"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "bugɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:46.083620465Z",
+  "model": "glm-5.3"
+}

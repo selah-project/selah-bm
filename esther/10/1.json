@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וְאִיֵּי הַיָּם",
+      "rationale": "'ji ka duguw' (mɔgɔw ka yɔrɔ minnu bɛ kɔgɔji kɔnɔ) ye ואיי הים ka gafɛ fasiri ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "taasi",
+      "rationale": "מַס kɔrɔ ye lasara ye min bɛ mɔgɔw kɛ ka baara kɛ a la — 'taasi' dɔgɔya o lasara-kɔrɔ ye"
+    }
+  ],
+  "translation": "Masakɛ Achashwerosh (Asuwerusi) ye taasi da dugukolo kan, ani kɔgɔji duguw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "29b796585a0543d16a5c2b1a9929059f852632dde09f023113bf3667d50739a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/10\/1-3.1791945589993.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ye … da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashwerosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "taasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "ani … duguw"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    }
+  ],
+  "timestamp": "2026-10-14T02:39:49.994342224Z",
+  "model": "glm-5.3"
+}

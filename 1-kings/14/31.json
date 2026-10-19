@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 14:31",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישכב עם אבתיו",
+      "rationale": "'He lay with his fathers' = he died; rendered 'nana a faamaw la' with ⟨a sa⟩ supplied so the sense is not lost."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עם",
+      "gloss": "Bambara 'ni' renders 'with', but the Hebrew idiom means burial alongside, not accompaniment."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ושם אמו",
+      "rationale": "Mother's name in the king-formula — the royal ledger records the queen mother's identity."
+    }
+  ],
+  "translation": "Rɛhabam nana a faamaw la ⟨a sa⟩, a jirala a faamaw ni Dawid (Dawuda) dugu kɔnɔ. A bamuso tɔgɔ ye Naama (Naama) Amonmuso ye. A denkɛ Abiyam (Abiya) y'a nɔ na kɛ masakɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0c8b3b0b702a1b6d6330ab890d090ec69e5c9b2ba6887030afeb04a07381644f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/14\/29-31.1791932218526.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nana … la ⟨a sa⟩"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rɛhabam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "a faamaw"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a jirala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "a faamaw"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dugu kɔnɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "a bamuso"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "Naama"
+    },
+    {
+      "surface": "העמנית",
+      "gloss": "Amonmuso"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "y'a nɔ na kɛ masakɛ ye"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Abiyam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a nɔ na"
+    }
+  ],
+  "timestamp": "2026-10-13T22:56:58.531692824Z",
+  "model": "glm-5.3"
+}

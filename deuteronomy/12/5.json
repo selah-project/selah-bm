@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 12:5",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Hebrew double particle 'for if\/but rather' rendered as one Bambara connector 'nka'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשכנו תדרשו",
+      "rationale": "'his habitation you shall seek' vs 'you shall seek it (the place)'; verbs disagree in object — KJV 'his habitation', JPS 'unto His habitation'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "second-person plural address throughout — Moses speaking to the assembled tribes"
+    }
+  ],
+  "translation": "Nka aw ye, aw bɛna taa yɔrɔ min na — min na Yawe aw ka Elohim bɛna a suganti aw ka kabilaw bɛɛ la — walasa k'⟨את⟩ a tɔgɔ bila yen; aw ka ɲini a ka sigiyɔrɔ, aw bɛna na yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8b1576c0c9c1e99dbdfd65321bb2c882f32a04cb67ed8e102174a5f7148a1b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/12\/5-6.1791950061254.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "aw ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "taa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yɔrɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min na"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "bɛna a suganti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "aw ka Elohim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "aw ka kabilaw"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "walasa ka bila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tɔgɔ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a tɔgɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "לשכנו",
+      "gloss": "a ka sigiyɔrɔ"
+    },
+    {
+      "surface": "תדרשו",
+      "gloss": "aw ka ɲini"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "aw bɛna na"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "yen"
+    }
+  ],
+  "timestamp": "2026-10-14T03:54:21.255094199Z",
+  "model": "glm-5.3"
+}

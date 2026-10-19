@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "la",
+      "rationale": "Hebrew prefixed לְ (belonging to the father-house) rendered with Bambara possessive postposition"
+    },
+    {
+      "kind": "elision",
+      "subject": "לְ prefix",
+      "rationale": "the repeated lamed of the genealogy list is folded into 'la', not rendered separately each time"
+    }
+  ],
+  "translation": "Ezra (jamuden) la, Meshulam; Amarya la, Yehohanan;",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d40271501da3125583b8769e354a8ed15bd75f8c0190256deaad5e76e39d0d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/12\/13-16.1791947211362.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshulam"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "Amarya"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Yehohanan"
+    }
+  ],
+  "timestamp": "2026-10-14T03:06:51.362563321Z",
+  "model": "glm-5.3"
+}

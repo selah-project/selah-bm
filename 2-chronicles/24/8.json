@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויאמר",
+      "rationale": "'And the king said' functions as a command; rendered masa ka kuma nɔ na (at the king's word)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "אחד",
+      "rationale": "One chest — the count is specified and kept."
+    }
+  ],
+  "translation": "Masa ka kuma nɔ na, u ye sandugu kelen dilan, ka bila Yawe so da la, jaw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4865c8f31af270c43530fd353ea649851153f320a1f1de8b3afedcd87abd2120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/24\/5-8.1791949481190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka kuma nɔ na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "u ye … dilan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandugu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ka bila"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "da la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "jaw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:44:41.192268874Z",
+  "model": "glm-5.3"
+}

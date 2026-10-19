@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רעיך",
+      "rationale": "kɔrɔ ye 'i ka farafinw \/ i ka bɛnkanbagaw ye'; ɲɛmɔgɔw ta ye dɔgɔya dɔ ye."
+    },
+    {
+      "kind": "you",
+      "subject": "Iyubu",
+      "rationale": "Elihu bɛ da Iyubu kan."
+    }
+  ],
+  "translation": "Ne bɛ kumaw lase i ma, ani ⟨את⟩ i ka ɲɛmɔgɔw minnu bɛ i la na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e04816e5d1a8957923456f5248ca98dffef2dba5d3f6ce0ef87a2b9cbcfb6711",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/35\/1-4.1791944155366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "bɛ kumaw lase i ma"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i ka ɲɛmɔgɔw"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "i ka ɲɛmɔgɔw"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i la na"
+    }
+  ],
+  "timestamp": "2026-10-14T02:15:55.374721627Z",
+  "model": "glm-5.3"
+}

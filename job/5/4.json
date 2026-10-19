@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 5:4",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨duga⟩",
+      "rationale": "בשער is the city-gate court; Bambara needs 'duga' to carry the legal setting"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בשער",
+      "rationale": "gate = place of judgment, rendered as the town gate court"
+    }
+  ],
+  "translation": "A denw bɛ laseli la yɔrɔ jan, u bɛ bɔn ⟨duga⟩ da la, mɔgɔ si tɛ bɛ se ka u laseli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "818959b0fefbe470fa0a0a653079fc1c58d285d3994a77ac701c71d11b28f2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/5\/1-4.1791943416112.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירחקו",
+      "gloss": "bɛ … yɔrɔ jan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "A denw"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "laseli"
+    },
+    {
+      "surface": "וידכאו",
+      "gloss": "u bɛ bɔn"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "⟨duga⟩ da la"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mɔgɔ si tɛ"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ka u laseli"
+    }
+  ],
+  "timestamp": "2026-10-14T02:03:36.114176342Z",
+  "model": "glm-5.3"
+}

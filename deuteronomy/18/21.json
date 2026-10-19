@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "an",
+      "rationale": "Hebrew uses 'we know' (נדע) — Bamanankan requires the pronoun an explicitly"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "The verse addresses Israel directly with 'in thine heart', a question spoken to the hearer"
+    },
+    {
+      "kind": "invitation",
+      "subject": "cogo di na",
+      "rationale": "The verse poses the reader's own question — a hook drawing the hearer in"
+    }
+  ],
+  "translation": "Ni i ko i dusukun na: cogo di na an bɛna dɔn ⟨את⟩ kuma min Yawe ma fɔ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2cbf62c68367f8cd75fa413111d666e3bbe6dd9542c03acec4ea1b5ed457463d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/18\/21-22.1791927961311.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "i ko"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "i dusukun na"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "cogo di na"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "an bɛna dɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuma min"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:01.313370022Z",
+  "model": "glm-5.3"
+}

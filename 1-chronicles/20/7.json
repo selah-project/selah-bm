@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחרף",
+      "rationale": "Kuma in kɔrɔ ye 'ka kɔgɔjugu fɔ \/ ka nɔgɔya' ye; sɛbɛnni kɔrɔw bɛ fɔ 'blasfemia' — taasi-daɲɛ de ye fɔcogo min bɛ teli."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויכהו 3ms suffix",
+      "rationale": "Hawɛkɛbaga (Rapa den v6 kɔnɔ) b'a la a yɛrɛ ma; Bamanankan b'a sɔrɔ 'a' fɛ."
+    }
+  ],
+  "translation": "A y⟨את⟩ Izraɛl (Izraɛli) nɔgɔya, Yonatan, Shimea den in, Dawid (Dawuda) balimakɛ, y'a faga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c770582e49c80fa38409a831fff55de1081b0d05c5c41f12cd8872c94bf28740",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/20\/5-8.1791948084043.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "a y'a nɔgɔya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraɛl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraɛl"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "y'a faga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "balimakɛ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-14T03:21:24.045131098Z",
+  "model": "glm-5.3"
+}

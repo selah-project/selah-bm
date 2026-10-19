@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הצלצל",
+      "rationale": "צלצל occurs only here as locust; rendered yerɛgɛ (locust) after JPS\/KJV line"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יירש",
+      "rationale": "verb is 'dispossess\/inherit', rendered 'minɛ' (seize\/take) — possession by driving out"
+    }
+  ],
+  "translation": "Jiriw bɛɛ i ta ni forodenni i dugukolo ta, yerɛgɛ bɛna u minɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2956d3abc210f37e2d164b4fab7e31b71026f51a3d68b732e6893eb3bf862514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/28\/41-44.1791928274137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "jiriw i ta"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ni forodenni"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "i dugukolo ta"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "bɛna … minɛ"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "yerɛgɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:51:14.153366898Z",
+  "model": "glm-5.3"
+}

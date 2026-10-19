@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bambara copula supplied; Hebrew has noun-predicate only (אמונה)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛ",
+      "rationale": "אמונה is 'firmness\/faithfulness' — 'truth' narrows it slightly in Bambara."
+    },
+    {
+      "kind": "you",
+      "subject": "n dɛmɛ",
+      "rationale": "Direct plea addressed to Yawe."
+    }
+  ],
+  "translation": "I ka laseliw bɛɛ ye tiɲɛ ye; u ye n don ni fɔn ye — n dɛmɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/85-88.1791941654789.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "i ka laseliw"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ni fɔn"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "u ye n don"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "n dɛmɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:14.789649951Z",
+  "model": "glm-5.3"
+}

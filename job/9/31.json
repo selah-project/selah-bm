@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 9:31",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ותעבוני",
+      "rationale": "subject ambiguity: 'my garments will abhor me' (Hebrew as written) vs 'thou wilt abhor my garments' (some versions) — kept the garments as subject."
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Job addresses Elohim directly: 'you would plunge me into the pit'."
+    }
+  ],
+  "translation": "o waati, i bɛnna tɔɔmɛ to kɔkɔrɔ kɔnɔ, ani ne ka dɔngɛrɛw bɛ ne yɛrɛ ɲi sin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "677818c64360e2db54f6b20bba5a2a3cbb7f36ece44bf0eb28f62c7c4f3d4907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/9\/29-32.1791943451549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o waati"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "kɔkɔrɔ kɔnɔ"
+    },
+    {
+      "surface": "תטבלני",
+      "gloss": "i bɛnna tɔɔmɛ to"
+    },
+    {
+      "surface": "ותעבוני",
+      "gloss": "bɛ ne yɛrɛ ɲi sin"
+    },
+    {
+      "surface": "שלמותי",
+      "gloss": "ne ka dɔngɛrɛw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:04:11.550726625Z",
+  "model": "glm-5.3"
+}

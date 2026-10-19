@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצודים",
+      "rationale": "word means both 'nets' and 'siege-works\/fastness'; rendered literally 'nets' here"
+    },
+    {
+      "kind": "addition",
+      "subject": "dɔ",
+      "rationale": "indefinite marker supplied, Hebrew has no article either"
+    }
+  ],
+  "translation": "Dugu fitinin dɔ min na mɔgɔ dɔw bɛ; masakɛba dɔ naanina a la, a ye ⟨את⟩ a kalan, a ye jiniw bonba jɔ a kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "48c71b762548b48ddb64f054fbfb93b67febd9eb6ee63540abdc6fb0e58bf4be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/9\/13-16.1791945296849.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "fitinin"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "mɔgɔ dɔw"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bɛ a kɔnɔ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "dɔw"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "naanina"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "a la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ba"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "a ye … kalan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "a (duguw)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "a ye … jɔ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "jiniw"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "bonba"
+    }
+  ],
+  "timestamp": "2026-10-14T02:34:56.850545738Z",
+  "model": "glm-5.3"
+}

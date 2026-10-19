@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 11:14",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jɛgɛnw",
+      "rationale": "החבלים is the staff's name 'Binders\/Ropes' (חבל rope), rendered as a name, not the object."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "cutting\/breaking",
+      "rationale": "gē (cut the staff) answers ka bɔ (break the brotherhood) — the staff-break enacts the bond-break."
+    }
+  ],
+  "translation": "Ani ne ye ⟨את⟩ ne ka jiribolo filanan, ⟨את⟩ Jɛgɛnw, gɛ — walasa ⟨את⟩ balimaya min bɛ Yehuda ni Israyel cɛ, o ka bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2886a7b213736362669544b3af6a64ebd646d3c1ef50fc2775606f9d026cb78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/11\/13-16.1791939346145.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואגדע",
+      "gloss": "ani ne ye … gɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka jiribolo filanan"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "ne ka jiribolo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "filanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jɛgɛnw"
+    },
+    {
+      "surface": "החבלים",
+      "gloss": "Jɛgɛnw"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "walasa … ka bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balimaya"
+    },
+    {
+      "surface": "האחוה",
+      "gloss": "balimaya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "… cɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ni … cɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    }
+  ],
+  "timestamp": "2026-10-14T00:55:46.146793132Z",
+  "model": "glm-5.3"
+}

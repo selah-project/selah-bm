@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept as loanword per discipline; single Bambara word would reduce it."
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Direct address to Yawe — the psalmist's contrast ('but as for me') after the wicked of vv. 5–7."
+    }
+  ],
+  "translation": "Nka ne, i ka hesed bonya la, ne bɛna don i so kɔnɔ; ne bɛna ne yɛrɛ fo wal' i ka senuma so-ba ma, i ka siran kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/5\/5-8.1791939462133.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nka ne"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bonya la"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "i ka hesed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ne bɛna don"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "i so kɔnɔ"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "ne bɛna ne yɛrɛ fo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wal' … ma"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "so-ba"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "i ka senuma"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "i ka siran kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:57:42.134108707Z",
+  "model": "glm-5.3"
+}

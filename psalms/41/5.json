@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש איז life-force — לחשי, a tɛ 'soul' ye an kan"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "לך preposition dɔrɔn de ye; nɔnabila faralen don ka kuma jɛya"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Psalms 41:5 — limɔli bɛ Yawe fɛ k'a wele"
+    }
+  ],
+  "translation": "Ne y'a fɔ ko: Yawe, i ni fɛ ne ma i ka niya; i ka ne ka ni fara, sabu ne ye jurumu kɛ ⟨i⟩ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/41\/5-8.1791940145375.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "y'a fɔ ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "i ni fɛ ne ma i ka niya"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "i ka … fara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ka ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ne ye jurumu kɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:05.376348609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישר",
+      "rationale": "read as divine epithet 'O Upright One' (KJV\/JPS) vs adverb 'level' describing the path"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Tɛgɛsira-tigi⟩",
+      "rationale": "supplied subject reading of ישר as address to God"
+    },
+    {
+      "kind": "crux",
+      "subject": "תפלס",
+      "rationale": "'level\/roll flat' vs 'weigh\/ponder' — both attested meanings of פלס"
+    }
+  ],
+  "translation": "Cɛɲumala ka sila ye tɛgɛsiraw ye; ⟨Tɛgɛsira-tigi⟩, i bɛ cɛɲumala ka taamaso tigɛ ni tɛgɛsira ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "907c19acfe64c85a245e35a5d6bb455d7eea25d6ff3c86c7c1e4d8ca044875b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/26\/5-8.1791933860119.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "sila"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "cɛɲumala ka"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "tɛgɛsiraw"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "⟨Tɛgɛsira-tigi⟩"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "taamaso"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cɛɲumala"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "i bɛ … tigɛ ni tɛgɛsira ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:24:20.122243672Z",
+  "model": "glm-5.3"
+}

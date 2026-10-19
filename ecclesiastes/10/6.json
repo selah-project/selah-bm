@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩ y'a di … ma",
+      "rationale": "נִתַּן is an impersonal passive 'is set'; Bamanankan has no passive, so an agent pronoun 'a' was supplied"
+    },
+    {
+      "kind": "alternative",
+      "subject": "fɔlɔmaden",
+      "rationale": "הַסֶּכֶל is folly as a concrete person, a dolt; 'fɔlɔmaden' (fool) renders the concrete sense rather than abstract 'dɔgɔya' (folly)"
+    }
+  ],
+  "translation": "⟨A⟩ y'a di fɔlɔmaden ma sanfe yɔrɔ caman na, ani wari-bɔbagaw bɛ sigi duguma jɔyyɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0588a275be6adbfa70bbf9af9e0fa67a7805a40dccd6d1d0f66351098406449c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/10\/5-8.1791945256531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "bɛ di"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "fɔlɔmaden"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "sanfe yɔrɔ caman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "caman"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ani wari-bɔbagaw"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "duguma jɔyyɔrɔ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bɛ sigi"
+    }
+  ],
+  "timestamp": "2026-10-14T02:34:16.532245989Z",
+  "model": "glm-5.3"
+}

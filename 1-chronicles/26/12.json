@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 26:12",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "marafitiniw",
+      "rationale": "מחלקות 'divisions\/courses' of Levites rendered as 'guard-duty allotments'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "da-kɔlisibagaw",
+      "rationale": "השערים literally 'the gatekeepers', rendered as compound 'door guards'"
+    },
+    {
+      "kind": "addition",
+      "subject": "walasa",
+      "rationale": "לשרת infinitive 'to minister' given a purpose marker Bambara requires"
+    }
+  ],
+  "translation": "Ninnu ye da-kɔlisibagaw ka ɲɛmɔgɔya marafitiniw ye: sebagacɛw ka kunw bɛ o marafitiniw mara, u balimaw faaba, walasa u ka baara kɛ Yawe ka so kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a516b2e8f326db5408bf23218b7f6178301d0055a18587f63cb867a6dbd136cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/26\/9-12.1791948371836.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאלה",
+      "gloss": "ninnu ye"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "marafitiniw"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "da-kɔlisibagaw"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "kunw"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "sebagacɛw"
+    },
+    {
+      "surface": "משמרות",
+      "gloss": "mara"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "faaba"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "u balimaw"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "baara kɛ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so kɔnɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T03:26:11.837338461Z",
+  "model": "glm-5.3"
+}

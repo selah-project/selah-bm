@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept as hesed — covenant loyalty-kindness; any single Bamanankan word (dɛmɛ, kanuya) would shrink it."
+    },
+    {
+      "kind": "elision",
+      "subject": "El",
+      "rationale": "עליון stands alone as a divine title; the compound El Elyon is supplied to read as a name."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lɔngɔ",
+      "rationale": "ימוט is 'slip, shake, totter'; lɔngɔ (fall\/slip) keeps the physical picture, 'tɛna lɔngɔ' = he will not be moved."
+    }
+  ],
+  "translation": "Sabu masakɛ bɛ yamaruya Yawe la, ani El Elyon ka hesed la, a katuguni tɛna lɔngɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/21\/5-8.1791939824371.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bɛ yamaruya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe la"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "ani hesed la"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "katuguni"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "a tɛna lɔngɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:44.372589935Z",
+  "model": "glm-5.3"
+}

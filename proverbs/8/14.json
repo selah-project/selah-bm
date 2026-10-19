@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תושיה",
+      "rationale": "Rare wisdom word: 'sound wisdom \/ substance \/ ability' — versions split between 'sound wisdom', 'substance', 'success'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula 'ye … ye' supplied where Hebrew juxtaposes bare nouns with לי."
+    }
+  ],
+  "translation": "Dantigɛli ni ɲɛsɔrɔdɔnni ye n ta; n ye dɔnni ye; fanga ye n ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5298c9b4aa4fdca0ae007e485b353920cb2b5e71d3e467f379336aacbc41cf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/8\/13-16.1791942241799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "n ta"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "dantigɛli"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ɲɛsɔrɔdɔnni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "n"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "dɔnni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n ta"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "fanga"
+    }
+  ],
+  "timestamp": "2026-10-14T01:44:01.800260060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ni ... ye",
+      "rationale": "Bambara instrumental frame ni…ye supplied for Hebrew bare preposition ב"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תובלנה \/ מובאות",
+      "rationale": "Same verb יבל repeated across vv.15–16, bridal procession echo; single Bambara phrase wuli ka na keeps the repetition"
+    }
+  ],
+  "translation": "U bɛna wuli k'u na ni diya ni bɛnbaliya ye; u bɛna don masakɛ ka so kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/45\/13-16.1791940237381.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "bɛna wuli k'u na"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ni diya ye"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "ni bɛnbaliya ye"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "bɛna don"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "so kɔnɔ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:37.381913615Z",
+  "model": "glm-5.3"
+}

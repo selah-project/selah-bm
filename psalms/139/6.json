@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sanfɛ",
+      "rationale": "נשגבה is 'lofty, inaccessible'; 'sanfɛ' (above) keeps the height but loses the inaccessibility."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula supplied for the verbless 'knowledge too wonderful for me'."
+    }
+  ],
+  "translation": "Dɔnniya in ye fɛn manyen ye ne ma; a bɛ sanfɛ, ne tɛ se ka a to.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/139\/5-8.1791941866410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "fɛn manyen"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "dɔnniya"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ne ma"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "a bɛ sanfɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ne tɛ se"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka a to"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:46.410809646Z",
+  "model": "glm-5.3"
+}

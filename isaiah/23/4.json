@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kisi",
+      "rationale": "חול is to writhe in labor-pains; rendered with the labor verb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ji ka kuma",
+      "rationale": "the sea personified as a barren mother speaking — the whole verse is a speech-in-persona"
+    },
+    {
+      "kind": "you",
+      "subject": "Tsidon",
+      "rationale": "direct address to Sidon with imperative 'be ashamed'"
+    }
+  ],
+  "translation": "Tsidon, i jalaki, sabu ji ko a fɔ ko: ji ka gɛlɛnyɔrɔ de ko: 'N ma kisi, n ma den wolo, n ma cɛyaw bɛn, n ma denmusokorow jatigɛ.'",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/23\/1-4.1791933940503.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "i jalaki"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "gɛlɛnyɔrɔ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ji ka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a fɔ ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n ma"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "kisi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "n ma"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "den wolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "n ma"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "cɛyaw"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "jatigɛ"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "denmusokorow"
+    }
+  ],
+  "timestamp": "2026-10-13T23:25:40.511999539Z",
+  "model": "glm-5.3"
+}

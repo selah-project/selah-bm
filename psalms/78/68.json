@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ani",
+      "rationale": "Heburukan ma tugu-daɲɛ sɔrɔ denkɛ mini nɔ na — a bɛ dɔn a yɛrɛ fɛ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבט",
+      "rationale": "'mara-ncɛ' bɛ ta — שבט ye tugunini ye min bɛ fanga da"
+    }
+  ],
+  "translation": "A ye ⟨את⟩ Yuda (Judaa) ka mara-ncɛ min bɔ, ani ⟨את⟩ Tsion (Siyɔn) kulu, min bɛ a kanuya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/65-68.1791940833431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mara-ncɛ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mara-ncɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kanuya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:33.432083983Z",
+  "model": "glm-5.3"
+}

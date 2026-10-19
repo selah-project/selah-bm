@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 13:13",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "החרישו",
+      "rationale": "חרשׁ 'to engrave\/plough' → 'be silent'; Bambara renders 'close your mouths'"
+    },
+    {
+      "kind": "addition",
+      "subject": "min bɛ na",
+      "rationale": "מה is bare 'what?'; Bambara needs a relative clause 'that which comes'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Job's three friends",
+      "rationale": "plural imperative addressed to the friends"
+    }
+  ],
+  "translation": "Aw ye aw da kpɛ nin ne la, ne bɛna kuma; min bɛ na, o bɛ tɛmɛ ne kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "28a9d59e20e9fa2f8b6eb4b022750e0e8b03bccd4db98c27e95d5ef6662d1868",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/13\/13-16.1791943563413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החרישו",
+      "gloss": "aw ye aw da kpɛ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nin ne la"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ne bɛna kuma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "o bɛ tɛmɛ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ne kan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "min bɛ na"
+    }
+  ],
+  "timestamp": "2026-10-14T02:06:03.413881080Z",
+  "model": "glm-5.3"
+}

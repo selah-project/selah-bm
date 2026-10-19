@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "daminɛ",
+      "rationale": "מלך inceptive 'began to reign'; Bambara needs the verb daminɛ to carry the inceptive sense"
+    },
+    {
+      "kind": "measurement",
+      "subject": "san tan ni segin fila",
+      "rationale": "regnal-year synchronism: Abijam's accession dated by Jeroboam's eighteenth year"
+    }
+  ],
+  "translation": "Masakɛ Yarobeam (Jeroboam), Nevat (Nebat) denkɛ, san tan ni segin fila na, Awijam (Abija) ye Yuda kan masa-kɛli daminɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/15\/1-4.1791932308983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "san … na"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "segin"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tan ni fila"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masa-kɛli daminɛ"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Awijam"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-10-13T22:58:28.987812165Z",
+  "model": "glm-5.3"
+}

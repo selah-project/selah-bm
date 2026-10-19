@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "min bɛ bɛn",
+      "rationale": "Hebrew verb is singular with no stated subject: the fool rages and laughs (KJV), or the wise man grows angry (Wycliffe reading); ambiguity kept by leaving the subject unnamed"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jɛya",
+      "rationale": "נחת literally 'settling-down\/rest', rendered with the peace\/rest word"
+    }
+  ],
+  "translation": "Cɛ dɔnnen bɛ cɛ balen jate ⟨את⟩; a bɛ bɛn, a bɛ miiri, jɛya tɛ sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/29\/9-12.1791942976870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "dɔnnen"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "jate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cɛ balen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "balen"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "miiri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tɛ sɔrɔ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "jɛya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:56:16.871505379Z",
+  "model": "glm-5.3"
+}

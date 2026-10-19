@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 9:5",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dɔ \/ fana",
+      "rationale": "Hebrew has no indefinite article and no 'also' here; Bamanankan needs dɔ ('a king') and fana to carry the paired list"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bunɛ",
+      "rationale": "חול is to twist\/writhe like a woman in labor; 'bunɛ' (suffer greatly) loses the birth-pang picture"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא תשב",
+      "rationale": "'shall not be inhabited' vs YLT 'shall not remain' — ישב can be dwell or continue"
+    }
+  ],
+  "translation": "Ashkelon (Ashkelon) na ye, a na siran; Azza (Gaza) fana, a na bunɛ caman; ani Ekron (Ekron), sabu a suguya-bila kunbɔna ban; masakɛ dɔ bɛna banna Azza la, ani Ashkelon na tɛ sigi yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dac172e280b7c5334bd3664d937af7f930db8fd4fa90d01893e565d1d337bf02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/9\/5-8.1791939345888.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרא",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ותירא",
+      "gloss": "a na siran"
+    },
+    {
+      "surface": "ועזה",
+      "gloss": "Azza"
+    },
+    {
+      "surface": "ותחיל",
+      "gloss": "a na bunɛ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "caman"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "kunbɔna ban"
+    },
+    {
+      "surface": "מבטה",
+      "gloss": "a suguya-bila"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "bɛna banna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ dɔ"
+    },
+    {
+      "surface": "מעזה",
+      "gloss": "Azza la"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "ani Ashkelon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "sigi yen"
+    }
+  ],
+  "timestamp": "2026-10-14T00:55:45.889313313Z",
+  "model": "glm-5.3"
+}

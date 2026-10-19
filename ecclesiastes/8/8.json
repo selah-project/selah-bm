@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "'fiɲɛ' (wind) walima 'ninakili' (breath) — KJV 'spirit', JPS 'wind'; Heburukan daɲɛ kelen de ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "משלחת",
+      "rationale": "'yɛlɛma-sira' (discharge) — hapax; kɔrɔfila caman bɛ yen: 'discharge' walima 'release'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משלחת",
+      "rationale": "daɲɛ in bɛ Tanaki kɔnɔ yɔrɔ in de la dɔrɔn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שליט \/ שלטון",
+      "rationale": "jɔyɔrɔ fila bɛ š-l-t gbili la — 'fanga' kelen-kelen bɛ Bamanankan na, jɔyɔrɔ-ɲɛfɔli ka bɔn"
+    }
+  ],
+  "translation": "Hadama-den si tɛ fiɲɛ bolo fanga sɔrɔ walasa ka ⟨את⟩ fiɲɛ yo; sayakɛ dɔ la fanga si tɛ yen; kɛli kɔnɔ yɛlɛma-sira si tɛ yen; ani juguya tɛ se ka ⟨את⟩ a bɔ a tigima-tigiw bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "56a3026b6825d76560ccd71f2baf9a4a0c548ba5efe2520948e03917e6f3f2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/8\/5-8.1791945340865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "fanga sɔrɔ"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "fiɲɛ bolo"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "walasa ka … yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiɲɛ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ani si tɛ"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "fanga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dɔ la"
+    },
+    {
+      "surface": "המות",
+      "gloss": "sayakɛ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ani si tɛ"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "yɛlɛma-sira"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "kɛli kɔnɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "tɛ se ka bɔ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tigimatigiw"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "a tigimatigiw bolo"
+    }
+  ],
+  "timestamp": "2026-10-14T02:35:40.867353757Z",
+  "model": "glm-5.3"
+}

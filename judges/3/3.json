@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 3:3",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "duru",
+      "rationale": "the verse counts the five Philistine lords and fixes the territory by named endpoints"
+    },
+    {
+      "kind": "substitution",
+      "subject": "saren",
+      "rationale": "סרן is the distinct Philistine ruler-title, kept as a loanword rather than flattened to 'masakɛ'"
+    }
+  ],
+  "translation": "Filistikaw (Filistiw) ka sarenw duru, ani Kenakanaw bɛɛ, ani Sidɔnikaw, ani Hiwikaw, minnu bɛ sigi Lebana (Libɔn) kulu kan, Baal-Hermon kulu lasɔgɔsɔgɔ fo ka se Hamat (Amat) don ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "334d8221dec6339819842e4edd9201e472ccb528bb2489ece0ac667cd717a51f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/3\/2-3.1791950230967.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמשת",
+      "gloss": "duru"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "sarenw"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistikaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani ... bɛɛ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenakanaw"
+    },
+    {
+      "surface": "והצידני",
+      "gloss": "ani Sidɔnikaw"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ani Hiwikaw"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bɛ sigi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebana"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kulu lasɔgɔsɔgɔ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "don"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    }
+  ],
+  "timestamp": "2026-10-14T03:57:10.968739864Z",
+  "model": "glm-5.3"
+}

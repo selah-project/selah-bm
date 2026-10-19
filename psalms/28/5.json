@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "preposition 'to\/regard' absorbed into the verb 'dɔn', no separate Bambara word"
+    },
+    {
+      "kind": "crux",
+      "subject": "יהרסם",
+      "rationale": "verb forms read as either 'he will tear them down' (perfect) or 'tear them down!' (imperative); KJV future vs Geneva imperative"
+    }
+  ],
+  "translation": "Sabu u ma Yawe ka baaraw ni a bolo baaraw dɔn, a b'u jɛgɛ, a tɛ u jaw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/28\/5-8.1791939865692.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "baaraw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "baarakɛlaw"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "a b'u jɛgɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a tɛ"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "u jaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:25.692978358Z",
+  "model": "glm-5.3"
+}

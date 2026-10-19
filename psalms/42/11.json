@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברצח",
+      "rationale": "'Murder-cry'\/'shattering' (JPS crushing) vs KJV 'as with a sword' — rendered as blow\/crushing 'fili'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kolow",
+      "rationale": "עצמות bones rendered 'kolow' per fixed vocabulary table"
+    }
+  ],
+  "translation": "Fili ye ne ka kolow kɔnɔ, ne ka bɛnniw bɛ ne jalaki, k'u bɛ fɔ ne ye don bɛɛ ko: I ka Elohim bɛ min?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/42\/9-12.1791940146043.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "fili"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "ne ka kolow kɔnɔ"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "bɛ ne jalaki"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ne ka bɛnniw"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "k'u bɛ fɔ ne ye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don"
+    },
+    {
+      "surface": "איה",
+      "gloss": "bɛ min"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:06.044327013Z",
+  "model": "glm-5.3"
+}

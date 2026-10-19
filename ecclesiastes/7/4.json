@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ב prefix",
+      "rationale": "Hebrew 'in the house of' rendered as locative so without preposition; Bambara expresses location by bare noun"
+    }
+  ],
+  "translation": "Dɔnnikɛlaw dusukun bɛ sunaso, ani ngongolaw dusukun bɛ nuwuso.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/7\/1-4.1791945291768.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "dɔnnikɛlaw"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "suna"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ani dusukun"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ngongolaw"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "nuwu"
+    }
+  ],
+  "timestamp": "2026-10-14T02:34:51.770012253Z",
+  "model": "glm-5.3"
+}

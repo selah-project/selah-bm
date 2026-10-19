@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 2:7",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ciden",
+      "rationale": "מלאך rendered 'ciden' (one sent) per discipline; not 'mɛlɛkɛ'"
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Resumptive pronoun supplied to close the relative clause 'the messenger speaking in me'"
+    }
+  ],
+  "translation": "Ara, ciden min bɛ kuma ne ye, o bɔra; ciden wɛrɛ fana bɔra ka tugun ni a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/2\/5-8.1791939197889.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ciden"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "min bɛ kuma"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o bɔra"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ciden wɛrɛ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wɛrɛ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ka tugun ni a ye"
+    }
+  ],
+  "timestamp": "2026-10-14T00:53:17.890531440Z",
+  "model": "glm-5.3"
+}

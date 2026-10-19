@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 14:21",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a yɛrɛ ye⟩",
+      "rationale": "למו (for him\/them) rendered as reflexive pronoun for clarity"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכבדו",
+      "rationale": "'come to honor' vs 'become heavy\/dull'; כבד can be good (honor) or bad (burdensome)"
+    },
+    {
+      "kind": "you",
+      "subject": "dead man",
+      "rationale": "third-person description of the dead man's unknowing, ending Job's speech"
+    }
+  ],
+  "translation": "Denkɛw bɛ tunun, nka a m'a dɔn; u bɛ dɔgɔya, nka a m'u faamu ⟨a yɛrɛ ye⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cf682905fee3686303fa0274f3e2ee71c180ed8eb1cabeb3a66987efd156636f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/14\/21-22.1791943579943.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכבדו",
+      "gloss": "tunun (ka ɲagami)"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a m'a dɔn"
+    },
+    {
+      "surface": "ויצערו",
+      "gloss": "u bɛ dɔgɔya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "a m'u faamu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨a yɛrɛ ye⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T02:06:19.944681127Z",
+  "model": "glm-5.3"
+}

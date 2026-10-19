@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 17:4",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סוא (So)",
+      "rationale": "The name So, king of Egypt, occurs only here in the Tanakh; his identity is debated (Osorkon IV? Tefnakht?)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "כשנה בשנה",
+      "rationale": "'as year by year' — the tribute is a fixed annual payment."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jugu so",
+      "rationale": "בית כלא literally 'house of restraint'; rendered 'jugu so' (prison), the idiomatic Bambara term."
+    }
+  ],
+  "translation": "Ashur masakɛ ye Hoshea kɔnɔ kabako ye: min na, a ye cidenw ci So (So), Mitsrayim (Misira) masakɛ fɛ, ka a bɔ a ye sarabi bɔli Ashur masakɛ ma, i n'a fɔ san kɔrɔ san bɛɛ; o la, Ashur masakɛ ye a minɛ, ka a dasi jugu so kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da18edcf9fd832a727673d871d9c38f9ccc7f95932c82acc23e3084d30fda39c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/17\/1-4.1791933098318.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "ye … ye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בהושע",
+      "gloss": "Hoshea kɔnɔ"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "kabako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min na"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ci"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "cidenw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "סוא",
+      "gloss": "So"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka a bɔ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bɔli"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "sarabi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛ … ma"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "כשנה",
+      "gloss": "i n'a fɔ san"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "san kɔrɔ san bɛɛ"
+    },
+    {
+      "surface": "ויעצרהו",
+      "gloss": "ye a minɛ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ka a dasi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "jugu"
+    }
+  ],
+  "timestamp": "2026-10-13T23:11:38.322974922Z",
+  "model": "glm-5.3"
+}

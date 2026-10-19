@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dusukun",
+      "rationale": "נפש is life-force\/appetite, rendered 'dusukun' (heart); the appetite-sense survives in 'taabaw' (cravings)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובצע ברך",
+      "rationale": "'The covetous blesses' vs 'he blesses the covetous' vs reflexive 'the covetous blesses himself' — word order permits all three"
+    }
+  ],
+  "translation": "Sabu bagankɛ bɛ a dusukun taabaw la jɔnjɔn, ka woloɲɛnikɛla duba; a bɛ Yawe nɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/10\/1-4.1791939689987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "bɛ ... jɔnjɔn"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bagankɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "taabaw"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a dusukun"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "woloɲɛnikɛla"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "duba"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "nɛɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:29.988788882Z",
+  "model": "glm-5.3"
+}

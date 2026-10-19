@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 1:19",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "direct-object marker preserved as ⟨את⟩, pointing at 'u'"
+    },
+    {
+      "kind": "addition",
+      "subject": "mɔgɔ si",
+      "rationale": "'no one' supplied; Hebrew has verb 'was found' with negative only"
+    }
+  ],
+  "translation": "Masakɛ ye ⟨את⟩ u la kuma; u bɛɛ la, mɔgɔ si sɔrɔ tɛ a yeDaniyel (Daniel), Hananya, Mishaɛl ni Azarya ye; u yelandira masakɛ ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bdaace9e2589059ef1666de1ee9052edbe7982aa769c35613c24c16bc04d1358",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/1\/17-20.1791945603510.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "sɔrɔ"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "u bɛɛ la"
+    },
+    {
+      "surface": "כדניאל",
+      "gloss": "a ye Daniyel"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananya"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishaɛl"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "yelandira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:40:03.511820660Z",
+  "model": "glm-5.3"
+}

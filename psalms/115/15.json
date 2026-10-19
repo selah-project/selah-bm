@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula supplied; Hebrew has no verb in ברוכים אתם."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sankolow",
+      "rationale": "שמים is dual ('two heavens'); Bambara plural sankolow carries number but not duality."
+    }
+  ],
+  "translation": "Aw ⟨ye⟩ dubaw Yawe fɛ, min dilanna sankolow ni dugukolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "652038461db896d09c1e055692ab7e1f331f593d011a274ead61c51487c8f78a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/115\/14-15.1791951219036.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "dubaw"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe fɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "min dilanna"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ni dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:39.036797487Z",
+  "model": "glm-5.3"
+}

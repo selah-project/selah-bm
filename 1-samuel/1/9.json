@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 1:9",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun siginen",
+      "rationale": "Hebrew participle ישב needs Bambara past particle 'tun sigilen'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dakabala",
+      "rationale": "מזוזה door-post rendered with the coined compound dakabala, door-side post"
+    }
+  ],
+  "translation": "Hana (Ana) ye a yɛrɛ wuli a dun kɔfɛ Shilo (Silo) la, a min kɔfɛ; Eli sarakalasebaga tun sigilen kɔnsɛ kan, Yawe so dakabala bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3ce2494292e34820f4e727421f29ea59850c5f61fd5106972c371238012bbdcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/1\/9-12.1791929842622.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "wuli (a yɛrɛ wuli)"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "dun"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "min"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sigi (tun sigilen)"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "kɔnsɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "dakabala"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T22:17:22.623594648Z",
+  "model": "glm-5.3"
+}

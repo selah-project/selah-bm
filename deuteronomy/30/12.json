@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "לאמר ye kuma-bila ye min bɛ kofɔli da; a bayɛlɛmara ko ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "jɔn don min",
+      "rationale": "מי (jɔn?) fara la ni dɔgɔya-daɲɛw ye walasa kumasen ka jɛlen kɛ Bamanankan na"
+    },
+    {
+      "kind": "you",
+      "subject": "anw",
+      "rationale": "Moses kuma bɛ Isirayeli jamana kan — 'anw' ni 'i' ye weleli ye min bɛ to kumasen in kɔnɔ"
+    },
+    {
+      "kind": "mystery",
+      "subject": "sankolo",
+      "rationale": "Kumasen in bɛ fɔ sariya tɛ yen o ye — a tɛ dogolen ye; o ye kpoku-dɔnniya ɲɛfɔli ye"
+    }
+  ],
+  "translation": "A man'a ye sankolo la, ko: Jɔn don min bɛna tugun sankolo la anw kama, ka ta a anw ye, ka a lamɛn anw ye ⟨את⟩, ka anw k'a kɛ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4d3bf175bfc575fc20d5ca628f076dd28cfe229ce42c17447db732020ab32472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/30\/12-12.1791950090762.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sankolo la"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko:"
+    },
+    {
+      "surface": "מי",
+      "gloss": "jɔn don min"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bɛna tugun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anw kama"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "sankolo la"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ka ta a"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anw ye"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ka a lamɛn anw ye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "a (sariya min bɛ lamɛn)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "ka anw k'a kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:54:50.763013124Z",
+  "model": "glm-5.3"
+}

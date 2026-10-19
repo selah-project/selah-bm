@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Verse is direct second-person address to Israel, imperative 'keep' (i mara)."
+    },
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "Bambara needs a support noun after lasariya; Hebrew has bare object."
+    }
+  ],
+  "translation": "I ye lasariya mara, ani ⟨את⟩ lasariya da, ani ⟨את⟩ sariya-hunw, ani ⟨את⟩ fɛn-dancɛw minnu ne bɛ i di bi, ka kɛ u ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8d121b6650e074397bb77aa18cbd97bfed4b9cacdc01a8b9e967d2cc58e919a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/7\/10-11.1791950031293.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "i mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lasariya"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "lasariya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "sariya-hunw"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sariya-hunw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "fɛn-dancɛw"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "fɛn-dancɛw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "bɛ i di"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ka kɛ u ye"
+    }
+  ],
+  "timestamp": "2026-10-14T03:53:51.294415399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חתן משה",
+      "rationale": "ASV b'a fɔ 'Musa ka balimakɛ'; KJV\/JPS b'a fɔ 'Musa ka ɲamuso fa' — Heburukan חתן bɛ furu-yɔrɔ-jɔyɔrɔ bɛɛ ta"
+    },
+    {
+      "kind": "elision",
+      "subject": "את בני יהודה",
+      "rationale": "nin את ye 'ni ... ye' (kɔlɔlɔ-cogo) ye, direct-object taamasiyɛn tɛ o ye; taamasiyɛn in tola a la"
+    },
+    {
+      "kind": "addition",
+      "subject": "denw",
+      "rationale": "חתן ɲɛfɔli-cogo kama, 'denw' farala a kan ka Keniw ni Musa ka ɲamuso fa ka jɔyɔrɔ jira"
+    }
+  ],
+  "translation": "Kenidenw, Musa (Musa) ka ɲamuso fa denw, u bɔra Tamariji-dugu la ni ⟨את⟩ Yuda denw ye, ka taa Yuda wulanw la, min bɛ Arad (Arada) ka Negɛb fɛ; u taara, u sigira ⟨את⟩ jama la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0ff7fa6d42a6ad0ca6f77f228eb1f3af8844dc99a4757a1068f1fb621a29e13e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/1\/13-16.1791929219934.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "Kenidenw"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ka ɲamuso fa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "u bɔra"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dugu la"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "Tamariji-"
+    },
+    {
+      "surface": "את",
+      "gloss": "ni ⟨את⟩ ... ye",
+      "marks": "Yuda denw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wulanw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Negɛb fɛ"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "Arad"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "u taara"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "u sigira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    }
+  ],
+  "timestamp": "2026-10-13T22:06:59.937573863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 22:32",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישב \/ וישבו",
+      "rationale": "same verb שׁוב opens and closes the verse — 'returned' and 'brought back' — framing the journey; the echo is kept with seginna\/labanna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וישבו אותם דבר",
+      "rationale": "literally 'returned them (אתם) a word (דבר)' — a double object; Bambara needs 'brought the word back to them'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka taa",
+      "rationale": "the motion verb 'go' is supplied in Bambara for אל toward the land, which Hebrew expresses with a bare preposition"
+    }
+  ],
+  "translation": "Pinchas, Elazar denkɛ, sarakalasebaga, ani ɲɛmɔgɔw, seginna ⟨את⟩ Rewuben denw ani ⟨את⟩ Gad denw fɛ, Gilad dugukolo la, ka taa Kanaan dugukolo la, Israyel denw fɛ, ka ⟨את⟩ kuma laban u ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "10a496c79f1b0109ba68ccd8b958fb5744dbbcac3d6d9bef4b5e9295a600526c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/22\/32-32.1791950102877.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "seginna"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "והנשיאים",
+      "gloss": "ani ɲɛmɔgɔw"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Rewuben denw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rewuben"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Gad denw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "y'u labanna"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kuma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    }
+  ],
+  "timestamp": "2026-10-14T03:55:02.878461515Z",
+  "model": "glm-5.3"
+}

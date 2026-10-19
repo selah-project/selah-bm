@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is life-breath\/vitality, not an immaterial soul; glossed by Bambara 'ni' (life\/self)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "shomer",
+      "rationale": "Root שמר repeats in vv.3,4,5,7,8 — the psalm's refrain; Bambara 'mara\/kɔlɔsi' repeats but the sixfold verb-chain rhythm thins."
+    }
+  ],
+  "translation": "Yawe bɛna i mara jurumu bɛɛ la; a bɛna mara ⟨את⟩ i ni ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/121\/5-8.1791941754600.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "i mara"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ni (נפשך)"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "i ni"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:54.601664076Z",
+  "model": "glm-5.3"
+}

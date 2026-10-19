@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 9:29",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wasiya",
+      "rationale": "נחלה (jatemali min bɛ taama) bɛ bayɛlɛma ni wasiya ye (diinɛ daɲɛ); 'jirisun' tun bɛ se ka kɛ a yɛrɛ ye"
+    },
+    {
+      "kind": "alternative",
+      "subject": "nka olu",
+      "rationale": "והם ye 'olu' ye kojugu (sinsinni); 'nka' farala a kan sabu kumasen in tugu Moshe ka somɔgɔli kɔ"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "kumasen in bɛ Yawe wele datugulen na, Moshe ka balo-ko kɔnɔ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "bolo min nana jira",
+      "rationale": "'זרוע הנטויה' (bolo min bɛ jira) ye Heburu ka laasubili ye min bɔna fanga bolo, a tɛ bolo yɛrɛ dɔrɔn"
+    }
+  ],
+  "translation": "Nka olu ye i ka jama ye, ani i ka wasiya, minnu n'u bɔra ni i ka se ba ye, ani ni i ka bolo min nana jira ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9fc815aff8abc398a85b7a4e24f327d032415746971d41726816fdeec53645b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/9\/29-29.1791927666742.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "nka olu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i ka jama"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ani i ka wasiya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "n'u bɔra"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "ni i ka se ye"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "ani ni i ka bolo ye"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "min nana jira"
+    }
+  ],
+  "timestamp": "2026-10-13T21:41:06.742985617Z",
+  "model": "glm-5.3"
+}

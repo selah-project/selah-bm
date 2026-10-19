@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 29:14",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Hebrew direct-object marker rendered ⟨את⟩, marking Mitsrayim ka juya."
+    },
+    {
+      "kind": "crux",
+      "subject": "dɔgɔman",
+      "rationale": "שפלה: 'lowly\/humbled' (JPS) vs 'base\/basest' (KJV) — Bambara 'dɔgɔman' keeps the literal low position."
+    },
+    {
+      "kind": "substitution",
+      "subject": "juya",
+      "rationale": "שבות is 'restoration of fortunes\/captivity'; 'juya' captures the captivity side only."
+    }
+  ],
+  "translation": "Nka ne bɛna ⟨את⟩ Mitsrayim ka juya lɔgɔrɔ, ani ne bɛna u segin dugukolo la Pathros (Misira jamanadɔ), u ka bɔ-dugukolo kan, u bɛna yen kɛ masakɛya dɔgɔman ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "00a3c21f6c0c765a94f3da14f6be68bd5d99a6b149d7d524f831055cd49a1fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/29\/14-15.1791951060620.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ne bɛna lɔgɔrɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim ka juya"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "juya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ne bɛna u segin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dugukolo la Pathros"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Pathros"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "מכורתם",
+      "gloss": "u ka bɔ-dugukolo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "u bɛna yen kɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "masakɛya"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "dɔgɔman"
+    }
+  ],
+  "timestamp": "2026-10-14T04:11:00.621201151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ne ma⟩",
+      "rationale": "Hebrew verb הבינני holds the indirect object inside; Bambara needs it stated separately"
+    },
+    {
+      "kind": "you",
+      "subject": "addressee",
+      "rationale": "Verse addresses Yawe directly: prayer of the psalmist"
+    }
+  ],
+  "translation": "I bolow ye ne dilan, k'a jɔ; i ka dɔnnya di ⟨ne ma⟩, walasa ne bɛna i ka nwaw kalan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "46f8de14e78cfb5e23511b2a2f66feec5d4c8bfa32810a665daaa2ee44872858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/73-76.1791941642712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "i bolow"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "ye ne dilan"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "k'a jɔ"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "i ka dɔnnya di ne ma"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "walasa ne bɛna kalan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "i ka nwaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:02.713181797Z",
+  "model": "glm-5.3"
+}

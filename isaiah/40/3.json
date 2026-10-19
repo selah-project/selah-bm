@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במדבר",
+      "rationale": "attachment ambiguity: voice crying in the wilderness (KJV) vs prepare in the wilderness the way (ASV\/JPS); Bambara attaches it to the voice"
+    },
+    {
+      "kind": "invitation",
+      "subject": "aw ye … jɛ",
+      "rationale": "imperatives addressed to the hearers to prepare the way"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פנו",
+      "rationale": "'turn\/clear away' rendered jɛ (clear) for the road-preparing sense"
+    }
+  ],
+  "translation": "Weleli kan bɛ sankɔnɔ na: aw ye Yawe sira jɛ, aw ye an ka Elohim sira ɲɛfɔlɛ ka dakun na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2c47c8032b261dec1f5806e5a5b6003ca79c26a4981197e86ddd957385c3521a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/40\/1-4.1791934347054.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "weleli"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sankɔnɔ na"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "aw ye … jɛ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "aw ye … ɲɛfɔlɛ"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "dakun na"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "an ka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:27.060946524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨dugubolo⟩",
+      "rationale": "Bamanankan ka kan ka wale-daɲɛ di, Heburukan ma a di"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dabɔ",
+      "rationale": "לין ka kɔrɔ tiɲɛ ye «su-fɔ ka taa» ye (kɔgɔjibaro), nka dɔgɔya b'a la"
+    },
+    {
+      "kind": "alternative",
+      "subject": "min bɛ sigin",
+      "rationale": "JPS da y'a fɔ i n'a fɔ weleli ye («a i min bɛ sigin»); Heburukan ye kɔrɔfɔ-kuma dɔrɔn de ye"
+    }
+  ],
+  "translation": "Min bɛ sigin Elyon (Kɔnɔtɔgɔtigi-Sanba) ka dogolen kɔnɔ, o bɛ Shaday (Sebaayabɛɛtigi) ka nisinu kɔnɔ dabɔ ⟨dugubolo⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4378b2ae66edad1eb8182fd2f627b8f97b17efceab305f8980faf21032273c55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/91\/1-4.1791941136405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "min bɛ sigin"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka dogolen kɔnɔ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "nisinu kɔnɔ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaday"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "bɛ dabɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:36.406302011Z",
+  "model": "glm-5.3"
+}

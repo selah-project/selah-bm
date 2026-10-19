@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ",
+      "rationale": "Bambara durative marker supplied; Hebrew participle מרעיש is bare 'shaking'"
+    },
+    {
+      "kind": "elision",
+      "subject": "פחת",
+      "rationale": "Akkadian loan-title 'pechah' rendered by function as dugutigi"
+    },
+    {
+      "kind": "you",
+      "subject": "to Zerubbabel",
+      "rationale": "The oracle addresses the governor of Judah directly"
+    }
+  ],
+  "translation": "Kɔ Zerubabel (Zerubabɛl) ma, Yuda dugutigi, ko: Ne bɛ ⟨את⟩ sankolow ni ⟨את⟩ dugukolo ɲagami.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7fd44ed36bb2c6169f99a8a547f2574a263a757160a6b83a554e301403437171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/haggai\/2\/21-23.1791939047677.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "dugutigi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "bɛ ... ɲagami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sankolow"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "dugukolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T00:50:47.678420161Z",
+  "model": "glm-5.3"
+}

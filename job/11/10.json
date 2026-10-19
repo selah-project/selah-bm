@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew verbs have no explicit subject; Bambara requires ⟨a⟩ (Elohim)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויקהיל",
+      "rationale": "'convoke' — assemble a court (BSB) vs gather in prisoners (Geneva\/JPS) vs call to judgment (ASV)"
+    }
+  ],
+  "translation": "Ni ⟨a⟩ tɛmɛ ka da ka jama lanu, jumɛn bɛna a yɛlɛma?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7b7a98b157cc4526b28a873bd555e7ddfdfe625cd6e3aa76638c70370bf7ff1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/11\/9-12.1791943497105.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "tɛmɛ"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "jama lanu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jumɛn"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "bɛna a yɛlɛma"
+    }
+  ],
+  "timestamp": "2026-10-14T02:04:57.106793556Z",
+  "model": "glm-5.3"
+}

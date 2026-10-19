@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד gardé comme 'hesed' ; aucun mot Bambara simple (kanuya, makari) n'épuise bonté-alliance-fidélité."
+    },
+    {
+      "kind": "crux",
+      "subject": "אפיר",
+      "rationale": "'Broyer' (פור) : versions KJV 'not utterly take' vs JPS 'not break off' ; rendu ici par 'sila' (retirer)."
+    }
+  ],
+  "translation": "Nka n ka hesed (kanuya-tilennen) tɛna sila a la, ani n tɛna ɲa fɔ n ka tiɲɛ kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "66a31631c25911240f69df8a51dad56adad3076ac67ace5d2790e23ecf8f6193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/89\/33-36.1791940962111.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "nka n ka hesed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani … tɛna"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "ɲa fɔ"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "n ka tiɲɛ kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:42.111666340Z",
+  "model": "glm-5.3"
+}

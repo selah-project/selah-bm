@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jukɔrɔlenw",
+      "rationale": "יתר: 'tent-cord' (ASV\/JPS) vs 'excellency\/dignity' (KJV\/Geneva) — cord-pulling picture fits the tent imagery of v.20"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dɔnniya",
+      "rationale": "חכמה rendered dɔnniya (wisdom\/knowledge); the point is they die without understanding"
+    },
+    {
+      "kind": "alternative",
+      "subject": "u tɛ sa ni dɔnniya ye",
+      "rationale": "second reading: 'they die, and not in wisdom' — the Hebrew lets both a statement and a consequence stand"
+    }
+  ],
+  "translation": "Yala u ka jukɔrɔlenw ma bɔ u kɔnɔ wa? U bɛ sa, ka tɛ ni dɔnniya ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "98c66a954ce7359a7b3be65c0b13aa5cd5d830fe48a913901c53f679bd8fd1cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/4\/21-21.1791943267715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "yala … wa"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ma bɔ"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "jukɔrɔlenw"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u kɔnɔ"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "u bɛ sa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tɛ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "dɔnniya"
+    }
+  ],
+  "timestamp": "2026-10-14T02:01:07.715965536Z",
+  "model": "glm-5.3"
+}

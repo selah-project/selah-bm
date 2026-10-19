@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nka (but)",
+      "rationale": "Bambara contrast particle supplied; Hebrew simply juxtaposes 'they are not, we have borne'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עונותיהם",
+      "gloss": "u taasiw",
+      "rationale": "עוון is crookedness\/guilt\/punishment-of-guilt; 'taasi' (suffering) chosen — guilt-as-burden carried"
+    }
+  ],
+  "translation": "An faaw ye jurumu kɛ, u si tɛ yen, nka an ye u taasiw balo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9e4897c6c587e63c6fc9ff098eb02feddcb2cb6503c7cd2489c8e2ddd86242a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/5\/5-8.1791945053129.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "an faaw"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ye jurumu kɛ"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "u si tɛ yen"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "an"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "u taasiw"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "an ye ... balo"
+    }
+  ],
+  "timestamp": "2026-10-14T02:30:53.130104672Z",
+  "model": "glm-5.3"
+}

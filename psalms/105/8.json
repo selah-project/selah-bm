@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "wolerefila kɔnɔmɔgɔw",
+      "rationale": "The covenant word is sized at a thousand generations."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔnɔmɔgɔw",
+      "rationale": "דור 'generation' rendered as 'descendants\/later people'; the revolving-of-time sense is softened."
+    }
+  ],
+  "translation": "A ye a ka layidu hakili la kɔɔ na, kuma min ne da wolerefila kɔnɔmɔgɔw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/105\/5-8.1791941295971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "a ye ... hakili la"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kɔɔ na"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "a ka layidu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ne da"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "wolerefila"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kɔnɔmɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:28:15.972680407Z",
+  "model": "glm-5.3"
+}

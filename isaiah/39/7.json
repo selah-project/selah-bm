@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 39:7",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סריסים",
+      "rationale": "'eunuchs' vs JPS 'officers' — סריס ranges from castrated official to court servant; transliterated saris with literal bracket"
+    },
+    {
+      "kind": "addition",
+      "subject": "u bɛna u ta",
+      "rationale": "object pronoun u repeated from context, Hebrew verb יקחו leaves object implicit"
+    }
+  ],
+  "translation": "I denkɛw minnu bɛna bɔ i la, minnu i bɛna won, u bɛna u ta; u bɛna kɛ saris (den-ka-furu-tigiralenw) ye Bawel masakɛ so kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f43e87876d296f2e8ba9598ef0784c4e916ca9e07395f605b0bb186da5cccb95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/39\/5-8.1791934337486.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבניך",
+      "gloss": "I denkɛw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bɛna bɔ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "i bɛna won"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "u bɛna ta"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "u bɛna kɛ"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "saris"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "so kɔnɔ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bawel"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:17.489316419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לבני קרח",
+      "rationale": "daɲɛ 'ta' fara a kan walasa k'a jira ko sɛbɛn in ye Korach denkɛw ta ye"
+    }
+  ],
+  "translation": "Sanu, mizimor, min bɛ Korach denkɛw ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/48\/1-4.1791940261455.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizimor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-10-14T01:11:01.455770038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "walk vs come",
+      "rationale": "יהלכו literally 'walk' (JPS) vs 'come' (KJV); Bambara taa keeps 'walk'"
+    }
+  ],
+  "translation": "Siyaw bɛna taa i ka yeelen la, ani masakɛw bɛna taa i ka sɔgɔmajɛ jɛcogo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "91bf5f6dbb3a6bec6b81062e753b9d77763f8fdf85e70d112d8b24a4d6dee0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/60\/1-4.1791934776979.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "bɛna taa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "i ka yeelen la"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ani masakɛw"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "jɛcogo la"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "i ka sɔgɔmajɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:39:36.981535720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בצאת",
+      "rationale": "infinitive construct 'in-their-going-out' rendered as finite verb 'lakɛra bɔ'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bambara perfective frame required by the verb 'fa' (to fill)"
+    }
+  ],
+  "translation": "Kɛlɛn in kɛra: sarakalasebagaw lakɛra bɔ yɔrɔ senuma in na, sigida tuma dɔw tun ye Yawe so fa ni ⟨את⟩ Yawe so ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cc2bed0f20128e20eb376f03c08b2396649cac15686ba256cd7ce849fef6cfbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/10-11.1791950416898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛlɛn in kɛra"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "lakɛra bɔ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "yɔrɔ senuma in"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "sigida tuma dɔw"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T04:00:16.898827552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "rationale": "No token for the vav-conversive prefix; Bambara 'O kɔfɛ' carries the sequence."
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew verb קרא has no explicit subject; Bambara requires a."
+    }
+  ],
+  "translation": "O kɔfɛ, a y'a karan: ⟨את⟩ Tora kuma bɛɛ — duba ni danga — i n'a fɔ bɛɛ min sɛbɛnna Tora sɛbɛn kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "72a236c80121ed401e1c6c1f34c527f1060d41422e1d25e3400a6ee62b8ec6d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/8\/33-35.1791928673608.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "kɔfɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o waati"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a y'a karan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora kuma bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "duba"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "ni danga"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "i n'a fɔ bɛɛ"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "min sɛbɛnna"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sɛbɛn kɔnɔ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    }
+  ],
+  "timestamp": "2026-10-13T21:57:53.610372685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 65:14",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "רוח rendered fiɲɛ (wind\/spirit), per discipline table"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "sing-for-joy-of-heart vs cry-for-pain-of-heart mirrors v13 antithesis"
+    }
+  ],
+  "translation": "Awɔ, n ka sɔnkalabagaw bɛna dusukun-diya fɛ dɔnkili da, nka aw bɛna dusukun-tenɛ fɛ kasi, aw bɛna fiɲɛ lasara la wɔlɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "828310d5c80749125b1f7436b6e22b75e7083491fd67e71cef4c9def9115b608",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/65\/13-16.1791934856260.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "awɔ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "n ka sɔnkalabagaw"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "bɛna dɔnkili da"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "diya fɛ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "nka aw"
+    },
+    {
+      "surface": "תצעקו",
+      "gloss": "bɛna kasi"
+    },
+    {
+      "surface": "מכאב",
+      "gloss": "tenɛ fɛ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "ומשבר",
+      "gloss": "lasara la"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "תילילו",
+      "gloss": "bɛna wɔlɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:40:56.262099632Z",
+  "model": "glm-5.3"
+}

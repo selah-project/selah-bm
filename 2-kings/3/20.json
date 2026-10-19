@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "המנחה di waati",
+      "rationale": "Hebrew says only 'at the ascent of the offering'; time-of-day implied by morning sacrifice"
+    }
+  ],
+  "translation": "O kɛra sɔgɔma la, minan di waati la, i ye, jiw nana Edɔmu (Edɔmu jamana) sira la, dugukolo lamɛnra ⟨את⟩ jiw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/3\/17-20.1791932702453.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "o kɛra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sɔgɔma la"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "di waati la"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "מים",
+      "gloss": "jiw"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nana"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "sira la"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edɔmu"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "lamɛnra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiw"
+    },
+    {
+      "surface": "המים",
+      "gloss": "jiw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:05:02.465856794Z",
+  "model": "glm-5.3"
+}

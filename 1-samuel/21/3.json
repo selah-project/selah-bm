@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פלני אלמוני",
+      "rationale": "'such-and-such (place)' — Hebrew deliberately withholds the name; rendered 'yɔrɔ dɔ la min tɔgɔ tɛ sɛbɛn'"
+    },
+    {
+      "kind": "secret",
+      "subject": "mɔgɔ si kana ⟨את⟩ kuma in dɔn",
+      "rationale": "The king's command is explicitly concealed — 'let no man know the matter'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יודעתי",
+      "rationale": "'I have made known (to) the young men' vs KJV 'I have appointed' — the Hebrew verb is 'know' (Hiphil), so the rendering keeps 'ɲɛfɔ' (cause to know)"
+    }
+  ],
+  "translation": "Dawida ko Ahimelek sarakalasebaga ye: masa ye kuma dɔ di ne ma, a ko ne ye: mɔgɔ si kana ⟨את⟩ kuma in dɔn, min de b'i ci ne ma, ani min ne y'i ɲini i ye; ⟨את⟩ dɔgwɛnw fana, ne y'u ɲɛfɔ yɔrɔ dɔ la min tɔgɔ tɛ sɛbɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/21\/1-4.1791930614519.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masa"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "ye kuma dɔ di ne ma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma dɔ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko ne ye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ si"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "foyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuma in"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min de"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "b'i ci ne ma"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ani min"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ne y'i ɲini i ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dɔgwɛnw"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "dɔgwɛnw"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "ne y'u ɲɛfɔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(yɔrɔ) … la"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yɔrɔ dɔ"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "min tɔgɔ tɛ sɛbɛn"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "min tɔgɔ tɛ sɛbɛn"
+    }
+  ],
+  "timestamp": "2026-10-13T22:30:14.521904974Z",
+  "model": "glm-5.3"
+}

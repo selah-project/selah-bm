@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 27:12",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עזבוניך",
+      "rationale": "עזבון occurs only in Ezekiel 27; 'your trade-goods\/market-payments'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bedil \/ ɔfɛrɛt",
+      "rationale": "tin and lead have no common Bamanankan words; transliterated from the Hebrew."
+    },
+    {
+      "kind": "crux",
+      "subject": "Tarshish",
+      "rationale": "Tarshish: a distant port (Tartessus?) or simply a name for merchant ships."
+    }
+  ],
+  "translation": "Tarshish ye ⟨i⟩ jagokɛla ye, ⟨i⟩ nafaw bɛɛ bonya la; u ye warigwɛ, nɛgɛ, bedil ni ɔfɛrɛt di ⟨i⟩ jagoyɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "782a1083cfb2cad0700e585f85bc114bf6ee0966c874707f16c07b961e921f5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/27\/9-12.1791937346181.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "סחרתך",
+      "gloss": "ye ⟨i⟩ jagokɛla ye"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "bonya la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "nafaw"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "nɛgɛ"
+    },
+    {
+      "surface": "בדיל",
+      "gloss": "bedil"
+    },
+    {
+      "surface": "ועופרת",
+      "gloss": "ni ɔfɛrɛt"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "u ye ... di"
+    },
+    {
+      "surface": "עזבוניך",
+      "gloss": "⟨i⟩ jagoyɔrɔ la"
+    }
+  ],
+  "timestamp": "2026-10-14T00:22:26.182199877Z",
+  "model": "glm-5.3"
+}

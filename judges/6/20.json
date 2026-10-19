@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הסלע הלז",
+      "rationale": "kabakurun in — bayɛlɛmabaga dɔw b'a fɔ 'sarakabɔlan' (altar) san kɔrɔ; sɛbɛnni ko 'kabakurun' de"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "preposition before הסלע rendered by position 'kabakurun in kan'"
+    },
+    {
+      "kind": "you",
+      "subject": "ciden ko Gidɔn ye",
+      "rationale": "lasuben-wale in bɛ Gidɔn fɛ"
+    }
+  ],
+  "translation": "Elohim ka ciden ko a ye: ⟨את⟩ kunuko ta, ni ⟨את⟩ buru min tɛ misiri, bila u kabakurun in kan, ka ⟨את⟩ maraki lasubu. A y'a kɛ nin cogo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eeb1eb7c7e240d774b70231b341bd0845962b2ae9d4f7b58ee439c75f9133f22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/6\/17-20.1791929360870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ciden"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunuko"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "kunuko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "buru min tɛ misiri"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "buru min tɛ misiri"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "bila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(u)"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "kabakurun in"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maraki"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "maraki"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "lasubu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a y'a kɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nin cogo ye"
+    }
+  ],
+  "timestamp": "2026-10-13T22:09:20.877786290Z",
+  "model": "glm-5.3"
+}

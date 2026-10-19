@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שמע בקול",
+      "rationale": "'hear the voice of' = 'mɛn ka kan' — Hebrew idiom for obey."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא אתך מאסו כי אתי מאסו",
+      "rationale": "mirror repetition with the two aleph-tav markers — 'not you they rejected, but me they rejected' — chiastic emphasis."
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe to Samuel",
+      "rationale": "direct address commanding Samuel."
+    }
+  ],
+  "translation": "Yawe ye fɔ Shemuel ye ko: jama ka kan mɛn, minnu bɛ fɔ i ye bɛɛ; sabu u ma boli ⟨את⟩ i, nka u boli ⟨את⟩ ne, ne min tun ye bɛ ka sigi u sanfe.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3b097d6fc6f7bce8a83282347fc835f5ea576eebfe01722e6ae2fcf0808829f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/8\/5-8.1791930008015.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ye fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel ye"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka kan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bɛ fɔ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "i (u ma boli i)"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "boli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nka sabu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ne (u boli ne)"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "boli"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "ne min tun ye bɛ ka sigi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "u sanfe"
+    }
+  ],
+  "timestamp": "2026-10-13T22:20:08.018427336Z",
+  "model": "glm-5.3"
+}

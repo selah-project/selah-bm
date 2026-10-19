@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "a bolo (באמנה)",
+      "rationale": "באמנה kɔrɔ: 'a ka lasigi la' walima 'a bɛ tumini la' — 'a bolo' (a bɛ a laada) ta ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨את⟩ a ye",
+      "rationale": "אתו in kɛrɛ ye arrete-preposition ye ('ni a ye'), aleph-tav DO marker tɛ o ye; ⟨את⟩ taamasiyɛn to a la"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fadenw",
+      "rationale": "מולדתה kɔrɔ ye jɔyɔrɔ-badamuw (kindred) ye; 'fadenw' ye surun kuma ye"
+    }
+  ],
+  "translation": "Esteri ma a ka fadenw wal'a jamaa fɔ, i ko Mordekay y'a laadi cogo min na; ⟨את⟩ Mordekay ka laseli, Esteri bɛ a kɛ, i ko a tun bɛ a bolo cogo min na ⟨את⟩ a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6bede21f69033e33b95c7bed723836c3984a73a7ac87fecd5c08838fdd876f0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/2\/17-20.1791945479850.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "a ka fadenw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a jamaa"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "a jamaa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "y'a laadi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekay ka laseli"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "laseli"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bɛ kɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tun bɛ"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:37:59.852628074Z",
+  "model": "glm-5.3"
+}

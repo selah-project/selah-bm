@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלמות לבן",
+      "rationale": "Dɔnkili tɔgɔ min diŋɛ tɛ klar: 'al muth laben' — 'Laben ka sayayɛla' walima dɔnkili dɔ tɔgɔ; JPS b'o to a fɔcogo la, KJV y'a bila."
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "Heburu fɔcogo kɔrɔtɔ 'min bɛ cikanw ɲɛmɔ' — 'ɲɛmɔgɔya' daɲɛ surunnen don."
+    }
+  ],
+  "translation": "Min bɛ ɲɛmɔgɔya, ka to Almut Laben (dɔnkili tɔgɔ) kan, Dawida (Dawuda) ka dɔnkili.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/9\/1-4.1791939686945.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "min bɛ ɲɛmɔgɔya"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Almut"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "dɔnkili"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawida (Dawuda) ta"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:26.945793713Z",
+  "model": "glm-5.3"
+}

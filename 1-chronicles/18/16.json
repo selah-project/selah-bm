@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואבימלך בן אביתר",
+      "rationale": "2 Sam 8:17 lit 'Ahimélek fils d'Abiathar' — Chroniques inverse les noms; copie ou tradition divergente"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sɛbɛnbaga",
+      "rational": "סופר 'celui-qui-compte\/écrit': secrétaire d'État de la cour, pas simple copiste"
+    }
+  ],
+  "translation": "Tsadɔk (Sadɔk), Axitubu den, ni Abimelek (Abimelegi), Abiyatari den, ye sarakalasebagaw ye; Shawsha (Sawusa) ye sɛbɛnbaga ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/18\/13-16.1791948025454.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "Tsadɔk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Axitubu"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiyatari"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "Shawsha"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "sɛbɛnbaga"
+    }
+  ],
+  "timestamp": "2026-10-14T03:20:25.455796060Z",
+  "model": "glm-5.3"
+}

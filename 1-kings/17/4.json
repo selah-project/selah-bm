@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ni",
+      "rationale": "wugu-daɲɛ 'ani\/ni' min bɔ Tubabukan 'and' la, Heburukan wale- fila farali ma a dɔrɔn de wajibiya"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔrɔmw",
+      "rationale": "העורבים = kɔrɔmw; seere dɔw b'a fɔ 'Arabukanna mɔgɔw' ye — kɔrɔmw de ye daɲɛ tilennen ye"
+    },
+    {
+      "kind": "you",
+      "subject": "Eliyahu",
+      "rationale": "Yawe ka kuma kɔrɔ in bɛ tugu Eliyahu ma, ni nɔnabila 'i' ye"
+    }
+  ],
+  "translation": "K'o kɛra, i bɛna ji min bɛ baganji in na, ni m'an ⟨את⟩ kɔrɔmw bɛ sɔn balo di i ma yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "21f0cea942a70dd9a58f6b1cb4d7e49d5fb54bc39ef5e4cc5ca3adc9389f5ae9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/17\/4-4.1791950385354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "k'o kɛra"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "baganji in na"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "i bɛna ji min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kɔrɔmw"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kɔrɔmw"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "m'an ... sɔn"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "balo di i ma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    }
+  ],
+  "timestamp": "2026-10-14T03:59:45.354409255Z",
+  "model": "glm-5.3"
+}

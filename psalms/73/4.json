@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חרצבות",
+      "rationale": "daɲɛ in tɛ Tanaki kɔnɔ yɔrɔ wɛrɛ si la"
+    },
+    {
+      "kind": "crux",
+      "subject": "sonu-jɔyɔrɔw",
+      "rationale": "חרצבות: kɔrɔ tilennen ye kangayɔrɔ ye ('bands' — KJV) nka sɛbɛnnibaga caman b'a kalan ka kɛ sonuyɔrɔ ye ('pangs' — ASV\/JPS)"
+    },
+    {
+      "kind": "crux",
+      "subject": "אולם",
+      "rationale": "daɲɛ in kɔrɔ bɛ se kɛ farisogo ye ('body' — JPS) walima seye ye ('strength' — KJV); Heburukan ka gɛlɛyali bɛ yen sababu daɲɛ in mɔgɔw teerɛ"
+    }
+  ],
+  "translation": "Sabu, u ka saya kɔnɔ, sonu-jɔyɔrɔw si tɛ ⟨yen⟩; u ka farisogo bɛ jɛ ka gigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/73\/1-4.1791940721843.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ ⟨yen⟩"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "sonu-jɔyɔrɔw"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "u ka saya kɔnɔ"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "bɛ jɛ ka gigi"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "u ka farisogo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:18:41.844818883Z",
+  "model": "glm-5.3"
+}

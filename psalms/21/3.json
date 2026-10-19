@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Selah — Heburukan daɲɛ min kɔrɔ ye kumadon-waati jɔyɔrɔ ye, a tɛ bayɛlɛma; a to ka kɛ tɔgɔ ye"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ארשת",
+      "rationale": "a femmilen o kanfɔ — a bɛ Tanaki kɔnɔ yɔrɔ in dɔrɔn (kumadon 782)"
+    }
+  ],
+  "translation": "I ye a dusukun Labati di a ma, a sen femmilen o kanfɔ mɛnɛli ma, i ma a bɔli. Selah.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/21\/1-4.1791939799133.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Labati"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "a dusukun"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "i ye … di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "a sen femmilen o kanfɔ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "mɛnɛli"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma … o kan"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "i ma a bɔli"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:19.134805997Z",
+  "model": "glm-5.3"
+}

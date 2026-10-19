@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 17:9",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew has no pronoun with אמץ; Bamanankan needs it to say whose strength grows"
+    },
+    {
+      "kind": "alternative",
+      "subject": "bɛ a sirataa ta",
+      "rationale": "reading with the versions 'holds on his way'; the verb can also mean 'seizes\/possesses'"
+    }
+  ],
+  "translation": "Kanbɔbagatɔ bɛ a sirataa ta, ani bolo josiratɔ bɛ ⟨a⟩ se fara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "050969a89630496a4744c107a379889634846bc987949476ecb337d38f01da9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/17\/9-12.1791943610346.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאחז",
+      "gloss": "bɛ ta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kanbɔbagatɔ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "a sira"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "josira"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "fara"
+    },
+    {
+      "surface": "אמץ",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-10-14T02:06:50.347458495Z",
+  "model": "glm-5.3"
+}

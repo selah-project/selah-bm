@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 8:9",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כרת",
+      "rationale": "'to cut' a covenant rendered as 'da layidu'; the cutting picture is lost in Bambara as in English"
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Hebrew אין is a plain negative; Bambara past-marker tun supplied for the narrative frame"
+    }
+  ],
+  "translation": "Arɔn (sanduku) na foyi tun tɛ yen, ka na lachow fila dɔrɔn de ye, minnu ye kabakurun lachow ye, minnu na Moshe (Musa) bila yen Horɛb, minnu la Yawe da layidu ni Israyel denw ye ni u bɔra Mitsrayim (Misira) dugukolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5a4410f162ccfad969b89850ef66aa415dd1b91d9b54a93cb4d14de09287504e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/9-12.1791931937416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "foyi tun tɛ yen"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "Arɔn (sanduku) na"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ka na … dɔrɔn de"
+    },
+    {
+      "surface": "שני",
+      "gloss": "fila"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "lachow"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kabakurun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu ye"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "bila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Musa)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Horɛb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu la"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "da layidu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni … ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ni u bɔra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Misira)"
+    }
+  ],
+  "timestamp": "2026-10-13T22:52:17.417923519Z",
+  "model": "glm-5.3"
+}

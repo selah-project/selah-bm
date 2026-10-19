@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ומישרים",
+      "rationale": "plural of 'straightness' rendered sira tilenw to keep the plural shape; Hebrew's abstract plural is lost in the compound"
+    },
+    {
+      "kind": "crux",
+      "subject": "השכל",
+      "rationale": "construct of שכל: 'instruction of wise dealing' (KJV 'of wisdom') vs 'instruction in prudence'; hakili-kɛcogo splits the difference"
+    }
+  ],
+  "translation": "Walasa ka kalan ta, ka hakili-kɛcogo dɔn — tileya ni sariya-jate ni sira tilenw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2cca88d6c846f7141918ca5763a5e9df5eccf4f1fb0f0a227eb2c343c45abd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/1\/1-4.1791942090019.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "ka … ta"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "hakili-kɛcogo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tileya"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ni sariya-jate"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "ni sira tilenw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:41:30.020860389Z",
+  "model": "glm-5.3"
+}

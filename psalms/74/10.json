@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i ka",
+      "rationale": "Possessive supplied: Hebrew צר is bare 'adversary'; Bambara needs the possessor"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Direct address to Elohim, the community's cry of 'how long'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחרף \/ ינאץ",
+      "rationale": "Two near-synonymous verbs of scorn (reproach\/blaspheme) in parallel — intensity doubled, flattened in Bambara"
+    }
+  ],
+  "translation": "Fo waati jumɛn, Elohim? I ka jugutigi bɛ i ka jugu-fɔli kɛ — i tigɛbaga bɛna i tɔgɔ ɲɛgɛn tuma bɛɛ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/74\/9-12.1791940705702.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "waati jumɛn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "ka jugu-fɔli kɛ i kan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "i ka jugutigi"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "bɛna … ɲɛgɛn"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "i tigɛbaga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i tɔgɔ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "tuma bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:18:25.703380098Z",
+  "model": "glm-5.3"
+}

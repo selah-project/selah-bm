@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשבעתי",
+      "rationale": "Hebrew 'swear' rendered 'ye ... ko la' (to affirm by word), Bambara has no oath verb of this shape"
+    },
+    {
+      "kind": "you",
+      "subject": "Moshe",
+      "rationale": "Yawe's imperatives addressed to Moshe"
+    }
+  ],
+  "translation": "Yawe ko ne ye: Ka kɔrɔ ka taa jamaa ɲɛfɛ k'a kɔrɔsili, ka u na ka ⟨את⟩ dugukolo minɛ, dugukolo min ne ye i n'u fabw ye ko la ka di u ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e62f3ec3ade9c0906c2907e177f0bcacb97ab4a2e46019503257bab719fd5d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/10\/9-12.1791927722484.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ka kɔrɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "k'a kɔrɔsili"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ka u na"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ka ... minɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ne ye ... ko la"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "i n'u fabw ye"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ka di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    }
+  ],
+  "timestamp": "2026-10-13T21:42:02.494021660Z",
+  "model": "glm-5.3"
+}

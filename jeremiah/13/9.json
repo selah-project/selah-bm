@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גאון…וגאון",
+      "rationale": "גאון (kabako\/jɔli) ɲagami kelen-kelen fila, Yehuda ni Yerushalayim kan — ɲagaminin in ye ɲɛjiratigi ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גאון",
+      "rationale": "גאון bɛ fɔ fanga-ɲɛmanden ni kabako fila yɛrɛ ye; 'kabako' dɔgɔya dɔyen."
+    }
+  ],
+  "translation": "Nin na Yawe ko: nincogo la ne bɛna ⟨את⟩ Yehuda ka kabako ni ⟨את⟩ Yerushalayim ka kabako ba ban.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bd6aec26ccd12a368d1825379c6cab6cc631dd4c561700d185da260aefaf1b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/13\/9-12.1791935347596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "nin na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "nincogo la"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ne bɛna … ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda ka kabako"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kabako"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim ka kabako"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kabako"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-13T23:49:07.597508698Z",
+  "model": "glm-5.3"
+}

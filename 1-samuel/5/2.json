@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אצל",
+      "gloss note": "",
+      "rationale": "אצל 'near\/beside' rendered as Bambara postposition 'ɲɛfɛ' (in front of), Hebrew has no preposition for 'beside'"
+    }
+  ],
+  "translation": "Pelisitiw ye ⟨את⟩ Elohim ka sanduku ta, ka ⟨את⟩ a na Dagon (Dagan) ka so kɔnɔ, ka ⟨את⟩ a bilalan Dagon ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/5\/1-4.1791930025713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisitiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ka sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a (sanduku)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "bilalan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a (sanduku)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-10-13T22:20:25.716124522Z",
+  "model": "glm-5.3"
+}

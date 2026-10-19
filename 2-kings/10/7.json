@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "faga",
+      "rationale": "וישחטו is 'slaughter' (as sacrifice or massacre); Bambara 'faga' (kill) loses the butchering picture"
+    },
+    {
+      "kind": "crux",
+      "subject": "pɔnw",
+      "rationale": "בדודים: 'baskets' vs 'pots\/boilers' — same dual-shape word, translations split"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "the narrative wayyiqtol 'and it came to pass' compressed into the temporal opening"
+    }
+  ],
+  "translation": "Sɛbɛn in na u ma, u ye ⟨את⟩ masakɛ denw ta, u ye mɔgɔ wolonwula saba ni mugan faga, u ye ⟨את⟩ u ka kunw bila pɔnw kɔnɔ, ka u ci a ma Yizreɛla.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6d668264f15c14da0057f1a70c9c89f27667fac1fcf7a122f2f0075085b61aeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/10\/6-7.1791950602261.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ni ... na"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "sɛbɛn in"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "u ye ... ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masakɛ denw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "u ye ... faga"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "wolonwula saba ni mugan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "u ye ... bila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka kunw"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "u ka kunw"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "pɔnw kɔnɔ"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "u ye ... ci"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreɛla"
+    }
+  ],
+  "timestamp": "2026-10-14T04:03:22.262762393Z",
+  "model": "glm-5.3"
+}

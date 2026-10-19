@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והחרשתי",
+      "rationale": "KJV\/ASV 'I kept silence' (statement) vs JPS 'should I have kept silence?' (question); Hebrew pointing allows both."
+    },
+    {
+      "kind": "you",
+      "subject": "to the wicked one",
+      "rationale": "Yawe addresses the hypocrite directly in the courtroom speech."
+    },
+    {
+      "kind": "elision",
+      "subject": "כמוך",
+      "rationale": "KJV adds 'altogether such an one'; Hebrew says simply 'like you'."
+    }
+  ],
+  "translation": "Olu, i y'olu kɛ, ani ne ma kuma; i y'a miŋɛ ko ne bɛ i nɔgɔn ye; ne bɛ i lafiya ani k'a toɔrɔ i ɲɛw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "36f95caf4e7529b958f44dff04393a274d778a2b4135969277f422c071f1cb07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/50\/21-23.1791940310180.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i y'olu kɛ"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "ne ma kuma"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "i y'a miŋɛ"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ne bɛ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "i nɔgɔn ye"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ne bɛ i lafiya"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "ani k'a toɔrɔ"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "i ɲɛw la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:11:50.181521118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 3:9",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "mɛn",
+      "rationale": "Imperative summons opening the oracle, hear this."
+    },
+    {
+      "kind": "you",
+      "subject": "Yaakov so kuntilenw",
+      "rationale": "Direct address to the heads and rulers of the house of Jacob."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעקש\/יעקב",
+      "rationale": "yaqosh (pervert) echoes the name Yaakov; the sound-link is lost in Bambara."
+    },
+    {
+      "kind": "elision",
+      "subject": "nin",
+      "rationale": "The particle נא (entreaty) has no exact equivalent and is rendered as a mild 'nin'."
+    }
+  ],
+  "translation": "Nin o mɛn, Yaakov so kuntilenw ani Yisrayeli so ɲɛmɔgɔw, minnu bɛ sariya kanuya-bali, ani ⟨את⟩ tiɲɛ-ɲɛmɔgɔya bɛɛ bɛ fili.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/3\/9-12.1791938682475.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "o"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kuntilenw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "ani ɲɛmɔgɔw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "המתעבים",
+      "gloss": "minnu bɛ kanuya-bali"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiɲɛ-ɲɛmɔgɔya bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הישרה",
+      "gloss": "tiɲɛ-ɲɛmɔgɔya"
+    },
+    {
+      "surface": "יעקשו",
+      "gloss": "bɛ fili"
+    }
+  ],
+  "timestamp": "2026-10-14T00:44:42.476412692Z",
+  "model": "glm-5.3"
+}

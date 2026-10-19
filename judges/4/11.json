@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 4:11",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "here את is the preposition 'near' (lemma 854), not the direct-object marker; rendered ⟨את⟩ with locative 'fɛ' (near)"
+    },
+    {
+      "kind": "crux",
+      "subject": "חתן",
+      "rationale": "'hoten' covers father-in-law and brother-in-law of Moses; KJV 'father in law', ASV 'brother-in-law'; Bamanankan 'ɲɔgɔdɔkɛ' keeps the in-law breadth"
+    },
+    {
+      "kind": "addition",
+      "subject": "o Heweri",
+      "rationale": "resumptive pronoun added because Bamanankan needs the long relative clause closed before the main verb"
+    }
+  ],
+  "translation": "Heweri, Kɛnikɛ min bɛ Kɛniw la, Hobabi (Moshe ka ɲɔgɔdɔkɛ) denw ye, o Heweri y'a yɛrɛ bɔ Kɛniw la, ka a ka ɲɛda da Tsananimu jiri la, min bɛ ⟨את⟩ Kedeši fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "39128d9f5cd1ea89fc00d6ea3be1ac112c3edf8892b3a7efddd80eec11265859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/4\/9-12.1791929276423.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Heweri"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Kɛnikɛ"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "y'a yɛrɛ bɔ"
+    },
+    {
+      "surface": "מקין",
+      "gloss": "Kɛniw la"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "… denw"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "Hobabi"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ɲɔgɔdɔkɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ka a da"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "a ka ɲɛda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka se … ma"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "בצענים",
+      "gloss": "Tsananimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeši"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeši"
+    }
+  ],
+  "timestamp": "2026-10-13T22:07:56.431461526Z",
+  "model": "glm-5.3"
+}

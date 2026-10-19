@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אף",
+      "rationale": "Heburukan fɔcogo ko 'a ka nimɔro tulu bɔra' — o ye kiɲɛ taabolo ye; Bamanankan 'kiɲɛ tulu bɔ' de y'a ta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lada",
+      "rationale": "נחלתו kɔrɔ ye a ka lada (fadenya-mara) ye, Yisraɛl jama yɛrɛ."
+    }
+  ],
+  "translation": "Yawe ka kiɲɛ tulu bɔra a ka jama la, a bɔnna ⟨את⟩ a ka lada.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/106\/37-40.1791941317125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "tulu bɔra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kiɲɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "a ka jama la"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "a bɔnna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka lada"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "a ka lada"
+    }
+  ],
+  "timestamp": "2026-10-14T01:28:37.126077360Z",
+  "model": "glm-5.3"
+}

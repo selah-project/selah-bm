@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 41:29",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "און אפס מעשיהם",
+      "rationale": "word order read two ways: 'their works are nothing' (KJV) vs 'nothing are their works' attributing emptiness to the idols themselves (ASV\/JPS)"
+    },
+    {
+      "kind": "crux",
+      "subject": "נסכיהם",
+      "rationale": "נסך means both 'libation' and 'cast (metal) idol'; rendered here as molten images"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח ותהו",
+      "rationale": "tohu echoes Gen 1:2's formless waste, applied to idols — wind and wild-emptiness"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara equative 'ye…ye' supplied where Hebrew has no verb 'to be'"
+    }
+  ],
+  "translation": "Anw! u bɛɛ ⟨ye⟩ fɛn yelenw ⟨ye⟩; u ka baaraw ye foyiwali ⟨ye⟩; u ka santonbatofɛnw ye fiɲɛ ni daji ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "42484a9a7a36db5fb3b46c15768639d6b03f235fb19a1a0d996c21c0ff206593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/41\/29-29.1791934265386.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Anw"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "u bɛɛ"
+    },
+    {
+      "surface": "און",
+      "gloss": "fɛn yelenw"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "foyiwali"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "u ka baaraw"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "ni daji"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "u ka santonbatofɛnw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:31:05.387350243Z",
+  "model": "glm-5.3"
+}

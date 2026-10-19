@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dɔgɔkunbagaw",
+      "rationale": "עניים 'diminuyenw \/ dɔgɔkunbagaw' — mɔgɔ minnu sigilen bɛ gɛlɛyala kɔnɔ"
+    },
+    {
+      "kind": "crux",
+      "subject": "joli ɲininka",
+      "rationale": "דרש דמים: 'ka joli ɲininka' (KJV) walima 'ka joli dulɛnni' (JPS 'avengeth blood')"
+    }
+  ],
+  "translation": "Sabu min bɛ joli ɲininka, o Yawe ye ⟨את⟩ olu fimindi, a ma bɔn dɔgɔkunbagaw ka kodɔgɔli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7177c1999b3dac1e63867afd0dc8bb3174a434db8c9474bf88cdd1be3a620ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/9\/13-16.1791939641912.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ɲininka"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "joli"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "olu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "fimindi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "bɔn"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "kodɔgɔli"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "dɔgɔkunbagaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:41.913035980Z",
+  "model": "glm-5.3"
+}

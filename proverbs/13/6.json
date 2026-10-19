@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חטאת",
+      "rationale": "'sin\/sinner' vs 'sin offering' (YLT) vs 'offence' — one Hebrew word covers all."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תם",
+      "rationale": "Hebrew is abstract noun 'innocence\/blamelessness' rendered as an adjective 'upright' for Bambara syntax."
+    }
+  ],
+  "translation": "Sɛgɛsɛgɛli bɛ sira tilennen mara, nka julumu bɛ jurumutigɛ ka sira wɔgɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/13\/5-8.1791942385974.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "sɛgɛsɛgɛli"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "bɛ mara"
+    },
+    {
+      "surface": "תם",
+      "gloss": "tilennen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "nka julumu"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "bɛ wɔgɔrɔ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "jurumutigɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:46:25.975103150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצבאות",
+      "rationale": "gazelles\/does vs 'armies\/hosts' (same letters as צבאות); rendered as animals per context"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעירו\/תעוררו",
+      "rationale": "same root עור twice, 'stir up \/ awaken' — repetition kept with two Bambara verbs jɔ and yɔgɔ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "o kumasen",
+      "rationale": "adjuration addressed directly to the daughters of Jerusalem"
+    },
+    {
+      "kind": "you",
+      "subject": "Yerushalayim denmusow",
+      "rationale": "direct address to the daughters of Jerusalem"
+    }
+  ],
+  "translation": "N b'aw kabila kɛ, aw Yerushalayim (Jerusalɛmu) denmusow: ni foro sanjiw walima ni foro sangi-musow ye — kana kanuya jɔ, kana a yɔgɔ, fo a yɛrɛ b'a fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/3\/5-8.1791944597980.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "N b'aw kabila kɛ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aw",
+      "marks": "Yerushalayim denmusow"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "denmusow"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "ni foro sanjiw ye"
+    },
+    {
+      "surface": "או",
+      "gloss": "walima"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "ni foro sangi-musow ye"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "foro"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "kanuya jɔ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "a yɔgɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanuya"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "kanuya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "a yɛrɛ b'a fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:23:17.981784117Z",
+  "model": "glm-5.3"
+}

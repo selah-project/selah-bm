@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 42:9",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא את פני",
+      "rationale": "lit. 'lifted the face of Job' = accepted him; Bambara keeps the literal face-lifting"
+    },
+    {
+      "kind": "substitution",
+      "subject": "commanded",
+      "rationale": "דבר is plain 'spoke'; English versions upgrade to 'commanded', Bambara keeps 'fɔra'"
+    }
+  ],
+  "translation": "Elifazi Temanitigi ni Bilidad Shuhitigi ni Tsophar Naamatigi ye taa, u ye kɛ a min na Yawe ye u ma fɔ; Yawe ye ⟨את⟩ Ayyuba (Ayyub) ɲɛ wuli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a960b02eaf6dc25d26ec0a01424a845c6203eeb4c868bb9eeb53f1e88252881e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/42\/9-12.1791944579783.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "u ye taa"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazi"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Temanitigi"
+    },
+    {
+      "surface": "ובלדד",
+      "gloss": "ni Bilidad"
+    },
+    {
+      "surface": "השוחי",
+      "gloss": "Shuhitigi"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Tsophar"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "Naamatigi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "u ye kɛ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a min na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fɔra"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "wulila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayyuba ɲɛ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayyuba"
+    }
+  ],
+  "timestamp": "2026-10-14T02:22:59.785020827Z",
+  "model": "glm-5.3"
+}

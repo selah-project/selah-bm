@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ימלו",
+      "rationale": "נמל literally 'to be clipped\/circumcised'; rendered here as 'be cut down (like grass)'; KJV\/ASV read a cognate of מול 'cut off'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "wili-wili koroni",
+      "rationale": "JPS\/BSB take מהרה with the withering rather than the cutting; I follow KJV\/ASV attaching it to the mowing"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כחציר…דשא",
+      "rationale": "two grass-words frame the verse in parallel halves; Bambara repeats 'bin' to keep the pair"
+    }
+  ],
+  "translation": "Sabu i n'a fɔ bin ye, wili-wili koroni, u bɛnna bɛge; ani i n'a fɔ bin jɛman ye, u bɛnna kɔɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f3ea23ebe51ad923d457430ae7d257980163d1aebb299801f9d162b6d5a175df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/2-3.1791951151188.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "i n'a fɔ bin ye"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "wili-wili"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "u bɛnna bɛge"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "ani i n'a fɔ bin jɛman ye"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "u bɛnna kɔɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:31.189386450Z",
+  "model": "glm-5.3"
+}

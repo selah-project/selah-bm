@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואני תפלה",
+      "rationale": "literal 'but I — prayer', an ellipsis; alternatives: 'I am all prayer' (JPS), 'I give myself to prayer' (KJV), 'I am a man of prayer' (BSB)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ישטנוני",
+      "rationale": "verb שׂטן 'to accuse' occurs as a verb only here in the Tanakh — the root otherwise names the accuser, satan"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שטנ\/אהב",
+      "rationale": "love answered by accusation, the two roots set in deliberate opposition across the verse"
+    }
+  ],
+  "translation": "N'ka kanuya nɔ na, u bɛ n fɔ ɲɛ-jaw la; n ye ⟨donibaga⟩ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/109\/1-4.1791941472119.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "nɔ na"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "n'ka kanuya"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "u bɛ n fɔ ɲɛ-jaw la"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "n"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "doni"
+    }
+  ],
+  "timestamp": "2026-10-14T01:31:12.120351995Z",
+  "model": "glm-5.3"
+}

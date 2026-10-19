@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעפלים",
+      "rationale": "Emerods\/tumors vs hemorrhoids vs swellings — hapax; rendered 'bɔkɔw' (sores\/swellings), a guess for a rare word."
+    },
+    {
+      "kind": "substitution",
+      "subject": "השמים",
+      "rationale": "Dual 'two heavens' rendered plural 'sankolow'; Bambara has no dual."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותעל ... השמים",
+      "rationale": "The cry 'ascends' to the heights — verb of ascent kept with 'nana ... la'."
+    }
+  ],
+  "translation": "Mɔgɔw minnu ma sa, u bɔna ni bɔkɔw ye, ani dugu ka weleli nana sankolow la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2303b2ea9c141eab8e8f8d5c0f37c3c2369c11d5d46caa876a09786549350a80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/5\/12-12.1791950163672.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "ani mɔgɔw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "u bɔna"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ni bɔkɔw ye"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ani … nana"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "weleli"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugu ka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow la"
+    }
+  ],
+  "timestamp": "2026-10-14T03:56:03.673060236Z",
+  "model": "glm-5.3"
+}

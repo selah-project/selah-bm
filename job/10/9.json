@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 10:9",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka taa",
+      "rationale": "Hebrew ואל עפר 'and unto dust'; Bambara needs the motion particle la\/ka taa for the direction"
+    },
+    {
+      "kind": "invitation",
+      "subject": "זכר נא",
+      "rationale": "Job's plea 'remember, I pray' directly addresses Yawe"
+    },
+    {
+      "kind": "you",
+      "subject": "זכר נא",
+      "rationale": "direct address to Yawe"
+    }
+  ],
+  "translation": "I kɔlɔsi nin, ko i ye nin dilan i n'a fɔ kolo ye, wa i bɛna nin segin buguri la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5b244dc857c8dc500384d425383971a53fb7804a31da230e00b822d82ca665e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/10\/9-12.1791943485637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "i n'a fɔ kolo"
+    },
+    {
+      "surface": "עשיתני",
+      "gloss": "i ye nin dilan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani ⟨ka taa⟩"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "buguri"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "i bɛna nin segin"
+    }
+  ],
+  "timestamp": "2026-10-14T02:04:45.637937758Z",
+  "model": "glm-5.3"
+}

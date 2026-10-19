@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 10:3",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun bɛ",
+      "rationale": "final clause lacks a verb in Hebrew — 'and the two tablets in my hand'; Bamanankan needs a stance verb."
+    },
+    {
+      "kind": "measurement",
+      "subject": "fila",
+      "rationale": "the two tablets counted again, echoing verse 1."
+    }
+  ],
+  "translation": "N ye jiri sanduku (shita) dilan, n ye kabakurun-sɛbɛn fila sɛgɛ i n'a fɔ fɔlɔw ye, n san kulu kan, kabakurun-sɛbɛn fila ne bolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b271a3e442c49beb7e6f752a2ed9e082a3529a768624f4a9f20b44cb682bfd5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/10\/1-4.1791927734306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "dilan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shita"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "sɛgɛ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "fila"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "kabakurun-sɛbɛn"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kabakurun"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "i n'a fɔ fɔlɔw"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "san"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "kulu kan"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "fila"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "kabakurun-sɛbɛnw"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ne bolo la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:42:14.317860820Z",
+  "model": "glm-5.3"
+}

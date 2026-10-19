@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ɲɔgɔn fɛ",
+      "rationale": "יחדו is one adverb 'together'; Bambara needs the phrase 'ɲɔgɔn fɛ'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויועדו",
+      "rationale": "'appointed themselves together' rendered as 'called each other'; the reflexive nuance is folded into the reciprocal"
+    }
+  ],
+  "translation": "Masakɛw nin bɛɛ ye ɲɔgɔn wele, u nana, u sigi ɲɔgɔn fɛ Merom (Marom) ji la, ka na ka kɛlɛ kɛ Israel la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b9a6acd5bcf88750ff216a45da301d8c052f1cef7bdab7f72de0bfd9e14fee4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/11\/5-8.1791928867856.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "u ye ɲɔgɔn wele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "u nana"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "u sigi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɲɔgɔn fɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ji"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Merom (Marom)"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ka kɛlɛ kɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-10-13T22:01:07.857143405Z",
+  "model": "glm-5.3"
+}

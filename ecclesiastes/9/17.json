@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנחת",
+      "rationale": "restful\/quiet: 'in quiet' (KJV) vs 'gently\/softly' — rendered as speech-manner ni laaɲɛ ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "zaasakrili",
+      "rationale": "זעקה is outcry\/shriek; jamakɛtigi's cry rendered as loud shouting."
+    },
+    {
+      "kind": "addition",
+      "subject": "min",
+      "rationale": "relative particle added to link cry-of-ruler among fools in Bambara syntax."
+    }
+  ],
+  "translation": "Hakilintigiw ka kumaw bɛ mɛn ni laaɲɛ ye, ka zaasakrili ye jamakɛtigi min bɛ kisiliw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4942a5bb515b16e718bf405fea6d11ec38523fd37d1c5d9bf58424b5c7cf178a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/9\/17-18.1791945192698.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "hakilintigiw"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "ni laaɲɛ ye"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "bɛ mɛn"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "ka zaasakrili ye"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "jamakɛtigi"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "kisiliw la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:33:12.700047244Z",
+  "model": "glm-5.3"
+}

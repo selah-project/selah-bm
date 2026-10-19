@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "'Ne, ne' — ɲɛda-daɲɛ kelen-kelen ɲɔgɔnna; Yawe ka yɛrɛ-ɲɛfɔli."
+    },
+    {
+      "kind": "you",
+      "subject": "Tsiyon ka mɔgɔw \/ Yawe ka jamana",
+      "rationale": "Yawe bɛ kuma a mɔgɔw la yɛrɛ la, ne-cogoya kɔnɔ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bin",
+      "rationale": "חציר kɔrɔka fɔcogo ye nɔgɔya-sira daɲɛ ye; 'min bɛna kɛ bin ye' bɔcogo farala a kan."
+    }
+  ],
+  "translation": "Ne, ne de ye o ye min bɛ aw balikura: ⟨jumɛn⟩ i ye min ye, i siranen hadamaden la min bɛna sa, ani Adam ka den, min bɛna kɛ bin ye?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e5ac8a98696d3e7742f23015c59ce496e0adf778b3fb323398ae4a5afe755ca6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/51\/9-12.1791934564408.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o de ye"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "min bɛ aw balikura"
+    },
+    {
+      "surface": "מי",
+      "gloss": "jumɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "i siranen"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "hadamaden la"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "min bɛna sa"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "ani … ka den"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "bin"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "min bɛna kɛ … ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:36:04.410622106Z",
+  "model": "glm-5.3"
+}

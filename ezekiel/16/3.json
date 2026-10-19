@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 16:3",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yerushalayim",
+      "rationale": "the oracle addresses Jerusalem directly as a woman"
+    },
+    {
+      "kind": "addition",
+      "subject": "i ba ye",
+      "rationale": "Hebrew omits the copula before 'a Hittite'; Bambara requires it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bobolo",
+      "rationale": "מכרתיך literally 'your origin\/root-stock', rendered as 'your root' to keep the birth-image"
+    }
+  ],
+  "translation": "I k'a fɔ ko: Adonay Yawe kɔrɔfɔ Yerushalayim ye ko: i ka bobolo ni i ka bangow bɔra Kenacanadenw ka dugukolo la; i fa ye Emoriden ye, ⟨i ba ye⟩ Hititen ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "02571a2b4194ea0a33b19d8862d080d37c80ca8b47edaa0d958153893f6516ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/16\/1-4.1791936904546.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "i k'a fɔ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kɔrɔfɔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayim ye"
+    },
+    {
+      "surface": "מכרתיך",
+      "gloss": "i ka bobolo"
+    },
+    {
+      "surface": "ומלדתיך",
+      "gloss": "i ka bangow"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "bɔra dugukolo la"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenacanadenw ka"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "i fa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriden"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "i ba"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hititen"
+    }
+  ],
+  "timestamp": "2026-10-14T00:15:04.547219365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sɛgɛsɛgɛ",
+      "rationale": "לנסות ka kɔrɔ ye 'ka ɲini lasɔmini' ye — ka dɔ lajɛ a ka seko bɛɛ la; 'sɛgɛsɛgɛ' datugulen na"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mɛn",
+      "rationale": "הישמעו kɔrɔ ka ɲɛ 'k'a mɛn ka tugu a jɔ' — mɛn ni itunesiri bɛ ɲɔgɔn fɛ"
+    },
+    {
+      "kind": "elision",
+      "subject": "הישמעו",
+      "rationale": "Hebrew direct question 'yala...wa' rendered as Bambara 'yala … (ye)' — a question-shape Bamanankan supplies"
+    }
+  ],
+  "translation": "Olu ye kɛ walasa k'u ye ⟨את⟩ Israeliyaw sɛgɛsɛgɛ, walasa ka dɔn yala u bɛna mɛn ⟨את⟩ Yawe ka lasedɔw, minnu o y'a lase ⟨את⟩ u baw ma, Moshe (Musa) bolo fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1c6f370d3b9d1953487ec56ea2c898e7dfd862e396306003c91e5f16740d1eba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/3\/4-4.1791950174913.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "olu ye kɛ"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "walasa ka sɛgɛsɛgɛ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ni u ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeliyaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeliyaw"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "walasa ka dɔn"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "yala u bɛna mɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lasedɔw"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "lasedɔw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "y'a lase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u baw"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "u baw"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo fɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-14T03:56:14.913651300Z",
+  "model": "glm-5.3"
+}

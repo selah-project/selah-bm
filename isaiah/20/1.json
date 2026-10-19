@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew בוא אשדודה has no noun for house\/city; 'na' alone carries the motion"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סרגון",
+      "rationale": "Sargon king of Assyria is named only here in the Tanakh"
+    }
+  ],
+  "translation": "San min na Tartan (Tartan) ye Ashdod (Ashdod) so na, Sargon (Sargon), Ashur (Ashur) masakɛ, min ye ⟨אתו⟩ ci, ka Ashdod kɛlɛ kɛ, ka a minɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dee70f1b0a5d118d2e4945ec1812b963b48feee69148f82443a9aeb3d94a3d20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/20\/1-4.1791933812978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "san min na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdod so"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "min ye ci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Tartan"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ka kɛlɛ kɛ"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Ashdod kan"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ka a minɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:23:32.982867646Z",
+  "model": "glm-5.3"
+}

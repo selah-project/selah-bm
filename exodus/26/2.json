@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 26:2",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "segin ni mɔgɔtan ama",
+      "rationale": "ju ka gɛ ni ja ka jate bɛ yen — 28 × 4 ama"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ye⟩",
+      "rationale": "Bamanankan de bɛ copula wajibi; Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ama",
+      "rationale": "אמה ye bolo-kɔnɔmatigelen ye (kɔnɔtigi bolo min na i b'a kɔlɔsi); 'ama' ye sɛbɛnni-yɛlɛma ye"
+    }
+  ],
+  "translation": "Ju kelen ka gɛ ⟨ye⟩ segin ni mɔgɔtan ama; a ka ja ⟨ye⟩ naanin ama — ju kelen; kɔlɔsilen kelen juw bɛɛ ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "05f50be337aa0bc8e60bc8f241b60b061d1c6fd6af66a52c361de9576b52c249",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/26\/1-4.1791926927554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "gɛ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ju"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "segin"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ni mɔgɔtan"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ni ja"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "naanin"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ju"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "kɔlɔsilen"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ ma"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "juw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:28:47.556522168Z",
+  "model": "glm-5.3"
+}

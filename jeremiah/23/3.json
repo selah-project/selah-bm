@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 23:3",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sagayɔrɔw",
+      "rationale": "נוהן is 'their fold\/pasture-home'; rendered 'their grazing-places'."
+    },
+    {
+      "kind": "elision",
+      "subject": "sham",
+      "rationale": "שם 'there' kept as an adverb with no Bambara construction beyond locative 'la'."
+    }
+  ],
+  "translation": "Nin na ne bɛ ⟨את⟩ n ka sagaw lawalenw lagbaya à bɔ dugukolo bɛɛ la minnu na n y'u da wili ⟨את⟩ u sham; ne bɛna u segin u ka sagayɔrɔw la, u bɛna jiridenw bɔ ani ka caya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d2e90f6b9d8caa26d81b7ea4847707972dc7915f35fa0d89d5558ff0da9083d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/23\/1-4.1791935651678.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nin na ne"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "bɛ lagbaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n ka sagaw lawalenw"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "lawalenw"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "n ka sagaw"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la bɔ"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "dugukolow"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu na"
+    },
+    {
+      "surface": "הדחתי",
+      "gloss": "n y'u da wili"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "n ka sagaw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sham"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ne bɛna u segin"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "n ka sagaw lawalenw"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "נוהן",
+      "gloss": "u ka sagayɔrɔw"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "ani u bɛna jiridenw bɔ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ani ka caya"
+    }
+  ],
+  "timestamp": "2026-10-13T23:54:11.679570722Z",
+  "model": "glm-5.3"
+}

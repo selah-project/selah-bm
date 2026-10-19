@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "samiya kuluw",
+      "rationale": "8:14 repeats the refrain of 2:8-9 word for word (gazelle\/stag upon mountains) — the book closes on its opening echo; Bambara keeps the repetition."
+    },
+    {
+      "kind": "invitation",
+      "subject": "bɔ yan",
+      "rationale": "Closing imperative of the whole book: a summons to flight, addressed to the beloved."
+    },
+    {
+      "kind": "you",
+      "subject": "n di",
+      "rationale": "Direct address to דודי, the speaker's beloved."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gazɛli",
+      "rationale": "צבי means both 'gazelle' and 'splendor'; loanword gazɛli keeps the animal picture, the splendor sense is lost."
+    }
+  ],
+  "translation": "Bɔ yan, n di, i yɛrɛ ta kɛ gazɛli ye walima ayɔrɔbagan konin ye, samiya kuluw sanfɛ!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/8\/13-14.1791944660053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "bɔ yan"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "n di"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "i yɛrɛ ta kɛ … ye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yɛrɛ"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "gazɛli"
+    },
+    {
+      "surface": "או",
+      "gloss": "walima"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ayɔrɔbagan konin"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ayɔrɔbaganw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "kuluw"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samiya dew"
+    }
+  ],
+  "timestamp": "2026-10-14T02:24:20.054096759Z",
+  "model": "glm-5.3"
+}

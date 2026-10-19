@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 18:27",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebrew lacks a copula in “this one is a good man”"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב \/ טובה",
+      "rationale": "“a good man … good news” — the doubled טוב ties the man to his message"
+    }
+  ],
+  "translation": "And the watchman said: “I am seeing ⟨את⟩ the running of the first one; it is like the running of Ahimats (Ahimaas), son of Tsadok (Zadok).” And the king said: “This one is a good man, and he comes with good news.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f6245d9656f81370daf8e4530a6c52b84bfd0ba35364d6f47d5751c5c2b55457",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/18\/25-28.1791931396653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "said"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "the watchman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "am seeing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "the running of the first one"
+    },
+    {
+      "surface": "מרוצת",
+      "gloss": "the running"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "of the first one"
+    },
+    {
+      "surface": "כמרצת",
+      "gloss": "it is like the running"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "of Ahimats"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "of Tsadok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "said"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "the king"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a man"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "זה",
+      "gloss": "this one"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and with"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "news"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "good"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "he comes"
+    }
+  ],
+  "timestamp": "2026-10-13T22:43:16.664326013Z",
+  "model": "glm-5.3"
+}

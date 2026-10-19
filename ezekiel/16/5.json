@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 16:5",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפשך rendered 'i ni' (your life), ni being the fixed gloss for נפש — not 'soul'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתך",
+      "rationale": "אֹתָךְ here is the object of 'your being born' (you), not the bare direct-object marker; rendered as ⟨את⟩ pointing at 'i'"
+    }
+  ],
+  "translation": "Ɲɛ si ma i la yamaruya ye, ka ninu kelen kɛ i ye, ka i yamaruya; nka i bɔra ka sigi foro ɲɛda la, i ni kotigɛli la, don min na ⟨את⟩ i bɔra.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5f2c743630629212a8765fbd70db0e6e73ebf6930ac5cba5bdb2daaaf065710a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/16\/5-8.1791936984369.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si … ma"
+    },
+    {
+      "surface": "חסה",
+      "gloss": "yamaruya"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ka … kɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ninu"
+    },
+    {
+      "surface": "לחמלה",
+      "gloss": "ka yamaruya kɛ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "ותשלכי",
+      "gloss": "i bɔra ka sigi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… la"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ɲɛda"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "foro"
+    },
+    {
+      "surface": "בגעל",
+      "gloss": "kotigɛli la"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "i ni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don min na"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "i bɔra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "i"
+    }
+  ],
+  "timestamp": "2026-10-14T00:16:24.370230092Z",
+  "model": "glm-5.3"
+}

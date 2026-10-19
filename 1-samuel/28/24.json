@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 28:24",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka ... bɛ",
+      "rationale": "Hebrew ולאשה עגל is existential possession; Bambara supplies the 'there was' structure"
+    },
+    {
+      "kind": "substitution",
+      "subject": "buru min ma bulu",
+      "rationale": "מצות literally 'sweetness', i.e. unsoured bread; rendered descriptively as bread without leaven"
+    },
+    {
+      "kind": "substitution",
+      "subject": "faga",
+      "rationale": "זבח is slaughter-for-sacrifice; here rendered plain 'kill\/slaughter' since no altar is in view"
+    }
+  ],
+  "translation": "Muso ka misiden min bɛ misikɛnɛ na so kɔnɔ: a y'a jagoya, a y'a faga; a ye kunɛ ta, a y'a ɲɛmi, ka buru min ma bulu furakɛ ni a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "11563c63f7f5cc8c9813e0d72f182e303b687607f0022aea2414ee0552044005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/28\/24-24.1791950298169.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשה",
+      "gloss": "muso"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "misiden"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "misikɛnɛ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so kɔnɔ"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "a y'a jagoya"
+    },
+    {
+      "surface": "ותזבחהו",
+      "gloss": "a y'a faga"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "a ye ... ta"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "kunɛ"
+    },
+    {
+      "surface": "ותלש",
+      "gloss": "a y'a ɲɛmi"
+    },
+    {
+      "surface": "ותפהו",
+      "gloss": "a y'a furakɛ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buru min ma bulu"
+    }
+  ],
+  "timestamp": "2026-10-14T03:58:18.169574187Z",
+  "model": "glm-5.3"
+}

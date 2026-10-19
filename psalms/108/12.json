@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i n'a fɔ yɔrɔ min na",
+      "rationale": "Heburukan kumasen dɔgɔya la; Bamanankan bɛ aɲumaya-sɔrɔ wajibiya"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "ɲininkali ye ('Yala… ?') walima lasɔrɔ ('I ma an bɔ tiɲɛ na')"
+    },
+    {
+      "kind": "you",
+      "subject": "Ala",
+      "rationale": "kumasen bɛ Yawe wele ka kɔnɔ kelen-kelen"
+    }
+  ],
+  "translation": "Yala i ma an bɔ i n'a fɔ yɔrɔ min na, Ala? I tɛ na minɛ, Ala, an ka sobɛw ye?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/108\/9-12.1791941397312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Yala… ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "an bɔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani i tɛ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "na minɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "an ka sobɛw ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:57.313333643Z",
+  "model": "glm-5.3"
+}

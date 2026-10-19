@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "wa-vasah tamasiraw ma bayɛlɛma kuma ye; 'Kɔrɔɔ' de b'a ɲɛfɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "השמים",
+      "rationale": "dual 'sankolow fila' bɛ to 'sankolow' ye, Bamanankan tɛ dual dɔn"
+    }
+  ],
+  "translation": "Kɔrɔɔ, ni Yawe tun bɛna ⟨את⟩ Eliyahu (Iliya) kabako sankolow samiye kɔnɔ, Eliyahu ni Elisha (Elisa) bɔra Giligala (Giligali).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "96b2e076d0d8ffb0b0b2c191b2a172cc2fa14dc4ac0be02c080f78ae9acb500c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/2\/1-4.1791932597487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kɔrɔɔ"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "kabako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "samiye kɔnɔ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "ni Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Giligala"
+    }
+  ],
+  "timestamp": "2026-10-13T23:03:17.492069794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צמח \/ צוץ",
+      "rationale": "'Sprout' (v.17) and 'blossom' (v.18) are twin plant verbs binding the two verses; partially lost in Bamanankan"
+    },
+    {
+      "kind": "crux",
+      "subject": "ni (קרן)",
+      "rationale": "Horn as literal projection vs figure of strength\/splendor; kept literal 'ni' (horn)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lampo",
+      "rationale": "נֵר lamp: loan word used; Bamanankan core table has no lamp term"
+    }
+  ],
+  "translation": "Yan, ne bɛna Dawid ka ni bilala; ne y'a lampo sigi ne ka Mashíaj ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e27ce3ce514b115db809be2108a167f25917f701800b321dbc9477863d4cc479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/132\/17-18.1791941754432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "yan"
+    },
+    {
+      "surface": "אַצְמִיחַ",
+      "gloss": "ne bɛna … bilala"
+    },
+    {
+      "surface": "קֶרֶן",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "Dawid ye"
+    },
+    {
+      "surface": "עָרַכְתִּי",
+      "gloss": "ne y'a sigi"
+    },
+    {
+      "surface": "נֵר",
+      "gloss": "lampo"
+    },
+    {
+      "surface": "לִמְשִׁיחִי",
+      "gloss": "ne ka Mashíaj ma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:54.433332657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kalo wolonwula",
+      "rationale": "The burial is measured: seven months to cleanse the land."
+    },
+    {
+      "kind": "addition",
+      "subject": "olu",
+      "rationale": "Object pronoun supplied — Hebrew verb form וקברום carries the suffix 'them', Bambara needs the free pronoun."
+    }
+  ],
+  "translation": "Isirayeli\tdugu bɛna olu su lasanifi walasa ⟨את⟩ dugukolo ka to ka di, kalo wolonwula.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a20fed10eef06847e563bf34198401139798c7dc96a259654d5e6f8a4fca7730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/39\/9-12.1791937785074.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "bɛna su lasanifi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "למען",
+      "gloss": "walasa"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "ka to ka di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "kalo"
+    }
+  ],
+  "timestamp": "2026-10-14T00:29:45.076174858Z",
+  "model": "glm-5.3"
+}

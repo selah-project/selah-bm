@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכנפיה",
+      "rationale": "כנף heißt Flügel und Gewandsaum — 'in seinen Schwingen' (KJV\/ASV) gegen 'in ihren Säumen' (JPS); hier senfɛnw (Flügel) genommen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוח als רuaḥ hier 'Sturmwind' — Bambara fiɲɛ deckt Wind und Hauch, die Gewaltskomponente des Bildes bleibt"
+    }
+  ],
+  "translation": "Fiɲɛ minɛnna ⟨את⟩ a senfɛnw la; u bɛna maloya sɔrɔ u ka saraka nɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "623db11338dc7f46d03e3c62fb8039bbcad6eed2e692d53b58b3080dd4d302d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/4\/17-19.1791938097947.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "minɛnna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "a"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "a senfɛnw la"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "u bɛna maloya sɔrɔ"
+    },
+    {
+      "surface": "מזבחותיה",
+      "gloss": "u ka saraka"
+    }
+  ],
+  "timestamp": "2026-10-14T00:34:57.948318866Z",
+  "model": "glm-5.3"
+}

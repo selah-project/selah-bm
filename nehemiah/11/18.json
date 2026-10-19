@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sankolo",
+      "rationale": "הקדש 'the holy [city]' is an apposition to עיר; rendered 'the holy city' — the adjective pair kept apart by the construct structure"
+    },
+    {
+      "kind": "measurement",
+      "subject": "284",
+      "rationale": "Census count of Levites in the holy city"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨minnu b'… kɔnɔ⟩",
+      "rationale": "Relative locative supplied where Hebrew juxtaposes bare construct"
+    }
+  ],
+  "translation": "Lewibaw bɛɛ, minnu b'(duguba kɔnɔ) — kɛmɛ fila, wolonwula fila ni ɲɔgɔn ye ni naani.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "024d408f424a83ea204575762aa2027220a60f1d2ca8213739f8240108ab2765",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/11\/17-20.1791947240200.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewibaw"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "minnu b'(duguba kɔnɔ)"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sankolo"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kɛmɛ fila"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "wolonwula fila ni ɲɔgɔn ye"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ni naani"
+    }
+  ],
+  "timestamp": "2026-10-14T03:07:20.201146238Z",
+  "model": "glm-5.3"
+}

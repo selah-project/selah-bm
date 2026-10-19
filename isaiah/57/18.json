@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 57:18",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ואשלם",
+      "rationale": "'repay\/restore' rendered as 'lasigi ni sara di' (make whole, give back)"
+    },
+    {
+      "kind": "addition",
+      "subject": "hɛrɛ-kanmadonnenw",
+      "rationale": "נחומים 'comforts' needed two Bambara words: consolation (maasumɛ) and comfort-givers"
+    }
+  ],
+  "translation": "A siraw, n ye u ye; n bɛna a fisa, n bɛna a ɲɛmɔ; n bɛ lasigi ni maasumɛ ni hɛrɛ-kanmadonnenw di a ma, ni a bonyamɛnɛnw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4ea6d513f3e08da37aca3c846d55a885418a37f3eb838b416de2fd94e6a4f465",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/57\/17-20.1791934727215.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכיו",
+      "gloss": "a siraw"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "n ye … ye"
+    },
+    {
+      "surface": "וארפאהו",
+      "gloss": "n bɛna a fisa"
+    },
+    {
+      "surface": "ואנחהו",
+      "gloss": "n bɛna a ɲɛmɔ"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "n bɛ lasigi (sara di)"
+    },
+    {
+      "surface": "נחומים",
+      "gloss": "maasumɛ ni hɛrɛ-kanmadonnenw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "ולאבליו",
+      "gloss": "a bonyamɛnɛnw (ma)"
+    }
+  ],
+  "timestamp": "2026-10-13T23:38:47.216311822Z",
+  "model": "glm-5.3"
+}

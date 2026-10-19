@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את נשף חשקי",
+      "rationale": "'the twilight of my desire' — Aleph-tav marks the object; some read 'the night of my pleasure' (Babylon's feasting night), others the prophet's longing for dawn."
+    },
+    {
+      "kind": "elision",
+      "subject": "a",
+      "rationale": "Hebrew leaves the agent of שם ('he\/it set') unexpressed; the Bambara pronoun a stands for the implied actor."
+    }
+  ],
+  "translation": "Ne dusukun jɔɔra, siranbaliya ye ne minɛ; ⟨את⟩ ne ka kanuya ka su-fiɲɛ, a y'a jɛ ka kɛ ne ye siranba ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "75ad1e40dba5f69429b035087f8bd8929945858256804858b38a0d6746d47e1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/21\/1-4.1791933848323.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "jɔɔra"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ne dusukun"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "siranbaliya"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "ye ne minɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ka kanuya ka su-fiɲɛ"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "su-fiɲɛ"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "ne ka kanuya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a y'a jɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "siranba ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:24:08.327885955Z",
+  "model": "glm-5.3"
+}

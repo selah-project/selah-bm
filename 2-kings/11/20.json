@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ani",
+      "rationale": "Bambara needs 'ani' before the ⟨את⟩ clause; Hebrew joins clauses with waw alone."
+    }
+  ],
+  "translation": "Jama bɛɛ min bɛ dugukolo kan diyara, ani dugu hɛrɛra; ani ⟨את⟩ Ataliya, u ye ku npan ye masakɛ ka so la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "14e4a16a1fc2f87e6900385045f8570fcb2eda1c1147647683a69eb98cde5d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/11\/17-20.1791932955844.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "diyara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ani dugu"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "hɛrɛra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ataliya"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataliya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "u ye ku"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "npan ye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ ka"
+    }
+  ],
+  "timestamp": "2026-10-13T23:09:15.848652115Z",
+  "model": "glm-5.3"
+}

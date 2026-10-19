@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אז … אז",
+      "rationale": "Repetition of 'then … then' frames the doubled report; kept by repeating 'o waati la'."
+    },
+    {
+      "kind": "crux",
+      "subject": "עם אלה",
+      "rationale": "'with these' — the nations say YHWH did great things 'with\/for these'; 'for them' (KJV) smooths the literal 'with'."
+    },
+    {
+      "kind": "elision",
+      "subject": "siyaw kɔnɔ",
+      "rationale": "בגוים 'among the nations' rendered as within-nations phrase; no clean single Bambara preposition."
+    }
+  ],
+  "translation": "O waati la, fiyi ye an ka da ye jugu, ani donyili ye an ka kan ye; o waati la, siyaw b'a fɔ ko: Yawe ye baasi-kɛba kɛ ni nin mɔgɔw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/126\/1-4.1791941805210.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o waati la"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ye … ye jugu"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "פינו",
+      "gloss": "an ka da"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "ani an ka kan"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "donyili"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o waati la"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "b'a fɔ ko"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "siyaw kɔnɔ"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "baasi-kɛba kɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni … ye"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nin mɔgɔw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:45.211740354Z",
+  "model": "glm-5.3"
+}

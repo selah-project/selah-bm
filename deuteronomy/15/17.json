@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "martsɛ",
+      "rationale": "המרצע has no common Bamanankan word; rendered as loan 'martsɛ' (awl)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "waati bɛɛ",
+      "rationale": "עולם literally 'concealed \/ vanishing point'; rendered 'waati bɛɛ' (all time)"
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Bamanankan needs the possessive before 'da la' (at your door); Hebrew has only the article"
+    }
+  ],
+  "translation": "I na ⟨את⟩ martsɛ ta, k'a bila a tulokɔnɔ ani ⟨i⟩ da la, k'a kɛ ⟨i ye⟩ jon ye waati bɛɛ; i musojon fana, i bɛ kɛ nin cogo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "64ecb1644d8796386ea1fc87c02122cdbad7d713694f384d471a6873b052a062",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/15\/17-20.1791927912537.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i na ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "martsɛ"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "martsɛ"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "k'a bila"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "a tulokɔnɔ"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "ani da la"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "k'a kɛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "jon"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waati bɛɛ"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "fana"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "i musojon"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "i bɛ kɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nin cogo la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:45:12.539482192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד bɛ to a tɔgɔ ye — kanuya wɛrɛ dɔrɔn bɛ a dɔgɔya"
+    },
+    {
+      "kind": "crux",
+      "subject": "חסד",
+      "rationale": "sira wɛrɛw: 'jɔyɔrɔ-donni' (KJV: a kindness) walima 'ɲɛ-ja' — YLT ni JPS ka bɛn o fila la"
+    }
+  ],
+  "translation": "Nasɔnna-ɲɛfɔli bɛ se ka n jɛgi ni hesed ye, ka n kunben; kun-tulu — n kun ma o mun; sabu n Wagadiran bɛ tugu bɛ u taasiw kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/141\/5-8.1791941926554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "ka n jɛgi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Nasɔnna-ɲɛfɔli"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ka n kunben"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "tulu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יני",
+      "gloss": "o mun"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "n kun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "n Wagadiran"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "u taasiw kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:38:46.554952942Z",
+  "model": "glm-5.3"
+}

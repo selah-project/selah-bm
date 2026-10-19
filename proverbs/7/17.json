@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נפתי",
+      "rationale": "Hiphil of נפת 'sprinkle\/perfume' (KJV 'perfumed') vs lemma נוף 'quiver'; rendered as perfume-sprinkling."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moro, ahalimɛ, kinamɔn",
+      "rationale": "Hebrew perfume names transliterated per discipline rule 3 — Bamanankan has no native words for myrrh, aloes, cinnamon."
+    }
+  ],
+  "translation": "N ye n ka balo-so furakili ni mor, ahalimɛ ani kinamɔn ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d3d23095c5c9abfb9fb97bc2f768a64465fa3c1f03dfa46a4615d3a0d992bf93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/7\/17-20.1791942275109.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "n furakili"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "n ka balo-so"
+    },
+    {
+      "surface": "מר",
+      "gloss": "moro"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "ahalimɛ"
+    },
+    {
+      "surface": "וקינמון",
+      "gloss": "ani kinamɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:44:35.109597981Z",
+  "model": "glm-5.3"
+}

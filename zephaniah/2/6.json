@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרת",
+      "rationale": "'meadow' (כר) sounds like the Kerethites (v5) — the coast becomes meadows; the echo is lost in Bamanankan."
+    },
+    {
+      "kind": "addition",
+      "subject": "sagaw ka",
+      "rationale": "the Hebrew folds-of-flock construct is bound; Bamanankan needs the possessive link."
+    }
+  ],
+  "translation": "Kɔgɔji ka yɔrɔ bɛna kɛ sɔnbagaw ka sɔnforow ye, ani sagaw ka dogolenw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "061070029fe53190c117967deeda02d981db13992484cb046daf42f2543ad383",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zephaniah\/2\/5-8.1791939067992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "bɛna kɛ … ye"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "yɔrɔ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "נות",
+      "gloss": "forow"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sɔnforow"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "sɔnbagaw"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "dogolenw"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sagaw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:51:07.993504829Z",
+  "model": "glm-5.3"
+}

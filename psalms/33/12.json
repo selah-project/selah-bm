@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Nɔnabila min b'a jira, Heburukan ma min sɛbɛn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nafolo",
+      "rationale": "נחלה kɔrɔ ye fɛn min bɛ taama denbaya fɛ; Bamanankan nɔnabila ma daɲɛ tilennen si t'a la"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Kopila min bɛ Heburukan kumasen in na, a tɛ sɛbɛnnen"
+    }
+  ],
+  "translation": "Siya nafa de ye min na Yawe ye ⟨a⟩ Ala ye; jama min na a y'i bɔ ka kɛ nafolo ye a yɛrɛ ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2cb67cf099fe60ea1bf1bf3356000e8671c1375dddb0a6477de9fe5aa26cb945",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/33\/11-12.1791951157517.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "nafa de ye"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "a Ala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "nafolo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a yɛrɛ ma"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:37.518176077Z",
+  "model": "glm-5.3"
+}

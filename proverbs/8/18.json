@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "'antique\/old' vs KJV 'durable' vs JPS 'enduring' — rendered as 'that stays through all time'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sariya-tilenya",
+      "rationale": "צדקה covers righteousness\/justice; one compound word must carry both"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "preposition את 'with' (H854, not the direct-object marker) rendered as bɛ … fɛ"
+    }
+  ],
+  "translation": "Wari caman ni suma bɛ ⟨את⟩ ne fɛ; wari min bɛ to waati bɛɛ, ani sariya-tilenya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/8\/17-20.1791942297334.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "wari caman"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ni suma"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ne fɛ",
+      "marks": "bɛ ne fɛ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "wari"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "min bɛ to waati bɛɛ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ani sariya-tilenya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:44:57.335471165Z",
+  "model": "glm-5.3"
+}

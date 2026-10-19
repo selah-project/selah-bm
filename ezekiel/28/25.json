@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 28:25",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew נתתי לעבדי takes two 'to'-phrases; Bambara needs the object pronoun before 'di'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲagami",
+      "rationale": "נפץ 'scatter\/dash in pieces' rendered as ɲagami (dispersed)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ani",
+      "rationale": "Hebrew strings clauses with waw; Bambara needs the conjunction ani between them"
+    }
+  ],
+  "translation": "Cogo nin na Adonay Yawe ye kuma ko: nin ne bɛna ⟨את⟩ Yisraɛl so lamɛn siyaw la minnu kɔnɔ u bɛna ɲagami, ne bɛna u senumaya siyaw ɲɛnanw ye, ani u bɛna sigi dugukolo la min ne y'a di ne ka baarakɛla Yakuba ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "107a6cd93dba7f0cfdba22a43d7c5274eb103e97dc073426055d3a8874172a7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/28\/25-26.1791937332086.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "cogo nin na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ye kuma ko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקבצי",
+      "gloss": "ne bɛna … lamɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔ … la"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "bɛna ɲagami"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u kɔnɔ"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "ne bɛna senumaya"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u la"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ɲɛnanw ye"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "u bɛna sigi"
+    },
+    {
+      "surface": "על",
+      "gloss": "… la"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ne y'a di"
+    },
+    {
+      "surface": "לעבדי",
+      "gloss": "ne ka baarakɛla"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yakuba ma"
+    }
+  ],
+  "timestamp": "2026-10-14T00:22:12.087394982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula 'ye…ye' has no Hebrew counterpart; second 'ye' bracketed"
+    },
+    {
+      "kind": "crux",
+      "subject": "יורה",
+      "rationale": "root of 'Torah' — to throw\/point\/instruct: 'teach sinners' (KJV) vs 'direct\/guide' (YLT) vs 'show the way' (BSB)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "siraw kɔnɔ",
+      "rationale": "way as course of life; the verse frames moral conduct as a road trodden"
+    }
+  ],
+  "translation": "Yawe ye nɔgɔya ni tujatigi ⟨ye⟩; o nɔ na, a bɛ jurumukɛlaw kalan siraw kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/25\/5-8.1791939854135.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nɔgɔya"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ni tujatigi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nɔ na"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "bɛ kalan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "jurumukɛlaw"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "siraw kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:14.136791183Z",
+  "model": "glm-5.3"
+}

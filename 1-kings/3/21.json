@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka kɛ",
+      "rationale": "Hebrew infinitive construct להיניק marks purpose; Bambara needs ka kɛ to carry it"
+    },
+    {
+      "kind": "elision",
+      "subject": "אליו",
+      "gloss-note": "",
+      "rationale": "pronominal 'to him' folded into the Bambara object a in n y'a ɲɛjirbali"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מת \/ היה",
+      "rationale": "double והנה (ani…ani) frames the discovery — the repetition shapes the verse"
+    }
+  ],
+  "translation": "N ye sindi sɔgɔma la ka kɛ ka n denkɛ finbali, ani, a sa; n y'a ɲɛjirbali sɔgɔma, ani, a ma ye n denkɛ min n ye dibi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e3731c071abde7496493c3dacc6ef07386131aadb4194bc841694ab985bbdc14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/3\/21-24.1791931683992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "n ye sindi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sɔgɔma la"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "ka denkɛ finbali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n denkɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n denkɛ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "n y'a ɲɛjirbali"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sɔgɔma"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ma ye"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n denkɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "n ye dibi"
+    }
+  ],
+  "timestamp": "2026-10-13T22:48:03.997187274Z",
+  "model": "glm-5.3"
+}

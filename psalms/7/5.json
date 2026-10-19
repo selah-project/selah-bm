@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש-style: שולמי fɔra 'nin bɛ hɛrɛ ni ne ye' — a ye nafa daɲɛbɛn ye, a tɛ tɔgɔ ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "ריקם",
+      "rationale": "KJV b'a kalan 'jugutɔ min bɛ ne kunbɛn tiɲɛ tɛ' — david ka jurumu-flɛ; JPS\/BSB kalan 'n y'a jigi gansan' — o de tiɲɛ don waati sisan"
+    },
+    {
+      "kind": "addition",
+      "subject": "nin ye",
+      "rationale": "Heburukan ma nɔnabila si sɛbɛn; Bamanankan ka a mɔgɔ lakika"
+    }
+  ],
+  "translation": "Ni n ye juguya sanfila nin bɛ hɛrɛ ni ne ye bɔ a la ⟨nin ye⟩, ani ni n ye ne ka jugutɔ yamaroya tiɲɛ tɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/7\/5-8.1791939538741.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "n ye … sanfila"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "nin bɛ hɛrɛ ni ne ye"
+    },
+    {
+      "surface": "רע",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "ani ni n ye … yamaroya"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ne ka jugutɔ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tiɲɛ tɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:58.742322787Z",
+  "model": "glm-5.3"
+}

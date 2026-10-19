@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Obadiah an Eliyahu",
+      "rationale": "Obadiah's reproach addressed directly to Elijah: 'you say, go…'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nin bɛ yen",
+      "rationale": "הנה is an interjection of pointing ('aw!'); rendered as 'here is' since Bamanankan lacks a matching behold-word."
+    }
+  ],
+  "translation": "Waati nin na, i bɛ fɔ ko: taa, k'a fɔ i Matigi ma ko: nin bɛ yen, Eliyahu; k'o na ne faga.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "14bc60d05de03195ed682f16b6e3c613dace6618370cf1164f0661cc7c642b35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/18\/13-16.1791932364029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "waati nin na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bɛ fɔ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "k'a fɔ"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "i Matigi ma"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nin bɛ yen"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "k'o na ne faga"
+    }
+  ],
+  "timestamp": "2026-10-13T22:59:24.035073152Z",
+  "model": "glm-5.3"
+}

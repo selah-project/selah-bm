@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-kings 8:53",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i ka⟩",
+      "rationale": "לנחלה construct-bound to לך; Bambara needs the possessive supplied"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Solomon's prayer still addresses Yawe directly, second person throughout"
+    },
+    {
+      "kind": "elision",
+      "subject": "בהוציאך",
+      "rationale": "infinitive construct with suffix 'in your bringing out' split around ⟨את⟩ object; Bambara renders as 'ni i ye … bɔ'"
+    }
+  ],
+  "translation": "Sabu i ye u kɔrɔsi i ye ka kɛ ⟨i ka⟩ kalifali ye, dugukolo jamana mɔgɔw bɛɛ la, i n'a fɔ i ye fɔ Moshe (Musa), i ka jon bolo fɛ, ni i ye ⟨את⟩ an ka mɔgɔkɔrɔw bɔ Mitsrayim (Misira) na, Adonay Yawe.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "663d1146ff5302bced86ddd3163010ad9d5076ef6699b86236ab273e69b782c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/53-56.1791931984419.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "הבדלתם",
+      "gloss": "kɔrɔsi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "kalifali"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jamana mɔgɔw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo fɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Musa)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i ka jon"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "ni i ye … bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an ka mɔgɔkɔrɔw"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "an ka mɔgɔkɔrɔw"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim (Misira)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T22:53:04.423493318Z",
+  "model": "glm-5.3"
+}

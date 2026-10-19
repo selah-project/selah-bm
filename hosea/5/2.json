@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושחטה שטים העמיקו",
+      "rationale": "Very obscure: 'the slaughter of rebels they deepened' (KJV) vs 'rebels are deep in slaughter'; some read שחטה as 'Shittim' place."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואני מוסר לכלם",
+      "rationale": "'I am discipline to them all' vs JPS 'I am rejected of them all' (מוסר read as related to מסר) vs ylt 'a fetter'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "laseli",
+      "rationale": "מוסר covers chastisement, warning and instruction; 'laseli' (correction) keeps only the discipline edge."
+    }
+  ],
+  "translation": "Ni juwubagaw na sɔgɔli-kɛli kɔgɔji kɛ, ani ne de ye laseli ye u bɛɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2b589ec0ff0ad2b7d454acc93bb2d7849a3a3082992abda93e1321280943c471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/5\/1-4.1791938202358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "sɔgɔli-kɛli"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "juwubagaw"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "kɔgɔji kɛra"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ani ne"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "laseli"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "u bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:36:42.359764836Z",
+  "model": "glm-5.3"
+}

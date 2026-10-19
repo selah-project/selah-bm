@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 18:1",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "numukɛso",
+      "rationale": "אהל מועד kelen-kelen bɛ ye: so + numukɛ-yɔrɔ; bayɛlɛmali jɔlen 'tabernacle of the congregation' tɛ Bamanankan daɲɛ ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mara n'u bolo ye",
+      "rationale": "נכבשה לפניהם ye 'a nana u bolo ye \/ a tun bɛ u ɲɛfɛ' — 'subdued' kɔrɔ 'ka tugu, ka mara'"
+    },
+    {
+      "kind": "elision",
+      "subject": "לפניהם",
+      "rationale": "Heburukan fɔcogo 'u ɲɛ', Bamanankan 'n'u bolo' (fanga-ɲɛfɔli) dɔrɔn de nɔgɔya"
+    }
+  ],
+  "translation": "Yisraela (Izraili) denw ka jama bɛɛ ye u jɔ Shilo (Siloo), u ye ⟨את⟩ numukɛso sigi yen, ka dugukolo mara n'u bolo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "41539cac0c1f8898f77ebb824959dfdc05f35696e8945471499554c7b57532b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/18\/1-4.1791928934525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "u ye u jɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "וישכינו",
+      "gloss": "u ye ... sigi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numukɛso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "so"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "numukɛ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ka dugukolo"
+    },
+    {
+      "surface": "נכבשה",
+      "gloss": "mara ... ye"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "n'u bolo"
+    }
+  ],
+  "timestamp": "2026-10-13T22:02:14.530108508Z",
+  "model": "glm-5.3"
+}

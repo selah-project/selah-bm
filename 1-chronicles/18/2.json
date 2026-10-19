@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duba",
+      "rationale": "מנחה ye 'duba-minɛli' ye — sanu-minɛli lasubaga walima sarakaduba; 'duba' dɔgɔya dɔ bɛ yen"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka na a ye",
+      "rationale": "Heburukan 'minnu bɛ duba wuli' de fɔ; Bamanankan ka taamali-cogo kuntilenna"
+    }
+  ],
+  "translation": "A ye ⟨את⟩ Moab (Moabi) taga, Moabkaw kɛra Dawuda jaw ye, minnu bɛ duba wuli ka na a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/18\/1-4.1791948063851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ye … taga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kɛra … ye"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabkaw"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "jaw"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "minnu bɛ … wuli"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "duba"
+    }
+  ],
+  "timestamp": "2026-10-14T03:21:03.852835597Z",
+  "model": "glm-5.3"
+}

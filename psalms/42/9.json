@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept untranslated per discipline — one Bambara word (kanuya, makari) would narrow it"
+    },
+    {
+      "kind": "elision",
+      "subject": "חיי",
+      "rationale": "Hebrew 'my lives' — plural of intensity rendered as 'ne ka ni da' (of my life)"
+    }
+  ],
+  "translation": "Don bɛɛ Yawe bɛna hesed lase, ani su la a ka don bɛ ne fɛ, taabolo El min ye ne ka ni da.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/42\/9-12.1791940146043.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "don bɛɛ"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "bɛna lase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ani su la"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "don"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne fɛ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "taabolo"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ne ka ni da"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:06.043932237Z",
+  "model": "glm-5.3"
+}

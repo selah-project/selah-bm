@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 11:13",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aw",
+      "rationale": "ראשים לאבות 'aw' literally 'faw' — Bamanankan has no bound-construct shape for this."
+    },
+    {
+      "kind": "measurement",
+      "subject": "242",
+      "rationale": "Census count of clan heads."
+    },
+    {
+      "kind": "crux",
+      "subject": "Amashsai",
+      "rationale": "Wycliffe reads 'Amasie'; name spelled variously, kept as Amashsai."
+    }
+  ],
+  "translation": "Ni a balimaw — aw ni a ma — keme fila ni biaba fila ⟨ni fila⟩; ni Amashsai (Amashay), Azarel den, Ahsay den, Meshilemot den, Imer den.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "104383230395a1ccb517665a38c659076f193a05e2546e028ebc640077ed193c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/11\/13-16.1791947256111.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "ni a balimaw"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "aw"
+    },
+    {
+      "surface": "לאבות",
+      "gloss": "ni a ma"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "keme fila"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "biaba fila"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ni fila"
+    },
+    {
+      "surface": "ועמשסי",
+      "gloss": "ni Amashsai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Azarel den"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "Azarel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ahsay den"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "Ahsay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Meshilemot den"
+    },
+    {
+      "surface": "משלמות",
+      "gloss": "Meshilemot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Imer den"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Imer"
+    }
+  ],
+  "timestamp": "2026-10-14T03:07:36.112557351Z",
+  "model": "glm-5.3"
+}

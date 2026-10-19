@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "siri kɛmɛ fila · sanu kɛmɛ wolonwula",
+      "rationale": "Verse counts shields and weighs gold per shield — royal inventory."
+    },
+    {
+      "kind": "elision",
+      "subject": "shekels",
+      "rationale": "Versions supply 'shekels' (sheqel weight unit); Hebrew says only 'six hundred of gold went up on one shield'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "don",
+      "rationale": "יעלה 'to go up \/ be spent upon' rendered as 'enter into'; literal ascent image lost."
+    }
+  ],
+  "translation": "Masakɛ Shelomo ye siri kɛmɛ fila da ni sanu cili-cililen ye; sanu kɛmɛ wolonwula don ⟨siri⟩ kelen kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "00e886821d21790ea57eb17c69e45739f4d0eb89a42592db0cd614639a1eece1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/10\/16-16.1791950389839.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ye … da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kɛmɛ fila"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "siri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "cili-cililen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "don"
+    },
+    {
+      "surface": "על",
+      "gloss": "… kɔnɔ"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "siri"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "kelen"
+    }
+  ],
+  "timestamp": "2026-10-14T03:59:49.840428027Z",
+  "model": "glm-5.3"
+}

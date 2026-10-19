@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 6:22",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האשר ... אתה מכה",
+      "rationale": "Word order scrambled: KJV reads 'would you smite those you captured?', JPS repoints it 'those you captured ... would you smite?' — logic: captives taken by YHWH, not by king's weapons, so may not be killed"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Elisha answers the king directly with a command and a question"
+    }
+  ],
+  "translation": "A ko: “I kana u bɔ. Minnu i ye minɛ i npan fɛ ni i moaso fɛ, yala i bɛ u bɔ wa? Buru ni ji bila u ɲɛfɛ, ka u dun, ka u min, ka u ta u matigiw la.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7cf0dd2deb5262068c3e1f0f128b34586cca44643b69b51959a773a7c148ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/6\/21-24.1791932657969.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "i bɔ"
+    },
+    {
+      "surface": "האשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "i ye minɛ"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "i npan fɛ"
+    },
+    {
+      "surface": "ובקשתך",
+      "gloss": "ni i moaso fɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "bila"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buru"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ni ji"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "u ɲɛfɛ"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ka u dun"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ka u min"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ka u ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "u matigiw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:04:17.976265886Z",
+  "model": "glm-5.3"
+}

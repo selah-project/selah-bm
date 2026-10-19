@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "a na",
+      "rationale": "Heburukan ma nɔnabila di (a ye masakɛ denkɛ fɔ); Bamanankan ka nɔnabila dɔwajibiya — ⟨a⟩ min bɛ ⟨…⟩ kɔnɔ tɛ, sabu a bɛ v1 ka tɔgɔ ɲɛfɔ kokura."
+    },
+    {
+      "kind": "substitution",
+      "subject": "miskinnu",
+      "rationale": "עניים ye 'sàgu-dɛnnu \/ fanga-dimnubaw' ye ko tiɲɛna; 'miskinnu' (Arabukan daɲɛ min bɔ Tɛmɛsira kɔnɔ) ye Bamanankan kɔrɔ daɲɛ ye."
+    }
+  ],
+  "translation": "A na i ka mɔgɔw sariya tiɲɛ na, ani i ka miskinnu sariya-kelen-kelen na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/72\/1-4.1791940630751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "a na … sariya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i ka mɔgɔw"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "tiɲɛ na"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "ani i ka miskinnu"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sariya-kelen-kelen na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:10.752219052Z",
+  "model": "glm-5.3"
+}

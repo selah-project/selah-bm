@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 6:9",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Hebrew verbs ויאשרוה\/ויהללוה carry implied plural subjects; Bambara needs the pronoun"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛ-kelen",
+      "rationale": "תמתי literally 'my complete\/blameless one'; rendered as 'my whole-true one'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחת היא",
+      "rationale": "Refrain repeated twice in the verse — 'one, she is' — anaphora that the rendering keeps by repeating 'Kelen de ye'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברה",
+      "rationale": "Same root בר appears in 6:10 as 'pure' and here as 'beloved\/choice' — pun lost in Bambara"
+    }
+  ],
+  "translation": "Kelen de ye ⟨a⟩ ye — ⟨a⟩ ye n ka kɔnɔ, n ka tiɲɛ-kelen; kelen de ye ⟨a⟩ ye a ba fɛ, ⟨a⟩ ye kanuya-den ye a min balo ⟨a⟩ ma. Denmusow ye ⟨a⟩ ye, u y'a duba; masamusoow ni filagesiw, u y'a tuya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/6\/9-12.1791944717339.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Kelen"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ale"
+    },
+    {
+      "surface": "יונתי",
+      "gloss": "n ka kɔnɔ"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "n ka tiɲɛ-kelen"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "Kelen"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ale"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "a ba fɛ"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "kanuya-den"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ale"
+    },
+    {
+      "surface": "ליולדתה",
+      "gloss": "a min balo a ma"
+    },
+    {
+      "surface": "ראוה",
+      "gloss": "u ye a ye"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "denmusow"
+    },
+    {
+      "surface": "ויאשרוה",
+      "gloss": "u y'a duba"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "masamusoow"
+    },
+    {
+      "surface": "ופילגשים",
+      "gloss": "ni filagesiw"
+    },
+    {
+      "surface": "ויהללוה",
+      "gloss": "u y'a tuya"
+    }
+  ],
+  "timestamp": "2026-10-14T02:25:17.340137024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Mamolɛkɛt",
+      "rationale": "המלכת is article+name 'the Moleketh'; rendered as a fixed name"
+    },
+    {
+      "kind": "crux",
+      "subject": "his sister",
+      "rationale": "'his' refers back to Gilead's line (Machir's descendants); some read sister of Ulam\/Bedan"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "lineage listing of births"
+    }
+  ],
+  "translation": "A balimamuso Mamolɛkɛt (Mamolɛkɛtɔ) ye ⟨את⟩ Ishod (Ishodɔ) ni ⟨את⟩ Awiezer (Awiezerɔ) ni ⟨את⟩ Mahla (Mahlaɔ) bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e5f17eeaedbd65afd60a8eea9a37524552506fb91be2f9f119b71481eafec07a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/7\/17-20.1791947626640.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "a balimamuso"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Mamolɛkɛt"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ye … bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Awiezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Awiezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Mahla"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahla"
+    }
+  ],
+  "timestamp": "2026-10-14T03:13:46.641761101Z",
+  "model": "glm-5.3"
+}

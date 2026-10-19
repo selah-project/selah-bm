@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מאפס ותהו",
+      "rationale": "תהו echoes Gen 1:2 'tohu' — emptiness\/chaos word reused as 'worthless thing'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Bambara requires the resumptive object pronoun where Hebrew uses suffixes on נגד and ל."
+    }
+  ],
+  "translation": "Siya bɛɛ i n'a fɔ foyi-ta ye ⟨a⟩ ɲɛfɛ; ayen ni soŋ de, u jate ⟨a⟩ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b020e2ecec575243b2e86dad6985604644b31184f151ef0c52c777de3f60ff82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/40\/17-20.1791934331995.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "siya"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "i n'a fɔ foyi-ta"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "⟨a⟩ ɲɛfɛ"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "ani soŋ"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "u jate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a⟩ ye"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:12.001792279Z",
+  "model": "glm-5.3"
+}

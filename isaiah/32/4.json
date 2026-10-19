@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נמהרים",
+      "rationale": "KJV 'rash' (hasty) vs 'those hurried away' (carried off); lemma מהר is to hurry\/flow"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהר",
+      "rationale": "same root in נמהרים (the hasty) and תמהר (will hasten) — the hasty heart and the hastening tongue echo each other, lost in Bamanankan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kankofɔbagaw",
+      "rationale": "עלגים literally 'stammerers', rendered as hesitant-speakers"
+    }
+  ],
+  "translation": "Jaabi-juguw ka dusukun bɛna faamu dɔnniya la, ani kankofɔbagaw ka kan bɛna jaabi ka kuma jɛlen na fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "05fcd370f2b52b8a124c7aa18890659c4680642e1a15d7bf4beb4076bdae0ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/32\/1-4.1791934051277.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "ani dusukun"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "jaabi-juguw"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "bɛna faamu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "dɔnniya la"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ani kan"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "kankofɔbagaw"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "bɛna jaabi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ka kuma"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "jɛlen"
+    }
+  ],
+  "timestamp": "2026-10-13T23:27:31.282881487Z",
+  "model": "glm-5.3"
+}

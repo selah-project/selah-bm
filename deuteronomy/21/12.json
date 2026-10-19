@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועשתה את צפרניה",
+      "rationale": "'do\/make her nails' — pare\/trim (KJV) vs grow long (rabbinic reading, from עשה in Mishnah); rendered 'trim'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וגלחה",
+      "gloss": "'fɔ' is shave-head; Hebrew גלח is shave — kept literal."
+    }
+  ],
+  "translation": "i bɛna a don i so kɔnɔ cɛma, a bɛna ⟨את⟩ a ka kun fɔ, k'a kɛ ⟨את⟩ a ka balo binkɛnw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8ad1da0e2ebf400578b100d2f5cf7aab2e4391626019673be8dd8334c3ea8e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/21\/9-12.1791927971625.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "i bɛna a don"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka don"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "kɔnɔ cɛma"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "i so"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "a bɛna … fɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka kun"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "a ka kun"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "k'a kɛ … ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka balo binkɛnw"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "a ka balo binkɛnw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:11.628331596Z",
+  "model": "glm-5.3"
+}

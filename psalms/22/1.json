@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Sɔgɔma Wolo-Muso",
+      "rationale": "אילת השחר 'hind of the dawn' — title of the melody, probably a tune name; kept literal rather than spiritualized"
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "properly 'to the one who makes shine\/eminent', rendered as 'to the leader' (singing superintendent)"
+    }
+  ],
+  "translation": "Ɲɛmɔgɔ ma, “Sɔgɔma Wolo-Muso” la — Dawid (Dawuda) ka dɔnkili.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/22\/1-4.1791939818627.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ɲɛmɔgɔ ma"
+    },
+    {
+      "surface": "על",
+      "gloss": "la (kan na)"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Wolo-Muso"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "Sɔgɔma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "dɔnkili"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:38.627909273Z",
+  "model": "glm-5.3"
+}

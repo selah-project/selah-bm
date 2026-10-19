@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "debir",
+      "rationale": "דביר technical temple term for the innermost shrine, kept as loanword"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "senuma-senumaw",
+      "rationale": "Hebrew superlative 'holy of holies' rendered as bound construct 'senumaw ka senuma'"
+    }
+  ],
+  "translation": "Sarakalasebagaw naana Yawe ka layidu sanduku ⟨את⟩ a yɔrɔ la — so ka debir kɔnɔ, senumaw ka senuma la — kerubuw ka jigew jukɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/5-8.1791931942680.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "naana … la"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ka layidu sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "a yɔrɔ la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "so ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senumaw ka"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "senuma la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jukɔrɔ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "… jukɔrɔ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "jigew"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubuw ka"
+    }
+  ],
+  "timestamp": "2026-10-13T22:52:22.684369104Z",
+  "model": "glm-5.3"
+}

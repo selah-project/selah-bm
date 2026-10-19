@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Nka",
+      "rationale": "Hebrew has no 'but'; contrast with verse 35 supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "diya-fɔ",
+      "rationale": "פתה is 'to coax\/seduce with smoothness'; rendered as sweet-speech (flattery)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברים\/מילים",
+      "rationale": "mouth\/tongue parallelism (בפיהם\/בלשונם) — Hebrew double line kept as da\/daɲɛgafe pair"
+    }
+  ],
+  "translation": "Nka u ye A diya-fɔ ni u da ye, ka ni u daɲɛgafe ye, u ye fitsiri fɔ A ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/33-36.1791940790715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "u ye A diya-fɔ"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ni u da ye"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "ka ni u daɲɛgafe ye"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "u ye fitsiri fɔ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "A ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:50.716697594Z",
+  "model": "glm-5.3"
+}

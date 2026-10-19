@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 3:13",
+  "book": "habakkuk",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "fuli la ni Mashíaj",
+      "rationale": "לישע את משיחך: 'salvation with\/for your anointed' vs 'to save your anointed' (BSB); Hebrew repeats לישע and keeps את."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kunlan",
+      "rationale": "'laid bare the foundation up to the neck' — an image of a building toppled to its base; kept literally."
+    },
+    {
+      "kind": "elision",
+      "subject": "Sila",
+      "rationale": "סלה is a musical pause marker, kept as the fixed sign Selah."
+    }
+  ],
+  "translation": "I bɔra i ka jamaa fuli la, i bɔra fuli la ni ⟨את⟩ i ka Mashíaj ye; i ye jatigidenw so kun-tigɛ kɛ, a jɔyɔrɔ latilen ka se kunlan na. Sila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "45f117aa822882145116e35a6fa09473d570895da61666be3f0fb7885cb22b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/habakkuk\/3\/13-16.1791939013326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצאת",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "fuli"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i ka jamaa"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "fuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ka Mashíaj"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "i ka Mashíaj"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "kun-tigɛ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jatigidenw"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "latilen"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "jɔyɔrɔ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "kunlan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sila"
+    }
+  ],
+  "timestamp": "2026-10-14T00:50:13.327061549Z",
+  "model": "glm-5.3"
+}

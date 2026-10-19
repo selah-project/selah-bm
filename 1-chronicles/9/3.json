@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ישבו מן",
+      "rationale": "Hebrew 'dwelt from the sons of' — a partitive idiom ('some of'); Bambara renders as a plain list of inhabitants."
+    },
+    {
+      "kind": "measurement",
+      "subject": "denw",
+      "rationale": "Tribal registration list begins here — enumeration of Judah's settlers by lineage."
+    }
+  ],
+  "translation": "Ani Yerushalayim (Jerusalɛmu) kɔnɔ, Yuda denw, Binyamin denw, Efrayim denw ani Menashe denw sigilen don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/9\/1-4.1791947788726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "ani Yerushalayim kɔnɔ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sigilen don"
+    },
+    {
+      "surface": "מן",
+      "gloss": "… la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ani … la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ani … la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ani Menashe"
+    }
+  ],
+  "timestamp": "2026-10-14T03:16:28.728154407Z",
+  "model": "glm-5.3"
+}

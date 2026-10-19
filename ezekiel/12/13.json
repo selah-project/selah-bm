@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 12:13",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשתי\/מצודתי",
+      "rationale": "Net-word doubled — my-net and my-snare — a single hunting image repeated; Bambara keeps don twice."
+    },
+    {
+      "kind": "crux",
+      "subject": "לא יראה",
+      "rationale": "Object is ambiguous: 'he will not see it (the land)' vs 'it (Babylon)'; most read the land, since the exile is to Babylon."
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Bambara needs object pronoun o for 'see it'; Hebrew leaves the object implied."
+    }
+  ],
+  "translation": "N bɛna n ka don tege a kan, a bɛna minɛ n ka don kɔnɔ; ani n bɛna a bila Bawel (Babilɔn), Kashdim ka dugukolo la; ⟨את⟩ a tɛna o ye, nka a bɛna sa yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c764e573e3e91ffb6db21926cbd3d5c57224c9b1aff0561eb7bb9edc70f453df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/12\/13-16.1791936810798.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופרשתי",
+      "gloss": "n bɛna … tege"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n ka don"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "n ka don"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ונתפש",
+      "gloss": "a bɛna minɛ"
+    },
+    {
+      "surface": "במצודתי",
+      "gloss": "n ka don kɔnɔ"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "n bɛna a bila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Bawel"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bawel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kashdim"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bɛna o ye"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "bɛna sa"
+    }
+  ],
+  "timestamp": "2026-10-14T00:13:30.799562980Z",
+  "model": "glm-5.3"
+}

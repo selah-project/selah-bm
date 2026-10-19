@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dusuw",
+      "rationale": "זרע seed rendered as 'dusuw' (posterity\/offspring), the kinship sense, not literal kisɛ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא כל הימים",
+      "rationale": "Hebrew 'not all the days' = not forever; bracketed verb supplied since Bamanankan needs one"
+    },
+    {
+      "kind": "crux",
+      "subject": "not for ever",
+      "rationale": "Hebrew idiom rendered 'donw bɛɛ la tɛ' — limits the affliction of David's line, famous crux on how long"
+    }
+  ],
+  "translation": "Ani ne bɛna gɛlɛya di ⟨את⟩ Dawuda dusuw sabu o ye; nka ⟨o tɛna kɛ⟩ donw bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "79dd8d63b2edee47b4b750b0e267bb8a3c113e88882cf1085433de8e1d649c09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/11\/38-39.1791950475616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ne bɛna gɛlɛya di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawuda dusuw"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dusuw"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "o ye"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "donw"
+    }
+  ],
+  "timestamp": "2026-10-14T04:01:15.617087095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפני",
+      "rationale": "Hebrew 'before the face of' rendered as ɲɛfɛ ('before the face'), a fixed Bambara expression"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האזין",
+      "rationale": "literally 'broaden the ear' — rendered as 'tulo a ye' (give ear), the picture of the widened ear lost"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שׁמע\/האזין",
+      "rationale": "two verbs of hearing in parallel negation, intensifying Yawe's refusal"
+    }
+  ],
+  "translation": "Aw ye segin na, aw ye kunbɔ Yawe ɲɛfɛ, nka Yawe ma aw ka kan mɛn, wa a ma aw la tulo a ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8cccfbdff248723b53791e05221452b7ccd6d8aaafa2d3af531b9b69179958ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/1\/45-46.1791927415785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "aw ye segin na"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "aw ye kunbɔ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka … ma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "aw ka kan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wa a ma"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "tulo a ye"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "aw la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:36:55.786296870Z",
+  "model": "glm-5.3"
+}

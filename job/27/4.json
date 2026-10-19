@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 27:4",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם … אם",
+      "rationale": "Hebrew conditional אם in oath context is an emphatic negative: 'my lips will not…' — rendered 'tɛna'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדברנה \/ יהגה",
+      "rationale": "parallel pair 'speak \/ murmur-ponder' — the second verb's pondering sense is softened into 'kuma' in Bambara."
+    }
+  ],
+  "translation": "n moulobaw tɛna juguya kuma, n tungan tɛna magerili kuma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d6412e9fc0059d6fe7bd8e695fbe47f8d2dc1094142e5433c7fbf63cd7dfb9da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/27\/1-4.1791943904885.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tɛna (…si)"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "n moulobaw"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "n tungan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tɛna (…si)"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "kuma (a bɛ ɲɛsɔrɔ)"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "magerili"
+    }
+  ],
+  "timestamp": "2026-10-14T02:11:44.886978015Z",
+  "model": "glm-5.3"
+}

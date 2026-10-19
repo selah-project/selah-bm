@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נתן בקולו",
+      "rationale": "lit. 'gave with his voice' = uttered\/thundered his voice"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɛnna",
+      "rationale": "תמוג 'melt' rendered as 'dissolves' — softening, flowing away"
+    }
+  ],
+  "translation": "Siyaw ɲagami, masakɛyaw tugu tununen; a y'a kan da, dugukolo bɛnna.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/46\/5-8.1791940216712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "ɲagami"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "tununen"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "masakɛyaw tugu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "y'a kan da"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "bɛnna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:16.713830301Z",
+  "model": "glm-5.3"
+}

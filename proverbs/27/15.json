@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סגריר",
+      "rationale": "heavy pouring rain — occurs only here in the Tanakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "min bɛ tugu taa",
+      "rationale": "טורד rendered as relative clause 'that keeps on'; Bambara needs explicit verb"
+    }
+  ],
+  "translation": "Ji min bɛ tutu sanji don la, ani muso min bɛ sɔsɔli, olu bɛ ɲɔgɔn ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4529e6ea2fd96df2dc4e91b60327ade49c1d130e16032ad6dc9ff19310329d16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/27\/13-16.1791942975481.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "ji tutu"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "min bɛ tugu taa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don la"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "sanji"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ani muso"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "sɔsɔli"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "bɛ ɲɔgɔn ta"
+    }
+  ],
+  "timestamp": "2026-10-14T01:56:15.482103777Z",
+  "model": "glm-5.3"
+}

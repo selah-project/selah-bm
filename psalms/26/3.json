@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "hesed",
+      "rationale": "חסד kept as loanword per discipline; no single Bambara word covers covenant-loyalty"
+    }
+  ],
+  "translation": "Sabu i ka hesed bɛ n ɲɛ ɲɛfɛ, ani ne taamana i ka tiɲɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/26\/1-4.1791939895861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "i ka hesed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "n ɲɛ"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "ani ne taamana"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "i ka tiɲɛ la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:04:55.862571974Z",
+  "model": "glm-5.3"
+}

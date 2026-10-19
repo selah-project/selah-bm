@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דכא",
+      "rationale": "KJV 'dust\/destruction' ni JPS 'contrition' — dakunbaga (nɛnɛbuguri) walima kun-hakili-sɔrɔsɔrɔ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשב \/ שובו",
+      "rationale": "שוב ka laseli fila — 'i b'a laba' ani 'aw segin aw na' — misali dɔgɔya Bamanankan na"
+    }
+  ],
+  "translation": "I bɛ hadamaden laba ka kɔsi dakunbaga, i n'a fɔ ko: “Segin aw na, Adama denw.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/90\/1-4.1791941087868.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "i bɛ … laba"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "hadamaden (soɲɔden)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka (fo)"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "dakunbaga"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i n'a fɔ ko"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "segin aw na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adama"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:47.869219360Z",
+  "model": "glm-5.3"
+}

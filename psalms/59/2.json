@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תשגבני",
+      "rationale": "שגב kɔrɔ ye 'k'a gɛn a yɛrɛ sanfɛ ka kɛ min bɛ se kɔ tɔ yɛrɛ la ye' — 'n to sanfɛla' ye nɔgɔya dɔrɔn."
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Kumaw bɛ tugu Elohim ye — Dawuda ka weleli."
+    }
+  ],
+  "translation": "N yɔrɔ n bɔ n bɛmɛnw la, Elohim e; mɔgɔ minnu bɛ ɲɛ sin n kan, n to sanfɛla.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/59\/1-4.1791940466950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "N yɔrɔ n bɔ"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "n bɛmɛnw la"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim e"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "mɔgɔ minnu bɛ ɲɛ sin n kan"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "n to sanfɛla"
+    }
+  ],
+  "timestamp": "2026-10-14T01:14:26.951527814Z",
+  "model": "glm-5.3"
+}

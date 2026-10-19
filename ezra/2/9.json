@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "Verse counts returnees by clan: 760."
+    },
+    {
+      "kind": "addition",
+      "subject": "ni",
+      "rationale": "vav-conjunction on the last number rendered as Bambara 'ni'"
+    }
+  ],
+  "translation": "Zakay denw, kɛmɛ wolonwula ni mugulolu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d7e54d5614b092ec6d6201ccc48f450826d1a57de7403f19901c203dc94a9b74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/2\/9-12.1791946320918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Zakay"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ni mugulolu"
+    }
+  ],
+  "timestamp": "2026-10-14T02:52:00.918973093Z",
+  "model": "glm-5.3"
+}

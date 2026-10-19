@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 4:2",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "k'a to ko Yawe balo",
+      "rationale": "Hebrew oath formula 'as Yawe lives' rendered as oath-taking in Bambara"
+    },
+    {
+      "kind": "crux",
+      "subject": "u bɛna bɔ o la",
+      "rationale": "והתברכו בו: 'nations shall bless themselves by him' (KJV\/YLT) vs 'shall be blessed in him' (Geneva\/BSB); the Hitpael is reflexive"
+    }
+  ],
+  "translation": "I bɛna k'a to ko Yawe balo — tiɲɛ na, sariya-kilila la, ni ɲumanya ye; siyaw bɛna bɔ o la, ka o la jujɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "703e6cb4310e6198a908f54123ab8750d8761efc66d36fa2ebdec5da5c6948da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/4\/2-3.1791950827360.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשבעת",
+      "gloss": "i bɛna k'a to ko"
+    },
+    {
+      "surface": "חי",
+      "gloss": "balo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "tiɲɛ na"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sariya-kilila la"
+    },
+    {
+      "surface": "ובצדקה",
+      "gloss": "ni ɲumanya ye"
+    },
+    {
+      "surface": "והתברכו",
+      "gloss": "u bɛna bɔ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "o la"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ka o la"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "jujɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:07:07.360691825Z",
+  "model": "glm-5.3"
+}

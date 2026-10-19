@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 7:16",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bɔ-yɛrɛ sara",
+      "rationale": "Coined for 'freewill offering' — root נדב again, third occurrence in the letter."
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Pronoun 'their' supplied before Elah; the Hebrew construct implies it."
+    }
+  ],
+  "translation": "Ni warigwɛ ni sanu bɛɛ min i bɛna ɲini Babil (Babulu) mara bɛɛ kɔnɔ, ni jama ni sarakalasebagaw ka bɔ-yɛrɛ saraw, min bɛ u yɛrɛ di u Elah so la min bɛ Yerushalayim.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e176927bf031fd35e0ac726b6118fc75e9224b8839d3735e3e18d8c67dea0508",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/7\/13-16.1791946664762.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ni ... bɛɛ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "ודהב",
+      "gloss": "ni sanu"
+    },
+    {
+      "surface": "די",
+      "gloss": "min"
+    },
+    {
+      "surface": "תהשכח",
+      "gloss": "i bɛna ɲini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "...bɛɛ kɔnɔ"
+    },
+    {
+      "surface": "מדינת",
+      "gloss": "mara"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni ... jɔ"
+    },
+    {
+      "surface": "התנדבות",
+      "gloss": "bɔ-yɛrɛ sara"
+    },
+    {
+      "surface": "עמא",
+      "gloss": "jama"
+    },
+    {
+      "surface": "וכהניא",
+      "gloss": "ni sarakalasebagaw"
+    },
+    {
+      "surface": "מתנדבין",
+      "gloss": "u yɛrɛ di"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "so la"
+    },
+    {
+      "surface": "אלההם",
+      "gloss": "u Elah"
+    },
+    {
+      "surface": "די",
+      "gloss": "min"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-14T02:57:44.764735648Z",
+  "model": "glm-5.3"
+}

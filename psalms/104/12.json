@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עפאים",
+      "rationale": "עפא, boughs, is unique to this verse in the Tanakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yen⟩",
+      "rationale": "ישכון 'dwell' needs a Bambara locative that the Hebrew verb carries internally"
+    }
+  ],
+  "translation": "O sanfɛ, sankolo kɔnɔw bɛ yen ɲɛsigi, jiri-dugaw cɛ u bɛ kan di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/104\/9-12.1791941243707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "o sanfɛ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "kɔnɔw"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "bɛ ɲɛsigi"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "jiri-dugaw"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "bɛ … di"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:23.708538797Z",
+  "model": "glm-5.3"
+}

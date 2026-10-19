@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": " Elohim ka ɲɛ la",
+      "rationale": "בעיני 'ɲɛ kɔnɔ' — Heburukan ka 'ko bi' fɔcogo; Bamanankan mara a ye 'ɲɛ la' ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tlonna",
+      "rationale": "ויך 'ka tlon' — baara kɛra ko bɛnbaga ye (juguya kɛra Israyel kan), a tɛ faga dɔrɔn ye."
+    }
+  ],
+  "translation": "Ani o kuma ko bi kɛra Elohim ka ɲɛ la, a tlonna ⟨את⟩ Israyel.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0f9a8426d4367a67f33caef5f2996115b2f5856fe1f7b27c698d2067078718ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/21\/5-8.1791948160069.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ko bi kɛra"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ɲɛ la"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "o (kuma) kan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "tlonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    }
+  ],
+  "timestamp": "2026-10-14T03:22:40.070994506Z",
+  "model": "glm-5.3"
+}

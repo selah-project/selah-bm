@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרת \/ את",
+      "rationale": "Verb 'cut' (כרת) frames two different את's — preposition 'with' and object marker — a sound-play untranslatable."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Lit. 'cut the covenant'; rendered 'layidu sigi'."
+    }
+  ],
+  "translation": "Yawe ma ⟨את⟩ layidu in sigi ⟨ni an ka maw bɛɛ⟩ ye, nka an yɛrɛ de ye — ninnu, yan, bi, an bɛɛ bɛ balo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/5\/1-4.1791927611935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma…tɩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni an ka maw bɛɛ (preposition 'with' our fathers)"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "an ka maw bɛɛ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sigi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "layidu in"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "layidu in"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "in"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nka"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ an ye (preposition 'with us')"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "an yɛrɛ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ninnu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "yan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "an bɛɛ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "balo"
+    }
+  ],
+  "timestamp": "2026-10-13T21:40:11.939948832Z",
+  "model": "glm-5.3"
+}

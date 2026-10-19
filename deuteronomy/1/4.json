@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "faga",
+      "rationale": "נכה 'smote\/struck' rendered faga 'kill\/slay'; Bambara has no lighter strike-verb for military defeat"
+    },
+    {
+      "kind": "addition",
+      "subject": "ni a ye",
+      "gloss": "",
+      "rationale": "Hebrew אחרי הכותו is an infinitive construct 'after his striking'; Bambara needs a finite ni-clause with subject a (Moshe)"
+    }
+  ],
+  "translation": "A kɔfɛ, ni a ye ⟨את⟩ Sihon faga — Amoriw ka masakɛ min siginra Heshbon — ani ⟨את⟩ Og, Bashan masakɛ min siginra Ashtarot la, Edrei la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/1\/1-4.1791927504948.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "a kɔfɛ"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "ni a ye … faga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoriw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "siginra"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "siginra"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Ashtarot la"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "Edrei la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:38:24.954304183Z",
+  "model": "glm-5.3"
+}

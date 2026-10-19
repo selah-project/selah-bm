@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tile kelen na",
+      "rationale": "פעם אחת is literally 'one stroke\/one beat', rendered as 'at one time'"
+    },
+    {
+      "kind": "you",
+      "subject": "clause order",
+      "rationale": "Hebrew fronts the objects before the verb; Bambara keeps verb-subject order"
+    }
+  ],
+  "translation": "⟨את⟩ masakɛw ninnu bɛɛ ani ⟨את⟩ u ka dugukolow, Yehoshua ye minɛ tile kelen na, sabu Yawe, Isirayeli Ala, ye kɛlɛ kɛ Isirayeli ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "83abfb3dc313cbca30ec0771ced3e340e47f449c52644a3bf63be9ac235728d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/10\/41-43.1791928778409.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masakɛw ninnu bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ninnu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u ka dugukolow"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "u ka dugukolow"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ye minɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "tile kelen"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ye kɛlɛ kɛ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isirayeli ye"
+    }
+  ],
+  "timestamp": "2026-10-13T21:59:38.410364602Z",
+  "model": "glm-5.3"
+}

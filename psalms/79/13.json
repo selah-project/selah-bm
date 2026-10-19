@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "dorokelen ka taa dorokelen ma",
+      "rationale": "לדר ודר 'generation and generation' — Bamanankan keeps the movement-image 'goes to generation'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sagaw",
+      "rationale": "צאן is a collective for sheep and goats; Bamanankan has no single word, saga (sheep) chosen"
+    },
+    {
+      "kind": "addition",
+      "subject": "an bɛ",
+      "rationale": "Hebrew participles נודה\/נספר carry the subject 'we'; Bamanankan pronoun made explicit"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "the congregation answers God directly, vowing endless praise"
+    }
+  ],
+  "translation": "Anw, aw ka jama ani aw ka sagaw minnu bɛ aw ka marali kɔnɔ, an bɛ aw duwali ju bɛɛ, dorokelen ka taa dorokelen ma; an bɛ aw ka ɲɛfɔli jate.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c2d8efcd060e2693b68eb0f38290a429a217c4e7e42a21345bad351431bfefdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/79\/13-13.1791940796078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Anw"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "aw ka jama"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ani aw ka sagaw"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "aw ka marali kɔnɔ"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "an bɛ aw duwali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aw"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ju bɛɛ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dorokelen"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dorokelen"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "an bɛ … jate"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "aw ka ɲɛfɔli"
+    }
+  ],
+  "timestamp": "2026-10-14T01:19:56.078869861Z",
+  "model": "glm-5.3"
+}

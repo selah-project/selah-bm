@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 13:16",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הרכב ידך על הקשת",
+      "rationale": "Hebrew uses the riding verb רכב for 'lay\/brace your hand on the bow'; rendered as bolo bila, the riding picture is lost."
+    },
+    {
+      "kind": "elision",
+      "subject": "הקשת in וירכב ידו",
+      "rationale": "Second clause names only 'his hand'; the bow is understood — supplied 'so kan' for sense."
+    },
+    {
+      "kind": "you",
+      "subject": "I bolo bila",
+      "rationale": "Elisha's imperative addresses the king of Israel directly."
+    }
+  ],
+  "translation": "A ko Israyɛl masakɛ ye: I bolo bila so kan. A bil'i bolo so kan; Elisa bil'a bolow masakɛ bolow kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dd23b39b3bc22ac995aef71d255cb3e351f038262cd6c8eadb88d8522cc9f3b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/13\/13-16.1791932938747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛ ye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "bolo bila"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "I bolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "so"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "bil'i bolo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "bila"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "a bolow"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bolow"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:08:58.752971815Z",
+  "model": "glm-5.3"
+}

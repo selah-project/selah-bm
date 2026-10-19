@@ -1,0 +1,158 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 10:1",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "faga-dɛba",
+      "rationale": "חרם ye fɛn min bɛ daŋa-ka-faga la (devoted to destruction), Bamanankan tɛ daɲɛ kelen ye min bɛ o picture bɛɛ ta"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "בקרבם 'u kɔnɔ' — nɔnabila 'u' farala a kan walasa kuma ka nɔgɔya"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדני צדק \/ מלכי צדק",
+      "rationale": "Adoni-Tsedek ('seden tigi, tsedek') yɛlɛta Malki-Tsedek (Gen 14) nɔ, Grepɛsikan bɛ ye o kɔrɔ ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "כי filanan (v.1 laban) bɛ wele ko-fɔli 'ani ko' la, a tɛ jate 'sabu' ye"
+    }
+  ],
+  "translation": "Ni o kɛra, Adoni-Tsedek, Yerushalayim (Jerusalɛmu) masakɛ, a mɛnna ko Yehoshua minɛn ⟨את⟩ Ayi dugu ka a to faga-dɛba la — cogo min na a ye kɛ Yerixo ye ani a masakɛ ye, o cogo na a ye kɛ ⟨את⟩ Ayi ye ani a masakɛ la — ani ko Givon dugu-mɔgɔw ye layidu kɛ ⟨את⟩ Israel ye, ka kɛ ⟨u⟩ kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9bb88ad1ab432ae26ee1059731d17768e220b30bdae39f969c2b4aac48386cb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/10\/1-4.1791928760603.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ni o kɛra"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "a mɛnna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-Tsedek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Adoni-Tsedek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "minɛn"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayi dugu"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayi dugu"
+    },
+    {
+      "surface": "ויחרימה",
+      "gloss": "ka a to faga-dɛba la"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a ye kɛ"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Yerixo ye"
+    },
+    {
+      "surface": "ולמלכה",
+      "gloss": "ani a masakɛ ye"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o cogo na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a ye kɛ"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "Ayi ye"
+    },
+    {
+      "surface": "ולמלכה",
+      "gloss": "ani a masakɛ ye"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ani ko"
+    },
+    {
+      "surface": "השלימו",
+      "gloss": "ye layidu kɛ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dugu-mɔgɔw"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "⟨u⟩ kɔnɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:59:20.605063553Z",
+  "model": "glm-5.3"
+}

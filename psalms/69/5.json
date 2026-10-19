@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אז אשיב",
+      "rationale": "'then I restore' vs JPS question 'should I restore?' — cohortative vs indicative reading"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Bambara needs the object pronoun before segin; Hebrew אשיב carries it in suffix"
+    }
+  ],
+  "translation": "Mɔgɔw minnu bɛ ne ju, u ka bon ni ne kun taw ye; ne minnu bɛ ne faga, u ka se ba ye — ne juw minnu bɛ fɔ lafiya; min ne ma ta, o waati ne bɛ ⟨a⟩ segin a ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/69\/5-8.1791940540749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "u ka bon"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "kun taw"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ne kun"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "minnu bɛ ne ju"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ka siya tɛmɛ"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "u ka se ba ye"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "ne minnu bɛ ne faga"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ne juw"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fɔ lafiya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "ne ta"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o waati"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ne bɛ segin"
+    }
+  ],
+  "timestamp": "2026-10-14T01:15:40.750281206Z",
+  "model": "glm-5.3"
+}

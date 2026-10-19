@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שאו ... ראשיכם",
+      "rationale": "Hebrew addresses the gates as persons commanded to lift their own heads; Bambara keeps the picture of lifting (lamini) the heads (kunw)"
+    },
+    {
+      "kind": "crux",
+      "subject": "עולם",
+      "rationale": "'everlasting\/eternal doors' vs 'ancient doors'; rendered waati-kɔrɔ (time-old)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "שאו שערים",
+      "rationale": "Imperative summons repeated from v.7 — the liturgy's call-and-response at the gate"
+    },
+    {
+      "kind": "you",
+      "subject": "to the gates",
+      "rationale": "Direct address to the gates and doors themselves, aw"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאו ... ושאו",
+      "rationale": "Repetition of the lift-verb frames the verse; Bambara repeats lamini to keep it"
+    }
+  ],
+  "translation": "Dalaw, aw ye aw ka kunw lamini; waati-kɔrɔ dalaboliw, aw kaw lamini kabu, Kabu-Masakɛ bɛna don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/24\/9-10.1791939820711.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "lamini"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dalaw"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "aw ka kunw"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "ni aw kaw lamini kabu"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "dalaboliw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waati-kɔrɔ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bɛna don"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Masakɛ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kabu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:40.711740760Z",
+  "model": "glm-5.3"
+}

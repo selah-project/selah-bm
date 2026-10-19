@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד משה",
+      "rationale": "literally 'in the hand of Moshe' = through Moshe's agency; rendered with the body-part kept, 'bolo ye'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Shabat",
+      "rationale": "the standing discipline keeps the Hebrew form Shabat rather than a Bambara word for rest-day."
+    }
+  ],
+  "translation": "Ani ⟨את⟩ i ka Shabat senuma i ye a fɔ u ye; ani dɔgɔlenw, lasigidilenw ni Tora i ye u laseli, Moshe (Musa) i ka baarakɛla bolo ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ad5aa74b501354e5c5559b9518269c92666a5586cf26d15d6de05129678ce5a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/9\/13-16.1791947133385.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i ka Shabat senuma"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "i ka senuma"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "i ye a fɔ u ye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "dɔgɔlenw"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "lasigidilenw"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "i ye u laseli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo ye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Musa)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i ka baarakɛla"
+    }
+  ],
+  "timestamp": "2026-10-14T03:05:33.386553225Z",
+  "model": "glm-5.3"
+}

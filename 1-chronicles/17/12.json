@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sigilan",
+      "rationale": "כסא literally throne\/covered seat; 'seat' flattens royal register"
+    },
+    {
+      "kind": "crux",
+      "subject": "עולם",
+      "rationale": "long-duration 'unto the age' vs 'forever'; 2 Sam 7 and Chron context conditions it on descendants"
+    }
+  ],
+  "translation": "Ale ye na n ye so dilan, ani An bɛna ⟨את⟩ a ka sigilan sigi fo jukɔrɔ ka ti.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c38e68cae1293cc5cde40c214ebcc71b69d926a17a32f6dcbf8cf55fc953d0b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/17\/9-12.1791948079729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ale"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ye na dilan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n ye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "An bɛna sigi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka sigilan"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "a ka sigilan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "jukɔrɔ ka ti"
+    }
+  ],
+  "timestamp": "2026-10-14T03:21:19.731206696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "min bɛ",
+      "rationale": "Hebrew participle rendered as relative construction Bambara requires"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ko mɛn tɛ",
+      "rationale": "בטרם literally 'not-yet', rendered as 'before he hears'"
+    }
+  ],
+  "translation": "Min bɛ kuma jaabi ko mɛn tɛ, ajabuya de ye o ye ale ye, ani maloya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0caa280d11821f426c443f316129b619762aff88ad1807092ef6444b23708b50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/18\/13-16.1791942711033.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "min bɛ … jaabi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ko mɛn tɛ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ajabuya"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o ye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ale ye"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "ani maloya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:51:51.034444123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 19:19",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תבן",
+      "rationale": "'bɛnni' (kisɛ bulangi) — Heburukan ka tiɲɛ fɔcogo: kisɛ buguri min bɛ mɔsiri kɛ"
+    },
+    {
+      "kind": "addition",
+      "subject": "גם (dɔw)",
+      "rationale": "'fana' faraliw — Heburukan bɛ 'גם' bila o yɔrɔw la cogo kelen na k'a jira ko fɛn bɛɛ bɛ yen"
+    }
+  ],
+  "translation": "Bɛnni ni mɔsiri bɛ an ka barmaw bolo; buru ni diwɛn fana bɛ ne bolo, i n'i bolumuso, i n'i denbilen, i n'a mɔgɔw bɛɛ ye; fɛn si tɛ an bɛɛ la ka nɔ di.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b30d979e8f64cdbd08828c34197a0482e033c31083977080738f5e6cec58c4e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/19\/17-20.1791929731064.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "fana (daminɛ)"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "bɛnni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "mɔsiri"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bɛ"
+    },
+    {
+      "surface": "לחמורינו",
+      "gloss": "an ka barmaw bolo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "buru"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ni diwɛn"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bɛ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne bolo"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "i n'i bolumuso"
+    },
+    {
+      "surface": "ולנער",
+      "gloss": "i n'i denbilen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "i n'a…ye"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "fɛn min ka nɔ di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fɛn si"
+    },
+    {
+      "surface": "דבר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-13T22:15:31.068351806Z",
+  "model": "glm-5.3"
+}

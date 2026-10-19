@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 21:15",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nakɔ",
+      "rationale": "כרם is a vineyard specifically; Bamanankan core table gives only nakɔ (garden), the vineyard sense narrowed"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "wayehi narrative frame rendered as simple ni, its 'and it came to pass' weight has no clean Bamanankan equivalent"
+    },
+    {
+      "kind": "you",
+      "subject": "Ahab",
+      "rationale": "Jezebel's imperatives קום רש directly command Ahab"
+    }
+  ],
+  "translation": "Ni Izewel mɛnna ko Nabot bɔra ni kabakurunw ye ka sa, Izewel y'Ahab (Ahab) wele ko: “Ban, ka minɛ ⟨את⟩ Nabot ka nakɔ, min ye Yizreeli dugu den ye, min ma b'i di warigwɛ ye, sabu Nabot tɛ balo la, sabu a sa.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "64268cc0116e451edde2c3936ce2d06b8ebc4bf04057ead07d63be521f41b02e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/21\/14-15.1791950592786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mɛnna"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izewel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "bɔra ni kabakurunw ye"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ka sa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "y'… wele ko"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izewel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ban"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ka minɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabot ka nakɔ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "nakɔ"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "min ye Yizreeli dugu den ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ma b'… di"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "warigwɛ ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "חי",
+      "gloss": "balo la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a sa"
+    }
+  ],
+  "timestamp": "2026-10-14T04:03:12.787247627Z",
+  "model": "glm-5.3"
+}

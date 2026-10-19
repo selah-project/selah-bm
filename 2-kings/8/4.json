@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Bambara past-in-past marker tun carries the Hebrew wayyiqtol background sense the English versions render with 'was talking'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Gehazi",
+      "rationale": "The king's imperative mɛnɛ addresses Gehazi directly"
+    }
+  ],
+  "translation": "Masakɛ tun bɛ Gehazi, Elohim ka mɔgɔ ka denbisuma, la kuma fo: 'N yamaruya, i mɛnɛ o kunw ⟨את⟩ bɛɛ min kɛra Elisha fɛ.'",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "168f7387fedcea57ec622e000f8dc7b7097a97b4019af522a33ee47e5b8443f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/8\/1-4.1791932855536.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gehazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "denbisuma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "mɛnɛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yamaruya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "kunw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    }
+  ],
+  "timestamp": "2026-10-13T23:07:35.544826705Z",
+  "model": "glm-5.3"
+}

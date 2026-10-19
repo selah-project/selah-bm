@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tenen",
+      "rationale": "עולם literally 'concealed \/ beyond the vanishing point' of time; rendered as 'tenen' (everlasting), the hidden-distance picture lost."
+    }
+  ],
+  "translation": "a y'a jɔ Yakuba (Yakuba) ye k'a kɛ sariya ye, Israyɛli (Isirayɛli) ye layidu tenen ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/105\/9-12.1791941292174.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "a y'a jɔ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yakuba ye"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "sariya ye"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israyɛli ye"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tenen"
+    }
+  ],
+  "timestamp": "2026-10-14T01:28:12.175342101Z",
+  "model": "glm-5.3"
+}

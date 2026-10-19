@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "kuma-tigɛmaba",
+      "rationale": "השמיעיני is feminine singular — the speaker addresses the woman directly: 'cause me to hear your voice.'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "i kan nin di n mɛn",
+      "rationale": "Imperative summons asking the beloved to let her voice be heard."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɛ tulo la",
+      "rationale": "מקשיבים literally 'pricking up the ears'; rendered with the Bambara idiom for attentive listening."
+    }
+  ],
+  "translation": "I min bɛ nakɔw kɔnɔ tensɛn, namaraw bɛ tulo la i kan ma; i kan nin di n mɛn!",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/8\/13-14.1791944660053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היושבת",
+      "gloss": "i min bɛ tensɛn"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "nakɔw kɔnɔ"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "namaraw"
+    },
+    {
+      "surface": "מקשיבים",
+      "gloss": "bɛ tulo la"
+    },
+    {
+      "surface": "לקולך",
+      "gloss": "i kan ma"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "i kan nin di n mɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T02:24:20.053641077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 16:9",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "counting seven weeks",
+      "rationale": "The verse commands counting weeks from the first sickle-cut — a calendar-counting instruction."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבעה שבעת ... שבעה שבעות",
+      "rationale": "The root שבע frames the verse, opening and closing it; the repetition is flattened in Bambara."
+    },
+    {
+      "kind": "elision",
+      "subject": "מהחל",
+      "rationale": "The compound 'from-the-beginning-of' is rendered as the simpler conjunction ni ('when'), losing the compound structure."
+    }
+  ],
+  "translation": "Wolonwula dɔnniw, i bɛna i jate i ye; ni sɔgɔdalan daminɛna ka don foro kisɛw kɔnɔ, i bɛna daminɛ ka jate wolonwula dɔnniw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bb34b9172bdacd966f11e5e688dcc25d9234e57f14d6bf7b7b94714e77b58086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/16\/9-12.1791928018088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעה",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "dɔnniw"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "i bɛna jate"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "מהחל",
+      "gloss": "ni … daminɛna"
+    },
+    {
+      "surface": "חרמש",
+      "gloss": "sɔgɔdalan"
+    },
+    {
+      "surface": "בקמה",
+      "gloss": "foro kisɛw kɔnɔ"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "i bɛna daminɛ"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ka jate"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "dɔnniw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:46:58.091044627Z",
+  "model": "glm-5.3"
+}

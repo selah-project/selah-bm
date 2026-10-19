@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האשורי",
+      "rationale": "Ashuri: 'the Ashurites' vs 'Geshur' (wycliffe) vs 'Asher' (bsb) — tribe or district uncertain."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "Hebrew alternates אל and על; Bambara renders both as 'la\/kan' losing the shift."
+    }
+  ],
+  "translation": "An b'a bilala a bɛ kɛ masakɛ ye Gilada la, ani Ashuri la, ani Yizreel la, ani Efrayimu kan, ani Beniyamini kan, ani Isirayeli bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0ee6f91da8c11f6284c71095e8cd8f8c1d2c1df106a0b431eb45ed6dae18ff07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/2\/9-12.1791930825415.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "a b'a bilala a bɛ kɛ masakɛ ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani … kan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani … kan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Beniyamini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani … kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:33:45.416421637Z",
+  "model": "glm-5.3"
+}

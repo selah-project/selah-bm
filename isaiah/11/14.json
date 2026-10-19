@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ka walanw kan",
+      "rationale": "בכתף 'upon the shoulder' = the slopes\/ridge of Philistia; literal 'shoulder' would mislead"
+    },
+    {
+      "kind": "substitution",
+      "subject": "u bolo ninɲɛli",
+      "rationale": "משלוח ידם 'sending of their hand' = outstretched seizing hand, rendered with hand-reaching phrase"
+    },
+    {
+      "kind": "crux",
+      "subject": "ימה",
+      "rationale": "'toward the sea' = westward; renderings split between 'west' and 'by the sea'"
+    }
+  ],
+  "translation": "U na wale Pelisten ka walanw kan, kɔgɔji fɛ, u na bɛn ka ta ⟨את⟩ Kɔrɔdugu-denw ka fɛnw; Edom ani Moab na to u bolo ma, Amɔn ka denw na u mɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9f61b4d71260feb10497706973338ffb27fa5354ddbb5a8b6c93c535b53fa45c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/11\/13-16.1791933660138.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "u na wale"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "ka walanw kan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisten"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "kɔgɔji fɛ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bɛn ka"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "ta fɛnw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kɔrɔdugu-denw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kɔrɔdugu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "u bolo ninɲɛli"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "u bolo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amɔn"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "u mɛn"
+    }
+  ],
+  "timestamp": "2026-10-13T23:21:00.141339741Z",
+  "model": "glm-5.3"
+}

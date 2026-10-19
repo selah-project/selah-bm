@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 42:25",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩",
+      "rationale": "Hebrew has no subject; supplied pronoun points back to Yawe from verse 24"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔngɔ",
+      "rationale": "חמה literally heat\/burning-fever; rendered as anger"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yɛrɛma",
+      "rationale": "אף literally nose\/nostril; here figurative parallel of anger"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידע \/ ישים על לב",
+      "rationale": "parallel pair 'he knew not \/ he laid not to heart' — the repetition of incomprehension is the verse's punch"
+    }
+  ],
+  "translation": "⟨A⟩ ye kɔngɔ bɔ a kan — a yɛrɛma — ani kɛlɛ sebagaw; tasuma ye a lampu a ɲɛfɛ bɛɛ, nka a ma a dɔn; a ye a ɲagami, nka a ma a sigi ⟨a⟩ dusukun kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "96a66b88b65ba79abb49d0e756e37209f44c525613043685b4f8e7aadd1c6d31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/42\/25-25.1791934262716.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפך",
+      "gloss": "ye … bɔ a kan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kɔngɔ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "yɛrɛma"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "ani … sebagaw"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "kɛlɛ"
+    },
+    {
+      "surface": "ותלהטהו",
+      "gloss": "ye a lampu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "a ɲɛfɛ bɛɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka … ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "ye a ɲagami"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nka … ma"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "sigi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    }
+  ],
+  "timestamp": "2026-10-13T23:31:02.717389785Z",
+  "model": "glm-5.3"
+}

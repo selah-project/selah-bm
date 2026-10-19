@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Bambara needs overt subject before each verb; Hebrew has suffixes only"
+    },
+    {
+      "kind": "idiom",
+      "subject": "lifted me up and cast me down",
+      "rationale": "Hebrew pair נשא\/שלך: raised then flung away, destruction by the same hand"
+    }
+  ],
+  "translation": "I jatigɛya ni i kunbawɛrɛya la, sabu i ye n lamini ani i ye n blà.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/102\/9-12.1791941151072.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "… la"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "i jatigɛya"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "i kunbawɛrɛya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "i ye n lamini"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "i ye n blà"
+    }
+  ],
+  "timestamp": "2026-10-14T01:25:51.072807172Z",
+  "model": "glm-5.3"
+}

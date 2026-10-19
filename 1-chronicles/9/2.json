@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kɔnɔ",
+      "rationale": "Bambara locative needs 'kɔnɔ' (in) where Hebrew uses prefixed ב."
+    },
+    {
+      "kind": "elision",
+      "subject": "Netinim",
+      "rationale": "הנתינים kept as proper name 'Netinim' with gloss 'so-mafɛbagaw' (temple-servants); no native Bambara term exists."
+    }
+  ],
+  "translation": "Sigidaw fɔlɔw, minnu sigilen bɛ u ka duguw kɔnɔ u ka mara la: Isirayel, sarakalasebagaw, Lewiw (Lewi denw), ani Netinim (so-mafɛbagaw).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/9\/1-4.1791947788726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "sigidaw"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "fɔlɔw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "u ka mara la"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "u ka duguw kɔnɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayel"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiw"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "ani Netinim"
+    }
+  ],
+  "timestamp": "2026-10-14T03:16:28.727920910Z",
+  "model": "glm-5.3"
+}

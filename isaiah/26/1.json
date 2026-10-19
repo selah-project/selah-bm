@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dugu minnu ka seya",
+      "rationale": "Hebrew 'strong city' rendered with relative clause Bambara requires"
+    },
+    {
+      "kind": "elision",
+      "subject": "וָחֵל",
+      "rationale": "rare word for outwall\/rampart; rendered datuguw (outer defense)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיר עז",
+      "rationale": "city-of-strength compact construct; expanded to clause in Bambara"
+    }
+  ],
+  "translation": "O don na, donkili in bɛna donkili-kɛ Yehuda (Juda) dugukolo la: dugu minnu ka seya, dugu ye an ye; Yawe bɛ yamaruyari bila ka kɛ ⟨a ka⟩ kabakurunw ani datuguw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/26\/1-4.1791933934728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "O don na"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "bɛna donkili-kɛ"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "donkili"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda (Juda)"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "seya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an ye"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "yamaruyari"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "bila"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "kabakurunw"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "ani datuguw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:25:34.730508376Z",
+  "model": "glm-5.3"
+}

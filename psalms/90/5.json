@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "זרמתם",
+      "rationale": "א Kuma ka tiɲɛ: ji min bɛ taamankan bɔ — 'ji sɔngɔ … ka bɔ'; masinw fɔ 'carriest away as with a flood'."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחלף",
+      "rationale": "A bɛ se ka kɛ 'ka wuli' (KJV: grass groweth up) walima 'ka taa' (YLT: changeth) — bin cogo bɛɛ tilennen."
+    }
+  ],
+  "translation": "I ye ji sɔngɔ u kan ka u bɔ, u ye sunɔgɔ ye; sɔgɔma la, a bɛ bin ye ka tugu taa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/90\/5-8.1791941080580.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "I ye ji sɔngɔ u kan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sunɔgɔ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "u ye … ye"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sɔgɔma la"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "i n'a fɔ bin"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ka tugu taa"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:40.581180291Z",
+  "model": "glm-5.3"
+}

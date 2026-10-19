@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מאשרי",
+      "rationale": "unique form אשר in 'the-ones-who-bless\/lead' sense; JPS reads 'they that lead', YLT 'eulogists'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאשרי",
+      "rationale": "'callers-happy\/blessers' (YLT) vs 'leaders' (JPS\/KJV) from similar אושר; Bambara takes the leading sense"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מבלעים",
+      "rationale": "lit. 'swallowers' — 'u bɛ u minɛ dun' keeps the swallowing picture"
+    }
+  ],
+  "translation": "Jama nin ka ɲɛmɔgɔminɛnw y'u jɔngɔya, ani minnu bɛ u ɲɛmɔ, u bɛ u minɛ dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "42ca7d0bca494e704e552907524bdd4fd1cd418ef68f4569c31a7e8e373fbe14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/9\/13-16.1791933665947.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "o kɛra"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "ɲɛmɔgɔminɛnw"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "y'u jɔngɔya"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "ani minnu bɛ u ɲɛmɔ"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "u bɛ u minɛ dun"
+    }
+  ],
+  "timestamp": "2026-10-13T23:21:05.949996241Z",
+  "model": "glm-5.3"
+}

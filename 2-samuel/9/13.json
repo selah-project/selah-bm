@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 9:13",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tabli",
+      "rationale": "שלחן tɛ Bamanankan daɲɛ dɔnnen na; tabli ye daɲɛ surunnen ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "kan (sanfɛ) bɛ bɔ bayɛlɛmali kɔnɔ — tabli la ye a nɔ na"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bamanankan ka wale-daɲɛ wajibi, Heburukan ma a di"
+    }
+  ],
+  "translation": "Mefiboshet ye Yerushalayim (Jerusalɛmu) sigi, sabu a dun tuma bɛɛ masa ka tabli la; a ye a senw fila ye filen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0c8fd3104803ff3131174c65325b02ff51efa592a1976669c6e53b7f7a298996",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/9\/13-13.1791931108531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומפיבשת",
+      "gloss": "Mefiboshet"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sigi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tabli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tuma bɛɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dun"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "filen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "fila"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "a senw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:38:28.531990750Z",
+  "model": "glm-5.3"
+}

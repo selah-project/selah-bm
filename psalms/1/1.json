@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלך\/עמד\/ישב",
+      "rationale": "Kɔgɔjida tilennen: taa → jɔ → sigini, dogotoloma bɛɛ bɛ tila — o danaya bɛ tununen Bamanankan na ni taa\/jɔ\/sigini ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשרי",
+      "rationale": "Daɲɛ in ye kɔrɔfɔli ye 'sumaya kelen ye mɔgɔ min ye' — 'O mɔgɔ de ka sumaya' walima 'a bɛ sumaya sɔrɔ' disɔnna 'Sumaya don mɔgɔ min' la."
+    }
+  ],
+  "translation": "Sumaya don mɔgɔ min ma taa mɔgɔ juguw ka dɔgɔkunma la, ma jɔ jurumutigɛw ka sirakan, misa ma sigini lasebagaw ka sigiyɔrɔ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/1\/1-4.1791939561939.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sumaya don"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "taa"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "dɔgɔkunma la"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mɔgɔ juguw"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "ni sirakan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "jurumutigɛw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "jɔ"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "ni sigiyɔrɔ la"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "lasebagaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sigini"
+    }
+  ],
+  "timestamp": "2026-10-14T00:59:21.940074212Z",
+  "model": "glm-5.3"
+}

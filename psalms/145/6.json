@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "Hebrew tɛ mɔgɔ minnu bɛ fɔ o fɔ; nɔnabila farala ye (v.4 kɔfɛ 'siya kelen-kelen')"
+    },
+    {
+      "kind": "crux",
+      "subject": "i ka fanga",
+      "rationale": "ועזוז: masa-kunnafoni bɛ a fɔ 'might\/terrible acts'; ladiw 'u bɛ fɔ' (from עזז); sisan kanbaganw bɛ a ta 'fanga' ye"
+    }
+  ],
+  "translation": "U bɛ fɔ i ka fanga ni i ka siranbalifɛnw ye; ani ne bɛ i ka bonba jira.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/145\/5-8.1791941999309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "i ka fanga"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "i ka siranbalifɛnw"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "u bɛ fɔ"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "ani i ka bonba"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "ne bɛ … jira"
+    }
+  ],
+  "timestamp": "2026-10-14T01:39:59.310342703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 1:8",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "i bɛ mɛn",
+      "rationale": "impératif direct qui saisit l'auditeur dès l'ouverture du corps du livre"
+    },
+    {
+      "kind": "you",
+      "subject": "denba",
+      "rationale": "adresse directe au fils, destinataire de tout le discours parental"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tigi",
+      "rationale": "נטש est « frapper\/battre jusqu'à rejeter »; « tigi » (abandonner) garde le sens mais perd l'image du martèlement"
+    }
+  ],
+  "translation": "Denba, i bɛ i fa kalan mɛn; i kana i ba Tora tigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4b21d2a2ebb7d3f3dcc9b511e93c982f7f1074896c2058845e036a4c12dd5a3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/1\/5-8.1791942077656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "i bɛ mɛn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denba"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "i fa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i kana"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "tigi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "i ba"
+    }
+  ],
+  "timestamp": "2026-10-14T01:41:17.657385830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Bamanankan requires object pronoun a for the -נו suffix of תמצאנו"
+    },
+    {
+      "kind": "idiom",
+      "subject": "buru ci ji ɲɛ kan",
+      "rationale": "bread upon face of waters — proverb of generosity kept literal; Hebrew פני = face"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ci",
+      "rationale": "imperative addressed to the reader, summons to generous action"
+    }
+  ],
+  "translation": "I ka buru ci ⟨את⟩ ji ɲɛ kan, sabu don caman kɔnɔ i bɛna a ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/11\/1-4.1791945416116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ci"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "i ka buru"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "caman kɔnɔ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "don caman"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "i bɛna a ta"
+    }
+  ],
+  "timestamp": "2026-10-14T02:36:56.117382059Z",
+  "model": "glm-5.3"
+}

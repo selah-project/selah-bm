@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Malki-Tsedek",
+      "rationale": "Tɔgɔ in kɔrɔ ye 'n ka masakɛ ye tiɲɛ-ɲuman ye' — tɔgɔ ka kɔrɔ-fɔli min bɛ Bamanankan na, o tɛ yen."
+    },
+    {
+      "kind": "you",
+      "subject": "ko kuma in",
+      "rationale": "Yawe ka laada bɛ tigɛ nɔnabila 'i' ma — sarakalasebagaya laada."
+    },
+    {
+      "kind": "elision",
+      "subject": "דברתי",
+      "rationale": "Daɲɛ julaye min kɔrɔ ye 'sariya-cogo \/ dabɔ-cogo'; Bamanankan taara ni 'sariya cogo' ye."
+    }
+  ],
+  "translation": "Yawe ye laada kɛ, a tɛ b'a sɔsɔ: \"I ye sarakalasebaga ye waati bɛɛ, Malki-Tsedek (Melikisedeke) ka sariya cogo la.\"",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/110\/1-4.1791941477917.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ye laada kɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a tɛ"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "b'a sɔsɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waati bɛɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "... kan"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sariya cogo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-10-14T01:31:17.918295955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 22:18",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dusukun",
+      "rationale": "בטן is literally 'belly\/inner body', rendered as inner self; some versions read 'heart' here"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי ... כי",
+      "rationale": "Repeated כי frames the verse as cause and condition; Bambara uses sabu\/ni, splitting the echo"
+    }
+  ],
+  "translation": "Sabu o ka di, ni i mara u ⟨i kunu kɔnɔ⟩, u bɛna jɛ bla i feminenw kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5c1bb37de68f024dba8c1739306419265f83ebdbab4dc92627dd66bd08aa24a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/22\/17-20.1791942816067.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ka di"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "mara u"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "kunukɔnɔ"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "bɛna jɛ bla"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɲɔgɔn ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "feminenw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:53:36.068034105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויענה",
+      "rationale": "ענה 'humbled\/afflicted' rendered 'y'a farin kɛ' — he did violence to her; the rape euphemism in וישכב 'lay with her' is kept as 'ka tɔ'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "suffixed aleph-tav with no separate object noun; marker preserved as ⟨את⟩ pointing at 'her'"
+    }
+  ],
+  "translation": "Nka a ma sɔn ka mɛn a kan; a kokura ye a yɛrɛ la, a y'a farin kɛ ⟨את⟩ a la ka tɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2496d8f639a5dc886c2bcfbe91c6ec9c8e5c1283ac95f9f8883eda7ab9970723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/13\/13-16.1791931191121.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nka a ma"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "sɔn"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "a kokura ye"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "a yɛrɛ la"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "a y'a farin kɛ"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ka tɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "a (a la)"
+    }
+  ],
+  "timestamp": "2026-10-13T22:39:51.123475037Z",
+  "model": "glm-5.3"
+}

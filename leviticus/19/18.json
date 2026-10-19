@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ולא תטר",
+      "rationale": "Literally 'do not guard (anger)' — נטר is keep\/watch; rendered as 'do not keep anger'."
+    },
+    {
+      "kind": "crux",
+      "subject": "לרעך כמוך",
+      "rationale": "'Love your neighbor as yourself' — the most-quoted verse of the Holiness Code; רע is close associate, not just geographic neighbor."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct second-person singular command closing with the divine self-identification."
+    }
+  ],
+  "translation": "I kana ɲɛkɔrɔta ta, ani i kana koroya mara ⟨את⟩ i jamaw denkɛw sanfɛ; nka i ka i ɲɔgɔnna kanuya i yɛrɛ la cogo min na; ne ye Yawe.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/19\/17-20.1791927053305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "ɲɛkɔrɔta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani kana"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "koroya mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i jamaw denkɛw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denkɛw"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i jamaw"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "ka kanuya"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "i ɲɔgɔnna"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "i yɛrɛ la cogo min na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T21:30:53.307277235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kanbɔ",
+      "rationale": "Masaliden in bɛ denmuso wele — Imperative daminɛ"
+    },
+    {
+      "kind": "you",
+      "subject": "denmuso",
+      "rationale": "Weleli tilennen bɛ masakɛ denmuso ma, a kɔrɔ ye ngaroba ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "ya",
+      "rationale": "Bamanankan weleli daɲε 'ya' min farala Heburukan daɲεw kan ma"
+    }
+  ],
+  "translation": "Kanbɔ, ya denmuso, i ye ani i ka tulo ɲɛminɛ; i ka jamaw miniŋ aw ka fa ka so.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/45\/9-12.1791940199214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "kanbɔ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "denmuso"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "ɲɛminɛ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "i ka tulo"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "miniŋ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i ka jamaw"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "so"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "i ka fa ka"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:59.215868273Z",
+  "model": "glm-5.3"
+}

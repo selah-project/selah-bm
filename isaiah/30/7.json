@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רהב הם שבת",
+      "rationale": "'Rahab — they are sitting still' or 'Rahab who sits still' (a nickname for Egypt); KJV reads 'their strength is to sit still'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רהב",
+      "rationale": "Rahab means 'blusterer\/arrogance' — Egypt taunted as all noise, no action; the nickname sense is lost if read as a mere name."
+    },
+    {
+      "kind": "addition",
+      "subject": "dɔrɔn",
+      "rationale": "'only' supplied to render the force of שבת as Egypt's whole accomplishment."
+    }
+  ],
+  "translation": "Mitsrayim (Misira) ye basiya ye, a ka dɛmɛ ye jatigilen ye; o la n ye o tɔgɔ da: Rahab — min bɛ sigi da dɔrɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f86a79f441d015c3194ba0b934e700b3fb902f89c004290e4fd563b6b813f74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/30\/5-8.1791934045929.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "basiya"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "ani jatigilen"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "dɛmɛ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "o la"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "n ye … tɔgɔ da"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "o ye"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "min bɛ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sigi da"
+    }
+  ],
+  "timestamp": "2026-10-13T23:27:25.936709472Z",
+  "model": "glm-5.3"
+}

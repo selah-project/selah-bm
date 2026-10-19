@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 32:17",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הצדקה…הצדקה",
+      "rationale": "sedaqa twice, parallel repetition; kept as kɛnɛya in both slots"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלום",
+      "rationale": "rendered hɛrɛ per fixed vocabulary; shalom's fullness (welfare\/completeness) is wider than hɛrɛ"
+    }
+  ],
+  "translation": "Kɛnɛya baara ko bɛna kɛ hɛrɛ ye, ani kɛnɛya baaraya ko bɛna kɛ sigida ni tikali ye fo jamanakɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "40a77b9aa53f19b877808e1aeb00c6b1037e72d126b03005ab66cebe2697f674",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/32\/17-20.1791934046796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ko bɛna kɛ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "kɛnɛya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "ani baaraya"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "kɛnɛya"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "sigida"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "ani tikali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "jamanakɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:27:26.798798188Z",
+  "model": "glm-5.3"
+}

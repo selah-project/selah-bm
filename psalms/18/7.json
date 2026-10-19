@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so senuman",
+      "rationale": "bracketed clarifier for היכל 'palace\/temple'; the bare 'so' (house) alone would be flat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קולי",
+      "rationale": "קול is voice\/sound; rendered 'kan' (Bambara voice), matching the body-part sense"
+    }
+  ],
+  "translation": "N gafan kɔnɔ, n ye Yawe wele, ani n ka Elohim kan na n y'a ɲini ka kuma; a ye n ka kan mɛn a ka so (so senuman) kɔnɔ na, ani n ka weleli nana a ɲɛna, donna a tulonw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/5-8.1791939766089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "gafan kɔnɔ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "n ye ... wele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani ... kan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "n ka Elohim"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "n y'a ɲini ka kuma"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "a ye ... mɛn"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "a ka so (so senuman)"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "n ka kan"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ani n ka weleli"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a ɲɛna"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "nana ... donna"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "a tulonw la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:46.090377006Z",
+  "model": "glm-5.3"
+}

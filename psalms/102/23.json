@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עבד",
+      "rationale": "'baara kɛ ... ye' — עבד kɔrɔ ka bije 'jongo' (diinɛ-jongo) ma fɔlɔ."
+    }
+  ],
+  "translation": "Ni jiyaw bɛ ɲɔgɔn lajɛ ɲɔgɔn fɛ, ani masamaraw, ka ⟨את⟩ Yawe baara kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1a911999b1db84bce8f509248ec33996601627511da2e7176016adf9601d03eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/102\/21-24.1791941166933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "ɲɔgɔn lajɛ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "jiyaw"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɲɔgɔn fɛ"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "ani masamaraw"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ka baara kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:06.934482346Z",
+  "model": "glm-5.3"
+}

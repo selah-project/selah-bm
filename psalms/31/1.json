@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "title",
+      "rationale": "Hebrew superscript has no verb; Bambara needs 'min bɛ … da \/ min ye … ta' to bind the phrases."
+    },
+    {
+      "kind": "you",
+      "subject": "ciden min bɛ ɲɛmɔgɔya da",
+      "rationale": "Superscription addresses the temple music-director, not the reader."
+    }
+  ],
+  "translation": "Ciden min bɛ ɲɛmɔgɔya da, mizamor, min ye Dawid (Dawuda) ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/31\/1-4.1791939918507.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ciden min bɛ ɲɛmɔgɔya da"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizamor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "min ye Dawid ta"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:18.507944436Z",
+  "model": "glm-5.3"
+}

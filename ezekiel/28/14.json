@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 28:14",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אַתְ",
+      "rationale": "with diacritics אַתְּ is the pronoun 'thou', not the direct-object marker את; rendered as 'i', not ⟨את⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממשח",
+      "rationale": "'outspread (of wings)' vs KJV 'anointed' (from a different mashach); shape kept as outspread-covering"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king of Tsor",
+      "rationale": "direct second-person address continues"
+    }
+  ],
+  "translation": "I ye kerub ye, min ka jɛgɛn bɔbɔman, min bɛ sugandi; An ye i bila Elohim ka senuma kulu kan; i tun bɛ tasuma kabakurunw cɛ, i taamara ɲɔgɔn fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3bdb94befb7c20cc85338422fabd138e8a499168cb408152f90dfc397aad329c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/28\/13-16.1791937414513.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "i"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "ממשח",
+      "gloss": "min ka jɛgɛn bɔbɔman"
+    },
+    {
+      "surface": "הסוכך",
+      "gloss": "min bɛ sugandi"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "An ye i bila"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kulu kan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היית",
+      "gloss": "i tun ye"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kabakurunw"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "התהלכת",
+      "gloss": "i taamara"
+    }
+  ],
+  "timestamp": "2026-10-14T00:23:34.514138680Z",
+  "model": "glm-5.3"
+}

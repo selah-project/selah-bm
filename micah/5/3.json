@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 5:3",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ורעה",
+      "rationale": "Hebrew has no explicit flock object; 'saga' supplied from the shepherd verb itself."
+    },
+    {
+      "kind": "addition",
+      "subject": "sabu",
+      "rationale": "כי rendered as causal 'sabu'; could also be emphatic ('truly, now he is great')."
+    }
+  ],
+  "translation": "A bɛna a yɛrɛ sigi ka saga mara Yawe sebaaya la, Yawe a Ala tɔgɔ ɲɛmamasa la; u bɛna yen sigi, sabu sisanya a bɛna bon ka se dugukolo kun tila bɛɛ ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "63bbc9ef49b6e85976d4a1c8dce9ed848479e1311b9560c6e9af0e2e42e46f86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/5\/1-4.1791938785402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "a bɛna a yɛrɛ sigi"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ka saga mara"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "sebaaya la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "ɲɛmamasa la"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "a Ala"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "u bɛna yen sigi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sisanya"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "a bɛna bon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "kun tila"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    }
+  ],
+  "timestamp": "2026-10-14T00:46:25.403781396Z",
+  "model": "glm-5.3"
+}

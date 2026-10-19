@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bolo",
+      "rationale": "אִתְּנוּ 'with us' rendered 'an bolo' ('at our hand'), the natural Bambara expression of accompaniment"
+    },
+    {
+      "kind": "addition",
+      "subject": "minnu",
+      "rationale": "Hebrew compresses 'those with us' into one relative clause; Bambara needs the relative pronoun 'minnu'"
+    },
+    {
+      "kind": "you",
+      "subject": "to the servant",
+      "rationale": "'Fear not' is Elisha's direct word to his frightened servant"
+    }
+  ],
+  "translation": "A ko: “I kana siran, bawo minnu bɛ ⟨את⟩ an bolo, olu gɛlɛn ka bɔ minnu bɛ ⟨את⟩ u bolo.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2775878a3464848c4fc5401843fe1b0079065b603383107def58632c68221b2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/6\/13-16.1791932706324.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i kana"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "siran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bawo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gɛlɛn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ an bolo",
+      "marks": "minnu bɛ an bolo — olu min bɛ an ye"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ka bɔ minnu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "u — a dancɛw (ja min bilala dɔgɔtɔrɔso lamini na)"
+    }
+  ],
+  "timestamp": "2026-10-13T23:05:06.337131249Z",
+  "model": "glm-5.3"
+}

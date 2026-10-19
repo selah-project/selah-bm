@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "min da fila don",
+      "rationale": "פיות is a dual — 'mouths (two)' of the sword; the dual number is spelled out as 'two mouths', not 'two-edged'."
+    },
+    {
+      "kind": "sariya-matarafali",
+      "subject": "laana",
+      "rationale": "לענה (wormwood) transliterated 'laana' — a plant name kept in Hebrew form rather than a guessed Bambara plant."
+    }
+  ],
+  "translation": "nka a ka laban bɛ munun i n'a fɔ laana ye, a bɛ gesen i n'a fɔ npan ye min da fila don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b1e6ea5b569940579bb87cb85b03bae997f4e737367cd044479011bfb1390459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/5\/1-4.1791942215548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "nka a ka laban"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "bɛ munun"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "i n'a fɔ laana ye"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "a bɛ gesen"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "i n'a fɔ npan ye"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "min da fila don"
+    }
+  ],
+  "timestamp": "2026-10-14T01:43:35.549864975Z",
+  "model": "glm-5.3"
+}

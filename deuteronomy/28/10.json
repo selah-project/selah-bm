@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וראו \/ ויראו",
+      "rationale": "see (ראה) and fear (ירא) share consonants r-a; the echo is lost in Bambara."
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "direct address to Israel within the blessing-curse speech."
+    }
+  ],
+  "translation": "Dugukolo siyaw bɛɛ bɛna ye ko Yawe tɔgɔ bɛ wele i kan, ani u bɛna siran i la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5095ba7f814684cb08d5351a4e3a7a1773ebd2d40f7506fc17de9c6a76131912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/28\/10-11.1791950117247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "u bɛna ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "bɛ wele"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "i kan"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "u bɛna siran"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "i la"
+    }
+  ],
+  "timestamp": "2026-10-14T03:55:17.248023462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפיד בוז לעשתות שאנן",
+      "rationale": "Line famously opaque: 'a torch despised in the thoughts of the secure' (KJV\/ylt) vs 'contempt for misfortune in the thought of him at ease' (asv\/bsb read בוז as verb-like 'contempt for the stumbling' not the lamp)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛnabagaw",
+      "rationale": "למועדי (waverers) rendered with the full picture: those whose foot wavers\/stumbles — gloss keeps 'tiɲɛnabagaw ma' (to the waverers) plus 'sen' (foot) as separate token."
+    }
+  ],
+  "translation": "Pɛtɛrɔ bɛ jɔ hɛrɛma-miiribagaw ka miiri kɔnɔ; o labɛnna wiɲɛbɔloma tiɲɛnabagaw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/12\/5-8.1791943503421.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "pɛtɛrɔ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "jɔ"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "miiri kɔnɔ"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "hɛrɛma-miiribagaw"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "labɛnna"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "tiɲɛnabagaw ma"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-10-14T02:05:03.422377418Z",
+  "model": "glm-5.3"
+}

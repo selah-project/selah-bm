@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Dawid ka kuma Yawe ye",
+      "rationale": "David continues direct address to Adonay Yawe."
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨את⟩",
+      "rationale": "Aleph-tav direct-object marker preserved as glyph, pointing at 'i ka sɔgɔmabaga'."
+    }
+  ],
+  "translation": "Ani Dawid bɛ se ka mun nɔkɔrɔ fara kuma kan i la? Ani i, i ye ⟨את⟩ i ka sɔgɔmabaga dɔn, Adonay Yawe.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "58f0cad19a581742a596c300b313824bbba3e9f4a263be5bec633d04bfd94749",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/7\/17-20.1791931011566.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ani mun"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "bɛ se ka fara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nɔkɔrɔ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ka kuma kɛ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i la"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ani i"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "i ye dɔn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ka sɔgɔmabaga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "i ka sɔgɔmabaga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T22:36:51.569798480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 31:19",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "furabolo · furankɛnɛ",
+      "rationale": "כישור and פלך are spinning tools with no everyday Bamanankan names; descriptive coinages (spindle-tool, spinning-stick), and the traditional spindle\/distaff pair is not distinguished in Bambara weaving"
+    },
+    {
+      "kind": "crux",
+      "subject": "furabolo",
+      "rationale": "translations swap spindle and distaff between כישור and פלך; KJV and JPS differ on which tool is which"
+    }
+  ],
+  "translation": "A bolow y'a bila furabolo la, a diwow bɛ furankɛnɛ to.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b8ecc8c7cdb16eddb51b1cf67c059b1a094747296deda200af374ae0c7e97984",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/31\/17-20.1791943131925.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיה",
+      "gloss": "a bolow"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "y'a bila"
+    },
+    {
+      "surface": "בכישור",
+      "gloss": "furabolo la"
+    },
+    {
+      "surface": "וכפיה",
+      "gloss": "a diwow"
+    },
+    {
+      "surface": "תמכו",
+      "gloss": "bɛ…to"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "furankɛnɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:58:51.926215120Z",
+  "model": "glm-5.3"
+}

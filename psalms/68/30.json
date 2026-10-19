@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהיכלך על ירושלם",
+      "rationale": "'I ka so Yerushalayim kan' — sira fila: so min bɛ Yerushalayim kan (KJV\/ASV) walima so min bɛ Yerushalayim bɔ (Geneva: 'so la, Yerushalayim fɛ')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "היכל",
+      "rationale": "Heburukan kɔrɔ ye masasɔrɔba walima jɔso ye; an ye 'so' ta dɔrɔn, sabu Bamanankan tɛ daɲɛ tilennen don tempɛli kama"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ni⟩",
+      "rationale": "Bamanankan ka kan ka 'di' ɲɛsin fɛn di ma, Heburukan ma min fɔ"
+    }
+  ],
+  "translation": "I ka so la min bɛ Yerushalayim (Jerusalɛmu) kan, masakɛw bɛ ⟨ni⟩ di-fɛnw di i ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/68\/29-32.1791940637653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "i ka so"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "bɛ … di"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "שי",
+      "gloss": "di-fɛnw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:17.654363480Z",
+  "model": "glm-5.3"
+}

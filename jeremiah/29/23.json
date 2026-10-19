@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 29:23",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kubɛ-kɛli",
+      "rationale": "נבלה 'foolishness\/vile deed' rendered 'kubɛ-kɛli' (shameful act)"
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew ידע takes no explicit object; Bambara needs 'a' for 'dɔn a' (know it)"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Oracle speech continuing the judgment addressed through the letter to the exiles"
+    }
+  ],
+  "translation": "Sabu u ye kubɛ-kɛli kɛ Israyel kɔnɔ, u ye ⟨את⟩ u mɔgɔw musow ta wɛlɛ, u ye fuya kuma ne tɔgɔ na, min laseli ne ma di u la; ne de dɔn a, ani seere — Yawe ka kuma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "43e53e4eba1ecc843a9c98285517bcf1b90e60a1cb108f9cf3573815d2c2074f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/29\/21-24.1791935764364.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u ye … kɛ"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "kubɛ-kɛli"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israyel kɔnɔ"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "u ye … wɛlɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u mɔgɔw musow"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "musow"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "u mɔgɔw"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "u ye … kuma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ne tɔgɔ na"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fuya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "laseli"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ani ne"
+    },
+    {
+      "surface": "הו",
+      "gloss": "ne de"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dɔn a"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ani seere"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ka kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T23:56:04.365988020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 39:25",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "toko-segin",
+      "rationale": "שבית (exile\/captivity) bɛ Bamanankan na 'toko-segin' — bɔli ka kɔ segin"
+    },
+    {
+      "kind": "addition",
+      "subject": "so bɛɛ la",
+      "rationale": "Hebrew lacks preposition before בית; Bamanankan needs 'la'"
+    },
+    {
+      "kind": "crux",
+      "subject": "kpe",
+      "rationale": "וקנאתי: 'be jealous\/zealous for' — n bɛ kpe n tɔgɔ senuma nɔ na"
+    }
+  ],
+  "translation": "O de la, Adonay Yawe y'a fɔ cogo nin na: Sisan n bɛna ⟨את⟩ Yakuba (Yakuba) ka toko-segin segin, ani n bɛna duloki Isirayi (Isiraeli) so bɛɛ la, n bɛna kpe n tɔgɔ senuma nɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "34c312d3577b7cbe99fe48860bc40f72989526e8effc829baf4cc307cec2f5b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/39\/25-28.1791937841023.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "o de la"
+    },
+    {
+      "surface": "כה",
+      "gloss": "cogo nin na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakuba ka toko-segin"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "toko-segin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakuba"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "duloki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayi"
+    },
+    {
+      "surface": "וקנאתי",
+      "gloss": "kpe"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "tɔgɔ nɔ na"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "senuma"
+    }
+  ],
+  "timestamp": "2026-10-14T00:30:41.023930066Z",
+  "model": "glm-5.3"
+}

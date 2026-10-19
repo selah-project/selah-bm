@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "masakɛ",
+      "rationale": "min ye masakɛ ye: Yawe ye (BSB), Moshe ye, walima masakɛ tilennen min tɛ tɔgɔ sɛbɛn — Heburukan tɛ tɔgɔ sɛbɛn dɔrɔn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Jeshurun",
+      "rationale": "בישרון ye Yisraɛl tɔgɔ-misɛn ye (\"senuma-mɔgɔw\"); a tootɔgɔ ye, a tɛ bayɛlɛma."
+    },
+    {
+      "kind": "addition",
+      "subject": "kɔnɔ",
+      "rationale": "ב prefix bɛ fɔ \"masakɛ Jeshurun kɔnɔ\"; Bamanankan ka bila kɔfɛ-daɲɛ."
+    }
+  ],
+  "translation": "Kɔrɔlen na, a kɛra masakɛ ye Jeshurun (Yisraɛl) kɔnɔ, jama kunw ni Yisraɛl ka maw lasɔrɔ ɲɔgɔn fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6e9d28d9e2b9df79ba496eda83cb10d21e792facdb001352efc1f5328b2411c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/33\/5-8.1791928424307.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɔrɔlen na, a kɛra"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "Jeshurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "lasɔrɔ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kunw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ɲɔgɔn fɛ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "maw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    }
+  ],
+  "timestamp": "2026-10-13T21:53:44.308005732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חיים\/מות · טוב\/רע",
+      "rationale": "Two tight antithetical pairs held in perfect parallel; the framing is kept but the Hebrew word-pairs themselves are untransposable."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ראה",
+      "rationale": "Opening imperative 'See!' summons the addressee to look at the choice being set out."
+    }
+  ],
+  "translation": "Y'i ye, bi n b'i ɲɛ na di ⟨את⟩ balo ani ⟨את⟩ ɲuman, ani ⟨את⟩ saya ani ⟨את⟩ bon.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/30\/13-16.1791928451286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "y'i ye"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "n bɛ ... di"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "i ɲɛ na"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "balo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɲuman"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ɲuman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saya"
+    },
+    {
+      "surface": "המות",
+      "gloss": "saya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bon"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bon"
+    }
+  ],
+  "timestamp": "2026-10-13T21:54:11.291368707Z",
+  "model": "glm-5.3"
+}

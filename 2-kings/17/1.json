@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 17:1",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "regnal dating",
+      "rationale": "Verse dates a reign by another king's regnal year and counts nine years."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara needs the perfective 'ye … ye' frame the Hebrew verb מלך carries by itself."
+    }
+  ],
+  "translation": "San fila ni tan na, Ahaz (Ahazi), Yuda masakɛ waati la, Hoshea (Hose), Ela denkɛ, kɛra masakɛ ye Shomeron (Samaria), Israel san na, san kɔnɔntɔn ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da18edcf9fd832a727673d871d9c38f9ccc7f95932c82acc23e3084d30fda39c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/17\/1-4.1791933098318.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "san na"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "fila"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ni tan"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kɛra masakɛ ye"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "על",
+      "gloss": "san na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "kɔnɔntɔn"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-10-13T23:11:38.320626323Z",
+  "model": "glm-5.3"
+}

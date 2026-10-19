@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bamɔtiw",
+      "rationale": "במות ye kulu-jukɔrɔ woroshi-yɔrɔw ye minnu da Israel ka jurumuw la; 'bamɔti' ye Heburu daɲɛ taamasiyɛn ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פשע...פשע",
+      "rationale": "פשע\/במות repetition (חטא\/במה paronomasia) — alliteration loss in Bamanankan"
+    },
+    {
+      "kind": "invitation",
+      "subject": "rhetorical question",
+      "rationale": "Verse asks the hearer two direct questions (מי…הלוא), drawing the audience to name Samaria and Jerusalem"
+    }
+  ],
+  "translation": "Yakubu ka bɛn de ye o bɛɛ ye, ani Isirayi so ka jurumuw. Yakubu ka bɛn ye di? A ma ye Shomeron wa? Yuda ka bamɔtiw ye di? A ma ye Yerushalayim wa?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f23bbf7893dbd1f65357db5290689e8ff814bde0b8e15661ca11a7e96f050348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/1\/5-8.1791938760378.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "bɛn la"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakubu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "o"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "ani jurumuw la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "di"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "bɛn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakubu"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ma ye … wa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ani di"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bamɔtiw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ma ye … wa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-14T00:46:00.379390083Z",
+  "model": "glm-5.3"
+}

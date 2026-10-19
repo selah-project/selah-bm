@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "Hawila ka se Shur ma",
+      "rationale": "yɔrɔw lakika: kilomɛtɛriw jate — jiɲɛ min bɛ jira o ye."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɲɛdan",
+      "rationale": "פני = ɲɛda (face) — Heburu bɛ yɔrɔ jarabi 'Ala ɲɛ fɛ' cogo ma."
+    }
+  ],
+  "translation": "Shaul ye ⟨את⟩ Amalekiw minɛ tigmatigɛ Hawila (Hawila) fɛ ka se Shur (Sur) ma, min bɛ Mitsrayim ɲɛdan fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/15\/5-8.1791930314040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ye … minɛ tigmatigɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekiw"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekiw"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "Hawila fɛ"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "i ka se"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur ma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "על",
+      "gloss": "bɛ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ɲɛdan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-13T22:25:14.041981042Z",
+  "model": "glm-5.3"
+}

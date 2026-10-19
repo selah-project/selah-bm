@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered by the fixed gloss 'ni' (life-self), closer to vitality than any inner-soul concept."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לב \/ נפשו",
+      "rationale": "Hebrew pairs heart with nephesh, inner-life; Bambara pairs dusukun with ni, keeping the two-term structure."
+    }
+  ],
+  "translation": "Dusukun bɛ ⟨a⟩ ka ninɛ ka gɛlɛya dɔn, ni a ka wuyilenna ye, dɔnbali tɛ ⟨a⟩ kɔnɔ lamini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/14\/9-12.1791942526803.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bɛ … dɔn"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "gɛlɛya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ka ni"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "ni a ka wuyilenna ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "lamini"
+    },
+    {
+      "surface": "זר",
+      "gloss": "dɔnbali"
+    }
+  ],
+  "timestamp": "2026-10-14T01:48:46.804604347Z",
+  "model": "glm-5.3"
+}

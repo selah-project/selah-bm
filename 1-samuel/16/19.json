@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yishay",
+      "rationale": "Saul's message addresses Jesse directly — imperative 'send'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cidenw",
+      "rationale": "מלאכים here human messengers, not angels; rendered ciden (one-sent)."
+    }
+  ],
+  "translation": "Shaul yɛ cidenw ci Yishay ma, ko: I ye ⟨את⟩ Dawid (Dawuda) ci n ma — i denkɛ min bɛ sagaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2deb5f0605a2be5a59ac1ecad8774917a9104b4e82509b18668e822de2f95417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/16\/17-20.1791930348818.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yɛ … ci"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "cidenw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "i ye … ci"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "i denkɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "sagaw la"
+    }
+  ],
+  "timestamp": "2026-10-13T22:25:48.820116686Z",
+  "model": "glm-5.3"
+}

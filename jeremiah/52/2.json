@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 52:2",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew verb has no pronoun; Bamanankan needs the subject 'a' (Zedekiah)"
+    }
+  ],
+  "translation": "⟨A⟩ ye juguya kɛ Yawe ɲɛ na, i n'a fɔ Yehoyakim ye min kɛ cogo min na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8e8a001784be1761b812fdd7dc05838b9a18e0fded000fb923167da39dd49391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/52\/2-3.1791950921603.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "⟨a⟩ ye … kɛ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "juguya"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ɲɛ na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "i n'a fɔ … bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    }
+  ],
+  "timestamp": "2026-10-14T04:08:41.603735980Z",
+  "model": "glm-5.3"
+}

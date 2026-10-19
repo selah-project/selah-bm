@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 1:26",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ninakili\/ni ye — 'i ni ma' ye kokura-kɔrɔ dɔgɔlen ye, נפש yɛrɛ tɛ 'soul' Tubabukan cogo ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "yerɛ",
+      "rationale": "Heburukan oath-kuma daɲɛ 'חי נפשך' tɛ copila daɲɛ wajibiya — Bamanankan kuma-jɔcogo de wajibiya a"
+    },
+    {
+      "kind": "you",
+      "subject": "Eli",
+      "rationale": "Hana kuma da bɛ Eli ma nɔnabila-cogo la: 'Matigi' fila-fila, a fɛn kalanfɔla-ko"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Matigi",
+      "rationale": "אדני — Adonay, nɔnabila Ala tɔgɔ tɛ; o yɛrɛ ye 'Matigi' ye, a man ni יהוה (Yawe) ye"
+    }
+  ],
+  "translation": "A ko: n di, Matigi, ni i ni ma ⟨yerɛ⟩, Matigi — ne ye o muso ye min sigilen don ni i ye yɔrɔ in na, ka Yawe ɲɛ minɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2f0a1b144e73c1c25d4ffaa11637c81cf607f9fe224e7495110a247fe88ac3f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/1\/25-28.1791929901214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "בי",
+      "gloss": "n di"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Matigi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ni … ma"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "i ni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Matigi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "muso"
+    },
+    {
+      "surface": "הנצבת",
+      "gloss": "sigilen don"
+    },
+    {
+      "surface": "עמכה",
+      "gloss": "ni i ye"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "yɔrɔ in na"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "ka … ɲɛ minɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ɲɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T22:18:21.215650986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כמוני\/כמוך\/כעמי\/כעמך\/כסוסי\/כסוסיך",
+      "rationale": "Three mirrored pairs (as I\/thou, my people\/thy people, my horses\/thy horses) form a balancing chiasm; the parallel repetition is kept."
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "The king addresses Jehoshaphat directly with the invitation-question; Jehoshaphat answers him."
+    },
+    {
+      "kind": "invitation",
+      "subject": "i na taa ⟨את⟩ ne fɛ",
+      "rationale": "A summons to come along to battle at Ramoth-Gilead."
+    }
+  ],
+  "translation": "A ko Yehoshafat ye: i na taa ⟨את⟩ ne fɛ ka taa stri la Ramot Gilad walima? Yehoshafat ko Isirayil masakɛ ye: ne bɛ i nɛrɛn, n'ka mɔgɔw bɛ i ka mɔgɔw nɛrɛn, n'ka sow bɛ i ka sow nɛrɛn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/22\/1-4.1791932553532.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko … ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ye"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "i na taa wa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ne fɛ",
+      "marks": "ne (with me)"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "stri la"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "…ko"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayil"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ne bɛ … nɛrɛn"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "i nɛrɛn"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "n'ka mɔgɔw"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "i ka mɔgɔw"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "n'ka sow"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "i ka sow"
+    }
+  ],
+  "timestamp": "2026-10-13T23:02:33.540236070Z",
+  "model": "glm-5.3"
+}

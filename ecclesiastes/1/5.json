@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ובא השמש",
+      "rationale": "Hebrew says the sun 'comes' — i.e. goes in, sets; rendered as its plain sense 'na' loses the setting idiom"
+    },
+    {
+      "kind": "crux",
+      "subject": "שואף",
+      "rationale": "'panting\/gasping' for the sun: KJV 'hasteth' softens it; kept literal as jaagidi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sun's circuit",
+      "rationale": "the verse maps a fixed daily round — rising place, return, rising again"
+    }
+  ],
+  "translation": "Tile bɛ bɔ, tile bɛ na, a bɛ jaagidi ka taa a yɔrɔ la; min yɔrɔ la tile bɛ bɔ, a de bɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/1\/5-8.1791945174611.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ka na"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "a yɔrɔ la"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "jaagidi"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "min bɛ bɔ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a de"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    }
+  ],
+  "timestamp": "2026-10-14T02:32:54.612082732Z",
+  "model": "glm-5.3"
+}

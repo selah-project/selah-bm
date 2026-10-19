@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ninakili-ni-yɔrɔ ye, a tɛ 'soul' ye — Bamanankan 'ni' ye o tiɲɛ sɔrɔ o de la."
+    },
+    {
+      "kind": "addition",
+      "subject": "minnu bɛ … ye",
+      "rationale": "Bamanankan ka kan ka jamana-ɲɛfɔli-mara dila, Heburukan ma a fɔ."
+    }
+  ],
+  "translation": "Ne ni ɲɛsini ka bon ni minnu bɛ hɛrɛ josi ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/120\/5-7.1791941723116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ka bon"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ɲɛsini"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ne ni⟩ la"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "min bɛ josi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:23.117094780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kɛra",
+      "rationale": "ויהי ka kɔrɔ ye 'a kɛra \/ a tun bɛ yen'; 'taara ka to' ye bayɛlɛmali ye min b'a jira ko Daniyel tun bɛ yen fo o waati"
+    },
+    {
+      "kind": "addition",
+      "subject": "kelen (fɔlɔ)",
+      "rationale": "Heburukan ko 'san kelen' de; masakɛ san fɔlɔ laseli bɛ KJW jɔcogo lafiya"
+    },
+    {
+      "kind": "measurement",
+      "subject": "san fɔlɔ",
+      "rationale": "Tɛmɛsira bɛ jate: Daniyel ka waati laseli ni Korosh masakɛ san fɔlɔ ye"
+    }
+  ],
+  "translation": "Daniyel taara ka to fo Korosh (Kuru) masakɛ san fɔlɔ ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f85826ee73ece88de9602268a67211c28527bd3e1d619642ebe9eaba5a14077b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/1\/21-21.1791945531121.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "san"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kelen (fɔlɔ)"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Korosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:38:51.122752583Z",
+  "model": "glm-5.3"
+}

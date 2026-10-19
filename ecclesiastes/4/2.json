@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושבח",
+      "rationale": "'I praised' — some read the verb as שׁבח (praise) or from שׁוב (return, 'I returned again'); rendered as praise\/acclaim with the dead as more fortunate."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המתים\/מתו · החיים\/חיים",
+      "rationale": "Repetition of 'dead… died' and 'living… live' kept with paired Bambara stems suwo\/sa and balo."
+    }
+  ],
+  "translation": "O la ne ye ⟨את⟩ suwoyɔrɔw minnu kunbɛn sa wolojɛ, u ka ɲi gɛrɛ bɛɛ ye ni o lu minnu bɛ balo dɔɔni nin masetiya la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f6af2180538e3ce9e80a385de2e970bd47ac6839f9cc9947c1c6a73ee71573bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/4\/1-4.1791945205820.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "ne ye… ka ɲi ye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suwoyɔrɔw"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "suwoyɔrɔw"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "kunbɛn"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gɛrɛ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "minnu bɛ balo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "balo"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "dɔɔni nin masetiya la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:33:25.821315330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 78:58",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sanfe-yɔrɔw",
+      "rationale": "במות 'elevations' — cultic high places rendered as 'high-place spots'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויכעיסוהו\/יקניאוהו",
+      "rationale": "parallel verbs of provocation, anger vs jealousy, chiasm-like pairing lost in Bambara"
+    }
+  ],
+  "translation": "U ye a sindoniyali ni u sanfe-yɔrɔw ye, ani ni u jɛgɛnna-daɲɛw ye u y'a jɛnsan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "799f7f342bb4b72181309fa0186dcf0126b45a2bd21c21bd6ec1bba169c44022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/78\/57-60.1791940814779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכעיסוהו",
+      "gloss": "u ye a sindoniyali"
+    },
+    {
+      "surface": "בבמותם",
+      "gloss": "ni u sanfe-yɔrɔw ye"
+    },
+    {
+      "surface": "ובפסיליהם",
+      "gloss": "ani ni u jɛgɛnna-daɲɛw ye"
+    },
+    {
+      "surface": "יקניאוהו",
+      "gloss": "u y'a jɛnsan"
+    }
+  ],
+  "timestamp": "2026-10-14T01:20:14.780238012Z",
+  "model": "glm-5.3"
+}

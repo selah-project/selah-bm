@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ne ni",
+      "rationale": "נפש kɔrɔ ye «ninakili-baga, ni ma ɲɛfɔ» — «ni» (Bamanankan) dɔgɔya a la."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טרף \/ פרק",
+      "rationale": "Sigiw fila fila-fila-kumaw: «ka ye» ni «ka feire» — Heburukan ka jɛgɛnsira-sira bɛ taama kelen na."
+    }
+  ],
+  "translation": "Fo a tɛna ne ni ye i n'a fɔ waraba, ka a feire, a faali mɔgɔ si tɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/7\/1-4.1791939566782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "fo"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "tɛna ... ye"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "i n'a fɔ waraba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ni"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ka a feire"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a faali mɔgɔ si tɛ"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "min bɛ fa"
+    }
+  ],
+  "timestamp": "2026-10-14T00:59:26.782851735Z",
+  "model": "glm-5.3"
+}

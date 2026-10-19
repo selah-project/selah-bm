@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "opening relative absorbed into causal sabu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kɔrɔfɔli",
+      "rationale": "פתגם is a Persian loan 'judicial sentence'; rendered as verdict\/judgment-word"
+    }
+  ],
+  "translation": "Sabu o ni kɔrɔfɔli ma kɛra teliya la jugubaara la, o la hadamadenw ka dusukun kɛnɛra u kɔnɔ ka jugu kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/8\/9-12.1791945348651.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kɛra"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "kɔrɔfɔli"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "teliya"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kɛnɛra"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "hadamadenw"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u kɔnɔ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ka ... kɛ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jugu"
+    }
+  ],
+  "timestamp": "2026-10-14T02:35:48.653122724Z",
+  "model": "glm-5.3"
+}

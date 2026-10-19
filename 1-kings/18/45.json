@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 18:45",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד כה ועד כה",
+      "rationale": "Hebrew idiom 'from here to here' (a little while), rendered 'kɔrɔ fitinin kɔfɛ'"
+    },
+    {
+      "kind": "crux",
+      "subject": "והשמים התקדרו עבים ורוח",
+      "rationale": "clouds and wind read by some as instruments of the darkening, by others as additional phenomena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וירכב",
+      "gloss-context": "",
+      "rationale": "'rode' — vehicle unspecified in Hebrew; rendered 'y'a minɛ' without naming chariot"
+    }
+  ],
+  "translation": "Kɔrɔ fitinin kɔfɛ, sankolow ye dibi ni bilenw ni fiɲɛ ye, sanji belebele tun na. Ahaw (Ahab) y'a minɛ, a taara Yizreɛl (Izirɛyɛlə).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7d8d05286b598b2c2bd4263309cc5a556c20946576d60b7a284db65fc9346a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/18\/45-46.1791932345910.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɔrɔ fitinin kɔfɛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "yan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ani fo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "והשמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "התקדרו",
+      "gloss": "ye dibi kɛ"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "bilenw"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ni fiɲɛ ye"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tun na"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "sanji"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "belebele"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "y'a minɛ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaw"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a taara"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreɛl"
+    }
+  ],
+  "timestamp": "2026-10-13T22:59:05.913328093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 9:28",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Hebrew verb תנקני carries the 'you' in its form; Bambara needs the pronoun added"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנקני",
+      "rationale": "verb is feminine singular — 'You (f.) will not acquit me'; some take it as impersonal 'it (the sorrow) will not let me go'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עצבתי",
+      "rationale": "lemma עצבת also means 'idol\/wound'; here 'pains' — nin-mɛnɛw"
+    }
+  ],
+  "translation": "N bɛ siran n ka nin-mɛnɛw bɛɛ la; m'in dɔn ko ⟨i⟩ tɛ na n hɔrɔya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4801450eb48f99f045c3af83460d9b6faffe4507bc4d9480dc0e2b91a1342361",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/9\/25-28.1791943462332.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגרתי",
+      "gloss": "n bɛ siran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עצבתי",
+      "gloss": "n ka nin-mɛnɛw"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m'in dɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "i tɛ na n hɔrɔya"
+    }
+  ],
+  "timestamp": "2026-10-14T02:04:22.334345909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 15:15",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השבועה\/נשבעו",
+      "rationale": "oath and swore share the שבע root; the repetition is kept by using layidu for both"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ka a sɔrɛ",
+      "rationale": "וימצא להם is 'he was found by them'; Bambara flips to 'they found him'"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "להם pronouns repeated in Bambara to mark the recipients of rest"
+    }
+  ],
+  "translation": "Yuda mɔgɔw bɛɛ y'u dusukun diya layidu in na, sabu u y'a layidu kɛ ni u dusukun bɛɛ ye, ka ɲini a ni u kanuya bɛɛ ye, ka a sɔrɔ; Yawe ye hɛrɛ di u ye u fan bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "51afa861ce45eb013f3a06037f7a5a4c4bc533205fe8818c5dd894991f7f455c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/15\/13-16.1791949074986.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "dusukun diya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "layidu kɛ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "רצונם",
+      "gloss": "kanuya"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "ɲini a"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "sɔrɔ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "hɛrɛ di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "fan bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:37:54.987679059Z",
+  "model": "glm-5.3"
+}

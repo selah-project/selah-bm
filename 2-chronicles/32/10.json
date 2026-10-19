@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על מה",
+      "rationale": "preposition על folds into Bambara interrogative 'mun na'; no separate word carries it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצור → gili kɔnɔ",
+      "rationale": "siege-mound\/hemming-in rendered as 'inside the fence (gili)', the Bambara picture of enclosure"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yuda jamana bɛɛ",
+      "rationale": "Sancherib's taunting question addresses besieged Jerusalem directly"
+    }
+  ],
+  "translation": "Nin cogo na Sancherib, Ashur masakɛ, ko: Aw bɛ jɔɔ mun na, aw sigilen bɛ gili kɔnɔ Yerushalayim?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "33da31ad26dd2a56c8b01969218523d4962cd2231b3e5f96f8b8559b68ef6093",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/32\/9-12.1791949664545.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nin cogo na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aw"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "bɛ jɔɔ"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "sigilen bɛ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "gili kɔnɔ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-10-14T03:47:44.546704740Z",
+  "model": "glm-5.3"
+}

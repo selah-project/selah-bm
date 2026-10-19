@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ורעה אמונה",
+      "rationale": "'shepherd\/feed faithfulness' (KJV 'be fed', ASV 'feed on his faithfulness') vs 'cherish\/cultivate faithfulness' (JPS\/BSB); I follow the latter"
+    },
+    {
+      "kind": "substitution",
+      "subject": "emuna",
+      "rationale": "אמונה 'firmness\/fidelity' kept as a transliterated Hebrew term rather than reduced to one Bambara word"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the psalm's hearer",
+      "rationale": "direct imperatives: trust, do, dwell, shepherd — summons continued from v.1"
+    },
+    {
+      "kind": "you",
+      "subject": "to the faithful hearer",
+      "rationale": "second-person imperatives address the one tempted to envy the wicked"
+    }
+  ],
+  "translation": "Yawe la i dogotiya, k'a kɛ fɛn ɲuman ye; sigi dugukolo la, ka emuna mara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f3ea23ebe51ad923d457430ae7d257980163d1aebb299801f9d162b6d5a175df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/2-3.1791951151188.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "i dogotiya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe la"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "k'a kɛ … ye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "fɛn ɲuman"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "sigi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mara"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "emuna"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:31.189574825Z",
+  "model": "glm-5.3"
+}

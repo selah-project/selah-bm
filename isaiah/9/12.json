@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עד",
+      "gloss": "the preposition 'unto' has no separate Bambara word; folded into the locative la"
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "object pronoun of 'seek' supplied — Bambara requires it where Hebrew marks the object with את"
+    }
+  ],
+  "translation": "Jamaa ma segin min bɛ u tigɛ la, ani ⟨את⟩ Yawe Tsevaot u ma a ɲini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/9\/9-12.1791933668412.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "… la"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "min bɛ u tigɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ɲini"
+    }
+  ],
+  "timestamp": "2026-10-13T23:21:08.416048358Z",
+  "model": "glm-5.3"
+}

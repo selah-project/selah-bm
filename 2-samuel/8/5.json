@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 8:5",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba bi ni fila",
+      "rationale": "22,000 rendered as 'thousand twenty-and-two' following Bambara numeral order (ba = thousand, multiplier follows)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mɔgɔ ba bi ni fila",
+      "rationale": "count of the slain, 22,000 men"
+    }
+  ],
+  "translation": "Aram (Siri) ka Dameshɛki (Damasiki) mɔgɔw nana Hadadezer (Hadadezer), Zoba masakɛ, dɛmɛ; Dawid (Dawuda) ye Aram mɔgɔ ba bi ni fila bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "25fcba5ea5436c48696b93dc5e4836f1ca700ab725e9fb0d8576aa72734df495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/8\/5-8.1791931019062.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dameshɛki"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "dɛmɛ"
+    },
+    {
+      "surface": "להדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zoba"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ye … bɔ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "bi"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ni fila"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:36:59.064319069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 22:13",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ni",
+      "rationale": "Bamanankan needs the conjunction 'ni' between the two paired imperatives dun ni min; Hebrew simply juxtaposes אכול ושתו"
+    },
+    {
+      "kind": "idiom",
+      "subject": "dun ni min, sabu sini an bɛ sa",
+      "rationale": "Famous refrain 'eat and drink, for tomorrow we die'; the Hebrew participles אכול ושתו are read here as hortatory imperatives, as all versions do"
+    }
+  ],
+  "translation": "N'aw yelen: lafiya ni dendɔdɔn — misi bɔn, saga fasa, sogo dun, diwɛn min; dun ni min, sabu sini an bɛ sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "546e581ac548c78ee451dedc325c19c6b84885b2bb39ad1fa496dc7969f184f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/22\/13-16.1791933936721.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "N'aw yelen"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "lafiya"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "dendɔdɔn"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "bɔn"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "misi"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "fasa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "saga"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dun"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sogo"
+    },
+    {
+      "surface": "ושתות",
+      "gloss": "min"
+    },
+    {
+      "surface": "יין",
+      "gloss": "diwɛn"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "dun"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sini"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "an bɛ sa"
+    }
+  ],
+  "timestamp": "2026-10-13T23:25:36.726332425Z",
+  "model": "glm-5.3"
+}

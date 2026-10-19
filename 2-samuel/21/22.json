@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 21:22",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויפלו ביד",
+      "rationale": "'Fell by the hand of' — Hebrew idiom for dying in battle; rendered literally as falling at David's hand."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ארבעת אלה",
+      "rationale": "Verse tallies the four giants of Gath, closing the census of Raphah-descendants."
+    },
+    {
+      "kind": "substitution",
+      "subject": "להרפה",
+      "gloss-context": "Rendered as 'Harapa-famuw' (family of Raphah); Hebrew may be a proper name or collective 'the giant'."
+    }
+  ],
+  "translation": "⟨את⟩ nin ɲaanan in bɔra Harapa-famuw la Gati (Gati dugu) kɔnɔ, u binna Dawid bolo ani ale subagaw bolo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6ff426822879c8fbe098491b5a97b5e53f082195e3555d74bc3018968e39526f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/21\/21-22.1791931392612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nin ɲaanan in"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ɲaanan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "להרפה",
+      "gloss": "Harapa-famuw la"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gati kɔnɔ"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "u binna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ani … bolo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ale subagaw"
+    }
+  ],
+  "timestamp": "2026-10-13T22:43:12.616480910Z",
+  "model": "glm-5.3"
+}

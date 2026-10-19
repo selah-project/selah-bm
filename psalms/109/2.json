@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "here את is the preposition 'with' (אִתִּי), not the DO marker; rendered as the marker per Selah convention but it means 'they spoke WITH me'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פי…ופי",
+      "rationale": "repeated 'mouth' frames the verse chiastically; kept as repeated 'da'"
+    }
+  ],
+  "translation": "Sabu kɛwɛtigiw da ani fɛn-fɔli da bɛ n kan, u y'u da; u ye ⟨את⟩ n fɔ ni kan fitinnen ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/109\/1-4.1791941472119.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "da"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kɛwɛtigiw"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ani da"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fɛn-fɔli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n kan"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "u y'u da"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "u ye fɔ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "n"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fitinnen"
+    }
+  ],
+  "timestamp": "2026-10-14T01:31:12.120039150Z",
+  "model": "glm-5.3"
+}

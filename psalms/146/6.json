@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛ",
+      "rationale": "אמת covers truth and faithfulness\/trustworthiness; tiɲɛ takes the truth side."
+    },
+    {
+      "kind": "elision",
+      "subject": "A",
+      "rationale": "participle עשה continues the description of Yawe from v.5; subject pronoun supplied without bracket as Hebrew participle carries it."
+    }
+  ],
+  "translation": "A ye sankolow ni dugukolo dilan, ⟨את⟩ kɔgɔji ani ⟨את⟩ fɛn bɛɛ min bɛ u kɔnɔ, min bɛ tiɲɛ mara waati bɛɛ,",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "df2325d84195eeda451fcf47037af6d3c7fb2a77f3bf3cf53c2d0809185a5939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/146\/5-8.1791942055317.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "dilan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ani dugukolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kɔgɔji"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fɛn bɛɛ min bɛ u kɔnɔ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fɛn bɛɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u kɔnɔ"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "mara"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waati bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:55.318007915Z",
+  "model": "glm-5.3"
+}

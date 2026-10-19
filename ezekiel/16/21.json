@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "aleph-tav diri daɲɛbɔbaga, a bɛ jira ⟨את⟩ ye i n'a tɛ fɔ kuma ye"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Yerushalayim de ye kunafoni-minɛn ye, Yawe ka kuma kɔrɔ fɛ"
+    }
+  ],
+  "translation": "I y'i denw sara, i y'u di, ka u tɛmɛ ⟨את u⟩ di u ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "04c8bb08b3ec3732714ea3ff85375fe999c2582d6214ae6e4ee4348f629d39ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/16\/21-24.1791936952487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "i y'i denw sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i denw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "i y'u di"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "ka … tɛmɛ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "u"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    }
+  ],
+  "timestamp": "2026-10-14T00:15:52.488412840Z",
+  "model": "glm-5.3"
+}

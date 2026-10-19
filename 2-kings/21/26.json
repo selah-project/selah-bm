@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a nɔ na",
+      "rationale": "תחתיו lit. 'a jukɔrɔ' — 'a nɔ na' (a jɔyɔrɔ la) ye a kɔrɔ tilennen ye masa-la-li kɔnɔ"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויקבר",
+      "gloss": "Hebrew bɛ fɔ 'a binu o' (active, min kɛra); Bamanankan bɛ waleliga tɔgɔ tiɲɛnna dɔrɔn de jira"
+    }
+  ],
+  "translation": "A binu ⟨אתו⟩ a ka binulan kɔnɔ, Uza (Uzza) nakɔ la; a denkɛ Yoashiya (Josia) ye a faamuya a nɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8a29acf34cc518ac714dd084c01051221e966a05afad21062631685d583a0224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/21\/25-26.1791933177199.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "a binu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "a"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "a ka binulan kɔnɔ"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "nakɔ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ye a faamuya"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoashiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a denkɛ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a nɔ na"
+    }
+  ],
+  "timestamp": "2026-10-13T23:12:57.204441572Z",
+  "model": "glm-5.3"
+}

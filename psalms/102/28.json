@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o kelen yɛrɛ",
+      "rationale": "Hebrew emphatic pronoun הוא ('you — he, the same') expanded into a full predicate 'the very same one' with Bambara copula 'ye … ye'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יתמו",
+      "rationale": "Literally 'be completed\/come to an end' — rendered 'bɔn' (come to an end)."
+    }
+  ],
+  "translation": "Nka i, i ye ⟨o kelen yɛrɛ⟩ ye, i ka sanw mǎn bɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "813f0a78dff17f327da6e578f53b87e7c76a21a7b123ebcc3bd852a02d2b2f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/102\/25-28.1791941220951.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Nka i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o kelen yɛrɛ⟩"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "i ka sanw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mǎn"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "bɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:00.952557788Z",
+  "model": "glm-5.3"
+}

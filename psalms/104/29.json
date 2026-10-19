@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוחם",
+      "rationale": "fiɲɛ (breath\/wind) — ruach ni fiɲɛ nɔgɔya dɔgɔya bɛ se ka kɛ"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואל",
+      "rationale": "Hebrew preposition folded into the Bambara postposition la"
+    }
+  ],
+  "translation": "I y'i ɲɛda ɲɛsin, u bɛ bargaya; i y'u fiɲɛw bɔ, u bɛ sa, k'u segin u buguri la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "3dd1526d433936a330fb5192208e4a4da5c035a5f911b10addb33dfcdfb23f01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/104\/29-32.1791941266985.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "ɲɛsin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i ɲɛda"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "u bɛ bargaya"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "i bɛ bɔ"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "u fiɲɛw"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "u bɛ sa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "k'u segin"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "u buguri"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:46.985727070Z",
+  "model": "glm-5.3"
+}

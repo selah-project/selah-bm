@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את נבות",
+      "rationale": "here את is the preposition 'with', not the object marker, but the marker is preserved per discipline"
+    },
+    {
+      "kind": "substitution",
+      "subject": "taamasiyɛn",
+      "rationale": "חותמו is a seal-signet ring; taamasiyɛn (sign\/seal) keeps the sealing act, no Bambara word for signet"
+    }
+  ],
+  "translation": "A ye sɛbɛnw sɛbɛn Ahabu (Ahaba) tɔgɔ na, ka u to ni a taamasiyɛn ye, ka sɛbɛnw in ci mɔgɔkɔrɔw ni jamafɛn-bagaw ma minnu bɛ a dugu kɔnɔ, minnu bɛ zɔ ⟨את⟩ Nakoti ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "25573c7040ccdc824df79312cbf114424f56be25263d20735d64a80a517134bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/21\/5-8.1791932458465.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "a ye … sɛbɛn"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "sɛbɛnw"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "…tɔgɔ na"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "ka u to"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "ni a taamasiyɛn ye"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ka … ci"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "sɛbɛnw in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mɔgɔkɔrɔw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "jamafɛn-bagaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "a dugu kɔnɔ"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "minnu bɛ zɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakoti ye"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nakoti"
+    }
+  ],
+  "timestamp": "2026-10-13T23:00:58.471629650Z",
+  "model": "glm-5.3"
+}

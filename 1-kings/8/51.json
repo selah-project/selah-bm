@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Hebrew fronted copula-less clause 'your people and your inheritance they' needs Bambara copula 'ye'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "nɛgɛ ka ligilii",
+      "rationale": "כור הברזל 'furnace of iron' is a metaphor for Egyptian slavery — kept literal, the picture stands"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nachala",
+      "rationale": "נחלתך names Israel as a counted possession, an inheritance-claim"
+    }
+  ],
+  "translation": "sabu u ye i ka jamaw ye, ani i ka furakɛ, u ye minnu ye i ye min bɔra Mitsrayim (Misira) la, nɛgɛ ka ligilii kɔnɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c317954c206d9fdfc9eedfab4adf3151c61469722d4752a1a835766769f89269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/49-52.1791931922704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i ka jamaw"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ani i ka furakɛ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "i ye min bɔra"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim la"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kɔnɔ na"
+    },
+    {
+      "surface": "כור",
+      "gloss": "ligilii"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "nɛgɛ ka"
+    }
+  ],
+  "timestamp": "2026-10-13T22:52:02.708996156Z",
+  "model": "glm-5.3"
+}

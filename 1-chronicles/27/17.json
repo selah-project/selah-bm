@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kan",
+      "rationale": "Hebrew lamed-prefix alone; Bamanankan needs 'kan' to mark the tribal assignment"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tribal roster",
+      "rationale": "Verse is a list of appointed tribal officers, part of a census-like administrative register"
+    }
+  ],
+  "translation": "Lewi kan: Chashabya (Chashabya), Kemuel denkɛ; Aharon (Aharon) kan: Tsadok (Tsadok).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9685c283049b8007409740e2d476aa15e75dce27ebe43c6e308cb3092a3f408f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/27\/17-20.1791948396153.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "Lewi kan"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Chashabya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon kan"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    }
+  ],
+  "timestamp": "2026-10-14T03:26:36.153819484Z",
+  "model": "glm-5.3"
+}

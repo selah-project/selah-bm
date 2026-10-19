@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמשל\/נדמו",
+      "rationale": "root-play between משל (to be likened) and דמה (to perish\/be silenced): 'he is likened... they are destroyed' — the sound echo is lost in Bamanankan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ביקר",
+      "rationale": "'yɛrɛyɛrɛ' renders 'preciousness\/honour'; concrete sense 'wealth' (as in verse 7) also possible"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נדמו",
+      "rationale": "root דמה means 'be dumb\/silent' — 'they are silenced' as well as 'they perish'"
+    }
+  ],
+  "translation": "Hadamaden min bɛ yɛrɛyɛrɛ la n'a m'a dɔn, a bɛ taama i n'a fɔ baganw minnu banna.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dc6b7c77f76eb66697796be341fc5d46f0785a167995223d72f36ffde2e9ea8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/49\/21-21.1791951202015.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "yɛrɛyɛrɛ la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "n'a m'a"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "a bɛ taama i n'a fɔ"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "baganw"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "banna"
+    }
+  ],
+  "timestamp": "2026-10-14T04:13:22.015528573Z",
+  "model": "glm-5.3"
+}

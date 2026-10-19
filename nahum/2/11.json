@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 2:11",
+  "book": "nahum",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ye kɛ",
+      "rationale": "Hebrew has no verb in the triad 'empty, void, waste'; Bambara requires one"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kɔli kɔkɔ banna",
+      "rationale": "בוקה ומבוקה ומבלקה triple alliteration on b-k\/b-l-k roots, only partly kept"
+    },
+    {
+      "kind": "hapax",
+      "subject": "dibiɲa",
+      "rationale": "פארור occurs only here in the Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "dibiɲa",
+      "rationale": "פארור: 'flush\/glow' (paleness, YLT) vs 'blackness' (KJV\/JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jisɛbɛn",
+      "rationale": "חלחלה is birth-pang writhing applied to terror"
+    }
+  ],
+  "translation": "⟨A ye kɛ⟩ kɔli, kɔkɔ, banna; dusukun dajira, filɛw jɛgɛnnira, jisɛbɛn donna kɔ bɛɛ la, ɲɛdaw bɛɛ lamɛnna ⟨dibiɲa⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e4b0faf6c8ccb81376b6c815a7cc3c508746db00cfd0a7109f1831b743b77b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nahum\/2\/9-12.1791938862764.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בּוּקָ֥ה",
+      "gloss": "kɔli"
+    },
+    {
+      "surface": "וּמְבוּקָ֖ה",
+      "gloss": "kɔkɔ"
+    },
+    {
+      "surface": "וּמְבֻלָּקָ֑ה",
+      "gloss": "banna"
+    },
+    {
+      "surface": "וְלֵ֨ב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "נָמֵ֜ס",
+      "gloss": "daji"
+    },
+    {
+      "surface": "וּפִ֣ק",
+      "gloss": "jɛgɛn"
+    },
+    {
+      "surface": "בִּרְכַּ֗יִם",
+      "gloss": "filɛw"
+    },
+    {
+      "surface": "וְחַלְחָלָה֙",
+      "gloss": "jisɛbɛn"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מָתְנַ֔יִם",
+      "gloss": "kɔ"
+    },
+    {
+      "surface": "וּפְנֵ֥י",
+      "gloss": "ɲɛdaw"
+    },
+    {
+      "surface": "כֻלָּ֖ם",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "קִבְּצ֥וּ",
+      "gloss": "lamɛnna"
+    },
+    {
+      "surface": "פָארֽוּר",
+      "gloss": "dibiɲa"
+    }
+  ],
+  "timestamp": "2026-10-14T00:47:42.765358724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jalaki",
+      "rationale": "וַיִּשְׁתַּחֲווּ is 'bowed down\/prostrated'; rendered with the general Bambara 'adored', the bodily prostration lost"
+    }
+  ],
+  "translation": "U ye misiden dilan Khorɛb (Koreb) la, u ye fin min bɔra nɛgɛ-bɔliya la jalaki.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6ecb4a25238a601130121a6744b391625754147a2e734289898fb826720aecff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/106\/17-20.1791941341291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "u ye … dilan"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "misiden"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Khorɛb (Koreb) la"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "u ye … jalaki"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "fin min bɔra nɛgɛ-bɔliya la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:29:01.292376254Z",
+  "model": "glm-5.3"
+}

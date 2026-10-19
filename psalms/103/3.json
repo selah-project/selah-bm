@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "min",
+      "rationale": "Bamanankan bɛ 'min' daani dɔ fara — Heburukan bɛ participe dɔrɔn de jira, kumasen sɛgɛtɔ don"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לכל … לכל",
+      "rationale": "kumasen kelen-kelen bɛɛ kɔnɔ 'bɛɛ' nɔ caman — paralelism min bɛ Heburukan na, o fitinin don a la"
+    }
+  ],
+  "translation": "Min b'i jurumuw bɛɛ bali; min b'i banaw bɛɛ furakɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/103\/1-4.1791941218621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "min bɛ ... bali"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "i jurumuw"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "min bɛ ... furakɛ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "i banaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:58.622075164Z",
+  "model": "glm-5.3"
+}

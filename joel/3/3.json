@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sigi-kolow",
+      "rationale": "תימרות literally 'columns\/palm-shaped columns' of smoke; 'sigi-kolow' (standing pillars) keeps the picture."
+    },
+    {
+      "kind": "mystery",
+      "subject": "cosmic signs",
+      "rationale": "Portents in heavens and earth are withheld signs of the coming day."
+    }
+  ],
+  "translation": "Ne bɛna kɛrɛnkɛrɛnnenw jira sankolow ni dugukolo la: joli, ni tasuma, ni tasuma sigi-kolow.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ddca5f210e9b183415c9563878292a6ef19bb5043533e29a4c388e56be191b07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joel\/3\/1-4.1791938438658.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ne bɛna ... jira"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "kɛrɛnkɛrɛnnenw"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sankolow la"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "dugukolo la"
+    },
+    {
+      "surface": "דם",
+      "gloss": "joli"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "sigi-kolow"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "tasuma ... dibi"
+    }
+  ],
+  "timestamp": "2026-10-14T00:40:38.659419865Z",
+  "model": "glm-5.3"
+}

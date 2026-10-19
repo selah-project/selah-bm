@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ורעה\/ירוע",
+      "rationale": "pun between ra'ah (to tend) and ye'ra' (be broken), kept by juxtaposition of balo and jugu sɔrɔ but the sound-play is lost"
+    },
+    {
+      "kind": "substitution",
+      "subject": "balo",
+      "rationale": "ורעה literally 'to pasture a flock' (the companion grazes among fools), rendered balo (to herd)"
+    }
+  ],
+  "translation": "Min bɛ taama ni ⟨את⟩ dɔnniw ye, o bɛna dɔn; nka min bɛ kɔngɔmɔgɔw balo, o bɛna jugu sɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/13\/17-20.1791942472482.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "taama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dɔnniw"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "dɔnniw"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "o bɛna dɔn"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "balo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kɔngɔmɔgɔw"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "jugu sɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:47:52.484445743Z",
+  "model": "glm-5.3"
+}

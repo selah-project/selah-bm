@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אפס כי",
+      "rationale": "'a dɔrɔn de ye \/ nka' — Hebrew idiom 'only, because', rendered as a Bamanankan contrast pair"
+    },
+    {
+      "kind": "crux",
+      "subject": "tɛmgɛtɔw bilesi",
+      "rationale": "Hebrew verb's object ambiguous: 'you have scorned the enemies of YHWH' (JPS) vs 'you made the enemies of YHWH scorn [Him]' (KJV, Geneva)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות ימות",
+      "rationale": "infinitive-absolute doubling, 'die he-shall-die', rendered 'a bɛ sa ko sa si' to keep the emphasis"
+    }
+  ],
+  "translation": "Nka a dɔrɔn de ye, sabu i ye ⟨את⟩ Yawe ka tɛmgɛtɔw bilesi ni kuma nin ye, o la denkɛ min dogɔra i ye, a bɛ sa ko sa si.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "008cbc642d3ae6a92e9a6f03d0f463738bbd72230290e4872c91aaf08031d91b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/12\/14-15.1791950354930.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "nka a dɔrɔn de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "bilesi"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "i ye … bilesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe ka tɛmgɛtɔw"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "tɛmgɛtɔw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ni kuma ye"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o la ⟨a fana⟩"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "min dogɔra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ye"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "a bɛ sa si"
+    }
+  ],
+  "timestamp": "2026-10-14T03:59:14.930765496Z",
+  "model": "glm-5.3"
+}

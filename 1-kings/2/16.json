@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל תשבי את פני",
+      "rationale": "Hiburukan sumaya ko jɛlen: 'n ɲɛ ma lase' — ɲɛ-fɔli, o kɔrɔ ye 'n ma ninkili' ye"
+    },
+    {
+      "kind": "you",
+      "subject": "Adoniyahu → Bat-Sheba",
+      "rationale": "Kumaw bɛ tɛmɛ dɔrɔn bɔnnibaga ni Batsaba cɛ"
+    }
+  ],
+  "translation": "Sisan, bɔnni kelen de m'bɛ bɔ ⟨את⟩ i fɛ; i ⟨את⟩ kana ⟨את⟩ n ɲɛ lase. A ko a ye: K'a fɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "821f81cb60b100be09e801f68e96ef2d54e7a9d5349f971f72540a75bf0b53c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/2\/13-16.1791931650119.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "bɔnni"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m'bɛ bɔ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ i fɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩ kana"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "lase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "n ɲɛ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨את⟩ n ɲɛ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a ko a ye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "k'a fɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:47:30.125177285Z",
+  "model": "glm-5.3"
+}

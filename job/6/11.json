@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "n ni",
+      "rationale": "נפש rendered as 'ni' (life\/soul per glossary), closer to life-force than 'soul'."
+    },
+    {
+      "kind": "you",
+      "subject": "to his friends",
+      "rationale": "Job's rhetorical questions address his comforters directly."
+    }
+  ],
+  "translation": "N seko ye mun, walasa n ka sugandi? N ka laban ye mun, walasa n ka n ni taa janya?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "671760bb976709a9f9abe80a24b05c2ca760148014d1ec445f7cbefb10f33f06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/6\/9-12.1791943355163.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "n seko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "walasa"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "sugandi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "n ka laban"
+    },
+    {
+      "surface": "כי",
+      "gloss": "walasa"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "kaa taa janya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n ni"
+    }
+  ],
+  "timestamp": "2026-10-14T02:02:35.164595685Z",
+  "model": "glm-5.3"
+}

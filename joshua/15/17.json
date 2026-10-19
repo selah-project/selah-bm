@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 15:17",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Kaleb⟩",
+      "rationale": "Hebrew wayyiqtol has no expressed subject; the giver is Kaleb, supplied for clarity"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחי כלב",
+      "rationale": "brother of Caleb (KJV) vs son of Caleb's brother Kenaz (BSB) — whose brother is ambiguous"
+    }
+  ],
+  "translation": "Otniel, Kenas den, Kaleb balimakɛ, ye dugu minɛ; ⟨Kaleb⟩ ye ⟨את⟩ Aksa, a denmuso, di a ye muso ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "11455d8626ee999a483c0a7480f46d070baad979d9e52456f962640658b66a10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/15\/17-20.1791928923221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "gloss": "ye … minɛ"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Otniel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Kenas"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "balimakɛ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ye … di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "a denmuso"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "muso ye"
+    }
+  ],
+  "timestamp": "2026-10-13T22:02:03.223663329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בחפזי",
+      "rationale": "'In my haste' (KJV) vs 'in my alarm\/terror' (Geneva, BSB); the root חפז means sudden panic-flight."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Hebrew is verbless ('all mankind — liar'); Bamanankan copula 'ye … ye' supplied, closing particle bracketed."
+    },
+    {
+      "kind": "elision",
+      "subject": "כזב",
+      "rationale": "The Hebrew is a participle 'lying\/deceiving' used as a noun; rendered as one compound noun tiɲɛbali."
+    }
+  ],
+  "translation": "Ne tun ko ne teliya la: “Hadamaden bɛɛ ye tiɲɛbali ⟨ye⟩.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ae42fb3227c048238160b2f0388b798661bc3a8745bac96c3f1b06c1094a8c3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/116\/10-11.1791951250367.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ne tun ko"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ne teliya la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "tiɲɛbali"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:10.367591204Z",
+  "model": "glm-5.3"
+}

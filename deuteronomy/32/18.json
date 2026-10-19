@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תשי",
+      "rationale": "שׁיה appears only here; context requires 'you were unmindful', rendered 'i ma a miiri'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחללך",
+      "rationale": "חול means to twist\/writhe — of a woman in labor; rendered 'min dilan i' (who formed you), birth-picture kept partly."
+    }
+  ],
+  "translation": "Kabakurun min da ⟨i⟩ i ma a miiri, i tamasi El (Ala) min dilan ⟨i⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/32\/17-20.1791928411330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Kabakurun"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "min da i"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "i ma a miiri"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "i tamasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El (Ala)"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "min dilan i"
+    }
+  ],
+  "timestamp": "2026-10-13T21:53:31.332414095Z",
+  "model": "glm-5.3"
+}

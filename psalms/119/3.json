@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a ka⟩",
+      "rationale": "the suffix -יו ('his') needs the pronoun a before siraw in Bamanankan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gansan",
+      "rationale": "אף is an ascensive particle ('yea, indeed, also'), not an adverb of time"
+    }
+  ],
+  "translation": "Gansan, jurumu si tɛ u bolo, u bɛ taa ⟨a ka⟩ siraw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/1-4.1791941582182.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "gansan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "u ma kɛ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "⟨a ka⟩ siraw la"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "u bɛ taa"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:02.182799747Z",
+  "model": "glm-5.3"
+}

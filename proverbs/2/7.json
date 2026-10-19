@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 2:7",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew has no explicit subject; Yawe from v6 implied, Bambara requires the pronoun"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hakili jɛlen",
+      "rationale": "תושיה is a rare word, 'sound wisdom\/abiding ability'; rendered as 'clear wisdom'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiɲɛ",
+      "rationale": "תם is completeness\/innocence; 'tiɲɛ' (truth) narrows it slightly"
+    }
+  ],
+  "translation": "A bɛ ⟨hakili jɛlen⟩ mara mɔgɔ tilennenw ye; a ye gangan ye mɔgɔ minnu bɛ taa ni tiɲɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "add815dd9eee4d9d11bca04d8a571e2444fb1a9a3a58da6ed3170c6bccb38334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/2\/5-8.1791942126788.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצפן",
+      "gloss": "bɛ mara"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "mɔgɔ tilennenw ye"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "hakili jɛlen"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gangan"
+    },
+    {
+      "surface": "להלכי",
+      "gloss": "mɔgɔ minnu bɛ taa"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ni tiɲɛ ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:42:06.789725816Z",
+  "model": "glm-5.3"
+}

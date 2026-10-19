@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bɛ kɛ⟩",
+      "rationale": "Bamanankan needs the verb repeated; the Hebrew hangs איש כל הישר without a verb"
+    },
+    {
+      "kind": "crux",
+      "subject": "איש כל הישר בעיניו",
+      "rationale": "'every man whatever is right in his own eyes' — descriptive of current chaos vs. permission to do as one pleases; rendered literally"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israyel",
+      "rationale": "second-person plural prohibition addressed to Israel in the plains of Moab"
+    }
+  ],
+  "translation": "Aw kana kɛ o bɛɛ ye min bɛ an kɛ yan bi: mɔgɔ kelen-kelen bɛɛ ⟨bɛ kɛ⟩ min ka ɲɛ a yɛrɛ ɲɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "163a52fedce2d7e2d5970a377cdcb53e5e760990151403635856566edfb6a638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/12\/7-8.1791950033264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "o bɛɛ ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "an"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "bɛ kɛ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "yan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mɔgɔ kelen-kelen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "min ka ɲɛ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a yɛrɛ ɲɛ la"
+    }
+  ],
+  "timestamp": "2026-10-14T03:53:53.265140363Z",
+  "model": "glm-5.3"
+}

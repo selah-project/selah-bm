@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "rationale": "Tugu-dañɛ 'ani' bɛ ⟨את⟩ nɔ na, ⟨את⟩ yɛrɛ ye direct-object taamasiyɛn ye"
+    }
+  ],
+  "translation": "N ka senumaw, i y'u tiimɛ; ani ⟨את⟩ n ka Shabatw, i y'u balo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e4349d419cca91a0f7b943244050b137c2fb91373f257b51c78bb5813b15e3e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/22\/5-8.1791937227069.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "n ka senumaw"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "i y'u tiimɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "n ka Shabatw"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "n ka Shabatw"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "i y'u balo"
+    }
+  ],
+  "timestamp": "2026-10-14T00:20:27.070769893Z",
+  "model": "glm-5.3"
+}

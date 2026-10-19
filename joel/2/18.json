@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joel 2:18",
+  "book": "joel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tense of ויקנא",
+      "rationale": "wayyiqtol reads as past ('Yawe was jealous') but versions differ: KJV\/geneva future ('will be jealous'), ylt jussive ('let Jehovah be zealous')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kalifereya",
+      "rationale": "קנא is jealousy\/zeal 'for' — Bambara kalifereya normally jealous 'of'; the ל prefix marks the Benefactive sense"
+    }
+  ],
+  "translation": "Yawe kalifereya la a ka dugukolo kama, a farahakilito a ka jama la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f35a0f18421a0934b7515f206b6972824de39b4f7cdf8843d10b7bd1addb0964",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joel\/2\/17-20.1791938495485.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקנא",
+      "gloss": "kalifereya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "a ka dugukolo"
+    },
+    {
+      "surface": "ובחמל",
+      "gloss": "farahakilito"
+    },
+    {
+      "surface": "על",
+      "gloss": "…la"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a ka jama"
+    }
+  ],
+  "timestamp": "2026-10-14T00:41:35.485998595Z",
+  "model": "glm-5.3"
+}

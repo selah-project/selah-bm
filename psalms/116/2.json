@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tuuli a ka tulo",
+      "rationale": "Hebrew 'stretch\/bend his ear to me' idiom of attentive listening"
+    },
+    {
+      "kind": "alternative",
+      "subject": "n ka donnw bɔrɔminɛ",
+      "rationale": "'in my days I call' could read durative present 'I keep calling' rather than future"
+    }
+  ],
+  "translation": "Sabu a ye a ka tulo tuuli n kan; n ka donnw bɛɛ la, n bɛna a wele.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/116\/1-4.1791941551739.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tuuli"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "a ka tulo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n kan"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "n ka donnw bɛɛ la"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "n bɛna a wele"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:31.740009577Z",
+  "model": "glm-5.3"
+}

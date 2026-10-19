@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 11:18",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחפרת",
+      "rationale": "'you shall dig' (Geneva\/KJV) vs 'you shall search\/look about' (JPS) — from digging around a camp for safety"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tɔnni",
+      "rationale": "תקוה is literally a cord, figuratively expectancy"
+    }
+  ],
+  "translation": "I bɛna juya sabu tɔnni bɛ yen; i bɛna ɲini, wa hɛrɛ la i bɛna so.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bc62d85a8cddea47d71ca00ffc477c64651bc787b67151bcd7378b1207abcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/11\/17-20.1791943517527.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובטחת",
+      "gloss": "bɛna juya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bɛ yen"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "tɔnni"
+    },
+    {
+      "surface": "וחפרת",
+      "gloss": "bɛna ɲini"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "hɛrɛ la"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "bɛna so"
+    }
+  ],
+  "timestamp": "2026-10-14T02:05:17.528460785Z",
+  "model": "glm-5.3"
+}

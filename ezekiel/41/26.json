@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 41:26",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אטמות",
+      "rationale": "KJV 'narrow windows' vs ASV 'closed windows' vs BSB 'beveled' — sɛbɛnni kɔrɔfɔli caman bɛ yen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דגɛnw \/ architraves",
+      "rationale": "העבים ye sarakabɔlan kunw sanfɛla dɛgɛnw ye, tɛ 'thick planks' (KJV) ye."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עוב",
+      "rationale": "העבים lemma c\/d\/5646 — taamasiyɛn gɛlɛn don min bɛ Ezekiɛl kɔnɔ dɔrɔn."
+    }
+  ],
+  "translation": "Ni ɲɛfɛnwɛrɛw minnu bɛ datu, ni degen-taamasiyɛnw bɛ ⟨yan⟩ ani ⟨a kɔfɛ⟩, a-ulan (dakun) kunw kan, ani so kenɛw ni dɛgɛnw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ab9bfa6a248e90cd8a30c2a4bbe1ef90a3ea8a6eec333086f6a12000a4c8ad41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/41\/26-26.1791950981529.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְחַלּוֹנִ֨ים",
+      "gloss": "ni ɲɛfɛnwɛrɛw"
+    },
+    {
+      "surface": "אֲטֻמ֤וֹת",
+      "gloss": "datunenw"
+    },
+    {
+      "surface": "וְתִֽמֹרִים֙",
+      "gloss": "ni degen-taamasiyɛnw"
+    },
+    {
+      "surface": "מִפּ֣וֹ",
+      "gloss": "yan"
+    },
+    {
+      "surface": "וּמִפּ֔וֹ",
+      "gloss": "ani yan"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כִּתְפ֖וֹת",
+      "gloss": "kunw"
+    },
+    {
+      "surface": "הָֽאוּלָ֑ם",
+      "gloss": "a-ulan (dakun)"
+    },
+    {
+      "surface": "וְצַלְע֥וֹת",
+      "gloss": "ni kenɛw"
+    },
+    {
+      "surface": "הַבַּ֖יִת",
+      "gloss": "so"
+    },
+    {
+      "surface": "וְהָעֻבִּֽים",
+      "gloss": "ni dɛgɛnw"
+    }
+  ],
+  "timestamp": "2026-10-14T04:09:41.529979314Z",
+  "model": "glm-5.3"
+}

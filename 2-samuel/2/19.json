@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 2:19",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tugulila la",
+      "rationale": "Hebrew repeats only 'from after Abner'; 'pursuit-path' supplied so the clause reads whole in Bambara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נטה",
+      "rationale": "'Turn\/bend aside' rendered jigi; the moral-deflect nuance of the verb sits behind the chase."
+    }
+  ],
+  "translation": "Asahel ye Abner tugu, a mana jigi ka taa numan fɛ walima gɔn fɛ, a tun tɛ bɔ Abner tugulila la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c28a566c5fdf074f533b833d279cb854bd01334aa90bec5f11eda3d67e606303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/2\/17-20.1791930894296.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "ye … tugu"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "וינטה",
+      "gloss": "mana jigi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a mana"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ka taa"
+    },
+    {
+      "surface": "על",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "numan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "walima"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "gɔn"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "bɔ … la"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    }
+  ],
+  "timestamp": "2026-10-13T22:34:54.299335286Z",
+  "model": "glm-5.3"
+}

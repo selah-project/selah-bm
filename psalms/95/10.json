@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אקוט",
+      "rationale": "rare verb: 'loathe\/detest' — versions soften to 'grieved\/wearied\/angry'; Bambara bilasira keeps the disgust"
+    },
+    {
+      "kind": "measurement",
+      "subject": "san binaani fila",
+      "rationale": "forty years counted — the wilderness generation's span"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula required for 'a people that err in heart are they'"
+    }
+  ],
+  "translation": "San binaani fila ne bilasira kɛmɛsira kɔnɔ, n ye ko fɔ: jama ye dusukun-yɛlɛmaw ye; olu fana tɛ ne siraw dɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "31ad06238abde40becff53422bc1a7a4603b320c8617d2636113f0bd59aad6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/95\/9-11.1791941034143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "binaani"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ne bilasira"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "kɛmɛsira kɔnɔ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "n ye ko fɔ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "yɛlɛmaw"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "הם",
+      "gloss": "olu"
+    },
+    {
+      "surface": "והם",
+      "gloss": "olu fana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dɔn"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ne siraw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:23:54.144148574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לפנים",
+      "rationale": "Literally 'before' (of faces), i.e. 'of old \/ formerly' — rendered 'Daminɛ na'."
+    },
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "Hebrew verbless clause 'the heavens the work of your hands' requires Bambara 'ye … ye'."
+    }
+  ],
+  "translation": "Daminɛ na, i ye dugukolo ka dugubɔli sigi, ani sankolow ye i ka bolow baara ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "813f0a78dff17f327da6e578f53b87e7c76a21a7b123ebcc3bd852a02d2b2f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/102\/25-28.1791941220951.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Daminɛ na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "i ye … dugubɔli sigi"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "baara"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "i ka bolow"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:00.952227202Z",
+  "model": "glm-5.3"
+}

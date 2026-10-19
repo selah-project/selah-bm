@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tulow la",
+      "rationale": "באזני 'in the ears of' — Bambara keeps the literal body part idiom 'in the ears'"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "pronoun object of 'fɔ' added; Hebrew suffix on וידברם carries it"
+    }
+  ],
+  "translation": "Shemuwel (Samuwɛl) ye ⟨את⟩ jama kumaw bɛɛ mɛn, ka u fɔ Yawe tulow la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d3eb7e4b44ba0b829a1bbccd09231d9fb26635d9405c441e351427190658a5c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/8\/21-22.1791930100638.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ye … mɛn"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama kumaw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "ka u fɔ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "tulow la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T22:21:40.639451258Z",
+  "model": "glm-5.3"
+}

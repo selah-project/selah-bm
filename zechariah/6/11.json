@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 6:11",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עטרות",
+      "rationale": "Plural 'crowns' in Hebrew; KJV keeps plural, JPS\/BSB render a single crown — the plural form is kept here."
+    },
+    {
+      "kind": "substitution",
+      "subject": "koroniw",
+      "rationale": "עטרות rendered with the loan 'koroni'; no native Bamanankan crown-word in the fixed vocabulary."
+    },
+    {
+      "kind": "you",
+      "subject": "to Zekarya",
+      "rationale": "Imperatives continue the direct command to the prophet."
+    }
+  ],
+  "translation": "I na warigwɛ ni sanu ta, i na koroniw dilan, i na u sigi Yehoshua (Yehoshua) kun kan, Yehotsadak (Yehotsadak) den, sarakalasebaba la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "575afa910aa59fa054e64adb69b98461aa87b5ee2f461e257775f3daa408f87a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/6\/10-11.1791951141085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i na ta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "warigwɛ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i na dilan"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "koroniw"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "i na sigi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "kun kan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:21.086795576Z",
+  "model": "glm-5.3"
+}

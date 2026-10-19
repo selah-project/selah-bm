@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "ciraɲɛmɔgɔ la: 'Elohim ye, i ka atara' (KJ\/BSB) walima Yuda-sigidi ta: 'i ka atara min Elohim di a ma' (JPS 'given of God')."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Elohim ye⟩",
+      "rationale": "Heburukan ma cira-daɲɛ sɛbɛn; Bamanankan ka kan ka a jira walasa kuma ka faamu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבט … שבט",
+      "rationale": "daɲɛ fila-fila-ɲagami: 'dɔgɔkɔrɔ … kibaru' — Bamanankan ma se ka a jira ni daɲɛ kelen ye."
+    }
+  ],
+  "translation": "I ka atara, ⟨Elohim ye⟩, bɛna taalen don ka bɔ san kɔnɔ ka taa san kɔnɔ; dɔgɔkɔrɔ min bɛ mara ɲɛfɔ, o ye i ka masaya kibaru ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/45\/5-8.1791940261076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "i ka atara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨Elohim ye⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka bɔ san kɔnɔ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka taa san kɔnɔ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "dɔgɔkɔrɔ"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "min bɛ mara ɲɛfɔ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kibaru"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "i ka masaya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:11:01.076927209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ye⟩ … ⟨ye⟩",
+      "rationale": "Bamanankan jɛcogo (copula) min Ibrikan tɛ a la."
+    },
+    {
+      "kind": "elision",
+      "subject": "אבדו",
+      "rationale": "'bɔra' (bɔ a dugukolo la) — Ibrikan kɔrɔ ka gɛlɛn dɔ: 'ka yɛrɛ da \/ ka bana' (perish), KJV 'perished'."
+    }
+  ],
+  "translation": "Yawe ⟨ye⟩ masakɛ ⟨ye⟩ waati bɛɛ ni waati jan bɛɛ; siyaw bɔra a dugukolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/10\/13-16.1791939659437.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waati bɛɛ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ni waati jan bɛɛ"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "a dugukolo la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:59.438865431Z",
+  "model": "glm-5.3"
+}

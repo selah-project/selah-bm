@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 6:14",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nabi",
+      "rationale": "נביא rendered nabi (not kira), per the standing ruling — kira is Muhammad's title in Bambara usage."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "Aramaic אלה (Elah) is the Aramaic form of the divine name; rendered with Elohim, never the common noun Ala."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טעם \/ מטעם",
+      "rationale": "The verse repeats the same Aramaic word for 'decree\/command' (a taste → a judicial sentence) for God and for the Persian kings, yoking them; repetition kept by repeating laḍu."
+    }
+  ],
+  "translation": "Yuhuduya mɔgɔkɔrɔw ye so da, u ye ɲuman sɔrɔ Yuhuduya nabi Haggay nin Zekarayah, Iddo (Ado) den, kumalansi ta fɛ; u ye so da k'u ye o ban, Elohim Yisrael ka laḍu fɛ, ani Kowresh, Dareyawesh ni Artachshashta (Artakserkse), Farisi (Peresi) ka masakɛ, laḍu fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "72de1c704595ee46de1896f85a8d5505a702ba54afd2c8898d526b79acdb2848",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/6\/13-16.1791946482807.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבי",
+      "gloss": "mɔgɔkɔrɔw"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "Yuhuduya"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "ye so da"
+    },
+    {
+      "surface": "ומצלחין",
+      "gloss": "u ye ɲuman sɔrɔ"
+    },
+    {
+      "surface": "בנבואת",
+      "gloss": "kumalansi ta fɛ"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Haggay"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "Zekarayah"
+    },
+    {
+      "surface": "בר",
+      "gloss": "den"
+    },
+    {
+      "surface": "עדוא",
+      "gloss": "Iddo"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "u ye so da"
+    },
+    {
+      "surface": "ושכללו",
+      "gloss": "u ye o ban"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "laḍu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael ka"
+    },
+    {
+      "surface": "ומטעם",
+      "gloss": "laḍu fɛ"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Kowresh"
+    },
+    {
+      "surface": "ודריוש",
+      "gloss": "Dareyawesh"
+    },
+    {
+      "surface": "וארתחששתא",
+      "gloss": "Artachshashta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Farisi"
+    }
+  ],
+  "timestamp": "2026-10-14T02:54:42.808744134Z",
+  "model": "glm-5.3"
+}

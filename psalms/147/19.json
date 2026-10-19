@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משפטיו",
+      "rationale": "mishpatim is verdicts\/ordinances; rendered 'a ka fɔliw' (his pronouncements)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a ka⟩",
+      "rationale": "possessive suffix -ו rendered as 'a ka'"
+    }
+  ],
+  "translation": "A bɛ ⟨a ka⟩ kuma jira Yakauba (Yakuba) ye; ⟨a ka⟩ sariyaɲɔgɔnw ni a ka fɔliw Israyɛl (Isirayɛl) ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/147\/17-20.1791942048538.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "jira"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yakauba (Yakuba) ye"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "sariyaɲɔgɔnw"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "a ka fɔliw"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israyɛl (Isirayɛl) ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:48.538778144Z",
+  "model": "glm-5.3"
+}

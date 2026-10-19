@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארץ נתנה יבולה",
+      "rationale": "dugukolo bɛ fɔ ka tɔgɔ la i n'a fɔ mɔgɔ ye, o bɛ kɛ 'dugukolo ban ni a ka wotila ye' ye"
+    }
+  ],
+  "translation": "Dugukolo ban ni a ka wotila ye; Elohim, an ka Elohim, b'an duba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/67\/5-8.1791940559240.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ban ni ... ye"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "a ka wotila"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "b'an duba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T01:15:59.240819273Z",
+  "model": "glm-5.3"
+}

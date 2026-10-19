@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kabila",
+      "rationale": "תהלה kɔrɔ ka surun ye 'kabila-kumaw' (hymn laudation ye); 'kabila' nɔgɔya a la dɔɔni"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Heburukan tɛ copula sɔrɔ — 'A ye i kabila ye' de bɛ Bamanankan la"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגדלת \/ הנוראת",
+      "rationale": "hakɛ-daɲɛ fila faralen don ni 'את' kelen-kelen bɛɛ ye — dantigɛli-ɲɛfɔli min tɛ se ka Bamanankan la jira cogo kelen na"
+    }
+  ],
+  "translation": "A de ye i ka kabila ye, a de ye i ka Elohim ye, min ye ⟨את⟩ baaw ni ⟨את⟩ siranbagaw nin kɛ ni i ye, minnu ye i ɲɛw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6ca8f4ae43bba75f44249f030c8583b682d55f5ce67b1d03935331a4ff96df33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/10\/21-22.1791927680481.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "a de"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "i ka kabila"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a de"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i ka Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ni i ye",
+      "marks": "baaw ni siranbagaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaw"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "baaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "siranbagaw"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "siranbagaw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "i ɲɛw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:41:20.485003846Z",
+  "model": "glm-5.3"
+}

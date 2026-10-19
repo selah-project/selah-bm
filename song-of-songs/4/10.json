@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kanuyaw",
+      "rationale": "דודיך is plural 'your loves\/love-tokens', broader than romantic love; Bambara plural covers it."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka ɲi ka bɔ … la",
+      "rationale": "Hebrew lacks an explicit comparative verb in the third clause; Bambara supplies 'is better than' from the parallel clause."
+    },
+    {
+      "kind": "you",
+      "subject": "to the bride",
+      "rationale": "Direct address continues."
+    }
+  ],
+  "translation": "Cogo di ni i kanuyaw ye, n balimamuso, n muso-kura! I kanuya ka ɲi ka bɔ diwɛn la, i tuluw ka nɛgɛsumaya ka ɲi ka bɔ sumayabɔbɛrɛ bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7a2a9c92046694a69539c3aea71f8f4827609e0a3e5b511146650f2e67b3601c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/4\/9-12.1791944499308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "cogo di ni"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "i kanuyaw"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "n balimamuso"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "n muso-kura"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cogo di ni"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "ka ɲi kosɛbɛ"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "i kanuyaw"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "diwɛn"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "… ka nɛgɛsumaya"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "i tuluw"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sumayabɔbɛrɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:21:39.309164870Z",
+  "model": "glm-5.3"
+}

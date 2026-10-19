@@ -1,0 +1,202 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 38:4",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bolo bɛŋɛ",
+      "rationale": "Hebrew idiom 'slacken the hands' = discourage; kept literal with bolo bɛŋɛ"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "idiomatic 'but rather' pair rendered as Bambara contrast nka plus emphasis, partly folded into one word"
+    },
+    {
+      "kind": "you",
+      "subject": "masakɛ ye",
+      "rationale": "princes' petition addressed directly to King Zedekiah"
+    }
+  ],
+  "translation": "Kɛlɛtigiw ko masakɛ ye: Nin mɔgɔ in, an ni baara, k'a sa — sabu a bɛ bolo bɛŋɛ kɛlɛkɛlaw minnu_DECREF dagalen dugu in na boloow ni jama bɛɛ bolow la, a kumaw nin ye fɔ u ma; sabu nin mɔgɔ in tɛ nin jama ka hɛrɛ ɲini, nka a bɛ bonya ko bɔrɔtɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "991e05c94929d169274f59c05c829f960b69eb83ae5b150ea730f5e495ffa383",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/38\/1-4.1791936094256.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ko"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "kɛlɛtigiw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "k'a sa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "an ni baara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nin mɔgɔ in"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nin mɔgɔ in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "o la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "bolo bɛŋɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kɛlɛkɛlaw bolow"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bolow"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kɛlɛkɛla"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "kɛlɛ"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "minnu dagalen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dugu in na"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jama bɛɛ bolow"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bolow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "kumaw nin ye"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ɲini"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o dere de"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "ko bɔrɔtɔrɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T00:01:34.258211998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מתניו\/חלציו",
+      "rationale": "Hebrew uses two different words for loins in parallel lines; Bambara keeps two (kɔgodi \/ kɔgɔfisan) to hold the parallelism."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nimoya",
+      "rationale": "אמונה is firmness\/fidelity; nimoya (faith\/trust) is the nearest single Bambara word."
+    }
+  ],
+  "translation": "Kɔrɔda bɛna kɛ a ka sɛgɛ ye a ka kɔgodi la, ani nimoya bɛna kɛ a ka sɛgɛ ye a ka kɔgɔfisan la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/11\/5-8.1791933610508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bɛna kɛ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kɔrɔda"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "sɛgɛ"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "a ka kɔgodi"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "ani nimoya"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "sɛgɛ"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "a ka kɔgɔfisan"
+    }
+  ],
+  "timestamp": "2026-10-13T23:20:10.511378575Z",
+  "model": "glm-5.3"
+}

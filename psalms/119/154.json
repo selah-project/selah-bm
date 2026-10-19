@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 154,
+  "ref": "psalms 119:154",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yamaru",
+      "rationale": "גאל = kinsman-redeemer; Bamanankan lacks kinship-redeemer word, yamaru (liberation) keeps the act, loses the kinship shape"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריבה ריבי",
+      "rationale": "verb-noun repetition from one root; the doubling is kept in kaso … kaso"
+    },
+    {
+      "kind": "you",
+      "subject": "imperatives",
+      "rationale": "direct address to Yawe"
+    }
+  ],
+  "translation": "Kaso n ka kaso kɛ, ka n yamaru; i ka kuma la, k'a n balo kokura.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d9cd2a4448b346bfe8c458de5e12ce2d95eeea0365c61bc1ac437241aafe7d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/153-156.1791941603526.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ריבה",
+      "gloss": "kaso kɛ"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "n ka kaso"
+    },
+    {
+      "surface": "וגאלני",
+      "gloss": "ka n yamaru"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "i ka kuma la"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "k'a n balo kokura"
+    }
+  ],
+  "timestamp": "2026-10-14T01:33:23.527359331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew פיהו 'his mouth' carries the possessor; the bracketed pronoun marks whose mouth"
+    },
+    {
+      "kind": "crux",
+      "subject": "kanuyaw",
+      "rationale": "דודיך plural: 'loves\/love-tokena' — rendered 'kanuya' (love); lost is the plural of endearments"
+    },
+    {
+      "kind": "you",
+      "subject": "kumasen in kɔnɔ",
+      "rationale": "the woman speaks, addressing the beloved directly as 'i'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "a bisi ne",
+      "rationale": "opening wish addressed to the beloved, drawing the hearer in"
+    }
+  ],
+  "translation": "A bisi ne ni ⟨a⟩ da bisikenw ye, sabu i kanuyaw ka gɛn diwɛn ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/1\/1-4.1791944492754.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "a bisi ne"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "ni bisikenw ye"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "a da"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ka gɛn"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "i kanuyaw"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "diwɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T02:21:32.755932961Z",
+  "model": "glm-5.3"
+}

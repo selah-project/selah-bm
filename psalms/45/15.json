@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "denmusokɔrɔbw",
+      "rationale": "בתולות covers virgin\/maiden\/bride; Bambara has no single word covering all"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Direct address resumes — the bride is brought 'to you' (the king)"
+    }
+  ],
+  "translation": "Sanu jɛgɛnsirili la, u bɛ a wuli k'a na masakɛ fɛ; denmusokɔrɔbw ni a teriw bɛ tugu a la, u bɛna wuli k'u na i fɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/45\/13-16.1791940237381.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "sanu jɛgɛnsirili la"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "bɛ wuli ka na"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛ fɛ"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "denmusokɔrɔbw"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "bɛ tugu a la"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "a teriw"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "bɛna wuli k'u na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i fɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:37.381787960Z",
+  "model": "glm-5.3"
+}

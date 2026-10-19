@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 7:36",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כמער",
+      "rationale": "lemma מער appears only here in the Tanakh; lit. a bare\/vacant space"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמער איש",
+      "rationale": "'according to the vacant space of each' vs KJV 'according to the proportion of every one'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויפתח",
+      "rationale": "lit. 'he opened' in the engraving sense, rendered 'he engraved' (sebɛn)"
+    }
+  ],
+  "translation": "A ye kerubuw, warabaw ni bɛnjiriw sebɛn a baw palakiw kan ani a danyɔrɔw kan, kɔrɔyɔrɔ min na o bɛɛ, kurubuw ye dancɛ bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "340cb0d766be05c5ab741643c4c89ae5d27070f46f62e296166667903e3186b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/7\/33-36.1791931856110.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "a ye … sebɛn"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "palakiw"
+    },
+    {
+      "surface": "ידותיה",
+      "gloss": "a baw"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ומסגרתיה",
+      "gloss": "a danyɔrɔw"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubuw"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "warabaw"
+    },
+    {
+      "surface": "ותמרת",
+      "gloss": "bɛnjiriw"
+    },
+    {
+      "surface": "כמער",
+      "gloss": "kɔrɔyɔrɔ min na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "o bɛɛ"
+    },
+    {
+      "surface": "וליות",
+      "gloss": "kurubuw"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dancɛ bɛɛ la"
+    }
+  ],
+  "timestamp": "2026-10-13T22:50:56.122464053Z",
+  "model": "glm-5.3"
+}

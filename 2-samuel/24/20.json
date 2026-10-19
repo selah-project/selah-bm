@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וישקף",
+      "rationale": "'leaned out' rendered as one Bambara look-verb with reflexive; the leaning-out picture is folded in"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a ɲɛda",
+      "rationale": "Hebrew appayw literally 'his nose\/nostrils' = his face, rendered 'ɲɛda'"
+    },
+    {
+      "kind": "kɔrɔfɔli",
+      "subject": "Arawna",
+      "rationale": "name spelled ארונה here, ארניה in v18 — same man, one Bamanankan form Arawna"
+    }
+  ],
+  "translation": "Arawna y'ii ɲɛda jira, a ye ⟨את⟩ masakɛ ni ⟨את⟩ a denmisɛnw minnu bɛ na a fɛ; Arawna bɔra, Arawna y'ii kun suku masakɛ ma, a ɲɛda dugukolo kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a3f0c1af9ca0afbb80ac8ad67ff3a6e686b7856f06508d65765c859b3d24744c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/24\/17-20.1791931634803.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "y'ii ɲɛda jira"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Arawna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masakɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a denmisɛnw"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a denmisɛnw"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "minnu bɛ na"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Arawna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "y'ii kun suku"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "masakɛ ma"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "a ɲɛda"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dugukolo kan"
+    }
+  ],
+  "timestamp": "2026-10-13T22:47:14.814925904Z",
+  "model": "glm-5.3"
+}

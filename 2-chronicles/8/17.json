@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dangolen",
+      "rationale": "שפת ye «mouse» kama daɲɛ ye; n'a jɔcogo ye kɔgɔji ka sen-dala ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "kɔnɔ",
+      "rationale": "בארץ bɛ Bamanankan lajɛ yɔrɔ-daɲɛ ye, kɔfɛ-daɲɛ 'kɔnɔ' farala a kan"
+    }
+  ],
+  "translation": "O waati don, Shelomo taara Etsiyon-Geber (Etsiyon-Geber) ani Elat (Elat) ma, kɔgɔji dangolen kan, Edomu (Edomu) dugukolo kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b0a08f6a34824032d45d37eea1a8fb755276d8e538a2d61cb440801279a0020e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/8\/17-18.1791948772686.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o waati don"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "taara"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "Etsiyon-Geber (Etsiyon-Geber) ma"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Etsiyon-Geber"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani … ma"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Elat (Elat)"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "dangolen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kɔgɔji"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo kɔnɔ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu (Edomu)"
+    }
+  ],
+  "timestamp": "2026-10-14T03:32:52.687251282Z",
+  "model": "glm-5.3"
+}

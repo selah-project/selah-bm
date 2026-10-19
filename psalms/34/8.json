@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a ka gɛlɛya la⟩",
+      "rationale": "ויחלצם 'pulls them out' lacks a stated source; supplied 'from his trouble' from context."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ciden",
+      "rationale": "מלאך rendered 'messenger' (ciden), not 'mɛlɛkɛ', per discipline doc."
+    }
+  ],
+  "translation": "Yawe ka ciden bɛ sigi u fan fɛ, u minnu b'a siran, o bɛ u bɔ ⟨a ka gɛlɛya la⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/34\/5-8.1791939956982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "bɛ sigi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ciden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe ka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "u fan fɛ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "u minnu b'a siran"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "o bɛ u bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:56.983242935Z",
+  "model": "glm-5.3"
+}

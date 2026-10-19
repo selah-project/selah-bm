@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 4:9",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne",
+      "rationale": "Bamanankan demands the subject pronoun for the 1cs verbs ופקדתי\/אשיב; unmarked in Hebrew"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כעם ככהן",
+      "rationale": "proverb-like parallel 'like people, like priest' — repetition of כְּ lost in Bambara's 'ni ... ye' comparison"
+    },
+    {
+      "kind": "crux",
+      "subject": "ופקדתי",
+      "rationale": "פקד 'visit' can mean punish or attend; rendered as 'ne bɛ ɲɛ' (confront)"
+    }
+  ],
+  "translation": "A bɛna kɛ: ni jamana ye, o ni sarakalasebaga ye; ne bɛ a siraw ɲɛ, a baaraw, ne bɛ lase ⟨a⟩ ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/4\/9-12.1791938099226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "a bɛna kɛ"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "ni jamana ye"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "ni sarakalasebaga ye"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "ne bɛ ɲɛ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "a siraw"
+    },
+    {
+      "surface": "ומעלליו",
+      "gloss": "a baaraw"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ne bɛ lase"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ma"
+    }
+  ],
+  "timestamp": "2026-10-14T00:34:59.227420670Z",
+  "model": "glm-5.3"
+}

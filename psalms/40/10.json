@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "suman-kɔrɔdafɔli",
+      "rationale": "בשר means to announce fresh\/glad news; rendered 'proclaim good tidings'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשר\/בשר",
+      "rationale": "same root as 'flesh' and 'glad news' — the fresh-announcement pun lost in Bambara"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "direct address to Yawe"
+    }
+  ],
+  "translation": "N ye suman-kɔrɔdafɔli kɛ ⟨ɲɛfɔ la⟩ tiɲɛɲɛnta la jama ba kɔnɔ; la, n ka da-wolo tɛ bila, Yawe, i ye ⟨o⟩ dɔn.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/40\/9-12.1791940128649.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "n ye suman-kɔrɔdafɔli kɛ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tiɲɛɲɛnta"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "jama ba kɔnɔ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "la"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "n ka da-wolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "bila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "i ye dɔn"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:48.650219416Z",
+  "model": "glm-5.3"
+}

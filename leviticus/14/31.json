@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 14:31",
+  "book": "leviticus",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על המנחה",
+      "rationale": "'upon the grain offering': 'with\/beside' (KJV, JPS) vs 'on top of' (addition to it); rendered 'minchah kan' (upon the minchah)."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Bamanankan needs the copular frame 'ye … ye' to predicate 'one as sin-offering', which Hebrew states by simple apposition."
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "minchah",
+      "rationale": "Technical sacrificial term kept as transliteration under the Hebrew-term marker rule."
+    }
+  ],
+  "translation": "⟨את⟩ o min bolo bɛ se ka ta: ⟨את⟩ kelen ye jurumusaraka ye, ani ⟨את⟩ kelen ye sanfesaraka ye, minchah kan; sarakalasebaga bɛna jurumubɔli kɛ jɛgensigɛla ko Yawe ɲɛw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e2cd7ce35c96e09522fd259e70279ac4a68cdb64f800767eaf69433ef3225fc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/14\/29-32.1791927044522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o min bolo bɛ se ka ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "bɛ se ka ta"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelen (jurumusaraka)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "jurumusaraka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kelen (sanfesaraka)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sanfesaraka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ka jurumubɔli kɛ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ko"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "jɛgensigɛla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T21:30:44.523458220Z",
+  "model": "glm-5.3"
+}

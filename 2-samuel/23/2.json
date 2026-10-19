@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוח ye fiɲɛ \/ ninakili ye — 'spirit' kan dɔrɔn tɛ a kɔrɔ bɛɛ ta."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bɛ⟩",
+      "rationale": "Heburukan tɛ wale-daɲɛ sɔrɔ על לשוני kɔnɔ; Bamanankan ka kan ka a sɔn."
+    }
+  ],
+  "translation": "Yawe ka fiɲɛ ye kuma ne kɔnɔ, ani a ka kuma ⟨bɛ⟩ ne kan na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/23\/1-4.1791931595216.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ne kɔnɔ"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ani a ka kuma"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨bɛ⟩ … kan na"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ne kan"
+    }
+  ],
+  "timestamp": "2026-10-13T22:46:35.220272725Z",
+  "model": "glm-5.3"
+}

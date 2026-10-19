@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 33:26",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כאל ישרון",
+      "rationale": "'El of Jeshurun' (construct) versus 'like God, O Jeshurun' (vocative) — versions split."
+    },
+    {
+      "kind": "addition",
+      "subject": "i n'a fɔ",
+      "rationale": "Hebrew כ ('like') has no verb; Bamanankan needs 'i n'a fɔ … ye' to carry the comparison."
+    }
+  ],
+  "translation": "Fɛn si tɛ ⟨i n'a fɔ⟩ El ye, a Yeshurun; a bɛ sankolow la minɛ i ka dɛmɛ na, ani a ka ɲɛmaya ye sisiw bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "67f3d8fca57661e18ca252ddd0319b9708581d1a1571610ed31b1af14c4eb4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/33\/25-28.1791928458793.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "fɛn si tɛ"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "El ye"
+    },
+    {
+      "surface": "ישרון",
+      "gloss": "Yeshurun"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "bɛ … la minɛ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sankolow"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "i ka dɛmɛ na"
+    },
+    {
+      "surface": "ובגאותו",
+      "gloss": "ani a ka ɲɛmaya"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "sisiw"
+    }
+  ],
+  "timestamp": "2026-10-13T21:54:18.796316006Z",
+  "model": "glm-5.3"
+}

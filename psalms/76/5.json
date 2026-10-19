@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mountains of prey",
+      "rationale": "מהררי טרף: 'mountains of prey' (i.e. hunter's heights) vs 'mountains full of game' vs JPS 'coming down from' — the image is debated."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאור",
+      "rationale": "Niphal participle of אור 'light' — 'you are made luminous'; the light-root echoes v5's brightness of the divine presence."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Direct second-person address to God, continuing from v4."
+    }
+  ],
+  "translation": "I ye yeelen-ɲagami, i ka girikan ka bon baganminɛ kuluma la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2a74c3ec15b03c54751aa2fb13eeaf047c52e9e4390a0d393c579c4d9caf67e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/76\/5-8.1791940707817.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "yeelen-ɲagami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "girikan \/ seba"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "kuluma"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "baganminɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:18:27.818440971Z",
+  "model": "glm-5.3"
+}

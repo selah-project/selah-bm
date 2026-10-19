@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ … la",
+      "rationale": "Bambara needs a locative copula where Hebrew simply juxtaposes 'fullness of joys [with] your face'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "waati bɛɛ",
+      "rationale": "נצח is a goal, the bright object travelled toward, hence 'forevermore'; 'waati bɛɛ' keeps duration but loses the journey-goal image."
+    },
+    {
+      "kind": "invitation",
+      "subject": "path of life",
+      "rationale": "The verse holds out the path of life and fullness of joy — a promise extended to the worshipper."
+    }
+  ],
+  "translation": "I bɛ ne dɔn balosira la, diya bɛnni bɛ ⟨את⟩ i ka ɲɛda la, neɲumafɛnw bɛ i ka bolokɔrɔ fɛ, waati bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/16\/9-11.1791939614983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "I bɛ ne dɔn"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "balosira"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "balo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "diya bɛnni"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "diya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ka ɲɛda"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i ka ɲɛda"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "neɲumafɛnw"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "i ka bolokɔrɔ fɛ"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "waati bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:14.984375450Z",
+  "model": "glm-5.3"
+}

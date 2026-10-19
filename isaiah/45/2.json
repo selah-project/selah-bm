@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הדורים",
+      "rationale": "Rare word: 'swollen\/crooked things' rendered 'difficult paths'; BSB reads 'mountains', tradition reads 'crooked places'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kupa",
+      "rationale": "נחושה is copper\/bronze; Bambara lacks an everyday bronze word, so the loan kupa is used."
+    }
+  ],
+  "translation": "Ne bɛna taa i ɲɛfɛ, ani tɛmɛsiraw minnu wajibi, ne bɛ u yɛlɛmɛ ka kɛ nɔgɔyaba ye; dalaw minnu da kupa ye, ne bɛ u gɛ, ani nɛgɛ ka dalakunw, ne bɛ u ge.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bfb5e328863bc5c10f3423b869dfd9974b044f381c91465cf9d2c0c5b2c5afb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/45\/1-4.1791934496850.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "i ɲɛfɛ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "bɛna taa"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "tɛmɛsiraw minnu wajibi"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "ne bɛ u yɛlɛmɛ"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dalaw"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "ne bɛ u gɛ"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ani … dalakunw"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "nɛgɛ"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "ne bɛ u ge"
+    }
+  ],
+  "timestamp": "2026-10-13T23:34:56.852338757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צרופה",
+      "rationale": "Smelted\/refined metal: 'pure' (KJV) vs 'tried\/tested' (JPS, ASV) — the picture is ore through fire."
+    },
+    {
+      "kind": "substitution",
+      "subject": "saniya wa layeli",
+      "rationale": "One Hebrew participle rendered with two Bambara phrases to keep both senses (refined, tested)."
+    }
+  ],
+  "translation": "Elohim ka kuma bɛɛ ka saniya wa layeli; a ye kurun ye minnu bɛ bila a la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e1cf376e432d0aa6f16c1746730b119b74a6a3c4ad09995311c8329af21d926a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/30\/5-8.1791943065391.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "ka saniya wa layeli"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kurun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "minnu bɛ bila a la"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:57:45.392090759Z",
+  "model": "glm-5.3"
+}

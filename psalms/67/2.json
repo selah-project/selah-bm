@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i k'a",
+      "rationale": "Bambara jussive requires the particle i k'a which Hebrew jussive carries in its verb form."
+    },
+    {
+      "kind": "crux",
+      "subject": "אתנו",
+      "rationale": "Preposition 'with us' vs 'upon us' — here H854 nearness 'with us', not the object marker; gloss keeps ⟨את⟩ glyph with the 'with us' reading."
+    }
+  ],
+  "translation": "Elohim, i k'an dimi, i k'an duba, i k'i ɲɛda yeelen ⟨את⟩ ani an, Selah.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "4c5ce1a2835f37e54c6874feaffd4e42e7f06998b1b43ac47104c0d6394c6581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/67\/1-4.1791940588340.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "i k'an dimi"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "i k'an duba"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "i k'i ɲɛda yeelen"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "i ɲɛda"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ani an (with us)"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-14T01:16:28.341520511Z",
+  "model": "glm-5.3"
+}

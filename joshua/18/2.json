@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "denduya",
+      "rationale": "נחלה kɔrɔ ye 'min bɛ tugu-ko ye' — Bamanankan 'denduya' (kɔrɔlen-bɛn) dɔrɔn de bɛ yen"
+    },
+    {
+      "kind": "measurement",
+      "subject": "numu wolonwula",
+      "rationale": "jate-sɛbɛn: numu wolonwula minnu ma denduya sɔrɔ"
+    }
+  ],
+  "translation": "Numuw tilenna Yisraela denw kɔnɔ, minnu ma ⟨את⟩ ɲɛ ⟨את⟩ u ka denduya, u ye numu wolonwula ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "41539cac0c1f8898f77ebb824959dfdc05f35696e8945471499554c7b57532b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/18\/1-4.1791928934525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "tilenna"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "... kɔnɔ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "denw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "⟨את⟩ ɲɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka denduya"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "u ka denduya"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "numu"
+    }
+  ],
+  "timestamp": "2026-10-13T22:02:14.531291513Z",
+  "model": "glm-5.3"
+}

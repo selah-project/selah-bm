@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "1-chronicles 6:61",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ye",
+      "rationale": "Hebrew verse is a fragment (city list); Bambara needs a supplying verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nɔ-rawalew",
+      "rationale": "מגרשה is open pasture-land around a Levite city; 'nɔ-rawalew' (grazing outskirts) keeps the picture"
+    },
+    {
+      "kind": "measurement",
+      "subject": "city list",
+      "rationale": "verse is a census-style list of allotted Levite cities"
+    }
+  ],
+  "translation": "Ni Naftali mabalu fɛ: ⟨a ye⟩ ⟨את⟩ Kedesh min bɛ Galili, ni ⟨את⟩ a nɔ-rawalew, ni ⟨את⟩ Hammon ni ⟨את⟩ a nɔ-rawalew, ni ⟨את⟩ Kiriyatayim ni ⟨את⟩ a nɔ-rawalew.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e161c67560f537f257e1125243dde2f70babee78d61da16cb03a138659fca270",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/6\/61-64.1791947666614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ni … mabalu fɛ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "min bɛ Galili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a nɔ-rawalew"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "a nɔ-rawalew"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hammon"
+    },
+    {
+      "surface": "חמון",
+      "gloss": "Hammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a nɔ-rawalew"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "a nɔ-rawalew"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kiriyatayim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiriyatayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a nɔ-rawalew"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "a nɔ-rawalew"
+    }
+  ],
+  "timestamp": "2026-10-14T03:14:26.615219626Z",
+  "model": "glm-5.3"
+}

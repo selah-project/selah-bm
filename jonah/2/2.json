@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew suffix on Elohim is 'his God'; Bambara needs the standalone pronoun a"
+    }
+  ],
+  "translation": "Yona ye Yawe fɔ ma, a Elohim ye, jɛgɛ in susu kɔnɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jonah\/2\/1-4.1791938699474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "fɔ ma"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "a Elohim ye"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "susu kɔnɔ na"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "jɛgɛ in"
+    }
+  ],
+  "timestamp": "2026-10-14T00:44:59.475122411Z",
+  "model": "glm-5.3"
+}

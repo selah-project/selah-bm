@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידשנה",
+      "rationale": "from דשן 'make fat': KJV\/ASV 'accept', JPS 'accept the fat of', Geneva\/ylt 'turn to ashes' — God regards the offering as fat (favorable) or burns it entirely"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hakilijigi",
+      "rationale": "זכר literally 'remember'; rendered 'call to mind'"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "musical pause mark, kept as the transliteration Selah"
+    }
+  ],
+  "translation": "A kana i ka saraka-di bɛɛ yɛlɛ ka hakilijigi, i ka kolon-saraka ka di A ye. Selah.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/20\/1-4.1791939798109.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "kana … hakilijigi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "i ka saraka-di"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "i ka kolon-saraka"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "ka di A ye"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:18.110343418Z",
+  "model": "glm-5.3"
+}

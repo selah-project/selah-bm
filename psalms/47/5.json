@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Sela ye mizikɛ-jɔyɔrɔ taamasiyɛn ye; a tɔgɔ tɛ bayɛlɛma"
+    },
+    {
+      "kind": "crux",
+      "subject": "גאון",
+      "rationale": "'jaamu' (glory) walima 'jaamusereli' (pride) — Heburukan daɲɛ ninnu bɛɛ fila b'a kɔnɔ"
+    },
+    {
+      "kind": "you",
+      "subject": "jama min bɛ wele",
+      "rationale": "kumasen in bɛ wele-wili kɛ jamaw fɛ"
+    }
+  ],
+  "translation": "A bɛna an ka ⟨את⟩ kalifen minɛn, ⟨את⟩ Yaakuubu (Yakuba) jaamu, min bɛ a kanuya. Sela.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/47\/5-8.1791940254936.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "bɛna minɛn"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalifen"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "kalifen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaamu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "jaamu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuubu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kanuya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:54.937473175Z",
+  "model": "glm-5.3"
+}

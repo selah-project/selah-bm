@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 11:19",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a ye⟩",
+      "rationale": "Hebrew verb ויקח carries no pronoun; Bambara needs the subject 'a' (Yehoyada) supplied."
+    },
+    {
+      "kind": "crux",
+      "subject": "הכרי",
+      "rationale": "Kariw: 'Carites' (possibly Cretans, per ASV\/JPS) vs 'executioners' (YLT) vs 'captains' (KJV)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "המאות",
+      "rationale": "Officers are counted by hundreds — kɛmɛsaraw, commanders of hundreds."
+    }
+  ],
+  "translation": "⟨A ye⟩ ⟨את⟩ kɛmɛsaraw ta, ani ⟨את⟩ Kariw, ani ⟨את⟩ dɔgɔbagaw, ani ⟨את⟩ jama bɛɛ min bɛ dugukolo kan; u ye ⟨את⟩ masakɛ minɛ bɔ Yawe ka so na, u nana don dɔgɔbagaw da sirala, masakɛ ka so la; a tenala masakɛw ka masakɛsigi kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "14e4a16a1fc2f87e6900385045f8570fcb2eda1c1147647683a69eb98cde5d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/11\/17-20.1791932955844.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "⟨a ye⟩ … ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kɛmɛsaraw"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kɛmɛsaraw"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "kɛmɛ (caman-jate)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kariw"
+    },
+    {
+      "surface": "הכרי",
+      "gloss": "Kariw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dɔgɔbagaw"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "dɔgɔbagaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jama bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "וירידו",
+      "gloss": "u ye … minɛ bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masakɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "… so la na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויבואו",
+      "gloss": "u nana don"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sirala"
+    },
+    {
+      "surface": "שער",
+      "gloss": "da"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "dɔgɔbagaw ta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ ka"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a tenala"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "masakɛsigi"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "masakɛw ka"
+    }
+  ],
+  "timestamp": "2026-10-13T23:09:15.847978163Z",
+  "model": "glm-5.3"
+}

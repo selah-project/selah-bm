@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 22:35",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונחת קשת נחושה",
+      "rationale": "'and a bow of bronze is brought down' — KJV 'broken by mine arms' vs JPS 'mine arms do bend' — who bends or breaks the bow."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kumɛ",
+      "rationale": "נחושה is copper\/bronze, not steel (KJV)."
+    }
+  ],
+  "translation": "A bɛ fa n ma n ka bolo kalan kɛlɛ kama; a yɛ n ka bolow bila ka gungɔ-kumɛ datugu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "013663028b1bfc4424564e97a8027c9f5a3467f858a19734a0e3aefd70617ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/22\/33-36.1791931545237.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "a bɛ … kalan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "n ka bolo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kɛlɛ kama"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "a yɛ … bila"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "gungɔ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "kumɛ"
+    },
+    {
+      "surface": "זרעתי",
+      "gloss": "n ka bolow"
+    }
+  ],
+  "timestamp": "2026-10-13T22:45:45.239279666Z",
+  "model": "glm-5.3"
+}

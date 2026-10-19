@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 36:24",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "Heburukan ma nɔnabila sɔn kuma-fɔlɔ na — masakɛ ni sɔgɔw tɔgɔ bɛ kuma laban na dɔrɔn"
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "rationale": "kuma-fɔlɔ 'ni' (walima 'nka') ma Hebraw kan kɔnɔ; Bamanankan ka a dɔn"
+    }
+  ],
+  "translation": "⟨U⟩ ma siran, ⟨u⟩ ma ⟨את⟩ u ka dɔgɔkɔrɔw buku — masakɛ ni a ka sɔgɔw bɛɛ minnu mɛn ⟨את⟩ kuma bɛɛ ninnu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "86d03ae8ab9bc3b09ac53cbf84b66bfc26cd53d09f9762864c2dda1a6cc57ba0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/36\/21-24.1791936053747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "siran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "buku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ka dɔgɔkɔrɔw"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "dɔgɔkɔrɔw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani bɛɛ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a ka sɔgɔw"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "minnu mɛn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuma bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ninnu"
+    }
+  ],
+  "timestamp": "2026-10-14T00:00:53.748898444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ɲɛsuma",
+      "rationale": "צדקה ye 'kɔrɔsilen \/ cogo ɲuman' ye, Bamanankan tɛ daɲɛ kelen sɔrɔ min bɛ a ɲɛfɔ bɛɛ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני",
+      "rationale": "Heburu kɔrɔ ye 'ɲɛma' ye; 'ɲɛfɛ' ye a nɔgɔya Bamanankan na"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כי",
+      "rationale": "KJV 'if' ni YLT 'when' bɛ wuli; 'ni' dɔrɔn de bɛ ta"
+    }
+  ],
+  "translation": "An ka ɲɛsuma de bɛna tugu an ye, ni an mara ka ⟨את⟩ lasariya bɛɛ nin kɛ Yawe, an ka Elohim ɲɛfɛ, a cogo min na a y'an minɛ",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "61eb7d50b67b102def9a9a4cd84464eebc53118bdacc023ad6634e93a63dd5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/6\/25-25.1791927655993.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "ɲɛsuma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bɛna tugu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "mara"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ka … kɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lasariya bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "lasariya"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an ka Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a cogo min na"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "y'an minɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:40:55.994468506Z",
+  "model": "glm-5.3"
+}

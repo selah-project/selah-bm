@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "aw ye shofar bɔ",
+      "rationale": "damine-don bɛ wele jamaa ma ka shofar kɔbɔ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kalo kura · kalo fillen",
+      "rationale": "kalo jɔli kɔrɔ — kalo kura ni kalo fillen don — dilanbɔ-yɔrɔ jira don in la"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכסה",
+      "rationale": "kalo fillen (ASV\/JPS) walima 'waati min labɛnna' (KJV) — o bɛ fɔ kalo-fillen don la, Sukkot waati"
+    }
+  ],
+  "translation": "Aw ye shofar bɔ kalo kura na, kalo fillen na, an ka ɲɔnajɛ don la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/81\/1-4.1791940863682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "aw ye shofar bɔ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kalo kura na"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "kalo fillen na"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "don la"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "an ka ɲɔnajɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:03.683068217Z",
+  "model": "glm-5.3"
+}

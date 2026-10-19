@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yeeyali",
+      "rationale": "שחוק is laughter-as-mockery; yeeyali carries both the laughing and the mocking side"
+    },
+    {
+      "kind": "you",
+      "subject": "ne ka jama",
+      "rationale": "the speaker names his own people as the mockers — direct address turned inward"
+    }
+  ],
+  "translation": "Ne kera yeeyali ye ne ka jama bɛɛ ye, u ka donkili don o bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "dc741e5f64bfae2fd338fe7b8d28ef5f549f3a25068b120f2959fe67d17eb357",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/13-16.1791944882187.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "ne kera … ye"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "yeeyali"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "… bɛɛ ye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne ka jama"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "u ka donkili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "היום",
+      "gloss": "don bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:28:02.189625491Z",
+  "model": "glm-5.3"
+}

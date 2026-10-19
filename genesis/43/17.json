@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "bm",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "cogo min na",
+      "rationale": "Bambara needs 'the way in which' to carry כאשר after 'do as he said'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ביתה",
+      "rationale": "Hebrew suffix -ה is a directional 'to the house', folded into the verb bilase"
+    }
+  ],
+  "translation": "Mɔgɔ in kɛra iko Yosef ye a fɔ cogo min na, a ye ⟨את⟩ mɔgɔw bilase Yosef so.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8bfaadb19cb1dd2a0f16b19a3632f1fdb933e5d6e836695ab8319008c57dda33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/genesis\/43\/17-20.1791926861020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a kɛra"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mɔgɔ in"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a fɔ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a bilase"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mɔgɔ in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mɔgɔw"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "so"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-10-13T21:27:41.021362148Z",
+  "model": "glm-5.3"
+}

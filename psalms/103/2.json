@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ni ma",
+      "rationale": "a yɛrɛ ka ni fɔ kokura"
+    },
+    {
+      "kind": "substitution",
+      "subject": "baraw",
+      "rationale": "גמול ye 'sanu-baaw' \/ ɲɛ-tigɛliw ye — dɔɔni 'baraw' dɔgɔya"
+    }
+  ],
+  "translation": "Ni ma, Yawe ⟨את⟩ ka duba; a baraw bɛɛ, i k'a lasɔgɔmɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/103\/1-4.1791941218621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ka duba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ni ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i kana"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "lasɔgɔmɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "a baraw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:26:58.621943572Z",
+  "model": "glm-5.3"
+}

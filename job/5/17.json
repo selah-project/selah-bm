@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 5:17",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i kana",
+      "rationale": "Hebrew אל תמאס is deprecative negation; Bambara needs the pronoun and prohibitive i kana"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Yeelenin!",
+      "rationale": "הנה summons the hearer to look and consider the blessed state"
+    }
+  ],
+  "translation": "Yeelenin! Damiɲɛ bɛ mɔgɔ la min la Eloha bɛ yɛlɛmi; Shaday ka kalanfɔ, i kana o kɛ fisayali ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "427affed229b5bac39a9b491848528afae2021d0c6c465fa74b26aefc45bdc9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/5\/17-20.1791943407081.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yeelenin!"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "damiɲɛ bɛ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "יוכחנו",
+      "gloss": "bɛ yɛlɛmi"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "kalanfɔ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaday"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i kana"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "kɛ fisayali ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:03:27.082692557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 51:28",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "pronoun ⟨a⟩ ('her', Babylon) supplied — Hebrew עליה carries the suffix but Bambara needs it on the preposition"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממשלתו",
+      "rationale": "singular 'his dominion' though the Medes are plural — KJV\/JPS keep 'his', ASV 'their'; the singular may point to the Median realm as one power"
+    }
+  ],
+  "translation": "Lanban siyaw ⟨a⟩ kan: ⟨את⟩ Madawi (Medi) masakɛw, ⟨את⟩ a ka gɔfɛrɛnw ani ⟨את⟩ a ka jagokɛlaw bɛɛ, ani ⟨את⟩ a ka fanga dugubɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "08913e2d1eb2d7896af730910a6631c8a0ff66bf6458f2ef745083045ae3c4d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/51\/25-28.1791936535287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדשו",
+      "gloss": "lanban"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Madawi masakɛw"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "masakɛw"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madawi (Medi)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ka gɔfɛrɛnw"
+    },
+    {
+      "surface": "פחותיה",
+      "gloss": "gɔfɛrɛnw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "jagokɛlaw bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "סגניה",
+      "gloss": "jagokɛlaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "a ka fanga dugubɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dugubɛɛ"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "a ka fanga"
+    }
+  ],
+  "timestamp": "2026-10-14T00:08:55.289426597Z",
+  "model": "glm-5.3"
+}

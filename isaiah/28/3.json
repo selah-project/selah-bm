@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a minɛ",
+      "rationale": "Bambara needs the object pronoun before 'trample'; Hebrew verb alone carries the object"
+    }
+  ],
+  "translation": "Efrayimu ka diwɛn-minɛlaw ka i-bonya sansan — senw bɛna a minɛ ka a rɔtɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7bc698e7ae6683da4a0af4e86aa053d6a9fcc8ccbebb8d815fca88b64546b0b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/28\/1-4.1791933975925.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "senw"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "bɛna a rɔtɔrɔ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "sansan"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "i-bonya"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "diwɛn-minɛlaw"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    }
+  ],
+  "timestamp": "2026-10-13T23:26:15.931988151Z",
+  "model": "glm-5.3"
+}

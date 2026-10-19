@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a ye⟩",
+      "rationale": "Bambara simile requires the copula 'ye … ye', Hebrew juxtaposes without verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גפן",
+      "rationale": "'vine' has no fixed Bambara word here; rendered descriptively as 'the tree that bears fruit'"
+    }
+  ],
+  "translation": "I muso ye ⟨a ye⟩ i n'a fɔ jiri min bɛ den jɛ i so kunafɛ; i denkɛw ye ⟨a ye⟩ i n'a fɔ zɛti furakɛw, i taabali tiɛnkɛrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/128\/1-4.1791941706934.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "i muso"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "i n'a fɔ jiri min bɛ den jɛ"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "min bɛ den jɛ"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "kunafɛ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "i so"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "i denkɛw"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "i n'a fɔ furakɛw"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "zɛti"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tiɛnkɛrɔ"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "i taabali"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:06.934880525Z",
+  "model": "glm-5.3"
+}

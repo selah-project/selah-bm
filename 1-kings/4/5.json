@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כהן",
+      "rationale": "'sarakalasebaga' vs 'ɲɛmɔgɔba' — KJV\/ASV\/JPS ye 'principal officer' fɔ, Hebrew fana bɛ 'kohɛn' (sarakalasebaga) fɔ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רעה",
+      "rationale": "'balima' (kalanbaga-ɲɛmɔgɔ): 'masakɛ ka balima' ye jago-dɔrɔn ye min bɔrɔ Misra ka laada la, 'reeh hamelekh'."
+    }
+  ],
+  "translation": "Azarayahu (Azaraya), Natan denkɛ, tun ye ɲɛmɔgɔw dan ye; Zabudu, Natan denkɛ, ye sarakalasebaga ye, masakɛ ka balima.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/4\/5-8.1791931792442.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "Azarayahu (Azaraya)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dan na"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "ɲɛmɔgɔw"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "Zabudu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "balima"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T22:49:52.445762137Z",
+  "model": "glm-5.3"
+}

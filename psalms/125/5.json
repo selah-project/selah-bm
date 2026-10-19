@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hɛrɛ",
+      "rationale": "שלום ye hɛrɛ ye k'a sababu ke Kuma-Kelen-na dɔgɔya la; a kɔrɔ ka ca hɛrɛ ma"
+    },
+    {
+      "kind": "crux",
+      "subject": "יוליכם",
+      "rationale": "Bayɛlɛmabagaw bɛ a jɛya: 'ka u wuli ka tɔgɔtɔgɔ' (kaa'u ɲɛsin juguyabagaw ma) walima 'ka u bila juguyabagaw la'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקלקלותם",
+      "rationale": "עקלקל-daNɛ in daɲɛfɔli (root filan-ni) — Heburukan na a bɛ taminɛkɛdaɲɛ ye; Bamanankan na kokura-sira tɛ o fɔli di"
+    }
+  ],
+  "translation": "Nka minnu bɛ bɔ u siraw kokura-sira la, Yawe bɛ ⟨את⟩ juguyabagaw — minnu bɛ jugu bɛɛ baara kɛ — tila-tilali kɛ; hɛrɛ kɛra Israelya (Israɛl) kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "77e57cbb0eefeb92bde67babb3a747e55bb582fbf55cbe4469e75c45d3504480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/125\/5-5.1791941691126.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "minnu bɛ bɔ u siraw la"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "kokura-sira"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "Yawe bɛ u tila-tilali kɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juguyabagaw"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "minnu bɛ baara kɛ"
+    },
+    {
+      "surface": "האון",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:51.126815962Z",
+  "model": "glm-5.3"
+}

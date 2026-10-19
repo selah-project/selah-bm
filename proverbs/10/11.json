@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פי…ופי",
+      "rationale": "Chiasm: 'mouth of righteous \/ mouth of wicked' frames the line; Bambara repeats 'da' to keep it."
+    },
+    {
+      "kind": "addition",
+      "subject": "de",
+      "rationale": "Bambara focus particle added to mark the fronted predicate 'a fountain of life is the mouth'."
+    }
+  ],
+  "translation": "Balo ji kɔlɔn de ye ce tilennin da ye; nka kɛlɛkɛlɛbagaw da bɛ juguya datugu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/10\/9-12.1791942371689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "ji kɔlɔn"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "balo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "da"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ce tilennin"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "nka ... da"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kɛlɛkɛlɛbagaw"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "bɛ ... datugu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "juguya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:46:11.691009321Z",
+  "model": "glm-5.3"
+}

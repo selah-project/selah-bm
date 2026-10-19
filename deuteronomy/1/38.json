@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 1:38",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dugukolo",
+      "rationale": "Hebrew pronoun suffix -הּ ('it') on ינחלנה is rendered with the noun dugukolo for clarity."
+    },
+    {
+      "kind": "you",
+      "subject": "kɔlɔsi",
+      "rationale": "Imperative addressed to Moshe: strengthen Yehoshua."
+    }
+  ],
+  "translation": "Yehoshua (Yosuwa), Nun denkɛ, min bɛ i ɲɛfɛ ka jongɔ, ale de na taa yen; ⟨את⟩ a kɔlɔsi, sabu ale bɛna ⟨את⟩ Isirayeli ka dugukolo minɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ec63513b929aed0e2a2943707b534b72172f738d9b31a4de4b8bd3f85eebce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/1\/37-40.1791927452373.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua (Yosuwa)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "min bɛ jongɔ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "i ɲɛfɛ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ale"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "na taa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ale"
+    },
+    {
+      "surface": "ינחלנה",
+      "gloss": "bɛna ka minɛ di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isirayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    }
+  ],
+  "timestamp": "2026-10-13T21:37:32.375686415Z",
+  "model": "glm-5.3"
+}

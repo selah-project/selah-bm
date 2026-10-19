@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 32:9",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "feminine plural imperatives in Hebrew carry the addressee; Bambara needs the pronoun ⟨i⟩ supplied"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the complacent women of Judah",
+      "rationale": "double imperative summons — rise, hear, give ear — addressed to the women"
+    },
+    {
+      "kind": "you",
+      "subject": "to the women at ease",
+      "rationale": "direct second-person address throughout the verse"
+    }
+  ],
+  "translation": "Musow hɛrɛlaw, ɲɛminu, mɛnɛn n ka kan; denmusow yamaruyaw, ⟨i⟩ tuluw jigi n ka kuma la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7c511c6a17fc7bd099fb8f980d19dbf99caba575bc91838a22dfe6706c83e9d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/32\/9-12.1791933991139.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "Musow"
+    },
+    {
+      "surface": "שאננות",
+      "gloss": "hɛrɛlaw"
+    },
+    {
+      "surface": "קמנה",
+      "gloss": "ɲɛminu"
+    },
+    {
+      "surface": "שמענה",
+      "gloss": "mɛnɛn"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "n ka kan"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "denmusow"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "yamaruyaw"
+    },
+    {
+      "surface": "האזנה",
+      "gloss": "tuluw jigi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "n ka kuma"
+    }
+  ],
+  "timestamp": "2026-10-13T23:26:31.142382054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תלכי\/אלך · תליני\/אלין",
+      "rationale": "strict verb-pair parallelism 'you go, I go; you lodge, I lodge' — the oath's rhythm kept in Bambara."
+    },
+    {
+      "kind": "you",
+      "subject": "to Naomi",
+      "rationale": "Ruth's vow addresses Noomi directly, 'i' throughout."
+    },
+    {
+      "kind": "crux",
+      "subject": "עמך עמי ואלהיך אלהי",
+      "rationale": "Ruth takes Naomi's Elohim as her own — here Elohim is the Name-track word, not alaw as in v15."
+    }
+  ],
+  "translation": "Rut tunmasɔrɔ: 'I kana ne kɔrɔsa ne ka bɔ i la, ne ka segin i kɔ; sabu yɔrɔ min na i bɛ taa, ne bɛ taa; yɔrɔ min na i bɛ don, ne bɛ don. I jamaa de ye ne jamaa ye, ani i Elohim de ye ne Elohim ye.'",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eae86b0c522789f89934bcdddb2fe26b76f5850a1e28b3edde38b28b8a2e2f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ruth\/1\/13-16.1791944762882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i kana"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "kɔrɔsa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "ne ka bɔ i la"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ne ka segin"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "i kɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "i bɛ taa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ne bɛ taa"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "ani min na"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "i bɛ don"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ne bɛ don"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i jamaa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ne jamaa"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ne Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T02:26:02.885263308Z",
+  "model": "glm-5.3"
+}

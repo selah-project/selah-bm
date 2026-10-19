@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛna",
+      "rationale": "Hebrew verb yiqtol lacks an explicit future marker; Bambara needs bɛna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "denbaya",
+      "rationale": "זרע literally 'seed'; rendered as descendants since plants are not in view"
+    },
+    {
+      "kind": "crux",
+      "subject": "יצדקו",
+      "rationale": "'be justified' vs 'be righteous'; forensic vs moral reading of the root צדק"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "The verse speaks about all the seed of Israel as the addressee-community"
+    }
+  ],
+  "translation": "Yawe fɛ, Israyɛl (Izrayɛl) denbaya bɛɛ bɛna tiɲɛ sɔrɔ, ani bɛna a finiw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "688294ad878606561a3265e29ceaf7beceae8a95a3142cceab3f085a9c099599",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/45\/25-25.1791934377526.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe fɛ"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "bɛna tiɲɛ sɔrɔ"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ani bɛna a finiw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "denbaya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyɛl"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:57.526835580Z",
+  "model": "glm-5.3"
+}

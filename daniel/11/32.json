@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 11:32",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחניף",
+      "rationale": "חנף 'make profane\/hypocritical' — 'corrupt by flatteries'; object ambiguity: he corrupts them, or they act hypocritically."
+    },
+    {
+      "kind": "elision",
+      "subject": "וְעָשׂוּ",
+      "rationale": "bare 'and do' — KJV adds 'exploits'; Bambara keeps plain 'baara kɛ'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וּמַרְשִׁיעֵי",
+      "rationale": "Hiphil participle 'those causing wickedness against' — rendered as one phrase 'layidu juw kɛbagaw'."
+    }
+  ],
+  "translation": "Nɔrɔ layidu juw kɛbagaw, a bɛ ni u ye ni dalilu ye; nka mɔgɔw minnu dɔn u Elohim, olu bɛna tigɛ ka baara kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f36351f964aa07ac5d63f3d344a2ee8d967d1d64e147a318ba539dc92d337d36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/11\/29-32.1791946305183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומרשיעי",
+      "gloss": "layidu juw kɛbagaw"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "יחניף",
+      "gloss": "a bɛ ni u ye"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "ni dalilu ye"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "nka mɔgɔw"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "minnu dɔn"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "u Elohim"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "olu bɛna tigɛ"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ka baara kɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:51:45.184308167Z",
+  "model": "glm-5.3"
+}

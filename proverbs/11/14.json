@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תחבלות",
+      "rationale": "root picture is rope-steerage (steering a ship); rendered 'ɲɛtaamari' (guidance), the sailing image is lost."
+    },
+    {
+      "kind": "addition",
+      "subject": "bɛ yen",
+      "rationale": "Hebrew ותשועה is a noun with no verb; Bambara needs 'deli bɛ yen' (there is rescue)."
+    }
+  ],
+  "translation": "Ɲɛtaamari min tɛ yen, jama bɛ bɔn; nka ɲɛfɔbaga caman na, deli bɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/11\/13-16.1791942434405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "min tɛ yen"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "ɲɛtaamari"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "bɛ bɔn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "nka deli"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "caman na"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "ɲɛfɔbaga"
+    }
+  ],
+  "timestamp": "2026-10-14T01:47:14.406053921Z",
+  "model": "glm-5.3"
+}

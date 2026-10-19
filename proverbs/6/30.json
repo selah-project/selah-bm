@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered 'ni' (life\/vitality), not a disembodied soul"
+    },
+    {
+      "kind": "addition",
+      "subject": "a kun na",
+      "rationale": "Bambara idiom for hunger requires 'stomach' wording; Hebrew ירעב is a bare verb 'he hungers'"
+    }
+  ],
+  "translation": "Mɔgɔw tɛ kɔkɔrɔdɔgɔ jaabi, ni a sɔrɔ a kɔkɔrɔdɔya walasa ka a ni ɲɛ, sabu a kɔngɔ bɛ a kun na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "88b811d010d6f28758a290bf59429bd169b81d6cb63faa7f4d3ab66fd0970cd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/6\/29-32.1791942339029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "jaabi"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "kɔkɔrɔdɔgɔ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni a sɔrɔ"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "kɔkɔrɔdɔya"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "walasa ka ɲɛ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "a kɔngɔ bɛ a kun na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:45:39.029992214Z",
+  "model": "glm-5.3"
+}

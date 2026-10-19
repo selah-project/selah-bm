@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saw (siya-camancogo)",
+      "rationale": "ממותי בלשון רבים ye 'saw' min bɛ siya-camancogo fɔ — Bamanankan tɛ saw siya-camancogo sɛbɛn, nka Heburukan ka a fɔ cogo min na, o yen"
+    },
+    {
+      "kind": "elision",
+      "subject": "בלב",
+      "rationale": "'dusukun kɔnɔ' — Heburukan fɔcogo bilenma 'kɔgɔjiw dusukun kɔnɔ'; an y'a nɔgɔya ka kɛ 'kɔnɔ' ye"
+    }
+  ],
+  "translation": "U bɛna i sigi dɔgɔkun kɔnɔ, i bɛna sa sokobagaw ka saw, kɔgɔjiw kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c6d64305b394125e266ebc9c699602790a8c614fbf09aa73164c54f213c801e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/28\/5-8.1791937351733.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "dɔgɔkun kɔnɔ"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "u bɛna i sigi"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "i bɛna sa"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "saw"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "sokobagaw"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kɔgɔjiw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:22:31.734279366Z",
+  "model": "glm-5.3"
+}

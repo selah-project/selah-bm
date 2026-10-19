@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o minnu",
+      "rationale": "Hebrew מדבר מרמה is an infinitive construct; Bambara needs a relative object phrase"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives mara \/ bã fɔ",
+      "rationale": "direct imperatives continuing the summons of v.13"
+    },
+    {
+      "kind": "you",
+      "subject": "kalanbaga",
+      "rationale": "second-person instruction to the one who answered the question"
+    }
+  ],
+  "translation": "I kan mara ka bɔ fɛnw jugu la, ani i mimɛw, ka bã fɔ o minnu bɛ se ka yamaruya furakɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/34\/13-16.1791939980734.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "mara"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "i kan"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "fɛnw jugu"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ani i mimɛw"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ka ... fɔ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "yamaruya furakɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:20.734755454Z",
+  "model": "glm-5.3"
+}

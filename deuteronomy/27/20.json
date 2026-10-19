@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ka dɔki ɲɛfɛlen bɔ",
+      "rationale": "'גלה כנף — ka dɔki ɲɛfɛlen bɔ' ye Heburu ka nɛɛ-cogo ye min bɛ kɛɲɛya fɔ (ka a fa ka muso ta); Bamanankan b'a to a la cogo kelen na"
+    },
+    {
+      "kind": "substitution",
+      "subject": "min bɛ faa",
+      "rationale": "שכב בם ye mɔgɔ ye min bɛ wuli ka na ni mɔgɔ wɛrɛ ye — faa ye a ka fɔcogo dɔrɔn ye min bɛ kɛɲɛ fɔ"
+    }
+  ],
+  "translation": "Dangatigila don min bɛ faa ni a fa muso ye, sabu o y'a fa ka dɔki ɲɛfɛlen bɔ; jama bɛɛ na ko: Amen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9415530f7a72b45a02262a2e1cfd5a0046c11f9168239564e3d650b71d08e73c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/27\/17-20.1791928282718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "dangatigila"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "min-bɛ-faa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "muso"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a-fa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "yɛ-bɔ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "dɔki-ɲɛfɛlen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a-fa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na-ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-13T21:51:22.723402245Z",
+  "model": "glm-5.3"
+}

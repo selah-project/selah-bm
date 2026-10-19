@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kun-ta (נזר)",
+      "rationale": "נֶזֶר is crown\/diadem but also 'dedication' (priestly or Nazirite); rendered as head-ornament 'kun-ta'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבש\/don",
+      "rationale": "Verse 16 clothes priests with salvation, v.18 clothes enemies with shame — same verb, opposite garment"
+    }
+  ],
+  "translation": "A ka danciw, ne bɛ u kɛ ka maloya don; nka a yɛrɛ ka kun-ta bɛna wuli ka ɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e27ce3ce514b115db809be2108a167f25917f701800b321dbc9477863d4cc479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/132\/17-18.1791941754432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוֹיְבָיו",
+      "gloss": "a ka danciw"
+    },
+    {
+      "surface": "אַלְבִּישׁ",
+      "gloss": "ne bɛ … ka … don"
+    },
+    {
+      "surface": "בֹּשֶׁת",
+      "gloss": "maloya"
+    },
+    {
+      "surface": "וְעָלָיו",
+      "gloss": "nka a yɛrɛ kan"
+    },
+    {
+      "surface": "יָצִיץ",
+      "gloss": "bɛna wuli ka ɲɛ"
+    },
+    {
+      "surface": "נִזְרוֹ",
+      "gloss": "a ka kun-ta"
+    }
+  ],
+  "timestamp": "2026-10-14T01:35:54.433487368Z",
+  "model": "glm-5.3"
+}

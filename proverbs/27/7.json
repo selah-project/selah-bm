@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is life-force\/appetite, not immortal soul; rendered ni"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תבוס",
+      "rationale": "this verb form of בוס (trample) is rare; literal 'tramples' kept as da"
+    },
+    {
+      "kind": "substitution",
+      "subject": "diwɛn-bolo",
+      "rationale": "נפת is honey dripping from the comb, not the comb itself"
+    }
+  ],
+  "translation": "Ni min suturaya bɛ diwɛn-bolo da; ni min kɔngɔya, bɛɛ ti bidi ye di ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ecf70c51ac4394523a4be221211784d1789f6bf649666812e138ca37d67919a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/27\/5-8.1791943027767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "suturaya"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "da"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "diwɛn-bolo"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "kɔngɔya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ti bidi"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "di"
+    }
+  ],
+  "timestamp": "2026-10-14T01:57:07.767943548Z",
+  "model": "glm-5.3"
+}

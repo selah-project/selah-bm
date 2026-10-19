@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממסגרותיהם",
+      "rationale": "'their strongholds \/ close places' vs 'their borders' (misgerot can mean enclosing margin or fortified hold)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bɛ ɲagami",
+      "rationale": "naval is 'wilt' like a plant; Bambara uses 'wither' figuratively for losing heart."
+    }
+  ],
+  "translation": "Jamana wɛrɛ denw bɛ u yɛrɛ ɲagami, ka siran bɔ u ka so-kɔrɔkbaw na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/45-48.1791939758262.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "jamana wɛrɛ"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "bɛ ɲagami"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "ka siran"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "u ka so-kɔrɔkbaw na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:02:38.263220972Z",
+  "model": "glm-5.3"
+}

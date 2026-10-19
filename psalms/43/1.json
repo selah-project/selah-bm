@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sanfɛ",
+      "rationale": "Hebrew has no preposition before לא חסיד; the sense 'against' is supplied"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Psalmist's direct plea to God"
+    },
+    {
+      "kind": "crux",
+      "subject": "mɔgɔ jugukɛla",
+      "rationale": "singular אישׁ 'man' — individual foe or collective; rendered singular"
+    }
+  ],
+  "translation": "N ji fɛ, Elohim, k'i kɛ ne ka jabi-kɛla ye siya min tɛ senuma ye sanfɛ; i yɛrɛ bɛ ne bɔ ⟨a⟩ mɔgɔ min bɛ daɲɛw gɛlɛya la ani min bɛ jugu kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/43\/1-4.1791940175918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "n ji fɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "k'i kɛ ne ka jabi-kɛla ye"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ne ka jabi"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "siya min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "senuma"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mɔgɔ min"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "min bɛ daɲɛw gɛlɛya la"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "ani min bɛ jugu kɛ"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "i yɛrɛ bɛ ne bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:35.918845948Z",
+  "model": "glm-5.3"
+}

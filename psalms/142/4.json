@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "רוחי ka kɔrɔ ye fiɲɛ\/ni ye — 'n ka ni datugura' b'a laɲini"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואתה",
+      "rationale": "Bayɛlɛmabagaw bɛ simbila: 'nka i' (dɛmɛ filiqali) walima 'o waati i y'a dɔn' (KJV 'then thou knewest') — an ye 'i' dɔrɔn ta"
+    },
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "טמנו feeretigi tɛ sɛbɛn kɔnɔ — Bamanankan ka kan k'a jira ni 'u' ye"
+    }
+  ],
+  "translation": "Ni n ka ni datugura n kan, i y'a dɔn: n ka sira — o sira la min na n bɛ taa, u ye jesago laseli dugumen n ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/142\/1-4.1791941878109.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "datugura"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n kan"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "n ka ni"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "y'a dɔn"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "n ka sira"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "sira la"
+    },
+    {
+      "surface": "זו",
+      "gloss": "o"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "n bɛ taa"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "u ye … laseli dugumen"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jesago"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:58.110836605Z",
+  "model": "glm-5.3"
+}

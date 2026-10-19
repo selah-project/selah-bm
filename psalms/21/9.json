@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תמצא … תמצא",
+      "rationale": " repetition of 'find' in parallel halves, kept by repeating ɲini"
+    },
+    {
+      "kind": "addition",
+      "subject": "bɛna",
+      "rationale": "Bamanankan needs a future\/habitual marker; Hebrew aspect left implicit"
+    }
+  ],
+  "translation": "I bolo bɛna i ka nɔrɔbaganw bɛɛ ɲini; i kanifinbolo bɛna i ka kɛlɛbagaw ɲini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/21\/9-12.1791939715661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "bɛna ɲini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "i bolo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i ka nɔrɔbaganw"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "i kanifinbolo"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bɛna ɲini"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "i ka kɛlɛbagaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:01:55.661802480Z",
+  "model": "glm-5.3"
+}

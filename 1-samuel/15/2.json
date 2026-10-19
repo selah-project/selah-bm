@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדתי",
+      "rationale": "'visit\/number\/attend to' — rendered 'lajɛ' (inspected); others: 'remember', 'punish', 'take account'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שם לו",
+      "rationale": "lit. 'set for him' — rendered 'y'a to a sira kan' (set against him on the way), ambush sense kept"
+    }
+  ],
+  "translation": "Nin ye Yawe Tsewawot (jagow ɲɛmɔgɔ) ka kuma ye: ne ye ⟨את⟩ min Amalek kɛ Israyɛl ma lajɛ — a min a y'a to a sira kan, ni a buyara Mitsrayim (Misira) na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/15\/1-4.1791930364481.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewawot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ne y'a lajɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min (Amalek ka baaw)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kɛ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israyɛl ma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "שם",
+      "gloss": "to"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sira kan"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "a buyara ni"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-13T22:26:04.482712557Z",
+  "model": "glm-5.3"
+}

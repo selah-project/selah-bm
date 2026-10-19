@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישחק\/ילעג",
+      "rationale": "Paired near-synonyms 'laugh' and 'mock' build a parallelism; Bambara keeps two verbs to mirror it."
+    }
+  ],
+  "translation": "Min bɛ sigi sankolow la, a bɛ ye; Adonay bɛ u ɲagami.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/2\/1-4.1791939525170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "min bɛ sigi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sankolow la"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "a bɛ ye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "bɛ u ɲagami"
+    },
+    {
+      "surface": "למו",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-10-14T00:58:45.172060256Z",
+  "model": "glm-5.3"
+}

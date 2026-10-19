@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תתמך\/יתמכו",
+      "rationale": "same verb תמך in both halves — the parallelism is kept by repeating 'mara' in Bambara."
+    },
+    {
+      "kind": "crux",
+      "subject": "עריצים",
+      "rationale": "'terrible\/violent ones' — rendered 'fanga-jugubagaw' (violent-power people); some read 'strong men' without the tyranny shade."
+    },
+    {
+      "kind": "addition",
+      "subject": "tigi",
+      "rationale": "Bambara needs agent-suffix 'ɲɛfɛntigi' (favor-holder) where Hebrew אשת חן is a bound construct 'woman of grace'."
+    }
+  ],
+  "translation": "Muso ɲɛfɛntigi bɛ sumaya mara; nka fanga-jugubagaw bɛ wari mara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/11\/13-16.1791942434405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "muso"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ɲɛfɛn"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "bɛ … mara"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sumaya"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "nka fanga-jugubagaw"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "bɛ … mara"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "wari"
+    }
+  ],
+  "timestamp": "2026-10-14T01:47:14.406505342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצח",
+      "rationale": "'goal\/endurance' — 'for ever' vs 'completely\/at the end'; rendered datugulen na (without end)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד אנה",
+      "rationale": "the fourfold 'ad-anah' refrain structures the whole psalm; repetition kept in Bambara as fo jumɛn"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "direct lament addressed to Yawe"
+    }
+  ],
+  "translation": "Fo jumɛn, Yawe, i bɛ tɛmɛ ne datugulen na? Fo jumɛn i bɛ ⟨את⟩ i ka ɲɛda dogo ne la?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/13\/1-4.1791939655371.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "jumɛn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "i bɛ tɛmɛ ne"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "datugulen na"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "jumɛn"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "i bɛ dogo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ka ɲɛda"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i ka ɲɛda"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ne la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:00:55.372403558Z",
+  "model": "glm-5.3"
+}

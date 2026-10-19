@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 14:4",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "gɛlɛya",
+      "rationale": "וחזקתי literally 'I will strengthen' Pharaoh's heart; 'harden' (gɛlɛya) is the traditional rendering, 'strengthen' the literal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ja bɔ",
+      "rationale": "ואכבדה 'I will be heavy\/honored' rendered as 'I will receive glory'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "purpose infinitive marker supplied for the 'so that Egypt may know' clause"
+    }
+  ],
+  "translation": "N bɛna ⟨את⟩ Farawo dusukun gɛlɛya, a bɛ u ɲini a kɔ; n bɛ ja bɔ Farawo ni a ka soye bɛɛ la; ka Misira (Mitsrayim) dɔn ko ne ye Yawe ye. U ye o kɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ae79ed79448e939b4d7305993182dcd9c3fffa5fb5f9a41c185b12c793b16863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/14\/1-4.1791926925986.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחזקתי",
+      "gloss": "n bɛna … gɛlɛya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farawo dusukun"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farawo"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "a bɛ ɲini"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "u kɔ"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "n bɛ ja bɔ"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Farawo la"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ni … bɛɛ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "a ka soye"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ka … dɔn"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "u ye o kɛ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-10-13T21:28:45.988771703Z",
+  "model": "glm-5.3"
+}

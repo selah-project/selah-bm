@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 15:5",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יאלף",
+      "rationale": "'Your iniquity teaches your mouth' (ASV\/JPS) vs 'your mouth teaches\/utters iniquity' (KJV, Hebrew word order read both ways)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dakuma",
+      "gloss_target": "לשון 'tongue' rendered as 'mouth-speech' — Bamanankan uses da (mouth) for speech; no separate tongue-of-speech word.",
+      "rationale": ""
+    },
+    {
+      "kind": "you",
+      "subject": "Job",
+      "rationale": "Eliphaz addresses Job directly, accusing him."
+    }
+  ],
+  "translation": "Sabu i ka jurumu de b'i ka da kalan, i ye mɔgɔ gɛlɛyaw ka dakuma suku.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ff5ce7bb52185549f9a8869c1bb6a6d741a105e1176fff4db1430e744a0b876f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/15\/5-8.1791943606750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יאלף",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "i ka jurumu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "i ka da"
+    },
+    {
+      "surface": "ותבחר",
+      "gloss": "i ye ... suku"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dakuma"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "mɔgɔ gɛlɛyaw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:06:46.750975061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew wayyiqtol carries the subject in the verb; Bamanankan needs the pronoun a"
+    }
+  ],
+  "translation": "Yishay ye Shamma ɲɛfɔ ka tugu, a ko: fana nin de la Yawe ma sunun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b12b922a1ddc2b33cf2df1d2ce74fda16d0660d647af55a6c1387dbdb4a497f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/16\/9-12.1791930340826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ye … ɲɛfɔ ka tugu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Shamma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "nin de la"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "sunun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-13T22:25:40.826758782Z",
+  "model": "glm-5.3"
+}

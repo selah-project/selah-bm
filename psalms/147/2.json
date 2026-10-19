@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Hebrew participles name the agent (יהוה) once; Bambara needs the pronoun for the second clause."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mɔgɔ minnu bilala",
+      "rationale": "נדחי is literally 'the pushed-away\/driven-out ones', not a generic 'dispersed'."
+    }
+  ],
+  "translation": "⟨A⟩ bɛ Yerushalayim (Jerusalɛmu) dabɔ; Yisiraɛl (Isirayɛl) ka mɔgɔ minnu bilala, ⟨a⟩ bɛ u lamini.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/147\/1-4.1791942050298.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "bɛ … dabɔ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "mɔgɔ minnu bilala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisiraɛl"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "bɛ u lamini"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:50.298934583Z",
+  "model": "glm-5.3"
+}

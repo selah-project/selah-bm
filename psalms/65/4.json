@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מני",
+      "rationale": "'more than me' (prevailed over me, singular) vs 'from me\/purged from me'; also read by some as 'from men'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tugu",
+      "rationale": "כפר literally 'cover' (as with bitumen), rendered 'tugu' (cover) rather than 'forgive'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברי עונת",
+      "rationale": "'words of iniquities' — the weight is the record\/reckoning, JPS 'tale of iniquities'"
+    }
+  ],
+  "translation": "Jurumukumaw ka ne faamuya, nka an ka jurumuw, i yɛrɛ bɛ u tugu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/65\/1-4.1791940500164.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "kumaw"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "jurumukumaw"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ka ne faamuya"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ne la"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "an ka jurumuw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i yɛrɛ"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "bɛ u tugu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:15:00.165403256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ta",
+      "rationale": "נשא literally 'lift\/carry' the name; rendered 'take' (ta) as the common idiom."
+    },
+    {
+      "kind": "substitution",
+      "subject": "siise",
+      "rationale": "לשוא is 'emptiness, ruin, deceit'; rendered 'siise' (idle\/lying speech)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשא … ישא",
+      "rationale": "Root נשא repeated at beginning and end forming an inclusio; Bambara repeats 'ta' but loses the root echo."
+    }
+  ],
+  "translation": "Kana ⟨את⟩ Yawe i Ala tɔgɔ ta siise la, sabu Yawe tɛna basi ⟨min⟩ bɛ ⟨את⟩ a tɔgɔ ta siise la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/5\/9-12.1791927570655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe i Ala tɔgɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i Ala"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "siise la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛna"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "basi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min bɛ a tɔgɔ ta siise la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bɛ … ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tɔgɔ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a tɔgɔ"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "siise la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:39:30.657342137Z",
+  "model": "glm-5.3"
+}

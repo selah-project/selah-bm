@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 2:11",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hebel",
+      "rationale": "הבל kept as the Hebrew term 'hebel' (breath\/vapor) rather than a Bamanankan abstraction, Qohelet's refrain-word"
+    },
+    {
+      "kind": "idiom",
+      "subject": "רעות רוח",
+      "rationale": "literally 'pasturing of wind', rendered 'fiɲɛ ɲini' (chasing wind)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨si⟩",
+      "rationale": "'tɛ nafa si sɔrɔ' — the negative indefinite 'si' (any) added for Bamanankan negation"
+    }
+  ],
+  "translation": "Ana kɔ, ne ye ne yɛrɛ sigi ka lajɛ n ka baaraw bɛɛ la minnu n bolow ye kɛ, ani jugu la minnu ne ye jugu kɛ ka baara o kɛ; ka nin ye: bɛɛ ye hebel ye, ni fiɲɛ ɲini, tɛ nafa si sɔrɔ tile jukɔrɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "80321160a3071df02b380ba2779c238f184354f0827387fe41c7034980dc9009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/2\/9-12.1791945144973.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "ne ye ne yɛrɛ sigi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne yɛrɛ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "n ka baaraw"
+    },
+    {
+      "surface": "שעשו",
+      "gloss": "minnu … kɛra"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "n bolow ye"
+    },
+    {
+      "surface": "ובעמל",
+      "gloss": "ani jugu la"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "minnu ne ye jugu kɛ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ka baara o kɛ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ka nin ye"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ni … ɲini"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tɛ … si sɔrɔ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "nafa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jukɔrɔ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tile"
+    }
+  ],
+  "timestamp": "2026-10-14T02:32:24.974661301Z",
+  "model": "glm-5.3"
+}

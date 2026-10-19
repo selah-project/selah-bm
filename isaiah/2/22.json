@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨aw yɛrɛ ye⟩",
+      "rationale": "לכם 'for yourselves' has no natural Bambara slot; supplied reflexive in brackets"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ninakili bɛ a ninw la",
+      "rationale": "'breath in his nostrils' kept literally — a picture of mortal frailty, not an idiom to smooth away"
+    },
+    {
+      "kind": "invitation",
+      "subject": "aw jigi",
+      "rationale": "imperative addressed to the hearers — a summons to cease trusting man"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "direct plural address, to Judah\/the hearers"
+    }
+  ],
+  "translation": "Aw jigi hadamaden la ⟨aw yɛrɛ ye⟩, min ninakili bɛ a ninw la, sabu a ka jate ye jumɛn?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "15e0f66cd70f4ec1a87cd52785cb961730ac900e797d6e516a55851aba884c74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/2\/21-22.1791933301726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "aw jigi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨aw yɛrɛ ye⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "la"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "hadamaden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ninakili"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "a ninw la"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "במה",
+      "gloss": "jumɛn"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "jate"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-10-13T23:15:01.728812149Z",
+  "model": "glm-5.3"
+}

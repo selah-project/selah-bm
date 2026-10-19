@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבע",
+      "rationale": "Le verbe 'jurer' (שבע) partage sa racine avec 'sept' (שבע) — jurer comme répéter sept fois ; perdu en Bambara."
+    },
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "אם lu comme conditionnel 'si' ou comme asseveratif 'assurément' ; ici asseveratif, comme JPS."
+    }
+  ],
+  "translation": "Kelen turu n y'i tiɡɛ ni n ka senumaya ye: niininala, n tɛna ɲa fɔ Dawid (Dawuda) ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "66a31631c25911240f69df8a51dad56adad3076ac67ace5d2790e23ecf8f6193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/89\/33-36.1791940962111.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "kelen turu"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "n y'i tiɡɛ"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "ni n ka senumaya ye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niininala"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ye"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "n tɛna ɲa fɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:42.111922120Z",
+  "model": "glm-5.3"
+}

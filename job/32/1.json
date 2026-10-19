@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעיניו",
+      "rationale": "'in his eyes' = 'in his own judgment' — Bambara keeps the body-part picture with ɲɛ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mɔgɔ ɲɛ",
+      "rationale": "צדיק rendered 'upright person'; no single Bambara word for forensic 'righteous'."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "gloss": "sabu"
+    }
+  ],
+  "translation": "Mɔgɔw tilennen (fila-nin-w) ninnu batta ka jaabi ⟨את⟩ Ayubu (Iyobu) ma, sabu a tun ye mɔgɔ ɲɛ ye a yɛrɛ ta ɲɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/32\/1-4.1791944107661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "batta"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilennen-saba"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mɔgɔw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ninnu"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "jaabi-dili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayubu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayubu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mɔgɔ ɲɛ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a ɲɛ la"
+    }
+  ],
+  "timestamp": "2026-10-14T02:15:07.664029814Z",
+  "model": "glm-5.3"
+}

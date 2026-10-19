@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bagan fitini",
+      "rationale": "זיז literally 'a moving creature'; JPS 'that which moveth' vs KJV 'wild beast'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dun",
+      "rationale": "רעה is to graze\/pasture; Bambara needs 'eat' (dun) for grazing an object"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חזיר",
+      "rationale": "חזיר (swine) — the only occurrence of the word in the Tanakh"
+    }
+  ],
+  "translation": "Soforo min bɛ tɔgɔdugu kɔnɔ bɛ a fa, ani bagan fitini min bɛ foro kɔnɔ bɛ a dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/80\/13-16.1791940863466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "bɛ a fa"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "soforo"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "min bɛ tɔgɔdugu kɔnɔ"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ani bagan fitini"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "min bɛ foro kɔnɔ"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "bɛ a dun"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:03.467536664Z",
+  "model": "glm-5.3"
+}

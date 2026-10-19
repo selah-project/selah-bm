@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 8:17",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "den (san)",
+      "rationale": "Hebrew בן שנה (son of years) idiom flattened to san years with age supplied"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בן שלשים ושתים שנה",
+      "rationale": "Hebrew 'son of thirty and two years' rendered as plain age count"
+    },
+    {
+      "kind": "measurement",
+      "subject": "san otnini ni fila \/ san segin",
+      "rationale": "ages and reign-lengths counted"
+    }
+  ],
+  "translation": "A tun ye san otnini ni fila de ye a ka masaya daminɛ na, ani a ye masaya kɛ Yerushalayim (Jerusalɛmu) la san segin ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "423f077560e5a6e1592bb1ba9f7c0e8cd12cfc075ee8f7ecf9a5d7657958ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/8\/17-20.1791932850738.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "den (san)"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otnini"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ni fila"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tun ye … ye"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "a ka masaya daminɛ na"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ani san segin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masaya kɛ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu) la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:07:30.741693797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 6:33",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "a ko",
+      "rationale": "Speaker unidentified in Hebrew: the messenger (his own words) vs the king (quoting, as JPS\/BSB take it)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ciden",
+      "rationale": "המלאך here is the king's human messenger, not a heavenly angel; ciden keeps 'one sent' shape."
+    },
+    {
+      "kind": "elision",
+      "subject": "nana",
+      "rationale": "ירד literally 'came down' (from the royal height to Elisha's house); rendered simply 'came'."
+    },
+    {
+      "kind": "addition",
+      "subject": "bɔra",
+      "rationale": "מאת rendered as 'from' plus the ⟨את⟩ marker kept separately."
+    }
+  ],
+  "translation": "A tuguni kun na a kuma ni olu ye, wa nin y'a ye, ciden nana a fɛ, a ko: «Nin baasi bɔra ⟨את⟩ Yawe fɛ; mun na n bɛ tugu lasigi Yawe la tuguni?»",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5f160898a5af93b0bf3f15b7794a5834234bf79a6d19745fcdb34e22388d8fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/6\/33-33.1791932718791.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "tuguni"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kumalen"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ni olu ye"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "wa nin y'a ye"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ciden"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a fɛ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nin y'a ye"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "baasi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mun na"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "lasigi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe la"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tuguni"
+    }
+  ],
+  "timestamp": "2026-10-13T23:05:18.793409691Z",
+  "model": "glm-5.3"
+}

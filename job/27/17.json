@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 27:17",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ו prefix",
+      "rationale": "Hebrew waw-contrast rendered as nka; the prefixed conjunction carries adversative force here"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלק",
+      "rationale": "here 'divide as lots' — smooth stones used for lots underlies the verb"
+    }
+  ],
+  "translation": "A bɛ se ka a labɛn, nka josiratigi bɛ o wɔɔrɔ, ani warigwɛ, innoŋsiratigi bɛ a fen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "24fc5a709e77503ddc4f71ba9a6dd18a8a312680d14654d7ec564172bd51f070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/27\/17-20.1791943911981.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכין",
+      "gloss": "ka a labɛn"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "nka josiratigi"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "bɛ o wɔɔrɔ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ani warigwɛ"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innoŋsiratigi"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "bɛ a fen"
+    }
+  ],
+  "timestamp": "2026-10-14T02:11:51.982379412Z",
+  "model": "glm-5.3"
+}

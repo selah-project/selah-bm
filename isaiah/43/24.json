@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 43:24",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קנית \/ קנה",
+      "rationale": "same root קנה: 'you did not buy (קנית) the cane (קנה)' — the purchase-pun is lost in Bambara"
+    },
+    {
+      "kind": "crux",
+      "subject": "קנה",
+      "rationale": "'sweet cane' (KJV\/JPS, an import aromatic) vs Wycliffe\/Geneva 'sweet-smelling spice' — a rare commodity word"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העבדתני \/ הוגעתני",
+      "rationale": "verses 23–24 reverse the verbs: Yawe did not make Israel serve or toil (23), Israel made Yawe serve and toil (24) — a pointed mirror"
+    }
+  ],
+  "translation": "I ma ⟨את⟩ sukali-bon san Ne ye ni warigwɛ ye; i ma Ne ɲagami i ka saraka kunukun na; nka dɔrɔn de, i ye Ne bila ka baara kɛ i ka jurumu nɔ na, i ye Ne bin i ka juguya nɔ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/43\/21-24.1791934328826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "i ma … san"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ne ye"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ni warigwɛ ye"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "sukali-bon"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ani … kunukun"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "i ka saraka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הרויתני",
+      "gloss": "i ma Ne ɲagami"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nka dɔrɔn de"
+    },
+    {
+      "surface": "העבדתני",
+      "gloss": "i ye Ne bila ka baara kɛ"
+    },
+    {
+      "surface": "בחטאותיך",
+      "gloss": "i ka jurumu nɔ na"
+    },
+    {
+      "surface": "הוגעתני",
+      "gloss": "i ye Ne bin"
+    },
+    {
+      "surface": "בעונתיך",
+      "gloss": "i ka juguya nɔ na"
+    }
+  ],
+  "timestamp": "2026-10-13T23:32:08.834448741Z",
+  "model": "glm-5.3"
+}

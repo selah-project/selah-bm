@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חברת \/ חבר",
+      "rationale": "root חבר 'join' twice in one short verse, a sound-echo lost in Bambara"
+    },
+    {
+      "kind": "addition",
+      "subject": "don",
+      "gloss": "copula supplied: Hebrew חֻבָּר is a verbless passive participle clause",
+      "rationale": "Hebrew lacks copula"
+    }
+  ],
+  "translation": "U ye kunukanbolenw dilan a ye, minnu bɛ ɲɔgɔn mara; a kɔtilen fila la, o bɛnen don.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/39\/1-4.1791927040987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "kunukanbolenw"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u ye ... dilan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ye"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "ɲɔgɔn-marali"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "שני",
+      "gloss": "fila"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "a kɔtilenw"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "bɛnen"
+    }
+  ],
+  "timestamp": "2026-10-13T21:30:40.989523093Z",
+  "model": "glm-5.3"
+}

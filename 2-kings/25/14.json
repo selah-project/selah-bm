@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨U⟩",
+      "rationale": "Hebrew verb לקחו lacks an explicit subject; the takers (the Chaldeans, v.13) are supplied in brackets"
+    },
+    {
+      "kind": "crux",
+      "subject": "המזמרות",
+      "rationale": "KJV 'snuffers' (wick-trimmers) vs Geneva 'instruments of music'; the root מזר suggests taking\/grasping tools — rendered here as mizɛri-tigɛnw (lamp-wick cutters)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuluŋw",
+      "rationale": "הכפות is literally 'hollow palms', palm-shaped vessels; Bambara has no temple-vessel word, so 'spoons' kuluŋw keeps the small-handled shape"
+    }
+  ],
+  "translation": "⟨U⟩ ye ⟨את⟩ dagaw, ⟨את⟩ pɛlɛw, ⟨את⟩ mizɛri-tigɛnw, ⟨את⟩ kuluŋw, ani ⟨את⟩ minɛn bɛɛ minnu ye kɔkɔrɔba ye, minnu ye u yɛrɛ ye baara-kɛli kɔnɔ, ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c68c1625db885fc67be5bf15540c64819efc75e2aee8b9c494172274860efe0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/25\/14-14.1791950670499.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagaw"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "dagaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pɛlɛw"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "pɛlɛw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mizɛri-tigɛnw"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "mizɛri-tigɛnw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuluŋw"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "kuluŋw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minɛn bɛɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "minɛn"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kɔkɔrɔba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "baara-kɛli"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u kɔnɔ"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-10-14T04:04:30.500429336Z",
+  "model": "glm-5.3"
+}

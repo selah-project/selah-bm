@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 17:43",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "The Philistine mocks David directly — 'Am I a dog?'"
+    },
+    {
+      "kind": "crux",
+      "subject": "a batofɛnw la",
+      "rationale": "אלהיו is plural 'his gods' (KJV) but JPS reads singular 'his god'; BM follows the plural shape."
+    }
+  ],
+  "translation": "Pelisiti ko Dawida ye: ne ye dugule ye wa, i b'ini na ne fɛ ni makiw ye? Ani Pelisiti ye ⟨את⟩ Dawida danga a batofɛnw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "89b451cf4c78c8112e53eb22c64d8df8cf73f2ef168c05ac3796b2370ae12e83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/17\/41-44.1791930478817.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelisiti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "dugule"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "בא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne fɛ"
+    },
+    {
+      "surface": "במקלות",
+      "gloss": "ni makiw ye"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "danga"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "באלהיו",
+      "gloss": "a batofɛnw la"
+    }
+  ],
+  "timestamp": "2026-10-13T22:27:58.820794261Z",
+  "model": "glm-5.3"
+}

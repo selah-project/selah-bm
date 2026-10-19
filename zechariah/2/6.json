@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "verse",
+      "rationale": "The verse's whole business is measuring Jerusalem's width and length"
+    },
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "Bambara needs the locative particle after 'min' to ask 'where to'"
+    },
+    {
+      "kind": "elision",
+      "subject": "למד",
+      "rationale": "Hebrew verb 'to stretch\/measure' rendered simply 'dajɛ'; the stretching picture is lost"
+    }
+  ],
+  "translation": "Ne ko: i taa min na? A ko ne ye: ka dajɛ ⟨את⟩ Yerushalayim (Jerusalɛmu), walasa ka dɔn a genhɛ bɛ se tuma joli, ani a janya bɛ se tuma joli.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/2\/5-8.1791939197889.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ne ko"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "min"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "taa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ka dajɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "walasa ka dɔn"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "tuma joli"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "a genhɛ"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "ani … tuma joli"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "a janya"
+    }
+  ],
+  "timestamp": "2026-10-14T00:53:17.890385877Z",
+  "model": "glm-5.3"
+}

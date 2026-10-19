@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קצף … קצף",
+      "rationale": "Verb then cognate noun of rage repeated for emphasis; Bambara keeps the echo binra–binnu."
+    },
+    {
+      "kind": "you",
+      "subject": "aw babaw",
+      "rationale": "Direct address to the returned exiles concerning their ancestors."
+    }
+  ],
+  "translation": "Yawe binra aw babaw la — binnu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2a5c8d6ebcb24ff24d03da470e0d9c14676fdf9325c862b8c5d0c4708b2706c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/1\/1-4.1791939228692.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "binra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "… la"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "aw babaw"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "binnu"
+    }
+  ],
+  "timestamp": "2026-10-14T00:53:48.693769226Z",
+  "model": "glm-5.3"
+}

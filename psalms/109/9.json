@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka kɛ … ye",
+      "rationale": "Hebrew יהיו jussive 'let them be' needs Bambara periphrastic copula"
+    },
+    {
+      "kind": "elision",
+      "subject": "his",
+      "rationale": "Hebrew has no pronoun 'his' on 'children\/wife'; supplied from context of the imprecation"
+    }
+  ],
+  "translation": "A denkɛw ka kɛ yatimadenw ye, a muso ka kɛ balen ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/109\/9-12.1791941423219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ka kɛ … ye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a denkɛw"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "yatimadenw"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ni a muso"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "balen"
+    }
+  ],
+  "timestamp": "2026-10-14T01:30:23.220135946Z",
+  "model": "glm-5.3"
+}

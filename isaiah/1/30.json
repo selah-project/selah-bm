@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sɔrɔ",
+      "rationale": "Hebrew אין לה 'nothing to it' rendered with possessive verb 'ma ... sɔrɔ' plus bracketed pronoun."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "jiri–nakɔ",
+      "rationale": "Verse repeats the two nouns of v.29 (oak, garden) as withered images — the punishment mirrors the idols."
+    }
+  ],
+  "translation": "Sabu aw bɛna tɔɔ jiri ye min ka yɛlɛ bɛ nɔgɔya, ani nakɔ ye min ma ji sɔrɔ ⟨a⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a37068ecedaaa0091e09e7148eea6fe65a1401d31d456dc575b440ff7e178e94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/1\/29-31.1791933334588.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "aw bɛna tɔɔ ye"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "jiri ye"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "bɛ nɔgɔya"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yɛlɛ"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "ani nakɔ ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma sɔrɔ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨a⟩"
+    }
+  ],
+  "timestamp": "2026-10-13T23:15:34.593001960Z",
+  "model": "glm-5.3"
+}

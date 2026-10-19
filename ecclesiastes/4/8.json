@@ -1,0 +1,164 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 4:8",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש rendered ni per fixed vocabulary; closer to 'life\/self' than a separable soul"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומחסר את נפשי מטובה",
+      "rationale": "'bereaving my soul of good' vs 'depriving my soul of pleasure'; rendered as withholding good from oneself"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "direct-object marker preserved as glyph, no Bambara equivalent"
+    }
+  ],
+  "translation": "Mɔgɔ kelen dɔ bɛ, a tɛ filan ta; a denkɛ si tɛ, a balimakɛ si tɛ, nka a ɲɛgɛnsɔgɔji bɛɛ ma ben; a yɛrɛ ɲɛ tɛ tigɛra wari la. Ani ne bɛ ɲɛgɛnsɔgɔ ye moye ye, ka ⟨את⟩ ne ni kɛrɛ ka bɔ nyumaw la? O fana ye Hebel ye, ani baara bon; o ye o ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/4\/5-8.1791945179346.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "bɛ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a tɛ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "filan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dɔrɔn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "balimakɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a ... ma ben"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ko ben"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "a ɲɛgɛnsɔgɔji"
+    },
+    {
+      "surface": "גם",
+      "gloss": "yɛrɛ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "a ɲɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "tigɛra"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "wari"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "moye ye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bɛ ɲɛgɛnsɔgɔ"
+    },
+    {
+      "surface": "ומחסר",
+      "gloss": "ka ... kɛrɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ni"
+    },
+    {
+      "surface": "מטובה",
+      "gloss": "ka bɔ nyumaw la"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "o"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "וענין",
+      "gloss": "ani baara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o ye o ye"
+    }
+  ],
+  "timestamp": "2026-10-14T02:32:59.347856494Z",
+  "model": "glm-5.3"
+}

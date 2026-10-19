@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "aw ka don a dabaw la",
+      "rationale": "four imperatives in one verse, temple-entry summons"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fɔliya",
+      "rationale": "תהלה is hymn-laudation; paired with todah rendered 'thanks' — the two Hebrew terms are kept distinct"
+    }
+  ],
+  "translation": "Aw ka don a dabaw la ni i-ni-ce ye, a daruguw la ni fɔliya ye; aw ka i-ni-ce di a ma, aw ka a tɔgɔ duba.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/100\/1-4.1791941240224.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "aw ka don"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "a dabaw la"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ni i-ni-ce ye"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "a daruguw la"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "ni fɔliya ye"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "aw ka i-ni-ce di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "aw ka duba"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a tɔgɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:20.225871017Z",
+  "model": "glm-5.3"
+}

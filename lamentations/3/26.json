@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לתשועת יהוה",
+      "rationale": "Yawe ka wuliya — teshua: 'rescue\/deliverance' vs 'salvation'; Bambara wuliya keeps the concrete 'being brought out' sense"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka (infinitive)",
+      "rationale": "Hebrew has no verb 'to be'; Bambara needs ka to carry the adjectives as predicates"
+    }
+  ],
+  "translation": "Ka ɲi ka natigi ka dimi Yawe ka wuliya la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "759b4b59364fbd8a99e5b2e0e9fd9d1063cb81ea78f8e1771449a76579607a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/26-27.1791951380258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ka ɲi"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "ka natigi"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "ka dimi"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "wuliya la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T04:16:20.258977583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שאון",
+      "rationale": "'uproar\/rushing' vs 'destruction' (KJV 'horrible pit', JPS 'tumultuous pit'); rendered as 'the pit that roars'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "היון",
+      "rationale": "literally 'dregs, fermenting mud'; rendered as ordinary 'yeelen' (mud), the dregs-picture lost"
+    }
+  ],
+  "translation": "A ye ne yelen kɔlɔnbo la min bɛ jaɲa, bɔra siling yeelen na, a ye ne senw jɔ kabakurun kan, a ye ne taabaw tiɲɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f4a041793cd11dc515919b0af76eee375de4cb94fcaaa6ae4f2b7a65c0771316",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/40\/1-4.1791940151210.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "a ye ne yelen"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "kɔlɔnbo"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "min bɛ jaɲa"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "siling"
+    },
+    {
+      "surface": "היון",
+      "gloss": "yeelen"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a ye ne senw jɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "… kan"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "kabakurun"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ne senw"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "a ye … tiɲɛ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ne taabaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:09:11.211262572Z",
+  "model": "glm-5.3"
+}

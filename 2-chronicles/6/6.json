@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 6:6",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nin don",
+      "rationale": "'but now' supplied; Hebrew has only the waw-contrast, which Bamanankan needs an overt marker for."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמי\/שם",
+      "rationale": "shemi (my name) \/ sham (there) — the two sounds echo in Hebrew and again mirror v.5; lost in Bamanankan."
+    }
+  ],
+  "translation": "Nka nin don, n ye Yerushalayim (Jerusalɛmu) su, walasa n ka tɔgɔ ka kɛ yen; ani n ye Dawid (Dawuda) su, ka bɛ n ka jama Yisrayela la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6a24b8c18f5212b601a082fc279d04c5e309091375145823c8d6f21b76a81f16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/6\/5-8.1791948585546.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבחר",
+      "gloss": "n ye … su"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "n ka tɔgɔ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "n ye … su"
+    },
+    {
+      "surface": "בדויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ka bɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n ka jama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayela"
+    }
+  ],
+  "timestamp": "2026-10-14T03:29:45.547516867Z",
+  "model": "glm-5.3"
+}

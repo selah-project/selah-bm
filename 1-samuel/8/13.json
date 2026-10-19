@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dumuni-dilamuso",
+      "rationale": "טבחות ye sogobaga ye kɔrɔ la — 'dumuni-dilamuso' ye a ka kɛcogo jira n'o tɛ sotigi-sɛbɛn ɲɛfɔli ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לרקחות\/לטבחות\/לאפות",
+      "rationale": "infinitive-yaɲɛw fila bɛɛ la, ו-lamed taamasiyɛn bɛ o saba lamini — kumasen ɲɛna dɔgɔya Bamanankan na"
+    }
+  ],
+  "translation": "A bɛna ⟨את⟩ aw ka denmusow ta, ka u kɛ pɔmu-dilamuso ye, ni dumuni-dilamuso ni burudilamuso ye (a ye).",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "23b143ef79b8b28a06835b93331d0e8cc9f9d5ab43b3fc136c9d9dd7ee694a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/8\/13-16.1791929964596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aw ka denmusow"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "aw ka denmusow"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bɛna … ta"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "pɔmu-dilamuso"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "ni dumuni-dilamuso"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "ni burudilamuso"
+    }
+  ],
+  "timestamp": "2026-10-13T22:19:24.616891320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wuli",
+      "rationale": "ויושט 'extend (the hand)' — bolo daɲɛ ma sɛbɛn Heburukan na, nka bamanankan ka 'wuli' (hold out) wajibiya"
+    },
+    {
+      "kind": "substitution",
+      "subject": "boloɲɛnma",
+      "rationale": "שרבט 'rod of empire' — bamanankan 'boloɲɛnma' (bolo-nɛnma, iron-hand staff) ye a ka cogo ɲɛfɔ"
+    }
+  ],
+  "translation": "Masakɛ ye ⟨את⟩ sanu ka boloɲɛnma wuli Estɛr ma; Estɛr y'a yɛrɛ latigɛ ka jɔ masakɛ ɲɛfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0edfa482f3bfde3e61c6d5b1db39bfe3c0a5003b70fe8b6654a0e80be976d17c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/8\/1-4.1791945631335.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "ye … wuli … ma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Estɛr ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanu ka boloɲɛnma"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "boloɲɛnma"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "y'a yɛrɛ latigɛ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estɛr"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ka jɔ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɲɛfɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:40:31.337552943Z",
+  "model": "glm-5.3"
+}

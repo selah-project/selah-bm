@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Yawe tɔgɔ fila",
+      "rationale": "Yawe tɔgɔ bɛ kuma kelen-kelen la kumasen kelen kɔnɔ — dankamini fila, sabu fila, daɲɛ fila bɛɛ ni Yawe tɔgɔ ye kɔgɔjɛya"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kolow",
+      "rationale": "עצמי kɔrɔtiɲɛ ye kolo ye nka a bɛ se ka kuma jɔyɔrɔ bɛɛ (kunu) ye; kolo dɔrɔn de bɛ sɔn nin yan ka tɔgɔ lafiya"
+    },
+    {
+      "kind": "you",
+      "subject": "Yawe",
+      "rationale": "Dankamini tilennen bɛ Yawe fɛ kiɛbɛma, dɔgɔya ni saneyali weleli ye"
+    }
+  ],
+  "translation": "Yawe, i dugaw ne ma, sabu ne bɛ bana; Yawe, i fisa ne ye, sabu ne kolow bɛ dabi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a1da9690225df42e0fdfa4d1cfe16a1eb9cf62543f8f54305f027625c6f94ab0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/6\/2-3.1791951146404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "i dugaw ne ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ne bɛ bana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "i fisa ne ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "bɛ dabi"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ne kolow"
+    }
+  ],
+  "timestamp": "2026-10-14T04:12:26.404926367Z",
+  "model": "glm-5.3"
+}

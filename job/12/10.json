@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ninakili",
+      "rationale": "רוח ye fiɲɛ\/ninakili ye — 'esprit' tɛ Bamanankan dɔnnen ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "min — ɲɛfɔli taamasiyɛn dɔrɔn, Bamanankan ka min de ta a la"
+    }
+  ],
+  "translation": "Min bolo la, ni bɛɛ min bɛ balo, ani hadamadenw bɛɛ ninakili.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ff3b4df072ff2e545b0f9cf9949b11f9eb09ee997cd08f68424c37cda5ca1a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/12\/9-12.1791943453918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "bolo la"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "min bɛ balo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ani ninakili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "farisogo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hadamaden"
+    }
+  ],
+  "timestamp": "2026-10-14T02:04:13.919936026Z",
+  "model": "glm-5.3"
+}

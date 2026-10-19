@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 26:9",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so-jan",
+      "rationale": "Bambara has no single word for tower; 'tall house' joins the picture"
+    },
+    {
+      "kind": "crux",
+      "subject": "kunbila",
+      "rationale": "המקצוע 'the turning\/angle': KJV adds 'of the wall'; Hebrew names only the corner"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Gayi",
+      "rationale": "הגיא read as the Valley Gate's proper name rather than common noun 'gorge'"
+    }
+  ],
+  "translation": "Uzaya (Uziya) ye so-janw da Yerushalayim (Jerusalɛmu): Pinnu da la, ani Gayi da la, ani kunbila la; k'o kɔlɔsi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "11919e7190248a6476666ea2c1b5d35395d2939050d6fd1d3c1037765629d06a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/26\/9-12.1791949507981.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ye … da"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzaya"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "so-janw"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "שער",
+      "gloss": "da"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "Pinnu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani … la"
+    },
+    {
+      "surface": "שער",
+      "gloss": "da"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "Gayi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ani … la"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "kunbila"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "k'o kɔlɔsi"
+    }
+  ],
+  "timestamp": "2026-10-14T03:45:07.982073747Z",
+  "model": "glm-5.3"
+}

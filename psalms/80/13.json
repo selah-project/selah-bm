@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sira kɔnɔtigiw",
+      "rationale": "עברי דרך is construct 'passers-of the-way'; Bambara reverses to sira kɔnɔtigiw"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ju",
+      "rationale": "ארה is to pluck; Bambara ju covers plucking\/pulling"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "the psalmist questions Elohim directly"
+    }
+  ],
+  "translation": "Mun na i ye a datuguw ju, ni sira kɔnɔtigiw bɛɛ bɛ a ju?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/80\/13-16.1791940863466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mun na"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "i ye … ju"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "a datuguw"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "ni … bɛ a ju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "kɔnɔtigiw"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sira"
+    }
+  ],
+  "timestamp": "2026-10-14T01:21:03.467347868Z",
+  "model": "glm-5.3"
+}

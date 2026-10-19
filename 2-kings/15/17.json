@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 15:17",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "regnal dating",
+      "rationale": "Accession dated by Azariah's 39th year and reign length of ten years."
+    },
+    {
+      "kind": "addition",
+      "subject": "a ye masakɛya kɛ",
+      "rationale": "Hebrew מלך is a single verb; Bambara needs the 'become king' construction to carry both the accession and the ten-year reign."
+    }
+  ],
+  "translation": "San biaburugu-ni-kɔnɔntɔn na, Azarya (Oziyas) Yehuda masakɛ tile la, Menahem, Gadi den, ye kɛ Israyel masakɛ ye; a ye masakɛya kɛ san tan Shomron.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a7eaf583d94d65f61c890bb6a731e8479538c4e185b43e15e6d5196f11368561",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/15\/17-20.1791932999199.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "san … na"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "biaburugu"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ni-kɔnɔntɔn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "לעזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ye kɛ masakɛ ye"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menahem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "san"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-10-13T23:09:59.204662730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "yɔrɔ dogolenw",
+      "rationale": "נצורים 'guarded\/restricted places' — KJV 'monuments', JPS 'vaults'; 'hidden places' chosen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ji",
+      "rationale": "פרק is 'broth\/pieces of meat'; rendered 'soup'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "u fɛnw",
+      "rationale": "כליהם 'their vessels\/utensils'; general 'their things' used"
+    }
+  ],
+  "translation": "Minnu bɛ sigin kaburuw la, ka su nɔ yɔrɔ dogolenw la; minnu bɛ ngeso sogo dun, ka dɔgɔkɔrɔbali ji, o bɛ u fɛnw kɔnɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ec6d24d98bc3c49334ea8e65009354aa4de03dae426c5af008d8061d1a71489a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/65\/1-4.1791934924249.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "minnu bɛ sigin"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "kaburuw la"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "yɔrɔ dogolenw la"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "ka su nɔ"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "minnu bɛ ... dun"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sogo"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ngeso"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "ji"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "dɔgɔkɔrɔbali"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "u fɛnw"
+    }
+  ],
+  "timestamp": "2026-10-13T23:42:04.252177005Z",
+  "model": "glm-5.3"
+}

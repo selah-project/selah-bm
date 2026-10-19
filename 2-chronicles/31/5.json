@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 31:5",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וכפרץ הדבר",
+      "rationale": "Hebrew idiom 'the word broke out' rendered 'kuma bɔra yɛrɛ' (the word went out by itself); literal 'bursting' kept in bɔra."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tanlanan",
+      "rationale": "מעשר is literally 'a tenth'; Bambara has no fixed tithe-word, so the number-word tanlanan (tenth-part) keeps the arithmetic."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sumala ji",
+      "rationale": "דבש honey; descriptive 'sweet water' used as the plain Bambara word for honey."
+    }
+  ],
+  "translation": "Kuma in ni a bɔra yɛrɛ ɔ, Yisraela denw ye kisɛ fɔlɔw, diwɛn, tulu ani sumala ji ladilaman, ani foro bɛɛ laminiw; ani bɛɛ tanlanaw — u ye o bɛɛ na ni bon ya ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e54cc11cc799ba4077bf7b5766bf60665d2e5e0acfa1bc7d822d875d37151aa6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/31\/5-8.1791949666586.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפרץ",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "ladilaman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "denw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "fɔlɔw"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "kisɛ"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "diwɛn"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "tulu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "sumala ji"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "laminiw"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "foro"
+    },
+    {
+      "surface": "ומעשר",
+      "gloss": "tanlanaw"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "bon ya"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-10-14T03:47:46.586867002Z",
+  "model": "glm-5.3"
+}

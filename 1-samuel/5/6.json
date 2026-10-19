@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "heavy hand",
+      "rationale": "יד כבדה: bolo kilinna — fanga ni gɛlɛya ka daɲɛ, Hebrew la o ye 'bolo min ka kɔgɔji' ye."
+    },
+    {
+      "kind": "crux",
+      "subject": "עפלים",
+      "rationale": "kuruw: 'tumors\/emerods' (KJV, JPS) versus 'mounds\/fortresses' — LXX 'mice in the secret parts' lajɛyen don."
+    },
+    {
+      "kind": "substitution",
+      "subject": "keroogilen kɛ",
+      "rationale": "וישמם: a kɔrɔ ye 'ka kɛ foŋɔ-fɔlɔ ye \/ ka bɔ nnɔ ye' — Bamanankan nɔgɔya a ma."
+    }
+  ],
+  "translation": "Yawe ka bolo kilinna Ashdod (Ashdod) mɔgɔw la, a y'u keroogilen kɛ, a y'u fɔlkɛ ni kuruw ye — ⟨את⟩ Ashdod (Ashdod) ni ⟨את⟩ a danw.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bbe63149d632969f078eb13b85c277ba43ebe0d32620e04569e4ac00e428c6db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/5\/6-7.1791950193726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "kilinna"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(kan)"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "Ashdod mɔgɔw"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "a y'u keroogilen kɛ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a y'u fɔlkɛ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u (Ashdod mɔgɔw)"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ni kuruw ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod (Ashdod)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "a danw"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "a danw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:56:33.726630553Z",
+  "model": "glm-5.3"
+}

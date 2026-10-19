@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לוית",
+      "rationale": "לויה 'wreath\/garland' — a rare word, rendered kunjaliden (head-ornament), its literal picture kept"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חן",
+      "rationale": "חן is grace\/favor\/beauty in one word; Bambara needs kunuya-taamasiyɛn (beauty-sign)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "chains as strangling",
+      "rationale": "ענקים from a root suggesting strangling; kɔnkurunw keeps the neck-ring picture"
+    }
+  ],
+  "translation": "Sabu olu ye kunjaliden ye i kun na, ani kɔnkurunw i kunkan na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9af6714ea55aa2485d349f22dda7c26a72b486da40a0a9b437c2a392860c255b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/1\/9-12.1791942077800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "kunjaliden"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kunuya-taamasiyɛn"
+    },
+    {
+      "surface": "הם",
+      "gloss": "olu"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "i kun na"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "ani kɔnkurunw"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "i kunkan na"
+    }
+  ],
+  "timestamp": "2026-10-14T01:41:17.800849003Z",
+  "model": "glm-5.3"
+}

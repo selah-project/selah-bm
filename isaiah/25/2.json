@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛɛ",
+      "rationale": "Hebrew לעולם יבנה 'it shall not be built to eternity'; the reinforcing 'bɛɛ' supplies the total negation Bambara needs."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לגל",
+      "rationale": "גל can be a heap of stones; 'pile of stones' is the literal picture behind the heap rendering."
+    }
+  ],
+  "translation": "Sabu i ye dugu dɔ kɛ kankalanbɔlen ye, dugu min ɲɛfɔra, a ye bogolan ye, minugu dɔ ye dugu ye, a bɛɛ tɛ dilan waati bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "7bb95e0e15ceb423ac2a45287e22e54a883347c1052115c90f986c872004d217",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/25\/1-4.1791933929734.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "i ye … kɛ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "kankalanbɔlen"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "min ɲɛfɔra"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "bogolan"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "minugu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "dɔ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waati bɛɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "dilan"
+    }
+  ],
+  "timestamp": "2026-10-13T23:25:29.737926794Z",
+  "model": "glm-5.3"
+}

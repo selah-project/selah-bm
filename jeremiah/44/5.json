@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "alaw wɛrɛw",
+      "rationale": "לאלהים אחרים = 'alaw wɛrɛw' (batofɛnw) dɔrɔn, Tɔgɔ minnu tɛ Yawe tɔgɔ ye"
+    },
+    {
+      "kind": "elision",
+      "subject": "לבלתי",
+      "rationale": "Heburukan ka daɲɛ-jugulen in bɛ bayɛlɛma 'walasa … ma' ye, a yɛrɛ tɛ daɲɛ kelen ye"
+    }
+  ],
+  "translation": "Nka u ma mɛn, u ma ⟨את⟩ u tulo daari ka bɔ u juguya la, walasa u ma kɔɔrɔsi taali kɛ alaw wɛrɛw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "39ec2f5d65db2f19a406fa4708ce109f38380bab8370d5ef5b45809204f599c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/44\/5-8.1791936226518.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nka u ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mɛn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "daari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u tulo (u tulo daari)"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ka bɔ"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "u juguya"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "walasa u ma"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "kɔɔrɔsi taali kɛ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "alaw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wɛrɛw"
+    }
+  ],
+  "timestamp": "2026-10-14T00:03:46.519547680Z",
+  "model": "glm-5.3"
+}

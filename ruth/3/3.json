@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i yεrε ma jira",
+      "rationale": "the Hebrew hitpael 'make yourself known' is rendered 'do not show yourself' — the reflexive sense is carried by 'i yεrε'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "verb chain",
+      "rationale": "four imperatives in a row (wash, anoint, put on, go down) then a prohibition — the chain of short commands is preserved by the parallel Bambara imperatives."
+    },
+    {
+      "kind": "you",
+      "subject": "to Rutu",
+      "rationale": "continuing Naomi's direct instruction to Ruth; a string of feminine singular imperatives."
+    }
+  ],
+  "translation": "I ji min, i tulu sɔrɔ i kan, i ka i dɔgɔkɔrɔbɔ da i kan, ka tεmε na gerɛnyɔrɔ la — k'i yεrε ma jira cε in ye, fo a ka dun ani ka min ka ban.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "db5204d153f3b817f408d61a4922597ab3d18e13b5a4aa4383a7ff1ada432496",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ruth\/3\/2-3.1791951444194.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "i ji min"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "i tulu sɔrɔ i kan"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "i ka … da"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "i dɔgɔkɔrɔbɔ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "i kan"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "i bε na (ka tεmε na)"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "gerɛnyɔrɔ la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k'i … ma"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "i yεrε jira"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "cε in ye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "a ka … ban"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "dun"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-10-14T04:17:24.195651841Z",
+  "model": "glm-5.3"
+}

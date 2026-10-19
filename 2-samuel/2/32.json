@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 2:32",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yeelen nana don u ye",
+      "rationale": "ויאר להם ko tiɲɛna ko 'a ye yeelen di u ye' — n'sɔrɔ 'wula bɔra u ye' fɔli nɔgɔmanya la"
+    },
+    {
+      "kind": "elision",
+      "subject": "וישאו",
+      "rationale": "'ta' (ka wuli ka tugu) dɔgɔya — Heburukan fɔ ko 'u ye a wuli'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "su bɛɛ",
+      "rationale": "tɛmɛsira waati jate: su bɛɛ ka taa tugu"
+    }
+  ],
+  "translation": "U ye ⟨את⟩ Asahel (Asayeri) ta, k'a dansi a fa ka dansiyɔrɔ la min bɛ Bet Lahɛmu (Betilɛmu). Yoab ni a mɔgɔw taana su bɛɛ, wa yeelen nana don u ye Hewron (Eronu) na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d9877e06d5419fb1bc715ce5d9a3850dbd52a0c0ed942c802eedeb34828bb16b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/2\/32-32.1791950293781.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "u ye … ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "k'a dansi"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "dansiyɔrɔ la"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min bɛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lahɛmu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "u taana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "su"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ni a mɔgɔw"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "yeelen nana don"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hewron na"
+    }
+  ],
+  "timestamp": "2026-10-14T03:58:13.781897943Z",
+  "model": "glm-5.3"
+}

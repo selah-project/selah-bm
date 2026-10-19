@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "יקשו",
+      "rationale": "the verb 'they set (a snare)' is folded into the relative minnu bɛ da, Hebrew has no relative word here"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פח \/ מוקשות",
+      "rationale": "paired snare-words (spring-net and noose) build a net imagery chain with v.10's מכמור; Bambara must use two different words, the pairing is kept but the sound-play is lost"
+    }
+  ],
+  "translation": "Mara ne bolow la minnu bɛ pikili da ne ye, ani jurumukɛlaw ka dakamiliw ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ed57e002cc009c647fee44da040c825b80f78ee00c9d0768dcb79644b3ceb2f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/141\/9-10.1791941838227.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Mara ne"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "bolow la"
+    },
+    {
+      "surface": "פח",
+      "gloss": "pikili"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "minnu bɛ da ne ye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ne ye"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "ani dakamiliw ma"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kɛlaw ka"
+    },
+    {
+      "surface": "און",
+      "gloss": "jurumu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:37:18.227736976Z",
+  "model": "glm-5.3"
+}

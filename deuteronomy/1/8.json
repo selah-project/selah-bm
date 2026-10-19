@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשבע",
+      "rationale": "Root means 'to seven oneself' — swearing as a sevenfold declaration; rendered with the Bambara idiom 'to set one's name as surety'."
+    },
+    {
+      "kind": "addition",
+      "subject": "aw ye",
+      "rationale": "Imperative ראה 'see!' addressed to plural Israel; Bambara needs 'aw ye' to carry the plural command."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct address: the land set before 'you', the oath sworn to 'your' fathers."
+    }
+  ],
+  "translation": "Aw ye yeelen: ne bila ⟨את⟩ dugukolo ani ɲɛw ɲɛda; aw ka don, aw ka minɛ ⟨את⟩ dugukolo min na Yawe ye a tɔgɔ tiɲɛ bila aw ka baaw ma — Awraham (Ibrahima), Itsak (Isaka), ani Yakub (Jakuba) — walasa k'o di olu ye ani u denw u kɔfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/1\/5-8.1791927516905.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "aw ye yeelen"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ne bila"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ani ɲɛw ɲɛda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "aw ka don"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "aw ka minɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugukolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min na"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a tɔgɔ tiɲɛ bila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "aw ka baaw ma"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Itsak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ani Yakub"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "walasa k'o di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "olu"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "ani u denw"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "u kɔfɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:38:36.907840203Z",
+  "model": "glm-5.3"
+}

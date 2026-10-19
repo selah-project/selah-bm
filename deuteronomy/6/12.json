@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השמר לך",
+      "rationale": "Hebrew reflexive 'guard yourself' rendered as 'kɔlɔsi i yɛrɛ'; the Hebrew verb שמר carries the picture of hedging about as with thorns."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מבית עבדים",
+      "rationale": "'house of servants' — Hebrew construct pair rendered 'so min ye jɔgɔyaw so ye', a house of slaves."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person singular warning addressed to each Israelite."
+    },
+    {
+      "kind": "invitation",
+      "subject": "השמר לך פן",
+      "rationale": "Imperative warning drawing the hearer's attention to the danger of forgetting."
+    }
+  ],
+  "translation": "I yɛrɛ kɔlɔsi, k'aw mɛn i kan ma ⟨את⟩ Yawe bilaw, min b'i bɔ dugukolo Mitsrayim (Misira) la, so min ye jɔgɔyaw so ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "502035eeaa42f332b6c5a71d1677ac132937f61d970b742e77ddf5271d6f118d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/6\/12-12.1791949997612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yɛrɛ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "k'aw mɛn i kan ma"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "bilaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "b'i bɔ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Misira)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "so"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "jɔgɔyaw"
+    }
+  ],
+  "timestamp": "2026-10-14T03:53:17.612849738Z",
+  "model": "glm-5.3"
+}

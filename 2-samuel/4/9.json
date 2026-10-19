@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 4:9",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חי יהוה",
+      "rationale": "sɔrɔda kelen kelen-kelen 'Yawe balo don' — kɔrɔko yɛlɛma k'a kɛ tiɲɛ-cogoya ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפשי = ne ni (ninakili-ni), 'soul' tɛ Bamanankan kɔnɔ"
+    },
+    {
+      "kind": "you",
+      "subject": "Rekab ni Baana",
+      "rationale": "Dawid bɛ kuma a bɛɛ ɲɛ fɛ — u ne bɛ a ta"
+    }
+  ],
+  "translation": "Dawid (Dawuda) ye ⟨את⟩ Rekab ni ⟨את⟩ Baana, a balimakɛ, Awbaren Rimmon, Bɛerɔti (Bɛerot) mɔgɔw lase, k'u ko: Yawe balo don, min ye ⟨את⟩ ne ni filili ye gɛlɛya bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fbac01732d39481f37def22f9eb2738bd63adc630ff15b831299b55cda0e2283",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/4\/9-12.1791931070066.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ye … lase"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rekab"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Rekab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baana"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Baana"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "a balimakɛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Awbaren"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "הבארתי",
+      "gloss": "Bɛerɔti mɔgɔw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "k'u ko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "חי",
+      "gloss": "balo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ye … filili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "gɛlɛya"
+    }
+  ],
+  "timestamp": "2026-10-13T22:37:50.068583748Z",
+  "model": "glm-5.3"
+}

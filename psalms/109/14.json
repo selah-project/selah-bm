@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a kana jɔsi⟩",
+      "rationale": "Hebrew אל תמח is the negative of the verb alone; Bambara needs the pronoun and auxiliary supplied in the bracket"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר\/מחה",
+      "rationale": "remember (v14) versus blot out — the same pair מחה blots the name in v13; the two verbs stand as opposites across the verses"
+    }
+  ],
+  "translation": "A faamaw ka jurumu ka Yawe hakili kɔnɔ to; a ba ka jurumu, ⟨a kana jɔsi⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/109\/13-16.1791941460683.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "ka hakili to"
+    },
+    {
+      "surface": "עון",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "a faamaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ani jurumu"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a kana"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "jɔsi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:31:00.684044079Z",
+  "model": "glm-5.3"
+}

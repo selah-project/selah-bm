@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חמת … חמת",
+      "rationale": "חמה doubled — 'their heat\/venom like the heat\/venom of a serpent'; the repetition and the heat\/poison double sense are flattened in one word."
+    },
+    {
+      "kind": "crux",
+      "subject": "חמה",
+      "rationale": "חֵמָה means heat\/anger; here rendered 'venom' (tasuma) following context, vs literal 'heat\/fury'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פתן",
+      "rationale": "פתן is an asp\/cobra, a specific snake; rendered with the generic 'sa' (serpent), the specific species lost."
+    }
+  ],
+  "translation": "U tasuma ye sa tasuma ye; i n'a fɔ sa min ye tulo-mumalitɔ, a bɛ a tulo datugun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/58\/5-8.1791940390802.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "u tasuma"
+    },
+    {
+      "surface": "למו",
+      "gloss": "u ta"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "i n'a fɔ … ye"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "tasuma"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "i n'a fɔ"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tulo-mumalitɔ"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "bɛ … datugun"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "tulo"
+    }
+  ],
+  "timestamp": "2026-10-14T01:13:10.802721343Z",
+  "model": "glm-5.3"
+}

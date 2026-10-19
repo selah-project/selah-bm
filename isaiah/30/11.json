@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרך \/ ארח",
+      "rationale": "near-synonyms “way\/path” in parallel pair; kept as sira\/siraba"
+    },
+    {
+      "kind": "you",
+      "subject": "aw \/ an",
+      "rationale": "the people's demand addressed to their leaders"
+    }
+  ],
+  "translation": "Bɔyu siraw la, tilayu siraba la, aw k'⟨a⟩ Israel ka ⟨את⟩ Senumatigi bɔ an ɲɛ na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d9c3cdd6e72b7018789e5998f405807fc651f453f90483d284d48343a86c376b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/30\/9-12.1791933999784.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "bɔyu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "la"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "siraw"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "tilayu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "la"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "siraba"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "k'a bila ka bɔ"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "an ɲɛ na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel ka Senumatigi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Senumatigi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-10-13T23:26:39.792409246Z",
+  "model": "glm-5.3"
+}

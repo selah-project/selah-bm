@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "aleph-tav object marker of ברכנו; Bambara object pronoun 'aw' carries the marking, glyph kept."
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "the passers-by's blessing quoted in direct speech, addressed to the field's owner — a blessing that never comes."
+    }
+  ],
+  "translation": "Taamabagaw t'a fɔ ko: “Yawe ka duba aw kan! An b'aw duba ni Yawe tɔgɔ ye ⟨את⟩.”",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/129\/5-8.1791941761540.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "taamabagaw"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "duba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "aw kan"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "an b'aw duba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aw"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ni … tɔgɔ ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:01.542031008Z",
+  "model": "glm-5.3"
+}

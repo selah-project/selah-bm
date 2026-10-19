@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Hebrew 'cut a covenant' (cutting, from passing between pieces of flesh) rendered as 'da layidu' in Bambara; the cutting picture is lost."
+    },
+    {
+      "kind": "addition",
+      "subject": "u ka",
+      "rationale": "להיות לעם has no explicit subject; 'u ka kɛ' supplies the people as subject."
+    }
+  ],
+  "translation": "Yehoyada (Yehoyada) ye ⟨את⟩ layidu in da Yawe ni masakɛ ni jama cɛ, walasa u ka kɛ Yawe ka jama ye, ani masakɛ ni jama cɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "14e4a16a1fc2f87e6900385045f8570fcb2eda1c1147647683a69eb98cde5d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/11\/17-20.1791932955844.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "layidu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "layidu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "cɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ani cɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ani cɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ka kɛ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "jama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe ka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ani cɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ani cɛ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama"
+    }
+  ],
+  "timestamp": "2026-10-13T23:09:15.846452710Z",
+  "model": "glm-5.3"
+}

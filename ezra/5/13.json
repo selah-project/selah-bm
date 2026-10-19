@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 5:13",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "די",
+      "rationale": "Aramaic relative די has no standalone Bambara word; rendered by juxtaposition."
+    },
+    {
+      "kind": "substitution",
+      "subject": "טעם",
+      "rationale": "lit. 'flavor\/taste', here 'decree' — rendered as command."
+    },
+    {
+      "kind": "measurement",
+      "subject": "san kelen",
+      "rationale": "the decree is dated by regnal year, a counting frame."
+    }
+  ],
+  "translation": "Nka Babilɔn (Babulɔn) masakɛ Korosh san kelen na, Korosh masakɛ y'a fɔ ko Elohim so in ka bɛn ka dilan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "a07c4da2ceeef8267fb0cd0b22fdda7c4bf63bc54d8d591390e6d80d784cf694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/5\/13-16.1791946487627.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברם",
+      "gloss": "nka"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "san kelen na"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Korosh"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨Babilɔn ka⟩"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilɔn"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Korosh"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "sariya \/ a fɔ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "in"
+    },
+    {
+      "surface": "לבנא",
+      "gloss": "ka bɛn ka dilan"
+    }
+  ],
+  "timestamp": "2026-10-14T02:54:47.628800881Z",
+  "model": "glm-5.3"
+}

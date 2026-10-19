@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חטאת",
+      "rationale": "Daɲɛ in bɛ fɔ 'jurumu' walima 'jurumu-saraka' (saraka min bɛ kɛ jurumu kɔrɔta ye) — sarakalasebagaw bɛ saraka minnu dun, o de"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ni\/lekɔlɔ ye, a tɛ 'dusukun' ye (KJV 'heart') — 'u bɛ a ni lamini u ka jurumu la' ka ɲɛ n'a cogo ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a ka⟩",
+      "rationale": "נפשו nɔnabila-sigma 'a ka' — Heburukan bɛ nɔnabila kelen dɔrɔn sɔrɔ"
+    }
+  ],
+  "translation": "U bɛ N jama ka jurumu dun, u bɛ ⟨a ka⟩ ni lamini u ka jurumu la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fcd5788ab055d9294abff3c4200c82b21c63ecbceaaaa619eb0df534fb0b6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/4\/5-8.1791938169949.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "jurumu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "N jama ka"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "u bɛ dun"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨u bɛ … la⟩"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "u ka jurumu"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bɛ ni lamini"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a ka ni"
+    }
+  ],
+  "timestamp": "2026-10-14T00:36:09.950657947Z",
+  "model": "glm-5.3"
+}

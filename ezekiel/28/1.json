@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 28:1",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "emphasis 'and it came to pass' flattened into the Bambara past"
+    },
+    {
+      "kind": "you",
+      "subject": "אלי",
+      "rationale": "prophetic word addressed to the prophet Yehezkel directly"
+    }
+  ],
+  "translation": "Yawe ka kuma nana ne kan na ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "845bde3fc787678e996cca6fb504aefada03b07bfec7b6c12a73f46a675e0070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/28\/1-4.1791937437018.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ne kan na"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko:"
+    }
+  ],
+  "timestamp": "2026-10-14T00:23:57.019130627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bɛ taa",
+      "rationale": "Verb tense: past 'kulow ye sanfɛ tɛmɛ' (mountains rose, JPS) vs habitual\/durative as rendered here (they go up, KJV\/Geneva); Hebrew wayyiqtol-less imperfect allows both."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dunbɔw",
+      "rationale": "בקעות is literally 'the split ones' — wide cleft valleys between mountains; 'dunbɔw' (low-lying hollows) keeps the picture of sinking."
+    }
+  ],
+  "translation": "Kulow bɛ taa sanfɛ, dunbɔw bɛ taa duguma, yɔrɔ min na i ye u sigi o ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/104\/5-8.1791941239321.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "bɛ taa sanfɛ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kulow"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bɛ taa duguma"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "dunbɔw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ma"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yɔrɔ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "min na"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "i ye … sigi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:19.322746020Z",
+  "model": "glm-5.3"
+}

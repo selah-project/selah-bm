@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 27:6",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye … ye",
+      "rationale": "Hebrew adjective predicate needs Bambara copula ye…ye"
+    },
+    {
+      "kind": "crux",
+      "subject": "caman",
+      "rationale": "ונעתרות: literally 'abundant' (as here), but many versions read 'deceitful' from a similar root"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פצעי\/נשיקות",
+      "rationale": "wounds vs kisses antithesis, kept in parallel structure"
+    }
+  ],
+  "translation": "Kanuya-tigi ka jolibɔliw ye tiɲɛ ye, nka jugu-tigi ka mutuw bɛ caman.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ecf70c51ac4394523a4be221211784d1789f6bf649666812e138ca37d67919a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/27\/5-8.1791943027767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאמנים",
+      "gloss": "tiɲɛ"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "jolibɔliw"
+    },
+    {
+      "surface": "אוהב",
+      "gloss": "kanuya-tigi"
+    },
+    {
+      "surface": "ונעתרות",
+      "gloss": "caman"
+    },
+    {
+      "surface": "נשיקות",
+      "gloss": "mutuw"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "jugu-tigi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:57:07.767774867Z",
+  "model": "glm-5.3"
+}

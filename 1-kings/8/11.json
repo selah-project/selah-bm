@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kabɔdɔ",
+      "rationale": "כבוד 'weight\/splendor' kept as transliterated kabɔdɔ; 'glory' would flatten it"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "lit. 'from the face of the cloud'; rendered 'kunbɛɛfɛ' (in front of \/ because of)"
+    },
+    {
+      "kind": "addition",
+      "subject": "tun",
+      "rationale": "Bambara past marker supplied for the perfective sense"
+    }
+  ],
+  "translation": "Sarakalasebagaw ma se ka jon ka baara kɛ sarakalase la sigida tuma dɔw kunbɛɛfɛ, sabu Yawe kabɔdɔ tun ye ⟨את⟩ Yawe so fa ni.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cc2bed0f20128e20eb376f03c08b2396649cac15686ba256cd7ce849fef6cfbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/10-11.1791950416898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "se"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarakalasebagaw"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "ka jon"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ka baara kɛ sarakalase la"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kunbɛɛfɛ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "sigida tuma dɔw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabɔdɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe so"
+    },
+    {
+      "surface": "בית",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T04:00:16.899026267Z",
+  "model": "glm-5.3"
+}

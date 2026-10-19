@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jalo dɔɔnin",
+      "rationale": "חמת ye 'tasuma-jago \/ jalo' ye; שככה ye 'a doodɔnni' ye — a bɔli cogo bɛ Bambara nɔ na ni 'dɔɔnin' ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כון\/תלה",
+      "rationale": "Haman dilan-labɛnni yɛrɛ (הכין)kɔrɔda a yɛrɛ bolo — nisirili min bɔli a yɛrɛ kan, o ye kuma-jɛyɔrɔ ye min tɛ se ka tɔ Bamanankan na"
+    }
+  ],
+  "translation": "U ye ⟨את⟩ Haman bɔ jiri kan min ye a labɛn Mordekay kama; masakɛ ka jalo dɔɔnin.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "daa06d68644b642af66c1748e2054b59d3260f6174c588dae6be0fd615119595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/7\/9-10.1791945549682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "U ye … bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ye a labɛn"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekay kama"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ ka"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "dɔɔnin"
+    }
+  ],
+  "timestamp": "2026-10-14T02:39:09.683771469Z",
+  "model": "glm-5.3"
+}

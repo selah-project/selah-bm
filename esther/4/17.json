@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taara",
+      "rationale": "ויעבר ye 'ka tɛmɛ' kɔrɔ ye; nka nin yɔrɔ la, a bɔli ko 'ka taa' (ni Hɛburu tɛmɛsira tiɲɛ fɔ o ye)"
+    },
+    {
+      "kind": "addition",
+      "subject": "o kɔfɛ",
+      "rationale": "Bamanankan ka wale-jɛɲɔgɔn daɲɛ min bɛ Hɛburu ka w (and)序列dɔn o kɔfɛ, Hɛburu ma a fɔ ka da"
+    }
+  ],
+  "translation": "Mordekayi (Mordekayi) taara, o kɔfɛ a kɛra fɛn bɛɛ la minnu Estɛr (Estɛri) y'a ɲininkɛ a kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "6e71a439607a10edb43fa75f54b34f901436b59a24a2304d00f5ce4c7fa47d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/4\/17-17.1791945351605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "taara"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a kɛra"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "fɛn bɛɛ la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "y'a ɲininkɛ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estɛr"
+    }
+  ],
+  "timestamp": "2026-10-14T02:35:51.606032462Z",
+  "model": "glm-5.3"
+}

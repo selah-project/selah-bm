@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 7:15",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ninakili-kɔnɔmɔgɔ \/ bolo-yɛrɛ ye, a tɛ 'soul' (finikɛlan-jɔyɔrɔ) ye"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחנק",
+      "rationale": "kɔnɔbɔli-daɲɛ in bɛ Tanaki kɔnɔ yɔrɔ in de bɛɛ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ne ka kolow",
+      "rationale": "KJV y'a fɔ 'ne ka balo' ye; Heburukan kɔrɔ tiɲɛna ye kolow ye — 'saya ka ɲɛ ne yɛrɛ ta (kolow minnu bɛ tun ka tunun ne na)'"
+    }
+  ],
+  "translation": "O de kɔfɛ, ne ni y'i ta kɔnɔbɔli, saya ka ɲɛ ne ka kolow ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/7\/13-16.1791943334734.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבחר",
+      "gloss": "y'i ta"
+    },
+    {
+      "surface": "מחנק",
+      "gloss": "kɔnɔbɔli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ni"
+    },
+    {
+      "surface": "מות",
+      "gloss": "saya"
+    },
+    {
+      "surface": "מעצמותי",
+      "gloss": "ne ka kolow"
+    }
+  ],
+  "timestamp": "2026-10-14T02:02:14.736014868Z",
+  "model": "glm-5.3"
+}

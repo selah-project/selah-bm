@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Hebrew has no copula; the nominal sentence needs 'ye' in Bamanankan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "buru min tɛ yiri-minɛ ye",
+      "rationale": "matstot: 'bread without leaven' rather than one word — Bamanankan has no single word for unleavened bread"
+    },
+    {
+      "kind": "measurement",
+      "subject": "don tan-ni-duuru · don wolonwula",
+      "rationale": "verse fixes festival by day-count of the month"
+    }
+  ],
+  "translation": "Ni don tan-ni-duuru don kalo in na, a ye sumuya-don ye; don wolonwula kɔnɔ, buru min tɛ yiri-minɛ ye (matstot) bɛ dun.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "575a49fe91eaf36c2368c12bfdaaae61baab56121fdbe4122cf007e33e70c46b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/28\/17-20.1791927157943.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "ni … duuru"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "don"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kalo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "in"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sumuya-don"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "don (caman)"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buru min tɛ yiri-minɛ ye"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bɛ dun"
+    }
+  ],
+  "timestamp": "2026-10-13T21:32:37.943819207Z",
+  "model": "glm-5.3"
+}

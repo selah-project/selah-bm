@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew has no explicit subject for שם; the doer (Elohim, from v.2) is supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "קום",
+      "rationale": "'measuring line' (kutiri) vs LXX 'voice\/sound' (φθόγγος) — BSB follows LXX, Hebrew consonants favor line"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kutiri",
+      "rationale": "a measuring line spanning the whole earth — the heavens survey the world"
+    }
+  ],
+  "translation": "Dugukolo bɛɛ la, a ka kutiri bɛ na, a kumasenw bɛ jagow ka benkan na; tile la, ⟨a⟩ ye a ka dakoroko da u la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/19\/5-8.1791939807251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bɛ na"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kutiri"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "ani ... benkan na"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "jagow"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "a kumasenw"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "tile la"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ye ... da"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "dakoroko"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:27.252113135Z",
+  "model": "glm-5.3"
+}

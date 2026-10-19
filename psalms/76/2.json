@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bɛ",
+      "rationale": "נודע is a passive participle 'is known'; Bambara needs bɛ dɔn"
+    }
+  ],
+  "translation": "Elohim bɛ dɔn Yahuda (Yahudaya) kɔnɔ, Israyɛl kɔnɔ a tɔgɔ ka bon.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/76\/1-4.1791940671152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "bɛ dɔn"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yahuda kɔnɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israyɛl kɔnɔ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ka bon"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a tɔgɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:17:51.153385183Z",
+  "model": "glm-5.3"
+}

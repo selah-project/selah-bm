@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 22:8",
+  "book": "2-kings",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויקראהו",
+      "rationale": "Hebrew 'he called\/called-aloud it' — here 'he read it aloud'; Bambara renders 'a y'a karan' (he read it)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפן",
+      "rationale": "Shafan is also the Hebrew word for hyrax; the name reads as an animal word, lost in Bambara."
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Final pronoun 'a' (he, Shafan) supplied for 'he read it', Hebrew suffix -הו carries it."
+    }
+  ],
+  "translation": "Chilkiyahu (Hilkiya), sarakalasebaga baanin, y'a fɔ Shafan (Safan), sebenbaga ma ko: Tora ⟨את⟩ sɛbɛn nin m'un ye Yawe so kɔnɔ. Chilkiyahu y'a di Shafan ma, a y'a karan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "35e4db00ed53119f8f7b4128e18f1a2f7e41d2e83e6d9ba1a0c05c3d8826ef21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/22\/8-8.1791950657245.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "y'a fɔ"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilkiyahu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "baanin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "sebenbaga"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sɛbɛn"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "m'un ye"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "so kɔnɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "y'a di"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sɛbɛn nin"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "sɛbɛn nin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "a y'a karan"
+    }
+  ],
+  "timestamp": "2026-10-14T04:04:17.246503265Z",
+  "model": "glm-5.3"
+}

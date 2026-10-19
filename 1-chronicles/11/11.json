@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 11:11",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "count",
+      "rationale": "explicit numbering: three hundred slain at one stroke"
+    },
+    {
+      "kind": "crux",
+      "subject": "השלושים",
+      "gloss": "'the Thirty' vs KJV 'the captains'; Chronicles writes the noun 'thirty', 2 Sam 23:8 differs"
+    },
+    {
+      "kind": "crux",
+      "subject": "300 vs 800",
+      "rationale": "2 Samuel 23:8 gives 800 for the parallel figure — famous numeric discrepancy"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lansan",
+      "rationale": "חנית rendered with the common lance word; no native Bambara spear term in the fixed table"
+    }
+  ],
+  "translation": "Olu ye gigibɛrɛw ka jate ye minnu bɛ Dawida bolo: Yashobeam (Yashobeam), Chakmoni (Chakmoni) denkɛ, ogow ye batɔn-ni-muganw tigɛ ye; a ye ⟨את⟩ a lansan lanmin sanfɛ, kɛlɛkɛ saba-kɛmɛtanna minnu bɔngera, wale kelen na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1354ac7c1c1430906e4b2bc7ab8401232cc4fa9143bf634df1cad654c1633e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/11\/9-12.1791947763288.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "olu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "jate"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "gigibɛrɛw ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawida bolo"
+    },
+    {
+      "surface": "ישבעם",
+      "gloss": "Yashobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "חכמוני",
+      "gloss": "Chakmoni ta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tigɛ"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "batɔn-ni-muganw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ogow"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "ye ... lanmin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lansan (a spear)"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "a lansan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "saba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kɛmɛ ... kɛmɛtanna"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "minnu bɔngera"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "wale kɔnɔ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kelen na"
+    }
+  ],
+  "timestamp": "2026-10-14T03:16:03.289483214Z",
+  "model": "glm-5.3"
+}

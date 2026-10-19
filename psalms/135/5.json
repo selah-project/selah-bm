@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye ... ye",
+      "rationale": "Bamanankan ye copula wajibiya, Heburukan ma a sɔrɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "batofɛnw",
+      "rationale": "אלההים jɔyɔrɔ in na, a ye diinɛ wɛrɛw ka batofɛnw ye, Ala tiɲɛnw tɛ o ye"
+    }
+  ],
+  "translation": "Sabu ne dɔnna ko Yawe ye bonba ye, ani ko an ka Matigi ka ɲɛ bɛ batofɛnw bɛɛ la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/135\/5-8.1791941798137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "dɔnna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bonba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "an ka Matigi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bɛɛ la"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "batofɛnw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:36:38.138374294Z",
+  "model": "glm-5.3"
+}

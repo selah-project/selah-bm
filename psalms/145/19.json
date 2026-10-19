@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רצון יראיו יעשה",
+      "rationale": "'A bɛ siranbagaw ka bɛɛ wiliya' walima 'a bɛ siranbagaw ka bɛɛ-ɔfɛn di'; an ta fɔlɔ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yɛlɛma-kan",
+      "rationale": "שועה ye ɲɛ-kɔrɔda-kowalen ye; 'kuma-kelen' dɔgɔya a la"
+    }
+  ],
+  "translation": "A bɛna a siranbagaw ka bɛɛ kɛ, a bɛna ⟨את⟩ u ka yɛlɛma-kan mɛn, ka u lasigi.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/145\/17-20.1791942015938.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "bɛɛ-kɛli"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "a siranbagaw"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bɛna … kɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u ka yɛlɛma-kan"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "u ka yɛlɛma-kan"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "bɛna … mɛn"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "bɛna u lasigi"
+    }
+  ],
+  "timestamp": "2026-10-14T01:40:15.939683229Z",
+  "model": "glm-5.3"
+}

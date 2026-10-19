@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 8:33",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ani",
+      "rationale": "Bamanankan needs 'ani' between listed sons; Hebrew has only vav"
+    },
+    {
+      "kind": "crux",
+      "subject": "Eshbaal",
+      "rationale": "Ishbosheth in 2 Sam — Chronicles keeps the -baal name; rendered Eshbaal as written"
+    }
+  ],
+  "translation": "Ner ye ⟨את⟩ Kish (Kisu)Den bɔ, Kish ye ⟨את⟩ Shaul (Sawula) den bɔ, Shaul ye ⟨את⟩ Yehonatan ani ⟨את⟩ Malkishu'a ani ⟨את⟩ Avinadav ani ⟨את⟩ Eshbaal denw bɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "fdb979566934f7093a7a4b825b49587a6b58e4faed35deb3c9a3c89dd0fd2d88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/8\/33-36.1791947681882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ye … den bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kish"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kish"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "Kish"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ye … den bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ye … den bɔ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Malkishu'a"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malkishu'a"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Malkishu'a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Eshbaal"
+    },
+    {
+      "surface": "אשבעל",
+      "gloss": "Eshbaal"
+    }
+  ],
+  "timestamp": "2026-10-14T03:14:41.883066023Z",
+  "model": "glm-5.3"
+}

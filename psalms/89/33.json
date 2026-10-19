@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פקד",
+      "rationale": "'Visiter' (פקד) signifie ici punir\/châtier, pas simplement rendre visite ; rendu par 'jira' (faire voir, sanctionner)."
+    },
+    {
+      "kind": "addition",
+      "subject": "u ka",
+      "rationale": "Suffixe possessif ם 'leur' rendu par le pronom Bambara 'u ka' (leur)."
+    }
+  ],
+  "translation": "N bɛna u ka bɔli jira ni cida ye, ani u ka jurumu ni bana-tilaw ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "66a31631c25911240f69df8a51dad56adad3076ac67ace5d2790e23ecf8f6193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/89\/33-36.1791940962111.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "n bɛna … jira"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ni cida ye"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "u ka bɔli"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "ni bana-tilaw ye"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "u ka jurumu"
+    }
+  ],
+  "timestamp": "2026-10-14T01:22:42.111489418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 41:13",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ninakili",
+      "rationale": "נפש here is breath\/vitality, not 'soul'; Bambara ninakili (breath) keeps the physical picture"
+    },
+    {
+      "kind": "crux",
+      "subject": "verse order",
+      "rationale": "Hebrew v.13 = English v.21; KJV\/ASV here show the garment\/bridle verse instead of the Hebrew text given"
+    }
+  ],
+  "translation": "A ninakili bɛ tabalaliw lasogo, ani lakulu bɛ bɔ a da la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "c30f1dea12210883d408ee492ac8a002a524d8612a35025de15d1a8ec7781d95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/41\/13-16.1791944453020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "a ninakili"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "tabalaliw"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "bɛ lasogo"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "ani lakulu"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "a da la"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bɛ bɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T02:20:53.021115422Z",
+  "model": "glm-5.3"
+}

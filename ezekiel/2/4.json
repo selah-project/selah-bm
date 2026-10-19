@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 2:4",
+  "book": "ezekiel",
+  "lang": "bm",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara copula ye required before the predicate nominals; Hebrew has none"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ɲɛgigentigiw",
+      "rationale": "קשי פנים 'hard of face' kept literally as hard-face-ones (brazen-faced)"
+    },
+    {
+      "kind": "you",
+      "subject": "i na k'u ko",
+      "rationale": "command addressed to Ezekiel the nabi"
+    }
+  ],
+  "translation": "Ani denw ninw ye ɲɛgigentigiw ani dusukunsebagaw ye: ne b'i sanba ⟨את⟩ u ma; i na k'u ko: cogo nin na Adonay Yawe y'a fɔ ko:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2fa70f0dc9bac73f5fd46b045468bb0a495b2f46e4d916cb021c47c406292974",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/2\/1-4.1791936661164.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבנים",
+      "gloss": "Ani denw ninw"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "gigen"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "seba"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "b'i sanba"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "i"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i na k'u ko"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "u"
+    },
+    {
+      "surface": "כה",
+      "gloss": "cogo nin na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "y'a fɔ ko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-10-14T00:11:01.165853136Z",
+  "model": "glm-5.3"
+}

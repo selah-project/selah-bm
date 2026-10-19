@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mɔgɔ dɔ",
+      "rationale": "מפני כל 'from the face of any' rendered 'any man' following the sense of the ancient versions"
+    },
+    {
+      "kind": "substitution",
+      "subject": "segin",
+      "rationale": "ישוב 'turn back' rendered as retreat before a foe, keeping the movement sense"
+    }
+  ],
+  "translation": "Waraba — min ka se baganw bɛɛ la, a tɛ segin mɔgɔ dɔ ŋana;",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5ba659a815fddc98c6f0621f3ed4e490d576b74599bb019c3328570714bf770e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/30\/30-31.1791951293433.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "waraba"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "min ka se"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "baganw bɛɛ la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a tɛ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "segin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…ŋana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mɔgɔ dɔ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:53.433757028Z",
+  "model": "glm-5.3"
+}

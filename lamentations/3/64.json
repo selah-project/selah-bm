@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "bm",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תשיב",
+      "rationale": "Verb is 'turn back\/return'; rendered 'di' (give) with laseli to convey requital, losing the turning imagery."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Prayer of imprecation addressed directly to Yawe."
+    }
+  ],
+  "translation": "Yawe, i bɛ laseli di u ma, u bolo baaraw bɛ cogo min na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "df6ccbbaf5df2fe497ff6011edaa8819e8bcad35a6a879137c3f6b39a142de40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/lamentations\/3\/61-64.1791944882976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "i bɛ ... di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "laseli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "bɛ cogo min na"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "u bolo baaraw"
+    }
+  ],
+  "timestamp": "2026-10-14T02:28:02.980869892Z",
+  "model": "glm-5.3"
+}

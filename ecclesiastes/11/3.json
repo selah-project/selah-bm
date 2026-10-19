@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "bm",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "u",
+      "rationale": "pronoun added — Hebrew verb יריקו carries the subject in its suffix"
+    },
+    {
+      "kind": "hapax",
+      "subject": "יהוא",
+      "rationale": "Aramaic form of to-be, rare in the Tanakh, gives the clause its settled finality"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפול \/ שיפול",
+      "rationale": "fall repeated — where the tree falls, there it lies; the echo is kept by bɔra \/ bɔyɔrɔ"
+    }
+  ],
+  "translation": "Ni dɔgɔkunw bɛ sanji ye, u bɛ a to ⟨את⟩ dugukolo kan; ni jiri bɔra worodugu, walima sahelitigui, jiri min bɔyɔrɔ, o de bɛ yen.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/11\/1-4.1791945416116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "bɛ … ye"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "dɔgɔkunw"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "sanji"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "u bɛ a to"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "worodugu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walima"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "sahelitigui"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yɔrɔ"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "min bɔyɔrɔ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o de"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "bɛ yen"
+    }
+  ],
+  "timestamp": "2026-10-14T02:36:56.117950682Z",
+  "model": "glm-5.3"
+}

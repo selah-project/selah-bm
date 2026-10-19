@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "bm",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסיד\/תתחסד · תמים\/תתמם",
+      "rationale": "Each half mirrors root-for-root: the adjective returns as the verb — hesed-tigi\/hesed, tilennen\/wulilen-tiya; the paronomasia is kept by hyphenation."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גבור",
+      "gloss-note": "here 'one who rises upright' rather than the usual 'warrior' — parallel to תמים; some read 'hero, blameless one'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "גבור",
+      "rationale": "Common rendering is 'upright man\/hero'; the root גבר means strength — 'the strong one of integrity' also fits."
+    }
+  ],
+  "translation": "Ni hesed-tigi ye, i bɛ ye hesed kɛ; ni kanuya-tigi ye min bɛ ka wuli tilennen na, i bɛ ye wulilen-tiya ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8f07b2cb79a433c48c92e483c40875b02245073c53f0359983324413ae277383",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/22\/26-26.1791950382385.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hesed-tigi"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "i bɛ ye hesed kɛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "kanuya-tigi min bɛ ka wuli tilennen na"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tilennen"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "i bɛ ye wulilen-tiya ye"
+    }
+  ],
+  "timestamp": "2026-10-14T03:59:42.385583394Z",
+  "model": "glm-5.3"
+}

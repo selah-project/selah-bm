@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "misi muso",
+      "rationale": "הפרה ye misi muso ye — misi muso min ma bilala, KJV 'heifer'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרף\/ישרף",
+      "rationale": "infinitive ni finite cogo fila, kumasen daminɛ ni a laban bɛ tugu ɲɔgɔn na — tasuma-da taamasiyɛn"
+    },
+    {
+      "kind": "elision",
+      "subject": "על פרשה",
+      "rationale": "Hebrew fɔ ko 'ali kɔlɔ sanfɛ'; YLT de ye 'besides' suguya dɔn"
+    }
+  ],
+  "translation": "A bɛna ⟨את⟩ misi muso in tasuma da a ɲɛnata la: ⟨את⟩ a diagolen ni ⟨את⟩ a sogo ni ⟨את⟩ a joli, ka a kɔlɔ sanfɛ, a bɛ tasuma da.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e70f3ed59731a28b354395c39521a65554b80d7f87bfc453e077213f9b29416e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/19\/5-8.1791927177566.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "bɛna tasuma da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misi muso in"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "misi muso in"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "a ɲɛnata la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a diagolen"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "a diagolen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "a sogo"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "a sogo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "a joli"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "a joli"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanfɛ"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "a kɔlɔ"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "bɛ tasuma da"
+    }
+  ],
+  "timestamp": "2026-10-13T21:32:57.567304951Z",
+  "model": "glm-5.3"
+}

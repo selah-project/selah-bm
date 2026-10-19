@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הגיון",
+      "rationale": "Higgaion is a rare term, a murmuring\/resounding notation; rendered as compound 'kunbɛ-misɛnɛ' to keep the picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "asor",
+      "rationale": "עשור is literally 'ten' — a ten-stringed instrument; the number is kept inside the compound."
+    },
+    {
+      "kind": "alternative",
+      "subject": "עלי הגיון בכנור",
+      "rationale": "Read as 'with a solemn sound upon the harp' or 'upon the higgaion with the harp'; I joined murmur and harp instrumentally."
+    }
+  ],
+  "translation": "Kisɛkan fila-ɲɔgɔn farali kan, ani kɔnɔfaradugubali kan, kunbɛ-misɛnɛ fɛ, kɔnɔnfofoli la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/92\/1-4.1791941094227.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "kisɛkan fila-ɲɔgɔn farali"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ani … kan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "kɔnɔfaradugubali"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "kunbɛ-misɛnɛ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kɔnɔnfofoli la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:24:54.228438012Z",
+  "model": "glm-5.3"
+}

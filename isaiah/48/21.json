@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 48:21",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Yawe",
+      "rationale": "Hebrew verb has no explicit subject; name supplied to name the one who led them"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צור",
+      "rationale": "rock repeated in both halves of the verse; Bambara keeps kilala twice to hold the echo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "suɲɔyɔrɔw",
+      "rationale": "חרבות literally 'drought-places', rendered with the plain Bambara word for deserts"
+    }
+  ],
+  "translation": "Olu ma kanga ni Yawe y'u minna suɲɔyɔrɔw kɔnɔ; ji, a ye kilala la ji diw u ye; a ye kilala tigɛ, ji di wara.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8666b08b1aa6b119c564b64d5c9d0423cb79acd205d160858571bdb52dc137c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/48\/21-22.1791934386574.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "צמאו",
+      "gloss": "kanga"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "suɲɔyɔrɔw kɔnɔ"
+    },
+    {
+      "surface": "הוליכם",
+      "gloss": "y'u minna"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "kilala la"
+    },
+    {
+      "surface": "הזיל",
+      "gloss": "a y'a diw"
+    },
+    {
+      "surface": "למו",
+      "gloss": "u ye"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "a ye ... tigɛ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kilala"
+    },
+    {
+      "surface": "ויזבו",
+      "gloss": "ji di wara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ji"
+    }
+  ],
+  "timestamp": "2026-10-13T23:33:06.575598968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צור",
+      "rationale": "'rock' (JPS, YLT) vs 'strength' (KJV smoothing); Bambara keeps the rock picture kabakurun."
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Bambara predicate construction ye … ye supplies a copula Hebrew omits."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sogo",
+      "rationale": "שאר is flesh-of-the-body, swelling flesh; rendered with plain 'sogo'."
+    }
+  ],
+  "translation": "Ne ka sogo ni ne ka dusukun bɛ banna; nka Elohim de ye ne ka dusukun ka kabakurun ye ani ne ka fan, waati bɛɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/73\/25-28.1791940723447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "bɛ banna"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "ne ka sogo"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "ani ne ka dusukun"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kabakurun"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ne ka dusukun ka"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "ani ne ka fan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waati bɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:18:43.448291284Z",
+  "model": "glm-5.3"
+}

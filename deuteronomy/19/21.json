@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש ye ni \/ kunbalo ye — a kɔrɔ ka surun ni ma, a tɛ 'soul' ye Tubabukan kɔrɔ la"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש בנפש...רגל ברגל",
+      "rationale": "fitinin-don ko bɛɛ kelen ye — X bɛ X la — jɔcogo sugu min bɛ Bamanankan na fana"
+    },
+    {
+      "kind": "you",
+      "subject": "anw \/ sariya-fɔtɔ ɲɛmɔgɔ",
+      "rationale": "dɔgɔtɔrɔya kɔrɔta — i ye kuma kɛ masakɛya kɔnɔ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ɲamara",
+      "rationale": "חוס ka kɔrɔ ye kunafoni\/siran dɔ ye — 'kana hakili sɔrɔ' tun bɛ se kɛ"
+    }
+  ],
+  "translation": "I ka ɲɛda kana ɲamara; ni bɛ ni la, ɲɛ bɛ ɲɛ la, da bɛ da la, bolo bɛ bolo la, sen bɛ sen la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "edbabdf5da33fdfb17351659669753377b0ecdf07b7c498ce0af80c7dc64517b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/19\/21-21.1791927952842.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ka ɲamara"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "i ka ɲɛda"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "bɛ ni la"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "bɛ ɲɛ la"
+    },
+    {
+      "surface": "שן",
+      "gloss": "da"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "bɛ da la"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bɛ bolo la"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "bɛ sen la"
+    }
+  ],
+  "timestamp": "2026-10-13T21:45:52.843070837Z",
+  "model": "glm-5.3"
+}

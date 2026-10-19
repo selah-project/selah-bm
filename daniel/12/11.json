@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 12:11",
+  "book": "daniel",
+  "lang": "bm",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saraka-tilennen",
+      "rationale": "התמיד is 'the continual (offering)' — the noun 'sacrifice' is supplied from context"
+    },
+    {
+      "kind": "idiom",
+      "subject": "shikkuts shomem",
+      "rationale": "'abomination making-desolate' rendered as compound ɲɛ-fin-jɔbagatɔ; literal 'stunning-idol' picture kept in pieces"
+    },
+    {
+      "kind": "measurement",
+      "subject": "1290 days",
+      "rationale": "the verse counts a fixed number of days from a fixed event"
+    }
+  ],
+  "translation": "Ani waati min na saraka-tilennen (tamid) bɛ bɔ, ani ka ⟨a⟩ ɲɛ-fin-jɔbagatɔ bila, sonw don: kɛmɛ tan, mɔɔ fila, ni seginɛ ni duru.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "b44b2635239d137cacfac27e5e6baf129b38b4cf47cc9b3e39024b5e9739bb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/12\/9-12.1791946265247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעת",
+      "gloss": "ani waati min na"
+    },
+    {
+      "surface": "הוסר",
+      "gloss": "bɛ bɔ"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "saraka-tilennen"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "ani ka bila"
+    },
+    {
+      "surface": "שקוץ",
+      "gloss": "ɲɛ-fin"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "jɔbagatɔ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sonw"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kɛmɛ tan"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mɔɔ fila"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "seginɛ ni duru"
+    }
+  ],
+  "timestamp": "2026-10-14T02:51:05.248444958Z",
+  "model": "glm-5.3"
+}

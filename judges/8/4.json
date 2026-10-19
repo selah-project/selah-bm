@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "bm",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עיפים ורדפים",
+      "rationale": "A pair of participles 'weary yet pursuing' — repetition of -ים endings; Bamanankan has no echo pair, a ”nka” (yet) carries the tension."
+    },
+    {
+      "kind": "addition",
+      "subject": "nka",
+      "rationale": "Bamanankan needs a conjunction where Hebrew juxtaposes the participles without one."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עיפים",
+      "rationale": "Literally 'languid, exhausted' — glossed ɲɛnamayalenw (tired ones), keeping the physical state, not fainting."
+    }
+  ],
+  "translation": "Gidɔn (Gideɔn) na Yarden (Jɔrɔdan) ma, a tɛmɛra, ale ni mɔgɔ kɛmɛ saba minnu bɛ a ni ɲɔgɔn ye — ⟨⟨את⟩⟩ — ɲɛnamayalenw nka u tugen bɛ bɔnɛ-ɲini na.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8cb24a90c19c03a1163c489028c4f2063d4e0d22523e62e068f29f7c8218c5f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/8\/4-4.1791950178577.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "na"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidɔn"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Yarden ma"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tɛmɛra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ale"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "saba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kɛmɛ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mɔgɔ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minnu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ni ale ye",
+      "marks": "a ni ɲɔgɔn"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "ɲɛnamayalenw"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "tugen bɛ bɔnɛ-ɲini na"
+    }
+  ],
+  "timestamp": "2026-10-14T03:56:18.577638705Z",
+  "model": "glm-5.3"
+}

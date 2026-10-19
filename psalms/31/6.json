@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bɛ to",
+      "rationale": "אפקיד: 'ka to' (ka bɔ bolo) walima 'ka masini' (deposit, muster) — paqad daɲɛ ka cogoya caman ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nin",
+      "rationale": "רוח ye fiɲɛ\/nin ye, 'spirit' tiŋɛtigi-maana tɛ a la"
+    }
+  ],
+  "translation": "Ne ka nin bɛ to i bolo la; i ye ⟨את⟩ ne fula, Yawe, tiɲɛ Ala.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "321aab05eaa32e5b93f1892e7168168f80579fbe726107436a18f8a237a6a21d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/31\/5-8.1791939920189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "i bolo la"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "bɛ to"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ne ka nin"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "i ye fula"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiɲɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:05:20.189861355Z",
+  "model": "glm-5.3"
+}

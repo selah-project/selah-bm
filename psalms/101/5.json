@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אצמית",
+      "rationale": "'to silence\/destroy' — KJV 'cut off', BSB 'put to silence', Geneva 'destroy'; rendered sisi (silence\/destroy)."
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Relative pronoun supplied for Hebrew participle construction."
+    },
+    {
+      "kind": "elision",
+      "subject": "ne tɛ se",
+      "rationale": "Hebrew stops at 'I cannot' — the verb 'endure' is implied and left implicit."
+    }
+  ],
+  "translation": "Mɔgɔ min bɛ a tera masasi da nɔɔrɔ la, ne bɛ ⟨אתו⟩ sisi; min bɛ jɔ ɲɛ la ani min dusukun bonya, ⟨אתו⟩ ne tɛ se.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/101\/5-8.1791941239798.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "masasidala"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nɔɔrɔ la"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a tera"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨אתו⟩",
+      "marks": "masasidala (mɔgɔ min bɛ masasi da)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "jɔla"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ɲɛ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "bonya"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dusukun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "min bɛ jɔ ɲɛ la ani min dusukun bonya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-10-14T01:27:19.798860436Z",
+  "model": "glm-5.3"
+}

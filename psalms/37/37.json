@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Hebrew lacks a copula between 'end' and 'peace'; Bambara needs 'ye'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאיש שלום",
+      "rationale": "a man of peace vs 'that man' (KJV reads the suffix back to v.37); JPS\/BSB keep 'man of peace'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kɔlɔsi … i ka … ye",
+      "rationale": "paired imperatives address the hearer directly"
+    }
+  ],
+  "translation": "Kɔlɔsi mɔgɔ tilennen, i ka mɔgɔ yɛrɛma ye, sabu hɛrɛ-mɔgɔ ka laban ye hɛrɛ ⟨ye⟩.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "10ffa8087773e2267d981a8ce2b7177710c8479a881122a141ddfcc64e99a39b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/37\/37-40.1791940121892.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "kɔlɔsi"
+    },
+    {
+      "surface": "תם",
+      "gloss": "mɔgɔ tilennen"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i ka … ye"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "mɔgɔ yɛrɛma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "laban"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "hɛrɛ-mɔgɔ ka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hɛrɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:41.893036737Z",
+  "model": "glm-5.3"
+}

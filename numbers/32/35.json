@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Atrot-Shofan",
+      "rationale": "KJV\/Genève split 'Ataroth, Shophan' as two places; ASV\/JPS read one name — one place, construct-bound."
+    }
+  ],
+  "translation": "Ani ⟨את⟩ Atrot-Shofan, ani ⟨את⟩ Yazer, ani Yogbeha.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "669d871f38122e4b2b85b91ca15e6edb17ca0fdbe6d9d49bce09b2b3a618654d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/32\/33-36.1791927336021.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Atrot-Shofan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atrot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Shofan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ani ⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "ani Yogbeha"
+    }
+  ],
+  "timestamp": "2026-10-13T21:35:36.023018380Z",
+  "model": "glm-5.3"
+}

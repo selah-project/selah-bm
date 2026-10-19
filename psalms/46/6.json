@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפנות בקר",
+      "rationale": "'at the turning of morning' — KJV 'right early', JPS 'at the approach of morning'; temporal idiom"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bila",
+      "rationale": "תמוט 'be shaken\/moved' rendered 'not slip\/stumble'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Hebrew feminine suffix 'her' (the city) supplied as bracketed pronoun"
+    }
+  ],
+  "translation": "Elohim bɛ ⟨a⟩ kɔnɔ, a tɛ bila; Elohim bɛna dɛnmɔgɔtɔɔ sɔgɔma fɔlɔ dɛn o yamaruya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/46\/5-8.1791940216712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "bɛ ⟨a⟩ kɔnɔ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tɛ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "bila"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "bɛna dɛn o yamaruya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "sɔgɔma fɔlɔ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sɔgɔma"
+    }
+  ],
+  "timestamp": "2026-10-14T01:10:16.713654147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kana",
+      "rationale": "Hebrew jussive has no explicit 'may'; the optative particle supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gɛlɛya",
+      "rationale": "צרה literally 'tightness\/narrowness'; rendered 'trouble'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kana i jɔ sanfɛ",
+      "rationale": "ישגבך literally 'set you inaccessibly high'; KJV 'defend thee' reads safety, YLT 'set on high' keeps the height"
+    },
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "direct address to the king (or the worshiper) being blessed"
+    }
+  ],
+  "translation": "Yawe kana i jaabi gɛlɛya don na; Yakubu (Yakuba) Ala tɔgɔ kana i jɔ sanfɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/20\/1-4.1791939798109.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "kana i jaabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "don na"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "gɛlɛya"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "kana i jɔ sanfɛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tɔgɔ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakubu (Yakuba)"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:18.110062423Z",
+  "model": "glm-5.3"
+}

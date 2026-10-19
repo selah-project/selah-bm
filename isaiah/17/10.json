@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 17:10",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "i",
+      "rationale": "Direct second-person feminine address to Israel\/Jacob, accusing: 'you forgot.'"
+    },
+    {
+      "kind": "addition",
+      "subject": "dugukolo la",
+      "rationale": "Hebrew תזרענו has no explicit 'ground'; Bambara 'bilala dugukolo la' supplies the planting place."
+    }
+  ],
+  "translation": "Sabu i tamasira i ka laseli Ala Elohim kan, ani i ka mɛgɛ Kulu, i ma a fɔ; o sabu de la, i bɛ jiriden nɔgɔɲɔgɔnw bilala, ani dɔgɔkun min ye taboloya ye, i bɛ a bilala dugukolo la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "53bd39ee18239dcbb230b601ed0b7c7b6f74d41f8ade89c8b49155072f1d59bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/17\/9-12.1791933758807.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "i tamasira"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "i ka laseli Ala"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ani Kulu"
+    },
+    {
+      "surface": "מעזך",
+      "gloss": "i ka mɛgɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "i ma a fɔ"
+    },
+    {
+      "surface": "על",
+      "gloss": "o kan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o la"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "i bɛ … bilala"
+    },
+    {
+      "surface": "נטעי",
+      "gloss": "jiridenw"
+    },
+    {
+      "surface": "נעמנים",
+      "gloss": "nɔgɔɲɔgɔnw"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "ani dɔgɔkun"
+    },
+    {
+      "surface": "זר",
+      "gloss": "min ye taboloya ye"
+    },
+    {
+      "surface": "תזרענו",
+      "gloss": "i bɛ a bilala dugukolo la"
+    }
+  ],
+  "timestamp": "2026-10-13T23:22:38.809971301Z",
+  "model": "glm-5.3"
+}

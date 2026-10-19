@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 6:2",
+  "book": "ezra",
+  "lang": "bm",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בבירתא",
+      "rationale": "'masa so' for Aramaic palace-fortress; BSB 'fortress' vs KJV 'palace'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מדינתה",
+      "rationale": "'mara' (province) — the suffix -ה 'its' ('the province of it, Media') is absorbed."
+    }
+  ],
+  "translation": "Ani a ye sɔrɔ Akhmata (Egbatana), masa so kɔnɔ min bɛ Madi (Medi) mara kɔnɔ: sɛbɛnkurun kelen, ani a kɔnɔ a sɛbɛnna nin cogo la — lakadali sɛbɛn:",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "595d45e283f6e0427f6dd682868906ac09686f58d9c281b391173641c1fc8856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/6\/1-4.1791946559709.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשתכח",
+      "gloss": "ani a ye … sɔrɔ"
+    },
+    {
+      "surface": "באחמתא",
+      "gloss": "Akhmata (Egbatana)"
+    },
+    {
+      "surface": "בבירתא",
+      "gloss": "masa so kɔnɔ"
+    },
+    {
+      "surface": "די",
+      "gloss": "min"
+    },
+    {
+      "surface": "במדי",
+      "gloss": "Madi (Medi)"
+    },
+    {
+      "surface": "מדינתה",
+      "gloss": "mara"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "sɛbɛnkurun"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "kelen"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "nin cogo la"
+    },
+    {
+      "surface": "כתיב",
+      "gloss": "sɛbɛnna"
+    },
+    {
+      "surface": "בגוה",
+      "gloss": "a kɔnɔ"
+    },
+    {
+      "surface": "דכרונה",
+      "gloss": "lakadali sɛbɛn"
+    }
+  ],
+  "timestamp": "2026-10-14T02:55:59.710925627Z",
+  "model": "glm-5.3"
+}

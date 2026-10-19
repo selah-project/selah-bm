@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dɛrɛmusow",
+      "rationale": "אילות: 'doe\/hinds' (KJV\/JPS) vs 'oaks' from אילון (YLT\/BSB); consonantal ambiguity."
+    },
+    {
+      "kind": "crux",
+      "subject": "כלו אמר כבוד",
+      "rationale": "'in his temple all say Glory' vs 'in his temple every one of his glory speaketh' — whose speech, and what is said."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול יהוה",
+      "gloss": "refrain 'voice of Yawe' seven times in the psalm; the repetition itself is the storm's rhythm, only partly carried by 'kan'."
+    }
+  ],
+  "translation": "Yawe ka kan bɛ dɛrɛmusow balandi, ani a bɛ jiraw ka u yɛlɛmabɔ; a ka so kɔnɔ, bɛɛ bɛ fɔ ko: Kaboya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/29\/9-11.1791939834749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "balandi"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "dɛrɛmusow"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "ka yɛlɛmabɔ"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "jiraw"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "a ka so kɔnɔ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bɛ fɔ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kaboya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:54.749923141Z",
+  "model": "glm-5.3"
+}

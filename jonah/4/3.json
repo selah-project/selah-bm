@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ni",
+      "rationale": "נפש is life-force\/breath, not an immortal soul; rendered 'ne ni' (my life)."
+    },
+    {
+      "kind": "addition",
+      "subject": "kɛɲɛ bɛ",
+      "rationale": "Hebrew has adjective טוב 'good' with no verb; Bambara requires a predicate."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "imperative direct address — Jonah asks Yawe to take his life."
+    }
+  ],
+  "translation": "Sisan, Yawe, ta awa ⟨את⟩ ne ni ne bolo, sabu ne kɛɲɛ bɛ ka ne sa ko ɲe ne ka balo.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "bbeda3bd2ad668cc58b89b610bf315bc141b08f6c66f7a62f708ca6adcc8bf9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jonah\/4\/1-4.1791938690225.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sisan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "awa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne ni (ne ni ne bolo)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne ni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ne bolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kɛɲɛ bɛ"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ne sa"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "ne ka balo"
+    }
+  ],
+  "timestamp": "2026-10-14T00:44:50.226999274Z",
+  "model": "glm-5.3"
+}

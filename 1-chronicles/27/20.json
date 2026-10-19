@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 27:20",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kan",
+      "rationale": "Lamed-prefix on לחצי and לבני rendered with 'kan'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jamana",
+      "rationale": "שבט literally a staff\/scion; rendered 'jamana' (territory\/people) as tribal sense"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tribal roster",
+      "rationale": "List of officers continues, including the half-tribe division of Menashe"
+    }
+  ],
+  "translation": "Efrayim denw kan: Hoshea, Azazyahu denkɛ; Menashe jamana faaba kan: Yoɛl, Pedyahu denkɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9685c283049b8007409740e2d476aa15e75dce27ebe43c6e308cb3092a3f408f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/27\/17-20.1791948396153.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "denw kan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "עזזיהו",
+      "gloss": "Azazyahu"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "faaba kan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "jamana"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoɛl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "denkɛ"
+    },
+    {
+      "surface": "פדיהו",
+      "gloss": "Pedyahu"
+    }
+  ],
+  "timestamp": "2026-10-14T03:26:36.154328109Z",
+  "model": "glm-5.3"
+}

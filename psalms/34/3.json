@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "n ni",
+      "rationale": "נפש ye 'ninakili\/balo-kɛlɛko' kɔrɔ; 'ni' ye a lamini dɔgɔnen ye"
+    },
+    {
+      "kind": "invitation",
+      "subject": "mɔgɔ moyaw",
+      "rationale": "laji bɛ wele mɔgɔ moyaw ma ka mɛn ka diya"
+    }
+  ],
+  "translation": "N ni bɛ Yawe la kabɔ; mɔgɔ moyaw bɛ a mɛn ka diya.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/34\/1-4.1791940015323.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe la"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "bɛ kabɔ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n ni"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bɛ mɛn"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "mɔgɔ moyaw"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ka diya"
+    }
+  ],
+  "timestamp": "2026-10-14T01:06:55.324016326Z",
+  "model": "glm-5.3"
+}

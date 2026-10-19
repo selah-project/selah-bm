@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 1:29",
+  "book": "proverbs",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Bamanankan needs possessive 'ka' between 'Yawe' and 'siran'; Hebrew construct bond carries it alone"
+    },
+    {
+      "kind": "elision",
+      "subject": "תחת כי",
+      "rationale": "double causal particle rendered once as 'sabu'; literal 'under\/because that' is awkward"
+    }
+  ],
+  "translation": "Sabu u ye dɔnni tu, ani Yawe ka siran, u ma a bila.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "0c41701db9ab5611cab02817bd9fb2e782a9bd95944f7b90919316a05d450ebc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/1\/29-32.1791942101984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "u ye … tu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "dɔnni"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ani siran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "bila"
+    }
+  ],
+  "timestamp": "2026-10-14T01:41:41.985090483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "bm",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Moshe",
+      "rationale": "The people address Moshe directly, asking him to mediate and that Elohim not speak to them."
+    },
+    {
+      "kind": "elision",
+      "subject": "פן",
+      "rationale": "'lest' rendered with a longer Bambara purpose-clause; the single Hebrew particle expands."
+    }
+  ],
+  "translation": "U ye Moshe (Musa) ko: I y'aw fɔ an ye, an bɛ mɛn; kana kuma an ye kɔnɔ, Elohim, ani aw bɛna an bali ka an sa.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/20\/17-20.1791926870091.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "u ye … ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ye) … ye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Musa)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "fɔ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "i"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "an ye"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "an bɛ mɛn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "an ye kɔnɔ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ani aw bɛna an bali ka"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "an sa"
+    }
+  ],
+  "timestamp": "2026-10-13T21:27:50.093224872Z",
+  "model": "glm-5.3"
+}

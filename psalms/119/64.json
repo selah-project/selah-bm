@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד kept as hesed — covenant loyalty; single Bambara word (kanuya, ɲumanya) would each lose part."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yawe",
+      "rationale": "Direct petition to the Name: teach me your statutes."
+    },
+    {
+      "kind": "invitation",
+      "subject": "kalanne ne ye",
+      "rationale": "Imperative petition — the psalmist's recurring plea, a summons to be taught."
+    }
+  ],
+  "translation": "I ka hesed, Yawe, dugukolo bɛ a lanu; i ka sariyaw kalanne ne ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/61-64.1791941669701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "i ka hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "bɛ a lanu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dugukolo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i ka sariyaw"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kalanne ne ye"
+    }
+  ],
+  "timestamp": "2026-10-14T01:34:29.702178177Z",
+  "model": "glm-5.3"
+}

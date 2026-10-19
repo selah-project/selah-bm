@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "wolonwula kɛmɛ shekeli sanu",
+      "rationale": "Priced and weighed: six hundred shekels of gold stated by weight."
+    },
+    {
+      "kind": "crux",
+      "subject": "wolonwula kɛmɛ",
+      "rationale": "Chronicles 600 shekels vs 2 Samuel 24:24 fifty shekels of silver — famous count divergence."
+    }
+  ],
+  "translation": "Dawid (Dawuda) ye sanu shekeliw di Arnana (Ornan) ma yɔrɔ in na — jate ye wolonwula kɛmɛ ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "928737a46f07a8631d033b9545ebf962c6950f27276e7969288724f1fba6fb13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/21\/25-28.1791948218219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ye … di"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "Arnana ma"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yɔrɔ in na"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "shekeliw"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sanu"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "jate"
+    },
+    {
+      "surface": "שש",
+      "gloss": "wolonwula"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kɛmɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T03:23:38.220424210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ye⟩",
+      "rationale": "Bambara copula supplied for הוא האלהים, where Hebrew juxtaposes without a verb."
+    },
+    {
+      "kind": "elision",
+      "subject": "עוד",
+      "rationale": "'Still\/again' sense folded into the Bambara negative 'si tɛ yen'; no separate word."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Verse addresses Israel directly: 'you were shown.'"
+    }
+  ],
+  "translation": "I yɛrɛ, a bɔra i ye walasa k'i b'a dɔn ko Yawe, a ye Elohim ye; si tɛ yen a la nɔ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cfdeedfa4b2e5dc6cdec02ecb1a8524350bf5a06077d20111b4287955c9943dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/4\/33-36.1791927619080.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "i yɛrɛ"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "a bɔra i ye"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "walasa k'i b'a dɔn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si tɛ yen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "a la nɔ"
+    }
+  ],
+  "timestamp": "2026-10-13T21:40:19.082136013Z",
+  "model": "glm-5.3"
+}

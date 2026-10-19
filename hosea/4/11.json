@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "bm",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לב",
+      "rationale": "לב is heart\/mind\/will — 'dusukun' (liver-heart) is Bambara's seat of thought and feeling"
+    },
+    {
+      "kind": "crux",
+      "subject": "תירוש",
+      "rationale": "'must' (fresh grape juice) vs fermented wine; rendered 'diwɛn-kura' (new wine)"
+    }
+  ],
+  "translation": "Goloya ni diwɛn ni diwɛn-kura bɛ dusukun ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/4\/9-12.1791938099226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "goloya"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "diwɛn"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "diwɛn-kura"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bɛ ta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dusukun"
+    }
+  ],
+  "timestamp": "2026-10-14T00:34:59.227809997Z",
+  "model": "glm-5.3"
+}

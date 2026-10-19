@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 31:31",
+  "book": "numbers",
+  "lang": "bm",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ye fɔ",
+      "rationale": "צוה is 'command\/enjoin'; Bambara 'k'a to a ma' or 'laselila' were options — 'fɔ' keeps the plain speech-verb register of the Tanakh."
+    },
+    {
+      "kind": "addition",
+      "subject": "i ko min na",
+      "rationale": "Bambara requires an explicit complementizer chain where Hebrew uses the single particle כאשר."
+    }
+  ],
+  "translation": "Moshe (Musa) ni Elazara sarakalasebaga y'a kɛ i ko min na Yawe ye fɔ ⟨את⟩ Moshe.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "49ad611f8d320ac7fdb1d8727df9fe6c64af2dea47416f1259dcfa6efa4e2fa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/31\/29-32.1791927281252.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "y'a kɛ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sarakalasebaga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "i ko min na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ye fɔ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-13T21:34:41.253793506Z",
+  "model": "glm-5.3"
+}

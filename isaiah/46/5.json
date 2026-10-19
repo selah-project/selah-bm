@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "bm",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "an",
+      "rationale": "Hebrew ונדמה has no explicit pronoun; 'we' supplied from the plural verbs"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונדמה",
+      "rationale": "'that we may be like' (KJV\/JPS) vs 'that he (the idol) may be likened'; both read the same verb"
+    },
+    {
+      "kind": "you",
+      "subject": "aw",
+      "rationale": "Yawe addresses Israel in second person plural"
+    },
+    {
+      "kind": "invitation",
+      "subject": "למי",
+      "rationale": "rhetorical question summoning the hearer to answer"
+    }
+  ],
+  "translation": "Aw bɛ ne filɛ ni min ye? aw bɛ ne ni min kɛ kelen? aw bɛ ne ɲɛfɔ, walasa ⟨an⟩ ka filɛ?",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "f63118e8af6f796429a26da125c4abd1e3690d88d43cc14b87e4d806dbf18030",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/46\/5-8.1791934457526.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "ni min ye"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "aw bɛ ne filɛ"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "aw bɛ ne ni min kɛ kelen"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "aw bɛ ne ɲɛfɔ"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "walasa an ka filɛ"
+    }
+  ],
+  "timestamp": "2026-10-13T23:34:17.527242743Z",
+  "model": "glm-5.3"
+}

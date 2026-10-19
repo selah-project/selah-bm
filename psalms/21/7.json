@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dɔnniya",
+      "rationale": "שמחה is festival-glee; dɔnniya (joy) covers the range, the festival shade is lost."
+    },
+    {
+      "kind": "crux",
+      "subject": "ברכות",
+      "rationale": "'You set him blessings' — a construct-like boldness: king becomes blessing itself (KJV 'most blessed for ever') vs 'you set blessings upon him'; the literal 'ka kɛ dubaw ye' keeps the bold form."
+    }
+  ],
+  "translation": "Sabu i bɛ a bila ka kɛ dubaw ye waati bɛɛ fo; i bɛ diya di a ma ni dɔnniya ye, ⟨את⟩ i ka ɲɛdaw la.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/21\/5-8.1791939824371.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "i bɛ a bila"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ka kɛ dubaw ye"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "waati bɛɛ fo"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "i bɛ diya di a ma"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ni dɔnniya ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ka ɲɛdaw"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i ka ɲɛdaw"
+    }
+  ],
+  "timestamp": "2026-10-14T01:03:44.372449751Z",
+  "model": "glm-5.3"
+}

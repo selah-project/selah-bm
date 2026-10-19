@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lakika",
+      "rationale": "תשועה is rescue\/deliverance; rendered 'your rescue'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסיתי\/כחדתי",
+      "rationale": "parallel 'covered'\/'concealed' pair; Bambara repeats one verb dogo, losing the synonym variation"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "object pronoun supplied where Hebrew leaves the object implicit"
+    }
+  ],
+  "translation": "I ka tiɲɛɲɛnta, n ma a dogo n dusukun kɔnɔ; i ka tiɲɛ-nya ani i ka lakika, n ye ⟨o⟩ fɔ; n ma dogo i ka hesed ani i ka tiɲɛ jama ba ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/40\/9-12.1791940128649.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "i ka tiɲɛɲɛnta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n ma"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "dogo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kɔnɔ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "n dusukun"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "i ka tiɲɛ-nya"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "i ka lakika"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "n ye fɔ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n ma"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "dogo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "i ka hesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "i ka tiɲɛ"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "jama ba ma"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-14T01:08:48.650392917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עניתי",
+      "rationale": "Lemma ענה can mean 'answer' or 'be afflicted'; most versions take 'I was greatly afflicted', but 'I answered greatly' is possible."
+    },
+    {
+      "kind": "substitution",
+      "subject": "duŋɔra",
+      "rationale": "Hebrew עניתי 'I was afflicted' rendered with 'duŋɔ' (be ill\/oppressed), the nearest Bamanankan picture of affliction."
+    },
+    {
+      "kind": "alternative",
+      "subject": "sabu",
+      "rationale": "כי read as causal 'because'; JPS reads it as concessive 'even when I spoke'."
+    }
+  ],
+  "translation": "Ne sinna, sabu ne bɛ kuma: anwu ne, ne tun duŋɔra kosɛbɛ.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ae42fb3227c048238160b2f0388b798661bc3a8745bac96c3f1b06c1094a8c3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/116\/10-11.1791951250367.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "ne sinna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ne bɛ kuma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anwu ne"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ne tun duŋɔra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosɛbɛ"
+    }
+  ],
+  "timestamp": "2026-10-14T04:14:10.367419661Z",
+  "model": "glm-5.3"
+}

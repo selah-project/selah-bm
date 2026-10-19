@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על און פלט למו",
+      "rationale": "KJV\/ASV b'a jira ɲininkili ye ('yala u bɛna bɔ wa?'), JPS ka a fɔ ka kɛ dɔgɔtɔrɔko ye ('fiyɛn kama, u bila bɔ'); ne ye ɲininkili ta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yiɲɛ",
+      "rationale": "אף ye nɔmun ye kokɔrɔ; a bɛ jira yiɲɛ ye — 'yiɲɛ kɔnɔ' bɛ Heburu ka daɲɛ-jɔcogo mara"
+    }
+  ],
+  "translation": "Yala u bɛna bɔ fiyɛn la wa? I yiɲɛ kɔnɔ, i bɛ siyaw bila duguma, Elohim.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "ecc13b0c2336edb4420eb17561ef44c6826d10fcfb9e63b65f7c38429f3da8bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/56\/5-8.1791940367402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "<⟨bɔ⟩> fiyɛn la"
+    },
+    {
+      "surface": "און",
+      "gloss": "fiyɛn"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "u"
+    },
+    {
+      "surface": "באף",
+      "gloss": "i yiɲɛ kɔnɔ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "siyaw"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "bila duguma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T01:12:47.403460267Z",
+  "model": "glm-5.3"
+}

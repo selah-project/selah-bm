@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "bm",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kakan-duguw",
+      "rationale": "הבצרות lit. 'the fortified ones' (from בצר, to be inaccessible by height); rendered 'walled cities'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Bamanankan possessive connector supplied for the construct ערי יהודה"
+    }
+  ],
+  "translation": "A ye masalabagaw sigi dugukolo kɔnɔ, Yuda ka kakan-duguw bɛɛ la, dugu ni dugu.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "cd5a5d0e3309ad29c1c0effdb197405a85184848df204458e9c5cefbd1983a44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/19\/5-8.1791949298891.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a ye … sigi"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "masalabagaw"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dugukolo kɔnɔ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bɛɛ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "duguw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "kakan-duguw"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ni dugu"
+    }
+  ],
+  "timestamp": "2026-10-14T03:41:38.892299250Z",
+  "model": "glm-5.3"
+}

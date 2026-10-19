@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "bm",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kan",
+      "rationale": "Hebrew 'al (over) needs a postposition for the province count"
+    },
+    {
+      "kind": "measurement",
+      "subject": "siya keme ni mugan ni wolonwula fila",
+      "rationale": "127 provinces counted — the verse dimensions the empire"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Hɔdu \/ Kodi",
+      "gloss": "Hebrew place names Hodu and Cush given first mention brackets with familiar forms"
+    }
+  ],
+  "translation": "Kɔrɔsilali kɛra Awakashweros (Ahasuerusu) donnumen na — Awakashweros de, masakɛ min b'a fanga toorokɔrɔ Hɔdu (Indiya) fo Kodi (Etiyopi), siya keme ni mugan ni wolonwula fila kan.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/1\/1-4.1791945519247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kɔrɔsilali kɛra"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "donnumen na"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Awakashweros"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "de"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Awakashweros"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "Hɔdu (Indiya)"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fo"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kodi (Etiyopi)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "wolonwula fila"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ni mugan"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ni keme"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-10-14T02:38:39.248492664Z",
+  "model": "glm-5.3"
+}

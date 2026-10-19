@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "bm",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fiɲɛ",
+      "rationale": "רוח = vent\/souffle\/esprit ; rendu par fiɲɛ (souffle-esprit), un seul mot bambara pour plusieurs sens hébreux"
+    },
+    {
+      "kind": "crux",
+      "subject": "Shaday ninakili",
+      "rationale": "l'inspiration de Shaday donne l'intelligence à qui ? « eux » (les aged) ou à l'homme en général — les traductions divergent"
+    },
+    {
+      "kind": "hapax-like",
+      "subject": "נשמת שדי",
+      "rationale": "le souffle (neshamah) de Shaday comme source de la compréhension : parallèle direct avec Genèse 2:7"
+    }
+  ],
+  "translation": "Nka tiɲɛ na, fiɲɛ de bɛ hadamaden kɔnɔ, ani Shaday (Sebaayabɛɛtigi) ninakili bɛ faamuyali di u ma.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "1d1705853fb0f863e2d13261d331502655f8bcb5af8089895cb8c245216a5636",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/32\/5-8.1791944088674.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Nka tiɲɛ na"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fiɲɛ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "de"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "hadamaden kɔnɔ"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "ani ninakili"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaday"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "bɛ faamuyali di u ma"
+    }
+  ],
+  "timestamp": "2026-10-14T02:14:48.688418958Z",
+  "model": "glm-5.3"
+}

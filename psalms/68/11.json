@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חיתך",
+      "rationale": "Rare form of חיה: 'your living ones' read as flock (jps) or congregation (kjv); rendered nin-baganw to keep the 'living creatures' shape."
+    }
+  ],
+  "translation": "I ka nin-baganw sigilen don o la; Elohim, i ye i ka diya laban ⟨o la⟩ miskinw kama.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "782088c89db3a0c483570a9cffcc90139503190ce52c3d67f26fa4949be80130",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/68\/9-12.1791940534879.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "i ka nin-baganw"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sigilen don"
+    },
+    {
+      "surface": "בה",
+      "gloss": "o la"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "i ye … laban"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "i ka diya"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "miskinw kama"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-14T01:15:34.880671827Z",
+  "model": "glm-5.3"
+}

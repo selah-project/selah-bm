@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 37:8",
+  "book": "jeremiah",
+  "lang": "bm",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "object pronoun repeated before each verb where Hebrew suffixes it to the verb"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "preposition against absorbed into the battle verb 'lan bɛɛ'"
+    }
+  ],
+  "translation": "Kashdenw bɛna segin, ka nin dugu lan bɛɛ, ka minɛ a, ka a dogɔ ni tasuma ye.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "2f7b31a09fd8b400ed6a68ae6ca127a2e7f6dc87d28e45734f4b19d3ed30a71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/37\/5-8.1791936001581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "bɛna segin"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kashdenw"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "ka ... lan bɛɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "(kan)"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dugu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ka minɛ a"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "ka a dogɔ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ni tasuma ye"
+    }
+  ],
+  "timestamp": "2026-10-14T00:00:01.582850138Z",
+  "model": "glm-5.3"
+}

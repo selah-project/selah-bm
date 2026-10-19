@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "bm",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וְאֶעֱנֶה חֹרְפִי דָבָר",
+      "rationale": "Literally 'and I answer my reproacher a word'; Bambara needs 'jaabi kuma di' (give an answer word)."
+    }
+  ],
+  "translation": "Ani ne bɛna jaabi kuma di min bɛ ne jatigɛ cogo ma, sabu ne b'i ka kuma la tiɲɛ ta.",
+  "provenance": {
+    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
+    "user-sha256": "083b74b5421d477a7b0acb4e1a3563295e4833d22f5e9e5fbcdd8aa043e28985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/41-44.1791941559064.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ani ne bɛna jaabi kuma di"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "min bɛ ne jatigɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ne b'i ka kuma la tiɲɛ ta"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "i ka kuma la"
+    }
+  ],
+  "timestamp": "2026-10-14T01:32:39.065446283Z",
+  "model": "glm-5.3"
+}
