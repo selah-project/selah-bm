@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨a ka⟩",
-      "rationale": "Hebrew construct מתערה lacks a possessive; Bambara needs 'a ka' (its)"
-    },
-    {
-      "kind": "crux",
-      "subject": "npan bɔ finbɔlan na",
-      "rationale": "MT here reads as JPS\/BSB second half; KJV\/Geneva contain an extra line (sharpened\/furbished) absent from this Hebrew text"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תערה",
-      "rationale": "same consonants mean both 'razor' and 'sheath' — the sword drawn bare like a razor, lost in Bambara"
-    }
-  ],
-  "translation": "Kunu bɛɛ na a dɔn ko ne ye Yawe ye, ne ye n ka npan bɔ ⟨a ka⟩ finbɔlan na; a tɛna segin kokura.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8ee9a7fd7c5624893b81311046f2705d9ba65bd62c408adc9cbf5fb36359b083",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/21\/10-11.1791951003125.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sogo bɛɛna dɔn ko ne de ye Yawe ye, ne ye n npan bɔ a bɔyɔrɔ na; a tɛna segin kokura.",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "na u dɔn"
+      "gloss": "bɛɛna dɔn"
     },
     {
       "surface": "כל",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "בשר",
-      "gloss": "kunu"
+      "gloss": "sogo"
     },
     {
       "surface": "כי",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "חרבי",
-      "gloss": "n ka npan"
+      "gloss": "n npan"
     },
     {
       "surface": "מתערה",
-      "gloss": "finbɔlan na"
+      "gloss": "a bɔyɔrɔ"
     },
     {
       "surface": "לא",
@@ -75,13 +49,13 @@
     },
     {
       "surface": "תשוב",
-      "gloss": "na segin"
+      "gloss": "segin"
     },
     {
       "surface": "עוד",
       "gloss": "kokura"
     }
   ],
-  "timestamp": "2026-10-14T04:10:03.126167653Z",
+  "timestamp": "2026-10-20T20:45:57.591493031Z",
   "model": "glm-5.3"
 }
