@@ -42,6 +42,14 @@ Nin bɛɛ bɛ commit `f7e8fca4` kɔnɔ (2026-10-20, sani sigili ka kɛ):
 - **`isaiah 39:6`** — `⟨ ⟩` tiɲɛnen latilenna.
 - **Siginiden wɛrɛw minnu tun tora yen:** `genesis 5:7`, `2-samuel 16:17`, `2-samuel 24:1`.
 
+Nin bɛɛ bɛ commit `362dbb34` kɔnɔ (2026-10-20):
+
+- **"Ala" kokura** — digili siginidenw kama y'a lasegin tɛmɛsira **12** kɔnɔ; a latilenna daɲɛ kelen-kelen
+  bɛɛ ka Heburukan fɛ (11), ani bolo fɛ `1-samuel 8:6` kɔnɔ: yen `אל` kɔrɔ ye *ma* ye, a tɛ El ye —
+  *Shemuɛl ye Yawe deli*.
+- **Siginiden minnu tun tora yen:** `numbers 13:16` (Siniwakan daɲɛ), `joshua 13:7` (Sirilikikan *е*),
+  `1-kings 8:27` (Gerekikan *ε*); `exodus 9:32` — `כוסמת` → **kusɛmɛ** (i n'a fɔ `ezekiel 4:9`).
+
 ## §2 · Tɛmɛsira minnu bayɛlɛmana kokura
 
 - **Masin baara fɔlɔ** (2026-09-20): a jɔra **tɛmɛsira 1 116** la, Scott ka kuma fɛ. Tɔgɔ (Yawe) ni
@@ -66,6 +74,8 @@ Nin bɛɛ bɛ commit `f7e8fca4` kɔnɔ (2026-10-20, sani sigili ka kɛ):
   kɔnɔ; "Ala" min kɔrɔ ma jɛ.
 - **Filiw datugura sani sigili ka kɛ** (2026-10-20, `f7e8fca4`): Elohim ni Tɔgɔ sigiyɔrɔ minnu tun bɛ
   *Matigi* / *Ala* sɛbɛn, olu bayɛlɛmana kokura (tɛmɛsira 8; §1 lajɛ).
+- **Digili siginidenw kama** (2026-10-20, `362dbb34`): sigiyɔrɔ **281**, bɛɛ ɲɛna — *ḥ ã í à ñ é ɣ ə ɖ ʃ š
+  ş ı ﬁ*, siginiden dogolen, ani `⟨את⟩` **19** minnu tun bɛ daɲɛ wɛrɛ kan.
 
 ## §3 · Min ye tiɲɛ ye — i kana a yɛlɛma
 
@@ -73,7 +83,7 @@ Nin bɛɛ bɛ commit `f7e8fca4` kɔnɔ (2026-10-20, sani sigili ka kɛ):
   11:9, 11:11, 12:8, 15:15, 15:21 …): o ye "masakɛ n matigi" ye, mɔgɔ kan — o ye tiɲɛ ye.
 - **`ala` / `alaw`** siginiden fitinin na, siyaw ka alaw kan — `daniel 11:39` (siya wɛrɛ ka ala),
   `daniel 4:6` (*ala senumaw*, Nebukadnetsar ka kuma), `daniel 6:8`, `isaiah 44:15` (jo).
-- **`nabi`** — `נביא` sigiyɔrɔ **285**; daɲɛ wɛrɛ: **0**.
+- **`nabi`** — `נביא` sigiyɔrɔ **284**; daɲɛ wɛrɛ: **0**.
 
 ## §4 · Ɲininkaliw minnu bɛ Bamanankan fɔbaga makɔnɔ
 
@@ -83,10 +93,10 @@ Nin bɛɛ bɛ commit `f7e8fca4` kɔnɔ (2026-10-20, sani sigili ka kɛ):
 2. **`nabi`** — yala a bɛ kalan i n'a fɔ "nabi" wa, walima a ye kan wɛrɛ ye kalanbaga ma?
 3. **Tɔgɔw** — Heburu mankan (*Awraham, Moshe, Dawid*) walima tɔgɔ minnu kalanbaga b'a dɔn (*Ibrahima,
    Musa, Dawuda*)?
-4. **q · v · x tɔgɔw kɔnɔ** — tɛmɛsira **467** (kɔlɔsili-da, 2026-10-20): *Nineve*, *Avner*, *Avshalomu*,
+4. **q · v · x tɔgɔw kɔnɔ** — tɛmɛsira **471** (kɔlɔsili-da, 2026-10-20): *Nineve*, *Avner*, *Avshalomu*,
    *Aravna*, *Tsevawɔt*, *Axitub*, *Yaquba* … Bamanankan siginidenw t'u la; sariyaw bɛ **w**, **k**,
    **h** ɲini.
-5. **Tubabukan sɛbɛncogo** (**ou / dj / tch / gn**) — tɛmɛsira **36** (kɔlɔsili-da).
+5. **Tubabukan sɛbɛncogo** (**ou / dj / tch / gn**) — tɛmɛsira **35** (kɔlɔsili-da).
 6. **Daɲɛ tabali yɛrɛ** (sariyaw kɔnɔ) — o ye masin ka Bamanankan ye; a ka kan ka lajɛ fɔlɔ.
 7. **`Daminɛ na`** `בראשית` nɔ na; **`hesed`**, **`Sheol`**, **`ciden`** — u bɛ nɔgɔn wa?
 8. Daɲɛ bɛɛ — Bamanankan kalanbagaw mago bɛ u la.
@@ -97,17 +107,15 @@ Nin bɛɛ bɛ commit `f7e8fca4` kɔnɔ (2026-10-20, sani sigili ka kɛ):
    `צבאות` (Tsevaot) bɛ sɛbɛn ni *-tigi* ye sigiyɔrɔ **71** la (*jonw tigi*, *masaw Tigi*, *Sabawtigi* …;
    `haggai 1:7`, `zechariah 2:15`, `malachi 3:19`), wa a sɛbɛncogo caman tɔw la, sigiyɔrɔ **214** (*Tsebaot*,
    *Tsabaot*, *Tsɛbaot*, *Tsevaot* …).
-10. **Siginiden minnu tɛ Bamanankan ta ye** (`⟨ ⟩` kɔkan) — tɛmɛsira **~391**: *ḥ* (37), siginiden minnu
-    taamasiyɛn bɛ sanfɛ (*ã* 41, *í* 34, *à* 22, *ñ* 18, *é* 16 …), kan wɛrɛw ka siginidenw (*ɣ* 26, *ə*
-    13, *ɖ* 12, *ʃ* 9, *ɗ ƙ ʎ ɓ* …), *š* (11), Turikikan *ş* (7) *ı* (4), *ﬁ* (siginiden fila jɛlen, 5),
-    siginiden dogolen (U+00AD, 1). Misali: `1-samuel 7:3` (*ş*), `1-kings 8:27` (*ɣ*), `2-chronicles
-    17:16` (*ﬁ*). (Bɔɲɔgɔnkow *ɡ ɑ ɩ*: **0** sisan.)
-11. **`⟨את⟩` daɲɛ wɛrɛ kan** — Heburu daɲɛ min tɛ `את` ye, tɛmɛsira **19**: `genesis 5:16`, `14:22`,
-    `18:20`, `19:9`, `21:21`, `21:27`, `24:35`, `27:23`, `27:27`; `hosea 2:14`; `proverbs 17:22`;
-    `judges 19:22`; `jeremiah 2:24`; `micah 6:6`; `daniel 3:12`; `2-chronicles 6:14`; `1-samuel 14:30`;
-    `deuteronomy 24:7`; `joshua 20:3`. Ani `⟨את⟩` bɛ `מאת` (*ka bɔ … fɛ*, ɲɔgɔndan daɲɛ) kan sigiyɔrɔ
-    **~180** la — yala o ka kan wa? (Kɔlɔsili-da ka "`את` bɔnen" misaliw — `genesis 12:13`, `judges 13:3`
-    … — olu ye nɔnabila `את` ye, *i* — o ye tiɲɛ ye.)
+10. **Siginiden minnu tɛ Bamanankan ta ye** (`⟨ ⟩` kɔkan) — tɛmɛsira **38** bɛ *ḥ í é* sɛbɛn, tɔgɔw
+    sɛbɛncogo kɔnɔ fɔlɔ (*í* 29, *ḥ* 8 …). Ni siginiden taamasiyɛnnen tɔw bɛ jate (*ù á ì è ë ō ê ä ĕ*),
+    ani kan wɛrɛw ka siginidenw (*ɗ ƙ ʎ ɓ Ɓ ƴ*, *ṣ ḍ ś*, *ʿ ꞌ*), tɛmɛsira **173** don. Misali: `ezekiel
+    37:2` (*ĕ*). *í* ka caya *Mashíaj* kɔnɔ (tɛmɛsira 51 bɛ o sɛbɛncogo kelen ta) — kalanbaga ka a jate.
+11. **`⟨את⟩` daɲɛ wɛrɛ kan** — `⟨את⟩` **19** minnu tun bɛ daɲɛ wɛrɛ kan, olu latilenna (§2). Min tora:
+    `psalms 102:11` (`ותשליכני`, *i ye ⟨את⟩ n bu*) — kura don; `daniel 3:12` (Aramekan `יתהון`, o ye `את`
+    ka Aramekan cogo ye — a bɛ se ka kɛ tiɲɛ ye). Ani `⟨את⟩` bɛ `מאת` (*ka bɔ … fɛ*, ɲɔgɔndan daɲɛ) kan
+    sigiyɔrɔ **~180** la — yala o ka kan wa? (Kɔlɔsili-da ka "`את` bɔnen" misaliw — `genesis 12:13`,
+    `judges 13:3` … — olu ye nɔnabila `את` ye, *i* — o ye tiɲɛ ye.)
 12. **Tɔgɔ kelen, cogo caman.** `ישראל` bɛ sɛbɛn cogo **25** ni kɔ: *Israyɛl, Isirayeli, Isirayɛl,
     Yisrayɛl, Israyel, Yisraɛl, Israel, Israɛl, Isirayel, Yisrael, Izrayɛl …*; `יעקב` cogo **15** ni kɔ:
     *Yakubu, Yakuba, Yakub, Yaquba, Yaaqob, Yakyubu …*.

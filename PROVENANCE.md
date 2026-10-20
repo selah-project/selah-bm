@@ -1,7 +1,7 @@
 # BƆYƆRƆ — nin bayɛlɛmali dilanna cogo min na
 
 *Bamanankan. Heburukan Kitabu Senuma, tɛmɛsira ni tɛmɛsira. Baara daminɛna 2026-09-20 (git tariku). Sɛbɛnw
-ka `timestamp` bɛ daminɛ 2026-10-13 17:27 la ka se 2026-10-20 17:22 ma (Ameriki kɔrɔnfɛ waati, EDT =
+ka `timestamp` bɛ daminɛ 2026-10-13 17:27 la ka se 2026-10-20 17:42 ma (Ameriki kɔrɔnfɛ waati, EDT =
 UTC−4).*
 
 Nin ye nin bayɛlɛmali dilancogo sɛbɛnnen ye, ani fɛn minnu ka kan ka latilen hali bi. Masin ka bayɛlɛmali
@@ -31,14 +31,15 @@ Tɛmɛsira kelen-kelen bɛɛ bɛ cogo fila la: **Bamanankan daɲɛ Heburu daɲɛ
   la. Sɛbɛn si ka `timestamp` tɛ o waati ta ye tun: Tora tɛmɛsira 3 223 minnu tora o waati la, olu
   bayɛlɛmana kokura 2026-10-20.
 - **2026-10-13 17:27 – 2026-10-14 00:20** — a mɛnɛna kokura ni sariyaw ka daɲɛ tabali ye; Tanaki bɛɛ sera.
-  Sɛbɛn 14 744 ka `timestamp` ye o waati ta ye.
+  Sɛbɛn 14 604 ka `timestamp` ye o waati ta ye.
 - **2026-10-19 19:33** — tɛmɛsira 5.
-- **2026-10-20 08:45 – 12:02** — jatemineli taama, Heburu sɛbɛnni segincogo ani digili laban (sɛbɛn 5 160).
+- **2026-10-20 08:45 – 12:02** — jatemineli taama, Heburu sɛbɛnni segincogo ani digili laban (sɛbɛn 5 077).
 - **2026-10-20 12:47 – 16:21** — **mɛnɛni kokura**: Tora tɛmɛsira minnu tun bɛ sɛtanburu kalo ta la, olu
-  bayɛlɛmana kokura ni sigiyɔrɔ tiɲɛnenw ye (sigiyɔrɔ 3 293; sɛbɛn 3 223).
+  bayɛlɛmana kokura ni sigiyɔrɔ tiɲɛnenw ye (sigiyɔrɔ 3 293; sɛbɛn 3 165 ka `timestamp` ye o waati ta ye sisan).
 - **2026-10-20 16:45 – 16:50** — digili mɛnɛni kokura kɔfɛ (sigiyɔrɔ 70). O kɔfɛ, bolo fɛ latilenniw
   (`NOTES.md` §1).
-- **2026-10-20 17:22** — filiw datugura sani sigili ka kɛ (sɛbɛn 11; `NOTES.md` §1).
+- **2026-10-20 17:21 – 17:22** — filiw datugura sani sigili ka kɛ (sɛbɛn 11; `NOTES.md` §1).
+- **2026-10-20 17:25 – 17:42** — digili siginidenw kama (sigiyɔrɔ 281; `NOTES.md` §1–2).
 
 ## Sɛgɛsɛgɛli sani baara ka daminɛ
 
@@ -54,16 +55,16 @@ Kɔlɔsili-da (`dev/scripts/bm_gate.clj`), sɛbɛn 23 213 bɛɛ kan:
 
 - **Tɔgɔ:** `Yawe` — **6 828 / 6 828** sigiyɔrɔ.
 - Tɔgɔ cogo wɛrɛw (*Yahwe*, *Yaawe* …): **0**.
-- `נביא` → `nabi` **285**; daɲɛ wɛrɛ: **0**.
+- `נביא` → `nabi` **284**; daɲɛ wɛrɛ: **0**.
 - Tubabukan / Angilɛkan / Julakan daɲɛ: **1** — Julakan *le* `micah 1:10` kɔnɔ, nka o ye dugu tɔgɔ
   *Bet-le-Afra* ye; a tora. Siginiden bɔɲɔgɔnkow: **0**. Siginiden minnu tɛ Latɛn ye
   `⟨ ⟩` kɔkan: **0**. Heburukan `⟨ ⟩` kɔkan: **0**.
 - *Matigi* `2-samuel` kɔnɔ — o ye mɔgɔw ye ("masakɛ n matigi"), o ye tiɲɛ ye.
-- **Fɛn fila minnu bɛ Bamanankan tulo makɔnɔ:** **q · v · x** tɔgɔw kɔnɔ (tɛmɛsira **467**; Bamanankan
-  siginidenw t'u la), ani Tubabukan sɛbɛncogo (**ou / dj / tch / gn**, tɛmɛsira **36**).
+- **Fɛn fila minnu bɛ Bamanankan tulo makɔnɔ:** **q · v · x** tɔgɔw kɔnɔ (tɛmɛsira **471**; Bamanankan
+  siginidenw t'u la), ani Tubabukan sɛbɛncogo (**ou / dj / tch / gn**, tɛmɛsira **35**).
 
 Kɔlɔsili-da ma fɛn dɔw sɔrɔ, minnu yera nin sɛbɛnw sɛbɛnni waati la — siginiden minnu tɛ Bamanankan ta ye
-(Latɛn siginiden wɛrɛw), *-tigi* daɲɛ `צבאות` kan, `⟨את⟩` daɲɛ wɛrɛ kan, tɔgɔ kelen cogo caman. U bɛɛ sɛbɛnnen bɛ `NOTES.md` §4 kɔnɔ.
+(*ḥ í é* tɔgɔw kɔnɔ, tɛmɛsira 38), *-tigi* daɲɛ `צבאות` kan, `⟨את⟩` daɲɛ wɛrɛ kan, tɔgɔ kelen cogo caman. U bɛɛ sɛbɛnnen bɛ `NOTES.md` §4 kɔnɔ.
 
 ## Min latilenna
 
@@ -82,6 +83,9 @@ Kɔlɔsili-da ma fɛn dɔw sɔrɔ, minnu yera nin sɛbɛnw sɛbɛnni waati la �
 - **Sani sigili ka kɛ** (2026-10-20, `f7e8fca4`): *Matigi* / *Ala* Elohim ni Tɔgɔ nɔ na tɛmɛsira 8 kɔnɔ
   (`deuteronomy 16:17`, `exodus 20:7`, `deuteronomy 26:16` → **i ka Elohim** bolo fɛ); bɔɲɔgɔnkow *ɡ ɑ ɩ* →
   *g a i* sɛbɛn 48 kɔnɔ; `isaiah 39:6`; `genesis 5:7`, `2-samuel 16:17`, `2-samuel 24:1`.
+- **Digili siginidenw kama** (2026-10-20, `362dbb34`): sigiyɔrɔ 281, bɛɛ ɲɛna (siginiden minnu tɛ
+  Bamanankan ta ye, `⟨את⟩` 19 minnu tun bɛ daɲɛ wɛrɛ kan); "Ala" kokura tɛmɛsira 12 kɔnɔ (`1-samuel 8:6`
+  bolo fɛ: `אל` ye *ma* ye); `numbers 13:16`, `joshua 13:7`, `1-kings 8:27`; `exodus 9:32` → *kusɛmɛ*.
 
 ## Masin ni mɔgɔ
 
