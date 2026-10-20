@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨a⟩",
-      "rationale": "Possessive pronoun supplied in Bambara for the suffix of משיחו."
-    },
-    {
-      "kind": "crux",
-      "subject": "משיחו",
-      "rationale": "'his anointed' — king of Davidic line in context; later tradition reads eschatological Messiah."
-    }
-  ],
-  "translation": "Dugukolo masakɛw bɛ u yɛrɛ sigi, ani fanga-tigiw bɛ fara ɲɔgɔn kan, Yawe kan ani ⟨a⟩ Mashíaj kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/2\/1-4.1791939525170.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dugukolo masakɛw bɛ u yɛrɛ sigi, ani jamatigiw bɛ u lajɛ ɲɔgɔn fɛ, Yawe ka kan ⟨ ⟩ ani ⟨a⟩ Masíaj ka kan.",
   "tokens": [
     {
       "surface": "יתיצבו",
-      "gloss": "bɛ u yɛrɛ sigi"
+      "gloss": "u yɛrɛ sigi"
     },
     {
       "surface": "מלכי",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "ורוזנים",
-      "gloss": "ani fanga-tigiw"
+      "gloss": "ani jamatigiw"
     },
     {
       "surface": "נוסדו",
-      "gloss": "bɛ fara ɲɔgɔn kan"
+      "gloss": "u lajɛ ɲɔgɔn fɛ"
     },
     {
       "surface": "יחד",
-      "gloss": "kelen-ɲɔgɔn"
+      "gloss": "ɲɔgɔn fɛ"
     },
     {
       "surface": "על",
-      "gloss": "kan"
+      "gloss": "ka kan"
     },
     {
       "surface": "יהוה",
@@ -62,13 +41,13 @@
     },
     {
       "surface": "ועל",
-      "gloss": "ani … kan"
+      "gloss": "ani ka kan"
     },
     {
       "surface": "משיחו",
-      "gloss": "a Mashíaj"
+      "gloss": "a Masíaj"
     }
   ],
-  "timestamp": "2026-10-14T00:58:45.171757607Z",
+  "timestamp": "2026-10-20T21:40:46.335032572Z",
   "model": "glm-5.3"
 }

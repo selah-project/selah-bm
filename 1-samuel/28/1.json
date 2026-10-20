@@ -5,90 +5,64 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ידע תדע",
-      "rationale": "Infinitive-absolu tanu filanbɔ — 'dɔn a ɲɛ falen-falen' — kuma kɔgɔjugu Bamanankan na."
-    },
-    {
-      "kind": "you",
-      "subject": "Akiši kuma Dawid ma",
-      "rationale": "Akiši ye Dawid wele kuma kokura."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתי",
-      "rationale": "אתי (ɛtɛn H854) ye 'ni ne ye' ye, aleph-tav taamasiyɛn ⟨את⟩ ma ɲagami a la."
-    }
-  ],
-  "translation": "A kɛra o donw ninu na: Filistiw ye ⟨את⟩ u ka jaamuw lajɛ ka kɛ siradalilɛ ye, ka tugu Israyel. Akiši (Akishi) ye Dawid (Dawuda) ko: i ka dɔn a ɲɛ falen-falen ko i bɛna taa bɔ ni ⟨את⟩ ne ye sɔrɔdasi-so la, i ni i ka mɔgɔw.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/28\/1-4.1791930745869.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O donw na kɛra: Filistitɔw ye ⟨את⟩ u ka dɛsɛnw lajɛ ɲɔgɔn kan ka taa sondɔ la, ka ja kɛ Bane Israyil fɛ. Akis (Akishi) ye Dawid (Dawuda) fɛ ko: dɔn, i bɛna a dɔn ko i bɛna bɔ ni ne ye dɛsɛ la, i ni i ka mɔgɔw.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "a kɛra"
+      "gloss": "kɛra"
     },
     {
       "surface": "בימים",
-      "gloss": "o donw"
+      "gloss": "donw"
     },
     {
       "surface": "ההם",
-      "gloss": "ninu"
+      "gloss": "o"
     },
     {
       "surface": "ויקבצו",
-      "gloss": "u ye lajɛ"
+      "gloss": "lajɛ ɲɔgɔn kan"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistiw"
+      "gloss": "Filistitɔw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u ka jaamuw"
+      "marks": "u ka dɛsɛnw"
     },
     {
       "surface": "מחניהם",
-      "gloss": "jaamuw"
+      "gloss": "u ka dɛsɛnw"
     },
     {
       "surface": "לצבא",
-      "gloss": "siradalilɛ kama"
+      "gloss": "sondɔ la"
     },
     {
       "surface": "להלחם",
-      "gloss": "ka tugu"
+      "gloss": "ka ja kɛ"
     },
     {
       "surface": "בישראל",
-      "gloss": "Israyel la"
+      "gloss": "Bane Israyil fɛ"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ye … ko"
+      "gloss": "ko"
     },
     {
       "surface": "אכיש",
-      "gloss": "Akiši (Akishi)"
+      "gloss": "Akis"
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "fɛ"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid (Dawuda)"
+      "gloss": "Dawid"
     },
     {
       "surface": "ידע",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "תדע",
-      "gloss": "i bɛna dɔn"
+      "gloss": "i bɛna a dɔn"
     },
     {
       "surface": "כי",
@@ -104,15 +78,15 @@
     },
     {
       "surface": "אתי",
-      "gloss": "ni ⟨את⟩ ne ye"
+      "gloss": "ni ⟨את⟩ ne"
     },
     {
       "surface": "תצא",
-      "gloss": "i bɛna taa bɔ"
+      "gloss": "i bɛna bɔ"
     },
     {
       "surface": "במחנה",
-      "gloss": "sɔrɔdasi-so la"
+      "gloss": "dɛsɛ la"
     },
     {
       "surface": "אתה",
@@ -123,6 +97,6 @@
       "gloss": "ni i ka mɔgɔw"
     }
   ],
-  "timestamp": "2026-10-13T22:32:25.869992473Z",
+  "timestamp": "2026-10-20T21:27:52.009780168Z",
   "model": "glm-5.3"
 }

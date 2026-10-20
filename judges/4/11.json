@@ -5,73 +5,47 @@
   "book": "judges",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "את",
-      "rationale": "here את is the preposition 'near' (lemma 854), not the direct-object marker; rendered ⟨את⟩ with locative 'fɛ' (near)"
-    },
-    {
-      "kind": "crux",
-      "subject": "חתן",
-      "rationale": "'hoten' covers father-in-law and brother-in-law of Moses; KJV 'father in law', ASV 'brother-in-law'; Bamanankan 'ɲɔgɔdɔkɛ' keeps the in-law breadth"
-    },
-    {
-      "kind": "addition",
-      "subject": "o Heweri",
-      "rationale": "resumptive pronoun added because Bamanankan needs the long relative clause closed before the main verb"
-    }
-  ],
-  "translation": "Heweri, Kɛnikɛ min bɛ Kɛniw la, Hobabi (Moshe ka ɲɔgɔdɔkɛ) denw ye, o Heweri y'a yɛrɛ bɔ Kɛniw la, ka a ka ɲɛda da Tsananimu jiri la, min bɛ ⟨את⟩ Kedeši fɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "39128d9f5cd1ea89fc00d6ea3be1ac112c3edf8892b3a7efddd80eec11265859",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/4\/9-12.1791929276423.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Khebɛr Kainikɛ ye a yɛrɛ bɔ Kainiw la, Hobab denw la, Musa kuntigi, a ye a so da ka se Tsananim (Tsananimmaw) jiri ma, min bɛ ⟨את⟩ Kedesh fɛ.",
   "tokens": [
     {
       "surface": "וחבר",
-      "gloss": "Heweri"
+      "gloss": "Khebɛr"
     },
     {
       "surface": "הקיני",
-      "gloss": "Kɛnikɛ"
+      "gloss": "Kainikɛ"
     },
     {
       "surface": "נפרד",
-      "gloss": "y'a yɛrɛ bɔ"
+      "gloss": "a y'a yɛrɛ bɔ"
     },
     {
       "surface": "מקין",
-      "gloss": "Kɛniw la"
+      "gloss": "Kainiw la"
     },
     {
       "surface": "מבני",
-      "gloss": "… denw"
+      "gloss": "denw la"
     },
     {
       "surface": "חבב",
-      "gloss": "Hobabi"
+      "gloss": "Hobab"
     },
     {
       "surface": "חתן",
-      "gloss": "ɲɔgɔdɔkɛ"
+      "gloss": "kuntigi"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Musa"
     },
     {
       "surface": "ויט",
-      "gloss": "ka a da"
+      "gloss": "a ye a so da"
     },
     {
       "surface": "אהלו",
-      "gloss": "a ka ɲɛda"
+      "gloss": "so"
     },
     {
       "surface": "עד",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "בצענים",
-      "gloss": "Tsananimu"
+      "gloss": "Tsananim"
     },
     {
       "surface": "אשר",
@@ -92,13 +66,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kedeši"
+      "marks": "Kedesh"
     },
     {
       "surface": "קדש",
-      "gloss": "Kedeši"
+      "gloss": "Kedesh"
     }
   ],
-  "timestamp": "2026-10-13T22:07:56.431461526Z",
+  "timestamp": "2026-10-20T21:38:07.886998914Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "aw ka …",
-      "rationale": "David's imperatives summon Joab and the people to mourning rites"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "gloss": "preposition 'with him' (אִתּוֹ), distinct from the object marker, carried as ⟨את⟩ per discipline"
-    }
-  ],
-  "translation": "Dawid (Dawuda) ye Yoab ni jama bɛɛ min bɛ ⟨את⟩ a fɛ fɔ ko: aw yɛlɛnw ka ɲagami, aw ka funteni fura sãgu, aw ka sunɔgɔ Awbner ɲɛ na. Masakɛ Dawid yɛrɛ tun taa susubɔ-taabɔlan kɔfɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "535d78ca1e3b04b5a13d8ff7d16f36fd2111190561f22b1169bbac185e35fbd0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/3\/29-32.1791930928737.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawid (Dawuda) y'a fɔ Yowab (Joab) ma, ani mɔgɔw bɛɛ minnu bɛ ⟨את⟩ a ye, ko: “Aw ye aw ka janu ju, aw bɛ saki gansi aw yɛrɛ la, aw ɲasɔn Abner ɲɛda la.” Masakɛ Dawid y'a taa suya-so in kɔ.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "fɔ"
+      "gloss": "y'a fɔ"
     },
     {
       "surface": "דוד",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ye … fɔ"
+      "gloss": "ma"
     },
     {
       "surface": "יואב",
-      "gloss": "Yoab"
+      "gloss": "Yowab"
     },
     {
       "surface": "ואל",
-      "gloss": "ni"
+      "gloss": "ani"
     },
     {
       "surface": "כל",
@@ -54,43 +33,44 @@
     },
     {
       "surface": "העם",
-      "gloss": "jama"
+      "gloss": "mɔgɔw"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "minnu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ a fɛ"
+      "gloss": "⟨את⟩",
+      "marks": "a ye (minnu bɛ a bolo)"
     },
     {
       "surface": "קרעו",
-      "gloss": "ka ɲagami"
+      "gloss": "ju"
     },
     {
       "surface": "בגדיכם",
-      "gloss": "aw yɛlɛnw"
+      "gloss": "aw ka janu"
     },
     {
       "surface": "וחגרו",
-      "gloss": "ka sãgu"
+      "gloss": "gansi"
     },
     {
       "surface": "שקים",
-      "gloss": "funteni fura"
+      "gloss": "saki"
     },
     {
       "surface": "וספדו",
-      "gloss": "ka sunɔgɔ"
+      "gloss": "ɲasɔn"
     },
     {
       "surface": "לפני",
-      "gloss": "ɲɛ na"
+      "gloss": "ɲɛda la"
     },
     {
       "surface": "אבנר",
-      "gloss": "Awbner"
+      "gloss": "Abner"
     },
     {
       "surface": "והמלך",
@@ -102,17 +82,17 @@
     },
     {
       "surface": "הלך",
-      "gloss": "taa"
+      "gloss": "y'a taa"
     },
     {
       "surface": "אחרי",
-      "gloss": "kɔfɛ"
+      "gloss": "kɔ"
     },
     {
       "surface": "המטה",
-      "gloss": "susubɔ-taabɔlan"
+      "gloss": "suya-so"
     }
   ],
-  "timestamp": "2026-10-13T22:35:28.740005278Z",
+  "timestamp": "2026-10-20T21:30:28.132840806Z",
   "model": "glm-5.3"
 }

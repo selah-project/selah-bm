@@ -5,67 +5,45 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Mashíach",
-      "rationale": "משיח: 'min bɛ tulu nan' — masakɛ walima sarakalasebaga; a tɛ 'Kristi' ye nin yɔrɔ la"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "gloss2": null,
-      "rationale": "min kɔnɔn — כאשר\/אשر jɛgɛnsira 'sabu' la Bamanankan na, Heburukan ka gɛlɛya ma"
-    }
-  ],
-  "translation": "Yawe na di mɔgɔ ma ⟨את⟩ a ka kɛɲɛya ani ⟨את⟩ a ka tiɲɛtaali, min kɔnɔn Yawe ye i di don in ne ka bolo ma, nka ne ma b'a fɛ ka ne ka bolo ci Yawe ka Mashíach kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a1133154e33381df9a3375ebd1322aea89868ee201c81806444169b393948df1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/26\/21-24.1791930698964.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe bɛna mɔgɔ kelen-kelen bolo ka ⟨את⟩ a ka tilenya ni ⟨את⟩ a ka sɔnkɔrɔya sanfidɔ, sabu Yawe y'i di ne bolo bi, nka ne ma b'a fɛ ka ne bolo ci Mashíaj Yawe la.",
   "tokens": [
     {
       "surface": "ויהוה",
-      "gloss": "Yawe"
+      "gloss": "Yawe ni"
     },
     {
       "surface": "ישיב",
-      "gloss": "na di ma"
+      "gloss": "bɛna … sanfidɔ"
     },
     {
       "surface": "לאיש",
-      "gloss": "mɔgɔ ma"
+      "gloss": "mɔgɔ kelen-kelen bolo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a ka kɛɲɛya"
+      "marks": "a ka tilenya"
     },
     {
       "surface": "צדקתו",
-      "gloss": "a ka kɛɲɛya"
+      "gloss": "a ka tilenya"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "a ka tiɲɛtaali"
+      "marks": "a ka sɔnkɔrɔya"
     },
     {
       "surface": "אמנתו",
-      "gloss": "a ka tiɲɛtaali"
+      "gloss": "a ka sɔnkɔrɔya"
     },
     {
       "surface": "אשר",
-      "gloss": "min kɔnɔn"
+      "gloss": "sabu"
     },
     {
       "surface": "נתנך",
-      "gloss": "ye i di"
+      "gloss": "y'i di"
     },
     {
       "surface": "יהוה",
@@ -73,11 +51,11 @@
     },
     {
       "surface": "היום",
-      "gloss": "don in"
+      "gloss": "bi"
     },
     {
       "surface": "ביד",
-      "gloss": "ne ka bolo ma"
+      "gloss": "bolo"
     },
     {
       "surface": "ולא",
@@ -89,21 +67,21 @@
     },
     {
       "surface": "לשלח",
-      "gloss": "ka ci"
+      "gloss": "ka … ci"
     },
     {
       "surface": "ידי",
-      "gloss": "ne ka bolo"
+      "gloss": "ne bolo"
     },
     {
       "surface": "במשיח",
-      "gloss": "Mashíach kan"
+      "gloss": "Mashíaj … la"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yawe ka"
+      "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-13T22:31:38.966340658Z",
+  "timestamp": "2026-10-20T21:27:35.662635685Z",
   "model": "glm-5.3"
 }

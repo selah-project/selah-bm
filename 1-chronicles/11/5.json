@@ -5,49 +5,23 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mãtugu",
-      "rationale": "מצדת lit. net\/fastness; 'mãtugu' (stronghold) keeps the fortress picture, not 'castle'"
-    },
-    {
-      "kind": "crux",
-      "subject": "היא",
-      "rationale": "'the same is' vs 'it is': emphatic pronoun rendered 'o ye ... ye'"
-    },
-    {
-      "kind": "you",
-      "subject": "to Dawida",
-      "rationale": "Jebusites' direct refusal addresses Dawida: 'I tɛ na yan'"
-    }
-  ],
-  "translation": "Yebusu sigilenw ye Dawida ko: “I tɛ na yan.” Nka Dawida ye ⟨את⟩ Tsiyon (Siyɔn) ka mãtugu minɛ, o ye Dawida ka dugu ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/11\/5-8.1791947706470.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yevusu sigidenuw y'a fɔ Dawid (Dawuda) ma: 'I tɛ se ka nin na.' Nka Dawid ye ⟨את⟩ Tsiyon ka dɔnbilikɛlan minɛ; o ye Dawid ka dugu ye.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ye ... ko"
+      "gloss": "y'a fɔ"
     },
     {
       "surface": "ישבי",
-      "gloss": "sigilenw"
+      "gloss": "sigidenuw"
     },
     {
       "surface": "יבוס",
-      "gloss": "Yebusu"
+      "gloss": "Yevusu"
     },
     {
       "surface": "לדויד",
-      "gloss": "Dawida"
+      "gloss": "Dawid ma"
     },
     {
       "surface": "לא",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "na"
+      "gloss": "ka na"
     },
     {
       "surface": "הנה",
-      "gloss": "yan"
+      "gloss": "nin"
     },
     {
       "surface": "וילכד",
@@ -67,20 +41,20 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Dawida"
+      "gloss": "Dawid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tsiyon ka mãtugu"
+      "marks": "Tsiyon ka dɔnbilikɛlan"
     },
     {
       "surface": "מצדת",
-      "gloss": "mãtugu"
+      "gloss": "dɔnbilikɛlan"
     },
     {
       "surface": "ציון",
-      "gloss": "Tsiyon (Siyɔn)"
+      "gloss": "Tsiyon"
     },
     {
       "surface": "היא",
@@ -92,9 +66,9 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Dawida"
+      "gloss": "Dawid"
     }
   ],
-  "timestamp": "2026-10-14T03:15:06.471519573Z",
+  "timestamp": "2026-10-20T21:25:51.075871503Z",
   "model": "glm-5.3"
 }

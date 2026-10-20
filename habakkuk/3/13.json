@@ -5,41 +5,15 @@
   "book": "habakkuk",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "fuli la ni Mashíaj",
-      "rationale": "לישע את משיחך: 'salvation with\/for your anointed' vs 'to save your anointed' (BSB); Hebrew repeats לישע and keeps את."
-    },
-    {
-      "kind": "idiom",
-      "subject": "kunlan",
-      "rationale": "'laid bare the foundation up to the neck' — an image of a building toppled to its base; kept literally."
-    },
-    {
-      "kind": "elision",
-      "subject": "Sila",
-      "rationale": "סלה is a musical pause marker, kept as the fixed sign Selah."
-    }
-  ],
-  "translation": "I bɔra i ka jamaa fuli la, i bɔra fuli la ni ⟨את⟩ i ka Mashíaj ye; i ye jatigidenw so kun-tigɛ kɛ, a jɔyɔrɔ latilen ka se kunlan na. Sila.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "45f117aa822882145116e35a6fa09473d570895da61666be3f0fb7885cb22b73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/habakkuk\/3\/13-16.1791939013326.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I bɔra i ka jamaa musakaw kama, i bɔra ⟨את⟩ i ka Mashíaj musakaw kama; i ye jalakɛtigi so kun tiŋɛ, i ye ⟨a ka⟩ dabila jira fo kunkolo ma. Selah.",
   "tokens": [
     {
       "surface": "יצאת",
-      "gloss": "bɔra"
+      "gloss": "i bɔra"
     },
     {
       "surface": "לישע",
-      "gloss": "fuli"
+      "gloss": "musakaw kama"
     },
     {
       "surface": "עמך",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "לישע",
-      "gloss": "fuli"
+      "gloss": "musakaw kama"
     },
     {
       "surface": "את",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "מחצת",
-      "gloss": "kun-tigɛ"
+      "gloss": "i ye … tiŋɛ"
     },
     {
       "surface": "ראש",
@@ -68,33 +42,33 @@
     },
     {
       "surface": "מבית",
-      "gloss": "so"
+      "gloss": "… so"
     },
     {
       "surface": "רשע",
-      "gloss": "jatigidenw"
+      "gloss": "jalakɛtigi"
     },
     {
       "surface": "ערות",
-      "gloss": "latilen"
+      "gloss": "i ye … jira (dabila FILEN)"
     },
     {
       "surface": "יסוד",
-      "gloss": "jɔyɔrɔ"
+      "gloss": "dabila"
     },
     {
       "surface": "עד",
-      "gloss": "ka se"
+      "gloss": "fo"
     },
     {
       "surface": "צואר",
-      "gloss": "kunlan"
+      "gloss": "kunkolo ma"
     },
     {
       "surface": "סלה",
-      "gloss": "Sila"
+      "gloss": "Selah"
     }
   ],
-  "timestamp": "2026-10-14T00:50:13.327061549Z",
+  "timestamp": "2026-10-20T21:33:32.252237925Z",
   "model": "glm-5.3"
 }

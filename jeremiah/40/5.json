@@ -5,74 +5,43 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ועודנו לא ישוב",
-      "rationale": "KJV\/ASV 'while he was not yet gone back' (Nebuzaradan still speaking) vs JPS 'yet he would not go back' (Jeremiah refusing); Bambara follows the second."
-    },
-    {
-      "kind": "crux",
-      "subject": "רב טבחים",
-      "rationale": "literally 'chief of the slaughterers\/butcher-guard' — rendered 'bɛnbagatɔw ɲɛmɔgɔ' (chief of executioners), Nebuzaradan's title."
-    },
-    {
-      "kind": "substitution",
-      "subject": "הפקיד",
-      "rationale": "literally 'appointed\/set in charge'; rendered 'yɛrɛ bɛ … la' (entrusted over)."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו (preposition)",
-      "rationale": "the preposition את 'with' carries the ⟨את⟩ glyph; gloss 'ni a ye' = 'with him'."
-    }
-  ],
-  "translation": "A na a segin tugu, a ko: ka segin so Gedalaya (Gedali), Ahikam (Ahikamu) den, Shafan (Safanu) den, min bolo Babel (Babulu) masakɛ yɛrɛ bɛ Yehuda duguw la; ka tuguni ni ⟨את⟩ a ye mɔgɔw kɔnɔ, walima ka taa yɔrə min ka ɲi i ɲɛ na, ka taa. Bɛnbagatɔw ɲɛmɔgɔ y'a ye dumuni ni di, a y'a silaya.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "86c225f3f225906cd17ad16549c5228f41293277f330f9e2bb4b5cbae21c4577",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/40\/5-8.1791936101531.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sanko a nan mɛnɛ segin na, ⟨a ko⟩: Segin ka taa Gedalya (Gedaliya) ma, Achikam denkɛ, min ye Shafan denkɛ ye, min bɛ Bavel masakɛ bila ka jatigɛ Yehuda duguw kɔnɔ, ka sigin ni ⟨את⟩ a ye mɔgɔw kɔnɔ, walima ka taa min bɛ tiɲɛ i ɲɛ na, taa. Kunu-bɔbɔw ba y'a di dumuni ni di, ka a bila ka taa.",
   "tokens": [
     {
       "surface": "ועודנו",
-      "gloss": "a na a segin tugu"
+      "gloss": "sanko a nan mɛnɛ"
     },
     {
       "surface": "לא",
-      "gloss": "tugu"
+      "gloss": "ma"
     },
     {
       "surface": "ישוב",
-      "gloss": "a segin"
+      "gloss": "segin"
     },
     {
       "surface": "ושבה",
-      "gloss": "ka segin so"
+      "gloss": "ka segin"
     },
     {
       "surface": "אל",
-      "gloss": "so"
+      "gloss": "ka taa … ma"
     },
     {
       "surface": "גדליה",
-      "gloss": "Gedalaya"
+      "gloss": "Gedalya"
     },
     {
       "surface": "בן",
-      "gloss": "den"
+      "gloss": "denkɛ"
     },
     {
       "surface": "אחיקם",
-      "gloss": "Ahikam"
+      "gloss": "Achikam"
     },
     {
       "surface": "בן",
-      "gloss": "den"
+      "gloss": "denkɛ"
     },
     {
       "surface": "שפן",
@@ -84,7 +53,7 @@
     },
     {
       "surface": "הפקיד",
-      "gloss": "yɛrɛ bɛ"
+      "gloss": "bila ka jatigɛ"
     },
     {
       "surface": "מלך",
@@ -92,11 +61,11 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babel"
+      "gloss": "Bavel"
     },
     {
       "surface": "בערי",
-      "gloss": "duguw la"
+      "gloss": "duguw kɔnɔ"
     },
     {
       "surface": "יהודה",
@@ -104,12 +73,12 @@
     },
     {
       "surface": "ושב",
-      "gloss": "ka tuguni"
+      "gloss": "ka sigin"
     },
     {
       "surface": "אתו",
-      "gloss": "ni ⟨את⟩ a ye",
-      "marks": "a ye"
+      "gloss": "⟨את⟩ ni a ye",
+      "marks": "a (Gedalya)"
     },
     {
       "surface": "בתוך",
@@ -129,11 +98,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "yɔrɔ min"
+      "gloss": "min bɛɛ"
     },
     {
       "surface": "הישר",
-      "gloss": "ka ɲi"
+      "gloss": "min bɛ tiɲɛ"
     },
     {
       "surface": "בעיניך",
@@ -145,23 +114,23 @@
     },
     {
       "surface": "לך",
-      "gloss": "ka taa"
+      "gloss": "taa"
     },
     {
       "surface": "ויתן",
-      "gloss": "y'a ye"
+      "gloss": "a y'a di"
     },
     {
       "surface": "לו",
-      "gloss": "a ye"
+      "gloss": "a ma"
     },
     {
       "surface": "רב",
-      "gloss": "ɲɛmɔgɔ"
+      "gloss": "ba"
     },
     {
       "surface": "טבחים",
-      "gloss": "bɛnbagatɔw"
+      "gloss": "kunu-bɔbɔw"
     },
     {
       "surface": "ארחה",
@@ -169,13 +138,13 @@
     },
     {
       "surface": "ומשאת",
-      "gloss": "ni di"
+      "gloss": "di (faratila)"
     },
     {
       "surface": "וישלחהו",
-      "gloss": "a y'a silaya"
+      "gloss": "ka a bila ka taa"
     }
   ],
-  "timestamp": "2026-10-14T00:01:41.532688603Z",
+  "timestamp": "2026-10-20T21:36:24.829305757Z",
   "model": "glm-5.3"
 }

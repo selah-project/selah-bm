@@ -5,40 +5,19 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ye",
-      "rationale": "Bamanankan needs a copula for the list; Hebrew ויהיו is existential 'they came to be'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "genealogy",
-      "rationale": "name-list of descendants, a counting of the family line"
-    }
-  ],
-  "translation": "Yerakhmeel denw (Hatsron ka fɔlɔden) ye: fɔlɔden Ram, ni Bunah, ni Oren, ni Otsem, ni Aḥiya.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d9cf93b5cb73c2fa5eaa8d2aa55bc28f4e9e620e415dcb9cc5ad99a6994f2579",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/2\/25-28.1791947369173.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yeraḥmeel, Chetsron (Hetsron) ka fɔlɔden, ka denkɛw ye: Ram, a ye fɔlɔden ye, ni Bunah, ni Oren, ni Otsem, ni Achiya.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "ye"
+      "gloss": "ye ... ye"
     },
     {
       "surface": "בני",
-      "gloss": "denw"
+      "gloss": "denkɛw"
     },
     {
       "surface": "ירחמאל",
-      "gloss": "Yerakhmeel"
+      "gloss": "Yeraḥmeel"
     },
     {
       "surface": "בכור",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "חצרון",
-      "gloss": "Hatsron"
+      "gloss": "Chetsron"
     },
     {
       "surface": "הבכור",
@@ -70,9 +49,9 @@
     },
     {
       "surface": "אחיה",
-      "gloss": "ni Aḥiya"
+      "gloss": "ni Achiya"
     }
   ],
-  "timestamp": "2026-10-14T03:09:29.174457024Z",
+  "timestamp": "2026-10-20T21:25:48.895860575Z",
   "model": "glm-5.3"
 }

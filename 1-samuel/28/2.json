@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "kɔlɔsi n ka kun",
-      "rationale": "שמר לראשי (n ka kun kɔlɔsi) — Heburukan fɔcogo; 'n ka so kɔlɔsiba' tɛ o ye, a ye 'kun' yɛrɛ fɔ."
-    },
-    {
-      "kind": "you",
-      "subject": "Akiši kuma Dawid ma",
-      "rationale": "Akiši ye Dawid wele kuma kokura."
-    }
-  ],
-  "translation": "Dawid ye Akiši ko: o la, i bɛna dɔn ⟨את⟩ min i ka sow bɛna kɛ. Akiši ye Dawid ko: o la, donw bɛɛ n bɛ i bilala ka kɛ n ka kun kɔlɔsiba ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/28\/1-4.1791930745869.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawid y'a fɔ Akish ye: sabu i bɛna ⟨את⟩ min dɔn i dɛmɛtigi bɛna min kɛ. Akish y'a fɔ Dawid ye: sabu ne bɛ i bilaka i k'a kɛ ne kun marabaga ye donw bɛɛ.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ye … ko"
+      "gloss": "y'a fɔ"
     },
     {
       "surface": "דוד",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "ye"
     },
     {
       "surface": "אכיש",
-      "gloss": "Akiši"
+      "gloss": "Akish"
     },
     {
       "surface": "לכן",
-      "gloss": "o la"
+      "gloss": "sabu"
     },
     {
       "surface": "אתה",
@@ -54,12 +33,12 @@
     },
     {
       "surface": "תדע",
-      "gloss": "i bɛna dɔn"
+      "gloss": "bɛna dɔn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "min i ka sow bɛna kɛ"
+      "marks": "min"
     },
     {
       "surface": "אשר",
@@ -71,19 +50,19 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "i ka sow"
+      "gloss": "i dɛmɛtigi"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ye … ko"
+      "gloss": "y'a fɔ"
     },
     {
       "surface": "אכיש",
-      "gloss": "Akiši"
+      "gloss": "Akish"
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "ye"
     },
     {
       "surface": "דוד",
@@ -91,19 +70,19 @@
     },
     {
       "surface": "לכן",
-      "gloss": "o la"
+      "gloss": "sabu"
     },
     {
       "surface": "שמר",
-      "gloss": "kɔlɔsiba"
+      "gloss": "marabaga"
     },
     {
       "surface": "לראשי",
-      "gloss": "n ka kun kama"
+      "gloss": "ne kun"
     },
     {
       "surface": "אשימך",
-      "gloss": "n bɛ i bilala"
+      "gloss": "bɛ i bilaka i k'a kɛ"
     },
     {
       "surface": "כל",
@@ -114,6 +93,6 @@
       "gloss": "donw"
     }
   ],
-  "timestamp": "2026-10-13T22:32:25.870360634Z",
+  "timestamp": "2026-10-20T21:27:44.758116489Z",
   "model": "glm-5.3"
 }

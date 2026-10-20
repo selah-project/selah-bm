@@ -5,41 +5,15 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "dɛ o ye",
-      "rationale": "רק with לא opens an emphatic 'only-there-was-none' clause; Bambara needs an opening carrier"
-    },
-    {
-      "kind": "substitution",
-      "subject": "fére",
-      "rationale": "התמכר is Hitpael of 'sell' — 'sold himself'; rendered as 'hired\/gave himself over'"
-    },
-    {
-      "kind": "you",
-      "subject": "Ahab",
-      "rationale": "narrator's verdict on Ahab as anti-type, not direct address"
-    }
-  ],
-  "translation": "Dɛ o ye, mɔgɔ si ma kɛ i n'a fɔ Ahab (Ahabu) ye — min y'a yɛrɛ fére ka bagyi kɛ Yawe ka ɲɛ la; min y'a tuguni ⟨את⟩ o la, o ye Izebel (Jezabel) ye, a muso.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "977dcc9e3f4d10df9d2f858a83d3cf8d6755b0eaf067c115eb69c1bee39f6f62",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/21\/25-28.1791932530454.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dɛmɛn, mɔgɔ si ma kɛ i yɛrɛ ye nin Ahab (Ahab) ye, min y'a yɛrɛ faga walasa ka jugu kɛ Yawe ɲɛ la — Izebel (Jezabel), a muso, de ye ⟨את⟩ a yege.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "dɛ o ye"
+      "gloss": "dɛmɛn"
     },
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "si tɛ"
     },
     {
       "surface": "היה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "כאחאב",
-      "gloss": "i n'a fɔ Ahab ye"
+      "gloss": "i yɛrɛ ye nin Ahab"
     },
     {
       "surface": "אשר",
@@ -55,19 +29,19 @@
     },
     {
       "surface": "התמכר",
-      "gloss": "y'a yɛrɛ fére"
+      "gloss": "y'a yɛrɛ faga"
     },
     {
       "surface": "לעשות",
-      "gloss": "ka kɛ"
+      "gloss": "walasa ka kɛ"
     },
     {
       "surface": "הרע",
-      "gloss": "bagyi"
+      "gloss": "jugu"
     },
     {
       "surface": "בעיני",
-      "gloss": "ka ɲɛ la"
+      "gloss": "ɲɛ la"
     },
     {
       "surface": "יהוה",
@@ -79,12 +53,12 @@
     },
     {
       "surface": "הסתה",
-      "gloss": "y'a tuguni"
+      "gloss": "yege"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "Izebel"
+      "marks": "a (Ahab)"
     },
     {
       "surface": "איזבל",
@@ -95,6 +69,6 @@
       "gloss": "a muso"
     }
   ],
-  "timestamp": "2026-10-13T23:02:10.458488144Z",
+  "timestamp": "2026-10-20T21:26:08.145977712Z",
   "model": "glm-5.3"
 }

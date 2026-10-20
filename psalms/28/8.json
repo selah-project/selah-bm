@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨a⟩",
-      "rationale": "Bambara requires copula 'ye' and pronoun; Hebrew is verbless"
-    },
-    {
-      "kind": "crux",
-      "subject": "למו",
-      "rationale": "'to them' or 'to him' — KJV\/BSB read 'his people', YLT\/JPS read the singular king; ambiguous suffix"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מעוז ישועות",
-      "rationale": "literally 'stronghold of deliverances', construct chain rendered as 'stronghold of salvation'"
-    }
-  ],
-  "translation": "Yawe, ⟨a⟩ ye u ka sebagaw ye, ani a ye a Mashíaj ka yirawajɛyɔrɔ ye — o de ye ⟨a⟩ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/28\/5-8.1791939865692.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe ye u ka seba ye, ani a ye Mesiyaw ka yɛlɛmabɔlanw la seba-yɛrɛ ye.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "עז",
-      "gloss": "sebagaw"
+      "gloss": "seba"
     },
     {
       "surface": "למו",
@@ -47,21 +21,21 @@
     },
     {
       "surface": "ומעוז",
-      "gloss": "ani yirawajɛyɔrɔ"
+      "gloss": "ani seba-yɛlɛmabɔlan"
     },
     {
       "surface": "ישועות",
-      "gloss": "yirawajɛ"
+      "gloss": "yɛlɛmabɔlanw"
     },
     {
       "surface": "משיחו",
-      "gloss": "a Mashíac"
+      "gloss": "Masiyaw ka"
     },
     {
       "surface": "הוא",
-      "gloss": "o de ye ⟨a⟩ ye"
+      "gloss": "a ye"
     }
   ],
-  "timestamp": "2026-10-14T01:04:25.693446753Z",
+  "timestamp": "2026-10-20T21:41:38.618463484Z",
   "model": "glm-5.3"
 }

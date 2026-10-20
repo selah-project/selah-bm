@@ -5,38 +5,7 @@
   "book": "esther",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨i⟩ · ⟨o bɛ⟩ · ⟨ye⟩",
-      "rationale": "Nɔnabila ni copula minnu bɛ Bamanankan na, Heburukan ma u sɔrɔ"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sãkɔrɔbɔ",
-      "rationale": "שרביט ye masakɛ ka sanu-kɛnɛn ye; 'sãkɔrɔbɔ' (kɔnɔfintigi ta) ye fɛn min ɲɛ ta o cogo"
-    },
-    {
-      "kind": "measurement",
-      "subject": "don mugan ni tan",
-      "rationale": "Ester bɛ don jate — waati min bɛ a ni masakɛ cɛ"
-    },
-    {
-      "kind": "crux",
-      "subject": "minɛ",
-      "rationale": "יושיט kɔrɔ ye 'ka bolo jɔyi \/ walansi'; 'minɛ' (ka minɛ bolo) ye nɔgɔya dɔrɔn"
-    }
-  ],
-  "translation": "Masakɛ ka dɛmɛsɛbɛw bɛɛ ani masakɛ ka jamaw ka mɔgɔw bɛ dɔn: cɛ walima muso min na ⟨i⟩ na masakɛ nɔ na, dalan-kɔnɔda la, min ma wele, ⟨o bɛ⟩ sariya kelen: k'a fa; dɔrɔn ni masakɛ na ⟨את⟩ sanu sãkɔrɔbɔ (sharabit) minɛ, a bɛ balo. Nka ne, ne ma wele ka na masakɛ nɔ na — o ye don mugan ni tan ⟨ye⟩.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "4ea9f7a86df9b259b2af1776847ad18471e6b59a4a80a272e3b651a4d9e49d3e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/4\/10-11.1791951449677.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masakɛ ka sowkɛw bɛɛ ani masakɛ ka jamana mɔgɔw bɛ dɔn ko cɛ walima muso min na masakɛ fɛ ka don a ka so kɔnɔma da la, min ma wele, sariya kelen bɛ a kan ka kɛ a bɛ fɛ ka o sa; fo mɔgɔ min na masakɛ bɛ tu i na ⟨את⟩ sanu ka sharabit, o b'a balo. N ne ma wele ka na masakɛ fɛ — o donw bi-saba de don.",
   "tokens": [
     {
       "surface": "כל",
@@ -44,11 +13,11 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "dɛmɛsɛbɛw"
+      "gloss": "sowkɛw"
     },
     {
       "surface": "המלך",
-      "gloss": "masakɛ ta"
+      "gloss": "masakɛ"
     },
     {
       "surface": "ועם",
@@ -56,11 +25,11 @@
     },
     {
       "surface": "מדינות",
-      "gloss": "jamaw"
+      "gloss": "jamana"
     },
     {
       "surface": "המלך",
-      "gloss": "masakɛ ta"
+      "gloss": "masakɛ"
     },
     {
       "surface": "יודעים",
@@ -68,11 +37,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "ko"
     },
     {
       "surface": "כל",
-      "gloss": "bɛɛ"
+      "gloss": ""
     },
     {
       "surface": "איש",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "ואשה",
-      "gloss": "ani muso"
+      "gloss": "walima muso"
     },
     {
       "surface": "אשר",
@@ -92,7 +61,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "…fɛ"
+      "gloss": "fɛ"
     },
     {
       "surface": "המלך",
@@ -100,15 +69,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "…la"
+      "gloss": "ka don"
     },
     {
       "surface": "החצר",
-      "gloss": "dalan"
+      "gloss": "da"
     },
     {
       "surface": "הפנימית",
-      "gloss": "kɔnɔda"
+      "gloss": "so kɔnɔma"
     },
     {
       "surface": "אשר",
@@ -128,27 +97,27 @@
     },
     {
       "surface": "דתו",
-      "gloss": "sariya (a ta)"
+      "gloss": "sariya"
     },
     {
       "surface": "להמית",
-      "gloss": "k'a fa"
+      "gloss": "ka kɛ saya ye"
     },
     {
       "surface": "לבד",
-      "gloss": "dɔrɔn"
+      "gloss": "de"
     },
     {
       "surface": "מאשר",
-      "gloss": "ni"
+      "gloss": "fo"
     },
     {
       "surface": "יושיט",
-      "gloss": "minɛ"
+      "gloss": "tu i na"
     },
     {
       "surface": "לו",
-      "gloss": "a ye"
+      "gloss": "a la"
     },
     {
       "surface": "המלך",
@@ -157,11 +126,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sanu sãkɔrɔbɔ"
+      "marks": "sanu ka sharabit"
     },
     {
       "surface": "שרביט",
-      "gloss": "sãkɔrɔbɔ"
+      "gloss": "sharabit"
     },
     {
       "surface": "הזהב",
@@ -169,11 +138,11 @@
     },
     {
       "surface": "וחיה",
-      "gloss": "a bɛ balo"
+      "gloss": "o b'a balo"
     },
     {
       "surface": "ואני",
-      "gloss": "nka ne"
+      "gloss": "n ne"
     },
     {
       "surface": "לא",
@@ -189,7 +158,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "…fɛ"
+      "gloss": "fɛ"
     },
     {
       "surface": "המלך",
@@ -201,13 +170,13 @@
     },
     {
       "surface": "שלושים",
-      "gloss": "mugan ni tan"
+      "gloss": "bi-saba"
     },
     {
       "surface": "יום",
-      "gloss": "don"
+      "gloss": "donw"
     }
   ],
-  "timestamp": "2026-10-14T04:17:29.678910256Z",
+  "timestamp": "2026-10-20T21:30:31.217474751Z",
   "model": "glm-5.3"
 }
