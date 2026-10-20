@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dunya bɛɛ",
-      "rationale": "עולם kɔrɔ ye 'waati min bɔna ɲɛfɛ' ye; 'dunya bɛɛ' ye bamanankan laada daɲɛ ye"
-    },
-    {
-      "kind": "you",
-      "subject": "aw ni aw denw",
-      "rationale": "Yonadab ka kuma bɛ taama Rɛkabidɛw denw la daɲɛkɔrɔdɔ la"
-    }
-  ],
-  "translation": "U ko: “An tɛna diwɛn min, sabu Yonadab, Rɛkab den, an fa, y'an ɲini ko: Aw tɛna diwɛn min, aw ni aw denw, fo dunya bɛɛ.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "23bca32786efef74d211dc61c35753e8ab599351d85a632364831d3fdd9cffb8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/35\/5-8.1791935928809.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ye ko: an tɛ diwɛn min; sabu Yonadab, Rekab denkɛ, an fa, y'a minɛ an kan ko: aw ni aw denw, aw kana diwɛn min fo <dunya bɛɛ>.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "u ko"
+      "gloss": "u ye ko"
     },
     {
       "surface": "לא",
-      "gloss": "tɛna … si"
+      "gloss": "tɛ"
     },
     {
       "surface": "נשתה",
-      "gloss": "an … min"
+      "gloss": "min"
     },
     {
       "surface": "יין",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "den"
+      "gloss": "denkɛ"
     },
     {
       "surface": "רכב",
-      "gloss": "Rɛkab"
+      "gloss": "Rekab"
     },
     {
       "surface": "אבינו",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "צוה",
-      "gloss": "y'an ɲini"
+      "gloss": "y'a minɛ an kan"
     },
     {
       "surface": "עלינו",
-      "gloss": "an …"
+      "gloss": "an kan"
     },
     {
       "surface": "לאמר",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "tɛna"
+      "gloss": "kana"
     },
     {
       "surface": "תשתו",
-      "gloss": "aw … min"
+      "gloss": "min"
     },
     {
       "surface": "יין",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "ובניכם",
-      "gloss": "ni aw denw"
+      "gloss": "aw denw"
     },
     {
       "surface": "עד",
@@ -102,9 +81,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "dunya bɛɛ"
+      "gloss": "<dunya bɛɛ>"
     }
   ],
-  "timestamp": "2026-10-13T23:58:48.810462820Z",
+  "timestamp": "2026-10-20T15:47:29.601555414Z",
   "model": "glm-5.3"
 }

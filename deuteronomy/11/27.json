@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Heburukan sira-daɲɛ nana, Bamanankan ma a sɔrɔ kondicionali la"
-    },
-    {
-      "kind": "substitution",
-      "subject": "duba",
-      "rationale": "ברכה kɔrɔ ka ɲgɔsinya dɔrɔn de tɛ, a bɛ fɔ 'kanuya-duba' fana"
-    }
-  ],
-  "translation": "Duba de, ni aw mɛn Yawe aw ka Elohim ka lasariyaw ma, minnu la ne bɛ aw laso bi.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a580d3b918aab859bea1fbb8c5d74578c1f424889aa8aa38792c920dfdb8e3e4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/11\/25-28.1791927814662.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Duba, ni aw bɛ Yawe aw Elohim ka sariyaw mɛn minnu ne bɛ aw laseli ⟨את⟩ don in ni,",
   "tokens": [
     {
       "surface": "את",
@@ -39,19 +18,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "minnu"
     },
     {
       "surface": "תשמעו",
-      "gloss": "ni aw mɛn"
+      "gloss": "mɛn"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "i ko"
     },
     {
       "surface": "מצות",
-      "gloss": "lasariyaw"
+      "gloss": "sariyaw"
     },
     {
       "surface": "יהוה",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "aw ka Elohim"
+      "gloss": "aw Elohim"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu la"
+      "gloss": "minnu"
     },
     {
       "surface": "אנכי",
@@ -71,17 +50,18 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "laso"
+      "gloss": "laseli"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw"
+      "gloss": "⟨את⟩",
+      "marks": "aw"
     },
     {
       "surface": "היום",
-      "gloss": "bi"
+      "gloss": "don in ni"
     }
   ],
-  "timestamp": "2026-10-13T21:43:34.665518813Z",
+  "timestamp": "2026-10-20T13:38:12.235702576Z",
   "model": "glm-5.3"
 }

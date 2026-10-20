@@ -5,42 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "וְהִתְמַכַּרְתֶּם",
-      "rationale": "Hithpael 'sell yourselves' vs passive 'be sold'; rendered as middle 'an dogɔrɔdɔn' (you sell yourselves)."
-    },
-    {
-      "kind": "idiom",
-      "subject": "וְאֵין קֹנֶה",
-      "rationale": "Literally 'and there is no buyer' — not 'no deliverer'; the horror is that no one will even buy them as slaves."
-    },
-    {
-      "kind": "elision",
-      "subject": "עוד",
-      "gloss": "'od merged into 'kokura' with תֹסִיף; no separate Bambara word."
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Direct address, second-person singular then plural, within the curses of the covenant."
-    }
-  ],
-  "translation": "Yawe b'Aw segin Mitsrayim (Misira) na, ni aniwɔfɛnw ye, sira min kan na ne ye fɔ i ye ko i na a ye kokura; ani k'an dogɔrɔdɔn yen aw ka ɛnɛmaw ma, a ye mɔgɔdenninninw ye ani musomɔgɔdenninw ye, wa mɔgɔ si tɛ aw san.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9091d5b1241f3a342107681f9bededa4ff7e21077a521989be865d1a2a316295",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/28\/68-68.1791950078404.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe na i segin Mitsrayim (Misira) ma ni sɔgɔfɛnw ye, sira la min na n ye fɔ i ye ko i tɛna a ye kɔ; o yɔrɔ aw na aw yɛrɛ fen aw jatigɛw ma, aw ye ka kɛ jonyaw ni jonyamusow ye, wa ⟨mɔgɔ si tɛ na aw san⟩.",
   "tokens": [
     {
       "surface": "והשיבך",
-      "gloss": "Yawe b'Aw segin"
+      "gloss": "na i segin"
     },
     {
       "surface": "יהוה",
@@ -48,15 +17,15 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim (Misira)"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "באניות",
-      "gloss": "ni aniwɔfɛnw ye"
+      "gloss": "ni sɔgɔfɛnw ye"
     },
     {
       "surface": "בדרך",
-      "gloss": "sira min na"
+      "gloss": "sira la"
     },
     {
       "surface": "אשר",
@@ -64,7 +33,7 @@
     },
     {
       "surface": "אמרתי",
-      "gloss": "ne ye fɔ"
+      "gloss": "n ye fɔ"
     },
     {
       "surface": "לך",
@@ -72,15 +41,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "i na"
+      "gloss": "tɛna"
     },
     {
       "surface": "תסיף",
-      "gloss": "kokura"
+      "gloss": "kɔ"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "kɔ"
     },
     {
       "surface": "לראתה",
@@ -88,23 +57,23 @@
     },
     {
       "surface": "והתמכרתם",
-      "gloss": "k'an dogɔrɔdɔn"
+      "gloss": "aw na aw yɛrɛ fen"
     },
     {
       "surface": "שם",
-      "gloss": "yen"
+      "gloss": "o yɔrɔ"
     },
     {
       "surface": "לאיביך",
-      "gloss": "aw ka ɛnɛmaw ma"
+      "gloss": "aw jatigɛw ma"
     },
     {
       "surface": "לעבדים",
-      "gloss": "mɔgɔdenninninw"
+      "gloss": "jonyaw"
     },
     {
       "surface": "ולשפחות",
-      "gloss": "musomɔgɔdenninw"
+      "gloss": "jonyamusow"
     },
     {
       "surface": "ואין",
@@ -115,6 +84,6 @@
       "gloss": "san"
     }
   ],
-  "timestamp": "2026-10-14T03:54:38.405481109Z",
+  "timestamp": "2026-10-20T13:43:09.629026424Z",
   "model": "glm-5.3"
 }

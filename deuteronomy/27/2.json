@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "siji",
-      "rationale": "בשיד is slaked lime-plaster; 'siji' (lime) is the nearest Bambara building material word"
-    },
-    {
-      "kind": "addition",
-      "subject": "aw",
-      "rationale": "Hebrew shifts between singular and plural addressee; Bambara plural 'aw' used throughout for the crossing generation"
-    }
-  ],
-  "translation": "O bɛna kɛ don min na aw bɛna tɛmɛ ⟨את⟩ Yarden (Zhezɛ) ka kɛ dugukolo kɔnɔ min ye Yawe aw Ala di aw ye don: aw bɛna kabakurunw bonanw jɔ aw ye, k'⟨את⟩ u laji siji la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "94e96fb1ff8c31bc936b16b303a1d667fa8d0dbbd8893b8e4cf7c9e1d6634fe5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/27\/1-4.1791928233029.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A bɛna kɛ don min na aw tɛmɛ ⟨את⟩ Yarden (Yeriden) kan, ka taa dugukolo la min na Yawe Aw Elohim bɛ n'aw di, aw bɛna aw ye kabakurunba jɔ, ka ⟨את⟩ u butu ni sisi ye.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "o bɛna kɛ"
+      "gloss": "a bɛna kɛ"
     },
     {
       "surface": "ביום",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min na"
     },
     {
       "surface": "תעברו",
-      "gloss": "aw bɛna tɛmɛ"
+      "gloss": "aw tɛmɛ"
     },
     {
       "surface": "את",
@@ -55,15 +34,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ka kɛ"
+      "gloss": "ka taa"
     },
     {
       "surface": "הארץ",
-      "gloss": "dugukolo"
+      "gloss": "dugukolo la"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min na"
     },
     {
       "surface": "יהוה",
@@ -71,19 +50,19 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "aw Ala"
+      "gloss": "Aw Elohim"
     },
     {
       "surface": "נתן",
-      "gloss": "di"
+      "gloss": "bɛ di"
     },
     {
       "surface": "לך",
-      "gloss": "aw ye"
+      "gloss": "aw ma"
     },
     {
       "surface": "והקמת",
-      "gloss": "aw bɛna jɔ"
+      "gloss": "aw bɛna ... jɔ"
     },
     {
       "surface": "לך",
@@ -91,26 +70,26 @@
     },
     {
       "surface": "אבנים",
-      "gloss": "kabakurunw"
+      "gloss": "kabakurunba"
     },
     {
       "surface": "גדלות",
-      "gloss": "bonanw"
+      "gloss": "-ba (belebele)"
     },
     {
       "surface": "ושדת",
-      "gloss": "ka laji"
+      "gloss": "ka ... butu"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "kabakurunw"
+      "marks": "u (kabakurunba)"
     },
     {
       "surface": "בשיד",
-      "gloss": "siji la"
+      "gloss": "ni sisi ye"
     }
   ],
-  "timestamp": "2026-10-13T21:50:33.032071578Z",
+  "timestamp": "2026-10-20T13:43:37.764925063Z",
   "model": "glm-5.3"
 }

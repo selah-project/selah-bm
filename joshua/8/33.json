@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "חציו",
-      "rationale": "jama cogoya filanan tila kulu fila ɲɛfɛ — half of the assembly measured against each mountain."
-    },
-    {
-      "kind": "addition",
-      "subject": "u",
-      "rationale": "Hebrew participle עמדים has no pronoun; Bambara needs u."
-    },
-    {
-      "kind": "crux",
-      "subject": "בראשנה",
-      "rationale": "'at the first' — could modify the command (as Moses commanded at first) or the blessing (blessed first); KJV\/ASV split."
-    }
-  ],
-  "translation": "Israɛl bɛɛ, ani u mɔgɔkɔrɔw, ni kunnafonidilaw, ni sariyakaraw, u bilasen bɛ nin fɛ ni nin fɛ sanda la, sarakalasebaga Lewiw (Levitɛw) minnu bɛ Yawe ka layidu sanda ta, o ɲɛfɛ — dɔgɔtɔrɔla la ni jɔdennin la cogo kelen na — u fanba ni Gerizim kulu ɲɛfɛ, ni u fanba ni Ebal kulu ɲɛfɛ, i n'a fɔ Moshe (Musa), Yawe ka baarakɛla, y'a lazɛ fɔlɔ, walasa ka ⟨Israɛl⟩ ⟨את⟩ jama duba.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "72a236c80121ed401e1c6c1f34c527f1060d41422e1d25e3400a6ee62b8ec6d4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/8\/33-35.1791928673608.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Israel bɛɛ, ani a ka kɔrɔbagaw ni kuntigiw ni a ka ateriw, bɛ sunun nin fɛ ani o fɛ arɔn ma, sarakalasebagaw — Lewiw — ɲɛfɛ, minnu bɛ Yawe ka layidu arɔn ta, dunan fana i n'a fɔ dugubadeden; fasɛ dɔ bɛ ka ɲɛfɛ Gerizim kuru, ani fasɛ wɛrɛ ka ɲɛfɛ Ebal kuru, i n'a fɔ Yawe ka dɛmɛnnakɛla Moshe (Musa) y'a laadini fɔlɔ, walasa k'u duba ⟨את⟩ Israel jama.",
   "tokens": [
     {
       "surface": "וכל",
@@ -39,23 +13,23 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israɛl"
+      "gloss": "Israel"
     },
     {
       "surface": "וזקניו",
-      "gloss": "ani u mɔgɔkɔrɔw"
+      "gloss": "ani a ka kɔrɔbagaw"
     },
     {
       "surface": "ושטרים",
-      "gloss": "ni kunnafonidilaw"
+      "gloss": "ani kuntigiw"
     },
     {
       "surface": "ושפטיו",
-      "gloss": "ni sariyakaraw"
+      "gloss": "ani a ka ateriw"
     },
     {
       "surface": "עמדים",
-      "gloss": "u bilasen"
+      "gloss": "bɛ sunun"
     },
     {
       "surface": "מזה",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "ומזה",
-      "gloss": "ni nin fɛ"
+      "gloss": "ani o fɛ"
     },
     {
       "surface": "לארון",
-      "gloss": "sanda la"
+      "gloss": "arɔn ma"
     },
     {
       "surface": "נגד",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "ארון",
-      "gloss": "sanda"
+      "gloss": "arɔn"
     },
     {
       "surface": "ברית",
@@ -99,19 +73,19 @@
     },
     {
       "surface": "כגר",
-      "gloss": "dɔgɔtɔrɔla la cogo min na"
+      "gloss": "dunan fana"
     },
     {
       "surface": "כאזרח",
-      "gloss": "jɔdennin la cogo min na"
+      "gloss": "i n'a fɔ dugubadeden"
     },
     {
       "surface": "חציו",
-      "gloss": "u fanba"
+      "gloss": "fasɛ dɔ"
     },
     {
       "surface": "אל",
-      "gloss": "ni"
+      "gloss": "ka"
     },
     {
       "surface": "מול",
@@ -119,7 +93,7 @@
     },
     {
       "surface": "הר",
-      "gloss": "kulu"
+      "gloss": "kuru"
     },
     {
       "surface": "גרזים",
@@ -127,11 +101,11 @@
     },
     {
       "surface": "והחציו",
-      "gloss": "ni u fanba"
+      "gloss": "ani fasɛ wɛrɛ"
     },
     {
       "surface": "אל",
-      "gloss": "ni"
+      "gloss": "ka"
     },
     {
       "surface": "מול",
@@ -139,7 +113,7 @@
     },
     {
       "surface": "הר",
-      "gloss": "kulu"
+      "gloss": "kuru"
     },
     {
       "surface": "עיבל",
@@ -147,11 +121,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "i n'a fɔ"
+      "gloss": "i n'a fɔ min"
     },
     {
       "surface": "צוה",
-      "gloss": "y'a lazɛ"
+      "gloss": "y'a laadini"
     },
     {
       "surface": "משה",
@@ -159,7 +133,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "baarakɛla"
+      "gloss": "dɛmɛnnakɛla"
     },
     {
       "surface": "יהוה",
@@ -167,12 +141,12 @@
     },
     {
       "surface": "לברך",
-      "gloss": "walasa ka … duba"
+      "gloss": "walasa k'u duba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israɛl jama"
+      "marks": "Israel jama"
     },
     {
       "surface": "העם",
@@ -180,13 +154,13 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israɛl"
+      "gloss": "Israel"
     },
     {
       "surface": "בראשנה",
       "gloss": "fɔlɔ"
     }
   ],
-  "timestamp": "2026-10-13T21:57:53.609735954Z",
+  "timestamp": "2026-10-20T14:58:40.976173769Z",
   "model": "glm-5.3"
 }

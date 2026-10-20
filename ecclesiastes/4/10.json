@@ -5,33 +5,7 @@
   "book": "ecclesiastes",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ואילו",
-      "rationale": "traditionally 'woe to him' (from אוי); some repoint as 'but if the one falls' — parallel structure favors 'woe'."
-    },
-    {
-      "kind": "addition",
-      "subject": "a ka teri",
-      "rationale": "Hebrew has object marker + suffixed noun; possessive pronoun supplied for Bambara."
-    },
-    {
-      "kind": "hapax",
-      "subject": "ואילו",
-      "rationale": "unique form אִלּוֹ with vav, read as interjection of woe."
-    }
-  ],
-  "translation": "Sabu ni kelen bɔra, ⟨a ka teri⟩ bɛna a jɔ; nka masusu de ye kelen ye min bɔra, a tɛ ni min bɛɛ ka a jɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/4\/9-12.1791945143089.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu ni u tugun, kelen bɛ ⟨את⟩ a terikɛ jɔ; nka masusu o kelen min bɛ tugun, filanan si tɛ yen walasa ka a jɔ.",
   "tokens": [
     {
       "surface": "כי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "יפלו",
-      "gloss": "bɔra"
+      "gloss": "u tugun"
     },
     {
       "surface": "האחד",
@@ -51,20 +25,20 @@
     },
     {
       "surface": "יקים",
-      "gloss": "bɛna a jɔ"
+      "gloss": "bɛ a jɔ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a ka teri"
+      "marks": "a terikɛ"
     },
     {
       "surface": "חברו",
-      "gloss": "a ka teri"
+      "gloss": "terikɛ"
     },
     {
       "surface": "ואילו",
-      "gloss": "nka masusu de"
+      "gloss": "masusu"
     },
     {
       "surface": "האחד",
@@ -72,21 +46,21 @@
     },
     {
       "surface": "שיפול",
-      "gloss": "min bɔra"
+      "gloss": "min bɛ tugun"
     },
     {
       "surface": "ואין",
-      "gloss": "a tɛ ni"
+      "gloss": "tɛ yen"
     },
     {
       "surface": "שני",
-      "gloss": "min bɛɛ"
+      "gloss": "filanan"
     },
     {
       "surface": "להקימו",
-      "gloss": "ka a jɔ"
+      "gloss": "walasa ka a jɔ"
     }
   ],
-  "timestamp": "2026-10-14T02:32:23.091567612Z",
+  "timestamp": "2026-10-20T13:47:50.471780274Z",
   "model": "glm-5.3"
 }

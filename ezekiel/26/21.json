@@ -5,69 +5,43 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "balaya",
-      "rationale": "בלהות: 'terrors\/horrors' (KJV, JPS) vs 'wastes' (YLT) vs 'brought to nought' (Wycliffe)"
-    },
-    {
-      "kind": "elision",
-      "subject": "לעולם",
-      "rationale": "folded into the single adverb 'fo ever' with עוד; Hebrew has two words for continuity"
-    },
-    {
-      "kind": "addition",
-      "subject": "ye",
-      "rationale": "Bamanankan predication requires ye after balaya, Hebrew apposition lacks it"
-    }
-  ],
-  "translation": "N bɛna i kɛ balaya ye, i na ka kɛ foyi ye; u bɛna i ɲini, nka i tɛna ye sɔrɔ fo ever, Adonay Yawe ka kuma ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2531e8f7b69d202b29556452ab273c442ec110cd6d819597f8fcf923cf031995",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/26\/21-21.1791937320887.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Balahow la, ne bɛ ⟨את⟩ i da i yɛrɛ la, i tɛna kɛ yen; i bɛna ɲini, nka i tɛna ye kokura, san bɛɛ — Yawe Tɔgɔ kumali de, Adonay Yawe fɔli ye.",
   "tokens": [
     {
       "surface": "בלהות",
-      "gloss": "balaya"
+      "gloss": "balahow"
     },
     {
       "surface": "אתנך",
-      "gloss": "n bɛna i kɛ"
+      "gloss": "ne bɛ … da i yɛrɛ la"
     },
     {
       "surface": "ואינך",
-      "gloss": "i na ka kɛ foyi ye"
+      "gloss": "i tɛna kɛ yen"
     },
     {
       "surface": "ותבקשי",
-      "gloss": "u bɛna i ɲini"
+      "gloss": "i bɛna ɲini"
     },
     {
       "surface": "ולא",
-      "gloss": "nka i tɛna ye"
+      "gloss": "nka … tɛ"
     },
     {
       "surface": "תמצאי",
-      "gloss": "sɔrɔ"
+      "gloss": "i tɛna ye"
     },
     {
       "surface": "עוד",
-      "gloss": "fo ever"
+      "gloss": "kokura"
     },
     {
       "surface": "לעולם",
-      "gloss": ""
+      "gloss": "san bɛɛ"
     },
     {
       "surface": "נאם",
-      "gloss": "ka kuma ye"
+      "gloss": "kumali"
     },
     {
       "surface": "אדני",
@@ -78,6 +52,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-14T00:22:00.887543447Z",
+  "timestamp": "2026-10-20T14:02:53.508433747Z",
   "model": "glm-5.3"
 }

@@ -5,53 +5,27 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "token-duplication",
-      "subject": "ויבקעו",
-      "rationale": "dɔ-kilen bɛ yen min ma sɔn — kunafoni dɔw bɔ o yɛrɛ kun na (kɔrɔsilijɛ)."
-    },
-    {
-      "kind": "substitution",
-      "subject": "וינסך",
-      "rationale": "נסך ye saraka-ji-bɔcogo ye (libation); “bɔ” dɔgɔya a la."
-    },
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "aleph-tav taamasiyɛn ⟨את⟩ bɛ lakali sira kan, a bɛ Yawe fɛɛbɔ."
-    }
-  ],
-  "translation": "Sabaaw yɛ Pelistiw ka so-ɲɛmɔgɔya dugu bɔ, u ye ji ta Bet-Lɛxɛm kɔlɔn la min bɛ da la, u y'a ta k'u na Dawid fɛ, nka Dawid o yɛ a jaminɛ ka bo, a y'o bɔ Yawe ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d06c681df034431934f61b681cf762dc4b8285148ed3e58a2a579b32a46c7402",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/11\/17-20.1791947829020.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Saba ninnu ye u yɛrɛ bɔ Pelisitiw ka marabolo kɔnɔ, ka ji minɛ Betelemu ka kɔlɔn la min bɛ dugu da la, ka ⟨oji⟩ ta ka na Dawid ye; nka Dawid ma sɔn ka ji min dun, nka a ye ⟨את⟩ ji in nsɛkɛ Yawe ma.",
   "tokens": [
     {
       "surface": "ויבקעו",
-      "gloss": "u yɛ … dugu bɔ"
+      "gloss": "bɔ"
     },
     {
       "surface": "השלשה",
-      "gloss": "sabaaw"
+      "gloss": "saba"
     },
     {
       "surface": "במחנה",
-      "gloss": "so-ɲɛmɔgɔya dugu kɔnɔ"
+      "gloss": "marabolo kɔnɔ"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelistiw"
+      "gloss": "Pelisitiw"
     },
     {
       "surface": "וישאבו",
-      "gloss": "u ye ji ta"
+      "gloss": "ji minɛ"
     },
     {
       "surface": "מים",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet-"
+      "gloss": "Bete-"
     },
     {
       "surface": "לחם",
-      "gloss": "Lɛxɛm"
+      "gloss": "lemu"
     },
     {
       "surface": "אשר",
@@ -75,35 +49,31 @@
     },
     {
       "surface": "בשער",
-      "gloss": "bɛ da la"
+      "gloss": "dugu da la"
     },
     {
       "surface": "וישאו",
-      "gloss": "u y'a ta"
+      "gloss": "ta"
     },
     {
       "surface": "ויבאו",
-      "gloss": "k'u na"
+      "gloss": "na"
     },
     {
       "surface": "אל",
-      "gloss": "… fɛ"
+      "gloss": "ye"
     },
     {
       "surface": "דויד",
       "gloss": "Dawid"
     },
     {
-      "surface": "ויבקעו",
-      "gloss": ""
-    },
-    {
       "surface": "ולא",
-      "gloss": "nka … o yɛ"
+      "gloss": "nka … ma"
     },
     {
       "surface": "אבה",
-      "gloss": "jaminɛ"
+      "gloss": "ma sɔn"
     },
     {
       "surface": "דויד",
@@ -111,18 +81,22 @@
     },
     {
       "surface": "לשתותם",
-      "gloss": "ka bo"
+      "gloss": "ji min dun"
     },
     {
-      "surface": "אותם",
+      "surface": "וינסך",
+      "gloss": "nsɛkɛ"
+    },
+    {
+      "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "o ji (minnu ta) — Yawe nɔ"
+      "marks": "ji in (minnu minɛna)"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yawe ye"
+      "gloss": "Yawe ma"
     }
   ],
-  "timestamp": "2026-10-14T03:17:09.021818929Z",
+  "timestamp": "2026-10-20T12:45:59.205255207Z",
   "model": "glm-5.3"
 }

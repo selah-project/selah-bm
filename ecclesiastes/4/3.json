@@ -5,36 +5,20 @@
   "book": "ecclesiastes",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "משניהם",
-      "rationale": "The dual 'than both of them' — the two just named (dead and living) — the twoness is kept with 'o fila bɛɛ'."
-    }
-  ],
-  "translation": "Ani a ka ɲi wa ni o fila bɛɛ kɔrɔ: min ma ye tilen dɔɔni, o ma ye jiɲɛba min kɛra tile jukɔrɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f6af2180538e3ce9e80a385de2e970bd47ac6839f9cc9947c1c6a73ee71573bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/4\/1-4.1791945205820.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "K'a ka ɲi o fila bɛɛ la ⟨את⟩ min fo sisan ma kɛ, min ma ye ⟨את⟩ baara jujuman min kɛra tile jukɔrɔ.",
   "tokens": [
     {
       "surface": "וטוב",
-      "gloss": "a ka ɲi wa"
+      "gloss": "ka ɲi"
     },
     {
       "surface": "משניהם",
-      "gloss": "o fila bɛɛ kɔrɔ"
+      "gloss": "o fila bɛɛ la"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "min ma ye tilen"
+      "marks": "min fo sisan ma kɛ"
     },
     {
       "surface": "אשר",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "עדן",
-      "gloss": "dɔɔni"
+      "gloss": "fo sisan"
     },
     {
       "surface": "לא",
@@ -50,11 +34,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "ye tilen"
+      "gloss": "kɛ"
     },
     {
       "surface": "אשר",
-      "gloss": "o"
+      "gloss": "min"
     },
     {
       "surface": "לא",
@@ -67,7 +51,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jiɲɛba"
+      "marks": "baara jujuman"
     },
     {
       "surface": "המעשה",
@@ -75,7 +59,7 @@
     },
     {
       "surface": "הרע",
-      "gloss": "jiɲɛba"
+      "gloss": "jujuman"
     },
     {
       "surface": "אשר",
@@ -94,6 +78,6 @@
       "gloss": "tile"
     }
   ],
-  "timestamp": "2026-10-14T02:33:25.821611270Z",
+  "timestamp": "2026-10-20T13:48:07.298864207Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "sen wiliha",
-      "rationale": "להניד רגל 'ka sen wiliha' — a kɔrɔ ye ko u tɛna tugun yɛlɛma yɔrɔ la"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "אתם min ye ⟨את⟩ denbaya ye, o ye 'u' nɔnabila fɔ ye Bamanankan na, a tɛ sɛbɛn ⟨⟩ kɔkan iko daɲɛ kelen"
-    }
-  ],
-  "translation": "N tɛna Israyel ka sen wiliha dugukolo min na n ye u faaw di; ninsi u bɛ kɔlɔsi ka kɛ nin n ye u fɔ u ye, ani ⟨Tora⟩ bɛɛ min u ka sɔgɔmɔgɔ Moshe (Musa) ye u fɔ u ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "06eeda6d777e8259d446577f7e7410d59504cfcdf51490b8a08a994c833318cc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/21\/5-8.1791933250172.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "An tɛ Yisraɛl ka sen wolo-woloya dugukolo in na min n'tigi ma di u bwaw ma; nka ni u kɔlɔsi ka kɛ ni fɛn bɛɛ ye min n'w lase, ani ni Tora bɛɛ ye min n'bolo-dennin Musa lase ⟨את⟩ u ye:",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "tɛna"
+      "gloss": "ani a tɛ"
     },
     {
       "surface": "אסיף",
-      "gloss": "n tɛna … kɔrɔ"
+      "gloss": "k'a fara ɔɔ"
     },
     {
       "surface": "להניד",
-      "gloss": "wiliha"
+      "gloss": "ka wolo-woloya"
     },
     {
       "surface": "רגל",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Yisraɛl"
     },
     {
       "surface": "מן",
-      "gloss": "… na"
+      "gloss": "bɔ"
     },
     {
       "surface": "האדמה",
-      "gloss": "dugukolo"
+      "gloss": "dugukolo in na"
     },
     {
       "surface": "אשר",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "n ye … di"
+      "gloss": "n'tigi ma di"
     },
     {
       "surface": "לאבותם",
-      "gloss": "u faaw"
+      "gloss": "u bwaw ma"
     },
     {
       "surface": "רק",
-      "gloss": "ninsi"
+      "gloss": "nka dɔrɔn de"
     },
     {
       "surface": "אם",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "ישמרו",
-      "gloss": "u bɛ kɔlɔsi"
+      "gloss": "u kɔlɔsi"
     },
     {
       "surface": "לעשות",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "ככל",
-      "gloss": "nin"
+      "gloss": "ni fɛn bɛɛ ye"
     },
     {
       "surface": "אשר",
@@ -94,11 +73,11 @@
     },
     {
       "surface": "צויתים",
-      "gloss": "n ye u fɔ"
+      "gloss": "n'lase u ye"
     },
     {
       "surface": "ולכל",
-      "gloss": "ani … bɛɛ"
+      "gloss": "ani ni bɛɛ ye"
     },
     {
       "surface": "התורה",
@@ -110,22 +89,22 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ye … fɔ"
+      "gloss": "o lasera"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "u"
+      "marks": "u (min bɔ o bolo, o kɔrɔ: bolo-dennin Musa lase u ye)"
     },
     {
       "surface": "עבדי",
-      "gloss": "n ka sɔgɔmɔgɔ"
+      "gloss": "n'bolo-dennin"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Musa"
     }
   ],
-  "timestamp": "2026-10-13T23:14:10.191466607Z",
+  "timestamp": "2026-10-20T13:19:56.583449707Z",
   "model": "glm-5.3"
 }

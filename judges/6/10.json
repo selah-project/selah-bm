@@ -5,42 +5,15 @@
   "book": "judges",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אלהי האמרי",
-      "gloss_note": "",
-      "rationale": "gods of the Amorites rendered 'alaw' per discipline for nations' gods; never Tɔgɔ"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "prophet's speech addressed directly to the children of Israel"
-    },
-    {
-      "kind": "addition",
-      "subject": "tun",
-      "rationale": "past-marker 'tun' added; Hebrew perfect has no separate past particle"
-    }
-  ],
-  "translation": "An ko aw ma: ne ye Yawe, aw Ala Elohim. Aw kana siran ⟨את⟩ Emori (Amorite) alaw na, aw sigilen bɛ minnu dugukolo kɔnɔ. Nka aw tun ma mɛn ne kan na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "4f2ab91242b7114e31a0aa425d0ec7abef2e78b9f414e23d4ebc6fc4725fb8b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/6\/9-12.1791929277659.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "An' nin yɛrɛ ma aw ye ko: ne ye Yawe, aw ka Elohim; aw kana siran ⟨את⟩ Emoriw ka batofɛnw min bɛ yɔrɔ min, aw bɛ o dugukolo la yii sigi; nka aw tun ma ne ka kan mɛn.",
   "tokens": [
     {
       "surface": "ואמרה",
-      "gloss": "an ko"
+      "gloss": "an' nin yɛrɛ ma … ye ko"
     },
     {
       "surface": "לכם",
-      "gloss": "aw ma"
+      "gloss": "aw ye"
     },
     {
       "surface": "אני",
@@ -52,7 +25,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "aw Ala Elohim"
+      "gloss": "aw ka Elohim"
     },
     {
       "surface": "לא",
@@ -65,19 +38,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Emori alaw"
+      "marks": "Emoriw ka batofɛnw"
     },
     {
       "surface": "אלהי",
-      "gloss": "alaw"
+      "gloss": "… ka batofɛnw"
     },
     {
       "surface": "האמרי",
-      "gloss": "Emori"
+      "gloss": "Emoriw"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "אתם",
@@ -85,11 +58,11 @@
     },
     {
       "surface": "יושבים",
-      "gloss": "sigilen bɛ"
+      "gloss": "bɛ … sigi"
     },
     {
       "surface": "בארצם",
-      "gloss": "minnu dugukolo kɔnɔ"
+      "gloss": "o dugukolo la"
     },
     {
       "surface": "ולא",
@@ -97,13 +70,13 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "tun ma mɛn"
+      "gloss": "ma … mɛn"
     },
     {
       "surface": "בקולי",
-      "gloss": "ne kan na"
+      "gloss": "ne ka kan"
     }
   ],
-  "timestamp": "2026-10-13T22:07:57.665635431Z",
+  "timestamp": "2026-10-20T15:02:10.437510970Z",
   "model": "glm-5.3"
 }

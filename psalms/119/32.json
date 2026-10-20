@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי",
-      "rationale": "'when' (KJV) vs 'for' (JPS): causal or temporal reading of the enlargement of the heart."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dusukun",
-      "rationale": "לב rendered 'dusukun' (heart); Hebrew usage spans will, mind, feeling."
-    }
-  ],
-  "translation": "I ka ladilakanw sira la, n bɛna dɔgɔya; sabu i bɛ n dusukun janya.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2e323be5f74b3b888726790f8170ad49ab447a522334067e327dd054144f8749",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/29-32.1791941562940.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I yɛ i ka sariya sira kɔnɔ bilakoronɔdɔ, sabu i bɛ n dusukun janya.",
   "tokens": [
     {
       "surface": "דרך",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "מצותיך",
-      "gloss": "i ka ladilakanw"
+      "gloss": "i ka sariya"
     },
     {
       "surface": "ארוץ",
-      "gloss": "n bɛna dɔgɔya"
+      "gloss": "n yɛ … bilakoronɔdɔ"
     },
     {
       "surface": "כי",
@@ -46,13 +25,13 @@
     },
     {
       "surface": "תרחיב",
-      "gloss": "i bɛ ... janya"
+      "gloss": "i bɛ … janya"
     },
     {
       "surface": "לבי",
       "gloss": "n dusukun"
     }
   ],
-  "timestamp": "2026-10-14T01:32:42.941807141Z",
+  "timestamp": "2026-10-20T15:32:33.484319187Z",
   "model": "glm-5.3"
 }

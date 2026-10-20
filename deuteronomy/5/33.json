@@ -5,38 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "טוב",
-      "rationale": "Hebrew is simply 'it be good'; Bamanankan needs a fuller clause 'aw ka aw yɛrɛ la ɲɛgɛn na'"
-    },
-    {
-      "kind": "elision",
-      "subject": "לכם",
-      "rationale": "'to you' is folded into the verb, not a separate word"
-    },
-    {
-      "kind": "crux",
-      "subject": "ירש",
-      "rationale": "'possess' (drive out + occupy) rendered 'sanu' (inherit\/own)"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Second-person plural address throughout, Moses speaking to Israel"
-    }
-  ],
-  "translation": "Sira bɛɛ la min na Yawe ⟨a ye⟩ Aw Ala Matigi bɛ ⟨a fɔ⟩ i n'i jɔyɔrɔ la, aw bɛ kɛɛrɛ furakɛ o sira la, walasa aw bɛ balo, ani aw ka aw yɛrɛ la ɲɛgɛn na, ani aw bɛ aw tilew jalabi dugukolo la min na aw bɛna a sanu.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "34f0c670934a57f4504d6821e7ea6cd01cf0be12d13089e1068b9f3a44fc6cdf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/5\/33-33.1791927529980.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sira bɛɛ la min na Yawe, aw Elohim, minɛli kɔrɔ di ⟨את⟩ aw ma, aw bɛ taa; walasa aw bɛna balo, ani fɛn ɲuman bɛna kɛ aw ye, ani aw bɛna aw tilew mɛn dugukolo min na aw bɛna a minɛ.",
   "tokens": [
     {
       "surface": "בכל",
@@ -48,11 +17,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min na"
     },
     {
       "surface": "צוה",
-      "gloss": "bɛ ⟨a fɔ⟩"
+      "gloss": "minɛli kɔrɔ di"
     },
     {
       "surface": "יהוה",
@@ -60,12 +29,12 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Aw Ala Matigi"
+      "gloss": "aw Elohim"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "aw"
+      "marks": "aw (aw bɛ taa)"
     },
     {
       "surface": "תלכו",
@@ -77,11 +46,11 @@
     },
     {
       "surface": "תחיון",
-      "gloss": "aw bɛ balo"
+      "gloss": "aw bɛna balo"
     },
     {
       "surface": "וטוב",
-      "gloss": "ani aw ka aw yɛrɛ la ɲɛgɛn na"
+      "gloss": "fɛn ɲuman bɛna kɛ"
     },
     {
       "surface": "לכם",
@@ -89,15 +58,15 @@
     },
     {
       "surface": "והארכתם",
-      "gloss": "ani aw bɛ aw tilew jalabi"
+      "gloss": "aw bɛna … mɛn"
     },
     {
       "surface": "ימים",
-      "gloss": "tilew"
+      "gloss": "aw tilew"
     },
     {
       "surface": "בארץ",
-      "gloss": "dugukolo la"
+      "gloss": "dugukolo min na"
     },
     {
       "surface": "אשר",
@@ -105,9 +74,9 @@
     },
     {
       "surface": "תירשון",
-      "gloss": "aw bɛna a sanu"
+      "gloss": "aw bɛna a minɛ"
     }
   ],
-  "timestamp": "2026-10-13T21:38:49.981510403Z",
+  "timestamp": "2026-10-20T13:46:21.988055533Z",
   "model": "glm-5.3"
 }

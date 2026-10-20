@@ -5,41 +5,15 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גבה\/גבעה",
-      "rationale": "high mountain \/ raised hill — near-duplicate roots, a paired escalation lost as plain description in Bambara."
-    },
-    {
-      "kind": "addition",
-      "subject": "waati min",
-      "rationale": "Hebrew בנפל is a bare infinitive 'in the falling'; Bambara needs a relative clause."
-    },
-    {
-      "kind": "measurement",
-      "subject": "bɛnni bonya",
-      "rationale": "the slaughter is quantified — 'great' slaughter, a counting verb-scale on the day of judgment."
-    }
-  ],
-  "translation": "Kulu sanfɛlan bɛɛ na ani kulu fitinin bɛɛ la, ji kɔgɔnɲɛnamaw bɛna jɔ, don min na bɛnni bonya bɛ kɛ, migdaltigiw bɛ bɔ duguma waati min.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "78451e2ab64c25000f22c6cc434baf02381c2f9f46d0de650b916e36b52f6623",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/30\/25-28.1791934091210.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O kɔrɔ, kulu bonya bɛɛ kan ani kulu dɔgɔnin bɛɛ kan min bɛna jɔ, ji sira fitiniw ni baji jolibagaw bɛna tugu, wuruku don min na kubaru kɛra caman ye, don min na tataw bɛna lɔgɔ turunen.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "o bɛna kɛ"
+      "gloss": "o kɔrɔ"
     },
     {
       "surface": "על",
-      "gloss": "sanfɛ"
+      "gloss": "kan"
     },
     {
       "surface": "כל",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "גבה",
-      "gloss": "sanfɛlan"
+      "gloss": "bonya"
     },
     {
       "surface": "ועל",
-      "gloss": "ani sanfɛ"
+      "gloss": "ani … kan"
     },
     {
       "surface": "כל",
@@ -63,19 +37,19 @@
     },
     {
       "surface": "גבעה",
-      "gloss": "kulu fitinin"
+      "gloss": "kulu dɔgɔnin"
     },
     {
       "surface": "נשאה",
-      "gloss": "bɛna jɔ"
+      "gloss": "min bɛna jɔ"
     },
     {
       "surface": "פלגים",
-      "gloss": "ji kɔgɔnɲɛnamaw"
+      "gloss": "ji sira fitiniw"
     },
     {
       "surface": "יבלי",
-      "gloss": "bajikɔgɔnw"
+      "gloss": "baji jolibagaw"
     },
     {
       "surface": "מים",
@@ -83,25 +57,25 @@
     },
     {
       "surface": "ביום",
-      "gloss": "don min na"
+      "gloss": "wuruku don min na"
     },
     {
       "surface": "הרג",
-      "gloss": "bɛnni"
+      "gloss": "kubaru"
     },
     {
       "surface": "רב",
-      "gloss": "bonya"
+      "gloss": "caman"
     },
     {
       "surface": "בנפל",
-      "gloss": "min bɛ bɔ duguma"
+      "gloss": "don min na … bɛna lɔgɔ turunen"
     },
     {
       "surface": "מגדלים",
-      "gloss": "migdaltigiw"
+      "gloss": "tataw"
     }
   ],
-  "timestamp": "2026-10-13T23:28:11.214376908Z",
+  "timestamp": "2026-10-20T14:29:47.505092855Z",
   "model": "glm-5.3"
 }

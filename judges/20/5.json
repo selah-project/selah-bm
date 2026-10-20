@@ -5,57 +5,31 @@
   "book": "judges",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "דמו",
-      "rationale": "'to liken\/consider' here 'they intended' — compare 'thought to slay me' vs literal 'they compared me to killing'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "pilegesi",
-      "rationale": "פילגש rendered 'pilegesi', a concubine; no single Bambara word carries the status."
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel's assembly",
-      "rationale": "The Levite's speech, reported to the assembled tribes."
-    }
-  ],
-  "translation": "Gibɛa tigiw ye u yɛrɛ wuli n na, su la u ye ⟨את⟩ so daaboli n na. Ne, u y'a jate ka ne faga; ani ⟨את⟩ n pilegesi, u ye a ɲagami, a sa.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2806584d19cd92ba378db9dc821264bc51d6e8abfcd2abc42ef861565c77f4f6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/20\/5-8.1791929823967.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gibea bagaw ye min na a kan, u ye ⟨את⟩ so lamɛn min kan su dɔ, ⟨את⟩ min, u y'i miiri k'u b'i sa, u ye ⟨את⟩ min ka filemuso boyi, a sa.",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "u yɛrɛ wuli"
+      "gloss": "wuli (na … kan)"
     },
     {
       "surface": "עלי",
-      "gloss": "n na"
+      "gloss": "kan"
     },
     {
       "surface": "בעלי",
-      "gloss": "tigiw"
+      "gloss": "bagaw"
     },
     {
       "surface": "הגבעה",
-      "gloss": "Gibɛa"
+      "gloss": "Gibea"
     },
     {
       "surface": "ויסבו",
-      "gloss": "daaboli"
+      "gloss": "lamɛn"
     },
     {
       "surface": "עלי",
-      "gloss": "n na"
+      "gloss": "kan"
     },
     {
       "surface": "את",
@@ -68,38 +42,39 @@
     },
     {
       "surface": "לילה",
-      "gloss": "su la"
+      "gloss": "su dɔ"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ⟨ne⟩"
+      "gloss": "⟨את⟩",
+      "marks": "min"
     },
     {
       "surface": "דמו",
-      "gloss": "u y'a jate"
+      "gloss": "miiri"
     },
     {
       "surface": "להרג",
-      "gloss": "ka ne faga"
+      "gloss": "sa"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "n pilegesi"
+      "marks": "filemuso"
     },
     {
       "surface": "פילגשי",
-      "gloss": "n pilegesi"
+      "gloss": "filemuso"
     },
     {
       "surface": "ענו",
-      "gloss": "ɲagami"
+      "gloss": "boyi"
     },
     {
       "surface": "ותמת",
-      "gloss": "a sa"
+      "gloss": "sa"
     }
   ],
-  "timestamp": "2026-10-13T22:17:03.968875572Z",
+  "timestamp": "2026-10-20T15:01:10.395315468Z",
   "model": "glm-5.3"
 }

@@ -5,38 +5,7 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ושוב אלי",
-      "rationale": "KJV 'yet return to me' (imperative, invitation) vs JPS\/BSB 'would you yet return to me?' (incredulous question); Hebrew can carry both."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חנוף תחנף",
-      "rationale": "Infinitive-absolute plus verb of the same root חנף doubles the defilement; the repetition cannot be kept in Bamanankan."
-    },
-    {
-      "kind": "invitation",
-      "subject": "return to me",
-      "rationale": "Despite the accusation, the verse ends with Yawe summoning Israel back."
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "The 'thou' is Judah\/Israel, addressed mid-verse."
-    }
-  ],
-  "translation": "U ko: i n'a fɔ cɛ dɔ y'a ka bɔ a muso ⟨את⟩ bolo, a taa a bolo, a kɛra cɛ wɛrɛ ye — yala a bɛna segin a ye kokura wa? Yala dugukolo in tɛna jijya dɔrɔn wa? Nka i ye jagoya kɛ ni ɲɔgɔnnaw caman ye. Ka segin ne ma, Yawe ko.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6978f36bd0adc38f0e78e67c98190039b1e588eae5832a5d01d7502bbc3d144d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/3\/1-4.1791935062362.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ko: hɛɛ, ni cɛ y'a muso bila, o taa ka bɔ ⟨את⟩ a bolo, ka kɛ cɛ wɛrɛ ta ye, yala a bɛna segin a bolo kokura wa? Yala o dugukolo tɛna kɔrɔtɔ kosɛbɛ wa? Nka i fana, i zana ni jo kɛnɛw caman ye; nka segin ne bolo, Yawe ko.",
   "tokens": [
     {
       "surface": "לאמר",
@@ -44,11 +13,11 @@
     },
     {
       "surface": "הן",
-      "gloss": "i n'a fɔ"
+      "gloss": "hɛɛ"
     },
     {
       "surface": "ישלח",
-      "gloss": "y'a fili"
+      "gloss": "y'a muso bila ka taa"
     },
     {
       "surface": "איש",
@@ -65,15 +34,15 @@
     },
     {
       "surface": "והלכה",
-      "gloss": "a taa"
+      "gloss": "o taa"
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ a bolo"
+      "gloss": "ka bɔ ⟨את⟩ a bolo"
     },
     {
       "surface": "והיתה",
-      "gloss": "a kɛra"
+      "gloss": "ka kɛ"
     },
     {
       "surface": "לאיש",
@@ -81,7 +50,7 @@
     },
     {
       "surface": "אחר",
-      "gloss": "wɛrɛ"
+      "gloss": "wɛrɛ ta ye"
     },
     {
       "surface": "הישוב",
@@ -89,7 +58,7 @@
     },
     {
       "surface": "אליה",
-      "gloss": "a ye"
+      "gloss": "a bolo"
     },
     {
       "surface": "עוד",
@@ -97,15 +66,15 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "yala … tɛ"
+      "gloss": "yala … wa"
     },
     {
       "surface": "חנוף",
-      "gloss": "jijya"
+      "gloss": "kɔrɔtɔ"
     },
     {
       "surface": "תחנף",
-      "gloss": "bɛna jijya"
+      "gloss": "bɛ kɔrɔtɔ"
     },
     {
       "surface": "הארץ",
@@ -113,19 +82,19 @@
     },
     {
       "surface": "ההיא",
-      "gloss": "in"
+      "gloss": "o"
     },
     {
       "surface": "ואת",
-      "gloss": "nka i"
+      "gloss": "i fana"
     },
     {
       "surface": "זנית",
-      "gloss": "jagoya kɛra"
+      "gloss": "i zana"
     },
     {
       "surface": "רעים",
-      "gloss": "ɲɔgɔnnaw"
+      "gloss": "jo kɛnɛw"
     },
     {
       "surface": "רבים",
@@ -133,21 +102,21 @@
     },
     {
       "surface": "ושוב",
-      "gloss": "ka segin"
+      "gloss": "nka segin"
     },
     {
       "surface": "אלי",
-      "gloss": "ne ma"
+      "gloss": "ne bolo"
     },
     {
       "surface": "נאם",
-      "gloss": "Yawe ko"
+      "gloss": "ko"
     },
     {
       "surface": "יהוה",
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-13T23:44:22.364697485Z",
+  "timestamp": "2026-10-20T14:41:33.803761703Z",
   "model": "glm-5.3"
 }

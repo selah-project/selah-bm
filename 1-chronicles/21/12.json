@@ -5,43 +5,7 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "saba san",
-      "rationale": "Here 'three years' of famine, but 2 Samuel 24:13 and LXX read 'seven' — famous divergence"
-    },
-    {
-      "kind": "hapax",
-      "subject": "למשגת",
-      "rationale": "נשגת 'to reach\/overtake' occurs only here in this form in the Tanakh"
-    },
-    {
-      "kind": "measurement",
-      "subject": "saba · kalow · tile",
-      "rationale": "The three options are each measured: three years, three months, three days"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨o min ye ne weele⟩",
-      "rationale": "Hebrew participle שלחי 'my sender' needs a Bambara relative clause to read"
-    },
-    {
-      "kind": "you",
-      "subject": "Dawid",
-      "rationale": "Direct address: 'now see for yourself' — Gad presses David to answer"
-    }
-  ],
-  "translation": "walima kɔngɔn saba san; walima kalow saba, ka tigɛ i ka jatigɛw ɲɛfɛ, ani i ka jatigɛw ka npan ka i ɲɛ; walima tile saba, Yawe ka npan, ni bana dugukolo kan, ani Yawe ka ciden ka famaya Isirayɛl (Izrael) danbɛw bɛɛ la. Sisan, i yɛrɛ lajɛ kuma min na ne bɛna a segin ⟨o min ye ne weele⟩ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "56994edef3d115b73766d68847d44b8650833fc1cfb360ef4d9fc08c069a4c97",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/21\/9-12.1791948156002.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Walima kɔngɔ san saba na; walima kalo saba i bɛna ti i ka bɛnna baw ka ɲɛ, ani i ka tɔgɔmatɔw ka npan bɛna i sew; walima don saba Yawe ka npan, ni bana dugukolo kan, ani Yawe ka ciden bɛ tiw Israyɛl dancɛ bɛɛ la. Sisan, i yɛrɛ lajɛ: kuma mun ne bɛna segin ⟨את⟩ o min ye ne wele a ma.",
   "tokens": [
     {
       "surface": "אם",
@@ -53,11 +17,11 @@
     },
     {
       "surface": "שנים",
-      "gloss": "san"
+      "gloss": "sanw"
     },
     {
       "surface": "רעב",
-      "gloss": "kɔngɔn"
+      "gloss": "kɔngɔ"
     },
     {
       "surface": "ואם",
@@ -73,27 +37,27 @@
     },
     {
       "surface": "נספה",
-      "gloss": "ka tigɛ"
+      "gloss": "ka ti"
     },
     {
       "surface": "מפני",
-      "gloss": "ɲɛfɛ"
+      "gloss": "ka ɲɛ"
     },
     {
       "surface": "צריך",
-      "gloss": "jatigɛw"
+      "gloss": "i ka bɛnna baw"
     },
     {
       "surface": "וחרב",
-      "gloss": "npan"
+      "gloss": "ani npan"
     },
     {
       "surface": "אויבך",
-      "gloss": "jatigɛw"
+      "gloss": "i ka tɔgɔmatɔw ka npan"
     },
     {
       "surface": "למשגת",
-      "gloss": "ka i ɲɛ"
+      "gloss": "ka i sew"
     },
     {
       "surface": "ואם",
@@ -105,7 +69,7 @@
     },
     {
       "surface": "ימים",
-      "gloss": "tile"
+      "gloss": "donw"
     },
     {
       "surface": "חרב",
@@ -117,15 +81,15 @@
     },
     {
       "surface": "ודבר",
-      "gloss": "bana"
+      "gloss": "ani bana"
     },
     {
       "surface": "בארץ",
-      "gloss": "dugukolo kan"
+      "gloss": "dugukolo la"
     },
     {
       "surface": "ומלאך",
-      "gloss": "ciden"
+      "gloss": "ani ciden"
     },
     {
       "surface": "יהוה",
@@ -133,7 +97,7 @@
     },
     {
       "surface": "משחית",
-      "gloss": "famaya"
+      "gloss": "bɛ tiw"
     },
     {
       "surface": "בכל",
@@ -141,11 +105,11 @@
     },
     {
       "surface": "גבול",
-      "gloss": "danbɛw"
+      "gloss": "dancɛ"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayɛl"
+      "gloss": "Israyɛl"
     },
     {
       "surface": "ועתה",
@@ -153,30 +117,30 @@
     },
     {
       "surface": "ראה",
-      "gloss": "lajɛ"
+      "gloss": "i yɛrɛ lajɛ"
     },
     {
       "surface": "מה",
-      "gloss": "kuma min na"
+      "gloss": "kuma mun"
     },
     {
       "surface": "אשיב",
-      "gloss": "segin"
+      "gloss": "ne bɛna segin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "welebagaw (o min ye ne weele)"
+      "marks": "o min ye ne wele"
     },
     {
       "surface": "שלחי",
-      "gloss": "welebagaw"
+      "gloss": "o min ye ne wele"
     },
     {
       "surface": "דבר",
       "gloss": "kuma"
     }
   ],
-  "timestamp": "2026-10-14T03:22:36.003744109Z",
+  "timestamp": "2026-10-20T12:48:30.822139619Z",
   "model": "glm-5.3"
 }

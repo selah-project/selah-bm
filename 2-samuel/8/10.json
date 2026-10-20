@@ -5,54 +5,28 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "איש מלחמות",
-      "rationale": "'kɛlɛcɛ min bɛ Toi fɛ' walima 'Hadadezer ye Toi ka Tun' — KJV 'had wars with Toi' ni YLT 'man of wars' bɛ pulidiya."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨Toi⟩",
-      "rationale": "Heburukan bɔli 'a man of wars of Toi' — nɔnabila farala a kan ka kɔrɔ jira."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kura",
-      "rationale": "נחשת kɔrɔ ye kura\/wɔrɔ ye; 'brass' ye Tubaba sɛbɛnni ye."
-    }
-  ],
-  "translation": "Toi ciyɛ a denkɛ ⟨את⟩ Yoram (Yoram) ma masakɛ Dawid fɛ, ka ɲini a fɛ hɛrɛ, k'a duba, sabu a tora Hadadezer kɛlɛ la o banna a la; sabu Hadadezer tun ye ⟨Toi⟩ ka kɛlɛcɛ ye; a bolo kuntilon tun ye minɛnwarigwɛ, minɛnwasanu ani minɛnkura.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cda57e7303b88f611917223d5a35d20b103457163d085c67082dfe6e0c6334cf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/8\/9-12.1791930992810.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tou ye ⟨את⟩ denkɛ Yoram cili masakɛ Dawid ma, walasa ka a ɲa minɛ i ko a bɛ hɛrɛ la, ani ka a duba, sabu a y'a lakɛlɛ Hadadezer kan ani k'a bɔ a ma — sabu Hadadezer ye Tou ka kɛlɛtɔba-mɔgɔ ye — a bolo kunw ye nagariw: warigwɛ nagariw, sanu nagariw ani nɛgɛ nagariw.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ciyɛ"
+      "gloss": "cili"
     },
     {
       "surface": "תעי",
-      "gloss": "Toi"
+      "gloss": "Tou"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yoram"
+      "marks": "denkɛ Yoram"
     },
     {
       "surface": "יורם",
-      "gloss": "Yoram (Yoram)"
+      "gloss": "Yoram"
     },
     {
       "surface": "בנו",
-      "gloss": "a denkɛ"
+      "gloss": "denkɛ"
     },
     {
       "surface": "אל",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "לשאל",
-      "gloss": "ka ɲini"
+      "gloss": "ɲa minɛ"
     },
     {
       "surface": "לו",
-      "gloss": "a fɛ"
+      "gloss": "a"
     },
     {
       "surface": "לשלום",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "ולברכו",
-      "gloss": "k'a duba"
+      "gloss": "ani ka a duba"
     },
     {
       "surface": "על",
@@ -88,19 +62,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ko"
     },
     {
       "surface": "נלחם",
-      "gloss": "tora kɛlɛ la"
+      "gloss": "lakɛlɛ"
     },
     {
       "surface": "בהדדעזר",
-      "gloss": "Hadadezer"
+      "gloss": "Hadadezer kan"
     },
     {
       "surface": "ויכהו",
-      "gloss": "o banna a la"
+      "gloss": "k'a bɔ a ma"
     },
     {
       "surface": "כי",
@@ -108,19 +82,19 @@
     },
     {
       "surface": "איש",
-      "gloss": "cɛ"
+      "gloss": "mɔgɔ"
     },
     {
       "surface": "מלחמות",
-      "gloss": "kɛlɛw"
+      "gloss": "kɛlɛtɔba"
     },
     {
       "surface": "תעי",
-      "gloss": "Toi"
+      "gloss": "Tou ka"
     },
     {
       "surface": "היה",
-      "gloss": "tun ye"
+      "gloss": "ye … ye"
     },
     {
       "surface": "הדדעזר",
@@ -128,15 +102,15 @@
     },
     {
       "surface": "ובידו",
-      "gloss": "a bolo kuntilon"
+      "gloss": "a bolo kunw"
     },
     {
       "surface": "היו",
-      "gloss": "tun ye"
+      "gloss": "ye … ye"
     },
     {
       "surface": "כלי",
-      "gloss": "minɛnw"
+      "gloss": "nagariw"
     },
     {
       "surface": "כסף",
@@ -144,7 +118,7 @@
     },
     {
       "surface": "וכלי",
-      "gloss": "minɛnwa-"
+      "gloss": "ani nagariw"
     },
     {
       "surface": "זהב",
@@ -152,13 +126,13 @@
     },
     {
       "surface": "וכלי",
-      "gloss": "minɛnkura-"
+      "gloss": "ani nagariw"
     },
     {
       "surface": "נחשת",
-      "gloss": "kura"
+      "gloss": "nɛgɛ"
     }
   ],
-  "timestamp": "2026-10-13T22:36:32.813374492Z",
+  "timestamp": "2026-10-20T13:30:51.215816196Z",
   "model": "glm-5.3"
 }

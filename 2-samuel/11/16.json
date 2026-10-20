@@ -5,36 +5,15 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל העיר",
-      "gloss": "against the city — בשמור אל with hostile sense, rendered \"ye dugu kɔlɔsi\""
-    },
-    {
-      "kind": "substitution",
-      "subject": "אנשי חיל",
-      "rationale": "\"men of חיל (strength\/valor)\" — likely the enemy's strongest soldiers here, rendered cɛsiriw"
-    }
-  ],
-  "translation": "Yowab tun ye dugu kɔlɔsi waati, a y'⟨את⟩ Uriya bila yɔrɔ min na, a y'a dɔn ko cɛsiriw de yen sɔrɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "4c71a5eb2f7834d7952f882dec82f1fe2ba7fdd49a5fae37ef9b8fcc9d3b3670",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/11\/13-16.1791931152547.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kɛra a ma: Yowab ye dugu kɔlɔsi waati na, a y' ⟨את⟩ Uriya bila yɔrɔ min na min tun ye a ye ko a dɔn ko sɛbɛ cɛmancɛw de yen.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "waati"
+      "gloss": "kɛra a ma"
     },
     {
       "surface": "בשמור",
-      "gloss": "ye … kɔlɔsi"
+      "gloss": "kɔlɔsili waati na"
     },
     {
       "surface": "יואב",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "ye … bila"
+      "gloss": "a y'a bila"
     },
     {
       "surface": "את",
@@ -63,19 +42,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "… yɔrɔ min na"
+      "gloss": "yɔrɔ min na"
     },
     {
       "surface": "המקום",
-      "gloss": "yɔrɔ"
+      "gloss": "yɔrɔ min na"
     },
     {
       "surface": "אשר",
-      "gloss": "min na"
+      "gloss": ""
     },
     {
       "surface": "ידע",
-      "gloss": "ye a dɔn"
+      "gloss": "a ye ... dɔn"
     },
     {
       "surface": "כי",
@@ -83,17 +62,17 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "cɛw"
+      "gloss": "cɛmancɛw"
     },
     {
       "surface": "חיל",
-      "gloss": "cɛsiriw"
+      "gloss": "sɛbɛ"
     },
     {
       "surface": "שם",
       "gloss": "yen"
     }
   ],
-  "timestamp": "2026-10-13T22:39:12.549615673Z",
+  "timestamp": "2026-10-20T13:23:26.491252783Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sabu",
-      "rationale": "עקב ye 'kunfe' ye (sɔrɔdasi kunfe); n'a fɔ daɲɛbɛn na, a kɔrɔ ye 'o kunfe la' — o kama 'sabu' (sabu\/sira) ye a ta ye"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמרתם \/ ושמר",
-      "rationale": "mara (aw y'u mara) ni mara (Yawe na mara) — misali kelen-kelen bɛ Kuma la; Bamanankan y'a mara"
-    },
-    {
-      "kind": "you",
-      "subject": "Israɛl",
-      "rationale": "kuma bɛ tugu Israɛl ka mɔgɔw kan (nɔnabila 'aw')"
-    },
-    {
-      "kind": "elision",
-      "subject": "תשמעון -ון",
-      "rationale": "paragogic nun suffix in תשמעון has no separate rendering"
-    }
-  ],
-  "translation": "O bɛna kɛ: sabu aw ye nin sariya-sariwaw mɛn, aw y'u mara, aw y'u baara, Yawe Aw Ala na ⟨את⟩ layidu ni ⟨את⟩ hesed min lɔ aw faaw ma, o mara aw ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "57ed0f363d68caa8eadef1edd928d01f6d5756901a294199f5337fbf8073dc52",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/7\/12-12.1791949997621.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O kɛra a kelen ye: aw ye nin sariyamaraw mɛn, k'u mara, k'u kɛ, Yawe aw Elohim bɛna aw ye layidu in mara ni ⟨את⟩ hesed min ye i n'a fɔ aw ka maw de ye aw ka fa-baw ma seere cogo.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "O bɛna kɛ"
+      "gloss": "kɛra"
     },
     {
       "surface": "עקב",
@@ -48,16 +17,16 @@
     },
     {
       "surface": "תשמעון",
-      "gloss": "aw ye … mɛn"
+      "gloss": "mɛn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nin sariya-sariwaw"
+      "marks": "nin sariyamaraw"
     },
     {
       "surface": "המשפטים",
-      "gloss": "sariya-sariwaw"
+      "gloss": "sariyamaraw"
     },
     {
       "surface": "האלה",
@@ -65,20 +34,20 @@
     },
     {
       "surface": "ושמרתם",
-      "gloss": "aw y'u mara"
+      "gloss": "mara"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "aw y'u baara"
+      "gloss": "kɛ"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "u (sariya-sariwaw)"
+      "marks": "oli (nin sariyamaraw)"
     },
     {
       "surface": "ושמר",
-      "gloss": "o mara aw ye"
+      "gloss": "mara"
     },
     {
       "surface": "יהוה",
@@ -86,7 +55,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Aw Ala"
+      "gloss": "aw Elohim"
     },
     {
       "surface": "לך",
@@ -95,7 +64,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "layidu"
+      "marks": "layidu in"
     },
     {
       "surface": "הברית",
@@ -104,7 +73,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "hesed"
+      "marks": "hesed in"
     },
     {
       "surface": "החסד",
@@ -116,13 +85,13 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "lɔ"
+      "gloss": "seere"
     },
     {
       "surface": "לאבתיך",
-      "gloss": "aw faaw ma"
+      "gloss": "aw ka fa-baw ma"
     }
   ],
-  "timestamp": "2026-10-14T03:53:17.622150175Z",
+  "timestamp": "2026-10-20T13:47:06.151150923Z",
   "model": "glm-5.3"
 }

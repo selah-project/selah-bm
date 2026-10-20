@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Yehoshua",
-      "rationale": "Yawe ka kuma in bɛ Yehoshua de ma"
-    },
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "aleph-tav taamasiyɛnw naani ye dɔrɔn ⟨את⟩ jira, u ma kɛ kuma ye"
-    }
-  ],
-  "translation": "Yawe ye ko Yehoshua (Yezu) ma ko: i kana siran, i kana dogo; ta mɔgɔ bɛɛ minnu bɛ kɛ cognyɔgɔnɔma ye, i ni u jɔ, taa Ayi (Hay) kɔnɔ. A ye, ne dii ⟨את⟩ Ayi masakɛ ni ⟨את⟩ a jamaa ni ⟨את⟩ a dugu ni ⟨את⟩ a dugukolo bolo i bolo la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8f22ff8e03a78d4be1455485096c1d50cd81157e2b640c5c0e1aec7450d05e74",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/8\/1-4.1791928713809.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe ko Yehoshua fɛ: I kana siran, ani i kana ɲagami; ta ni i ye ⟨את⟩ kɛlɛ jama bɛɛ, ka duminki, ka ta Ɛ san. A ye: ne ye ⟨את⟩ Ɛ masakɛ ni ⟨את⟩ a jama ni ⟨את⟩ a dugu ni ⟨את⟩ a dugukolo di i bolo.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ye … ko"
+      "gloss": "ko"
     },
     {
       "surface": "יהוה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "fɛ"
     },
     {
       "surface": "יהושע",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "i kana"
+      "gloss": "ani kana"
     },
     {
       "surface": "תחת",
-      "gloss": "dɔgɔya"
+      "gloss": "ɲagami"
     },
     {
       "surface": "קח",
@@ -66,12 +45,12 @@
     },
     {
       "surface": "עמך",
-      "gloss": "i ni"
+      "gloss": "ni i ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mɔgɔ bɛɛ minnu bɛ kɛ cognyɔgɔnɔma ye"
+      "marks": "kɛlɛ jama bɛɛ"
     },
     {
       "surface": "כל",
@@ -79,23 +58,23 @@
     },
     {
       "surface": "עם",
-      "gloss": "mɔgɔ"
+      "gloss": "jama"
     },
     {
       "surface": "המלחמה",
-      "gloss": "cognyɔgɔnɔma"
+      "gloss": "kɛlɛ"
     },
     {
       "surface": "וקום",
-      "gloss": "jɔ"
+      "gloss": "ka duminki"
     },
     {
       "surface": "עלה",
-      "gloss": "taa"
+      "gloss": "ka san"
     },
     {
       "surface": "העי",
-      "gloss": "Ayi kɔnɔ"
+      "gloss": "Ɛ"
     },
     {
       "surface": "ראה",
@@ -103,16 +82,16 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "ne dii"
+      "gloss": "ne ye … di"
     },
     {
       "surface": "בידך",
-      "gloss": "i bolo la"
+      "gloss": "i bolo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ayi masakɛ"
+      "marks": "Ɛ masakɛ"
     },
     {
       "surface": "מלך",
@@ -120,16 +99,16 @@
     },
     {
       "surface": "העי",
-      "gloss": "Ayi"
+      "gloss": "Ɛ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "a jamaa"
+      "marks": "a jama"
     },
     {
       "surface": "עמו",
-      "gloss": "a jamaa"
+      "gloss": "a jama"
     },
     {
       "surface": "ואת",
@@ -150,6 +129,6 @@
       "gloss": "a dugukolo"
     }
   ],
-  "timestamp": "2026-10-13T21:58:33.810866222Z",
+  "timestamp": "2026-10-20T14:58:20.734560231Z",
   "model": "glm-5.3"
 }

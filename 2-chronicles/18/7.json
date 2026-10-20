@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Israel ka masakɛ",
-      "rationale": "the king speaks directly to Jehoshaphat; Jehoshaphat replies to the king"
-    },
-    {
-      "kind": "elision",
-      "subject": "mi-tit-nabe alay",
-      "rationale": "'he is not prophesying over me' — continuous aspect rendered with simple negative 'a tɛ wele'"
-    },
-    {
-      "kind": "crux",
-      "subject": "saréis",
-      "rationale": "v8: eunuch vs court officer; here translators split 'sí a bɛ fɔ' — KJV 'never' vs literal 'all his days'"
-    }
-  ],
-  "translation": "Israel ka masakɛ ko Yehoshafat ma: Nafa, mɔgɔ kelen dɔ walen na min bɛ se ka Yawe ɲini dɛrɛ ⟨את⟩ a la; nka ne, m'o kunbɛn, bawo a tɛ wele diya n kan, nka a donw bɛɛ a bɛ wele jujuya n kan — o ye Mikaehu, Yimla denkɛ ye. Yehoshafat ko: Masakɛ, i kana o kuma fɔ cogo min.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0e31a89b7cd91413293d6c17f6809bf35ddc5b185f21755572f58e9541682a7a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/18\/5-8.1791949160751.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Israel ka masakɛ ye Yehoshafat ko: mɔgɔ kelen nan bɛ yen min fɛ an bɛ se ka ⟨את⟩ Yawe ɲini a fɛ; ani ne, ne y'a kɔngɔ, sabu a tɛ ɲɛsuman nabi-ya ne kan, nka a donnbɛɛ nabi-yali ye ko nɛma ne kan; ale ye Mika ye, Yimla den. Yehoshafat ye ko: masakɛ, i kana kuma fɔ cogo min na.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayɛl"
+      "gloss": "Israel"
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "ye"
     },
     {
       "surface": "יהושפט",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "nafa"
+      "gloss": "nan"
     },
     {
       "surface": "איש",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "לדרוש",
-      "gloss": "ka ɲini"
+      "gloss": "walasa ka ɲini"
     },
     {
       "surface": "את",
@@ -80,20 +54,20 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ dɛrɛ a la",
-      "marks": "a (Mikaehu)"
+      "gloss": "⟨את⟩",
+      "marks": "ani ne"
     },
     {
       "surface": "ואני",
-      "gloss": "nka ne"
+      "gloss": "ani ne"
     },
     {
       "surface": "שנאתיהו",
-      "gloss": "m'o kunbɛn"
+      "gloss": "ne y'a kɔngɔ"
     },
     {
       "surface": "כי",
-      "gloss": "bawo"
+      "gloss": "sabu"
     },
     {
       "surface": "איננו",
@@ -101,15 +75,15 @@
     },
     {
       "surface": "מתנבא",
-      "gloss": "wele"
+      "gloss": "nabi-ya"
     },
     {
       "surface": "עלי",
-      "gloss": "n kan"
+      "gloss": "ne kan"
     },
     {
       "surface": "לטובה",
-      "gloss": "diya"
+      "gloss": "ni ɲɛsuman"
     },
     {
       "surface": "כי",
@@ -121,23 +95,23 @@
     },
     {
       "surface": "ימיו",
-      "gloss": "a donw"
+      "gloss": "a donnbɛɛ"
     },
     {
       "surface": "לרעה",
-      "gloss": "jujuya"
+      "gloss": "ko nɛma"
     },
     {
       "surface": "הוא",
-      "gloss": "o ye"
+      "gloss": "ale"
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Mikaehu"
+      "gloss": "Mika"
     },
     {
       "surface": "בן",
-      "gloss": "denkɛ"
+      "gloss": "den"
     },
     {
       "surface": "ימלא",
@@ -145,7 +119,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "ye … ko"
     },
     {
       "surface": "יהושפט",
@@ -153,7 +127,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "i kana"
+      "gloss": "kana"
     },
     {
       "surface": "יאמר",
@@ -165,9 +139,9 @@
     },
     {
       "surface": "כן",
-      "gloss": "cogo min"
+      "gloss": "cogo min na"
     }
   ],
-  "timestamp": "2026-10-14T03:39:20.753099541Z",
+  "timestamp": "2026-10-20T13:10:23.101765601Z",
   "model": "glm-5.3"
 }

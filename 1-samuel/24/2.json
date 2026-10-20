@@ -5,48 +5,27 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ויהי",
-      "rationale": "wayyiqtol kɔgɔjɛbaga, Bambara tɛ a nɔ daɲɛ dɔ wajibiya, o la a ma bayɛlɛma"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kungo",
-      "rationale": "מדבר kɔrɔ ye 'nakɔ-fɔli yɔrɔ, dase yɔrɔ' ye; 'kungo' (jala yɔrɔ) ye nɔgɔya-kɔrɔ dɔrɔn"
-    }
-  ],
-  "translation": "Sha-ul (Saul) ye a yɛrɛ segin Pelisitiw (Fulisintɛnw) tile fɛ, u y'a fɔ a ye ko: “Aw ye, Dawid bɛ Eyin-Gedi kungo kɔnɔ.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f87057065c432e457da7a07668390ef5126ec80feb3d6ba74b30131f2e9b59ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/24\/1-4.1791930660739.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kɔrɔ in na, ni Shaul (Sawulu) y'a yɛrɛ segin Pelisitiw ka nɔ na, u y'a lagilɛ a ye ko: aw ye, Dawid bɛ dasi kɔnɔ, En-Gedi.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": ""
+      "gloss": "kɔrɔ in na"
     },
     {
       "surface": "כאשר",
-      "gloss": "tuma min na"
+      "gloss": "ni"
     },
     {
       "surface": "שב",
-      "gloss": "ye a yɛrɛ segin"
+      "gloss": "segin"
     },
     {
       "surface": "שאול",
-      "gloss": "Sha-ul"
+      "gloss": "Shaul (Sawulu)"
     },
     {
       "surface": "מאחרי",
-      "gloss": "tile fɛ"
+      "gloss": "ka nɔ na"
     },
     {
       "surface": "פלשתים",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "ויגדו",
-      "gloss": "u y'a fɔ"
+      "gloss": "u y'a lagilɛ"
     },
     {
       "surface": "לו",
@@ -74,17 +53,17 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "kungo kɔnɔ"
+      "gloss": "dasi kɔnɔ"
     },
     {
       "surface": "עין",
-      "gloss": "Eyin-"
+      "gloss": "En-"
     },
     {
       "surface": "גדי",
       "gloss": "Gedi"
     }
   ],
-  "timestamp": "2026-10-13T22:31:00.741094289Z",
+  "timestamp": "2026-10-20T13:03:42.806338519Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ciden",
-      "rationale": "'Sent a messenger' — verb שלח needs an object noun in Bambara"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ma jalaki",
-      "rationale": "התפללת rendered as 'prayed to me'; Hebrew hitpalel is reflexive-intensitive of judge\/intercede"
-    }
-  ],
-  "translation": "Yeshaayahu (Isaya), Amots denkɛ, ye ciden ci Khizkiyahu (Ezekiya) ma, a ko: Yawe, Israyel ka Ala, o ko cogo min na: i min ma jalaki ne la, Sanxeribu, Ashur masakɛ, kan na — ne mɛn.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a1fec169dc978f33dfee8ceead9ce6e58419f54d30237224155216646c196cc3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/19\/17-20.1791933192948.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yeshayahu (Yesaya), Amots denkɛ, y'a ci Hizikiyahu (Ezekiya) ma ko: n'k'o Yawe, Isirayɛl (Izirayɛli) Elohim ye min fɔ ko: kuma min i fɔra ne ma Sancherib, Ashur masakɛ ɲɛ, ne mɛn a ye.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ye ciden ci"
+      "gloss": "y'a ci"
     },
     {
       "surface": "ישעיהו",
-      "gloss": "Yeshaayahu (Isaya)"
+      "gloss": "Yeshayahu"
     },
     {
       "surface": "בן",
@@ -50,19 +29,19 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Khizkiyahu (Ezekiya)"
+      "gloss": "Hizikiyahu"
     },
     {
       "surface": "לאמר",
-      "gloss": "a ko"
+      "gloss": "ko"
     },
     {
       "surface": "כה",
-      "gloss": "cogo min na"
+      "gloss": "n'k'o"
     },
     {
       "surface": "אמר",
-      "gloss": "ko"
+      "gloss": "fɔ"
     },
     {
       "surface": "יהוה",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "ka Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Isirayɛl"
     },
     {
       "surface": "אשר",
@@ -82,19 +61,19 @@
     },
     {
       "surface": "התפללת",
-      "gloss": "ma jalaki"
+      "gloss": "i fɔra"
     },
     {
       "surface": "אלי",
-      "gloss": "ne la"
+      "gloss": "ne ma"
     },
     {
       "surface": "אל",
-      "gloss": "kan na"
+      "gloss": "ɲɛ"
     },
     {
       "surface": "סנחרב",
-      "gloss": "Sanxeribu"
+      "gloss": "Sancherib"
     },
     {
       "surface": "מלך",
@@ -106,9 +85,9 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "ne mɛn"
+      "gloss": "ne mɛn a ye"
     }
   ],
-  "timestamp": "2026-10-13T23:13:12.962815953Z",
+  "timestamp": "2026-10-20T13:18:48.953222952Z",
   "model": "glm-5.3"
 }

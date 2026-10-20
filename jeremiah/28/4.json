@@ -5,42 +5,16 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "baganw",
-      "rationale": "גלות (exile\/captivity, collective) rendered 'baganw' (the exiles) — concrete people, not abstract state."
-    },
-    {
-      "kind": "addition",
-      "subject": "u",
-      "rationale": "Object pronoun 'u' added before 'segin', supplied by Hebrew's fronted objects marked by ואת."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אשבר \/ שברתי",
-      "rationale": "Verse 4's 'I will break' echoes verse 2's 'I have broken' — the false oracle repeats the same verb in promise form."
-    }
-  ],
-  "translation": "Ani ⟨את⟩ Yekonya (Yekonia) Yehoyakim denkɛ, Yuda masakɛ, ani ⟨את⟩ Yuda ka baganw bɛɛ minnu nana Babel, ne bɛna u segin yɔrɔ nin na — Yawe kuma tiɲɛna — sabu ne bɛna ⟨את⟩ Babel masakɛ ka kana gɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "079f9383f32f1dbd195e2ceed92f44f201ebd8972ecf6221aca797430f9cd7a5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/28\/1-4.1791935810600.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni ⟨את⟩ Yekonya (Yekonya), Yehoyakim (Yehoyakim) denkɛ, Yuda (Yuda) masakɛ, ani ⟨את⟩ Yuda ka giluti bɛɛ minnu nana Babilɔn (Babilɔn), ne bɛ u segin o yɔrɔ na — Yawe ka kuma ko: sabu ne bɛna ⟨את⟩ Babilɔn masakɛ ka kɔgɔn tiɲɛ.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yekonya"
     },
     {
       "surface": "יכניה",
-      "gloss": "Yekonya (Yekonia)"
+      "gloss": "Yekonya"
     },
     {
       "surface": "בן",
@@ -60,8 +34,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩",
-      "marks": "Yuda ka baganw bɛɛ"
+      "gloss": "⟨את⟩",
+      "marks": "Yuda ka giluti bɛɛ"
     },
     {
       "surface": "כל",
@@ -69,7 +43,7 @@
     },
     {
       "surface": "גלות",
-      "gloss": "baganw"
+      "gloss": "giluti"
     },
     {
       "surface": "יהודה",
@@ -81,7 +55,7 @@
     },
     {
       "surface": "בבלה",
-      "gloss": "Babel"
+      "gloss": "Babilɔn"
     },
     {
       "surface": "אני",
@@ -89,23 +63,23 @@
     },
     {
       "surface": "משיב",
-      "gloss": "bɛna … segin"
+      "gloss": "bɛ u segin"
     },
     {
       "surface": "אל",
-      "gloss": "yɔrɔ … na"
+      "gloss": "na"
     },
     {
       "surface": "המקום",
-      "gloss": "yɔrɔ"
+      "gloss": "o yɔrɔ"
     },
     {
       "surface": "הזה",
-      "gloss": "nin"
+      "gloss": "o"
     },
     {
       "surface": "נאם",
-      "gloss": "kuma tiɲɛna"
+      "gloss": "ka kuma"
     },
     {
       "surface": "יהוה",
@@ -117,16 +91,16 @@
     },
     {
       "surface": "אשבר",
-      "gloss": "ne bɛna … gɛ"
+      "gloss": "bɛna … tiɲɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Babel masakɛ ka kana"
+      "marks": "Babilɔn masakɛ ka kɔgɔn"
     },
     {
       "surface": "על",
-      "gloss": "kana"
+      "gloss": "kɔgɔn"
     },
     {
       "surface": "מלך",
@@ -134,9 +108,9 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babel"
+      "gloss": "Babilɔn"
     }
   ],
-  "timestamp": "2026-10-13T23:56:50.601859363Z",
+  "timestamp": "2026-10-20T14:40:09.237081943Z",
   "model": "glm-5.3"
 }

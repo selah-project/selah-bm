@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חי",
-      "rationale": "«sogo kaŋ» (raw): חי tiɲe na ye «ka balo \/ ka gui ma» ye; bayɛlɛmali caman fɔ «raw», dɔw fɔ «alive»"
-    },
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "כי אם ye kelen ye — «nka … dɔrɔn»; אם tɛtɛ a yɛrɛ wele"
-    },
-    {
-      "kind": "you",
-      "subject": "saraka-bɔla",
-      "rationale": "kumasen in bɛ fɔ mɔgɔ min bɛ saraka bɔ — tɛrimɔsi kuma kɔrɔ"
-    }
-  ],
-  "translation": "Hali ka tɛmɛ u ka kunu jo, sarakalasebagaden nana, k'a fɔ saraka-bɔla ma ko: “Di sogo sarakalasebaga ma ka a laabi; a tɛna sogo-guilen ta i bolo, nka sogo kaŋ.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a66a902cbb32e94b06154aa409551a1a4108a20f827696d55518340d7eabdf4a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/2\/13-16.1791929944665.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hali ka a fo u na ⟨את⟩ tulu (kunu nɔgɔlen) bɛ tasumandi sarakabɔlan kan, sarakalasebagaw ka den kɛra na, a ko saraka dilabaga ye: “Sogo di ka ɲɔngi sarakalasebaga kama; a tɛna sogo jisɛgɛnnen minɛ i bolo, nka min ma jisɛgɛn dɔrɔn.”",
   "tokens": [
     {
       "surface": "גם",
@@ -39,24 +13,24 @@
     },
     {
       "surface": "בטרם",
-      "gloss": "ka tɛmɛ"
+      "gloss": "ka a fo"
     },
     {
       "surface": "יקטרון",
-      "gloss": "u ka kunu jo"
+      "gloss": "tasumandi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kunuma"
+      "marks": "tulu kunu nɔgɔlen"
     },
     {
       "surface": "החלב",
-      "gloss": "kunuma"
+      "gloss": "tulu"
     },
     {
       "surface": "ובא",
-      "gloss": "nana"
+      "gloss": "kɛra na"
     },
     {
       "surface": "נער",
@@ -64,19 +38,19 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "sarakalasebagen"
+      "gloss": "sarakalasebagaw"
     },
     {
       "surface": "ואמר",
-      "gloss": "k'a fɔ"
+      "gloss": "a ko"
     },
     {
       "surface": "לאיש",
-      "gloss": "mɔgɔ ma"
+      "gloss": "dilabaga"
     },
     {
       "surface": "הזבח",
-      "gloss": "saraka-bɔla"
+      "gloss": "saraka"
     },
     {
       "surface": "תנה",
@@ -88,19 +62,19 @@
     },
     {
       "surface": "לצלות",
-      "gloss": "ka a laabi"
+      "gloss": "ka ɲɔngi"
     },
     {
       "surface": "לכהן",
-      "gloss": "sarakalasebaga ma"
+      "gloss": "sarakalasebaga kama"
     },
     {
       "surface": "ולא",
-      "gloss": "tɛna"
+      "gloss": "a tɛna"
     },
     {
       "surface": "יקח",
-      "gloss": "ta"
+      "gloss": "minɛ"
     },
     {
       "surface": "ממך",
@@ -112,21 +86,21 @@
     },
     {
       "surface": "מבשל",
-      "gloss": "guilen"
+      "gloss": "jisɛgɛnnen"
     },
     {
       "surface": "כי",
-      "gloss": "nka"
-    },
-    {
-      "surface": "אם",
       "gloss": ""
     },
     {
+      "surface": "אם",
+      "gloss": "dɔrɔn"
+    },
+    {
       "surface": "חי",
-      "gloss": "sogo kaŋ"
+      "gloss": "min ma jisɛgɛn"
     }
   ],
-  "timestamp": "2026-10-13T22:19:04.672763330Z",
+  "timestamp": "2026-10-20T13:02:14.596889044Z",
   "model": "glm-5.3"
 }

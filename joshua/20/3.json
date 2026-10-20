@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ni",
-      "rationale": "נפש ye 'ni' ye sariya tabali la, a kɔrɔ ka surun ni\/ɲɛmogo-bali ye, a tɛ 'soul' ye"
-    },
-    {
-      "kind": "substitution",
-      "subject": "joli-fagatigi",
-      "rationale": "מגאל הדם goel = denbaya-tigi min bɛ joli labɛn; 'joli-fagatigi' (avenger of blood) ye lasɔmini ye, a tɛ bɔ … bolo taamasiyɛn ye"
-    }
-  ],
-  "translation": "Walasa fagatigi min na bɔ yen, min ye ni faga ni lasɔrɔ ye, a dɔn ma ɲɛ, duguw na kɛ aw lamɛnyɔrɔ ye, ka aw lamɛn joli-fagatigi bolo.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "37074ecb82818d098037b6f9d9124a57fb5df0627c523c4c7396dc92a7f20696",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/20\/1-4.1791929048446.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Walasa mɔgɔ min bɛ ⟨את⟩ ni bɔ, ayida sababu na, a dɔn tɛ o ye, a bɛ se ka taa walaka yen; dugu ninnu bɛna kɛ aw ye fulo-yɔrɔ ye, joli bɔbagi bolo.",
   "tokens": [
     {
       "surface": "לנוס",
-      "gloss": "walasa ka bɔ"
+      "gloss": "walaka"
     },
     {
       "surface": "שמה",
@@ -38,31 +17,32 @@
     },
     {
       "surface": "רוצח",
-      "gloss": "fagatigi"
+      "gloss": "mɔgɔ min bɛ ni bɔ"
     },
     {
       "surface": "מכה",
-      "gloss": "min ye … faga"
+      "gloss": "min bɛ ⟨את⟩ bɔ"
     },
     {
       "surface": "נפש",
-      "gloss": "ni"
+      "gloss": "ni",
+      "marks": "ni"
     },
     {
       "surface": "בשגגה",
-      "gloss": "ni lasɔrɔ ye"
+      "gloss": "ayida sababu na"
     },
     {
       "surface": "בבלי",
-      "gloss": "a … ma"
+      "gloss": "a dɔn tɛ"
     },
     {
       "surface": "דעת",
-      "gloss": "dɔn"
+      "gloss": "o ye"
     },
     {
       "surface": "והיו",
-      "gloss": "na kɛ … ye"
+      "gloss": "bɛna kɛ aw ye"
     },
     {
       "surface": "לכם",
@@ -70,17 +50,17 @@
     },
     {
       "surface": "למקלט",
-      "gloss": "lamɛnyɔrɔ"
+      "gloss": "fulo-yɔrɔ"
     },
     {
       "surface": "מגאל",
-      "gloss": "joli-…"
+      "gloss": "joli bɔbagi"
     },
     {
       "surface": "הדם",
-      "gloss": "fagatigi"
+      "gloss": "joli"
     }
   ],
-  "timestamp": "2026-10-13T22:04:08.448042483Z",
+  "timestamp": "2026-10-20T15:48:34.815736459Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "nehemiah",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "i yɛrɛ",
-      "rationale": "Hebrew emphatic pronoun אתה הוא plus second את rendered with bracketed reflexive to keep the emphasis."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "shemi hashamayim",
-      "rationale": "'heavens of the heavens' — superlative construct kept literally as sankolo ka sankolow."
-    }
-  ],
-  "translation": "Ni Yawe, ⟨i yɛrɛ⟩ sɔrɔ, i ye kelen ye; i ye ⟨את⟩ sankolow da — sankolo ka sankolow ni u ka sɔrɔdenniw bɛɛ — dugukolo ni min bɛ a kan bɛɛ, kɔgɔjiw ni min bɛ u kɔnɔ bɛɛ; ni ye u bɛɛ balo, sankolo ka sɔrɔdenniw bɛ i lamini.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f1a23b9be2646ea2f1cf4a2339278612ef899c9cdd93fa5e33495f2af27513f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/9\/5-8.1791947169567.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I de ye Yawe ye, i yɛrɛ dɔrɔn; ⟨את⟩ i dilanna ⟨את⟩ sankolow, sankolow ka sankolow, ni u ka jaamu bɛɛ; ani dugukolo ni fɛn bɛɛ min b'a sanfɛ; ani kɔgɔjiw ni fɛn bɛɛ min b'u kɔnɔ; ani i bɛ ⟨את⟩ u bɛɛ balo; sankolow ka ɲɛmɔgɔw bɛ i la sigi kunbɛn.",
   "tokens": [
     {
       "surface": "אתה",
-      "gloss": "ni"
+      "gloss": "i"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨i yɛrɛ⟩"
+      "gloss": "de"
     },
     {
       "surface": "יהוה",
@@ -42,15 +21,16 @@
     },
     {
       "surface": "לבדך",
-      "gloss": "i ye kelen ye"
+      "gloss": "i yɛrɛ dɔrɔn"
     },
     {
       "surface": "את",
-      "gloss": "⟨i yɛrɛ⟩"
+      "gloss": "⟨את⟩",
+      "marks": "i dilanna"
     },
     {
       "surface": "עשית",
-      "gloss": "i ye … da"
+      "gloss": "dilanna"
     },
     {
       "surface": "את",
@@ -63,7 +43,7 @@
     },
     {
       "surface": "שמי",
-      "gloss": "sankolo ka"
+      "gloss": "sankolow ka"
     },
     {
       "surface": "השמים",
@@ -71,11 +51,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ni bɛɛ"
+      "gloss": "ani"
     },
     {
       "surface": "צבאם",
-      "gloss": "u ka sɔrɔdenniw"
+      "gloss": "u ka jaamu"
     },
     {
       "surface": "הארץ",
@@ -83,7 +63,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ni bɛɛ"
+      "gloss": "ani"
     },
     {
       "surface": "אשר",
@@ -91,7 +71,7 @@
     },
     {
       "surface": "עליה",
-      "gloss": "a kan"
+      "gloss": "b'a sanfɛ"
     },
     {
       "surface": "הימים",
@@ -99,7 +79,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ni bɛɛ"
+      "gloss": "ani"
     },
     {
       "surface": "אשר",
@@ -111,11 +91,11 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "ni"
+      "gloss": "ani i"
     },
     {
       "surface": "מחיה",
-      "gloss": "balo"
+      "gloss": "balo-da"
     },
     {
       "surface": "את",
@@ -124,25 +104,25 @@
     },
     {
       "surface": "כלם",
-      "gloss": "bɛɛ"
+      "gloss": "u bɛɛ"
     },
     {
       "surface": "וצבא",
-      "gloss": "sɔrɔdenniw"
+      "gloss": "ɲɛmɔgɔw"
     },
     {
       "surface": "השמים",
-      "gloss": "sankolo ka"
+      "gloss": "sankolow ka"
     },
     {
       "surface": "לך",
-      "gloss": "i"
+      "gloss": "i la"
     },
     {
       "surface": "משתחוים",
-      "gloss": "lamini"
+      "gloss": "sigi kunbɛn"
     }
   ],
-  "timestamp": "2026-10-14T03:06:09.568537900Z",
+  "timestamp": "2026-10-20T15:20:04.206910961Z",
   "model": "glm-5.3"
 }

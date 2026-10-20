@@ -5,33 +5,11 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בגבורתם",
-      "rationale": "'in their might' — bɛɛ bɛ fɔ ko u seba kɔnɔ u bilala, Hebrew fɔcogo bilalen don."
-    },
-    {
-      "kind": "elision",
-      "subject": "נתנו",
-      "gloss": "bilala",
-      "rationale": "'were given' passive; Bambara active rendering bilala required."
-    }
-  ],
-  "translation": "Yen Edom bɛ, i ka masaw ni i ka kunnafonitigɛw bɛɛ, minnu bilala u ka seba la, ⟨את⟩ npan winebaw ye; olu de bɛ labilenw la sow, ani ⟨את⟩ minnu bɛ kindɛ na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8d20e7485cce3f378d490e4a7c9c84ed329371057383174cf1277606efdef7d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/32\/29-32.1791937602868.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yen de, Edom don, ni a masakɛw ni a jamanatigiw bɛɛ, minnu bilala u sebaaya la ⟨את⟩ npanfɔw ye; olu bɛ son ni ⟨את⟩ kɔnkɔrɔbaganw ye, ani ni ⟨את⟩ minnu bɛ bɔrɔla.",
   "tokens": [
     {
       "surface": "שמה",
-      "gloss": "yen"
+      "gloss": "yen de"
     },
     {
       "surface": "אדום",
@@ -39,15 +17,15 @@
     },
     {
       "surface": "מלכיה",
-      "gloss": "i ka masaw"
+      "gloss": "a masakɛw"
     },
     {
       "surface": "וכל",
-      "gloss": "ani bɛɛ"
+      "gloss": "ni … bɛɛ"
     },
     {
       "surface": "נשיאיה",
-      "gloss": "kunnafonitigɛw"
+      "gloss": "a jamanatigiw"
     },
     {
       "surface": "אשר",
@@ -59,16 +37,16 @@
     },
     {
       "surface": "בגבורתם",
-      "gloss": "u ka seba la"
+      "gloss": "u sebaaya la"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "npan winebaw"
+      "marks": "npanfɔw (חללי חרב, npan-na-fɔw)"
     },
     {
       "surface": "חללי",
-      "gloss": "winebaw"
+      "gloss": "npanfɔw"
     },
     {
       "surface": "חרב",
@@ -76,34 +54,35 @@
     },
     {
       "surface": "המה",
-      "gloss": "olu de"
+      "gloss": "olu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "labilenw"
+      "marks": "kɔnkɔrɔbaganw (ערלים)"
     },
     {
       "surface": "ערלים",
-      "gloss": "labilenw"
+      "gloss": "kɔnkɔrɔbaganw"
     },
     {
       "surface": "ישכבו",
-      "gloss": "bɛ sow"
+      "gloss": "bɛ son"
     },
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩"
+      "gloss": "ani ni ⟨את⟩",
+      "marks": "minnu bɛ bɔrɔla (ירדי בור)"
     },
     {
       "surface": "ירדי",
-      "gloss": "minnu bɛ kindɛ na"
+      "gloss": "minnu bɛ … la"
     },
     {
       "surface": "בור",
-      "gloss": "kindɛ"
+      "gloss": "bɔrɔ"
     }
   ],
-  "timestamp": "2026-10-14T00:26:42.869099812Z",
+  "timestamp": "2026-10-20T14:04:54.879180536Z",
   "model": "glm-5.3"
 }

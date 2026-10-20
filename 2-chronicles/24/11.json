@@ -5,49 +5,28 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויערו",
-      "rationale": "a kɔrɔ ye 'ka ɲɛfɛn so \/ ka lasara' ye — 'ka bɔ ka lasara' walima 'ka kɛlkali'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "sanu ɲinini",
-      "rationale": "sanu jate ni lajɛli don o don — sɛbɛnni ye kɛlɛko-yɛlɛma ye"
-    }
-  ],
-  "translation": "A kɛra cogo min na: ni waati don a yera sanda in na masakɛ ka lajɛli yɔrɔ la, Lewidenw bolo fɛ, u ye sanu caman ye, masakɛ ka sɛbɛbaga nana, ani sarakalasebaga kunba ka ɲɛmɔgɔ, u ye ⟨את⟩ sanda so, u y'a ta, u y'a segin a yɔrɔ la. An b'ɔ kɛ cogo nin na don o don, u ye sanu labɛn ka bon.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "46e27553406c618ec60cd02c8b56a2459ebba7deb1279735e3ad6a8ac172c5ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/24\/9-12.1791949529091.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O kɛra cogo min na: waati min na Lɛwidenw bɛ ⟨את⟩ sanu-sandabɔlan o ta kɛ masakɛ ka ɲɛsigili la, u ye warigwɛ ka bon ye dɔnni na, masakɛ ka sɛbɛbaga nana, ni ⟨ɔn min ɲɛsigena sarakalasebaga kunba fɛ⟩, u ye ⟨את⟩ sandabɔlan kpɛ, k'u ta k'u segin a yɔrɔ la. Cogo nin na olu tun bɛ baara kɛ don o don kɔnɔ, ani u tun bɛ warigwɛ labɔ ka fo jiɲɛ sin.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "a kɛra cogo min na"
+      "gloss": "o kɛra cogo min na"
     },
     {
       "surface": "בעת",
-      "gloss": "ni waati don"
+      "gloss": "waati min na"
     },
     {
       "surface": "יביא",
-      "gloss": "a yera na"
+      "gloss": "bɛ ... ta kɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sanda"
+      "marks": "sanu-sandabɔlan"
     },
     {
       "surface": "הארון",
-      "gloss": "sanda"
+      "gloss": "sanu-sandabɔlan"
     },
     {
       "surface": "אל",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "פקדת",
-      "gloss": "lajɛli"
+      "gloss": "ɲɛsigili"
     },
     {
       "surface": "המלך",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "ביד",
-      "gloss": "bolo fɛ"
+      "gloss": "Lɛwidenw bolo"
     },
     {
       "surface": "הלוים",
-      "gloss": "Lewidenw"
+      "gloss": "Lɛwidenw"
     },
     {
       "surface": "וכראותם",
-      "gloss": "u ye ye"
+      "gloss": "u ye ... ye dɔnni na"
     },
     {
       "surface": "כי",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "רב",
-      "gloss": "caman"
+      "gloss": "ka bon"
     },
     {
       "surface": "הכסף",
-      "gloss": "sanu"
+      "gloss": "warigwɛ"
     },
     {
       "surface": "ובא",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "ופקיד",
-      "gloss": "ɲɛmɔgɔ"
+      "gloss": "ɲɛsigiden"
     },
     {
       "surface": "כהן",
@@ -111,32 +90,32 @@
     },
     {
       "surface": "ויערו",
-      "gloss": "u ye so"
+      "gloss": "u ye ... kpɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sanda"
+      "marks": "sandabɔlan"
     },
     {
       "surface": "הארון",
-      "gloss": "sanda"
+      "gloss": "sandabɔlan"
     },
     {
       "surface": "וישאהו",
-      "gloss": "u y'a ta"
+      "gloss": "k'u ta"
     },
     {
       "surface": "וישיבהו",
-      "gloss": "u y'a segin"
+      "gloss": "k'u segin"
     },
     {
       "surface": "אל",
-      "gloss": "a la"
+      "gloss": "a yɔrɔ la"
     },
     {
       "surface": "מקמו",
-      "gloss": "yɔrɔ la"
+      "gloss": "a yɔrɔ"
     },
     {
       "surface": "כה",
@@ -144,29 +123,29 @@
     },
     {
       "surface": "עשו",
-      "gloss": "bɛ kɛ"
+      "gloss": "olu bɛ baara kɛ"
     },
     {
       "surface": "ליום",
-      "gloss": "don"
+      "gloss": "don o don"
     },
     {
       "surface": "ביום",
-      "gloss": "o don"
+      "gloss": "don kɔnɔ"
     },
     {
       "surface": "ויאספו",
-      "gloss": "u ye labɛn"
+      "gloss": "u bɛ ... labɔ"
     },
     {
       "surface": "כסף",
-      "gloss": "sanu"
+      "gloss": "warigwɛ"
     },
     {
       "surface": "לרב",
-      "gloss": "ka bon"
+      "gloss": "ka fo jiɲɛ sin"
     }
   ],
-  "timestamp": "2026-10-14T03:45:29.092476428Z",
+  "timestamp": "2026-10-20T13:11:50.183810277Z",
   "model": "glm-5.3"
 }

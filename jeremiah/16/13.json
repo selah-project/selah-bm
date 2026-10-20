@@ -5,46 +5,20 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "rationale": "aleph-tav denbaya min bɛ kɔnɔnasen 2-camanya, a marks aw"
-    },
-    {
-      "kind": "substitution",
-      "subject": "miserikɔrɔ",
-      "rationale": "חנינה ye 'dɔgɔya-son' kama; miserikɔrɔ ye daɲɛ surunnen ye"
-    },
-    {
-      "kind": "substitution",
-      "subject": "alaw wɛrɛw",
-      "rationale": "אלהים אחרים: batofɛnw tɔgɔtigi tɛ, jamana alaw daɲɛ"
-    }
-  ],
-  "translation": "N bɛna ⟨אתכם⟩ bɔ dugukolo nin na, ka taa dugukolo min la aw ni aw baw ma a dɔn; aw bɛna yen alaw wɛrɛw baara don ni su, minaw na N tɛ aw di miserikɔrɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "717f32cedcfca17c947b974e94a00f18ad92b7e50688b1155c2cebfa0fcf60ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/16\/13-16.1791935363823.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N bɛna ⟨את⟩ aw bila dugukolo nin na, dugukolo min na aw ni aw ka maww m'a ma dɔn; aw bɛna yen kɛ baara alaw wɛrɛw la, tile ni su, anidan bɛɛ min na N tɛ aw di.",
   "tokens": [
     {
       "surface": "והטלתי",
-      "gloss": "bɔ"
+      "gloss": "N bɛna … bila"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "aw"
     },
     {
       "surface": "מעל",
-      "gloss": "la"
+      "gloss": "… na"
     },
     {
       "surface": "הארץ",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "על",
-      "gloss": "la"
+      "gloss": "kaa"
     },
     {
       "surface": "הארץ",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "tɛ"
     },
     {
       "surface": "ידעתם",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "ואבותיכם",
-      "gloss": "ni aw baw"
+      "gloss": "ni aw ka maww"
     },
     {
       "surface": "ועבדתם",
-      "gloss": "baara kɛ"
+      "gloss": "aw bɛna kɛ baara"
     },
     {
       "surface": "שם",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "יומם",
-      "gloss": "don bɛɛ"
+      "gloss": "tile"
     },
     {
       "surface": "ולילה",
@@ -113,7 +87,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "minaw"
+      "gloss": "min"
     },
     {
       "surface": "לא",
@@ -129,9 +103,9 @@
     },
     {
       "surface": "חנינה",
-      "gloss": "miserikɔrɔ"
+      "gloss": "anidan"
     }
   ],
-  "timestamp": "2026-10-13T23:49:23.824433770Z",
+  "timestamp": "2026-10-20T14:36:34.255392864Z",
   "model": "glm-5.3"
 }

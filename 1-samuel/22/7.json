@@ -5,63 +5,27 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "statement vs question",
-      "rationale": "Hebrew is a declarative ('also to all of you the son of Yishi gives fields...'); KJV\/ASV punctuate as a sarcastic question, YLT keeps the statement."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨wa⟩",
-      "rationale": "Interrogative 'wa' added in brackets to carry the rhetorical-question reading the Hebrew leaves open."
-    },
-    {
-      "kind": "substitution",
-      "subject": "בן ישי",
-      "rationale": "Saul says 'son of Yishi', never 'David' — contempt by refusing the name; kept literally."
-    },
-    {
-      "kind": "invitation",
-      "subject": "שמעו נא",
-      "rationale": "Imperative summons: 'Hear now' draws the servants in before the accusation."
-    },
-    {
-      "kind": "you",
-      "subject": "Benyamin denw",
-      "rationale": "Direct address to Saul's servants, men of Benjamin — tribal loyalty appeal."
-    }
-  ],
-  "translation": "Shawul ko a surukubaga minnu wiliyora a ngon ma: Aw mɛn nin, Benyamin denw; Yishi (Yeshi) den fana bɛ aw bɛɛ ma forow ni diwɛnforow di ⟨wa⟩, a bɛ aw bɛɛ bila kɛmɛ ɲɛmɔgɔw ani kɛmɛduru ɲɛmɔgɔw ye ⟨wa⟩⟨wa⟩.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "76eba0a1648c4e92cb43d73308109a8b244c76b92069a7834c28c571ddc95fee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/22\/6-7.1791950370765.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sha'ul ye a ka waramaw minnu sigilen a kan fɔ: Aw mɛn nin, Yemini-denw; Yisayi den bɛna aw bɛɛ forow ni nakɔdaw di wa, aw bɛɛ bɛna a kɛ ela-wolonwula ɲɛmɔgɔw ani ela-tan ɲɛmɔgɔw ye wa?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "ye … fɔ"
     },
     {
       "surface": "שאול",
-      "gloss": "Shawul"
+      "gloss": "Sha'ul"
     },
     {
       "surface": "לעבדיו",
-      "gloss": "a surukubaga ma"
+      "gloss": "a ka waramaw ma"
     },
     {
       "surface": "הנצבים",
-      "gloss": "minnu wiliyora"
+      "gloss": "minnu sigilen"
     },
     {
       "surface": "עליו",
-      "gloss": "a ngon"
+      "gloss": "a kan"
     },
     {
       "surface": "שמעו",
@@ -76,8 +40,8 @@
       "gloss": "denw"
     },
     {
-      "surface": "יימיני",
-      "gloss": "Benyamin"
+      "surface": "ימיני",
+      "gloss": "Yemini"
     },
     {
       "surface": "גם",
@@ -89,7 +53,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "bɛ di"
+      "gloss": "bɛna … di"
     },
     {
       "surface": "בן",
@@ -97,7 +61,7 @@
     },
     {
       "surface": "ישי",
-      "gloss": "Yishi"
+      "gloss": "Yisayi"
     },
     {
       "surface": "שדות",
@@ -105,33 +69,33 @@
     },
     {
       "surface": "וכרמים",
-      "gloss": "ani diwɛnforow"
+      "gloss": "ni nakɔdaw"
     },
     {
       "surface": "לכלכם",
-      "gloss": "aw bɛɛ ma"
+      "gloss": "aw bɛɛ"
     },
     {
       "surface": "ישים",
-      "gloss": "bɛ bila"
+      "gloss": "bɛna a kɛ … ɲɛmɔgɔw"
     },
     {
       "surface": "שרי",
-      "gloss": "ɲɛmɔgɔw"
+      "gloss": "ela"
     },
     {
       "surface": "אלפים",
-      "gloss": "kɛmɛ"
+      "gloss": "wolonwula"
     },
     {
       "surface": "ושרי",
-      "gloss": "ani ɲɛmɔgɔw"
+      "gloss": "ani ela"
     },
     {
       "surface": "מאות",
-      "gloss": "kɛmɛduru"
+      "gloss": "tan"
     }
   ],
-  "timestamp": "2026-10-14T03:59:30.766659177Z",
+  "timestamp": "2026-10-20T13:03:38.177577641Z",
   "model": "glm-5.3"
 }

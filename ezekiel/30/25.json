@@ -5,42 +5,16 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bɔ (fall)",
-      "rationale": "תפלנה 'fall' rendered 'bɔ' (drop\/break loose) since arms falling limp has no exact verb; 'ka bɔ' carries the falling-away picture"
-    },
-    {
-      "kind": "elision",
-      "subject": "וידעו subject",
-      "rationale": "Hebrew leaves 'they' unspecified (Egypt or all onlookers); rendered u without bracketing the referent"
-    },
-    {
-      "kind": "you",
-      "subject": "to Egypt",
-      "rationale": "recognition formula 'they will know that I am Yawe' addressed over Egypt's defeat"
-    }
-  ],
-  "translation": "An bɛna Babilɔn (Babilɔn) masakɛ ka bolow semi, nka Farawun ka bolow bɛna bɔ; u bɛna dɔn ko ne ye Yawe, ni ne bɛna ne ka npan di Babilɔn masakɛ ka bolo la, a bɛna a tanbi Misira (Misira) dugukolo kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "27caabe66ff6f2db3b6c6a3a09476166564ea7be195c6696e16d14dc3d70a7f8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/30\/25-26.1791937473102.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "An bɛna Babilon (Babilɔn) masakɛ ka bolow semɛn, ani Parao ka bolow bɛna bɔn; u bɛna dɔn ko ne ye Yawe ye, ni n bɛ nin n ka npan di Babilon masakɛ ka bolo la, a bɛna ⟨את⟩ a jiri Mitsrayim (Misira) dugukolo kan.",
   "tokens": [
     {
       "surface": "והחזקתי",
-      "gloss": "an bɛna semi"
+      "gloss": "an bɛna … semɛn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bolow"
+      "marks": "bolow (Babilon masakɛ ta)"
     },
     {
       "surface": "זרעות",
@@ -52,19 +26,19 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babilɔn"
+      "gloss": "Babilon"
     },
     {
       "surface": "וזרעות",
-      "gloss": "nka bolow"
+      "gloss": "ka bolow"
     },
     {
       "surface": "פרעה",
-      "gloss": "Farawun"
+      "gloss": "Parao"
     },
     {
       "surface": "תפלנה",
-      "gloss": "bɛna bɔ"
+      "gloss": "bɛna bɔn"
     },
     {
       "surface": "וידעו",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "בתתי",
-      "gloss": "ni ne bɛna di"
+      "gloss": "ni n di"
     },
     {
       "surface": "חרבי",
-      "gloss": "ne ka npan"
+      "gloss": "n ka npan"
     },
     {
       "surface": "ביד",
@@ -100,20 +74,20 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babilɔn"
+      "gloss": "Babilon"
     },
     {
       "surface": "ונטה",
-      "gloss": "a bɛna tanbi"
+      "gloss": "bɛna jiri"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ a",
-      "marks": "npan"
+      "gloss": "⟨את⟩",
+      "marks": "a (npan in)"
     },
     {
       "surface": "אל",
-      "gloss": "kan"
+      "gloss": "… kan"
     },
     {
       "surface": "ארץ",
@@ -121,9 +95,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Misira"
+      "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-10-14T00:24:33.103546725Z",
+  "timestamp": "2026-10-20T14:04:14.687958281Z",
   "model": "glm-5.3"
 }

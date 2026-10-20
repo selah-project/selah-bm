@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "sanyo",
-      "rationale": "הטל 'dew': sanyo ye Bamanankan daɲɛ nɔgɔman ye min bɛ fɔ sanyo\/sansujɛ ma — ni a ma ɲɛ, sira dɔ wajibiya"
-    },
-    {
-      "kind": "substitution",
-      "subject": "נחנו עליו",
-      "rationale": "Hebrew 'we will settle upon him' (nuance of encamping\/descending on) rendered 'an bɛna to ale kan'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "this את is the preposition 'with him' (H854), not the direct-object marker (H853); kept as ⟨את⟩ ale fɛ per standing convention"
-    }
-  ],
-  "translation": "An bɛna na ale ye yɔrɔ kelen na min na a bɛ sɔrɔ yen, ani an bɛna to ale kan i n'a fɔ sanyo min bɛ bɔ dugukolo kan, wa foyi tɛna to ale la ani mɔgɔw bɛɛ minnu bɛ ⟨את⟩ ale fɛ, hali kelen tɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f934a7c360381fa9ae940a17c3ce8658fe7ccd653735f9ac151ed553d72a9c03",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/17\/12-12.1791950406963.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "An bɛna na a nɔma yɔrɔ kelen min na a bɛ sɔrɔ yen, ani an bɛna a daminɛ i n'a fɔ dusu min ka bɔ dugukolo kan, a ni mɔgɔw minnu bɛ a nɛ ⟨את⟩ de, kelen si tɛna to a la.",
   "tokens": [
     {
       "surface": "ובאנו",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "אליו",
-      "gloss": "ale ye"
+      "gloss": "a nɔma"
     },
     {
       "surface": "באחת",
-      "gloss": "kelen"
+      "gloss": "yɔrɔ kelen"
     },
     {
       "surface": "המקומת",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min na"
     },
     {
       "surface": "נמצא",
-      "gloss": "bɛ sɔrɔ"
+      "gloss": "a bɛ sɔrɔ"
     },
     {
       "surface": "שם",
@@ -63,23 +37,23 @@
     },
     {
       "surface": "ונחנו",
-      "gloss": "an bɛna to"
+      "gloss": "an bɛna a daminɛ"
     },
     {
       "surface": "עליו",
-      "gloss": "ale kan"
+      "gloss": "a kan"
     },
     {
       "surface": "כאשר",
-      "gloss": "i n'a fɔ"
+      "gloss": "i n'a fɔ cogo min na"
     },
     {
       "surface": "יפל",
-      "gloss": "bɛ bɔ"
+      "gloss": "ka bɔ"
     },
     {
       "surface": "הטל",
-      "gloss": "sanyo"
+      "gloss": "dusu"
     },
     {
       "surface": "על",
@@ -91,19 +65,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "wa foyi"
+      "gloss": "ani kelen si tɛna"
     },
     {
       "surface": "נותר",
-      "gloss": "tɛna to"
+      "gloss": "to"
     },
     {
       "surface": "בו",
-      "gloss": "ale la"
+      "gloss": "a la"
     },
     {
       "surface": "ובכל",
-      "gloss": "ani ... bɛɛ"
+      "gloss": "ni mɔgɔw bɛɛ minnu"
     },
     {
       "surface": "האנשים",
@@ -115,18 +89,18 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ale fɛ",
-      "marks": "mɔgɔw minnu bɛ ale fɛ"
+      "gloss": "⟨את⟩",
+      "marks": "a nɛ (a lamɛnbagaw)"
     },
     {
       "surface": "גם",
-      "gloss": "hali"
+      "gloss": "de (sinsinni)"
     },
     {
       "surface": "אחד",
       "gloss": "kelen"
     }
   ],
-  "timestamp": "2026-10-14T04:00:06.963847127Z",
+  "timestamp": "2026-10-20T13:25:40.624824403Z",
   "model": "glm-5.3"
 }

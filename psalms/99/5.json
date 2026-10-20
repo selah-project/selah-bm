@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 99,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ye … ye",
-      "rationale": "Hebrew has no copula; Bambara needs 'a ye senuma ye'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "להדם רגליו",
-      "rationale": "literally 'footstool of his feet' — a double image for one object"
-    },
-    {
-      "kind": "invitation",
-      "subject": "רוממו",
-      "rationale": "plural imperative summoning the congregation to exalt"
-    }
-  ],
-  "translation": "Aw ka Yawe an ka Elohim bonya, aw ni ka bɔ a senw ka dɔgɔso la; a ye senuma ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9c29dcd4b95be0f2df3d95f849a38c88835405d3fc8b3bf7d39bf94943a5617a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/99\/5-8.1791941228790.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe, Alaw anu, ɛ jirali walasa u ka kɛ ka bɔ a boloda ma, sabu a ye senuma ye.",
   "tokens": [
     {
       "surface": "רוממו",
-      "gloss": "bonya"
+      "gloss": "jirali"
     },
     {
       "surface": "יהוה",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "an ka Elohim"
+      "gloss": "Alaw anu"
     },
     {
       "surface": "והשתחוו",
-      "gloss": "aw ni ka bɔ"
+      "gloss": "kɛ ka bɔ"
     },
     {
       "surface": "להדם",
-      "gloss": "dɔgɔso la"
+      "gloss": "a boloda"
     },
     {
       "surface": "רגליו",
-      "gloss": "a senw ka"
+      "gloss": "ma"
     },
     {
       "surface": "קדוש",
@@ -63,9 +37,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "a ye … ye"
+      "gloss": "a ye"
     }
   ],
-  "timestamp": "2026-10-14T01:27:08.791476473Z",
+  "timestamp": "2026-10-20T15:40:58.519985059Z",
   "model": "glm-5.3"
 }

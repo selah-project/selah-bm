@@ -5,54 +5,28 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "si",
-      "rationale": "דבר has no indefinite marker; Bambara needs 'kuma si' (not a word) to render 'not a word'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "aleph-tav with suffix rendered as bare ⟨את⟩ marker pointing at kuma"
-    },
-    {
-      "kind": "addition",
-      "subject": "aw",
-      "rationale": "Hebrew negative לא תענהו is singular address; Bambara plural 'aw' reflects the many officials commanded"
-    }
-  ],
-  "translation": "U ye suɲɲa ta, ani kuma si jaabi ma a ye, sabu masakɛ ka laseli ye n'ko: Aw kana a jaabi.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ca36c4a236b330a95c6fef8a7cb197cade9895cc3c991b9e4c96374a235022ef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/36\/21-22.1791934120766.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ye ⟨את⟩ kuma kelen sɔrɔ k'o yɛlɛma a ma, b'a ye a lan kuma si tɛ, sabu masakɛ ka laseli tun ye ko: i kana a lan kuma si.",
   "tokens": [
     {
       "surface": "ויחרישו",
-      "gloss": "u ye suɲɲa ta"
+      "gloss": "u ye ... kuma sɔrɔ"
     },
     {
       "surface": "ולא",
-      "gloss": "ani … ma"
+      "gloss": "tɛ"
     },
     {
       "surface": "ענו",
-      "gloss": "jaabi"
+      "gloss": "a yɛlɛma a ma"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "kuma"
+      "marks": "kuma kelen"
     },
     {
       "surface": "דבר",
-      "gloss": "kuma"
+      "gloss": "kuma kelen"
     },
     {
       "surface": "כי",
@@ -68,21 +42,21 @@
     },
     {
       "surface": "היא",
-      "gloss": "ye"
+      "gloss": "tun ye"
     },
     {
       "surface": "לאמר",
-      "gloss": "n'ko"
+      "gloss": "ko"
     },
     {
       "surface": "לא",
-      "gloss": "aw kana"
+      "gloss": "kana"
     },
     {
       "surface": "תענהו",
-      "gloss": "a jaabi"
+      "gloss": "a lan kuma si"
     }
   ],
-  "timestamp": "2026-10-13T23:28:40.770182392Z",
+  "timestamp": "2026-10-20T14:29:29.683942655Z",
   "model": "glm-5.3"
 }

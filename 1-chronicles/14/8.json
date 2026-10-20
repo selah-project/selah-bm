@@ -5,37 +5,11 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ye tulu bila",
-      "rationale": "נמשח 'anointed' rendered as 'oil was placed' — Bambara has no single verb for messianic anointing"
-    },
-    {
-      "kind": "addition",
-      "subject": "o",
-      "rationale": "second וישמע 'David heard' lacks an object in Hebrew; Bambara supplies o 'it'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "לפניהם",
-      "rationale": "literally 'to their face', i.e. out to meet them; rendered u ɲɛkɔrɔ 'before them'"
-    }
-  ],
-  "translation": "Pelisitiw ye ko mɛn ko Dawuda ye tulu bila ka kɛ Israyel bɛɛ masakɛ ye, ale taamaw bɛɛ ye bɔ ka Dawuda ɲini. Dawida ye o mɛn, a bɔra ka taa u ɲɛkɔrɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cfc5027cd81a26326f7c135f1df4a40da3f2f85473e5bc4c1a508f716fcac6f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/14\/5-8.1791947858160.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Pelisitiw ye Dawuda minɛkɛbali-cogo la k'a masa-kɛ Israyel bɛɛ kan, o mɛnna, Pelisitiw bɛɛ walaka ka Dawida ɲini. Dawuda (Dawid) mɛnna a ko ye, o na a bɔra ka taa u ɲɛ kɔnɔ.",
   "tokens": [
     {
       "surface": "וישמעו",
-      "gloss": "ye mɛn"
+      "gloss": "u mɛnna"
     },
     {
       "surface": "פלשתים",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "נמשח",
-      "gloss": "ye tulu bila"
+      "gloss": "minɛkɛbali-cogo la kɛra"
     },
     {
       "surface": "דויד",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "למלך",
-      "gloss": "ka kɛ masakɛ ye"
+      "gloss": "masa-kɛ"
     },
     {
       "surface": "על",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "ye bɔ"
+      "gloss": "u walakara"
     },
     {
       "surface": "כל",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "וישמע",
-      "gloss": "ye o mɛn"
+      "gloss": "a mɛnna"
     },
     {
       "surface": "דויד",
@@ -104,13 +78,13 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "bɔra ka taa"
+      "gloss": "a bɔra ka taa"
     },
     {
       "surface": "לפניהם",
-      "gloss": "u ɲɛkɔrɔ"
+      "gloss": "u ɲɛ kɔnɔ"
     }
   ],
-  "timestamp": "2026-10-14T03:17:38.161726161Z",
+  "timestamp": "2026-10-20T12:46:29.187341628Z",
   "model": "glm-5.3"
 }

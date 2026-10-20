@@ -5,41 +5,15 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hesed",
-      "rationale": "חסד b'a yɛrɛ la — a tɛ dɔgɔya ka kɛ kanuya kelen ye."
-    },
-    {
-      "kind": "idiom",
-      "subject": "עד עולם",
-      "rationale": "'fo waati min t'a dan na' — kumasen-kon fɔcogo, kɔrɔ ka kan ka kɛ 'fo tuma bɛɛ' ye."
-    },
-    {
-      "kind": "measurement",
-      "subject": "waati min t'a dan na",
-      "rationale": "Kumasen in bɛ waati jira: layidu in bɛna don fo waati janten t'a dan na."
-    }
-  ],
-  "translation": "A bɛ a ka masakɛ ka yɛlɛmaw bonya jatibɛɛ; a bɛ hesed kɛ a ka Mashíaj ye — Dawida (Dawuda) ni a ka denw ye, fo waati min t'a dan na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "615e2cb15bdbb2887de3726dd21586a9107585606ffdbf4244ee06f8b201f9e2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/49-51.1791939744515.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A bɛ yɛlɛma a ka masakɛ pairi-yɛlɛmaw ka bon, a bɛ hesed kɛ a ka Mashíaj ma, Dawid (Dawuda) ma ani a ka kisɛ ma, waati bɛɛ.",
   "tokens": [
     {
       "surface": "מגדל",
-      "gloss": "bonya"
+      "gloss": "ka bon"
     },
     {
       "surface": "ישועות",
-      "gloss": "yɛlɛmaw"
+      "gloss": "pairi-yɛlɛmaw"
     },
     {
       "surface": "מלכו",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ועשה",
-      "gloss": "a bɛ … kɛ"
+      "gloss": "a bɛ ... kɛ"
     },
     {
       "surface": "חסד",
@@ -55,25 +29,25 @@
     },
     {
       "surface": "למשיחו",
-      "gloss": "a ka Mashíaj ye"
+      "gloss": "a ka Mashíaj ma"
     },
     {
       "surface": "לדוד",
-      "gloss": "Dawida (Dawuda)"
+      "gloss": "Dawid (Dawuda) ma"
     },
     {
       "surface": "ולזרעו",
-      "gloss": "ani a ka denw"
+      "gloss": "ani a ka kisɛ ma"
     },
     {
       "surface": "עד",
-      "gloss": "fo"
+      "gloss": "waati"
     },
     {
       "surface": "עולם",
-      "gloss": "waati min t'a dan na"
+      "gloss": "bɛɛ"
     }
   ],
-  "timestamp": "2026-10-14T01:02:24.516710610Z",
+  "timestamp": "2026-10-20T15:35:15.584895197Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 63,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "n ni",
-      "rationale": "נפש ni kunw \/ bolo ye, a tɛ 'soul' ye i n'a fɔ Tubabuw b'a fɔ cogo min na"
-    },
-    {
-      "kind": "crux",
-      "subject": "sɔgɔma fɛ n bɛ i ɲini",
-      "rationale": "אשחרך kɔrɔ 'sɔgɔma i ɲini' (שחר sɔgɔma) walima 'n b'i ɲini ni kanuya bɛɛ ye' — majuruw bɛ sugandili nin ye"
-    },
-    {
-      "kind": "substitution",
-      "subject": "n sogo",
-      "rationale": "בשר sogo (sisi) — 'body' ye a labɛn dɔ ye"
-    }
-  ],
-  "translation": "Elohim, i ye n ka Ala ye; sɔgɔma fɛ n bɛ i ɲini; n ni kɔnkɔra i la, n sogo b'i lamini, dugukolo suma kɔnɔ, min bɛ lasɔrɔ, ji min tɛ yen.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/63\/1-4.1791940505027.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Elohim, i ye ne ka El ye; ne bɛ i ɲini sɔgɔma-kɔrɔ; ne ka ni kunbɛ i la, ne ka sogo lamɛn i la, dugukolo min ye ɲankɔrɔma ye ani min tiɲɛna ji tɛ o la.",
   "tokens": [
     {
       "surface": "אלהים",
@@ -39,19 +13,19 @@
     },
     {
       "surface": "אלי",
-      "gloss": "n ka Ala"
+      "gloss": "ne ka El"
     },
     {
       "surface": "אתה",
-      "gloss": "i"
+      "gloss": "i ye"
     },
     {
       "surface": "אשחרך",
-      "gloss": "sɔgɔma fɛ n bɛ i ɲini"
+      "gloss": "ne bɛ i ɲini sɔgɔma-kɔrɔ"
     },
     {
       "surface": "צמאה",
-      "gloss": "kɔnkɔra"
+      "gloss": "kunbɛ"
     },
     {
       "surface": "לך",
@@ -59,31 +33,31 @@
     },
     {
       "surface": "נפשי",
-      "gloss": "n ni"
+      "gloss": "ne ka ni"
     },
     {
       "surface": "כמה",
-      "gloss": "b'i lamini"
+      "gloss": "lamɛn"
     },
     {
       "surface": "לך",
-      "gloss": "i"
+      "gloss": "i la"
     },
     {
       "surface": "בשרי",
-      "gloss": "n sogo"
+      "gloss": "ne ka sogo"
     },
     {
       "surface": "בארץ",
-      "gloss": "dugukolo kɔnɔ"
+      "gloss": "dugukolo la"
     },
     {
       "surface": "ציה",
-      "gloss": "suma"
+      "gloss": "ɲankɔrɔma"
     },
     {
       "surface": "ועיף",
-      "gloss": "min bɛ lasɔrɔ"
+      "gloss": "ani min tiɲɛna"
     },
     {
       "surface": "בלי",
@@ -94,6 +68,6 @@
       "gloss": "ji"
     }
   ],
-  "timestamp": "2026-10-14T01:15:05.027864750Z",
+  "timestamp": "2026-10-20T15:38:23.761012346Z",
   "model": "glm-5.3"
 }

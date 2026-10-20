@@ -5,57 +5,31 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "to Jerusalem ka ɲɛnabɔbagaw",
-      "rationale": "Welesira: kodalilaw bɛ wele ko aw ɲini cɛ min bɛ sariya kɛ"
-    },
-    {
-      "kind": "crux",
-      "subject": "לה — a ye dugu ye walima mɔgɔw ye",
-      "rationale": "JPS\/KJV fɔ 'her' (dugu); a bɛ se ka kɛ mɔgɔw ye fana"
-    },
-    {
-      "kind": "elision",
-      "subject": "נא",
-      "rationale": "Wele-taamasiyɛn nɔgɔman, a bɔli bayɛlɛmali la"
-    }
-  ],
-  "translation": "Yɛlɛna-yɛlɛna kɛ Yerushalayim (Jerusalɛmu) ɲɛ da siraw la, aw ye ɲɛ, aw ye dɔn, aw ɲini a daɲɛda camu na: ni aw ye cɛ dɔ nya, ni cɛ min bɛ sariya kɛ, min bɛ tiɲɛ ɲini sɔrɔ, ne bɛn'a bali <a ye>",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2e0583fbe851d60ac959a36a15d5909c8da036636b92ef5971297f3a5e69aebd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/5\/1-4.1791935067033.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aw taamu Yerushalayim (Jerusalɛmu) siraw la, aw ye nimɔgɔ, aw dɔn, aw ɲini a daɲɛgɛnw la, ni aw bɛ mɔgɔ dɔ minɛ, ni ⟨mɔgɔ kelen ye yen⟩ min bɛ sariya kɛ, min bɛ tiɲɛ ɲini — ne bɛna a bali ⟨a ma, dugu in na⟩.",
   "tokens": [
     {
       "surface": "שוטטו",
-      "gloss": "yɛlɛna-yɛlɛna kɛ"
+      "gloss": "taamu"
     },
     {
       "surface": "בחוצות",
-      "gloss": "ɲɛ da siraw la"
+      "gloss": "siraw la"
     },
     {
-      "surface": "יירושלם",
-      "gloss": "Yerushalayim"
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalɛmu)"
     },
     {
       "surface": "וראו",
-      "gloss": "aw ye ɲɛ"
+      "gloss": "aw ye"
     },
     {
       "surface": "נא",
-      "gloss": "<n'i b'a fɛ>"
+      "gloss": "nimɔgɔ"
     },
     {
       "surface": "ודעו",
-      "gloss": "aw ye dɔn"
+      "gloss": "aw dɔn"
     },
     {
       "surface": "ובקשו",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "ברחובותיה",
-      "gloss": "a daɲɛda camu na"
+      "gloss": "a daɲɛgɛnw la"
     },
     {
       "surface": "אם",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "תמצאו",
-      "gloss": "aw ye ... nya"
+      "gloss": "aw bɛ mɔgɔ dɔ minɛ"
     },
     {
       "surface": "איש",
-      "gloss": "cɛ dɔ"
+      "gloss": "mɔgɔ"
     },
     {
       "surface": "אם",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "יש",
-      "gloss": "<cɛ dɔ sɔrɔla>"
+      "gloss": "⟨mɔgɔ kelen ye yen⟩"
     },
     {
       "surface": "עשה",
-      "gloss": "min bɛ kɛ"
+      "gloss": "kɛ"
     },
     {
       "surface": "משפט",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "מבקש",
-      "gloss": "min bɛ ɲini"
+      "gloss": "ɲini"
     },
     {
       "surface": "אמונה",
@@ -103,13 +77,13 @@
     },
     {
       "surface": "ואסלח",
-      "gloss": "ne bɛn'a bali"
+      "gloss": "ne bɛna a bali"
     },
     {
       "surface": "לה",
-      "gloss": "<a ye>"
+      "gloss": "a (Yerushalayim)"
     }
   ],
-  "timestamp": "2026-10-13T23:44:27.034609415Z",
+  "timestamp": "2026-10-20T14:46:53.289129522Z",
   "model": "glm-5.3"
 }

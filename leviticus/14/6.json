@@ -5,33 +5,12 @@
   "book": "leviticus",
   "lang": "bm",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "shaving nilen",
-      "rationale": "שני התולעת 'shani-tola' — shaving bugumaden nilen; Heburu kɔrɔ yɛrɛ ye kokɔrɔ ye"
-    },
-    {
-      "kind": "addition",
-      "subject": "min sɔgɔra",
-      "rationale": "Heburu participle 'kɔnɔ min sɔgɔra' — Bamanankan de wajibiya a jira"
-    }
-  ],
-  "translation": "Kɔnɔ balen nin, a bɛna o ta, ni ⟨את⟩ jɛgɛn-jiri, ni ⟨את⟩ shaving nilen, ni ⟨את⟩ ezob, ka o bɛɛ don kɔnɔ kelen bɔ joli la, ji balen sanfɛ, ni ⟨את⟩ kɔnɔ balen ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "3b31a4af5fb13bcaaf605e55ab21b12256f911fcb87f960d000f12bae10fb9ee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/14\/5-8.1791927056943.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kɔnɔ min balo la, a bɛ ⟨את⟩ o ta, ani ⟨את⟩ arez-jiri, ani ⟨את⟩ shani-tɔgɔlen min ye tola-kɔgɔji ye, ani ⟨את⟩ ezob, a bɛ u lagilɛ, ani ⟨את⟩ kɔnɔ min balo la, kɔnɔ min binna, o joli la, ji min balo la kan.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kɔnɔ balen"
+      "marks": "kɔnɔ min balo la"
     },
     {
       "surface": "הצפר",
@@ -39,21 +18,21 @@
     },
     {
       "surface": "החיה",
-      "gloss": "balen"
+      "gloss": "min balo la"
     },
     {
       "surface": "יקח",
-      "gloss": "a bɛna o ta"
+      "gloss": "a bɛ o ta"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "kɔnɔ balen"
+      "gloss": "⟨את⟩ o",
+      "marks": "kɔnɔ balo-la in"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "jɛgɛn-jiri"
+      "gloss": "ani ⟨את⟩",
+      "marks": "arez-jiri"
     },
     {
       "surface": "עץ",
@@ -61,24 +40,24 @@
     },
     {
       "surface": "הארז",
-      "gloss": "jɛgɛn"
+      "gloss": "arez"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "shaving nilen"
+      "gloss": "ani ⟨את⟩",
+      "marks": "shani-tɔgɔlen"
     },
     {
       "surface": "שני",
-      "gloss": "shaving"
+      "gloss": "shani (kɔgɔji jan)"
     },
     {
       "surface": "התולעת",
-      "gloss": "nilen"
+      "gloss": "tola-kɔgɔji"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ani ⟨את⟩",
       "marks": "ezob"
     },
     {
@@ -87,17 +66,17 @@
     },
     {
       "surface": "וטבל",
-      "gloss": "ka o don"
+      "gloss": "a bɛ u lagilɛ"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "o bɛɛ"
+      "gloss": "⟨את⟩ u",
+      "marks": "u (jiri, shani, ezob)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kɔnɔ balen"
+      "gloss": "ani ⟨את⟩",
+      "marks": "kɔnɔ min balo la"
     },
     {
       "surface": "הצפר",
@@ -105,11 +84,11 @@
     },
     {
       "surface": "החיה",
-      "gloss": "balen"
+      "gloss": "min balo la"
     },
     {
       "surface": "בדם",
-      "gloss": "kɔnɔ kelen bɔ joli la"
+      "gloss": "o joli la"
     },
     {
       "surface": "הצפר",
@@ -117,11 +96,11 @@
     },
     {
       "surface": "השחטה",
-      "gloss": "min sɔgɔra"
+      "gloss": "min binna"
     },
     {
       "surface": "על",
-      "gloss": "sanfɛ"
+      "gloss": "kan"
     },
     {
       "surface": "המים",
@@ -129,9 +108,9 @@
     },
     {
       "surface": "החיים",
-      "gloss": "balen"
+      "gloss": "min balo la"
     }
   ],
-  "timestamp": "2026-10-13T21:30:56.945243588Z",
+  "timestamp": "2026-10-20T15:06:52.465381253Z",
   "model": "glm-5.3"
 }

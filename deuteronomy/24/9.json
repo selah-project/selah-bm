@@ -5,46 +5,20 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "זכור",
-      "rationale": "Imperative summons to Israel to remember the event of Miryam."
-    },
-    {
-      "kind": "you",
-      "subject": "זכור",
-      "rationale": "Direct address to plural Israel (בצאתכם) inside a law."
-    },
-    {
-      "kind": "addition",
-      "subject": "tun",
-      "rationale": "Past marker supplied; Hebrew infinitive-construct בצאתכם carries no tense."
-    }
-  ],
-  "translation": "Miiri ⟨את⟩ ko min Yawe, i ka Ala, kɛra Miryam (Miriya) ma sira kan, ni aw tun bɛ bɔ Mitsrayim (Misira) la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cdf8b6e50b4230c3fef408b52b36eddd2e935af721eb46878f63230031d1d515",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/24\/9-12.1791928125882.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I n'i ye ⟨את⟩ min kɛra Miriyam (Mariyamu) ma, Yawe, i Elohim, a kɛra o ye siraw la, ni aw ye Misira (Ejipitu) bɔ ra.",
   "tokens": [
     {
       "surface": "זכור",
-      "gloss": "Miiri"
+      "gloss": "I n'i ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ko min (min Yawe kɛra)"
+      "marks": "min kɛra Miriyam ma"
     },
     {
       "surface": "אשר",
-      "gloss": "ko min"
+      "gloss": "min"
     },
     {
       "surface": "עשה",
@@ -56,25 +30,25 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i ka Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "למרים",
-      "gloss": "Miryam ma"
+      "gloss": "Miriyam ma"
     },
     {
       "surface": "בדרך",
-      "gloss": "sira kan"
+      "gloss": "siraw la"
     },
     {
       "surface": "בצאתכם",
-      "gloss": "ni aw tun bɛ bɔ"
+      "gloss": "ni aw bɔ ra"
     },
     {
       "surface": "ממצרים",
-      "gloss": "Mitsrayim la"
+      "gloss": "Misira"
     }
   ],
-  "timestamp": "2026-10-13T21:48:45.885224008Z",
+  "timestamp": "2026-10-20T13:42:01.107294029Z",
   "model": "glm-5.3"
 }

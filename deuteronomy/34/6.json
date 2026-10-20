@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "A",
-      "rationale": "l'hébreu ne nomme pas le sujet de ויקבר (celui qui enterre) — pronom « A » ajouté"
-    },
-    {
-      "kind": "substitution",
-      "subject": "samayɔrɔ",
-      "rationale": "קבורה = sépulture ; rendu par « samayɔrɔ » (place d'inhumation)"
-    }
-  ],
-  "translation": "A ye ⟨את⟩ a sigi dala kɔnɔ, Moab dugukolo la, Bet-Pesɔr (Betifegɔr) ma; mɔgɔ si ma a ka samayɔrɔ dɔn fo don nin don.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "03f4fddf3f8c4eb367c85ded4bf2314bddad1e38aa2eb2110b57cdca35216597",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/34\/5-8.1791928526006.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y'a ⟨את⟩ sinsin gayi dɔ kɔnɔ, Moab dugukolo la, Beti-Peyor nɔfɛ, ani mɔgɔ si ma a kɛbɔyɔrɔ dɔn fo bi don in na.",
   "tokens": [
     {
       "surface": "ויקבר",
-      "gloss": "sigi"
+      "gloss": "a y'a sinsin"
     },
     {
       "surface": "אתו",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "בגי",
-      "gloss": "dala kɔnɔ"
+      "gloss": "gayi dɔ kɔnɔ"
     },
     {
       "surface": "בארץ",
@@ -51,23 +30,23 @@
     },
     {
       "surface": "מול",
-      "gloss": "ma"
+      "gloss": "nɔfɛ"
     },
     {
       "surface": "בית",
-      "gloss": "Bet-"
+      "gloss": "Beti-Peyor"
     },
     {
       "surface": "פעור",
-      "gloss": "Pesɔr"
+      "gloss": "Beti-Peyor"
     },
     {
       "surface": "ולא",
-      "gloss": "si ma"
+      "gloss": "ani si"
     },
     {
       "surface": "ידע",
-      "gloss": "dɔn"
+      "gloss": "ma … dɔn"
     },
     {
       "surface": "איש",
@@ -76,11 +55,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a ka samayɔrɔ"
+      "marks": "a kɛbɔyɔrɔ"
     },
     {
       "surface": "קברתו",
-      "gloss": "samayɔrɔ"
+      "gloss": "a kɛbɔyɔrɔ"
     },
     {
       "surface": "עד",
@@ -88,13 +67,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "don"
+      "gloss": "bi don"
     },
     {
       "surface": "הזה",
-      "gloss": "nin don"
+      "gloss": "in"
     }
   ],
-  "timestamp": "2026-10-13T21:55:26.007904644Z",
+  "timestamp": "2026-10-20T13:45:30.942789877Z",
   "model": "glm-5.3"
 }

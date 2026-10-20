@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "המהפכת",
-      "rationale": "‘house of the stocks’ — this form of מהפכה appears only here in the Tanakh."
-    },
-    {
-      "kind": "crux",
-      "subject": "המהפכת",
-      "rationale": "‘stocks’ (an instrument that wrenches the body) vs ‘prison house’ (KJV) — the literal is a torture-device, not a mere jail."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mɔgɔ-ɲɛgɛn",
-      "rationale": "הרואה is ‘the seer’ (הנביא's older title); ɲɛ-ɲɛfɔla keeps the seeing, not the generic ‘prophet’."
-    }
-  ],
-  "translation": "Asa (Asa) tun ka jasabali ɲɛ-ɲɛfɔla la, a y'a bilа mɔgɔ-ɲɛgɛn so kɔnɔ, sabu a tun ka a lasali nin fɛ. O waati kelen na, Asa tun ka jama dɔw kɛ jugu ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "08f198e1710aeb747a7ae9759d89a5ce523faea7a582f32a034497206961695a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/16\/9-12.1791949039143.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Asa tun tigɛ ni ⟨את⟩ seer-kɛla ye, a y'a da furatɔ-so la, sabu a tun bɛ sɔngɔ a la o kuma nɔ na; o waati la, Asa ye ⟨את⟩ jama dɔ digi.",
   "tokens": [
     {
       "surface": "ויכעס",
-      "gloss": "tun ka jasabali"
+      "gloss": "tigɛ ni"
     },
     {
       "surface": "אסא",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "ni"
     },
     {
       "surface": "הראה",
-      "gloss": "ɲɛ-ɲɛfɔla"
+      "gloss": "seer-kɛla"
     },
     {
       "surface": "ויתנהו",
-      "gloss": "a y'a bila"
+      "gloss": "a y'a da"
     },
     {
       "surface": "בית",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "המהפכת",
-      "gloss": "mɔgɔ-ɲɛgɛn"
+      "gloss": "furatɔ"
     },
     {
       "surface": "כי",
@@ -67,23 +41,23 @@
     },
     {
       "surface": "בזעף",
-      "gloss": "a tun ka a lasali"
+      "gloss": "sɔngɔ"
     },
     {
       "surface": "עמו",
-      "gloss": "a fɛ"
+      "gloss": "a la"
     },
     {
       "surface": "על",
-      "gloss": "nin fɛ"
+      "gloss": "nɔ na"
     },
     {
       "surface": "זאת",
-      "gloss": "o"
+      "gloss": "o kuma"
     },
     {
       "surface": "וירצץ",
-      "gloss": "tun ka kɛ jugu ye"
+      "gloss": "digi"
     },
     {
       "surface": "אסא",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "dɔw"
+      "gloss": "dɔ"
     },
     {
       "surface": "העם",
@@ -99,13 +73,13 @@
     },
     {
       "surface": "בעת",
-      "gloss": "waati"
+      "gloss": "o waati la"
     },
     {
       "surface": "ההיא",
-      "gloss": "kelen na"
+      "gloss": "la"
     }
   ],
-  "timestamp": "2026-10-14T03:37:19.144791497Z",
+  "timestamp": "2026-10-20T13:08:47.848764592Z",
   "model": "glm-5.3"
 }

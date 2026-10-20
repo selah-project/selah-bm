@@ -5,45 +5,19 @@
   "book": "ezra",
   "lang": "bm",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "די",
-      "rationale": "Aramaic relative 'that' has no standalone Bambara word; rendered by word order."
-    },
-    {
-      "kind": "you",
-      "subject": " Ezra",
-      "rationale": "Royal decree addresses Ezra directly throughout the letter."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kεmε",
-      "rationale": "Aramaic טעם literally 'taste\/judgment', here 'decree' — royal Aramaic idiom."
-    }
-  ],
-  "translation": "Ne fɛ, kεmε dila: mɔgɔ minw bɛ ne ka masakɛya kɔnɔ — Isirayeli jama, a ka sarakalasebagaw ni Lewiw — min bɛ bɔ bɔ-yɛrɛ la ka taa Yerushalayim (Jerusalɛmu), o kana taa ni i ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e176927bf031fd35e0ac726b6118fc75e9224b8839d3735e3e18d8c67dea0508",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/7\/13-16.1791946664762.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ne fɛ, taamasiyɛn bila ko: mɔgɔw Israyɛl (Israyɛl) ni u ka sarakalasebagaw ni Lewiw (Lewi) la, minnu bɛ ne ka masakɛya kɔnɔ ka walela ka taa Yerushalayim (Jerusalɛmu), ka taa ni i ye.",
   "tokens": [
     {
       "surface": "מני",
-      "gloss": "ne fɛ"
+      "gloss": "Ne fɛ"
     },
     {
       "surface": "שים",
-      "gloss": "dila"
+      "gloss": "bila"
     },
     {
       "surface": "טעם",
-      "gloss": "kεmε"
+      "gloss": "taamasiyɛn"
     },
     {
       "surface": "די",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "מתנדב",
-      "gloss": "bɔ-yɛrɛ la"
+      "gloss": "walela-bagi"
     },
     {
       "surface": "במלכותי",
@@ -67,19 +41,19 @@
     },
     {
       "surface": "עמה",
-      "gloss": "jama"
+      "gloss": "mɔgɔw"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayeli"
+      "gloss": "Israyɛl"
     },
     {
       "surface": "וכהנוהי",
-      "gloss": "ni a ka sarakalasebagaw"
+      "gloss": "ani u ka sarakalasebagaw"
     },
     {
       "surface": "ולויא",
-      "gloss": "ni Lewiw"
+      "gloss": "ani Lewiw"
     },
     {
       "surface": "למהך",
@@ -95,9 +69,9 @@
     },
     {
       "surface": "יהך",
-      "gloss": "o kana taa"
+      "gloss": "ka taa"
     }
   ],
-  "timestamp": "2026-10-14T02:57:44.763831688Z",
+  "timestamp": "2026-10-20T14:10:47.089108510Z",
   "model": "glm-5.3"
 }

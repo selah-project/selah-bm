@@ -5,40 +5,19 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 107,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "u ka",
-      "rationale": "Hebrew construct עיר מושב is bound ('city of habitation'); Bambara needs the possessive supplied."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דרך\/הדריך",
-      "rationale": "The verb 'to lead\/tread' plays on the noun 'road' (same root דרך); partially kept by 'da' + 'sira'."
-    }
-  ],
-  "translation": "A y'olu da sira tilennen na, walasa u ka ta dugu min ye ⟨u ka⟩ siginyɔrɔ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "67cd6155dca0eae42a4ff8d6f9085820cad9e38665b643d7354834a1e66e2a3e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/107\/6-7.1791951232038.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y’u ɲɛsin sira jɛlen na, walasa u ka ta dugu min ye sigiyɔrɔ-dugu ye.",
   "tokens": [
     {
       "surface": "וידריכם",
-      "gloss": "a y'olu da"
+      "gloss": "a y’u ɲɛsin"
     },
     {
       "surface": "בדרך",
-      "gloss": "sira ... na"
+      "gloss": "sira la"
     },
     {
       "surface": "ישרה",
-      "gloss": "tilennen"
+      "gloss": "jɛlen"
     },
     {
       "surface": "ללכת",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "(dugu) kɔrɔ"
+      "gloss": "(ka ta) bɔ"
     },
     {
       "surface": "עיר",
@@ -54,9 +33,9 @@
     },
     {
       "surface": "מושב",
-      "gloss": "siginyɔrɔ"
+      "gloss": "sigiyɔrɔ"
     }
   ],
-  "timestamp": "2026-10-14T04:13:52.038956188Z",
+  "timestamp": "2026-10-20T15:49:08.436546775Z",
   "model": "glm-5.3"
 }

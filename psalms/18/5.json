@@ -5,41 +5,15 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חבלי \/ נחלי",
-      "rationale": "khavlei\/nachalei near-rhyme in the pair; the sound-echo is lost in Bambara"
-    },
-    {
-      "kind": "crux",
-      "subject": "בליעל",
-      "rationale": "'Belial' as proper name (JPS) vs 'worthless\/ungodly ones' as common noun (KJV\/ASV); kept as name with bracketed gloss"
-    },
-    {
-      "kind": "alternative",
-      "subject": "חבלי מות",
-      "rationale": "'cords of death' (literal rope) vs traditional 'sorrows of death'; rope kept for the concrete image"
-    }
-  ],
-  "translation": "Saya kunw ye n lakolankyɛ, ani Belial (wɛrɛwilenw) ji-bonyaw y'o lasiran ni n ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/18\/5-8.1791939766089.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Saya kuluw ye ne dabɔ, ani Beliyal (jugutɔrɔtigiw) bajiw ye ne siransi.",
   "tokens": [
     {
       "surface": "אפפוני",
-      "gloss": "ye n lakolankyɛ"
+      "gloss": "ye ne dabɔ"
     },
     {
       "surface": "חבלי",
-      "gloss": "kunw"
+      "gloss": "kuluw"
     },
     {
       "surface": "מות",
@@ -47,17 +21,17 @@
     },
     {
       "surface": "ונחלי",
-      "gloss": "ani ji-bonyaw"
+      "gloss": "ani … bajiw"
     },
     {
       "surface": "בליעל",
-      "gloss": "Belial (wɛrɛwilenw)"
+      "gloss": "Beliyal (jugutɔrɔtigiw)"
     },
     {
       "surface": "יבעתוני",
-      "gloss": "y'o lasiran ni n ye"
+      "gloss": "ye ne siransi"
     }
   ],
-  "timestamp": "2026-10-14T01:02:46.090041670Z",
+  "timestamp": "2026-10-20T15:35:07.170022921Z",
   "model": "glm-5.3"
 }

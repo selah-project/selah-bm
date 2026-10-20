@@ -5,46 +5,15 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kɔgɔjiɲɛna",
-      "rationale": "Hebrew 'my soul thirsts'; Bambara says my life-breath thirsted for water — kɔgɔji (big water) used for intense thirst."
-    },
-    {
-      "kind": "crux",
-      "subject": "ואראה פני",
-      "rationale": "'And I appear\/see the face of' — cultic appearing before God in the sanctuary vs literal seeing; both senses live in a ye ɲɛda."
-    },
-    {
-      "kind": "mystery",
-      "subject": "waati di min na",
-      "rationale": "The question 'when shall I come?' is left unanswered — a genuine open question to God."
-    },
-    {
-      "kind": "you",
-      "subject": "to Elohim",
-      "rationale": "The verse is an implicit address to God, the object of thirst."
-    }
-  ],
-  "translation": "Nin in kɔgɔjiɲɛna Elohim la, Ala ka balo la, waati di min na n na wa a ye Ala ɲɛda ye?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/42\/1-4.1791940147213.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni n temena Elohim la, El ka ni: minkɛ bɛ n na walasa n ye Elohim ka ɲɛda ye?",
   "tokens": [
     {
       "surface": "צמאה",
-      "gloss": "kɔgɔjiɲɛna"
+      "gloss": "temena"
     },
     {
       "surface": "נפשי",
-      "gloss": "nin in"
+      "gloss": "ni"
     },
     {
       "surface": "לאלהים",
@@ -52,23 +21,23 @@
     },
     {
       "surface": "לאל",
-      "gloss": "Ala"
+      "gloss": "El"
     },
     {
       "surface": "חי",
-      "gloss": "ka balo"
+      "gloss": "ka ni"
     },
     {
       "surface": "מתי",
-      "gloss": "waati di min na"
+      "gloss": "minkɛ bɛ"
     },
     {
       "surface": "אבוא",
-      "gloss": "n na wa"
+      "gloss": "n na"
     },
     {
       "surface": "ואראה",
-      "gloss": "a ye"
+      "gloss": "walasa n ye"
     },
     {
       "surface": "פני",
@@ -76,9 +45,9 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim ka"
     }
   ],
-  "timestamp": "2026-10-14T01:09:07.214406091Z",
+  "timestamp": "2026-10-20T15:36:36.163025338Z",
   "model": "glm-5.3"
 }

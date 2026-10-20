@@ -5,28 +5,7 @@
   "book": "ecclesiastes",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי ... כי",
-      "rationale": "Second כי read as adversative ('but fear God') or as 'for — God you shall fear', a purpose clause"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "והבלים",
-      "rationale": "Hebel, the book's watchword 'yɛlɛmaw', here plural: dreams and vanities belong to the same breath"
-    }
-  ],
-  "translation": "Sabu finminaw ka bonya la, ani yɛlɛmaw, ani kumaw caman — nka i ka ⟨את⟩ Elohim siran.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "3bb4f776930c8569185c768a12a7729af61f2e989338b1c8829e9a8722be85ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/5\/5-8.1791945340778.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu finita caman na, hevelw ni kumaw caman bɛ yen; nka i k'Elohim siran — ⟨את⟩ Elohim siran.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,19 +13,19 @@
     },
     {
       "surface": "ברב",
-      "gloss": "bonya la"
+      "gloss": "ka boɲa na"
     },
     {
       "surface": "חלמות",
-      "gloss": "finminaw"
+      "gloss": "finitaw"
     },
     {
       "surface": "והבלים",
-      "gloss": "ani yɛlɛmaw"
+      "gloss": "hevelw"
     },
     {
       "surface": "ודברים",
-      "gloss": "ani kumaw"
+      "gloss": "kumaw"
     },
     {
       "surface": "הרבה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "nka"
+      "gloss": "sabu"
     },
     {
       "surface": "את",
@@ -70,6 +49,6 @@
       "gloss": "siran"
     }
   ],
-  "timestamp": "2026-10-14T02:35:40.779756026Z",
+  "timestamp": "2026-10-20T13:48:03.354405967Z",
   "model": "glm-5.3"
 }

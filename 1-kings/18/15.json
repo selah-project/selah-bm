@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "The oath-confirming particle has no Bamanankan equivalent here and is carried by the oath frame itself."
-    },
-    {
-      "kind": "idiom",
-      "subject": "חי יהוה",
-      "rationale": "Hebrew oath formula 'as Yawe lives'; Bamanankan oath idiom 'Yawe ka balo tiɲɛ na' (by the truth of Yawe's living)."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אראה … אליו",
-      "rationale": "'I will show myself to him' plays on ראה (see\/appear): Elijah will both be seen and see Ahab."
-    }
-  ],
-  "translation": "Eliyahu ye k'a fɔ ko: Yawe Tsabaot ka balo tiɲɛ na, min ɲɛda ne dagalen bɛ, don nin na ne bɛna a yɛ a ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "14bc60d05de03195ed682f16b6e3c613dace6618370cf1164f0661cc7c642b35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/18\/13-16.1791932364029.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Eliyahu ye fɔ ko: Yawe Tsewaot balo, min ɲɛma n dura, sabu bi ne bɛna jira a fɛ.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ye k'a fɔ ko"
+      "gloss": "ye fɔ ko"
     },
     {
       "surface": "אליהו",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "ka balo tiɲɛ na"
+      "gloss": "balo"
     },
     {
       "surface": "יהוה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsabaot"
+      "gloss": "Tsewaot"
     },
     {
       "surface": "אשר",
@@ -59,29 +33,29 @@
     },
     {
       "surface": "עמדתי",
-      "gloss": "ne dagalen bɛ"
+      "gloss": "n dura"
     },
     {
       "surface": "לפניו",
-      "gloss": "a ɲɛda"
+      "gloss": "a ɲɛma"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "sabu"
     },
     {
       "surface": "היום",
-      "gloss": "don nin na"
+      "gloss": "bi"
     },
     {
       "surface": "אראה",
-      "gloss": "ne bɛna a yɛ"
+      "gloss": "ne bɛna jira"
     },
     {
       "surface": "אליו",
-      "gloss": "a ye"
+      "gloss": "a fɛ"
     }
   ],
-  "timestamp": "2026-10-13T22:59:24.036539589Z",
+  "timestamp": "2026-10-20T12:53:52.924194534Z",
   "model": "glm-5.3"
 }

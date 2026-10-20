@@ -5,37 +5,11 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sandigila",
-      "rationale": "ארון literal 'box'; Bambara 'chest of God'"
-    },
-    {
-      "kind": "you",
-      "subject": "Dawid ka kuma yɛrɛ kan",
-      "rationale": "David's question addressed to himself"
-    },
-    {
-      "kind": "addition",
-      "subject": "ne bɛ se ka",
-      "rationale": "היך אביא 'how shall I bring' rendered with ability auxiliary"
-    }
-  ],
-  "translation": "Dawid tun bɛ ⟨את⟩ Yawe siran o don na, a ko: ne bɛ se ka Ala ka ⟨את⟩ sandigila ci ne nɔ na cogo di?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "de80f6a42f184761bacae0e20176562feb8c09edda0bb867e556124bc4ac85a5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/13\/11-12.1791951567346.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawid (Dawuda) tun siran Yawe\/Elohim de sira o don na, a ko: cogo min na ne bɛ se ka Elohim ka marabakɛsi nɛn⟨את⟩ min na?",
   "tokens": [
     {
       "surface": "ויירא",
-      "gloss": "tun bɛ ... siran"
+      "gloss": "siran"
     },
     {
       "surface": "דויד",
@@ -44,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe"
+      "marks": "Elohim"
     },
     {
       "surface": "האלהים",
-      "gloss": "Yawe"
+      "gloss": "Elohim"
     },
     {
       "surface": "ביום",
-      "gloss": "o don"
+      "gloss": "don in na"
     },
     {
       "surface": "ההוא",
@@ -64,30 +38,30 @@
     },
     {
       "surface": "היך",
-      "gloss": "cogo di"
+      "gloss": "cogo min na"
     },
     {
       "surface": "אביא",
-      "gloss": "ne bɛ se ka ... ci"
+      "gloss": "ne bɛ se ka … nɛn"
     },
     {
       "surface": "אלי",
-      "gloss": "ne nɔ na"
+      "gloss": "ne ma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ala ka sandigila"
+      "marks": "marabakɛsi"
     },
     {
       "surface": "ארון",
-      "gloss": "sandigila"
+      "gloss": "marabakɛsi"
     },
     {
       "surface": "האלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-14T04:19:27.346749756Z",
+  "timestamp": "2026-10-20T12:45:31.749785582Z",
   "model": "glm-5.3"
 }

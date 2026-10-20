@@ -5,40 +5,19 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Heburu ka daɲɛ fila ninnu (kuma-ladala 'nka … dɔrɔn') bɛ bayɛlɛma daɲɛ kelen 'nka' ye."
-    },
-    {
-      "kind": "substitution",
-      "subject": "יהגה",
-      "rationale": "Daɲɛ in kɔrɔ ye 'ka kuma nɔgɔya i n'a fɔ mɔgɔ min bɛ a yɛrɛ kuma' — 'b'a miiri' (a bɛ miiri a kan) disɔnna a la."
-    }
-  ],
-  "translation": "Nka a ka kanuya ye Yawe ka Tora ye, a b'a miiri a ka Tora la don ni su.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/1\/1-4.1791939561939.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A n'i y'a sɔrɔ Tora nɔ na — awa, Yawe ka Tora de ye a ka kanuya ye, ani a b'a lajɛ a ka Tora kɔnɔ don ni su bɛɛ.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "nka"
+      "gloss": "sabu a tɛ"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "awa, o de bɛ kɛ"
     },
     {
       "surface": "בתורת",
-      "gloss": "Tora la"
+      "gloss": "Tora kɔnɔ"
     },
     {
       "surface": "יהוה",
@@ -50,21 +29,21 @@
     },
     {
       "surface": "ובתורתו",
-      "gloss": "ni a ka Tora"
+      "gloss": "ani a ka Tora kɔnɔ"
     },
     {
       "surface": "יהגה",
-      "gloss": "b'a miiri"
+      "gloss": "a b'a lajɛ-ka-hagu"
     },
     {
       "surface": "יומם",
-      "gloss": "don"
+      "gloss": "don bɛɛ"
     },
     {
       "surface": "ולילה",
-      "gloss": "ni su"
+      "gloss": "ani su bɛɛ"
     }
   ],
-  "timestamp": "2026-10-14T00:59:21.940368478Z",
+  "timestamp": "2026-10-20T15:31:42.860403501Z",
   "model": "glm-5.3"
 }

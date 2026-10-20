@@ -5,45 +5,20 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "sira",
-      "rationale": "Yɔrɔw ni siraw ka tɔgɔlila — Seir, Araba, Ela, Etsiyon-Geber, Mowab: taabola-ɲɛnabɔli (itinéraire) jate."
-    },
-    {
-      "kind": "crux",
-      "subject": "Etsiyon-Geber",
-      "rationale": "ק → k ani צ → ts sariya la; 'Ezion' Tubabukan fɔcogo ma — an sɛbɛnna Etsiyon-Geber, Bamanankan siginidenw ye (q, v, x tɛ yen)."
-    },
-    {
-      "kind": "elision",
-      "subject": "הערבה",
-      "rationale": "Araba — Heburu daɲɛ tilannen, kɔgɔji-kan mara-yɔrɔ tɔgɔ; a ma bayɛlɛma 'dungojamɛ' ye, tɔgɔ bɛ to tɔgɔ ye."
-    }
-  ],
-  "translation": "Anara ka tɛmɛ ⟨את⟩ an ka balimaw — Eshaw denw, minnu bɛ Seir la — ka tugu Araba sira, ka bɔ Ela (Elat) ni Etsiyon-Geber fɛ; an bɛnya, ka tɛmɛ Mowab (Moab) jijamɛ sira.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "5dc1972f40ea857d7469fe562033be4c4cdf44cc71ef397159c659e566bc8f9b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/2\/5-8.1791927522383.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "An tɛmɛna ⟨את⟩ an balimaw, Esav (Ezawu) denw, minnu bɛ Seir (Seyira) ɲɛ, ka tɛmɛ Araba sira la, ka bɔ Elat (Eilati) fɛ ni Etsion-Geber (Etsiyon-Geberi) fɛ, an yɛlɛma k'an tɛmɛ Moab (Moabi) gɛrɛfɛ sira kan.",
   "tokens": [
     {
       "surface": "ונעבר",
-      "gloss": "anara ka tɛmɛ"
+      "gloss": "an tɛmɛna"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "an balimaw Esav denw"
     },
     {
       "surface": "אחינו",
-      "gloss": "an ka balimaw"
+      "gloss": "an balimaw"
     },
     {
       "surface": "בני",
@@ -51,19 +26,19 @@
     },
     {
       "surface": "עשו",
-      "gloss": "Eshaw"
+      "gloss": "Esav"
     },
     {
       "surface": "הישבים",
-      "gloss": "minnu bɛ"
+      "gloss": "minnu bɛ ɲɛ"
     },
     {
       "surface": "בשעיר",
-      "gloss": "Seir la"
+      "gloss": "Seir ɲɛ"
     },
     {
       "surface": "מדרך",
-      "gloss": "ka tugu ... sira"
+      "gloss": "sira la"
     },
     {
       "surface": "הערבה",
@@ -71,23 +46,23 @@
     },
     {
       "surface": "מאילת",
-      "gloss": "ka bɔ Ela fɛ"
+      "gloss": "Elat fɛ"
     },
     {
       "surface": "ומעצין",
-      "gloss": "ni ... fɛ"
+      "gloss": "Etsion-Geber fɛ"
     },
     {
       "surface": "גבר",
-      "gloss": "Etsiyon-Geber"
+      "gloss": "(ye Etsion-Geber dɔrɔn ye)"
     },
     {
       "surface": "ונפן",
-      "gloss": "an bɛnya"
+      "gloss": "an yɛlɛma"
     },
     {
       "surface": "ונעבר",
-      "gloss": "ka tɛmɛ"
+      "gloss": "an tɛmɛ"
     },
     {
       "surface": "דרך",
@@ -95,13 +70,13 @@
     },
     {
       "surface": "מדבר",
-      "gloss": "jijamɛ"
+      "gloss": "gɛrɛfɛ"
     },
     {
       "surface": "מואב",
-      "gloss": "Mowab"
+      "gloss": "Moab"
     }
   ],
-  "timestamp": "2026-10-13T21:38:42.385915039Z",
+  "timestamp": "2026-10-20T13:41:21.856679912Z",
   "model": "glm-5.3"
 }

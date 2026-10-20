@@ -5,54 +5,28 @@
   "book": "habakkuk",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨a ta ye⟩",
-      "rationale": "לו 'to him' supplies possession; Bambara needs a ta ('its own') with the negative."
-    },
-    {
-      "kind": "crux",
-      "subject": "המר והנמהר",
-      "rationale": "'bitter and hasty' rendered finman ni dɔgɔkun; JPS 'impetuous', BSB 'ruthless' are role-readings."
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Yawe announces to the prophet and people what he is raising up against them."
-    }
-  ],
-  "translation": "Sabu nin de: aw ye, ne bɛ ⟨את⟩ Kasdim (Kasidimuw) bilasin, siya finman ni dɔgɔkun, min bɛ taa dugukolo bonyaw la, ka ta so minnu tɛ ⟨a ta⟩ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "547d8f9fac122dc5605a508cfadacbc5242deb7f338d5dadf9e692987d96aac8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/habakkuk\/1\/5-8.1791938952672.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu an ye, nin ye: ne bɛ ⟨את⟩ Kashiduw inɛ — siya marufilen ni a tɛ daminɛ-fɛ — min bɛ taa dugukolo kunwulilen kɔnɔ, ka so minnu tɛ a ta ta.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "nin de"
+      "gloss": "sabu"
     },
     {
       "surface": "הנני",
-      "gloss": "aw ye"
+      "gloss": "nin ye an ye"
     },
     {
       "surface": "מקים",
-      "gloss": "bɛ bilasin"
+      "gloss": "ne bɛ ... inɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kasdim"
+      "marks": "Kashiduw"
     },
     {
       "surface": "הכשדים",
-      "gloss": "Kasdim"
+      "gloss": "Kashiduw"
     },
     {
       "surface": "הגוי",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "המר",
-      "gloss": "finman"
+      "gloss": "marufilen"
     },
     {
       "surface": "והנמהר",
-      "gloss": "dɔgɔkun"
+      "gloss": "a tɛ daminɛ-fɛ"
     },
     {
       "surface": "ההולך",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "למרחבי",
-      "gloss": "bonyaw la"
+      "gloss": "kunwulilen kɔnɔ"
     },
     {
       "surface": "ארץ",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "ka ta"
+      "gloss": "ka ... ta"
     },
     {
       "surface": "משכנות",
@@ -92,9 +66,9 @@
     },
     {
       "surface": "לו",
-      "gloss": "a ta ye"
+      "gloss": "a ta"
     }
   ],
-  "timestamp": "2026-10-14T00:49:12.673114694Z",
+  "timestamp": "2026-10-20T14:24:21.099462187Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "jonah",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "masaduguma",
-      "rationale": "כסא kɔrɔ ye 'ka-dugu-min-bilen' ye (jɔyɔrɔ min bɛ kɛnɛ), Bamanankan ye a fɔ masaduguma"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tasuma-buguri",
-      "rationale": "אפר kɔrɔ ye buguri min bɔra tasuma la, tasuma-bugumi dɔrɔn de b'a ɲɛfɔ"
-    }
-  ],
-  "translation": "Kuma in seera Ninive masakɛ ma; a y'a yɛrɛ wuli a masaduguma la, a y'a ka dantigiba bɔ a kan, a y'a yɛrɛ don saki la, a sigira tasuma-buguri kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "af3e8ddae28a792e8c47f3a6e265b216959c023517e350519df6ab3cc03a061e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jonah\/3\/5-8.1791938754148.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kuma in na Ninewe masakɛ ma, a ye a sigida bila, a bɛ a ka masadɔgɔ bɔ a kan, a ye saku di a yɛrɛ kan, a sigira tasuma-buguri kan.",
   "tokens": [
     {
       "surface": "ויגע",
-      "gloss": "seera"
+      "gloss": "na … ma"
     },
     {
       "surface": "הדבר",
@@ -46,23 +25,23 @@
     },
     {
       "surface": "נינוה",
-      "gloss": "Ninive"
+      "gloss": "Ninewe"
     },
     {
       "surface": "ויקם",
-      "gloss": "a y'a yɛrɛ wuli"
+      "gloss": "a ye a sigida bila"
     },
     {
       "surface": "מכסאו",
-      "gloss": "a masaduguma la"
+      "gloss": "a sigida"
     },
     {
       "surface": "ויעבר",
-      "gloss": "a ye … bɔ"
+      "gloss": "a bɛ … bɔ"
     },
     {
       "surface": "אדרתו",
-      "gloss": "a ka dantigiba"
+      "gloss": "a ka masadɔgɔ"
     },
     {
       "surface": "מעליו",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "ויכס",
-      "gloss": "a y'a yɛrɛ don saki la"
+      "gloss": "a ye saku di"
     },
     {
       "surface": "שק",
-      "gloss": "saki"
+      "gloss": "saku"
     },
     {
       "surface": "וישב",
@@ -89,6 +68,6 @@
       "gloss": "tasuma-buguri"
     }
   ],
-  "timestamp": "2026-10-14T00:45:54.149127424Z",
+  "timestamp": "2026-10-20T14:53:06.304961609Z",
   "model": "glm-5.3"
 }

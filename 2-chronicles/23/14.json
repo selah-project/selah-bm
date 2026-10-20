@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Directional preposition before מבית has no separate Bambara word; folded into 'so kɔnɔ na'"
-    },
-    {
-      "kind": "crux",
-      "subject": "השדרות",
-      "rationale": "'Rows\/ranks' — KJV 'ranges', JPS 'between the ranks'; kept as siraw"
-    }
-  ],
-  "translation": "Yehoyada sarakalasebaga ye ⟨את⟩ kɛmɛsaraw, hayi ɲɛmɔgɔw, bɔ a yɛrɛ la, a ko u ye: Bɔmin ɔ siraw kɔnɔ, min tugu a ɲɛfɛ, a bɛna sa npan ye, sabu sarakalasebaga y'a fɔ ko: aw k'a sa Yawe so kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "262f8ffd6e4a79b042f21e6150ea151ea9190f02b29d650efd7c60c5e12c794c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/23\/13-16.1791949370113.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yehoyada sarakalasebaga y'a bɔ: ⟨את⟩ kɛmɛ-saraw, jagow ka ɲɛmɔgɔw, k'a u ko: Aw ye mɔgɔmuso bɔ jɔ-siraw kɔnɔ; min tugu a nɔ na, bɛna sa ni npan ye, sabu sarakalasebaga y'a fɔ ko: aw kana a faga Yawe so kɔnɔ.",
   "tokens": [
     {
       "surface": "ויוצא",
-      "gloss": "y'a bɔ"
+      "gloss": "bɔ"
     },
     {
       "surface": "יהוידע",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kɛmɛsaraw"
+      "marks": "kɛmɛ-saraw"
     },
     {
       "surface": "שרי",
@@ -59,39 +38,39 @@
     },
     {
       "surface": "החיל",
-      "gloss": "hayi"
+      "gloss": "jagow"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a ko"
+      "gloss": "ko"
     },
     {
       "surface": "אלהם",
-      "gloss": "u ye"
+      "gloss": "u la"
     },
     {
       "surface": "הוציאוה",
-      "gloss": "bɔmin ɔ"
+      "gloss": "aw ye mɔgɔmuso bɔ"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "fɛ"
     },
     {
       "surface": "מבית",
-      "gloss": "siraw so kɔnɔ na"
+      "gloss": "kɔnɔ"
     },
     {
       "surface": "השדרות",
-      "gloss": "siraw"
+      "gloss": "jɔ-siraw"
     },
     {
       "surface": "והבא",
-      "gloss": "min don"
+      "gloss": "min na"
     },
     {
       "surface": "אחריה",
-      "gloss": "a ɲɛfɛ"
+      "gloss": "a nɔ"
     },
     {
       "surface": "יומת",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "npan ye"
+      "gloss": "ni npan ye"
     },
     {
       "surface": "כי",
@@ -115,11 +94,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "aw ka"
+      "gloss": "kana"
     },
     {
       "surface": "תמיתוה",
-      "gloss": "k'a sa"
+      "gloss": "a faga"
     },
     {
       "surface": "בית",
@@ -130,6 +109,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-14T03:42:50.114989159Z",
+  "timestamp": "2026-10-20T13:11:15.333965090Z",
   "model": "glm-5.3"
 }

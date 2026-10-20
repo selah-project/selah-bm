@@ -5,33 +5,12 @@
   "book": "ecclesiastes",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kan",
-      "rationale": "שלט ב takes preposition ב rendered as Bambara postposition kan"
-    },
-    {
-      "kind": "crux",
-      "subject": "עת אשר שלט",
-      "rationale": "'a time when man rules' vs 'there is a time' (KJV) vs simple relative; Hebrew עת stands alone"
-    }
-  ],
-  "translation": "⟨את⟩ nin bɛɛ ne ye ye, ani ne y'a dusukun da baara bɛɛ min kɛra tile jukɔrɔ — waati min na mɔgɔ mara mɔgɔ kan, a yɛrɛ yɛrɛjuguya kama.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/8\/9-12.1791945348651.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ nin bɛɛ ne ye a ye, ani ne y'i ka ne dusukun di ⟨את⟩ baara o minnu kɛra tile jukɔrɔ — waati min na hadamadenbɛɛ tila hadamadenbɛɛ kan bɔ a yɛrɛ juguya la.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nin bɛɛ"
+      "marks": "nin bɛɛ (o bɛɛ)"
     },
     {
       "surface": "כל",
@@ -43,11 +22,11 @@
     },
     {
       "surface": "ראיתי",
-      "gloss": "ne ye ... ye ye"
+      "gloss": "ne ye a ye"
     },
     {
       "surface": "ונתון",
-      "gloss": "ani ne ... da"
+      "gloss": "ani ne y'i ka … di"
     },
     {
       "surface": "את",
@@ -56,11 +35,11 @@
     },
     {
       "surface": "לבי",
-      "gloss": "dusukun"
+      "gloss": "ne dusukun"
     },
     {
       "surface": "לכל",
-      "gloss": "bɛɛ"
+      "gloss": "baara o minnu bɛɛ"
     },
     {
       "surface": "מעשה",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "minnu"
     },
     {
       "surface": "נעשה",
@@ -84,33 +63,33 @@
     },
     {
       "surface": "עת",
-      "gloss": "waati"
+      "gloss": "waati min na"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min na"
     },
     {
       "surface": "שלט",
-      "gloss": "mara"
+      "gloss": "tila … kan bɔ"
     },
     {
       "surface": "האדם",
-      "gloss": "mɔgɔ"
+      "gloss": "hadamadenbɛɛ"
     },
     {
       "surface": "באדם",
-      "gloss": "mɔgɔ kan"
+      "gloss": "hadamadenbɛɛ"
     },
     {
       "surface": "לרע",
-      "gloss": "yɛrɛjuguya"
+      "gloss": "juguya la"
     },
     {
       "surface": "לו",
       "gloss": "a yɛrɛ"
     }
   ],
-  "timestamp": "2026-10-14T02:35:48.652437877Z",
+  "timestamp": "2026-10-20T13:48:44.236089523Z",
   "model": "glm-5.3"
 }

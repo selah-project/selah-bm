@@ -5,36 +5,15 @@
   "book": "proverbs",
   "lang": "bm",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "suman",
-      "rationale": "עקב literally 'heel', hence 'end\/reward' (KJV 'by', YLT 'end', Geneva 'reward'); rendered as reward"
-    },
-    {
-      "kind": "addition",
-      "subject": "o ... de",
-      "rationale": "Copula and demonstrative supplied: Hebrew is a bare noun chain, no verb"
-    }
-  ],
-  "translation": "Yiselinya ni Yawe siran, o suman de ye araja, ani kameriya, ani balo.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/22\/1-4.1791942761899.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yeremanni kunafoli ⟨ye⟩ Yawe siran ⟨ye⟩: sanu, dimiɲɛ ani balo.",
   "tokens": [
     {
       "surface": "עקב",
-      "gloss": "suman"
+      "gloss": "kunafoli"
     },
     {
       "surface": "ענוה",
-      "gloss": "yiselinya"
+      "gloss": "yeremanni"
     },
     {
       "surface": "יראת",
@@ -46,17 +25,17 @@
     },
     {
       "surface": "עשר",
-      "gloss": "araja"
+      "gloss": "sanu"
     },
     {
       "surface": "וכבוד",
-      "gloss": "ani kameriya"
+      "gloss": "dimiɲɛ"
     },
     {
       "surface": "וחיים",
-      "gloss": "ani balo"
+      "gloss": "balo"
     }
   ],
-  "timestamp": "2026-10-14T01:52:41.901425195Z",
+  "timestamp": "2026-10-20T15:29:57.911950844Z",
   "model": "glm-5.3"
 }

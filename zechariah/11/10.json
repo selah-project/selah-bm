@@ -5,68 +5,47 @@
   "book": "zechariah",
   "lang": "bm",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נעם",
-      "rationale": "Staff name Nɔam ('Pleasantness\/Favor') — KJV 'Beauty', JPS 'Graciousness'; transliterated as a name, not translated."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כרתי \/ ואגדע",
-      "rationale": "'I cut (karati) my covenant' beside 'I cut off (gada'ti) the staff' — the covenant-cutting verb echoes the staff's cutting."
-    }
-  ],
-  "translation": "N ye ⟨את⟩ n ka dabali, ⟨את⟩ Nɔam, tigɛ, walasa ka n ka ⟨את⟩ layidu min n ye sigi ni ⟨את⟩ siyaw bɛɛ, o ka ban.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "4d1b8e903065145ef7ada6ed44d23635c6329c7b863c8a4462c2c85c186b88d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/11\/9-12.1791939341052.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N ye n ka balen, ⟨את⟩ Noam, ta, n y'a gɛ, walasa n ka n ka layidu ti, layidu min n kebra ni ⟨את⟩ siyaw bɛɛ ye.",
   "tokens": [
     {
       "surface": "ואקח",
-      "gloss": "N ye ta"
+      "gloss": "n ye … ta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "n ka dabali"
+      "marks": "balen (n ka balen)"
     },
     {
       "surface": "מקלי",
-      "gloss": "n ka dabali"
+      "gloss": "balen"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Nɔam"
+      "marks": "Noam"
     },
     {
       "surface": "נעם",
-      "gloss": "Nɔam"
+      "gloss": "Noam"
     },
     {
       "surface": "ואגדע",
-      "gloss": "tigɛ"
+      "gloss": "n y'a gɛ"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩o",
-      "marks": "Nɔam (dabali)"
+      "gloss": "⟨את⟩",
+      "marks": "a (balen Noam)"
     },
     {
       "surface": "להפיר",
-      "gloss": "walasa ka o ka ban"
+      "gloss": "walasa n ka … ti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "n ka layidu"
+      "marks": "layidu"
     },
     {
       "surface": "בריתי",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "כרתי",
-      "gloss": "n ye sigi"
+      "gloss": "n kebra"
     },
     {
       "surface": "את",
@@ -94,6 +73,6 @@
       "gloss": "siyaw"
     }
   ],
-  "timestamp": "2026-10-14T00:55:41.052948262Z",
+  "timestamp": "2026-10-20T15:41:53.921201631Z",
   "model": "glm-5.3"
 }

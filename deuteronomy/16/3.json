@@ -5,42 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Direct second-person commands addressed to Israel."
-    },
-    {
-      "kind": "measurement",
-      "subject": "don wolonwula",
-      "rationale": "Seven-day count fixes the festival's duration."
-    },
-    {
-      "kind": "substitution",
-      "subject": "matsaw",
-      "rationale": "מצה kept as technical term 'matsaw' rather than a descriptive phrase, per transliteration rule for fixed Hebrew terms."
-    },
-    {
-      "kind": "idiom",
-      "subject": "לחם עני",
-      "rationale": "Literal 'buru min bɛ gɛlɛya' rendered 'gɛlɛya buru' — bread of affliction\/hardship."
-    }
-  ],
-  "translation": "I kana buru min bɛ tuu dun n'a ye; don wolonwula i bɛna matsaw dun n'a ye, gɛlɛya buru, sabu i y'i bɔ Mitsrayim (Misira) dugukolo la ni teliya ye; walasa i na ⟨את⟩ don min na i y'i bɔ Mitsrayim dugukolo la xuxu, i ka balo donw bɛɛ la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b234982ca4e2d768fa02d624bd34a7cd666579866331fcc017a84b954d884a77",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/16\/2-3.1791950154833.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I tɛna dun a la buru min nɔna; don wolonwula la i bɛna dun a la matsa — lasɔmini buru — sabu ni telɛ ye i bɔra Mitsrayim (Misira) dugukolo na; walasa i na ⟨את⟩ don min na i bɔra Mitsrayim dugukolo la a miiri, donw bɛɛ i ka dii ye.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "kana"
+      "gloss": "tɛ"
     },
     {
       "surface": "תאכל",
@@ -48,11 +17,11 @@
     },
     {
       "surface": "עליו",
-      "gloss": "n'a ye"
+      "gloss": "a-la"
     },
     {
       "surface": "חמץ",
-      "gloss": "buru min bɛ tuu"
+      "gloss": "buru-min-nɔna"
     },
     {
       "surface": "שבעת",
@@ -64,15 +33,15 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "i bɛna dun"
+      "gloss": "dun"
     },
     {
       "surface": "עליו",
-      "gloss": "n'a ye"
+      "gloss": "a-la"
     },
     {
       "surface": "מצות",
-      "gloss": "matsaw"
+      "gloss": "matsa"
     },
     {
       "surface": "לחם",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "עני",
-      "gloss": "gɛlɛya"
+      "gloss": "lasɔmini"
     },
     {
       "surface": "כי",
@@ -88,15 +57,15 @@
     },
     {
       "surface": "בחפזון",
-      "gloss": "ni teliya ye"
+      "gloss": "ni-telɛ"
     },
     {
       "surface": "יצאת",
-      "gloss": "i y'i bɔ"
+      "gloss": "i-bɔra"
     },
     {
       "surface": "מארץ",
-      "gloss": "dugukolo la"
+      "gloss": "dugukolo"
     },
     {
       "surface": "מצרים",
@@ -108,12 +77,12 @@
     },
     {
       "surface": "תזכר",
-      "gloss": "i na xuxu"
+      "gloss": "a-miiri"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "don (min na i y'i bɔ Mitsrayim)"
+      "marks": "don min na i bɔra Mitsrayim dugukolo la"
     },
     {
       "surface": "יום",
@@ -121,11 +90,11 @@
     },
     {
       "surface": "צאתך",
-      "gloss": "i bɔli"
+      "gloss": "i-ka-bɔli"
     },
     {
       "surface": "מארץ",
-      "gloss": "dugukolo la"
+      "gloss": "dugukolo"
     },
     {
       "surface": "מצרים",
@@ -141,9 +110,9 @@
     },
     {
       "surface": "חייך",
-      "gloss": "i ka balo"
+      "gloss": "i-ka-dii"
     }
   ],
-  "timestamp": "2026-10-14T03:55:54.834346878Z",
+  "timestamp": "2026-10-20T13:41:10.122971302Z",
   "model": "glm-5.3"
 }

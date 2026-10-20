@@ -5,61 +5,36 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ויאמרו אתכם",
-      "rationale": "H784 את daɲɛ nin na 'ni' kɔrɔ de don, aleph-tav taamasiyɛn tɛ o ye; n'an ye ⟨את⟩ mara i n'a fɔ denbaya-sɔrɔko."
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "Sɛbɛn in bɛ Yehu ka kuma kan ka taa Shomeron kuntigiw ma — 'aw' kɔrɔ ye u ye."
-    },
-    {
-      "kind": "substitution",
-      "subject": "הרכב",
-      "rationale": "'So-lobaw' (so-min-furakɛw) taara רכב (so-dɛrɛw) ɲɔgɔn na."
-    }
-  ],
-  "translation": "Ama bi, ni sɛbɛn nin se aw ye: ⟨את⟩ aw ni aw matigiw denw, ⟨את⟩ aw ni so-lobaw ni sɔsow, ni dugu sɔgɔlen, ni balenw —",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d4e50aa8915e2e755faa7ba87899cdc7e2c1afe79244906a9173676e6150e0bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/10\/1-4.1791932842946.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sisan, ni sɛbɛ in na aw fɛ, ani ⟨את⟩ aw matigiw ka denkɛw bɛ aw fɛ, ani ⟨את⟩ so-wɛrɛw ni sofibagaw, ani dugu min labɛnna, ani bana-marafaw —",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Ama bi"
+      "gloss": "sisan"
     },
     {
       "surface": "כבא",
-      "gloss": "ni … se"
+      "gloss": "ni … na"
     },
     {
       "surface": "הספר",
-      "gloss": "sɛbɛn"
+      "gloss": "sɛbɛ in"
     },
     {
       "surface": "הזה",
-      "gloss": "nin"
+      "gloss": "in"
     },
     {
       "surface": "אליכם",
-      "gloss": "aw ye"
+      "gloss": "aw fɛ"
     },
     {
-      "surface": "ויאמרו",
-      "gloss": "⟨את⟩ ni aw bɛ"
+      "surface": "ואתכם",
+      "gloss": "ani ⟨את⟩ aw fɛ",
+      "marks": "aw matigiw ka denkɛw"
     },
     {
       "surface": "בני",
-      "gloss": "denw"
+      "gloss": "denkɛw"
     },
     {
       "surface": "אדניכם",
@@ -67,29 +42,30 @@
     },
     {
       "surface": "ואתכם",
-      "gloss": "⟨את⟩ ni aw bɛ"
+      "gloss": "ani ⟨את⟩ aw fɛ",
+      "marks": "so-wɛrɛw ni sofibagaw"
     },
     {
       "surface": "הרכב",
-      "gloss": "so-lobaw"
+      "gloss": "so-wɛrɛw"
     },
     {
       "surface": "והסוסים",
-      "gloss": "ni sɔsow"
+      "gloss": "sofibagaw"
     },
     {
       "surface": "ועיר",
-      "gloss": "ni dugu"
+      "gloss": "ani dugu"
     },
     {
       "surface": "מבצר",
-      "gloss": "sɔgɔlen"
+      "gloss": "min labɛnna"
     },
     {
       "surface": "והנשק",
-      "gloss": "ni balenw"
+      "gloss": "ani bana-marafaw"
     }
   ],
-  "timestamp": "2026-10-13T23:07:22.949908278Z",
+  "timestamp": "2026-10-20T13:16:06.275988103Z",
   "model": "glm-5.3"
 }

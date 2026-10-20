@@ -5,23 +5,7 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את הירדן",
-      "rationale": "Hiphil 'ka bɔ kɔ' kɔnɔ, ⟨את⟩ fɔlɔ bɛ masakɛ da, filanan bɛ Yareden da — ⟨את⟩ fila fila to u yɛrɛ la"
-    }
-  ],
-  "translation": "Masakɛ seginna ka na Yareden (Yareden) ma; Yuda mɔgɔw naana Giligala (Giligala) walasa ka taa masakɛ ɲɛ, walasa ka ⟨את⟩ masakɛ ɲɛ Yareden (Yareden) kɔ tigɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/19\/13-16.1791931402338.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masakɛ seginna, ka taa ka se Yaraden ma; Yudadenw naana Giligali, ka taa kɛ masakɛ ta ɲɛfɛ, walasa ka ⟨את⟩ masakɛ Passing ⟨את⟩ Yaraden.",
   "tokens": [
     {
       "surface": "וישב",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "ka na"
+      "gloss": "ka taa ka se"
     },
     {
       "surface": "עד",
@@ -41,11 +25,11 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "Yareden"
+      "gloss": "Yaraden"
     },
     {
       "surface": "ויהודה",
-      "gloss": "Yuda mɔgɔw"
+      "gloss": "Yudadenw"
     },
     {
       "surface": "בא",
@@ -53,15 +37,15 @@
     },
     {
       "surface": "הגלגלה",
-      "gloss": "Giligala"
+      "gloss": "Giligali"
     },
     {
       "surface": "ללכת",
-      "gloss": "walasa ka taa"
+      "gloss": "ka taa"
     },
     {
       "surface": "לקראת",
-      "gloss": "ɲɛ"
+      "gloss": "kɛ … ta ɲɛfɛ"
     },
     {
       "surface": "המלך",
@@ -69,7 +53,7 @@
     },
     {
       "surface": "להעביר",
-      "gloss": "walasa ka … kɔ tigɛ"
+      "gloss": "walasa ka Passing"
     },
     {
       "surface": "את",
@@ -83,13 +67,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yareden"
+      "marks": "Yaraden"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yareden"
+      "gloss": "Yaraden"
     }
   ],
-  "timestamp": "2026-10-13T22:43:22.345774049Z",
+  "timestamp": "2026-10-20T13:26:49.262788582Z",
   "model": "glm-5.3"
 }

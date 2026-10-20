@@ -5,41 +5,15 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Yawe Sebaot",
-      "rationale": "צבאות (jagow) kɔrɔ ye Yawe min ye Sɛnkɛjagow tigi ye; Bamanankan na 'jagow ka Matigi' ye a ka ɲɛtaa tilennen ye."
-    },
-    {
-      "kind": "substitution",
-      "subject": "סלה",
-      "rationale": "Heburukan daɲɛ min fɔra i n'a fɔ yɛlɛma kili taamasiyɛn; an b'a sɔn 'Sela' kɔrɔyɔrɔ la."
-    },
-    {
-      "kind": "crux",
-      "subject": "עולם",
-      "rationale": "'jate tɛmɛnen na' (infinite time) walima 'lebele bɛɛ la'; Hebrew daɲɛ kelen ye fan saba bɛɛ ta."
-    }
-  ],
-  "translation": "A cogo min na an ye mɛn, o cogo min na an ye ye Yawe ka dugu kɔnɔ, Ala jagow ka Matigi, an Ala ka dugu kɔnɔ — Elohim bɛ a sigi kan fo kabini daminɛ ka se jate tɛmɛnen na. Sela.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "7520bed6636c57f2bb25c0bab25bf7f36d6f75cd794f2c7a01afa28da7b3a100",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/48\/9-12.1791940190848.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Min na an y'a mɛn, o cogo min na an y'a ye Yawe Tsɛbayot (Yawe, masakɛw Matigi) ka dugu kɔnɔ, an ka Elohim ka dugu kɔnɔ: Elohim bɛ a jɔsi fo waati bɛɛ la. Sela.",
   "tokens": [
     {
       "surface": "כאשר",
-      "gloss": "a cogo min na"
+      "gloss": "min na"
     },
     {
       "surface": "שמענו",
-      "gloss": "an ye mɛn"
+      "gloss": "an y'a mɛn"
     },
     {
       "surface": "כן",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ראינו",
-      "gloss": "an ye ye"
+      "gloss": "an y'a ye"
     },
     {
       "surface": "בעיר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "jagow ka Matigi"
+      "gloss": "Tsɛbayot (masakɛw)"
     },
     {
       "surface": "בעיר",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "an Ala"
+      "gloss": "an ka Elohim"
     },
     {
       "surface": "אלהים",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "יכוננה",
-      "gloss": "bɛ a sigi kan"
+      "gloss": "bɛ a jɔsi"
     },
     {
       "surface": "עד",
@@ -83,13 +57,13 @@
     },
     {
       "surface": "עולם",
-      "gloss": "kabini daminɛ ka se jate tɛmɛnen na"
+      "gloss": "waati bɛɛ la"
     },
     {
       "surface": "סלה",
       "gloss": "Sela"
     }
   ],
-  "timestamp": "2026-10-14T01:09:50.849159922Z",
+  "timestamp": "2026-10-20T15:59:47.263527694Z",
   "model": "glm-5.3"
 }

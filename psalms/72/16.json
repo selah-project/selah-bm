@@ -5,82 +5,51 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 72,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "פסת",
-      "rationale": "occurs only here; glossed 'expansion\/abundance', KJV reads 'handful'"
-    },
-    {
-      "kind": "crux",
-      "subject": "מעיר",
-      "rationale": "'from the city' (its people) vs repointed 'from the earth-like vegetation'; kept the city picture"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בר \/ בארץ \/ בראש",
-      "rationale": "threefold ב root repetition (grain \/ in-the-land \/ on-the-head), lost in Bambara"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨mɔgɔw⟩",
-      "rationale": "subject of ויציצו ('those of the city') supplied, as Hebrew leaves it implied"
-    }
-  ],
-  "translation": "K'a kɛ ti finsɛn bonya dugukolo kan, kulubɛɛw ka kun tilennen na; a ka jiridenw bɛna ɲagami i n'a fɔ Liban; ⟨mɔgɔw⟩ bɛ yiriwuli duguw na, i n'a fɔ dugukolo bin.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/72\/13-16.1791940681791.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kisɛ barika kɛ dugukolo kɔnɔ, kuluw kunw la; a jiridenw bɛna ɲagaji i n'a fɔ Lebani, aw bɛna ɲɛbugu duguba la i n'a fɔ dugukolo bin.",
   "tokens": [
     {
       "surface": "יהי",
-      "gloss": "k'a kɛ ti"
+      "gloss": "kɛ"
     },
     {
       "surface": "פסת",
-      "gloss": "bonya"
+      "gloss": "barika"
     },
     {
       "surface": "בר",
-      "gloss": "finsɛn"
+      "gloss": "kisɛ"
     },
     {
       "surface": "בארץ",
-      "gloss": "dugukolo kan"
+      "gloss": "dugukolo kɔnɔ"
     },
     {
       "surface": "בראש",
-      "gloss": "kun tilennen na"
+      "gloss": "kunw la"
     },
     {
       "surface": "הרים",
-      "gloss": "kulubɛɛw"
+      "gloss": "kuluw"
     },
     {
       "surface": "ירעש",
-      "gloss": "bɛna ɲagami"
+      "gloss": "bɛna ɲagaji"
     },
     {
       "surface": "כלבנון",
-      "gloss": "i n'a fɔ Liban"
+      "gloss": "i n'a fɔ Lebani"
     },
     {
       "surface": "פריו",
-      "gloss": "a ka jiridenw"
+      "gloss": "a jiridenw"
     },
     {
       "surface": "ויציצו",
-      "gloss": "bɛ yiriwuli"
+      "gloss": "aw bɛna ɲɛbugu"
     },
     {
       "surface": "מעיר",
-      "gloss": "duguw na"
+      "gloss": "duguba la"
     },
     {
       "surface": "כעשב",
@@ -91,6 +60,6 @@
       "gloss": "dugukolo"
     }
   ],
-  "timestamp": "2026-10-14T01:18:01.792589085Z",
+  "timestamp": "2026-10-20T15:39:14.594004811Z",
   "model": "glm-5.3"
 }

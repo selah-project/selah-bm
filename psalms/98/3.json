@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 98,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hakili",
-      "rationale": "זכר 'remember' rendered as 'kept in mind' — Hebrew remembers as covenant act, not mental recall."
-    },
-    {
-      "kind": "idiom",
-      "subject": "אפסי ארץ",
-      "rationale": "Literally 'the ends of the earth', idiom for the farthest inhabited regions."
-    }
-  ],
-  "translation": "A ye a hesed ani a tiɲɛnya hakili Israel so ma; dugukolo beeniw ye ⟨את⟩ an ka Elohim ka lasigili ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/98\/1-4.1791941211174.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y'a hesed ni a sɔgɔsɔgɔ-ɲinini mara Yisraela so ye; dugukolo bɛɛ kunw ye ⟨את⟩ an ka Elohim ka yeliya ye.",
   "tokens": [
     {
       "surface": "זכר",
-      "gloss": "hakili"
+      "gloss": "mara"
     },
     {
       "surface": "חסדו",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "ואמונתו",
-      "gloss": "ani a tiɲɛnya"
+      "gloss": "ni a sɔgɔsɔgɔ-ɲinini"
     },
     {
       "surface": "לבית",
-      "gloss": "so ma"
+      "gloss": "so"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Yisraela"
     },
     {
       "surface": "ראו",
-      "gloss": "ye … ye"
+      "gloss": "ye"
     },
     {
       "surface": "כל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "אפסי",
-      "gloss": "beeniw"
+      "gloss": "kunw"
     },
     {
       "surface": "ארץ",
@@ -67,17 +46,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "an ka Elohim ka lasigili"
+      "marks": "an ka Elohim ka yeliya"
     },
     {
       "surface": "ישועת",
-      "gloss": "lasigili"
+      "gloss": "yeliya"
     },
     {
       "surface": "אלהינו",
       "gloss": "an ka Elohim"
     }
   ],
-  "timestamp": "2026-10-14T01:26:51.175579017Z",
+  "timestamp": "2026-10-20T15:40:42.041350282Z",
   "model": "glm-5.3"
 }

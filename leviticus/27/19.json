@@ -5,66 +5,45 @@
   "book": "leviticus",
   "lang": "bm",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "infinitive-absolute",
-      "subject": "גאל יגאל",
-      "rationale": "infinitive absolute before finite verb: 'if redeeming he will redeem' — emphasizes certainty of the redemption"
-    },
-    {
-      "kind": "measurement",
-      "subject": "fifth",
-      "rationale": "one-fifth surcharge added to the valuation on redemption"
-    }
-  ],
-  "translation": "Min ye foro in bila senuma ye, ni o b'a fɛ ka foro in wele, a bɛna warigwɛ duru fara i ka jatelan kan, foro bɛna to a ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/27\/17-20.1791927004838.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni min ye foro senumaya, o bɛ ⟨את⟩ foro laseli, a bɛna warigwɛ duurunan dɔgɔ fara i jate kan, foro bɛna to ⟨a⟩ ye.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "ni"
+      "gloss": "Ni"
     },
     {
       "surface": "גאל",
-      "gloss": "wele"
+      "gloss": "laselitigi"
     },
     {
       "surface": "יגאל",
-      "gloss": "b'a fɛ ka ... wele"
+      "gloss": "laseli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "foro in"
+      "marks": "foro"
     },
     {
       "surface": "השדה",
-      "gloss": "foro in"
+      "gloss": "foro"
     },
     {
       "surface": "המקדיש",
-      "gloss": "min ye ... bila senuma ye"
+      "gloss": "min ye senumaya"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "a"
+      "gloss": "⟨את⟩",
+      "marks": "foro in"
     },
     {
       "surface": "ויסף",
-      "gloss": "bɛna ... fara ... kan"
+      "gloss": "a bɛna fara"
     },
     {
       "surface": "חמשית",
-      "gloss": "duru"
+      "gloss": "duurunan dɔgɔ"
     },
     {
       "surface": "כסף",
@@ -72,11 +51,11 @@
     },
     {
       "surface": "ערכך",
-      "gloss": "i ka jatelan"
+      "gloss": "i jate"
     },
     {
       "surface": "עליו",
-      "gloss": "o kan"
+      "gloss": "a kan"
     },
     {
       "surface": "וקם",
@@ -87,6 +66,6 @@
       "gloss": "a ye"
     }
   ],
-  "timestamp": "2026-10-13T21:30:04.840779917Z",
+  "timestamp": "2026-10-20T15:14:07.545987203Z",
   "model": "glm-5.3"
 }

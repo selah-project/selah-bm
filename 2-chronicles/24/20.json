@@ -5,43 +5,7 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עזבתם\/ויעזב",
-      "rationale": "Same verb 'forsake' returned on the people — 'you forsook Yawe, He forsook you'; the mirror kept in Bambara with bala"
-    },
-    {
-      "kind": "crux",
-      "subject": "מעל לעם",
-      "rationale": "'above the people': stood above\/over against the people; rendered sanfɛ 'above'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "לבשה",
-      "rationale": "'clothed' the spirit = came upon powerfully; rendered di 'put on'"
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "Zekariya addresses the people of Judah directly with aw"
-    },
-    {
-      "kind": "hapax",
-      "subject": "awdadaw",
-      "rationale": "Bambara compound coined for מצות commandments; vocabulary table lacks an entry"
-    }
-  ],
-  "translation": "Elohim ka fiɲɛ ye Zekariya (Zekariya) di, min ye Yehoyada denkɛ ye, sarakalasebagaden in; a ye nda wuli mɔgɔw sanfɛ, k'u fɔ ale ye: cogo nin na Elohim y'a fɔ: munna aw bɛ Yawe ka awdadaw jan, wa aw tɛ se ka bonya sɔrɔ? Sabu aw ye Yawe bala, a ye aw bala.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e5a76f2b82749c94eb134694161ca357e1c0bc5474cbdc5c001fda036d47fe69",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/24\/17-20.1791949449136.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Elohim ka fiɲɛ ye ⟨את⟩ Zekaraya — Yehoyada denkɛ, sarakalasebaga — kɛ a yɛrɛ ye, a ye jɔ jama sanfɛ, k'u ko: Elohim ko nin cogo na: Munna aw bɛ Yawe sariyaw ɲɛgɛn, aw tɛ ɲɛ? Sabu aw y'⟨את⟩ Yawe bila, a y'aw bila.",
   "tokens": [
     {
       "surface": "ורוח",
@@ -53,16 +17,16 @@
     },
     {
       "surface": "לבשה",
-      "gloss": "ye … di"
+      "gloss": "kɛ a yɛrɛ ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Zekariya"
+      "marks": "Zekaraya"
     },
     {
       "surface": "זכריה",
-      "gloss": "Zekariya"
+      "gloss": "Zekaraya"
     },
     {
       "surface": "בן",
@@ -74,11 +38,11 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "sarakalasebagaden"
+      "gloss": "sarakalasebaga"
     },
     {
       "surface": "ויעמד",
-      "gloss": "a ye nda wuli"
+      "gloss": "a ye jɔ"
     },
     {
       "surface": "מעל",
@@ -86,23 +50,23 @@
     },
     {
       "surface": "לעם",
-      "gloss": "mɔgɔw"
+      "gloss": "jama"
     },
     {
       "surface": "ויאמר",
-      "gloss": "k'u fɔ"
+      "gloss": "k'u ko"
     },
     {
       "surface": "להם",
-      "gloss": "u ma"
+      "gloss": "u"
     },
     {
       "surface": "כה",
-      "gloss": "cogo nin na"
+      "gloss": "nin cogo na"
     },
     {
       "surface": "אמר",
-      "gloss": "y'a fɔ"
+      "gloss": "ko"
     },
     {
       "surface": "האלהים",
@@ -118,16 +82,16 @@
     },
     {
       "surface": "עברים",
-      "gloss": "bɛ … jan"
+      "gloss": "ɲɛgɛn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "awdadaw"
+      "marks": "Yawe sariyaw"
     },
     {
       "surface": "מצות",
-      "gloss": "awdadaw"
+      "gloss": "sariyaw"
     },
     {
       "surface": "יהוה",
@@ -135,11 +99,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "wa … tɛ"
+      "gloss": "tɛ"
     },
     {
       "surface": "תצליחו",
-      "gloss": "se ka bonya sɔrɔ"
+      "gloss": "ɲɛ"
     },
     {
       "surface": "כי",
@@ -147,7 +111,7 @@
     },
     {
       "surface": "עזבתם",
-      "gloss": "aw ye … bala"
+      "gloss": "aw y'a bila"
     },
     {
       "surface": "את",
@@ -160,14 +124,13 @@
     },
     {
       "surface": "ויעזב",
-      "gloss": "a ye … bala"
+      "gloss": "a y'aw bila"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "aw"
+      "gloss": "⟨את⟩ aw"
     }
   ],
-  "timestamp": "2026-10-14T03:44:09.137861231Z",
+  "timestamp": "2026-10-20T13:11:46.661597173Z",
   "model": "glm-5.3"
 }

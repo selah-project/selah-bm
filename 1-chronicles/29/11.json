@@ -5,37 +5,11 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨ye⟩",
-      "rationale": "Bamanankan copula supplied where Hebrew is a verbless 'to-you' clause"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ka toɔ",
-      "rationale": "המתנשא is literally 'the-one-lifting-himself-up'; rendered as exaltation verb"
-    },
-    {
-      "kind": "you",
-      "subject": "to Yawe",
-      "rationale": "whole verse is direct second-person ascription to Yawe"
-    }
-  ],
-  "translation": "I ta ⟨ye⟩, Yawe, bonya ani fanga ani ɲɛtaali ani sɔngɔ ani kɔrɔdɔgɔya; sabu bɛɛ min bɛ sankolow ni dugukolo kɔnɔ, I ta ⟨ye⟩; I ta ⟨ye⟩ masakɛya, Yawe, ani ka toɔ ka kɛ bɛɛ kun ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b28ac016ca2a04ccd9d22c1dc4d42c57c7a2c2e60edbe49e33ac1a679f0c6ddb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/29\/10-11.1791951614264.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I ye Yawe, bonya ni fanga ni ja ni niɲɛ ni kɔrɔbɔli ye; sabu bɛɛ min bɛ sankolow ni dugukolo kɔnɔ, o ye ⟨i ta⟩ ye; i ye Yawe, masaya, a bɛ to bɛɛ la ⟨kun⟩ ye.",
   "tokens": [
     {
       "surface": "לך",
-      "gloss": "I ta"
+      "gloss": "i ye"
     },
     {
       "surface": "יהוה",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "והגבורה",
-      "gloss": "fanga"
+      "gloss": "ni fanga"
     },
     {
       "surface": "והתפארת",
-      "gloss": "ɲɛtaali"
+      "gloss": "ni ja"
     },
     {
       "surface": "והנצח",
-      "gloss": "sɔngɔ"
+      "gloss": "ni niɲɛ"
     },
     {
       "surface": "וההוד",
-      "gloss": "kɔrɔdɔgɔya"
+      "gloss": "ni kɔrɔbɔli"
     },
     {
       "surface": "כי",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "בשמים",
-      "gloss": "sankolow la"
+      "gloss": "sankolow kɔnɔ"
     },
     {
       "surface": "ובארץ",
-      "gloss": "dugukolo la"
+      "gloss": "ni dugukolo kɔnɔ"
     },
     {
       "surface": "לך",
-      "gloss": "I ta"
+      "gloss": "i ye"
     },
     {
       "surface": "יהוה",
@@ -87,21 +61,21 @@
     },
     {
       "surface": "הממלכה",
-      "gloss": "masakɛya"
+      "gloss": "masaya"
     },
     {
       "surface": "והמתנשא",
-      "gloss": "ka toɔ"
+      "gloss": "a bɛ to bɛɛ la"
     },
     {
       "surface": "לכל",
-      "gloss": "bɛɛ"
+      "gloss": "bɛɛ la"
     },
     {
       "surface": "לראש",
       "gloss": "kun ye"
     }
   ],
-  "timestamp": "2026-10-14T04:20:14.264950719Z",
+  "timestamp": "2026-10-20T12:49:10.949144572Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ישבו מן",
-      "rationale": "Hebrew 'dwelt from the sons of' — a partitive idiom ('some of'); Bambara renders as a plain list of inhabitants."
-    },
-    {
-      "kind": "measurement",
-      "subject": "denw",
-      "rationale": "Tribal registration list begins here — enumeration of Judah's settlers by lineage."
-    }
-  ],
-  "translation": "Ani Yerushalayim (Jerusalɛmu) kɔnɔ, Yuda denw, Binyamin denw, Efrayim denw ani Menashe denw sigilen don.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/9\/1-4.1791947788726.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yerushalayim (Jerusalɛmu) na, Yuda denw ni Binjamini denw ni Efirayimu denw ni Manase denw dɔw tun sigilen yen.",
   "tokens": [
     {
       "surface": "ובירושלם",
-      "gloss": "ani Yerushalayim kɔnɔ"
+      "gloss": "Yerushalayim na"
     },
     {
       "surface": "ישבו",
-      "gloss": "sigilen don"
+      "gloss": "sigilen"
     },
     {
       "surface": "מן",
-      "gloss": "… la"
+      "gloss": "…dɔw"
     },
     {
       "surface": "בני",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ומן",
-      "gloss": "ani … la"
+      "gloss": "ni …dɔw"
     },
     {
       "surface": "בני",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "בנימן",
-      "gloss": "Binyamin"
+      "gloss": "Binjamini"
     },
     {
       "surface": "ומן",
-      "gloss": "ani … la"
+      "gloss": "ni …dɔw"
     },
     {
       "surface": "בני",
@@ -70,13 +49,13 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "Efrayim"
+      "gloss": "Efirayimu"
     },
     {
       "surface": "ומנשה",
-      "gloss": "ani Menashe"
+      "gloss": "ni Manase"
     }
   ],
-  "timestamp": "2026-10-14T03:16:28.728154407Z",
+  "timestamp": "2026-10-20T12:51:27.127517998Z",
   "model": "glm-5.3"
 }

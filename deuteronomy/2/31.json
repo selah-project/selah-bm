@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "החלתי\/החל",
-      "rationale": "same root חלל begun — 'I have begun… begin' — repetition kept with daminɛ"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "רש\/לרשת",
-      "rationale": "infinitive-verb play 'possess, to possess' kept with minɛ\/minɛn na"
-    },
-    {
-      "kind": "you",
-      "subject": "to Moshe",
-      "rationale": "Yawe addresses Moshe directly with imperatives"
-    }
-  ],
-  "translation": "Yawe ko ne ye: y'elu! Ne daminɛna ka ⟨את⟩ Sihon ni ⟨את⟩ a dugukolo di i ɲɛw fɛ; i daminɛ ka minɛ a dugukolo minɛn na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e71f91e8c762e5a16aa9c9c262e34a9b075ea96ac8ef84a7b24a17712acbc572",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/2\/29-32.1791927470714.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe ko ne ma: i ye, ne daminɛna ka ⟨את⟩ Sihɔn ni ⟨את⟩ a dugukolo di i ɲɛfɛ; i daminɛ ka a dugukolo ta, ⟨את⟩ a dugukolo.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,36 +17,36 @@
     },
     {
       "surface": "אלי",
-      "gloss": "ne ye"
+      "gloss": "ne ma"
     },
     {
       "surface": "ראה",
-      "gloss": "y'elu"
+      "gloss": "i ye"
     },
     {
       "surface": "החלתי",
-      "gloss": "Ne daminɛna"
+      "gloss": "ne daminɛna"
     },
     {
       "surface": "תת",
-      "gloss": "di"
+      "gloss": "ka di"
     },
     {
       "surface": "לפניך",
-      "gloss": "i ɲɛw fɛ"
+      "gloss": "i ɲɛfɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sihon"
+      "marks": "Sihɔn"
     },
     {
       "surface": "סיחן",
-      "gloss": "Sihon"
+      "gloss": "Sihɔn"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ni ⟨את⟩",
       "marks": "a dugukolo"
     },
     {
@@ -81,15 +55,15 @@
     },
     {
       "surface": "החל",
-      "gloss": "i daminɛ"
+      "gloss": "i daminɛ ka"
     },
     {
       "surface": "רש",
-      "gloss": "ka minɛ"
+      "gloss": "ta"
     },
     {
       "surface": "לרשת",
-      "gloss": "minɛn na"
+      "gloss": "ka ta (a dugukolo)"
     },
     {
       "surface": "את",
@@ -101,6 +75,6 @@
       "gloss": "a dugukolo"
     }
   ],
-  "timestamp": "2026-10-13T21:37:50.723237058Z",
+  "timestamp": "2026-10-20T13:41:24.220531252Z",
   "model": "glm-5.3"
 }

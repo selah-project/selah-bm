@@ -5,59 +5,33 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "mizmor",
-      "rationale": "Hebrew musical-term for a poem set to notes, kept as a loanword rather than flattened to 'salo'"
-    },
-    {
-      "kind": "addition",
-      "subject": "ka",
-      "rationale": "Bambara needs the possessive linker ל, supplied as 'ka'"
-    },
-    {
-      "kind": "you",
-      "subject": "superscription",
-      "rationale": "David's flight from Avshalom is the framing address that sets the whole psalm's stage"
-    }
-  ],
-  "translation": "Dawud (Dawuda) ka mizmor, ni a bɛ boli a bɔ Avshalom (Absalɔmu) — a denkɛ — ɲɛ fɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "84bcaba9278bcefbd3e0198ae8979837af0ff2812b8b05b856813628ec9378ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/3\/1-4.1791939527869.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sanzali (mizmor) Dawida (Dawid) ta, a bun na ni a bɛ bɔ a yɛrɛ bɔli la Avshalɔm (Absalɔm) a denkɛ nɔ na.",
   "tokens": [
     {
       "surface": "מזמור",
-      "gloss": "mizmor"
+      "gloss": "sanzali"
     },
     {
       "surface": "לדוד",
-      "gloss": "Dawud (Dawuda) ka"
+      "gloss": "Dawida ta"
     },
     {
       "surface": "בברחו",
-      "gloss": "ni a bɛ boli"
+      "gloss": "a bɔli la"
     },
     {
       "surface": "מפני",
-      "gloss": "bɔ … ɲɛ fɛ"
+      "gloss": "ni ... nɔ na"
     },
     {
       "surface": "אבשלום",
-      "gloss": "Avshalom (Absalɔmu)"
+      "gloss": "Avshalɔm"
     },
     {
       "surface": "בנו",
       "gloss": "a denkɛ"
     }
   ],
-  "timestamp": "2026-10-14T00:58:47.870411685Z",
+  "timestamp": "2026-10-20T15:35:58.002852132Z",
   "model": "glm-5.3"
 }

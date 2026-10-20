@@ -5,52 +5,36 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "min ye … ye",
-      "rationale": "הגתי as a noun phrase requires a Bambara relative clause the Hebrew construct does not have"
-    }
-  ],
-  "translation": "Ani Dawida (Dawuda) ma wuli ⟨את⟩ sanduku k'a ta a yɛrɛ fɛ, ka na a ka dugu, Dawida dugu la, nka a y'a yɔlɔ Oved-Edom so la, min ye Giti mɔgɔ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "af5d31a21834212420a5cd6544984cbf1d518d486195f5b37fe4750c819ebc7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/13\/13-14.1791947843396.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawid (Dawuda) ma ⟨את⟩ sanu-sandabilan bɔ a ma a taa a yɛrɛ ma, Dawid ka dugu la, nka a y'a dɔrɔn Obed-Edom (Obed-Edomu) ka Gati-jamana na so la.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ani ma"
+      "gloss": "ma"
     },
     {
       "surface": "הסיר",
-      "gloss": "wuli k'a bɔ"
+      "gloss": "ma bɔ"
     },
     {
       "surface": "דויד",
-      "gloss": "Dawida (Dawuda)"
+      "gloss": "Dawid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sanduku"
+      "marks": "sanu-sandabilan"
     },
     {
       "surface": "הארון",
-      "gloss": "sanduku"
+      "gloss": "sanu-sandabilan"
     },
     {
       "surface": "אליו",
-      "gloss": "a yɛrɛ fɛ"
+      "gloss": "a ma"
     },
     {
       "surface": "אל",
-      "gloss": "ka na … la"
+      "gloss": "ta"
     },
     {
       "surface": "עיר",
@@ -58,15 +42,15 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Dawida"
+      "gloss": "Dawid"
     },
     {
       "surface": "ויטהו",
-      "gloss": "a y'a yɔlɔ"
+      "gloss": "a y'a dɔrɔn"
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "ta"
     },
     {
       "surface": "בית",
@@ -74,7 +58,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "Oved-"
+      "gloss": "Obed-"
     },
     {
       "surface": "אדם",
@@ -82,9 +66,9 @@
     },
     {
       "surface": "הגתי",
-      "gloss": "Giti mɔgɔ"
+      "gloss": "Gati-jamana na"
     }
   ],
-  "timestamp": "2026-10-14T03:17:23.397218705Z",
+  "timestamp": "2026-10-20T12:45:33.716352583Z",
   "model": "glm-5.3"
 }

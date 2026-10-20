@@ -5,53 +5,27 @@
   "book": "nehemiah",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "התרשתא",
-      "rationale": "Titre persan du gouverneur: laissé en translitération 'Hatirshata' vs 'gouverneur' (ASV\/BSB)"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Alaaw",
-      "rationale": "אלהיכם pluriel d'Elohim avec suffixe 2pl rendu par 'Alaaw' (vos Ala), le pluriel est nivelé"
-    },
-    {
-      "kind": "you",
-      "subject": "mɔgɔw bɛɛ",
-      "rationale": "Adresse directe aux gens assemblés: interdictions 'aw kana…'"
-    }
-  ],
-  "translation": "Neheneya — ale ye Hatirshata (gouverneur) ye — ni Ezira sarakalasebaga sebɛnbaga ni Lewidenw minnu bɛ mɔgɔw ɲɛfɔ, u ye ko mɔgɔw bɛɛ ma: “Don nin ye Yawe Alaaw don senuma don; aw kana sunogoya kɛ, aw kana ji bɔ.” Sabu mɔgɔw bɛɛ tun bɛ ji bɔ, u ka ⟨את⟩ Tora kumaw mɛn.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "705eaf3ccd63e86b48cc2e25a2945dbfba3d39136479f9479bd373b2d3721fd2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/8\/9-12.1791947116083.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Netemiya — nutigaw b'a fɔ Tirsata — ni Ezira sarakalasebaga sɛbɛnbaga, ni Lewiyenw minnu bɛ jama ɲɛfɔ, u ye jama bɛɛ ye ko: nin don in don senuma don, Yawe i Elohim Aw ta de ye; aw kana dunso, aw kana taasi. Sabu jama bɛɛ tun bɛ ka ban, ni u bɛ Tora kumaw mɛn ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "u ye ... ye ko"
     },
     {
       "surface": "נחמיה",
-      "gloss": "Neheneya"
+      "gloss": "Netemiya"
     },
     {
       "surface": "הוא",
-      "gloss": "ale"
+      "gloss": "nutigaw b'a fɔ"
     },
     {
       "surface": "התרשתא",
-      "gloss": "Hatirshata"
+      "gloss": "Tirsata"
     },
     {
-      "surface": "וֶזרא",
-      "gloss": "Ezira"
+      "surface": "ועזרא",
+      "gloss": "ni Ezira"
     },
     {
       "surface": "הכהן",
@@ -59,68 +33,68 @@
     },
     {
       "surface": "הספר",
-      "gloss": "sebɛnbaga"
+      "gloss": "sɛbɛnbaga"
     },
     {
       "surface": "והלוים",
-      "gloss": "Lewidenw"
+      "gloss": "ni Lewiyenw"
     },
     {
       "surface": "המבינים",
-      "gloss": "ɲɛfɔbaga"
+      "gloss": "minnu bɛ ɲɛfɔ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mɔgɔw"
+      "marks": "jama"
     },
     {
       "surface": "העם",
-      "gloss": "mɔgɔw"
+      "gloss": "jama"
     },
     {
       "surface": "לכל",
-      "gloss": "bɛɛ ma"
+      "gloss": "bɛɛ ye"
     },
     {
       "surface": "העם",
-      "gloss": "mɔgɔw"
+      "gloss": "jama"
     },
     {
       "surface": "היום",
-      "gloss": "don nin"
+      "gloss": "nin don in"
     },
     {
       "surface": "קדש",
-      "gloss": "senuma"
+      "gloss": "don senuma"
     },
     {
       "surface": "הוא",
-      "gloss": "ale"
+      "gloss": "don"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yawe ma"
+      "gloss": "Yawe"
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Alaaw"
+      "gloss": "i Elohim Aw"
     },
     {
       "surface": "אל",
-      "gloss": "kana"
+      "gloss": "aw kana"
     },
     {
       "surface": "תתאבלו",
-      "gloss": "aw ni sunogoya kɛ"
+      "gloss": "dunso"
     },
     {
       "surface": "ואל",
-      "gloss": "ani kana"
+      "gloss": "aw kana"
     },
     {
       "surface": "תבכו",
-      "gloss": "aw ni ji bɔ"
+      "gloss": "taasi"
     },
     {
       "surface": "כי",
@@ -128,7 +102,7 @@
     },
     {
       "surface": "בוכים",
-      "gloss": "bɛ ji bɔ"
+      "gloss": "tun bɛ ka ban"
     },
     {
       "surface": "כל",
@@ -136,11 +110,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "mɔgɔw"
+      "gloss": "jama"
     },
     {
       "surface": "כשמעם",
-      "gloss": "u ka mɛn"
+      "gloss": "ni u bɛ ... mɛn"
     },
     {
       "surface": "את",
@@ -156,6 +130,6 @@
       "gloss": "Tora"
     }
   ],
-  "timestamp": "2026-10-14T03:05:16.084453268Z",
+  "timestamp": "2026-10-20T15:19:35.410797546Z",
   "model": "glm-5.3"
 }

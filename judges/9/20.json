@@ -5,45 +5,19 @@
   "book": "judges",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "kiyasɔgɔsɔgɔ (chiasm)",
-      "rationale": "tasuma-fɛn in bɛ lamini: Avimelek → Shekɛm\/Milo, Shekɛm\/Milo → Avimelek — dusudonna-kɔrɔ bɛ tasuma in lambali kɔrɔ la"
-    },
-    {
-      "kind": "crux",
-      "subject": "בית מלוא",
-      "rationale": "'Milo so' — dugu-bonya-so walima tɔgɔ-jamana; jira 'Beth-Milo' walima 'Milo dugu-so'"
-    },
-    {
-      "kind": "you",
-      "subject": "Shekɛm sigidugaw",
-      "rationale": "Yotam ka daminɛ-kuma in ka ban o kosɔn"
-    }
-  ],
-  "translation": "Nka ni o tɛ: tasuma ka bɔ Avimelek fɛ, ka ⟨את⟩ Shekɛm tigiw ni ⟨את⟩ Milo so dun; tasuma ka bɔ Shekɛm tigiw ni Milo so fɛ, ka ⟨את⟩ Avimelek dun.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b4703df232a0d226ce729144c38dfbc42a254080a7de0f1b53454b091be24b91",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/9\/17-20.1791929465711.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni ayɛn tɛ yen, tasuma bɛna bɔ Avimelek (Abimeleku) fɛ, ka ⟨את⟩ Shekɛm (Sikɛmu) sigitɔw ni ⟨את⟩ Milo so dɔnkɛw dun; tasuma bɛna bɔ Shekɛm sigitɔw ni Milo so dɔnkɛw fɛ, ka ⟨את⟩ Avimelek dun.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "nka ni"
+      "gloss": "ni"
     },
     {
       "surface": "אין",
-      "gloss": "o tɛ"
+      "gloss": "ayɛn tɛ yen"
     },
     {
       "surface": "תצא",
-      "gloss": "ka bɔ"
+      "gloss": "bɛna bɔ"
     },
     {
       "surface": "אש",
@@ -55,16 +29,16 @@
     },
     {
       "surface": "ותאכל",
-      "gloss": "ka … dun"
+      "gloss": "ka dun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shekɛm tigiw"
+      "marks": "Shekɛm sigitɔw"
     },
     {
       "surface": "בעלי",
-      "gloss": "tigiw"
+      "gloss": "sigitɔw"
     },
     {
       "surface": "שכם",
@@ -73,7 +47,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Milo so"
+      "marks": "Milo so dɔnkɛw"
     },
     {
       "surface": "בית",
@@ -81,11 +55,11 @@
     },
     {
       "surface": "מלוא",
-      "gloss": "Milo"
+      "gloss": "Milo dɔnkɛw"
     },
     {
       "surface": "ותצא",
-      "gloss": "ka bɔ"
+      "gloss": "bɛna bɔ"
     },
     {
       "surface": "אש",
@@ -93,7 +67,7 @@
     },
     {
       "surface": "מבעלי",
-      "gloss": "Shekɛm tigiw fɛ"
+      "gloss": "sigitɔw fɛ"
     },
     {
       "surface": "שכם",
@@ -101,7 +75,7 @@
     },
     {
       "surface": "ומבית",
-      "gloss": "Milo so fɛ"
+      "gloss": "so dɔnkɛw fɛ"
     },
     {
       "surface": "מלוא",
@@ -109,7 +83,7 @@
     },
     {
       "surface": "ותאכל",
-      "gloss": "ka … dun"
+      "gloss": "ka dun"
     },
     {
       "surface": "את",
@@ -121,6 +95,6 @@
       "gloss": "Avimelek"
     }
   ],
-  "timestamp": "2026-10-13T22:11:05.730489463Z",
+  "timestamp": "2026-10-20T15:03:07.160727352Z",
   "model": "glm-5.3"
 }

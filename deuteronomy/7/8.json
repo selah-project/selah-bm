@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "השבעה \/ נשבע",
-      "rationale": "layidu (sherbu-ko) ni k'u kɛ (k'i kɛ siran-na) — sherbu ni wolonwula ji-cogo ɲɛ, o tɛ Bamanankan la."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ויפדך",
-      "rationale": "filɛ-bɔ (ransom\/release) ye פדה ta; Bamanankan tɛ daɲɛ kelen ye ni 'ransom' ni 'release' fila."
-    },
-    {
-      "kind": "idiom",
-      "subject": "ביד חזקה",
-      "rationale": "bolo seba — 'ni bolo seba ye': fanga-ɲɛfɔli Heburukan na, a to a cogo la."
-    }
-  ],
-  "translation": "Sabu Yawe tun b'aw kanuya, ani sabu a mara ⟨את⟩ layidu min a y'k'u kɛ aw faaw ma, Yawe ye ⟨את⟩ aw bɔ ni bolo seba ye, k'aw filɛ bɔ jaw so la, Parho (Farawo), masakɛ Mitsrayim (Misira) bolo ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "bfbdcf31d741e8b3b36287e1ecc74f76bc1944b77a7bc0a1e4525047519ab931",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/7\/8-8.1791949994360.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu Yawe tun masra aw kanuya, ani a mara layidu min na a y'a tɔɔ i aw faamaw ye, Yawe ye ⟨את⟩ aw bɔ ni bolo seba ye, a y'aw yɔrɔ jɔnyɔnso so la, min be Peroh (Mitsrayim masakɛ) bolo fɛ.",
   "tokens": [
     {
       "surface": "כי",
@@ -48,11 +22,11 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ aw",
-      "marks": "aw"
+      "marks": "⟨את⟩ kanuya min bɛ Yawe fɛ"
     },
     {
       "surface": "ומשמרו",
-      "gloss": "k'o mara"
+      "gloss": "ani a mara"
     },
     {
       "surface": "את",
@@ -69,15 +43,15 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "y'k'u kɛ"
+      "gloss": "a y'a tɔɔ"
     },
     {
       "surface": "לאבתיכם",
-      "gloss": "aw faaw ma"
+      "gloss": "i aw faamaw"
     },
     {
       "surface": "הוציא",
-      "gloss": "ye … bɔ"
+      "gloss": "bɔ"
     },
     {
       "surface": "יהוה",
@@ -86,7 +60,7 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ aw",
-      "marks": "aw"
+      "marks": "⟨את⟩ bɔ"
     },
     {
       "surface": "ביד",
@@ -98,7 +72,7 @@
     },
     {
       "surface": "ויפדך",
-      "gloss": "k'aw filɛ bɔ"
+      "gloss": "a y'aw yɔrɔ"
     },
     {
       "surface": "מבית",
@@ -106,15 +80,15 @@
     },
     {
       "surface": "עבדים",
-      "gloss": "jaw"
+      "gloss": "jɔnyɔnso"
     },
     {
       "surface": "מיד",
-      "gloss": "bolo ma"
+      "gloss": "bolo"
     },
     {
       "surface": "פרעה",
-      "gloss": "Parho (Farawo)"
+      "gloss": "Peroh"
     },
     {
       "surface": "מלך",
@@ -122,9 +96,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim (Misira)"
+      "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-10-14T03:53:14.361534676Z",
+  "timestamp": "2026-10-20T13:47:32.733434799Z",
   "model": "glm-5.3"
 }

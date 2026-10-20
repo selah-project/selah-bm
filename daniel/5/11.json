@@ -5,33 +5,7 @@
   "book": "daniel",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to the king",
-      "rationale": "The queen continues direct address, 'in your kingdom… your father'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "alaw",
-      "rationale": "אלהין plural: the pagan queen's 'holy gods' rendered alaw (gods) per the plural rule, not the Name Elohim."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אבוך מלכא",
-      "rationale": "'Your father the king' repeated twice in one clause for emphasis; Bambara keeps both but the insistent doubling is softened."
-    }
-  ],
-  "translation": "Mɔgɔ dɔ b'i ka masakun na, min kɔnɔ alaw senumaw ka fiɲɛ don; i fa donw na, yeelen, hɔrɔnyali dɔnniya ani dɔnniya i n'a fɔ alaw ka dɔnniya, bɛra don o la. Masakɛ Nebukadnesar (Nebukadnesar), i fa, masakɛ de, i fa ye a bil'a kɛ ɲɛmɔgɔ ye masalabagaw, ashafɛw, Kashdew (Babiloniw) ani gɛsiribagaw la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b87e5c6a98a30a590a3792bca612b18ecb946f85ec54e4005db93eab98aaecc5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/5\/9-12.1791945921348.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mɔgɔ dɔ bɛ i ka masakɛya kɔnɔ, min kɔnɔ senuma Elohim ka fiɲɛ bɛ; ani i fa tilew la, yeelen-bonya, nunu-dɔnni ani hakili — i n'a fɔ Elohim ka hakili — bɛra sɔrɔ a la; ani masakɛ Nebukadnɛtsar (Nabukodonozɔr) i fa y'a bil'a ko masalakɛtibagaw, laselibagaw, Kasdiw ani kumasebɔbagaw tigi — i fa, ⟨ey⟩ Masa.",
   "tokens": [
     {
       "surface": "איתי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "במלכותך",
-      "gloss": "i ka masakun na"
+      "gloss": "i ka masakɛya kɔnɔ"
     },
     {
       "surface": "די",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אלהין",
-      "gloss": "alaw"
+      "gloss": "Elohim"
     },
     {
       "surface": "קדישין",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "בה",
-      "gloss": "… kɔnɔ"
+      "gloss": "a kɔnɔ"
     },
     {
       "surface": "וביומי",
-      "gloss": "… donw na"
+      "gloss": "ani … tilew la"
     },
     {
       "surface": "אבוך",
@@ -75,39 +49,39 @@
     },
     {
       "surface": "נהירו",
-      "gloss": "yeelen"
+      "gloss": "yeelen-bonya"
     },
     {
       "surface": "ושכלתנו",
-      "gloss": "hɔrɔnyali dɔnniya"
+      "gloss": "nunu-dɔnni"
     },
     {
       "surface": "וחכמה",
-      "gloss": "dɔnniya"
+      "gloss": "ani hakili"
     },
     {
       "surface": "כחכמת",
-      "gloss": "i n'a fɔ … ka"
+      "gloss": "i n'a fɔ … hakili"
     },
     {
       "surface": "אלהין",
-      "gloss": "alaw"
+      "gloss": "Elohim"
     },
     {
       "surface": "השתכחת",
-      "gloss": "bɛra don"
+      "gloss": "bɛra sɔrɔ"
     },
     {
       "surface": "בה",
-      "gloss": "o la"
+      "gloss": "a la"
     },
     {
       "surface": "ומלכא",
-      "gloss": "masakɛ"
+      "gloss": "ani masakɛ"
     },
     {
       "surface": "נבכדנצר",
-      "gloss": "Nebukadnesar"
+      "gloss": "Nebukadnɛtsar"
     },
     {
       "surface": "אבוך",
@@ -115,27 +89,27 @@
     },
     {
       "surface": "רב",
-      "gloss": "ɲɛmɔgɔ"
+      "gloss": "tigi"
     },
     {
       "surface": "חרטמין",
-      "gloss": "masalabagaw"
+      "gloss": "masalakɛtibagaw"
     },
     {
       "surface": "אשפין",
-      "gloss": "ashafɛw"
+      "gloss": "laselibagaw"
     },
     {
       "surface": "כשדאין",
-      "gloss": "Kashdew"
+      "gloss": "Kasdiw"
     },
     {
       "surface": "גזרין",
-      "gloss": "gɛsiribagaw"
+      "gloss": "kumasebɔbagaw"
     },
     {
       "surface": "הקימה",
-      "gloss": "ye a bil'a kɛ"
+      "gloss": "y'a bil'a ko"
     },
     {
       "surface": "אבוך",
@@ -143,9 +117,9 @@
     },
     {
       "surface": "מלכא",
-      "gloss": "masakɛ"
+      "gloss": "Masa"
     }
   ],
-  "timestamp": "2026-10-14T02:45:21.350112139Z",
+  "timestamp": "2026-10-20T13:35:05.923684706Z",
   "model": "glm-5.3"
 }

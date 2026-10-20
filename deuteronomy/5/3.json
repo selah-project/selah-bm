@@ -5,41 +5,20 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "כרת \/ את",
-      "rationale": "Verb 'cut' (כרת) frames two different את's — preposition 'with' and object marker — a sound-play untranslatable."
-    },
-    {
-      "kind": "idiom",
-      "subject": "כרת ברית",
-      "rationale": "Lit. 'cut the covenant'; rendered 'layidu sigi'."
-    }
-  ],
-  "translation": "Yawe ma ⟨את⟩ layidu in sigi ⟨ni an ka maw bɛɛ⟩ ye, nka an yɛrɛ de ye — ninnu, yan, bi, an bɛɛ bɛ balo.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/5\/1-4.1791927611935.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe ma ⟨את⟩ layidu in sigi ni ⟨את⟩ an denbaw ye, nka ⟨את⟩ an de ye — anw ninnu, yan bi, an bɛɛ bɛ balo.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "ma…tɩ"
+      "gloss": "ma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ni an ka maw bɛɛ (preposition 'with' our fathers)"
+      "marks": "an denbaw"
     },
     {
       "surface": "אבתינו",
-      "gloss": "an ka maw bɛɛ"
+      "gloss": "an denbaw"
     },
     {
       "surface": "כרת",
@@ -56,7 +35,7 @@
     },
     {
       "surface": "הברית",
-      "gloss": "layidu in"
+      "gloss": "layidu"
     },
     {
       "surface": "הזאת",
@@ -68,11 +47,11 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ an ye (preposition 'with us')"
+      "gloss": "⟨את⟩ an"
     },
     {
       "surface": "אנחנו",
-      "gloss": "an yɛrɛ"
+      "gloss": "anw"
     },
     {
       "surface": "אלה",
@@ -95,6 +74,6 @@
       "gloss": "balo"
     }
   ],
-  "timestamp": "2026-10-13T21:40:11.939948832Z",
+  "timestamp": "2026-10-20T13:46:36.630644543Z",
   "model": "glm-5.3"
 }

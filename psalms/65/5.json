@@ -5,61 +5,35 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 65,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "mɔgɔ min",
-      "rationale": "Hebrew אשרי has no explicit 'man'; the relative noun supplied for Bamanankan syntax"
-    },
-    {
-      "kind": "substitution",
-      "subject": "nyɛ",
-      "rationale": "טוב 'goodness' rendered with general 'nyɛ'; no single Bamanankan word carries temple-blessing nuance"
-    },
-    {
-      "kind": "you",
-      "subject": "to Elohim",
-      "rationale": "the verse addresses Elohim directly with second-person forms"
-    }
-  ],
-  "translation": "Nisɔnɣi bɛ mɔgɔ min ma, min i ye bɔ ka min i na, a bɛna sigi i ka yɔrɔw la; an bɛna i ka so ka nyɛ lamɛn, i ka senuma dɔgɔso.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/65\/5-8.1791940476712.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Donyili don mɔgɔ min na i ye min ye ka a lakika i bɛɛ, ale bɛna ɔn i ka so kɔnɔ; an bɛna kɛɲɛ ni i ka so ka nyɛnɛ ye, ni i ka senuma so ba ye.",
   "tokens": [
     {
       "surface": "אשרי",
-      "gloss": "nisɔnɣi"
+      "gloss": "donyili don"
     },
     {
       "surface": "תבחר",
-      "gloss": "i ye bɔ"
+      "gloss": "i ye min ye"
     },
     {
       "surface": "ותקרב",
-      "gloss": "ka min i na"
+      "gloss": "ka a lakika i bɛɛ"
     },
     {
       "surface": "ישכן",
-      "gloss": "a bɛna sigi"
+      "gloss": "a bɛna ɔn"
     },
     {
       "surface": "חצריך",
-      "gloss": "i ka yɔrɔw la"
+      "gloss": "i ka so kɔnɔ"
     },
     {
       "surface": "נשבעה",
-      "gloss": "an bɛna … lamɛn"
+      "gloss": "an bɛna kɛɲɛ"
     },
     {
       "surface": "בטוב",
-      "gloss": "nyɛ"
+      "gloss": "nyɛnɛ"
     },
     {
       "surface": "ביתך",
@@ -71,9 +45,9 @@
     },
     {
       "surface": "היכלך",
-      "gloss": "i ka dɔgɔso"
+      "gloss": "so ba"
     }
   ],
-  "timestamp": "2026-10-14T01:14:36.712731420Z",
+  "timestamp": "2026-10-20T15:38:22.129608840Z",
   "model": "glm-5.3"
 }

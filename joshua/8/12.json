@@ -5,40 +5,19 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "mɔgɔ 5,000",
-      "rationale": "count of the ambush force; some versions add 'about', Hebrew lacks it"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מיאם",
-      "rationale": "again 'from the west', not 'sea'"
-    }
-  ],
-  "translation": "A ye mɔgɔ 5,000 ta, ka bila ⟨את⟩ u ka dogo Bet-El ni Ayi cɛma, dugu tilebin fɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "fe875eb6d8cde84fbe23cc9a1ecff7c0a5dd2d2781d25c7507bb159d82e1591e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/8\/9-12.1791928656829.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ye mɔgɔ wolonwula milɛ ta, ka u bila ⟨את⟩ tugusigili la, Betel (Betɛlɛ) ni Ayi (Ay) cɛ, ji fɛ, dugu la.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "ye ... ta"
+      "gloss": "a ye … ta"
     },
     {
       "surface": "כחמשת",
-      "gloss": "wolonwula (5)"
+      "gloss": "wolonwula"
     },
     {
       "surface": "אלפים",
-      "gloss": "kɛmɛ 5,000"
+      "gloss": "milɛ"
     },
     {
       "surface": "איש",
@@ -46,32 +25,32 @@
     },
     {
       "surface": "וישם",
-      "gloss": "ka bila"
+      "gloss": "ka … bila"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ u",
-      "marks": "dogobagaw (u)"
+      "gloss": "⟨את⟩",
+      "marks": "tugusigili"
     },
     {
       "surface": "ארב",
-      "gloss": "ka dogo"
+      "gloss": "tugusigili"
     },
     {
       "surface": "בין",
-      "gloss": "cɛma"
+      "gloss": "cɛ"
     },
     {
       "surface": "בית",
-      "gloss": "Bet"
+      "gloss": "Bet-"
     },
     {
       "surface": "אל",
-      "gloss": "-El"
+      "gloss": "el"
     },
     {
       "surface": "ובין",
-      "gloss": "ni"
+      "gloss": "ani … cɛ"
     },
     {
       "surface": "העי",
@@ -79,13 +58,13 @@
     },
     {
       "surface": "מים",
-      "gloss": "tilebin"
+      "gloss": "ji"
     },
     {
       "surface": "לעיר",
-      "gloss": "dugu ka fɛ"
+      "gloss": "dugu la"
     }
   ],
-  "timestamp": "2026-10-13T21:57:36.832508439Z",
+  "timestamp": "2026-10-20T14:58:43.253428633Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "על יד idiom 'on the hand of' rendered as 'bolo' alone; the על folds into the Bambara postposition"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ככה יעשה לאיש אשר המלך חפץ ביקרו",
-      "rationale": "the honor-refrain opens here and returns word-for-word in v11 — Haman composes his own humiliation"
-    }
-  ],
-  "translation": "ka di ⟨את⟩ linini ni ⟨את⟩ so mɔgɔ dɔ bolo, masakɛ ka nɔmɔgɔ kɔrɔkɛmɔgɔw la, ka yɛlɛsu ⟨את⟩ mɔgɔ min na masakɛ bɛ faamu ka i kama, ka bl'a so kan, duguba lafaso la, ka wele a ɲɛ fɛ: cogo nin na bɛ kɛ mɔgɔ ye min na masakɛ faamu ka i kama.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cab17817ff1e14b4b86f16d7cbabc5a922309a5d4dc532f7e3a2c20a028f55ca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/6\/9-12.1791945660291.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka di nsan ni so masakɛ ka partɛmi ɲɛmɔgɔ dɔ bolo ma, ka nsan da ⟨את⟩ mɔgɔ min na masakɛ b'a fɛ jɔnjɔn, k'a sigi so kan dugu ka bonya-yɔrɔ la, k'u wele a ɲɛfɛ ko: cogo nin na bɛ kɛ mɔgɔ min na masakɛ b'a fɛ jɔnjɔn.",
   "tokens": [
     {
       "surface": "ונתון",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "הלבוש",
-      "gloss": "linini"
+      "gloss": "nsan"
     },
     {
       "surface": "והסוס",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "ma"
     },
     {
       "surface": "יד",
@@ -50,32 +29,32 @@
     },
     {
       "surface": "איש",
-      "gloss": "mɔgɔ dɔ"
+      "gloss": "ɲɛmɔgɔ dɔ"
     },
     {
       "surface": "משרי",
-      "gloss": "nɔmɔgɔw"
-    },
-    {
-      "surface": "המלך",
       "gloss": "masakɛ ka"
     },
     {
+      "surface": "המלך",
+      "gloss": "masakɛ"
+    },
+    {
       "surface": "הפרתמים",
-      "gloss": "kɔrɔkɛmɔgɔw"
+      "gloss": "partɛmiw"
     },
     {
       "surface": "והלבישו",
-      "gloss": "ka yɛlɛsu"
+      "gloss": "ka nsan da"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mɔgɔ min na masakɛ faamu ka i kama"
+      "marks": "mɔgɔ min"
     },
     {
       "surface": "האיש",
-      "gloss": "mɔgɔ in"
+      "gloss": "mɔgɔ min"
     },
     {
       "surface": "אשר",
@@ -87,15 +66,15 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "faamu ka"
+      "gloss": "b'a fɛ"
     },
     {
       "surface": "ביקרו",
-      "gloss": "i kama"
+      "gloss": "jɔnjɔn"
     },
     {
       "surface": "והרכיבהו",
-      "gloss": "ka bl'a so kan"
+      "gloss": "k'a sigi so kan"
     },
     {
       "surface": "על",
@@ -107,19 +86,19 @@
     },
     {
       "surface": "ברחוב",
-      "gloss": "duguba lafaso la"
+      "gloss": "bonya-yɔrɔ la"
     },
     {
       "surface": "העיר",
-      "gloss": "dugu"
+      "gloss": "dugu ka"
     },
     {
       "surface": "וקראו",
-      "gloss": "ka wele"
+      "gloss": "k'u wele"
     },
     {
       "surface": "לפניו",
-      "gloss": "a ɲɛ fɛ"
+      "gloss": "a ɲɛfɛ"
     },
     {
       "surface": "ככה",
@@ -131,7 +110,7 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "mɔgɔ ye"
+      "gloss": "mɔgɔ min na"
     },
     {
       "surface": "אשר",
@@ -143,13 +122,13 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "faamu ka"
+      "gloss": "b'a fɛ"
     },
     {
       "surface": "ביקרו",
-      "gloss": "i kama"
+      "gloss": "jɔnjɔn"
     }
   ],
-  "timestamp": "2026-10-14T02:41:00.292723372Z",
+  "timestamp": "2026-10-20T13:50:48.484614031Z",
   "model": "glm-5.3"
 }

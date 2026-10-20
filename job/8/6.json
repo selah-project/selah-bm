@@ -5,28 +5,7 @@
   "book": "job",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "a",
-      "rationale": "Hebrew omits the subject of יעיר; the pronoun 'a' (El\/Shaday) is supplied."
-    },
-    {
-      "kind": "substitution",
-      "subject": "so",
-      "rationale": "נוה is pasture\/settlement, 'habitation'; Bambara 'so' keeps dwelling but loses the pastoral image."
-    }
-  ],
-  "translation": "Ni i jɛ don ani i tilen don, awa sisan ⟨a⟩ bɛna jigi i kan, a bɛna i ka shownya so waleya ka ben.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "dfe413fbc92753263dd6c5c295bde0023545c9410cf4c5314581b826b1a975d4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/job\/8\/5-8.1791943359531.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni i ye i yɛrɛ kɛ jɛlen ni tilennen ye, o waati yɛrɛ la a bɛna a yɛrɛ fanga jugu i la, a bɛna i ka a-tiɲɛ-so-marcen nɔ di.",
   "tokens": [
     {
       "surface": "אם",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "זך",
-      "gloss": "jɛ"
+      "gloss": "jɛlen"
     },
     {
       "surface": "וישר",
-      "gloss": "ani tilen"
+      "gloss": "ni tilennen"
     },
     {
       "surface": "אתה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "awa"
+      "gloss": "o waati yɛrɛ la"
     },
     {
       "surface": "עתה",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "יעיר",
-      "gloss": "jigi"
+      "gloss": "a bɛna a yɛrɛ fanga jugu"
     },
     {
       "surface": "עליך",
-      "gloss": "i kan"
+      "gloss": "i la"
     },
     {
       "surface": "ושלם",
-      "gloss": "waleya ka ben"
+      "gloss": "a bɛna ... nɔ di"
     },
     {
       "surface": "נות",
@@ -70,9 +49,9 @@
     },
     {
       "surface": "צדקך",
-      "gloss": "i ka shownya"
+      "gloss": "i ka a-tiɲɛ"
     }
   ],
-  "timestamp": "2026-10-14T02:02:39.532963416Z",
+  "timestamp": "2026-10-20T14:52:21.498053177Z",
   "model": "glm-5.3"
 }

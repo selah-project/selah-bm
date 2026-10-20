@@ -5,50 +5,19 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "b'i bolo",
-      "rationale": "Hebrew עמך 'with you' is a plain preposition; the rendering 'he is with you' adds a verb"
-    },
-    {
-      "kind": "substitution",
-      "subject": "npan",
-      "rationale": "חרב is 'sword'; general cutting-blade term used as closest ordinary word"
-    },
-    {
-      "kind": "crux",
-      "subject": "אם אמיתך בחרב",
-      "rationale": "literally 'if I kill you by the sword' — oath formula where אם works as 'I will surely not'; versions render 'I will not put thee to death'"
-    },
-    {
-      "kind": "you",
-      "subject": "Dawida kuma",
-      "rationale": "direct address — instruction to Solomon about Shimei"
-    }
-  ],
-  "translation": "Yala, Shimi (Shimi) Gera den, Benyamini den, min b'i bolo, a b'O Bachurim (Bachurimu) — a ye danga min danga gbanfon ne kan don min na ne tun bɛ taa Mahanayim (Mahanayimu); a nana Yareden (Yaredɛn) kɔnɔna ka ne ɲɛ, ne ye Yawe ye seere k'a sɔrɔ, ko: ne tɛ b'i faga ni npan ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2d326a86f9662f708d43560b72750aa92de95bd0dbe91e3d3f53380aeaca6f04",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/2\/5-8.1791931732322.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "An wa, Shimeyi, Gera den, Yemini den, min bɛ i la, min bɛ Bahurim kɔnɔ — ale ye danga gɛlɛman da n kan don min na n tun taa Mahanayim; ale nina Yaredɛn baji la ka na n kɔrɔ, n ye ika kɛ a ye Yawe fɛ, k'a fɔ ko: n tɛ b'i sa npan fɛ.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "yala"
+      "gloss": "An wa"
     },
     {
       "surface": "עמך",
-      "gloss": "i bolo"
+      "gloss": "i la"
     },
     {
       "surface": "שמעי",
-      "gloss": "Shimi"
+      "gloss": "Shimeyi"
     },
     {
       "surface": "בן",
@@ -64,19 +33,19 @@
     },
     {
       "surface": "הימיני",
-      "gloss": "Benyamini"
+      "gloss": "Yemini"
     },
     {
       "surface": "מבחרים",
-      "gloss": "Bachurim"
+      "gloss": "Bahurim"
     },
     {
       "surface": "והוא",
-      "gloss": "a de"
+      "gloss": "ale"
     },
     {
       "surface": "קללני",
-      "gloss": "a ye ne danga"
+      "gloss": "ye danga da n kan"
     },
     {
       "surface": "קללה",
@@ -84,7 +53,7 @@
     },
     {
       "surface": "נמרצת",
-      "gloss": "gbanfon"
+      "gloss": "gɛlɛman"
     },
     {
       "surface": "ביום",
@@ -92,7 +61,7 @@
     },
     {
       "surface": "לכתי",
-      "gloss": "ne tun bɛ taa"
+      "gloss": "n tun taa"
     },
     {
       "surface": "מחנים",
@@ -100,23 +69,23 @@
     },
     {
       "surface": "והוא",
-      "gloss": "a fana"
+      "gloss": "ale"
     },
     {
       "surface": "ירד",
-      "gloss": "nana bɔ"
+      "gloss": "nina"
     },
     {
       "surface": "לקראתי",
-      "gloss": "ka ne ɲɛ"
+      "gloss": "ka na n kɔrɔ"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yareden"
+      "gloss": "Yaredɛn baji"
     },
     {
       "surface": "ואשבע",
-      "gloss": "ne ye … seere"
+      "gloss": "n ye ika kɛ"
     },
     {
       "surface": "לו",
@@ -124,25 +93,25 @@
     },
     {
       "surface": "ביהוה",
-      "gloss": "Yawe ye"
+      "gloss": "Yawe fɛ"
     },
     {
       "surface": "לאמר",
-      "gloss": "ko"
+      "gloss": "k'a fɔ ko"
     },
     {
       "surface": "אם",
-      "gloss": "ko"
+      "gloss": ""
     },
     {
       "surface": "אמיתך",
-      "gloss": "ne tɛ b'i faga"
+      "gloss": "n tɛ b'i sa"
     },
     {
       "surface": "בחרב",
-      "gloss": "ni npan"
+      "gloss": "npan fɛ"
     }
   ],
-  "timestamp": "2026-10-13T22:48:52.325720239Z",
+  "timestamp": "2026-10-20T12:55:17.571476291Z",
   "model": "glm-5.3"
 }

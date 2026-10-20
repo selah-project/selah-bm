@@ -5,54 +5,28 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 54,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גור יגור",
-      "rationale": "Infinitive absolute before verb intensifies 'surely gather'; Bambara reduplication lost the echo"
-    },
-    {
-      "kind": "crux",
-      "subject": "מי גר אתך",
-      "rationale": "'Who has gathered against you?' vs 'whoever gathers with you'; question vs indefinite reading"
-    },
-    {
-      "kind": "you",
-      "subject": "to Zion",
-      "rationale": "Address continues with feminine singular suffixes"
-    }
-  ],
-  "translation": "Aw ye! Dɔw bɛna aw ka jɛtigi, nka o tɛ ne (Yawe) ta ⟨את⟩; min ye aw ka jɛ, o bɛ doni aw kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/54\/13-16.1791934529014.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N'ele! A bɛna lamine, nka o tɛ bɔ ne ye ⟨את⟩; min lamine ⟨את⟩ i tigɛ la, o bɛna bɔ i kan.",
   "tokens": [
     {
       "surface": "הן",
-      "gloss": "Aw ye!"
+      "gloss": "N'ele"
     },
     {
       "surface": "גור",
-      "gloss": "jɛtigi"
+      "gloss": "laminebagaw"
     },
     {
       "surface": "יגור",
-      "gloss": "bɛna … jɛtigi"
+      "gloss": "lamarayɛ"
     },
     {
       "surface": "אפס",
-      "gloss": "tɛ … ta"
+      "gloss": "tɛ"
     },
     {
       "surface": "מאותי",
       "gloss": "⟨את⟩",
-      "marks": "ne (Yawe)"
+      "marks": "ne — o bɔra ne ye"
     },
     {
       "surface": "מי",
@@ -60,22 +34,21 @@
     },
     {
       "surface": "גר",
-      "gloss": "jɛ"
+      "gloss": "lamineba"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "aw ka jɛ"
+      "gloss": "⟨את⟩ i tigɛ"
     },
     {
       "surface": "עליך",
-      "gloss": "aw kan"
+      "gloss": "i kan"
     },
     {
       "surface": "יפול",
-      "gloss": "bɛ doni"
+      "gloss": "bɔ"
     }
   ],
-  "timestamp": "2026-10-13T23:35:29.015590074Z",
+  "timestamp": "2026-10-20T14:33:31.458694957Z",
   "model": "glm-5.3"
 }

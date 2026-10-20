@@ -5,56 +5,30 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ne ka ni",
-      "rationale": "נפש is a breathing creature \/ life-force, not an immaterial 'soul'; rendered with Bambara ni (life\/soul)."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "The particle אל ('toward') is absorbed into the directional 'na' of the preceding phrase."
-    },
-    {
-      "kind": "hapax",
-      "subject": "גרסה",
-      "rationale": "The verb גרס (to crush\/wear away) is extremely rare, occurring only here and in a debatable parallel."
-    }
-  ],
-  "translation": "Ne ka ni bɛ tuɲe i ka fɛnw na, waati bɛɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/17-20.1791941569675.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N-in bɛ gɛsɛ ka bɔ a yɛrɛ la sabu a magoya bɛ Yawe ka sariyabɔw la waati bɛɛ.",
   "tokens": [
     {
       "surface": "גרסה",
-      "gloss": "bɛ tuɲe"
+      "gloss": "bɛ gɛsɛ ka bɔ a yɛrɛ la"
     },
     {
       "surface": "נפשי",
-      "gloss": "ne ka ni"
+      "gloss": "n-in"
     },
     {
       "surface": "לתאבה",
-      "gloss": "i ka fɛnw na"
+      "gloss": "a magoya sabu"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "bɛ … la"
     },
     {
       "surface": "משפטיך",
-      "gloss": "i ka fɛnw"
+      "gloss": "i ka sariyabɔw"
     },
     {
-      "surface": "בכול",
+      "surface": "בכל",
       "gloss": "waati bɛɛ"
     },
     {
@@ -62,6 +36,6 @@
       "gloss": "waati"
     }
   ],
-  "timestamp": "2026-10-14T01:32:49.676219292Z",
+  "timestamp": "2026-10-20T16:00:01.231827312Z",
   "model": "glm-5.3"
 }

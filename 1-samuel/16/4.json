@@ -5,41 +5,20 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שלם",
-      "rationale": "noun 'peace\/wellbeing' rendered as a question with 'hɛrɛ de don' — the Hebrew is a bare noun 'peace is your coming?'"
-    },
-    {
-      "kind": "addition",
-      "subject": "wa",
-      "rationale": "interrogative particle added; Hebrew marks the question by context only"
-    }
-  ],
-  "translation": "Shemuɛlu y'a kɛ ⟨ko⟩ i ko Yawe ye fɔ ⟨ko⟩ a ye, ka na Betilɛmu (Betilɛmu); dugu kɔrɔmɔgɔw bɛ siran ka na a ɲɛ, a ko: hɛrɛ de don i na don wa?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6cff96d454d016e01c77892dd5e25096fa8ea6673eb0cbbf5617ef551412177e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/16\/1-4.1791930350070.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Samuel ye Yawe ka kuma min fɔ, ⟨את⟩ o ke, ka na Betlhɛm (Bɛtɛlɛmu) dugu kɔnɔ. Dugu ka mɔgɔkɔrɔbaw ye siran ka na k'a lanbɛ, k'u fɔ ko: Yala i nana ni hɛrɛ ye wa?",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "y'a kɛ"
+      "gloss": "ke"
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuɛlu"
+      "gloss": "Samuel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe ye fɔ a ye"
+      "marks": "o (min Yawe fɔra)"
     },
     {
       "surface": "אשר",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "fɔ"
+      "gloss": "kuma fɔ"
     },
     {
       "surface": "יהוה",
@@ -55,23 +34,23 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "ka na"
+      "gloss": "na"
     },
     {
       "surface": "בית",
-      "gloss": "Betilɛmu"
+      "gloss": "Betlhɛm"
     },
     {
       "surface": "לחם",
-      "gloss": "Betilɛmu"
+      "gloss": "(Bɛtɛlɛmu)"
     },
     {
       "surface": "ויחרדו",
-      "gloss": "bɛ siran"
+      "gloss": "siran"
     },
     {
       "surface": "זקני",
-      "gloss": "kɔrɔmɔgɔw"
+      "gloss": "mɔgɔkɔrɔbaw"
     },
     {
       "surface": "העיר",
@@ -79,21 +58,21 @@
     },
     {
       "surface": "לקראתו",
-      "gloss": "ka na a ɲɛ"
+      "gloss": "k'a lanbɛ"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a ko"
+      "gloss": "fɔ ko"
     },
     {
       "surface": "שלם",
-      "gloss": "hɛrɛ de don"
+      "gloss": "hɛrɛ"
     },
     {
       "surface": "בואך",
-      "gloss": "i na don"
+      "gloss": "i na"
     }
   ],
-  "timestamp": "2026-10-13T22:25:50.072549986Z",
+  "timestamp": "2026-10-20T13:00:44.710150863Z",
   "model": "glm-5.3"
 }

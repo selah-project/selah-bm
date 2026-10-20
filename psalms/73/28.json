@@ -5,41 +5,15 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 73,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "walasa",
-      "gloss": "purpose marker supplied where Hebrew uses a bare infinitive לספר."
-    },
-    {
-      "kind": "addition",
-      "subject": "ye",
-      "rationale": "Copula in the Bambara predicate construction, absent in Hebrew."
-    },
-    {
-      "kind": "you",
-      "subject": "to Yawe",
-      "rationale": "Verse ends in direct address — 'your works' — shifting from statement to prayer."
-    }
-  ],
-  "translation": "Ni ne ye: Elohim ka surunya ne ye ɲɛsuma ye; ne b'a bila Adonay Yawe la k'a kɛ ne ka sigiliyɔrɔ ye, walasa ka i ka baaraw bɛɛ fɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/73\/25-28.1791940723447.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N ne fɛ, Elohim ka surunyali ye ne ka nyɛ ye; ne y'i sigi Adonay Yawe kɔnɔ ka kɛ ne ka sigilan ye, walasa k'i baara bɛɛ ɲɛfɔ.",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "ni ne ye"
+      "gloss": "N ne fɛ"
     },
     {
       "surface": "קרבת",
-      "gloss": "surunya"
+      "gloss": "surunyali"
     },
     {
       "surface": "אלהים",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "לי",
-      "gloss": "ne ye"
+      "gloss": "ne ka"
     },
     {
       "surface": "טוב",
-      "gloss": "ɲɛsuma"
+      "gloss": "nyɛ"
     },
     {
       "surface": "שתי",
-      "gloss": "ne b'a bila"
+      "gloss": "sgi"
     },
     {
       "surface": "באדני",
-      "gloss": "Adonay la"
+      "gloss": "Adonay kɔnɔ"
     },
     {
       "surface": "יהוה",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "מחסי",
-      "gloss": "ne ka sigiliyɔrɔ"
+      "gloss": "sigilan"
     },
     {
       "surface": "לספר",
-      "gloss": "walasa ka fɔ"
+      "gloss": "walasa ka ɲɛfɔ"
     },
     {
       "surface": "כל",
@@ -79,9 +53,9 @@
     },
     {
       "surface": "מלאכותיך",
-      "gloss": "i ka baaraw"
+      "gloss": "i baaraw"
     }
   ],
-  "timestamp": "2026-10-14T01:18:43.448616492Z",
+  "timestamp": "2026-10-20T15:39:55.609045466Z",
   "model": "glm-5.3"
 }

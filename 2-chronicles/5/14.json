@@ -5,41 +5,15 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "jaw",
-      "rationale": "כבוד is literally weight\/heaviness; Bambara jaw carries the sense of splendor and repute."
-    },
-    {
-      "kind": "idiom",
-      "subject": "מפני",
-      "rationale": "Literally 'from the face of the cloud'; rendered as 'bolo' (because of), the face-picture lost."
-    },
-    {
-      "kind": "mystery",
-      "subject": "kilisi",
-      "rationale": "The glory-cloud that disables the priests is the withheld presence — no one sees it directly."
-    }
-  ],
-  "translation": "Sarakalasebagaw tun man se ka jigɔ ka baara kɛ kilisi in bolo, sabu Yawe ka jaw ye ⟨את⟩ Ala so malen.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "35b8603de196ff3a4011f1ba0ec10f4415f17b04d3cba9aaccba4cf81a8e2069",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/5\/13-14.1791948530402.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ani sarakalasebagaw ma se ka jɔ ka baara kɛ niŋɛdɔ ye sabu hɛrɛn in yɛrɛ bɔ a nɔ na, sabu Yawe ka sumaya kɔnɔtigi ye ⟨את⟩ Elohim ye so in kɛlɛn.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "tɛ"
+      "gloss": "ani ... ma"
     },
     {
       "surface": "יכלו",
-      "gloss": "man se"
+      "gloss": "se"
     },
     {
       "surface": "הכהנים",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "לעמוד",
-      "gloss": "ka jigɔ"
+      "gloss": "ka jɔ"
     },
     {
       "surface": "לשרת",
-      "gloss": "ka baara kɛ"
+      "gloss": "ka baara kɛ niŋɛdɔ ye"
     },
     {
       "surface": "מפני",
-      "gloss": "bolo"
+      "gloss": "hɛrɛn in bɔ a nɔ na"
     },
     {
       "surface": "הענן",
-      "gloss": "kilisi in"
+      "gloss": "hɛrɛn"
     },
     {
       "surface": "כי",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "מלא",
-      "gloss": "malen"
+      "gloss": "kɔnɔtigi ye"
     },
     {
       "surface": "כבוד",
-      "gloss": "jaw"
+      "gloss": "sumaya"
     },
     {
       "surface": "יהוה",
@@ -80,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ala so"
+      "marks": "Elohim so (בית)"
     },
     {
       "surface": "בית",
@@ -88,9 +62,9 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-14T03:28:50.404002210Z",
+  "timestamp": "2026-10-20T13:14:50.430189159Z",
   "model": "glm-5.3"
 }

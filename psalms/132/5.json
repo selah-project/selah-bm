@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 132,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ne",
-      "rationale": "Hebrew has no explicit subject on אמצא; the psalmist's 'I' supplied from v.3–4"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Sebaayabɛɛtigi",
-      "rationale": "אביר is 'Mighty One\/Bull', rendered with the fixed epithet for the Almighty"
-    }
-  ],
-  "translation": "Fo ne na Yawe ka yɔrɔ nya, sigiyɔrɔso min ye Yakubu ka Sebaayabɛɛtigi ta.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/132\/5-8.1791941763105.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fo ne na ma Yawe yɔrɔ sɔrɔ, sigu-sonw Minatigibɛɛtigi Yakyubu kama.",
   "tokens": [
     {
       "surface": "עד",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אמצא",
-      "gloss": "ne na … nya"
+      "gloss": "ne na ... sɔrɔ"
     },
     {
       "surface": "מקום",
@@ -42,21 +21,21 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yawe ye"
+      "gloss": "Yawe kama"
     },
     {
       "surface": "משכנות",
-      "gloss": "sigiyɔrɔso"
+      "gloss": "sigu-sonw"
     },
     {
       "surface": "לאביר",
-      "gloss": "Sebaayabɛɛtigi"
+      "gloss": "Minatigibɛɛtigi"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yakubu"
+      "gloss": "Yakyubu"
     }
   ],
-  "timestamp": "2026-10-14T01:36:03.105698149Z",
+  "timestamp": "2026-10-20T15:33:08.422600159Z",
   "model": "glm-5.3"
 }

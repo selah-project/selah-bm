@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "them\/us",
-      "rationale": "תִּשְׁמְרֵם is 'keep them' but תִּצְּרֶנּוּ may be 'keep us' (JPS, YLT); rendered 'them' with ⟨anw⟩ supplied for the second verb"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨anw⟩",
-      "rationale": "Object pronoun added to the second verb to resolve the them\/us ambiguity toward the praying community"
-    }
-  ],
-  "translation": "I de, Yawe, i bɛn'u mara; i bɛn ⟨anw⟩ kɔlɔsi nin jate in na, dibimɛ kɔrɔkɔrɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/12\/5-8.1791939655936.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe, i ye olu mara; i bɛ ɔlu kɔlɔsi ɔnin dɔɔnin in na, k'a bɔ mara kɔrɔɔ fɛ.",
   "tokens": [
     {
       "surface": "אתה",
-      "gloss": "I de"
+      "gloss": "i (Yawe)"
     },
     {
       "surface": "יהוה",
@@ -38,29 +17,29 @@
     },
     {
       "surface": "תשמרם",
-      "gloss": "i bɛn'u mara"
+      "gloss": "mara"
     },
     {
       "surface": "תצרנו",
-      "gloss": "i bɛn kɔlɔsi"
+      "gloss": "kɔlɔsi"
     },
     {
       "surface": "מן",
-      "gloss": ""
+      "gloss": "bɔ ... fɛ"
     },
     {
       "surface": "הדור",
-      "gloss": "nin jate in na"
+      "gloss": "dɔɔnin in na"
     },
     {
       "surface": "זו",
-      "gloss": "nin"
+      "gloss": "ɔnin"
     },
     {
       "surface": "לעולם",
-      "gloss": "dibimɛ kɔrɔkɔrɔ"
+      "gloss": "kɔrɔɔ fɛ"
     }
   ],
-  "timestamp": "2026-10-14T01:00:55.937355717Z",
+  "timestamp": "2026-10-20T15:32:38.546025009Z",
   "model": "glm-5.3"
 }

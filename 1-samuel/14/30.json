@@ -5,40 +5,19 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אף כי לוא",
-      "rationale": "'how much more if' — Heburukan ka paabi-kɔrɔko, Bamanankan na 'ka fɔ ko ni … tun'."
-    },
-    {
-      "kind": "elision",
-      "subject": "לוא",
-      "rationale": "Kumu-ka-dun-yɔrɔ daɲɛ (counterfactual) ma sɔn Bamanankan daɲɛ kelen na; 'tun' de ye a ta."
-    }
-  ],
-  "translation": "Ka fɔ ko ni dunbagaw tun ye bi dun dun a ka bɛbaliw ka sɔrɔli minnu sɔrɔ, sisan kan ma bonya Palɛsitiniw la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "531e3f0b0ef3d61561db3690af04afd544bf66c3034f5fc00ff520c4d56de94c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/14\/29-32.1791930307366.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hali a tun ka ɲɛ kosɛbɛ — ni jamaa dunna bi ⟨את⟩ ɲɛnamaw a ka bɛnw la, minnu o sɔrɔ! Sabu bi kaban Pɛlisitiw la fɛ minɛw tun ma kun min.",
   "tokens": [
     {
       "surface": "אף",
-      "gloss": "ka fɔ"
+      "gloss": "hali a tun ka ɲɛ kosɛbɛ"
     },
     {
       "surface": "כי",
-      "gloss": "ko"
+      "gloss": "sabu"
     },
     {
       "surface": "לוא",
-      "gloss": "tun"
+      "gloss": "ni"
     },
     {
       "surface": "אכל",
@@ -54,15 +33,16 @@
     },
     {
       "surface": "העם",
-      "gloss": "dunbagaw"
+      "gloss": "jamaa"
     },
     {
       "surface": "משלל",
-      "gloss": "sɔrɔli"
+      "gloss": "⟨את⟩ ɲɛnamaw",
+      "marks": "ɲɛnamaw"
     },
     {
       "surface": "איביו",
-      "gloss": "a ka bɛbaliw"
+      "gloss": "a ka bɛnw la"
     },
     {
       "surface": "אשר",
@@ -78,7 +58,7 @@
     },
     {
       "surface": "עתה",
-      "gloss": "sisan"
+      "gloss": "bi kaban"
     },
     {
       "surface": "לא",
@@ -86,17 +66,17 @@
     },
     {
       "surface": "רבתה",
-      "gloss": "bonya"
+      "gloss": "kun min"
     },
     {
       "surface": "מכה",
-      "gloss": "kan"
+      "gloss": "minɛ"
     },
     {
       "surface": "בפלשתים",
-      "gloss": "Palɛsitiniw la"
+      "gloss": "Pɛlisitiw la fɛ"
     }
   ],
-  "timestamp": "2026-10-13T22:25:07.367427502Z",
+  "timestamp": "2026-10-20T13:00:54.860631102Z",
   "model": "glm-5.3"
 }

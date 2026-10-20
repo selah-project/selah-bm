@@ -5,132 +5,101 @@
   "book": "ezra",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kabakurunba",
-      "rationale": "אבן גלל: גלל kɔrɔ ye 'min ɲagamena' ye (a ka bonya walima a ja ye); n'in bɛ fɔ 'ba' ye i n'a fɔ kɔrɔlenw ye — 'kabakurun min ɲagamena' ye literal ye"
-    },
-    {
-      "kind": "crux",
-      "subject": "אספרנא",
-      "rationale": "KJV 'speedily' vs JPS 'diligence' — aramukan daɲɛ in kɔrɔ bɛ se ka kɛ teliya walima gɛlɛɲa ye; an y'i ta 'kelen-kelen' (diligence) fɛ"
-    },
-    {
-      "kind": "addition",
-      "subject": "ko",
-      "rationale": "די ye jɛnsɛn-daɲɛ ye Aramukan na; Bamanankan 'ko' de b'a lamini cogoya na"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sebaaba",
-      "rationale": "אלהא רבא — 'Ala min ka bon'; 'sebaaba' ta ye sababu ye Ala ka nafa jira ye Bamanankan la"
-    }
-  ],
-  "translation": "Masa ka kunnafoni sɔrɔ ko: an y'taa Yuda (Judea) mara la, Ala sebaaba ka so la; a bɛ tu ni kabakurunba ye ani jiri minnu bɛ bila kuta kɔnɔ; nin baara in bɛ kɛ kelen-kelen ka nyi u bolo la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "64e8a569efa9a6092a8fcc51817c0eba0836457201d1dfc025889dec4bd0e78a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/5\/8-8.1791951496562.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ka dɔn maasa ye ko: an yɛ taa Yehuda mara la, ka taa Eloah ba so ma; a bɛ dilan ni kabakurun rɔrɔnnenba ye, ni jirow bɛ bila kɔkanw la; baara nin bɛ kɛ dendendili ye, ka bɔnniya u bolo ma.",
   "tokens": [
     {
-      "surface": "יְדִ֣יעַ",
-      "gloss": "kunnafoni"
+      "surface": "ידיע",
+      "gloss": "a ka dɔn"
     },
     {
-      "surface": "לֶהֱוֵ֣א",
-      "gloss": "ka sɔrɔ"
+      "surface": "להוא",
+      "gloss": "⟨ka kɛ⟩"
     },
     {
-      "surface": "לְמַלְכָּ֗א",
-      "gloss": "Masa la"
+      "surface": "למלכא",
+      "gloss": "maasa ye"
     },
     {
-      "surface": "דִּֽי",
+      "surface": "די",
       "gloss": "ko"
     },
     {
-      "surface": "אֲזַ֜לְנָא",
-      "gloss": "an y'taa"
+      "surface": "אזלנא",
+      "gloss": "an yɛ taa"
     },
     {
-      "surface": "לִיה֤וּד",
-      "gloss": "Yuda (Judea)"
+      "surface": "ליהוד",
+      "gloss": "Yehuda"
     },
     {
-      "surface": "מְדִֽינְתָּא֙",
-      "gloss": "mara la"
+      "surface": "מדינתא",
+      "gloss": "mara"
     },
     {
-      "surface": "לְבֵית֙",
-      "gloss": "so la"
+      "surface": "לבית",
+      "gloss": "so ma"
     },
     {
-      "surface": "אֱלָהָ֣א",
-      "gloss": "Ala"
+      "surface": "אלהא",
+      "gloss": "Eloah"
     },
     {
-      "surface": "רַבָּ֔א",
-      "gloss": "sebaaba"
-    },
-    {
-      "surface": "וְה֤וּא",
-      "gloss": "a"
-    },
-    {
-      "surface": "מִתְבְּנֵא֙",
-      "gloss": "bɛ tu"
-    },
-    {
-      "surface": "אֶ֣בֶן",
-      "gloss": "kabakurun"
-    },
-    {
-      "surface": "גְּלָ֔ל",
+      "surface": "רבא",
       "gloss": "ba"
     },
     {
-      "surface": "וְאָ֖ע",
-      "gloss": "ani jiri"
+      "surface": "והוא",
+      "gloss": "a"
     },
     {
-      "surface": "מִתְּשָׂ֣ם",
+      "surface": "מתבנא",
+      "gloss": "bɛ dilan"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kabakurun"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "rɔrɔnnenba"
+    },
+    {
+      "surface": "ואע",
+      "gloss": "ni jirow"
+    },
+    {
+      "surface": "מתשם",
       "gloss": "bɛ bila"
     },
     {
-      "surface": "בְּכֻתְלַיָּ֑א",
-      "gloss": "kuta kɔnɔ"
+      "surface": "בכתליא",
+      "gloss": "kɔkanw la"
     },
     {
-      "surface": "וַעֲבִ֥ידְתָּ֛א",
-      "gloss": "baara"
+      "surface": "ועבידתא",
+      "gloss": "ni baara"
     },
     {
-      "surface": "דָּ֥ךְ",
+      "surface": "דך",
       "gloss": "nin"
     },
     {
-      "surface": "אָסְפַּ֥רְנָא",
-      "gloss": "kelen-kelen"
+      "surface": "אספרנא",
+      "gloss": "dendendili ye"
     },
     {
-      "surface": "מִתְעַבְדָ֖א",
+      "surface": "מתעבדא",
       "gloss": "bɛ kɛ"
     },
     {
-      "surface": "וּמַצְלַ֥ח",
-      "gloss": "ka nyi"
+      "surface": "ומצלח",
+      "gloss": "ka bɔnniya"
     },
     {
-      "surface": "בְּיֶדְהֹֽם",
-      "gloss": "u bolo la"
+      "surface": "בידהם",
+      "gloss": "u bolo ma"
     }
   ],
-  "timestamp": "2026-10-14T04:18:16.562990130Z",
+  "timestamp": "2026-10-20T15:56:00.444614245Z",
   "model": "glm-5.3"
 }

@@ -5,80 +5,54 @@
   "book": "nehemiah",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חבל חבלנו",
-      "rationale": "Infinitive-absolute cogo: daɲɛ kelen fila-fila, 'bɛnbali-kɛ an ye bɛnbali kɛ' — a jɔcogo ka gɛlɛn Bamanankan na"
-    },
-    {
-      "kind": "crux",
-      "subject": "חבל",
-      "rationale": "Daɲɛ in kɔrɔ 'jɔnjɔn tigɛ \/ bɛnbali kɛ' — bayɛlɛmabaga dɔw fɔ 'wuli bànbali kɛ' (dealt corruptly), dɔw fɔ 'jurumu kɛ'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "fɛnw",
-      "rationale": "המשפטים kɔrɔ ye 'fɛn-judgement' ye; Bamanankan fɔ 'fɛnw' (kɛcogo-fɛnw) nɔgɔya la"
-    }
-  ],
-  "translation": "An ye bɛnbali-kɛ-kɛ tigɛ i ma; an ma ⟨את⟩ lasariya ka na mara, an ma ⟨את⟩ sariya-tilannenw mara, an ma ⟨את⟩ fɛnw i minnu lasa Moshe (Musa), i sofen ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8f5a258e3e12b7cd256ccb241971e4e467dac2fb53bba301489757cc2f73152f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/1\/5-8.1791946943371.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "An ye jɔya i kɔnɔ tumamin, an ye ⟨את⟩ i ka laselenw ni ⟨את⟩ i ka sariyaw ni ⟨את⟩ i ka faso-cogoya-maraw mara tɔɔ, minnu i y'i ladilisen ⟨את⟩ Moshe (Musa), i baarakɛla ma.",
   "tokens": [
     {
       "surface": "חבל",
-      "gloss": "bɛnbali-kɛ-kɛ"
+      "gloss": "ye jɔya"
     },
     {
       "surface": "חבלנו",
-      "gloss": "an ye … tigɛ"
+      "gloss": "an ye jɔya (tumamin)"
     },
     {
       "surface": "לך",
-      "gloss": "i ma"
+      "gloss": "i kɔnɔ"
     },
     {
       "surface": "ולא",
-      "gloss": "ani an ma"
+      "gloss": "ani tɔɔ"
     },
     {
       "surface": "שמרנו",
-      "gloss": "mara"
+      "gloss": "an mara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lasariyaw"
+      "marks": "i ka laselenw"
     },
     {
       "surface": "המצות",
-      "gloss": "lasariyaw"
+      "gloss": "i ka laselenw"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "sariya-tilannenw"
+      "gloss": "ani ⟨את⟩",
+      "marks": "i ka sariyaw"
     },
     {
       "surface": "החקים",
-      "gloss": "sariya-tilannenw"
+      "gloss": "i ka sariyaw"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "fɛnw"
+      "gloss": "ani ⟨את⟩",
+      "marks": "i ka faso-cogoya-maraw"
     },
     {
       "surface": "המשפטים",
-      "gloss": "fɛnw"
+      "gloss": "i ka faso-cogoya-maraw"
     },
     {
       "surface": "אשר",
@@ -86,7 +60,7 @@
     },
     {
       "surface": "צוית",
-      "gloss": "i lasa"
+      "gloss": "i y'i ladilisen"
     },
     {
       "surface": "את",
@@ -95,13 +69,13 @@
     },
     {
       "surface": "משה",
-      "gloss": "Moshe (Musa)"
+      "gloss": "Moshe"
     },
     {
       "surface": "עבדך",
-      "gloss": "i sofen"
+      "gloss": "i baarakɛla"
     }
   ],
-  "timestamp": "2026-10-14T03:02:23.373695628Z",
+  "timestamp": "2026-10-20T15:17:12.863702061Z",
   "model": "glm-5.3"
 }

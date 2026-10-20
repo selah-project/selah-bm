@@ -5,37 +5,11 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "token-mismatch",
-      "subject": "verse-20 tokens",
-      "rationale": "Heburu tokens 18 dɔrɔn de don ɲɛfɛli kɔnɔ nka tɛmɛsira kɔnɔ tokens 19 ye; danbe bɛ lajɛ."
-    },
-    {
-      "kind": "crux",
-      "subject": "השלושה \/ ולא שם בשלושה",
-      "rationale": "Gɛlɛya dɔnbaga-siraw la: “sabaaw” walima “sabantanw”; ni לא ye fɔcogo-ɲɛ ye, a kɔrɔ ye “a tɔgɔ ma saba sabaw la sɔrɔ” ye — o bɛ v21 ka kuma cogo la."
-    },
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "aleph-tav taamasiyɛn ⟨את⟩ bɛ lacilɛ a ŋoson kan."
-    }
-  ],
-  "translation": "Abishay, Yowab balimakɛ, o tun ye sabaaw tigi, a y'⟨את⟩ a ŋoson minɛ ka bɔ saba-kɛmɛ kɔnɔtɔw kan, nka a tɔgɔ tɛ sabaaw la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d06c681df034431934f61b681cf762dc4b8285148ed3e58a2a579b32a46c7402",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/11\/17-20.1791947829020.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Awishayi (Abishayi), Yowab balimakɛ, ale tun ye sabaw ka kun ye; ani ale ye ⟨את⟩ a npan jiri kɛmɛ saba jolibagaw kan, a tɔgɔ tun sɔrɔ sabaw la.",
   "tokens": [
     {
       "surface": "ואבשי",
-      "gloss": "Abishay"
+      "gloss": "Awishayi"
     },
     {
       "surface": "אחי",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "o"
+      "gloss": "ale"
     },
     {
       "surface": "היה",
@@ -55,32 +29,32 @@
     },
     {
       "surface": "ראש",
-      "gloss": "tigi-kun"
+      "gloss": "kun"
     },
     {
       "surface": "השלושה",
-      "gloss": "sabaaw"
+      "gloss": "sabaw (kilantanw)"
     },
     {
       "surface": "והוא",
-      "gloss": "a"
+      "gloss": "ale"
     },
     {
       "surface": "עורר",
-      "gloss": "y'a minɛ ka bɔ"
+      "gloss": "ye … jiri"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a ŋoson"
+      "marks": "npan (a npan ye)"
     },
     {
       "surface": "חניתו",
-      "gloss": "a ŋoson"
+      "gloss": "npan"
     },
     {
       "surface": "על",
-      "gloss": "… kan"
+      "gloss": "kan"
     },
     {
       "surface": "שלש",
@@ -92,25 +66,21 @@
     },
     {
       "surface": "חלל",
-      "gloss": "kɔnɔtɔw"
-    },
-    {
-      "surface": "ויבקעו",
-      "gloss": ""
+      "gloss": "jolibagaw"
     },
     {
       "surface": "ולא",
-      "gloss": "nka … tɛ"
+      "gloss": ""
     },
     {
       "surface": "שם",
-      "gloss": "a tɔgɔ"
+      "gloss": "tɔgɔ"
     },
     {
       "surface": "בשלושה",
-      "gloss": "sabaaw la"
+      "gloss": "sabaw la"
     }
   ],
-  "timestamp": "2026-10-14T03:17:09.022501331Z",
+  "timestamp": "2026-10-20T12:46:16.385800440Z",
   "model": "glm-5.3"
 }

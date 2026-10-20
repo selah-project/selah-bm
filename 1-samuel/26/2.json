@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "3000 men",
-      "rationale": "the picked force is numbered: 'cɛ kɛmɛ saba tan' (thirty hundred men)"
-    },
-    {
-      "kind": "elision",
-      "subject": "ואתו",
-      "rationale": "the את-of-companionship rendered as 'ni a ye' (with him), marked ⟨את⟩"
-    }
-  ],
-  "translation": "Shaul y'a yɛrɛ sunun, a tlanna Zifu gɛn ma, ni Israyelɛnw (Israyel) latilenniw — cɛ kɛmɛ saba tan — ⟨ni a ye⟩, walasa ka ⟨את⟩ Dawid ɲini Zifu gɛn na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "82e5e74b0536333054c652363fbbf2e62bc35524e739e4c18f504836c58271c0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/26\/1-4.1791930779384.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Shaul (Saolo) ye sindi, ka taa duguma Zif (Zifu) ka wulajugu na, a ni ⟨את⟩ mɔgɔ saba mɔɔ sugandilenw ye Israyel ka, walasa ka ɲini ⟨את⟩ Dawid (Dawuda) Zif wulajugu kɔnɔ.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "y'a yɛrɛ sunun"
+      "gloss": "ye sindi"
     },
     {
       "surface": "שאול",
@@ -38,23 +17,24 @@
     },
     {
       "surface": "וירד",
-      "gloss": "a tlanna"
+      "gloss": "ka taa duguma"
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "ka … na"
     },
     {
       "surface": "מדבר",
-      "gloss": "gɛn"
+      "gloss": "wulajugu"
     },
     {
       "surface": "זיף",
-      "gloss": "Zifu"
+      "gloss": "Zif"
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩ ni a ye"
+      "gloss": "⟨את⟩ a ni",
+      "marks": "Shaul"
     },
     {
       "surface": "שלשת",
@@ -62,19 +42,19 @@
     },
     {
       "surface": "אלפים",
-      "gloss": "kɛmɛ-tan"
+      "gloss": "mɔɔ"
     },
     {
       "surface": "איש",
-      "gloss": "cɛ"
+      "gloss": "mɔgɔ"
     },
     {
       "surface": "בחורי",
-      "gloss": "latilenniw"
+      "gloss": "sugandilenw"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyelɛnw"
+      "gloss": "Israyel"
     },
     {
       "surface": "לבקש",
@@ -91,13 +71,13 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "gɛn na"
+      "gloss": "wulajugu kɔnɔ"
     },
     {
       "surface": "זיף",
-      "gloss": "Zifu"
+      "gloss": "Zif"
     }
   ],
-  "timestamp": "2026-10-13T22:32:59.386923806Z",
+  "timestamp": "2026-10-20T13:04:34.173341002Z",
   "model": "glm-5.3"
 }

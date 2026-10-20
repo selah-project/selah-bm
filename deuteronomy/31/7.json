@@ -5,42 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Yehoshua",
-      "rationale": "Moses' charge addressed to Joshua before all Israel."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חזק ואמץ",
-      "rationale": "Same strength pair as 31:6, now singular — the people's charge passes to one man."
-    },
-    {
-      "kind": "crux",
-      "subject": "את העם הזה",
-      "rationale": "'You will bring\/go with this people': verb is simple 'come', object marked with את — 'go with' vs 'bring' both read."
-    },
-    {
-      "kind": "addition",
-      "subject": "ko",
-      "rationale": "Quotation particle supplied before direct speech, as Bamanankan requires."
-    }
-  ],
-  "translation": "Moshe (Musa) ye Yehoshua wele, k'o fɔ a ye Israyɛl bɛɛ ɲɛtować la ko: i kɛ jɔya, i kɛ tiyɛya, sabu i de bɛna taa ni mɔgɔ in ye ka taa dugukolo la min Yawe ye lɔn o aw baw ma k'o di u ye, i de bɛna a di u ye ⟨את⟩.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c1616bfc945716b24b37b1f5dedf411c1c17f5f484fc6f1d66229893557a65a5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/31\/5-8.1791928460660.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Moshe (Musa) ye Yehoshua (Joshua) wele, k'a fɔ a ye Yisrayela bɛɛ ɲɛ la, ko: I jɔ kelen, i kɛ kɔgɔji ye! bawo i ye, i na ni ⟨את⟩ jama in taa dugukolo kɔnɔ min kan Yawe ye kɛ u faaw ma laseli ka ⟨את⟩ a di u ye; ani i, i na a di ⟨את⟩ u ye ka kɛ u kɔrɔdili ye.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "ye…wele"
+      "gloss": "wele"
     },
     {
       "surface": "משה",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "k'o fɔ"
+      "gloss": "ko"
     },
     {
       "surface": "אליו",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "לעיני",
-      "gloss": "ɲɛtkow la"
+      "gloss": "ɲɛ la"
     },
     {
       "surface": "כל",
@@ -68,36 +37,36 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyɛl"
+      "gloss": "Yisrayela"
     },
     {
       "surface": "חזק",
-      "gloss": "i kɛ jɔya"
+      "gloss": "jɔ kelen"
     },
     {
       "surface": "ואמץ",
-      "gloss": "i kɛ tiyɛya"
+      "gloss": "kɔgɔji"
     },
     {
       "surface": "כי",
-      "gloss": "sabu"
+      "gloss": "bawo"
     },
     {
       "surface": "אתה",
-      "gloss": "i de"
+      "gloss": "i"
     },
     {
       "surface": "תבוא",
-      "gloss": "bɛna taa"
+      "gloss": "na taa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mɔgɔ in (jama in)"
+      "marks": "jama in"
     },
     {
       "surface": "העם",
-      "gloss": "mɔgɔ in"
+      "gloss": "jama"
     },
     {
       "surface": "הזה",
@@ -105,19 +74,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "ka taa"
+      "gloss": "kɔnɔ"
     },
     {
       "surface": "הארץ",
-      "gloss": "dugukolo la"
+      "gloss": "dugukolo"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min kan"
     },
     {
       "surface": "נשבע",
-      "gloss": "ye lɔn"
+      "gloss": "laseli kɛ"
     },
     {
       "surface": "יהוה",
@@ -125,30 +94,30 @@
     },
     {
       "surface": "לאבתם",
-      "gloss": "o aw baw ma"
+      "gloss": "u faaw"
     },
     {
       "surface": "לתת",
-      "gloss": "k'o di"
+      "gloss": "di"
     },
     {
       "surface": "להם",
-      "gloss": "u ye"
+      "gloss": "u"
     },
     {
       "surface": "ואתה",
-      "gloss": "i de"
+      "gloss": "ani i"
     },
     {
       "surface": "תנחילנה",
-      "gloss": "bɛna a di u ye"
+      "gloss": "kɔrɔdili di"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "u"
+      "marks": "u (Yisrayela)"
     }
   ],
-  "timestamp": "2026-10-13T21:54:20.663310054Z",
+  "timestamp": "2026-10-20T13:45:16.746062866Z",
   "model": "glm-5.3"
 }

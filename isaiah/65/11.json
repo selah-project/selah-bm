@@ -5,41 +5,15 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 65,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Gad",
-      "rationale": "גד ye Fadenya kan-tɔgɔ ye — 'so-sɛbɛnw' (KJV) walima 'batofɛn-tɔgɔ' (ASV); masin ye kan-tɔgɔ ta ni ( ) ye"
-    },
-    {
-      "kind": "crux",
-      "subject": "Meni",
-      "rationale": "מני ye Kilinminɛ kan-tɔgɔ ye — 'jate-tigi'; o fana ye kan-tɔgɔ ye, 'jaate' tɛ to"
-    },
-    {
-      "kind": "substitution",
-      "subject": "diwɛn minɛnnen",
-      "rationale": "ממסך ye diwɛn min bɛ minɛ ni ji walima nyɛnumanw ye — 'mixed wine'"
-    }
-  ],
-  "translation": "Nka aw de ye minnu bila Yawe, minnu tamasinne ne ka ⟨את⟩ kulu senuma, minnu bɛ Gad (Fadenya) ye sanci da, ani minnu bɛ Meni (Kilinminɛ) ka diwɛn minɛnnen nɔ fila.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "66a8d8bb9585ec4ed4f2166197f0e5f6ff7414decf13f2e137566e4ce5aa3afd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/65\/9-12.1791934846163.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nka aw ye minnu bila Yawe bolo, minnu ye ⟨a⟩ senuma kun ma balo, minnu bɛ lajɛ ka sira da Gad ye, ani minnu bɛ ka Meni ye faralen diwɛn.",
   "tokens": [
     {
       "surface": "ואתם",
-      "gloss": "nka aw de"
+      "gloss": "aw"
     },
     {
       "surface": "עזבי",
-      "gloss": "ye minnu bila"
+      "gloss": "minnu bila Yawe bolo"
     },
     {
       "surface": "יהוה",
@@ -47,12 +21,12 @@
     },
     {
       "surface": "השכחים",
-      "gloss": "minnu tamasinne"
+      "gloss": "minnu ye ⟨a⟩ senuma kun ma balo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ne ka kulu senuma"
+      "marks": "senuma kulu (הר קדשי)"
     },
     {
       "surface": "הר",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "senuma"
+      "gloss": "senuma kun"
     },
     {
       "surface": "הערכים",
-      "gloss": "minnu bɛ sanci da"
+      "gloss": "bɛ lajɛ ka sira da"
     },
     {
       "surface": "לגד",
@@ -72,21 +46,21 @@
     },
     {
       "surface": "שלחן",
-      "gloss": "sanci da"
+      "gloss": "sira"
     },
     {
       "surface": "והממלאים",
-      "gloss": "ani minnu bɛ nɔ fila"
+      "gloss": "ani minnu bɛ ka … ye"
     },
     {
       "surface": "למני",
-      "gloss": "Meni ka"
+      "gloss": "Meni"
     },
     {
       "surface": "ממסך",
-      "gloss": "diwɛn minɛnnen"
+      "gloss": "faralen diwɛn"
     }
   ],
-  "timestamp": "2026-10-13T23:40:46.165508385Z",
+  "timestamp": "2026-10-20T14:34:34.514670425Z",
   "model": "glm-5.3"
 }

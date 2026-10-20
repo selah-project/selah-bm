@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אם יראה",
-      "rationale": "oath formula 'if [any] man sees... then (may this happen)'; versions supply 'surely not one of... shall see' — the conditional frame is kept literal with 'Ni' and a dash"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הדור",
-      "rationale": "'generation' rendered 'o waati mɔgɔw' (the people of that time) to avoid a coined word"
-    }
-  ],
-  "translation": "Ni mɔgɔ dɔ b'o mɔgɔw la, o waati mɔgɔ finmanw ninnu, ye ⟨את⟩ dugukolo nyinin ye, min de ma laadu kɛ ka di aw bayaw ma —",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/1\/33-36.1791927482744.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni mɔgɔ dɔ bɛ mɔgɔw ninw — dɔrɔ jugu nin in — kɔnɔ, o bɛna ⟨את⟩ dugukolo min ka ɲi ye, min na n' y'i laadi k'a di aw ka bamaw ma; o tɛ se ka o ye.",
   "tokens": [
     {
       "surface": "אם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "יראה",
-      "gloss": "ye ... ye"
+      "gloss": "ka … ye"
     },
     {
       "surface": "איש",
@@ -42,28 +21,28 @@
     },
     {
       "surface": "באנשים",
-      "gloss": "o mɔgɔw la"
+      "gloss": "mɔgɔw ninw kɔnɔ"
     },
     {
       "surface": "האלה",
-      "gloss": "ninnu"
+      "gloss": "ninw"
     },
     {
       "surface": "הדור",
-      "gloss": "o waati mɔgɔw"
+      "gloss": "dɔrɔ"
     },
     {
       "surface": "הרע",
-      "gloss": "finmanw"
+      "gloss": "jugu"
     },
     {
       "surface": "הזה",
-      "gloss": "in"
+      "gloss": "nin in"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dugukolo nyinin"
+      "marks": "dugukolo min ka ɲi"
     },
     {
       "surface": "הארץ",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "הטובה",
-      "gloss": "nyinin"
+      "gloss": "min ka ɲi"
     },
     {
       "surface": "אשר",
@@ -79,17 +58,17 @@
     },
     {
       "surface": "נשבעתי",
-      "gloss": "n ma laadu kɛ"
+      "gloss": "n' y'i laadi"
     },
     {
       "surface": "לתת",
-      "gloss": "ka di"
+      "gloss": "k'a di"
     },
     {
       "surface": "לאבתיכם",
-      "gloss": "aw bayaw ma"
+      "gloss": "aw ka bamaw ma"
     }
   ],
-  "timestamp": "2026-10-13T21:38:02.747110762Z",
+  "timestamp": "2026-10-20T13:38:25.641389762Z",
   "model": "glm-5.3"
 }

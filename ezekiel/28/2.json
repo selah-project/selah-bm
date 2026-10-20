@@ -5,42 +5,11 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "בן אדם \/ לנגיד צר",
-      "rationale": "the prophet is addressed, and within the speech the ruler of Tsor is the addressee"
-    },
-    {
-      "kind": "crux",
-      "subject": "מושב אלהים",
-      "rationale": "'seat of God' vs 'seat of gods' — plural Elohim; the king claims divine status"
-    },
-    {
-      "kind": "idiom",
-      "subject": "בלב ימים",
-      "rationale": "'in the heart of the seas' = in the midst of the seas, Tsor the island city"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אל אני \/ ולא אל",
-      "rational": "the king's claim 'El I am' is answered by 'not El' — same word turned against him"
-    }
-  ],
-  "translation": "Hadamaden, i k'a fɔ Tsor (Tsur) ka ɲɛmɔgɔ ma ko: Yawe Adonay ka kuma nin de ye: sabu i ka dusukun tigɛ sanfɛ, i ko: Ne ye El ye, ne sigilen don Elohim ka sigilan kɔnɔ, jiw kun kɔnɔ; nka i ye hadamaden ye, i tɛ El ye, i b'i ka dusukun bilala ni i ka dusukun ye Ala ta ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "845bde3fc787678e996cca6fb504aefada03b07bfec7b6c12a73f46a675e0070",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/28\/1-4.1791937437018.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hadamaden, i k'a fɔ Tsor (Tiri) ka ɲɛmɔgɔ ma: Yawe Adonay ko nin ye: sabu i ka dusukun bonya, ani i y'i fɔ ko: ne ye El ye, ne sigira Elohim ka sigiyɔrɔ la, kɔgɔji lakɔnɔ; nka i ye hadamaden ye, i tɛ El ye, awa i b'i ka dusukun bilala Elohim ka dusukun ye.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "denkɛ"
+      "gloss": "den"
     },
     {
       "surface": "אדם",
@@ -48,11 +17,11 @@
     },
     {
       "surface": "אמר",
-      "gloss": "fɔ"
+      "gloss": "i k'a fɔ"
     },
     {
       "surface": "לנגיד",
-      "gloss": "ɲɛmɔgɔ"
+      "gloss": "ɲɛmɔgɔ ma"
     },
     {
       "surface": "צר",
@@ -60,11 +29,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "nin cogo"
+      "gloss": "nin ye"
     },
     {
       "surface": "אמר",
-      "gloss": "ka kuma … ye"
+      "gloss": "ko"
     },
     {
       "surface": "אדני",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "גבה",
-      "gloss": "tigɛ sanfɛ"
+      "gloss": "bonya"
     },
     {
       "surface": "לבך",
@@ -88,7 +57,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "i ko"
+      "gloss": "ani i y'i fɔ ko"
     },
     {
       "surface": "אל",
@@ -100,7 +69,7 @@
     },
     {
       "surface": "מושב",
-      "gloss": "sigilan"
+      "gloss": "sigiyɔrɔ"
     },
     {
       "surface": "אלהים",
@@ -108,15 +77,15 @@
     },
     {
       "surface": "ישבתי",
-      "gloss": "ne sigilen don"
+      "gloss": "ne sigira"
     },
     {
       "surface": "בלב",
-      "gloss": "kun kɔnɔ"
+      "gloss": "lakɔnɔ"
     },
     {
       "surface": "ימים",
-      "gloss": "jiw"
+      "gloss": "kɔgɔji"
     },
     {
       "surface": "ואתה",
@@ -136,7 +105,7 @@
     },
     {
       "surface": "ותתן",
-      "gloss": "i bila"
+      "gloss": "i b'a bilala"
     },
     {
       "surface": "לבך",
@@ -144,13 +113,13 @@
     },
     {
       "surface": "כלב",
-      "gloss": "ni … ye"
+      "gloss": "Elohim ka dusukun ye"
     },
     {
       "surface": "אלהים",
-      "gloss": "Ala ta"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-14T00:23:57.019398839Z",
+  "timestamp": "2026-10-20T14:03:06.335869807Z",
   "model": "glm-5.3"
 }

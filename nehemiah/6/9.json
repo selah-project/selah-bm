@@ -5,33 +5,7 @@
   "book": "nehemiah",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ירפו ידיהם",
-      "rationale": "Hebrew 'slacken their hands' = lose courage and quit the work; rendered with 'bolo dɔgɔya' keeping the hand-picture."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨i⟩",
-      "rationale": "Hebrew addresses Yawe without a pronoun ('strengthen my hands' is prayer); Bambara requires the addressee."
-    },
-    {
-      "kind": "you",
-      "subject": "to Yawe",
-      "rationale": "The second half of the verse turns from narrative into direct address to God, invisible in the Hebrew surface."
-    }
-  ],
-  "translation": "Sabu u bɛɛ bɛ an lasiran ⟨ko⟩: “U bolo bɛna dɔgɔya ka bɔ baara la, a tena kɛ.” Wa sisan, ⟨i⟩, ɲɛgɛn ⟨את⟩ ne bolo.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f984801729d723dbf0f9f5887ca49dacd26e3a470c32430727e5faa8441e9c6d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/nehemiah\/6\/9-12.1791946916213.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu u bɛɛ tun b'⟨את⟩ an lasiran, ko bɛɛ fɔ a ye: «I bolo bɛna dɔgɔya baara la, walasa baara tɛna kɛ.» Sisan k'a ye, i ye ⟨את⟩ n bolow jaigi.",
   "tokens": [
     {
       "surface": "כי",
@@ -43,16 +17,16 @@
     },
     {
       "surface": "מיראים",
-      "gloss": "bɛ an lasiran"
+      "gloss": "b'an lasiran"
     },
     {
       "surface": "אותנו",
-      "gloss": "⟨את⟩",
-      "marks": "an"
+      "gloss": "⟨את⟩ an",
+      "marks": "an (nοnabila minnu bɛ lasiraden)"
     },
     {
       "surface": "לאמר",
-      "gloss": "ko"
+      "gloss": "ko bɛɛ fɔ a ye"
     },
     {
       "surface": "ירפו",
@@ -60,19 +34,19 @@
     },
     {
       "surface": "ידיהם",
-      "gloss": "u bolo"
+      "gloss": "i bolo"
     },
     {
       "surface": "מן",
-      "gloss": "ka bɔ"
+      "gloss": "la (kɔfɛ)"
     },
     {
       "surface": "המלאכה",
-      "gloss": "baara la"
+      "gloss": "baara"
     },
     {
       "surface": "ולא",
-      "gloss": "teni"
+      "gloss": "walasa … tɛna"
     },
     {
       "surface": "תעשה",
@@ -80,22 +54,22 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "wa sisan"
+      "gloss": "sisan"
     },
     {
       "surface": "חזק",
-      "gloss": "ɲɛgɛn"
+      "gloss": "i ye … jaigi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ne bolo"
+      "marks": "n bolow (Neemiya ka bolow)"
     },
     {
       "surface": "ידי",
-      "gloss": "ne bolo"
+      "gloss": "n bolow"
     }
   ],
-  "timestamp": "2026-10-14T03:01:56.214306913Z",
+  "timestamp": "2026-10-20T15:19:07.036327156Z",
   "model": "glm-5.3"
 }

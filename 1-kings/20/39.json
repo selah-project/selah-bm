@@ -5,42 +5,11 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "נפש",
-      "rationale": "נפש is ni (life\/breath), not 'soul'; 'i ni bɛna o ni falen' keeps life-for-life."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הפקד יפקד",
-      "rationale": "Infinitive-absolute repetition: 'if missing he is missing' — emphatic doubling, compressed in Bambara to 'a ma sɔrɔ yala'."
-    },
-    {
-      "kind": "you",
-      "subject": "to the king",
-      "rationale": "The disguised prophet addresses the king of Israel directly with a parable of himself."
-    },
-    {
-      "kind": "secret",
-      "subject": "parable",
-      "rationale": "The prophet masks his identity and speaks his rebuke as a veiled story."
-    }
-  ],
-  "translation": "Masakɛ tɛmɛna, a ye masakɛ wele, ko: “I baaradenbaga n wuli ka don kɛlɛ kɔnɔ na; min nin ye, mɔgɔ dɔ y'a yɛlɛma kun na, mɔgɔ dɔ nana n na, k'a fɔ ko: Mara ⟨את⟩ mɔgɔ in; ni a ma sɔrɔ yala, i ni bɛna o ni falen, walima i bɛ warigwɛ kuru kelen ja.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "5b18b7915fb778cc7b350cdfb33b9143762108e9dc68a9fb6dd3789a2be0233a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/20\/37-40.1791932427162.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masakɛ taara yɔrɔ kɔnɔ, a ye masakɛ wele, a ko: i ka baarakɛla bɔra kɛlɛ kɔnɔ, a ye mɔgɔ dɔ ye min y'a sira yɛlɛma, mɔgɔ dɔ nana ne ye, a ko: ⟨את⟩ nin mɔgɔ in mara; ni a makɔrɔ ye, a sɔrɔ o ma, i ka ni na kɛ a ni ye, walima i bɛna kikar kelen sabu warigwɛ jate.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "⟨masakɛ tɛmɛna waati in na⟩"
+      "gloss": "kɛra"
     },
     {
       "surface": "המלך",
@@ -48,19 +17,19 @@
     },
     {
       "surface": "עבר",
-      "gloss": "tɛmɛna"
+      "gloss": "taara yɔrɔ kɔnɔ"
     },
     {
       "surface": "והוא",
-      "gloss": "a ye"
+      "gloss": "a"
     },
     {
       "surface": "צעק",
-      "gloss": "masakɛ wele"
+      "gloss": "wele"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "(wele ko)"
     },
     {
       "surface": "המלך",
@@ -68,19 +37,19 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "a ko"
     },
     {
       "surface": "עבדך",
-      "gloss": "i baaradenbaga"
+      "gloss": "i ka baarakɛla"
     },
     {
       "surface": "יצא",
-      "gloss": "wuli ka don"
+      "gloss": "bɔra"
     },
     {
       "surface": "בקרב",
-      "gloss": "kɔnɔ na"
+      "gloss": "kɔnɔ"
     },
     {
       "surface": "המלחמה",
@@ -88,7 +57,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "min nin ye"
+      "gloss": "a ye … ye"
     },
     {
       "surface": "איש",
@@ -96,7 +65,7 @@
     },
     {
       "surface": "סר",
-      "gloss": "y'a yɛlɛma kun na"
+      "gloss": "y'a sira yɛlɛma"
     },
     {
       "surface": "ויבא",
@@ -104,7 +73,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "n na"
+      "gloss": "ne ye"
     },
     {
       "surface": "איש",
@@ -112,7 +81,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "k'a fɔ ko"
+      "gloss": "a ko"
     },
     {
       "surface": "שמר",
@@ -121,11 +90,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mɔgɔ in"
+      "marks": "nin mɔgɔ in"
     },
     {
       "surface": "האיש",
-      "gloss": "mɔgɔ in"
+      "gloss": "nin mɔgɔ in"
     },
     {
       "surface": "הזה",
@@ -137,27 +106,27 @@
     },
     {
       "surface": "הפקד",
-      "gloss": "a ma sɔrɔ yala"
+      "gloss": "makɔrɔ ye"
     },
     {
       "surface": "יפקד",
-      "gloss": "a ma sɔrɔ yala"
+      "gloss": "a sɔrɔ o ma"
     },
     {
       "surface": "והיתה",
-      "gloss": "i ni bɛna"
+      "gloss": "o kɛra"
     },
     {
       "surface": "נפשך",
-      "gloss": "i ni"
+      "gloss": "i ka ni"
     },
     {
       "surface": "תחת",
-      "gloss": "falen"
+      "gloss": "tiinɛ"
     },
     {
       "surface": "נפשו",
-      "gloss": "o ni"
+      "gloss": "a ni"
     },
     {
       "surface": "או",
@@ -165,17 +134,17 @@
     },
     {
       "surface": "ככר",
-      "gloss": "warigwɛ kuru kelen"
+      "gloss": "kikar kelen"
     },
     {
       "surface": "כסף",
-      "gloss": "warigwɛ"
+      "gloss": "sabu warigwɛ"
     },
     {
       "surface": "תשקול",
-      "gloss": "ja"
+      "gloss": "i bɛna a jate"
     }
   ],
-  "timestamp": "2026-10-13T23:00:27.167019322Z",
+  "timestamp": "2026-10-20T12:55:02.583224382Z",
   "model": "glm-5.3"
 }

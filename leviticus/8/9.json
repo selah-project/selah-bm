@@ -5,46 +5,20 @@
   "book": "leviticus",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "אל מול פניו doubled preposition 'to in front of his face'; אל folded into ɲɛfɛ"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ציץ",
-      "rationale": "ציץ literally 'glistening plate \/ flower'; rendered sanu-kilɛri 'gold-plate'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "dedication rite",
-      "rationale": "verse itemizes the high priest's investiture pieces in sequence"
-    }
-  ],
-  "translation": "A yɛ ⟨את⟩ minisi in da a kun kan; a yɛ minisi in kan, a ɲɛda ɲɛfɛ, da ⟨את⟩ sanu-kilɛri, senuma taamasiyɛn, cogo min na Yawe ye ⟨את⟩ Moshe (Musa) minna.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/8\/9-12.1791927044517.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨A⟩ ye ⟨את⟩ kunbin in da a kun kan, a ye a da kunbin in kan, a ɲɛda ɲɛfɛ — ⟨את⟩ sanu panpɛn in, senuma laseli — i n'a fɔ Yawe y'a fɔ ⟨את⟩ Moshe (Musa) ma.",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "a yɛ … da"
+      "gloss": "da"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "minisi in"
+      "marks": "kunbin"
     },
     {
       "surface": "המצנפת",
-      "gloss": "minisi"
+      "gloss": "kunbin"
     },
     {
       "surface": "על",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "וישם",
-      "gloss": "a yɛ … da"
+      "gloss": "da"
     },
     {
       "surface": "על",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "המצנפת",
-      "gloss": "minisi"
+      "gloss": "kunbin"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "fɛ"
     },
     {
       "surface": "מול",
@@ -76,16 +50,16 @@
     },
     {
       "surface": "פניו",
-      "gloss": "a ɲɛda"
+      "gloss": "ɲɛda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sanu-kilɛri"
+      "marks": "sanu panpɛn"
     },
     {
       "surface": "ציץ",
-      "gloss": "kilɛri"
+      "gloss": "panpɛn"
     },
     {
       "surface": "הזהב",
@@ -93,7 +67,7 @@
     },
     {
       "surface": "נזר",
-      "gloss": "senuma taamasiyɛn"
+      "gloss": "laseli"
     },
     {
       "surface": "הקדש",
@@ -101,11 +75,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "cogo min na"
+      "gloss": "i n'a fɔ"
     },
     {
       "surface": "צוה",
-      "gloss": "minna"
+      "gloss": "fɔ"
     },
     {
       "surface": "יהוה",
@@ -121,6 +95,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-10-13T21:30:44.518228367Z",
+  "timestamp": "2026-10-20T15:15:34.906783426Z",
   "model": "glm-5.3"
 }

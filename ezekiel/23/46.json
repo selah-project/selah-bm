@@ -5,41 +5,19 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨u⟩",
-      "rationale": "object pronouns supplied where Hebrew uses only the aleph-tav marker"
-    },
-    {
-      "kind": "crux",
-      "subject": "העלה",
-      "gloss-note": "",
-      "rationale": "imperative singular 'bring up' — who is commanded is unnamed; renderings vary between 'bring' (KJV) and passive 'shall be brought up' (JPS)"
-    }
-  ],
-  "translation": "Sabu n'o ko Adonay Yawe ye ko: Jɔ ka jamaw bila ⟨u⟩ kan, ka di ⟨u⟩ zoɲɛ ni boto ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c5c91f3b3a04533209cccda0ddeb65d1563c472b7e4f07c49112e95f236b9eea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/23\/45-48.1791937281362.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu Adonay Yawe fɔ ko nin cogo: jama minɛ u kan, wa ⟨a⟩ di u ma ⟨את⟩ ka kɛ tiɲenaya ye ani minɛma ye.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sabu"
+      "gloss": "sabu"
     },
     {
       "surface": "כה",
-      "gloss": "n'o ko"
+      "gloss": "nin cogo"
     },
     {
       "surface": "אמר",
-      "gloss": "ko"
+      "gloss": "fɔ"
     },
     {
       "surface": "אדני",
@@ -51,7 +29,7 @@
     },
     {
       "surface": "העלה",
-      "gloss": "Jɔ ka bila u kan"
+      "gloss": "minɛ"
     },
     {
       "surface": "עליהם",
@@ -59,26 +37,26 @@
     },
     {
       "surface": "קהל",
-      "gloss": "jamaw"
+      "gloss": "jama"
     },
     {
       "surface": "ונתן",
-      "gloss": "ka di u"
+      "gloss": "a di u ma"
     },
     {
       "surface": "אתהן",
       "gloss": "⟨את⟩",
-      "marks": "u (Ahola ni Aholiba)"
+      "marks": "u (לזעוה: tiɲenaya ye)"
     },
     {
       "surface": "לזעוה",
-      "gloss": "zoɲɛ"
+      "gloss": "tiɲenaya"
     },
     {
       "surface": "ולבז",
-      "gloss": "ani boto"
+      "gloss": "minɛma"
     }
   ],
-  "timestamp": "2026-10-14T00:21:21.363211843Z",
+  "timestamp": "2026-10-20T14:02:48.308980328Z",
   "model": "glm-5.3"
 }

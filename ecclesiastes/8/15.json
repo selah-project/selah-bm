@@ -5,70 +5,44 @@
   "book": "ecclesiastes",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ושבחתי",
-      "rationale": "'ne y'a ladila (danya-ladila)' — 'to praise\/commend' kɔrɔ; YLT 'praised', KJV 'commended'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "'fo … dɔrɔn' — כי אם kelen-kelen bɛ fɔ 'except\/only' kɔrɔ; אם gloss banna."
-    },
-    {
-      "kind": "crux",
-      "subject": "ילונו",
-      "rationale": "לוה 'to accompany\/join' — 'a bɛ tugu a ka baara la' (KJV\/ASV reading); Jula 'to borrow' kɔrɔ fana bɛ yen."
-    }
-  ],
-  "translation": "Anw, ne y' ⟨את⟩ danya-ladila, sabu hadamaden ka fɛn ɲuman si tɛ yen tile fɛ, fo ka dun ni ka min ni ka diya — a bɛ tugu a ka gɛlɛyabaara la, a ka nɔgɔya donw na, minnu Elohim y'o di a ma tile fɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b34b3f6b96028f72fdfca2a4921ca172a67a104a88da4a1c11921abdf2c6750d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/8\/13-16.1791945353862.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N ni taa, ne ye ⟨את⟩ diyaw tanko, ko hadamaden ka di tɛ yen tile jukɔrɔ, ni a tɛ dun ni min ni diya ye dɔrɔn; o de bɛ tugu a bɛɛ a ka baara kɔnɔ, a ka ɲɛnni donw la, minnu ye Elohim di a ye tile jukɔrɔ.",
   "tokens": [
     {
       "surface": "ושבחתי",
-      "gloss": "ne y' … ladila"
+      "gloss": "ne ye … tanko"
     },
     {
       "surface": "אני",
-      "gloss": "ne (anw)"
+      "gloss": "ne"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "danya"
+      "marks": "diyaw"
     },
     {
       "surface": "השמחה",
-      "gloss": "danya"
+      "gloss": "diyaw"
     },
     {
       "surface": "אשר",
-      "gloss": "sabu"
+      "gloss": "ko"
     },
     {
       "surface": "אין",
-      "gloss": "si tɛ yen"
+      "gloss": "tɛ yen"
     },
     {
       "surface": "טוב",
-      "gloss": "fɛn ɲuman"
+      "gloss": "di"
     },
     {
       "surface": "לאדם",
-      "gloss": "hadamaden ka"
+      "gloss": "hadamaden"
     },
     {
       "surface": "תחת",
-      "gloss": "fɛ"
+      "gloss": "jukɔrɔ"
     },
     {
       "surface": "השמש",
@@ -76,27 +50,27 @@
     },
     {
       "surface": "כי",
-      "gloss": "fo"
+      "gloss": "ni a tɛ … ye"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "dɔrɔn"
     },
     {
       "surface": "לאכול",
-      "gloss": "ka dun"
+      "gloss": "dun"
     },
     {
       "surface": "ולשתות",
-      "gloss": "ni ka min"
+      "gloss": "ni min"
     },
     {
       "surface": "ולשמוח",
-      "gloss": "ni ka diya"
+      "gloss": "ni diya"
     },
     {
       "surface": "והוא",
-      "gloss": "a"
+      "gloss": "o de"
     },
     {
       "surface": "ילונו",
@@ -104,15 +78,15 @@
     },
     {
       "surface": "בעמלו",
-      "gloss": "a ka gɛlɛyabaara la"
+      "gloss": "a ka baara kɔnɔ"
     },
     {
       "surface": "ימי",
-      "gloss": "donw na"
+      "gloss": "donw"
     },
     {
       "surface": "חייו",
-      "gloss": "a ka nɔgɔya"
+      "gloss": "a ka ɲɛnni"
     },
     {
       "surface": "אשר",
@@ -120,11 +94,11 @@
     },
     {
       "surface": "נתן",
-      "gloss": "y'o di"
+      "gloss": "di"
     },
     {
       "surface": "לו",
-      "gloss": "a ma"
+      "gloss": "a ye"
     },
     {
       "surface": "האלהים",
@@ -132,13 +106,13 @@
     },
     {
       "surface": "תחת",
-      "gloss": "fɛ"
+      "gloss": "jukɔrɔ"
     },
     {
       "surface": "השמש",
       "gloss": "tile"
     }
   ],
-  "timestamp": "2026-10-14T02:35:53.864060024Z",
+  "timestamp": "2026-10-20T13:49:09.734340032Z",
   "model": "glm-5.3"
 }

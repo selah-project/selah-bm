@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "san 480",
-      "rationale": "Exodus-to-temple chronology anchored by exact count: 480th year, fourth year of reign, month Ziv, second month."
-    },
-    {
-      "kind": "substitution",
-      "subject": "Ziv",
-      "rationale": "Canaanite month name kept as-is with first-mention bracket, not converted to a month number."
-    }
-  ],
-  "translation": "A kɛra san bi-wolonwula ni kɛmɛ naani na (san 480), Israel denw ka bɔ Mitsrayim (Misira) dugukolo la kɔfɛ — san naananiyanan na, Ziv (Ziw) kalo na, o ye kalo filanan ye, Shelomo (Sulemani) ka kin Israel kan waati — a ye so da Yawe ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e8b4f11e5ecaef7ef0a274a91a39f1b36a52b0fe2af775b3739059800b6af621",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/6\/1-4.1791931828091.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O kɛra nin ye: Israyɛl denw ka bɔ Mitsrayim (Misira) dugukolo la kɔfɛ, san kɛmɛ naani ani mugan-naani na, san naaninan na, Ziv kalɔ na — ⟨o ye⟩ kalo filanan ye — min ye Shelomo (Solomana) ka Israyɛl bo san naaninan ye, a ye so da Yawe ye.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "A kɛra"
+      "gloss": "o kɛra nin ye"
     },
     {
       "surface": "בשמונים",
-      "gloss": "bi-wolonwula"
+      "gloss": "mugan-naani"
     },
     {
       "surface": "שנה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "וארבע",
-      "gloss": "ni naani"
+      "gloss": "ani naani"
     },
     {
       "surface": "מאות",
@@ -62,27 +41,27 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Israyɛl"
     },
     {
       "surface": "מארץ",
-      "gloss": "dugukolo"
+      "gloss": "dugukolo la"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitsrayim (Misira)"
     },
     {
       "surface": "בשנה",
-      "gloss": "san"
+      "gloss": "san nin na"
     },
     {
       "surface": "הרביעית",
-      "gloss": "naananiyanan"
+      "gloss": "naaninan"
     },
     {
       "surface": "בחדש",
-      "gloss": "kalo"
+      "gloss": "kalɔ na"
     },
     {
       "surface": "זו",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "o"
+      "gloss": "o ye"
     },
     {
       "surface": "החדש",
@@ -102,11 +81,11 @@
     },
     {
       "surface": "למלך",
-      "gloss": "kin"
+      "gloss": "ka bo"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Shelomo (Solomana)"
     },
     {
       "surface": "על",
@@ -114,11 +93,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Israyɛl"
     },
     {
       "surface": "ויבן",
-      "gloss": "a ye … da"
+      "gloss": "a ye da"
     },
     {
       "surface": "הבית",
@@ -129,6 +108,6 @@
       "gloss": "Yawe ye"
     }
   ],
-  "timestamp": "2026-10-13T22:50:28.095757509Z",
+  "timestamp": "2026-10-20T12:58:41.425814424Z",
   "model": "glm-5.3"
 }

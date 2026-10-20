@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "i ko bonya",
-      "rationale": "Hebrew הולך וגדול is a two-verb progressive idiom; Bambara adds the iterative phrase to convey 'greater and greater'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ושמעו",
-      "rationale": "Literally 'his report\/hearing'; rendered 'a ka tɔgɔ' (his name\/fame)."
-    }
-  ],
-  "translation": "Sabu Mordekay tun ye bonba-tigi masakɛ ka so kɔnɔ, ani a ka tɔgɔ bɔra maraw bɛɛ kɔnɔ, sabu mɔgɔ in Mordekay tun bɛ taa ka bonya i ko bonya.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f384cd2dd590fe22fe16445c32c63a248d43c7da2115cd197f748073990a5650",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/9\/1-4.1791945645553.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu Mordekay (Mordecai) tun bon masakɛ so kɔnɔ, ani a tɔgɔ laseli taa dugubaw bɛɛ la, sabu mɔgɔ min ye Mordekay ye, o bɛ taa a bɛ bonya kosɛbɛ.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "גדול",
-      "gloss": "tun ye bonba-tigi"
+      "gloss": "bon"
     },
     {
       "surface": "מרדכי",
@@ -46,23 +25,23 @@
     },
     {
       "surface": "המלך",
-      "gloss": "masakɛ ka"
+      "gloss": "masakɛ"
     },
     {
       "surface": "ושמעו",
-      "gloss": "ani a ka tɔgɔ"
+      "gloss": "ani a tɔgɔ laseli"
     },
     {
       "surface": "הולך",
-      "gloss": "bɔra\/taara"
+      "gloss": "taa"
     },
     {
       "surface": "בכל",
-      "gloss": "bɛɛ kɔnɔ"
+      "gloss": "bɛɛ la"
     },
     {
       "surface": "המדינות",
-      "gloss": "maraw"
+      "gloss": "dugubaw"
     },
     {
       "surface": "כי",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "mɔgɔ in"
+      "gloss": "mɔgɔ min"
     },
     {
       "surface": "מרדכי",
@@ -78,13 +57,13 @@
     },
     {
       "surface": "הולך",
-      "gloss": "tun bɛ taa"
+      "gloss": "bɛ taa"
     },
     {
       "surface": "וגדול",
-      "gloss": "ka bonya"
+      "gloss": "a bɛ bonya kosɛbɛ"
     }
   ],
-  "timestamp": "2026-10-14T02:40:45.556320575Z",
+  "timestamp": "2026-10-20T13:49:33.035196655Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "wari",
-      "rationale": "רכב 'to ride' — Bambara needs the vehicle named; chariot (wari) supplied, matching context"
-    },
-    {
-      "kind": "substitution",
-      "subject": "nana",
-      "rationale": "ירד is literally 'went down' — Bambara 'nana' (came) loses the descent to Jezreel"
-    },
-    {
-      "kind": "crux",
-      "subject": "sunon nin",
-      "rationale": "שכב 'lying' — versions render 'lay\/sick\/laid up'; Bambara 'bɛ sunon nin' keeps the literal lying"
-    }
-  ],
-  "translation": "Yehu (Yehu) ye wari minɛ ka taa Yizreɛlɛ (Yizreɛlɛ), sabu Yoram bɛ sunon nin yen, ani Ahazia (Ahazia), Yuda masakɛ, nana ka Yoram tɔgɔ ye ⟨⟨a la⟩⟩.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "105b5417084e349cf019fc431c0a63bb6e3414f7e1256a61da1242943a61a6dd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/9\/16-16.1791950503459.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yehu balen don ka taa Yizreɛl (Yizireli), sabu Yoram bɛ sunogɔ yen, ani Ahazia (Ahaziya), Yuda masakɛ, nana a bila ka kɔnɔ ⟨את⟩ Yoram ye.",
   "tokens": [
     {
       "surface": "וירכב",
-      "gloss": "ye wari minɛ"
+      "gloss": "balen don"
     },
     {
       "surface": "יהוא",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "וילך",
-      "gloss": "ka taa"
+      "gloss": "kaa taa"
     },
     {
       "surface": "יזרעאלה",
-      "gloss": "Yizreɛlɛ"
+      "gloss": "Yizreɛl"
     },
     {
       "surface": "כי",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "שכב",
-      "gloss": "bɛ sunon nin"
+      "gloss": "bɛ sunogɔ"
     },
     {
       "surface": "שמה",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "ירד",
-      "gloss": "nana"
+      "gloss": "nana a bila"
     },
     {
       "surface": "לראות",
-      "gloss": "ka … ye"
+      "gloss": "ka kɔnɔ"
     },
     {
       "surface": "את",
@@ -92,9 +66,9 @@
     },
     {
       "surface": "יורם",
-      "gloss": "Yoram"
+      "gloss": "Yoram ye"
     }
   ],
-  "timestamp": "2026-10-14T04:01:43.459663097Z",
+  "timestamp": "2026-10-20T15:45:35.080183129Z",
   "model": "glm-5.3"
 }

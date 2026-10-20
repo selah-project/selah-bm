@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "תספו\/תגרעו",
-      "rationale": "antithetic pair add\/diminish; kept as parallel pair fara\/bɔ in Bambara"
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "direct address to Israel as plural you"
-    },
-    {
-      "kind": "crux",
-      "subject": "מצוה",
-      "rationale": "same verb rendered 'command' both times; Bambara uses fɔ then kalan, slight divergence"
-    }
-  ],
-  "translation": "Aw kana kuma min ne bɛ fɔ aw ye kan fara foyi a kan, aw kana foyi fɔsi a la, aw ka Yawe aw Ala ka minɛdennw mara, minnu de ne bɛ kalan aw ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c7e54bc6beed9fa6486c8601d81f6e4d1635d5bded0325dc3b5a63b5abec15be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/4\/1-4.1791927590842.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aw kana foyi fara kuma kan min ne bɛ wele ⟨את⟩ aw, aw kana foyi bɔ a la, walasa aw ka kɔlɔsi ⟨את⟩ Yawe aw Elohim (Elohim) ka sariyaw, minnu ne bɛ wele ⟨את⟩ aw.",
   "tokens": [
     {
       "surface": "לא",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "תספו",
-      "gloss": "fara foyi a kan"
+      "gloss": "fara"
     },
     {
       "surface": "על",
@@ -59,20 +33,20 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "bɛ fɔ"
+      "gloss": "wele"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩aw",
+      "gloss": "⟨את⟩",
       "marks": "aw"
     },
     {
       "surface": "ולא",
-      "gloss": "aw kana"
+      "gloss": "kana"
     },
     {
       "surface": "תגרעו",
-      "gloss": "foyisi bɔ a la"
+      "gloss": "bɔ"
     },
     {
       "surface": "ממנו",
@@ -80,16 +54,16 @@
     },
     {
       "surface": "לשמר",
-      "gloss": "ka mara"
+      "gloss": "kɔlɔsi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "minɛdennw"
+      "marks": "Yawe aw Ala sariyaw"
     },
     {
       "surface": "מצות",
-      "gloss": "minɛdennw"
+      "gloss": "sariyaw"
     },
     {
       "surface": "יהוה",
@@ -97,11 +71,11 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "aw Ala"
+      "gloss": "Elohim (aw Elohim)"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu de"
+      "gloss": "min"
     },
     {
       "surface": "אנכי",
@@ -109,14 +83,14 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "bɛ kalan"
+      "gloss": "wele"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩aw",
+      "gloss": "⟨את⟩",
       "marks": "aw"
     }
   ],
-  "timestamp": "2026-10-13T21:39:50.843734994Z",
+  "timestamp": "2026-10-20T13:45:39.157682903Z",
   "model": "glm-5.3"
 }

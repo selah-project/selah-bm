@@ -5,45 +5,24 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "na kɛ",
-      "rationale": "Bambara needs a verb phrase for the verbless clause גשמי ברכה יהיו; יהיו supplied as 'na kɛ'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "גבעתי",
-      "rationale": "'my hill' rendered 'ne ka kuntilenna' (my elevated place); the specific hill (Zion) is implicit."
-    }
-  ],
-  "translation": "Ne bɛ u di duba ye — ⟨u⟩ ni yɔrɔw minnu bɛ ne ka kuntilenna ɲɛfɛ — ne bɛ sanji bila a waati la, duba sanjiw na kɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d80b246f8f8d3c7cd3ead4db6812f73adc15a82f8dccdc990b81a228482ecfd6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/34\/25-28.1791937623701.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "An bɛ ⟨את⟩ u ni kulubila an ta surun yɔrɔw di duba ye; an bɛ sanji bila a waati la; sanji minnu bɛ duba di, olu ye duba sanjiw ye.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "ne bɛ … di"
+      "gloss": "an bɛ … di"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "u (duba min bɛ u di)"
+      "gloss": "⟨את⟩",
+      "marks": "u ni kulubila an ta surun yɔrɔw"
     },
     {
       "surface": "וסביבות",
-      "gloss": "ni yɔrɔw minnu bɛ … ɲɛfɛ"
+      "gloss": "surun yɔrɔw"
     },
     {
       "surface": "גבעתי",
-      "gloss": "ne ka kuntilenna"
+      "gloss": "kulubila an ta"
     },
     {
       "surface": "ברכה",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "והורדתי",
-      "gloss": "ne bɛ … bila"
+      "gloss": "an bɛ … bila"
     },
     {
       "surface": "הגשם",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "גשמי",
-      "gloss": "sanjiw"
+      "gloss": "sanji minnu … olu"
     },
     {
       "surface": "ברכה",
@@ -71,9 +50,9 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "na kɛ"
+      "gloss": "ye … ye"
     }
   ],
-  "timestamp": "2026-10-14T00:27:03.702720090Z",
+  "timestamp": "2026-10-20T14:05:53.359688442Z",
   "model": "glm-5.3"
 }

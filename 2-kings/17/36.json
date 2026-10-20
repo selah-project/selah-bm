@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Direct address to Israel in second-person plural imperatives."
-    },
-    {
-      "kind": "addition",
-      "subject": "aw ka … ye",
-      "rationale": "Bamanankan periphrastic verb construction supplied where Hebrew has simple imperatives."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ולו … ולו",
-      "rationale": "Threefold 'to him' fronting (אתו תיראו, ולו תשתחוו, ולו תזבחו) — chiastic emphasis lost in Bamanankan."
-    }
-  ],
-  "translation": "Nka Yawe de, min b'a sɔrɔ a bɔli aw Mitsrayim (Misira) dugukolow la ni se ba ye ani ni bolo min naancen don, ⟨את⟩ Awrahɔn ni siran, aw ka a lajɛ-fɔ, aw ka ⟨את⟩ a ye saraka di.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "24d2220394e19cf5460dbf2c4115da5c6bde977bebdc07ace3800ab8b41b5597",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/17\/36-36.1791950640515.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "nka ⟨את⟩ Yawe minuw ye aw bɔ Mitsrayim (Misira) dugukolo la ni sebaaya bon ye ani ni bolo tilannen ye, ⟨את⟩ aw k'a siran, aw k'a laso, aw k'a ka saraka a ye.",
   "tokens": [
     {
       "surface": "כי",
@@ -52,31 +26,32 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "minuw"
     },
     {
       "surface": "העלה",
-      "gloss": "bɔli"
+      "gloss": "ye aw bɔ"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw"
+      "gloss": "⟨את⟩",
+      "marks": "aw"
     },
     {
       "surface": "מארץ",
-      "gloss": "dugukolow la"
+      "gloss": "dugukolo la"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitsrayim (Misira)"
     },
     {
       "surface": "בכח",
-      "gloss": "ni se ye"
+      "gloss": "ni sebaaya ye"
     },
     {
       "surface": "גדול",
-      "gloss": "ba"
+      "gloss": "bon"
     },
     {
       "surface": "ובזרוע",
@@ -84,34 +59,34 @@
     },
     {
       "surface": "נטויה",
-      "gloss": "min naancen don"
+      "gloss": "tilannen"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "Awrahɔn"
+      "marks": "a"
     },
     {
       "surface": "תיראו",
-      "gloss": "ni siran"
+      "gloss": "aw k'a siran"
     },
     {
       "surface": "ולו",
-      "gloss": "aw ka a"
+      "gloss": "a la"
     },
     {
       "surface": "תשתחוו",
-      "gloss": "lajɛ-fɔ"
+      "gloss": "aw k'a laso"
     },
     {
       "surface": "ולו",
-      "gloss": "aw ka a ye"
+      "gloss": "a ye"
     },
     {
       "surface": "תזבחו",
-      "gloss": "saraka di"
+      "gloss": "aw k'a ka saraka"
     }
   ],
-  "timestamp": "2026-10-14T04:04:00.516278525Z",
+  "timestamp": "2026-10-20T13:18:19.115802016Z",
   "model": "glm-5.3"
 }

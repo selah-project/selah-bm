@@ -5,44 +5,23 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "u bɛ min ye",
-      "rationale": "Hebrew puts איו first ('Where is the king...'); Bambara word order moves the question to the end"
-    },
-    {
-      "kind": "invitation",
-      "subject": "question",
-      "rationale": "Rabshakeh's taunting rhetorical question to Judah about fallen kings"
-    }
-  ],
-  "translation": "Masa Hhamat (Hamat) min ye, ani masa Arpad, ani masa dugu Sepharvayim, Hena ni Iva — u bɛ min?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cfd5c4226dd0b1eed32ed21ef90266ae0942232603bacbd8db7e45d934a36314",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/19\/13-16.1791933203633.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hamat (Hamat) masakɛ bɛ min, ni Arpad (Arpad) masakɛ, ni Sepharwayim (Sepharwayim) dugu masakɛ, Hena ni Iwa masakɛw?",
   "tokens": [
     {
       "surface": "איו",
-      "gloss": "min ye"
+      "gloss": "bɛ min"
     },
     {
       "surface": "מלך",
-      "gloss": "masa"
+      "gloss": "masakɛ"
     },
     {
       "surface": "חמת",
-      "gloss": "Hhamat (Hamat)"
+      "gloss": "Hamat"
     },
     {
       "surface": "ומלך",
-      "gloss": "ani masa"
+      "gloss": "ni masakɛ"
     },
     {
       "surface": "ארפד",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ומלך",
-      "gloss": "ani masa"
+      "gloss": "ni masakɛ"
     },
     {
       "surface": "לעיר",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ספרוים",
-      "gloss": "Sepharvayim"
+      "gloss": "Sepharwayim"
     },
     {
       "surface": "הנע",
@@ -66,9 +45,9 @@
     },
     {
       "surface": "ועוה",
-      "gloss": "ani Iva"
+      "gloss": "ni Iwa"
     }
   ],
-  "timestamp": "2026-10-13T23:13:23.638983115Z",
+  "timestamp": "2026-10-20T13:18:34.574656736Z",
   "model": "glm-5.3"
 }

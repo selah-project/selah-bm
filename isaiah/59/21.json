@@ -5,42 +5,11 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 59,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ואני",
-      "rationale": "Hebrew foregrounds 'and as for me'; rendered by nothing rather than inventing Bambara fronting."
-    },
-    {
-      "kind": "substitution",
-      "subject": "רוחי",
-      "rationale": "רוח is wind\/breath\/spirit; fiɲɛ covers breath-spirit, ni is life-force — fiɲɛ chosen for spirit-on-person."
-    },
-    {
-      "kind": "crux",
-      "subject": "this is my covenant with them",
-      "rationale": "'them' (u) refers back to Jacob's penitents of v.20 while 'thee\/thy seed' is singular — addressed to the prophet or the people; kept both pronouns as written."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זרע זרעך",
-      "rationale": "seed-of-your-seed repetition, threefold 'out of the mouth' build; Bambara keeps the chain kisɛw ka kisɛw."
-    }
-  ],
-  "translation": "Nin ye ne ka layidu ni u ye, Yawe ko; ne ka fiɲɛ min bɛ i kan, ani ne ka kumaw minnu n bila i da la, olu tɛna bɔ i da la, tɛna bɔ i kisɛw da la, tɛna bɔ i kisɛw ka kisɛw da la, Yawe ko, sisan fo waati bɛɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "7f677311097f87eedf9854bb462ec43ea9db40d95103c847f3231414cf8965d8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/59\/21-21.1791934668453.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni ne yɛ, nin ⟨ye⟩ ne ka layidu ⟨ye⟩ ni ⟨u⟩ ye, Yawe ko: ne ka fiɲɛ min bɛ i kan, ani ne ka kumaw minnu n digi i da la, olu tɛna bɔ i da la, walima i kisɛw da la, walima i kisɛw ka kisɛ da la — Yawe ko — sintin bi fo jaka.",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": ""
+      "gloss": "ni ne yɛ"
     },
     {
       "surface": "זאת",
@@ -53,7 +22,7 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "u"
+      "marks": "u (layidu bɛ u la)"
     },
     {
       "surface": "אמר",
@@ -85,7 +54,7 @@
     },
     {
       "surface": "שמתי",
-      "gloss": "n bila"
+      "gloss": "n digi"
     },
     {
       "surface": "בפיך",
@@ -97,7 +66,7 @@
     },
     {
       "surface": "ימושו",
-      "gloss": "bɔ"
+      "gloss": "tɛna bɔ"
     },
     {
       "surface": "מפיך",
@@ -105,23 +74,23 @@
     },
     {
       "surface": "ומפי",
-      "gloss": "tɛna bɔ"
+      "gloss": "walima … da la"
     },
     {
       "surface": "זרעך",
-      "gloss": "i kisɛw da la"
+      "gloss": "i kisɛw"
     },
     {
       "surface": "ומפי",
-      "gloss": "tɛna bɔ"
+      "gloss": "walima … da la"
     },
     {
       "surface": "זרע",
-      "gloss": "kisɛw"
+      "gloss": "kisɛ"
     },
     {
       "surface": "זרעך",
-      "gloss": "i kisɛw ka kisɛw"
+      "gloss": "i kisɛ"
     },
     {
       "surface": "אמר",
@@ -133,7 +102,7 @@
     },
     {
       "surface": "מעתה",
-      "gloss": "sisan"
+      "gloss": "sintin bi"
     },
     {
       "surface": "ועד",
@@ -141,9 +110,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "waati bɛɛ"
+      "gloss": "jaka"
     }
   ],
-  "timestamp": "2026-10-13T23:37:48.454113977Z",
+  "timestamp": "2026-10-20T14:33:24.907424239Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ni",
-      "rationale": "נפש rendered as 'ni' (life-breath), not 'soul'"
-    },
-    {
-      "kind": "hapax",
-      "subject": "פגול",
-      "rationale": "fetid\/ceremonially unclean flesh — rare word, 'sogo jugu' keeps the horror"
-    },
-    {
-      "kind": "you",
-      "subject": "to Adonay Yawe",
-      "rationale": "the prophet protests directly to God"
-    }
-  ],
-  "translation": "N ko: Aa! Adonay Yawe, ye i n'a fɔ, ne ka ni ma jujun; bagan min sa a yɛrɛ la, walima min ye bɔn bɔ, ne ma dun o le ne ka dɔgɔko la fo bi, sogo jugu si ma don ne ka da kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ea54460842e6e0eb6a7edec7acf975384637a19f37076a35a537c805ea067fdc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/4\/13-16.1791936635938.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ani ne ko: Aa! Adonay Yawe, nin ye, ne ka ni ma jugu, sabu ne ma dun fɛn min sa a yɛrɛ la walima fɛn min bɛ ni da ye, ne ka dɛmɛnanɛ na fɔlɔ fo bi, ani sogo jugu si ma na ⟨ne⟩ da kɔnɔ.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "N ko"
+      "gloss": "ani ne ko"
     },
     {
       "surface": "אהה",
-      "gloss": "Aa"
+      "gloss": "Aa!"
     },
     {
       "surface": "אדני",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "ye i n'a fɔ"
+      "gloss": "nin ye"
     },
     {
       "surface": "נפשי",
@@ -63,27 +37,27 @@
     },
     {
       "surface": "מטמאה",
-      "gloss": "jujun"
+      "gloss": "jugu"
     },
     {
       "surface": "ונבלה",
-      "gloss": "bagan min sa a yɛrɛ la"
+      "gloss": "fɛn min sa a yɛrɛ la"
     },
     {
       "surface": "וטרפה",
-      "gloss": "min ye bɔn bɔ"
+      "gloss": "fɛn min bɛ ni da ye"
     },
     {
       "surface": "לא",
-      "gloss": "ne ma"
+      "gloss": "ma"
     },
     {
       "surface": "אכלתי",
-      "gloss": "dun"
+      "gloss": "ne … dun"
     },
     {
       "surface": "מנעורי",
-      "gloss": "ne ka dɔgɔko la"
+      "gloss": "ne ka dɛmɛnanɛ na"
     },
     {
       "surface": "ועד",
@@ -95,15 +69,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "si ma"
+      "gloss": "ani … si ma"
     },
     {
       "surface": "בא",
-      "gloss": "don"
+      "gloss": "na"
     },
     {
       "surface": "בפי",
-      "gloss": "ne ka da kɔnɔ"
+      "gloss": "da kɔnɔ"
     },
     {
       "surface": "בשר",
@@ -114,6 +88,6 @@
       "gloss": "jugu"
     }
   ],
-  "timestamp": "2026-10-14T00:10:35.939145118Z",
+  "timestamp": "2026-10-20T14:06:31.416466856Z",
   "model": "glm-5.3"
 }

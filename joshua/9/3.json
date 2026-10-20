@@ -5,40 +5,24 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ko",
-      "rationale": "Bambara needs 'ko' to introduce the heard content; Hebrew embeds אשר directly"
-    }
-  ],
-  "translation": "Gibeɔn (Gabaɔn) sogodaw y'a mɛn ko Yehoshua y'o kɛ Yerixo (Jeriko) ma ani Ayi (Ay) ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f002e5b21346f381ff071738c89fe75eaa95ca3e15bce7753dcf64d62e8d3344",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/9\/1-4.1791928678546.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gibɔn (Gibeɔn) sigilenw ye Yehoshua (Josuye) kɛ Yerixo (Jeriko) ma ⟨את⟩ min kɛra, ani Ayi (Ayi) ma, o mɛn.",
   "tokens": [
     {
       "surface": "וישבי",
-      "gloss": "sogodaw"
+      "gloss": "sigilenw"
     },
     {
       "surface": "גבעון",
-      "gloss": "Gibeɔn (Gabaɔn)"
+      "gloss": "Gibɔn"
     },
     {
       "surface": "שמעו",
-      "gloss": "u y'a mɛn"
+      "gloss": "mɛn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "min Yehoshua y'o kɛ"
+      "marks": "min Yehoshua kɛra (o kuma in)"
     },
     {
       "surface": "אשר",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "y'o kɛ"
+      "gloss": "kɛra"
     },
     {
       "surface": "יהושע",
@@ -54,13 +38,13 @@
     },
     {
       "surface": "ליריחו",
-      "gloss": "Yerixo (Jeriko) ma"
+      "gloss": "Yerixo ma"
     },
     {
       "surface": "ולעי",
-      "gloss": "ani Ayi (Ay) ma"
+      "gloss": "ani Ayi ma"
     }
   ],
-  "timestamp": "2026-10-13T21:57:58.548221451Z",
+  "timestamp": "2026-10-20T14:58:28.180946258Z",
   "model": "glm-5.3"
 }

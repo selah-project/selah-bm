@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עד",
-      "gloss": "the preposition 'unto' has no separate Bambara word; folded into the locative la"
-    },
-    {
-      "kind": "addition",
-      "subject": "a",
-      "rationale": "object pronoun of 'seek' supplied — Bambara requires it where Hebrew marks the object with את"
-    }
-  ],
-  "translation": "Jamaa ma segin min bɛ u tigɛ la, ani ⟨את⟩ Yawe Tsevaot u ma a ɲini.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/9\/9-12.1791933668412.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nka jamaa ma segin ka na ka taa sanmin b'u bɔlɔ i n'a fɔ min b'u dun ya, ani ⟨את⟩ Yawe Sɛbɛw ka Tigi, u ma a ɲinɛ.",
   "tokens": [
     {
       "surface": "והעם",
-      "gloss": "jamaa"
+      "gloss": "nka jamaa ma"
     },
     {
       "surface": "לא",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "עד",
-      "gloss": "… la"
+      "gloss": "i n'a fɔ min"
     },
     {
       "surface": "המכהו",
-      "gloss": "min bɛ u tigɛ"
+      "gloss": "min b'u bɔlɔ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Yawe Tsevaot"
+      "marks": "Yawe Sɛbɛw ka Tigi"
     },
     {
       "surface": "יהוה",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "Sɛbɛw ka Tigi"
     },
     {
       "surface": "לא",
@@ -67,9 +46,9 @@
     },
     {
       "surface": "דרשו",
-      "gloss": "ɲini"
+      "gloss": "a ɲinɛ"
     }
   ],
-  "timestamp": "2026-10-13T23:21:08.416048358Z",
+  "timestamp": "2026-10-20T14:34:54.932482111Z",
   "model": "glm-5.3"
 }

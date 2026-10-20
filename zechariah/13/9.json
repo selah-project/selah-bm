@@ -5,67 +5,32 @@
   "book": "zechariah",
   "lang": "bm",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "don \/ de",
-      "rationale": "Bamanankan ka daɲɛ dɔw minnu bɛ sira di (o don, de), Heburukan tɛ u la."
-    },
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "Direct-object taamasiyɛn Ɔɔbrisi kan (aleph-tav) ye ⟨את⟩ ɲɛfɔli ye, ale dɔgɔya ma kɛ."
-    },
-    {
-      "kind": "crux",
-      "subject": "אתו",
-      "rationale": "את ka siginiden-faralen sɛbɛnni (ʾotô) ni nɔnabila kɔnɔ; baasɛ bilen: bayɛlɛmabaga dɔw b'a kɔrɔ fɔ 'ni a yɛrɛ ye'."
-    },
-    {
-      "kind": "alternative",
-      "subject": "ale bɛ Wele ni n tɔgɔ ye",
-      "rationale": "יִקְרָא bɛ se ka kɛ 'a bɛ wele (dɛmɛ ɲini)' ye i n'a fɔ KJV b'a fɔ cogo min na; n jɔyɔrɔ in bɛ tɔgɔ-ilen-jɛkɛ ta dɔgɔya ma."
-    }
-  ],
-  "translation": "An bɛ sabaɲɛ dɔrɔn ta ka a bɔ tasuma na, an bɛ u saniya i n'a fɔ ⟨את⟩ warigwɛ saniya cogo min na, an bɛ u sɛgɛsɛgɛ i n'a fɔ ⟨את⟩ sanu sɛgɛsɛgɛ cogo min na; ale bɛ Wele ni n tɔgɔ ye, ani n bɛ a jaabi ⟨את⟩; n bɛ fɔ ko n jama don o ye; ani ale bɛ fɔ ko Yawe Elohim ye n Ala ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ed46089e720cf44f70b0cd4450038c81f7c342110561f9fa4bee422145ab7b02",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/13\/9-9.1791939285480.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ne bɛna ⟨את⟩ sabanan ta tasuma kɔnɔ, ne bɛna u jujɔ ni warigwɛ jujɔcogo ye, ne bɛna u sɛgɛsɛgɛ ni sanu sɛgɛsɛgcogo ye; a bɛna ne ka tɔgɔ wele, ani ne bɛna ⟨את⟩ a jaabi; ne y'a fɔ ko: ⟨o ye⟩ ne ka jama de ye, k'a ɲɛ a bɛna fɔ ko: Yawe ye ne ka Elohim ye.",
   "tokens": [
     {
       "surface": "והבאתי",
-      "gloss": "n bɛ ... ta"
+      "gloss": "ne bɛna … ta tasuma kɔnɔ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sabaɲɛ dɔrɔn"
+      "marks": "sabanan"
     },
     {
       "surface": "השלשית",
-      "gloss": "sabaɲɛ dɔrɔn"
+      "gloss": "sabanan"
     },
     {
       "surface": "באש",
-      "gloss": "tasuma na"
+      "gloss": "tasuma kɔnɔ"
     },
     {
       "surface": "וצרפתים",
-      "gloss": "n bɛ u saniya"
+      "gloss": "ne bɛna u jujɔ"
     },
     {
-      "surface": "צרף",
-      "gloss": "i n'a fɔ ... saniya"
-    },
-    {
-      "surface": "כ",
-      "gloss": "⟨את⟩ cogo min na"
+      "surface": "כצרף",
+      "gloss": "ni warigwɛ jujɔcogo ye"
     },
     {
       "surface": "את",
@@ -78,11 +43,11 @@
     },
     {
       "surface": "ובחנתים",
-      "gloss": "n bɛ u sɛgɛsɛgɛ"
+      "gloss": "ne bɛna u sɛgɛsɛgɛ"
     },
     {
       "surface": "כבחן",
-      "gloss": "⟨את⟩ i n'a fɔ ... sɛgɛsɛgɛ cogo min na"
+      "gloss": "ni sanu sɛgɛsɛgcogo ye"
     },
     {
       "surface": "את",
@@ -95,48 +60,48 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ale"
+      "gloss": "a"
     },
     {
       "surface": "יקרא",
-      "gloss": "bɛ Wele"
+      "gloss": "bɛna … wele"
     },
     {
       "surface": "בשמי",
-      "gloss": "ni n tɔgɔ ye"
+      "gloss": "ne ka tɔgɔ"
     },
     {
       "surface": "ואני",
-      "gloss": "ani n"
+      "gloss": "ani ne"
     },
     {
       "surface": "אענה",
-      "gloss": "⟨את⟩ bɛ jaabi"
+      "gloss": "bɛna … jaabi"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "a"
+      "marks": "a (weleli tɔgɔ)"
     },
     {
       "surface": "אמרתי",
-      "gloss": "n bɛ fɔ"
+      "gloss": "ne y'a fɔ ko"
     },
     {
       "surface": "עמי",
-      "gloss": "n jama"
+      "gloss": "ne ka jama"
     },
     {
       "surface": "הוא",
-      "gloss": "o don"
+      "gloss": "o ye"
     },
     {
       "surface": "והוא",
-      "gloss": "ani ale"
+      "gloss": "k'a ɲɛ a"
     },
     {
       "surface": "יאמר",
-      "gloss": "bɛ fɔ"
+      "gloss": "bɛna fɔ ko"
     },
     {
       "surface": "יהוה",
@@ -144,9 +109,9 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "n Elohim \/ n Ala"
+      "gloss": "ne ka Elohim"
     }
   ],
-  "timestamp": "2026-10-14T00:54:45.480780227Z",
+  "timestamp": "2026-10-20T15:42:13.144192651Z",
   "model": "glm-5.3"
 }

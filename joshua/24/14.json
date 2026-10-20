@@ -5,46 +5,15 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "aw ka Yawe siran",
-      "rationale": "Dɔgɔkunw — Yosuwe bɛ jama wele ka Yawe satɔɔ"
-    },
-    {
-      "kind": "you",
-      "subject": "Isirayilidenw",
-      "rationale": "Dɔgɔkun ni nɔnabila 'aw' — kuma taamasiyɛn bɛ Shekem jama la"
-    },
-    {
-      "kind": "crux",
-      "subject": "הנהר",
-      "rationale": "Baji sanfɛ ka kɔ — Euphrate (Yosuwe 24:2,3) ni Tora sɛbɛnniw bɛ fɔ cogo min na"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אלהים",
-      "rationale": "Tanaki bɛ fɔ batofɛnw ye minnu ye jamanaw ka batofɛnw ye — tɔgɔ si tɛ o ye"
-    }
-  ],
-  "translation": "Sisan, aw ka Yawe siran, aw k'⟨את⟩ a satɔɔ tiɲɛ ni temɛye la; aw ka ⟨את⟩ batofɛnw minnu aw baw ye satɔɔ baji kɔfɛ ani Mitsrayim (Misira) kɔnɔ, ka bɔ; aw ka ⟨את⟩ Yawe satɔɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "95c205cf32e1848e145bee027f1f91305aadb269a6636abbb19d65a2bb9b57ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/24\/13-16.1791929128715.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sisan don, Yawe jirasirilen na, ka na a la cogo jemɛjugu len len na ni tiɲɛ na, ka to ⟨את⟩ alaw bɔ minnu aw baw dugaw ye baaji ce kɔnɔ (Mitsrayim), ani ka Yawe nɔ ye.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "sisan"
+      "gloss": "Sisan don"
     },
     {
       "surface": "יראו",
-      "gloss": "aw ka siran"
+      "gloss": "aw ka Yawe jirasirilen"
     },
     {
       "surface": "את",
@@ -57,33 +26,33 @@
     },
     {
       "surface": "ועבדו",
-      "gloss": "aw ka satɔɔ"
+      "gloss": "aw ka baara kɛ a la"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ a",
-      "marks": "a (Yawe)"
+      "gloss": "⟨אתו⟩",
+      "marks": "a yɛrɛ (baara kɛli kɔnɔ)"
     },
     {
       "surface": "בתמים",
-      "gloss": "tiɲɛ la"
+      "gloss": "cogo jemɛjugu len len na"
     },
     {
       "surface": "ובאמת",
-      "gloss": "ni temɛye la"
+      "gloss": "ni tiɲɛ na"
     },
     {
       "surface": "והסירו",
-      "gloss": "aw ka k'a bɔ"
+      "gloss": "aw ka to ... bɔ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "batofɛnw"
+      "marks": "alaw (batofɛnw)"
     },
     {
       "surface": "אלהים",
-      "gloss": "batofɛnw"
+      "gloss": "alaw (batofɛnw)"
     },
     {
       "surface": "אשר",
@@ -91,19 +60,19 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "aw baw ye satɔɔ"
+      "gloss": "u ye baara kɛ u ye"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "aw baw"
+      "gloss": "aw baw dugaw"
     },
     {
       "surface": "בעבר",
-      "gloss": "baji kɔfɛ"
+      "gloss": "ce kɔnɔ"
     },
     {
       "surface": "הנהר",
-      "gloss": "baji"
+      "gloss": "baaji"
     },
     {
       "surface": "ובמצרים",
@@ -111,7 +80,7 @@
     },
     {
       "surface": "ועבדו",
-      "gloss": "aw ka satɔɔ"
+      "gloss": "aw ka Yawe nɔ ye baara kɛ a ye"
     },
     {
       "surface": "את",
@@ -123,6 +92,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-13T22:05:28.717797914Z",
+  "timestamp": "2026-10-20T14:56:27.537706442Z",
   "model": "glm-5.3"
 }

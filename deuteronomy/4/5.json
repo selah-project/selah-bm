@@ -5,62 +5,36 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "aw",
-      "rationale": "Hebrew למדתי אתכם carries the object 'you' in the aleph-tav form; aw supplied from it"
-    },
-    {
-      "kind": "invitation",
-      "subject": "ראה",
-      "rationale": "Opening imperative 'See' summons the hearers directly"
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "Direct address to Israel throughout the verse"
-    }
-  ],
-  "translation": "Yeelen na: ne ye aw kalan ⟨את⟩ sariyaw ni sariya-jatew, cogo min na Yawe, ne ka Ala, y'a ne min di k'o kɛ nin cogo na dugukolo kɔnɔ min na aw bɛ don yen k'a ta.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ca831a2fa84d6b6646d0f6ee2ff4e239f9b115521d6f68ca3a13ac3b61e8f00c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/4\/5-8.1791927604204.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I ye, ne kalannen ⟨את⟩ aw ye sariya-hɔrɔnw ni jatebaw, i n'a fɔ Yawe ne Elohim y'i ne min kɔnɔna, aw ka kɛ nin cogo min na dugukolo kɔnɔ min na aw bɛ taa ka min mara.",
   "tokens": [
     {
       "surface": "ראה",
-      "gloss": "yeelen na"
+      "gloss": "i ye"
     },
     {
       "surface": "למדתי",
-      "gloss": "ne ye aw kalan"
+      "gloss": "ne kalannen"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "sariyaw ni sariya-jatew"
+      "marks": "aw — a bɛ taamasiyɛn bɔ la: sariya-hɔrɔnw ni jatebaw"
     },
     {
       "surface": "חקים",
-      "gloss": "sariyaw"
+      "gloss": "sariya-hɔrɔnw"
     },
     {
       "surface": "ומשפטים",
-      "gloss": "ni sariya-jatew"
+      "gloss": "ani jatebaw"
     },
     {
       "surface": "כאשר",
-      "gloss": "cogo min na"
+      "gloss": "i n'a fɔ"
     },
     {
       "surface": "צוני",
-      "gloss": "y'a ne min di"
+      "gloss": "y'i ne kɔnɔna"
     },
     {
       "surface": "יהוה",
@@ -68,15 +42,15 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "ne ka Ala"
+      "gloss": "ne Elohim"
     },
     {
       "surface": "לעשות",
-      "gloss": "k'o kɛ"
+      "gloss": "aw ka kɛ"
     },
     {
       "surface": "כן",
-      "gloss": "nin cogo na"
+      "gloss": "nin cogo min na"
     },
     {
       "surface": "בקרב",
@@ -96,17 +70,17 @@
     },
     {
       "surface": "באים",
-      "gloss": "bɛ don"
+      "gloss": "bɛ taa"
     },
     {
       "surface": "שמה",
-      "gloss": "yen"
+      "gloss": "min na"
     },
     {
       "surface": "לרשתה",
-      "gloss": "k'a ta"
+      "gloss": "ka min mara"
     }
   ],
-  "timestamp": "2026-10-13T21:40:04.206692643Z",
+  "timestamp": "2026-10-20T15:45:43.974126401Z",
   "model": "glm-5.3"
 }

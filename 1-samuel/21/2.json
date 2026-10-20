@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "i ni",
-      "rationale": "אתך here is the preposition 'with you' (H854), not the direct-object marker; rendered as 'i ni' with the marker glyph retained per discipline"
-    },
-    {
-      "kind": "crux",
-      "subject": "ויחרד",
-      "rationale": "'trembled' (KJV) vs 'came to meet trembling' (ASV) vs 'was afraid' — the verb is shudder-with-terror; Bambara keeps the simple 'ko a ye siran'"
-    },
-    {
-      "kind": "you",
-      "subject": "to Dawida",
-      "rationale": "The priest's question directly addresses Dawida"
-    }
-  ],
-  "translation": "Dawida nana Nob ka taa Ahimelek sarakalasebaga fɛ. Ahimelek yɛ Dawida ko a ye siran, a ko a ye: munna i bɛ i yɛrɛ de ye, ani mɔgɔ si tɛ ⟨i⟩ ni?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/21\/1-4.1791930614519.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawid (Dawuda) nana Nobe, Chimelek sarakalasebaga ka so fɛ, Chimelek y'a ye Dawid don, k'o ko a ye: mun na i bɛ i yɛrɛ da, mɔgɔ si tɛ ⟨את⟩ i fɛ?",
   "tokens": [
     {
       "surface": "ויבא",
@@ -39,19 +13,19 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dawida"
+      "gloss": "Dawid"
     },
     {
       "surface": "נבה",
-      "gloss": "Nob"
+      "gloss": "Nobe"
     },
     {
       "surface": "אל",
-      "gloss": "ka taa … fɛ"
+      "gloss": "…fɛ"
     },
     {
       "surface": "אחימלך",
-      "gloss": "Ahimelek"
+      "gloss": "Chimelek"
     },
     {
       "surface": "הכהן",
@@ -59,23 +33,23 @@
     },
     {
       "surface": "ויחרד",
-      "gloss": "ko a ye siran"
+      "gloss": "y'a ye … don"
     },
     {
       "surface": "אחימלך",
-      "gloss": "Ahimelek"
+      "gloss": "Chimelek"
     },
     {
       "surface": "לקראת",
-      "gloss": "yɛ … ko"
+      "gloss": "Dawid don"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawida"
+      "gloss": "Dawid"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a ko"
+      "gloss": "k'o ko"
     },
     {
       "surface": "לו",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "מדוע",
-      "gloss": "munna"
+      "gloss": "mun na"
     },
     {
       "surface": "אתה",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "לבדך",
-      "gloss": "i yɛrɛ de"
+      "gloss": "i yɛrɛ da"
     },
     {
       "surface": "ואיש",
-      "gloss": "ani mɔgɔ si"
+      "gloss": "mɔgɔ si"
     },
     {
       "surface": "אין",
@@ -103,10 +77,10 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ i ni",
-      "marks": "i ni"
+      "gloss": "⟨את⟩",
+      "marks": "i fɛ"
     }
   ],
-  "timestamp": "2026-10-13T22:30:14.521301356Z",
+  "timestamp": "2026-10-20T13:03:30.848750433Z",
   "model": "glm-5.3"
 }

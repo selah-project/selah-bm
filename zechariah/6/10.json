@@ -5,50 +5,24 @@
   "book": "zechariah",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מאת",
-      "rationale": "Here מאת is the preposition H854 'from', not the DO marker H853; rendered ⟨את⟩ per the marker rule."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨i yɛrɛ⟩",
-      "rationale": "אתה 'you' is emphatic in Hebrew; the intensive pronoun is bracketed as supplied emphasis."
-    },
-    {
-      "kind": "you",
-      "subject": "to Zekarya",
-      "rationale": "The verse commands the prophet Zekarya directly with imperatives 'take... come... enter'."
-    }
-  ],
-  "translation": "Jɔgɔyaɔrɔlaw (golaw) fɛ finw ta — Cheldai (Heldai), Tobija (Tobiya) ani Yedaja (Yedaya) fɛ ⟨את⟩; k'a la, i yɛrɛ, i na don nin don in na, i na don Yoshiya (Yoshiya) so, min ye Tsefanya (Tsefanya) den ye, minnu nana Babilɔn (Babilɔn) na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "575afa910aa59fa054e64adb69b98461aa87b5ee2f461e257775f3daa408f87a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/6\/10-11.1791951141085.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I ka minɛ jɔnjɔnw la — Heldai fɛ, ⟨את⟩ Tobija fɛ, ani ⟨את⟩ Yedaja fɛ, minnu nana Babilɔn na; i na o don kelen na, i yɛrɛ, i na Yosija so, Tsefanya denkɛ.",
   "tokens": [
     {
       "surface": "לקוח",
-      "gloss": "ta"
+      "gloss": "i ka minɛ"
     },
     {
       "surface": "מאת",
       "gloss": "⟨את⟩",
-      "marks": "golaw"
+      "marks": "Heldai"
     },
     {
       "surface": "הגולה",
-      "gloss": "jɔgɔyaɔrɔlaw"
+      "gloss": "jɔnjɔnw"
     },
     {
       "surface": "מחלדי",
-      "gloss": "Cheldai"
+      "gloss": "Heldai"
     },
     {
       "surface": "ומאת",
@@ -78,11 +52,11 @@
     },
     {
       "surface": "ביום",
-      "gloss": "don in"
+      "gloss": "o don"
     },
     {
       "surface": "ההוא",
-      "gloss": "nin"
+      "gloss": "kelen"
     },
     {
       "surface": "ובאת",
@@ -94,11 +68,11 @@
     },
     {
       "surface": "יאשיה",
-      "gloss": "Yoshiya"
+      "gloss": "Yosija"
     },
     {
       "surface": "בן",
-      "gloss": "den"
+      "gloss": "denkɛ"
     },
     {
       "surface": "צפניה",
@@ -106,7 +80,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "minnu"
     },
     {
       "surface": "באו",
@@ -117,6 +91,6 @@
       "gloss": "Babilɔn"
     }
   ],
-  "timestamp": "2026-10-14T04:12:21.086602379Z",
+  "timestamp": "2026-10-20T15:43:03.828920512Z",
   "model": "glm-5.3"
 }

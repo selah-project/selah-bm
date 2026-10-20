@@ -5,45 +5,24 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "alaw",
-      "rationale": "אלהיהם here means the nations' gods; per discipline rendered alaw\/batofɛnw, never the Name"
-    },
-    {
-      "kind": "addition",
-      "subject": "olu",
-      "rationale": "Pronoun supplied as copula-support for 'they were not gods'"
-    }
-  ],
-  "translation": "Kabɛn, u ye ⟨את⟩ u alaw bila tasuma kɔnɔ, sabu olu ye mɔgɔw ka bolo baara ye — jiri ni kabakurun — n'u y'u jɔsi.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a1fec169dc978f33dfee8ceead9ce6e58419f54d30237224155216646c196cc3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/19\/17-20.1791933192948.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ani u y'u bolo batofɛnw bila ⟨את⟩ tasuma la, sabu bagaw tɛ o ye — olu ye mɔgɔw bolo baara ye: jiri ni kabakurun — n'u y'u fa.",
   "tokens": [
     {
       "surface": "ונתנו",
-      "gloss": "u ye … bila"
+      "gloss": "u y'u bila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u alaw"
+      "marks": "u ka batofɛnw"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "u alaw"
+      "gloss": "u ka batofɛnw"
     },
     {
       "surface": "באש",
-      "gloss": "tasuma kɔnɔ"
+      "gloss": "tasuma la"
     },
     {
       "surface": "כי",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Alatigiw"
+      "gloss": "bagaw"
     },
     {
       "surface": "המה",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "אם",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "mɔgɔw ka"
+      "gloss": "mɔgɔw"
     },
     {
       "surface": "עץ",
@@ -87,13 +66,13 @@
     },
     {
       "surface": "ואבן",
-      "gloss": "kabakurun"
+      "gloss": "ni kabakurun"
     },
     {
       "surface": "ויאבדום",
-      "gloss": "u y'u jɔsi"
+      "gloss": "n'u y'u fa"
     }
   ],
-  "timestamp": "2026-10-13T23:13:12.957585682Z",
+  "timestamp": "2026-10-20T13:18:45.265208777Z",
   "model": "glm-5.3"
 }

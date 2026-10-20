@@ -5,56 +5,35 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "The verse addresses Israel directly ('i' singular) as the slave-holder commanded to remember Egypt."
-    },
-    {
-      "kind": "addition",
-      "subject": "in",
-      "gloss_added": "Bambara demonstrative 'in' renders the Hebrew article-plus-demonstrative on הדבר הזה."
-    }
-  ],
-  "translation": "I k'a ɲini sabu i tun ye forobaga ye Misira dugukolo na, ani Yawe i Ala Elohim ye i balo; o de sabu, ne b'i la kuma ⟨את⟩ nin kuma in bi.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "90206ecf89e263a8338873b7dc775a43a41fbcad121ff08945f9201c13a89c5b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/15\/13-16.1791927883879.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I k'a kwɛrɛ ko i ye focalen don Mitsrayim (Misira) dugukolo la, ani Yawe i Elohim Yawe ye i ye fangatigɛ la; o la na, ne Ale de b'i la kuma nin di ⟨את⟩ kuma in don in la.",
   "tokens": [
     {
       "surface": "וזכרת",
-      "gloss": "i k'a ɲini"
+      "gloss": "k'a kwɛrɛ ko"
     },
     {
       "surface": "כי",
-      "gloss": "sabu"
+      "gloss": "ko"
     },
     {
       "surface": "עבד",
-      "gloss": "forobaga"
+      "gloss": "focalen"
     },
     {
       "surface": "היית",
-      "gloss": "i tun ye"
+      "gloss": "i ye … don"
     },
     {
       "surface": "בארץ",
-      "gloss": "dugukolo na"
+      "gloss": "dugukolo la"
     },
     {
       "surface": "מצרים",
-      "gloss": "Misira"
+      "gloss": "Mitsrayim (Misira)"
     },
     {
       "surface": "ויפדך",
-      "gloss": "a y'i balo"
+      "gloss": "ye i ye fangatigɛ la"
     },
     {
       "surface": "יהוה",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i Ala Elohim"
+      "gloss": "i Elohim"
     },
     {
       "surface": "על",
-      "gloss": "o"
+      "gloss": "o la"
     },
     {
       "surface": "כן",
-      "gloss": "de sabu"
+      "gloss": "na"
     },
     {
       "surface": "אנכי",
@@ -78,26 +57,26 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "b'i la kuma"
+      "gloss": "b'i la kuma nin di"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nin kuma in"
+      "marks": "kuma in"
     },
     {
       "surface": "הדבר",
-      "gloss": "kuma"
+      "gloss": "kuma in"
     },
     {
       "surface": "הזה",
-      "gloss": "in"
+      "gloss": "nin"
     },
     {
       "surface": "היום",
-      "gloss": "bi"
+      "gloss": "don in la"
     }
   ],
-  "timestamp": "2026-10-13T21:44:43.882285407Z",
+  "timestamp": "2026-10-20T15:45:48.662077476Z",
   "model": "glm-5.3"
 }

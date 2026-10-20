@@ -5,87 +5,61 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 50,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨ni⟩",
-      "rationale": "Hebrew joins the covenant directly with 'join to YHWH'; Bambara needs a connector"
-    },
-    {
-      "kind": "invitation",
-      "subject": "בֹּאוּ וְנִלְווּ",
-      "rationale": "Imperative summons 'come, let us join' addressed to the returnees"
-    },
-    {
-      "kind": "crux",
-      "subject": "ציון ישאלו",
-      "rationale": "'ask the way to Zion' (KJV) vs 'inquire concerning Zion' (JPS); the verb שאל takes either object"
-    }
-  ],
-  "translation": "Ziɔn (Siyɔn) sira bɛna ɲini, u ɲɛw bɛ o fɛ: aw na, an ka Yawe tugu, ⟨ni⟩ layidu tenε min tɛna tumatɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ae20984ed204bbc34470735ddd9616be01060af876641dbfecb30157f0a9feee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/50\/5-8.1791936362508.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tsion (Siyɔn) sira bɛ bɛn ɲininka, u ɲɛw bɛ tigatiga nin fɛ: “Iw na, an ni Yawe kɛ kelen ye, layidu ten min tɛn'a lasɔrɔ.”",
   "tokens": [
     {
       "surface": "ציון",
-      "gloss": "Ziɔn"
+      "gloss": "Tsion"
     },
     {
-      "surface": "יִשְׁאָלוּ",
-      "gloss": "bɛna ɲini"
+      "surface": "ישאלו",
+      "gloss": "bɛ bɛn ɲininka"
     },
     {
-      "surface": "דֶּרֶךְ",
+      "surface": "דרך",
       "gloss": "sira"
     },
     {
-      "surface": "הֵנָּה",
-      "gloss": "o fɛ"
+      "surface": "הנה",
+      "gloss": "tigatiga"
     },
     {
-      "surface": "פְּנֵיהֶם",
+      "surface": "פניהם",
       "gloss": "u ɲɛw"
     },
     {
-      "surface": "בֹּאוּ",
-      "gloss": "aw na"
+      "surface": "באו",
+      "gloss": "Iw na"
     },
     {
-      "surface": "וְנִלְווּ",
-      "gloss": "an ka tugu"
+      "surface": "ונלוו",
+      "gloss": "an ni … kɛ kelen ye"
     },
     {
-      "surface": "אֶל",
-      "gloss": "fɛ"
+      "surface": "אל",
+      "gloss": "ni"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "Yawe"
     },
     {
-      "surface": "בְּרִית",
+      "surface": "ברית",
       "gloss": "layidu"
     },
     {
-      "surface": "עוֹלָם",
-      "gloss": "tenε"
+      "surface": "עולם",
+      "gloss": "ten"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "tɛ"
     },
     {
-      "surface": "תִּשָּׁכֵחַ",
-      "gloss": "tumatɛ"
+      "surface": "תשכח",
+      "gloss": "lasɔrɔ"
     }
   ],
-  "timestamp": "2026-10-14T00:06:02.509175790Z",
+  "timestamp": "2026-10-20T15:57:20.782731087Z",
   "model": "glm-5.3"
 }

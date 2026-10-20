@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "(bagan min sa yɛrɛ la)",
-      "rationale": "gloss added to explain nevela (carcass) at first mention"
-    },
-    {
-      "kind": "elision",
-      "subject": "nevela",
-      "rationale": "Hebrew נבלה kept as loan with explanation; no single Bambara word for carrion"
-    },
-    {
-      "kind": "crux",
-      "subject": "dantɔgɔtigi \/ fula",
-      "rationale": "גר (sojourner-resident) vs נכרי (foreigner): two different statuses, rendered with two different Bambara words"
-    }
-  ],
-  "translation": "Aw tɛ nevela (bagan min sa yɛrɛ la) si dun; aw bɛn'a di dantɔgɔtigi min bɛ aw ya dagaw la, a bɛna o dun, walima aw bɛn'a nɛgɛsira fula ma; sabu aw ye siya senuma ye Yawe aw Ala ye. Aw tɛ sagaden wɔgɔsi a ba tulu kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9f5fa4d4e7042bf1b5b4f102bb65fea618a0615844d291d29dc1b99a1929c48d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/14\/21-24.1791927868750.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aw tɛ bagan kufɛ si dun; dungan min bɛ i da la, n’a di a ma, a bɛna a dun, walima i bɛ se ka a yɛlɛ jamana wɛrɛ dungan ma; sabu aw ye jama senuma ye, Yawe i Elohim de ye. Aw kana sagaden kɛji a ba tulu kɔnɔ.",
   "tokens": [
     {
       "surface": "לא",
@@ -39,19 +13,19 @@
     },
     {
       "surface": "תאכלו",
-      "gloss": "dun"
+      "gloss": "aw dun"
     },
     {
       "surface": "כל",
-      "gloss": "bɛɛ"
+      "gloss": "si"
     },
     {
       "surface": "נבלה",
-      "gloss": "nevela"
+      "gloss": "bagan kufɛ"
     },
     {
       "surface": "לגר",
-      "gloss": "dantɔgɔtigi ma"
+      "gloss": "dungan ma"
     },
     {
       "surface": "אשר",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "בשעריך",
-      "gloss": "aw ya dagaw la"
+      "gloss": "i da la"
     },
     {
       "surface": "תתננה",
-      "gloss": "aw bɛn'a di"
+      "gloss": "n’a di a ma"
     },
     {
       "surface": "ואכלה",
-      "gloss": "a bɛna o dun"
+      "gloss": "a bɛna a dun"
     },
     {
       "surface": "או",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "מכר",
-      "gloss": "nɛgɛsira"
+      "gloss": "ka a yɛlɛ"
     },
     {
       "surface": "לנכרי",
-      "gloss": "fula ma"
+      "gloss": "jamana wɛrɛ dungan ma"
     },
     {
       "surface": "כי",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "siya"
+      "gloss": "jama"
     },
     {
       "surface": "קדוש",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "aw ye"
+      "gloss": "i ye"
     },
     {
       "surface": "ליהוה",
@@ -103,15 +77,15 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "aw Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "לא",
-      "gloss": "tɛ"
+      "gloss": "kana"
     },
     {
       "surface": "תבשל",
-      "gloss": "wɔgɔsi"
+      "gloss": "kɛji"
     },
     {
       "surface": "גדי",
@@ -123,9 +97,9 @@
     },
     {
       "surface": "אמו",
-      "gloss": "a ba ta"
+      "gloss": "a ba"
     }
   ],
-  "timestamp": "2026-10-13T21:44:28.759713312Z",
+  "timestamp": "2026-10-20T13:40:32.502278528Z",
   "model": "glm-5.3"
 }

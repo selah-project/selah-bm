@@ -5,58 +5,31 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "גוי גוי",
-      "rationale": "Hebrew repeats 'nation nation' as a distributive; Bambara renders one phrase 'siya kelen-kelen' and elides the second token."
-    },
-    {
-      "kind": "substitution",
-      "subject": "bamot",
-      "gloss": "",
-      "rationale": "הבמות (high places) is a technical cultic term; transliterated 'bamot' rather than paraphrased."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גוי גוי ... גוי גוי",
-      "rationale": "The doubled 'nation-nation' frames the verse in a chiastic rhythm that flattens in Bambara."
-    }
-  ],
-  "translation": "Siya kelen-kelen ye ⟨את⟩ u ka batofɛnw dilan, ka u bila bamot so minnu kɔnɔ, minnu Shomroniw (Samari mɔgɔw) ye dilan; siya kelen-kelen bɛ u ka dɔw kɔnɔ, min kɔnɔ olu bɛ sigi yen.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e7a9fd96d5094ea5756417e9379bfc887e1595f4de89c7f600885bbe247f3c51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/17\/29-32.1791933068056.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O kɛra nka siya kelen-kelen ye ⟨a⟩ batofɛnw da, u ye u bila kɔkɔrɔda sow kɔnɔ minnu Shomeroniw (Samari mɔgɔw) ye da, siya kelen-kelen u duguw la min na u bɛ yen.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "o kɛra"
+      "gloss": "kɛra"
     },
     {
       "surface": "עשים",
-      "gloss": "dilan"
+      "gloss": "da"
     },
     {
       "surface": "גוי",
-      "gloss": "siya kelen-kelen"
+      "gloss": "siya"
     },
     {
       "surface": "גוי",
-      "gloss": ""
+      "gloss": "kelen-kelen"
     },
     {
       "surface": "אלהיו",
-      "gloss": "u ka batofɛnw"
+      "gloss": "a batofɛnw"
     },
     {
       "surface": "ויניחו",
-      "gloss": "ka ... bila"
+      "gloss": "u ye u bila"
     },
     {
       "surface": "בבית",
@@ -64,7 +37,7 @@
     },
     {
       "surface": "הבמות",
-      "gloss": "bamot"
+      "gloss": "kɔkɔrɔdaw"
     },
     {
       "surface": "אשר",
@@ -72,41 +45,41 @@
     },
     {
       "surface": "עשו",
-      "gloss": "dilan"
+      "gloss": "ye da"
     },
     {
       "surface": "השמרנים",
-      "gloss": "Shomroniw"
+      "gloss": "Shomeroniw (Samari mɔgɔw)"
     },
     {
       "surface": "גוי",
-      "gloss": "siya kelen-kelen"
+      "gloss": "siya"
     },
     {
       "surface": "גוי",
-      "gloss": ""
+      "gloss": "kelen-kelen"
     },
     {
       "surface": "בעריהם",
-      "gloss": "u ka dɔw kɔnɔ"
+      "gloss": "u duguw la"
     },
     {
       "surface": "אשר",
-      "gloss": "min kɔnɔ"
+      "gloss": "min na"
     },
     {
       "surface": "הם",
-      "gloss": "olu"
+      "gloss": "u"
     },
     {
       "surface": "ישבים",
-      "gloss": "sigi"
+      "gloss": "bɛ sigi"
     },
     {
       "surface": "שם",
       "gloss": "yen"
     }
   ],
-  "timestamp": "2026-10-13T23:11:08.060352448Z",
+  "timestamp": "2026-10-20T13:17:25.729259247Z",
   "model": "glm-5.3"
 }

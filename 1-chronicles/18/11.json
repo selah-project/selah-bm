@@ -5,41 +5,20 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ליהוה",
-      "rationale": "The preposition ל ('to') merges into the name 'Yawe' in Bambara; its case is not a separate word."
-    },
-    {
-      "kind": "substitution",
-      "subject": "y'i sigi sumala la",
-      "rationale": "הקדיש ('to make holy, to dedicate') is rendered with 'to set apart for holiness'; the concept of 'dedication' is not a simple word in Bambara."
-    }
-  ],
-  "translation": "Olu fana masakɛ Dawid y'i sigi Yawe ka sumala la, ni warigwɛ ni sanu minnu ye a bɔ siyaw bɛɛ la: Edom, Moab, Amon denw, Filestiw, ani Amalek.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "066277b9bbcae6194ed27f51edeb5a3ffad1dcec6fc970339e0bdb5bfea40b95",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/18\/10-11.1791951569866.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olu fana, masakɛ Dawid (Dawuda) ye ⟨את⟩ olu sɛgɛmɛ Yawe ma, ni warigwɛ ni sanu minnu o y'a ta siya bɛɛ la — Edom (Idumɛ), Moab, Amon denw, Pelisitiw ani Amalek fɛ.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "fana"
+      "gloss": "olu fana"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "olu"
+      "marks": "olu (minnu y'a ta)"
     },
     {
       "surface": "הקדיש",
-      "gloss": "y'i sigi … ka sumala la"
+      "gloss": "ye … sɛgɛmɛ"
     },
     {
       "surface": "המלך",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Dawid"
+      "gloss": "Dawid (Dawuda)"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yawe"
+      "gloss": "Yawe ma"
     },
     {
       "surface": "עם",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "והזהב",
-      "gloss": "sanu"
+      "gloss": "ni sanu"
     },
     {
       "surface": "אשר",
@@ -71,27 +50,27 @@
     },
     {
       "surface": "נשא",
-      "gloss": "a bɔ"
+      "gloss": "o y'a ta"
     },
     {
       "surface": "מכל",
-      "gloss": "siyaw bɛɛ la"
+      "gloss": "siya bɛɛ la"
     },
     {
       "surface": "הגוים",
-      "gloss": "siyaw"
+      "gloss": "siya"
     },
     {
       "surface": "מאדום",
-      "gloss": "Edom"
+      "gloss": "Edom (Idumɛ) fɛ"
     },
     {
       "surface": "וממואב",
-      "gloss": "Moab"
+      "gloss": "Moab fɛ"
     },
     {
       "surface": "ומבני",
-      "gloss": "…denw"
+      "gloss": "Amon denw"
     },
     {
       "surface": "עמון",
@@ -99,13 +78,13 @@
     },
     {
       "surface": "ומפלשתים",
-      "gloss": "Filestiw"
+      "gloss": "Pelisitiw"
     },
     {
       "surface": "ומעמלק",
-      "gloss": "Amalek"
+      "gloss": "Amalek fɛ"
     }
   ],
-  "timestamp": "2026-10-14T04:19:29.867795349Z",
+  "timestamp": "2026-10-20T12:47:01.584662736Z",
   "model": "glm-5.3"
 }

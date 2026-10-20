@@ -5,42 +5,11 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "faga",
-      "rationale": "לקח in v6 rendered 'kana ta' as imperative 'take' — שחט in v7 is 'slaughter' and rendered 'faga' (kill), the narrower picture lost"
-    },
-    {
-      "kind": "measurement",
-      "subject": "wolonwula saba ni mugan",
-      "rationale": "seventy counted, the number of the king's sons repeated in both verses"
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "Jehu's letter directly addresses the elders and guardians of Samaria"
-    },
-    {
-      "kind": "addition",
-      "subject": "ko",
-      "rationale": "Bambara quotative 'ko' supplied where Hebrew uses לאמר alone"
-    }
-  ],
-  "translation": "A ye sɛbɛn filanan sɛbɛn u ma, k'a fɔ ko: ni aw ye ne ta ye, ani ni aw bɛ ne ka kan mɛn, aw kana ⟨את⟩ aw ka matigi ka denw ka cɛmw ka kunw ta, k'aw na ne fɛ Yizreɛla, sini waati o de na. Masakɛ denw, mɔgɔ wolonwula saba ni mugan, ye ⟨את⟩ dugu ka kaibaaw ye, minnu b'olu ladilan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6d668264f15c14da0057f1a70c9c89f27667fac1fcf7a122f2f0075085b61aeb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/10\/6-7.1791950602261.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ye sɛbɛn filanan sɛbɛn u ma ko: ni aw ye ne ta ye, ani ni aw bɛ ne ka kan mɛn, aw k'⟨את⟩ aw ka matigiw denw ka mɔgɔw ka kunw ta, k'aw na ne fɛ, waati in na sini, Yizreɛla (Jezireɛlu) la. Masa denw, mɔgɔ wolonfila-ni-tan, dugu ka kabaw de ye ⟨את⟩ ⟨אותם⟩ mara.",
   "tokens": [
     {
       "surface": "ויכתב",
-      "gloss": "a ye sɛbɛn"
+      "gloss": "a ye sɛbɛn sɛbɛn"
     },
     {
       "surface": "אליהם",
@@ -56,7 +25,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "k'a fɔ ko"
+      "gloss": "ko"
     },
     {
       "surface": "אם",
@@ -84,12 +53,12 @@
     },
     {
       "surface": "קחו",
-      "gloss": "kana ta"
+      "gloss": "ta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aw ka matigi denw ka cɛmw ka kunw"
+      "marks": "kunw"
     },
     {
       "surface": "ראשי",
@@ -97,7 +66,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "cɛmw"
+      "gloss": "mɔgɔw"
     },
     {
       "surface": "בני",
@@ -105,11 +74,11 @@
     },
     {
       "surface": "אדניכם",
-      "gloss": "aw ka matigi"
+      "gloss": "aw ka matigiw"
     },
     {
       "surface": "ובאו",
-      "gloss": "k'aw na"
+      "gloss": "aw na"
     },
     {
       "surface": "אלי",
@@ -117,7 +86,7 @@
     },
     {
       "surface": "כעת",
-      "gloss": "waati o de"
+      "gloss": "waati in na"
     },
     {
       "surface": "מחר",
@@ -125,7 +94,7 @@
     },
     {
       "surface": "יזרעאלה",
-      "gloss": "Yizreɛla"
+      "gloss": "Yizreɛla (Jezireɛlu)"
     },
     {
       "surface": "ובני",
@@ -137,7 +106,7 @@
     },
     {
       "surface": "שבעים",
-      "gloss": "wolonwula saba ni mugan"
+      "gloss": "wolonfila-ni-tan"
     },
     {
       "surface": "איש",
@@ -146,11 +115,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dugu ka kaibaaw"
+      "marks": "dugu ka kabaw"
     },
     {
       "surface": "גדלי",
-      "gloss": "kaibaaw"
+      "gloss": "kabaw"
     },
     {
       "surface": "העיר",
@@ -158,14 +127,14 @@
     },
     {
       "surface": "מגדלים",
-      "gloss": "minnu b'olu ladilan"
+      "gloss": "mara"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "olu (masakɛ denw)"
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "denw"
     }
   ],
-  "timestamp": "2026-10-14T04:03:22.262529453Z",
+  "timestamp": "2026-10-20T13:16:03.159517077Z",
   "model": "glm-5.3"
 }

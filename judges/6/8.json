@@ -5,37 +5,11 @@
   "book": "judges",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Isirayɛldenw",
-      "rationale": "Yawe (through the nabi) addresses Israel directly: 'I brought you up…'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dankaw so",
-      "rationale": "בית עבדים 'so-min-ye-danka-so-ye' — 'house of servants', rendered 'dankaw so' (house of slaves)"
-    },
-    {
-      "kind": "addition",
-      "subject": "fɔla-kelen",
-      "rationale": "כה אמר 'nin de … b'a fɔ' — the messenger formula supplies 'de' to mark focus, which the Hebrew word order does by position"
-    }
-  ],
-  "translation": "— Yawe ye mɔgɔ dɔ, nabi, ci Isirayɛldenw ma, a y'u ko: Nin de Yawe, Isirayɛl Ala, b'a fɔ: ne ye aw ⟨את⟩ bɔli kɛ Mitsrayim (Misira) na, ani ne ye aw ⟨את⟩ fɛɛ dankaw so la bɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9967a6981aa22cecd83835b5d237f9d6b51f9fed7a88f5be998c661a4209dd8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/6\/5-8.1791929276425.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe ye mɔgɔ dɔ — nabi — ci Israyelidenw (Israyelw) ma, a y'u ye ko: Nin ko Yawe, Israyel Elohim, fɔ ye: Ne de ye ⟨את⟩ aw bila a la, ne ye aw ladala bɔ Mitsrayim (Misira) na, ani ne ye ⟨את⟩ aw bɔ cedeyaso la.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ye … ci"
+      "gloss": "ci"
     },
     {
       "surface": "יהוה",
@@ -55,27 +29,27 @@
     },
     {
       "surface": "בני",
-      "gloss": "Isirayɛldenw"
+      "gloss": "denw"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayɛl"
+      "gloss": "Israyel"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a y'u ko"
+      "gloss": "a y'u ye ko"
     },
     {
       "surface": "להם",
-      "gloss": "u"
+      "gloss": "u ye"
     },
     {
       "surface": "כה",
-      "gloss": "nin de"
+      "gloss": "nin ko"
     },
     {
       "surface": "אמר",
-      "gloss": "b'a fɔ"
+      "gloss": "fɔ"
     },
     {
       "surface": "יהוה",
@@ -83,47 +57,47 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Isirayɛl Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayɛl"
+      "gloss": "Israyel"
     },
     {
       "surface": "אנכי",
-      "gloss": "ne"
+      "gloss": "ne de"
     },
     {
       "surface": "העליתי",
-      "gloss": "ye aw bɔli kɛ"
+      "gloss": "ye aw ladala bɔ"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "aw (Isirayɛldenw)"
+      "marks": "aw (bɔ Mitsrayim na)"
     },
     {
       "surface": "ממצרים",
-      "gloss": "Mitsrayim (Misira) na"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "ואציא",
-      "gloss": "ye aw fɛɛ bɔ"
+      "gloss": "ani ne ye … bɔ"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "aw (Isirayɛldenw)"
+      "marks": "aw (bɔ cedeyaso la)"
     },
     {
       "surface": "מבית",
-      "gloss": "dankaw so la"
+      "gloss": "cedeyaso"
     },
     {
       "surface": "עבדים",
-      "gloss": "dankaw"
+      "gloss": "cedeyaw"
     }
   ],
-  "timestamp": "2026-10-13T22:07:56.433430100Z",
+  "timestamp": "2026-10-20T15:02:23.256833191Z",
   "model": "glm-5.3"
 }

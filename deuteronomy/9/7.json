@@ -5,63 +5,37 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "hakilijigi",
-      "rationale": "Imperative summons to remember — the verse hooks its hearers with a command."
-    },
-    {
-      "kind": "substitution",
-      "subject": "juguya-kɛliw",
-      "rationale": "ממרים is from מרה 'to be bitter\/rebel'; rendered as rebels (juguya-kɛliw), losing the bitterness root."
-    },
-    {
-      "kind": "measurement",
-      "subject": "don min na … fo",
-      "rationale": "The verse spans a defined time period — from the day of the exodus to arrival at this place."
-    }
-  ],
-  "translation": "Aw ye hakilijigi, aw ma a wasa min na aw ye susu ⟨את⟩ Yawe i Elohim jegɛda kɔnɔ; don min na aw ye bɔ Mitsrayim dugukolo la fo aw ka na nin yɔrɔ ma, aw tun ye juguya-kɛliw ye Yawe kɔrɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "46863c6bc441592994da4fdf1f864742047b0fcf977a2fe33a4cb8209087dc3c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/9\/5-8.1791927727571.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I m'i ka lasɔminɛ, i kana a wɔɔrɔ: ⟨את⟩ ko min kɛra — i ye Yawe, i ka Elohim, kosigi sanda kɔnɔ; don min na i bɔra Mitsrayim (Misira) dugukolo la, fo aw bɔra yan yɔrɔ la, aw tun ye ɲɛkamalenw ye ni Yawe ye.",
   "tokens": [
     {
       "surface": "זכר",
-      "gloss": "hakilijigi"
+      "gloss": "i m'i ka lasɔminɛ"
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "kana"
     },
     {
       "surface": "תשכח",
-      "gloss": "a wasa"
+      "gloss": "a wɔɔrɔ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "min na (a min na)"
+      "marks": "ko min kɛra"
     },
     {
       "surface": "אשר",
-      "gloss": "min na"
+      "gloss": "ko min"
     },
     {
       "surface": "הקצפת",
-      "gloss": "ye susu"
+      "gloss": "i ye ... kosigi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe i Elohim"
+      "marks": "Yawe, i ka Elohim"
     },
     {
       "surface": "יהוה",
@@ -69,19 +43,19 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i Elohim"
+      "gloss": "i ka Elohim"
     },
     {
       "surface": "במדבר",
-      "gloss": "jegɛda kɔnɔ"
+      "gloss": "sanda kɔnɔ"
     },
     {
       "surface": "למן",
-      "gloss": "din min na aw ye bɔ"
+      "gloss": "bɔ"
     },
     {
       "surface": "היום",
-      "gloss": "don"
+      "gloss": "don min na"
     },
     {
       "surface": "אשר",
@@ -89,11 +63,11 @@
     },
     {
       "surface": "יצאת",
-      "gloss": "aw ye bɔ"
+      "gloss": "i bɔra"
     },
     {
       "surface": "מארץ",
-      "gloss": "dugukolo"
+      "gloss": "dugukolo la"
     },
     {
       "surface": "מצרים",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "באכם",
-      "gloss": "aw ka na"
+      "gloss": "aw bɔra yan"
     },
     {
       "surface": "עד",
@@ -113,29 +87,29 @@
     },
     {
       "surface": "המקום",
-      "gloss": "yɔrɔ"
+      "gloss": "yɔrɔ la"
     },
     {
       "surface": "הזה",
-      "gloss": "nin"
+      "gloss": "yan"
     },
     {
       "surface": "ממרים",
-      "gloss": "juguya-kɛliw"
+      "gloss": "ɲɛkamalenw"
     },
     {
       "surface": "הייתם",
-      "gloss": "aw tun ye"
+      "gloss": "aw tun ye ... ye"
     },
     {
       "surface": "עם",
-      "gloss": "kɔrɔ"
+      "gloss": "ni ... ye"
     },
     {
       "surface": "יהוה",
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-13T21:42:07.580771823Z",
+  "timestamp": "2026-10-20T13:48:21.968176709Z",
   "model": "glm-5.3"
 }

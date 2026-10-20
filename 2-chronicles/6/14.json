@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Yawe",
-      "rationale": "Solomon's prayer opens with direct address to Yawe, God of Israel."
-    },
-    {
-      "kind": "elision",
-      "subject": "בכל לבם",
-      "rationale": "Literal 'with all their heart' — 'ni u dusukun bɛɛ ye' kept whole; no divergence."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמר...שמר",
-      "rationale": "'Keeper of covenant' (v14) echoes 'keep' (v15-16 שמר) — the guarding-root chains through the prayer."
-    }
-  ],
-  "translation": "A ko: Yawe, Israyɛl Ala, i n'a tɛ Ala bɛn ni i ye sankolow la ani dugukolo la, min bɛ layidu mara ani hesed i ka subagaw ma, minnu bɛ taa i ɲɛfɛ ni u dusukun bɛɛ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8cb3b022dfafc4545f4ef916adfbcd97a39cb0c515201ef917ce303806d61bdc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/6\/13-16.1791948718960.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ko: Yawe, Israel ka Elohim, Elohim min tɛ i ka nin bɔ sankolow la walima dugukolo la; min bɛ layidu ni ⟨את⟩ hesed mara i ka seremɛ-serebaw ye, minnu bɛ taama i ɲɛfɛ u dusukun bɛɛ ye.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,23 +17,23 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyɛl"
+      "gloss": "Israel"
     },
     {
       "surface": "אין",
-      "gloss": "i n'a tɛ"
+      "gloss": "si tɛ"
     },
     {
       "surface": "כמוך",
-      "gloss": "ni i ye"
+      "gloss": "i ka nin"
     },
     {
       "surface": "אלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "בשמים",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "ובארץ",
-      "gloss": "ani dugukolo la"
+      "gloss": "walima dugukolo la"
     },
     {
       "surface": "שמר",
@@ -79,15 +53,15 @@
     },
     {
       "surface": "והחסד",
-      "gloss": "ani hesed"
+      "gloss": "ni ⟨את⟩ hesed"
     },
     {
       "surface": "לעבדיך",
-      "gloss": "i ka subagaw ma"
+      "gloss": "i ka seremɛ-serebaw ye"
     },
     {
       "surface": "ההלכים",
-      "gloss": "minnu bɛ taa"
+      "gloss": "minnu bɛ taama"
     },
     {
       "surface": "לפניך",
@@ -102,6 +76,6 @@
       "gloss": "u dusukun"
     }
   ],
-  "timestamp": "2026-10-14T03:31:58.961144730Z",
+  "timestamp": "2026-10-20T13:14:56.333231494Z",
   "model": "glm-5.3"
 }

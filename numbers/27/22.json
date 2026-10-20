@@ -5,39 +5,23 @@
   "book": "numbers",
   "lang": "bm",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "object marker absorbed into 'o' — pointed at what Yawe commanded"
-    }
-  ],
-  "translation": "Moshe (Musa) ye o kɛ ka Kelen ye, i n'a fɔ Yawe ye min la a ɲini; a ye ⟨את⟩ Yehoshua (Yɔshua) ta, ka a jɔ Elazar sarakalasebaga ɲɛfɛ ani jama bɛɛ ɲɛfɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b00ac22eff1690ee6d1b9b57002958b15c6cf37929006a231829eb6992574035",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/27\/21-23.1791927096998.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Moshe (Musa) ye o kɛ ni Yawe min fɔra ⟨את⟩ ⟨a ye⟩ cogo min na; a ye ⟨את⟩ Yehoshua (Yezu) ta, ka a sigi Elazar (Elazari) sarakalasebaga ɲɛfɛ, ani jama bɛɛ ɲɛfɛ.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "ye o kɛ"
+      "gloss": "a ye o kɛ"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Moshe (Musa)"
     },
     {
       "surface": "כאשר",
-      "gloss": "i n'a fɔ …ka Kelen ye"
+      "gloss": "ni … cogo min na"
     },
     {
       "surface": "צוה",
-      "gloss": "ye min la a ɲini"
+      "gloss": "fɔra"
     },
     {
       "surface": "יהוה",
@@ -46,11 +30,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "o (a ɲiniyɔrɔ)"
+      "marks": "Moshe kɛli kɔrɔ (ויעש)"
     },
     {
       "surface": "ויקח",
-      "gloss": "ye …ta"
+      "gloss": "a ye … ta"
     },
     {
       "surface": "את",
@@ -59,11 +43,11 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehoshua"
+      "gloss": "Yehoshua (Yezu)"
     },
     {
       "surface": "ויעמדהו",
-      "gloss": "ka a jɔ"
+      "gloss": "ka a sigi"
     },
     {
       "surface": "לפני",
@@ -71,7 +55,7 @@
     },
     {
       "surface": "אלעזר",
-      "gloss": "Elazar"
+      "gloss": "Elazar (Elazari)"
     },
     {
       "surface": "הכהן",
@@ -79,7 +63,7 @@
     },
     {
       "surface": "ולפני",
-      "gloss": "ani …ɲɛfɛ"
+      "gloss": "ani … ɲɛfɛ"
     },
     {
       "surface": "כל",
@@ -90,6 +74,6 @@
       "gloss": "jama"
     }
   ],
-  "timestamp": "2026-10-13T21:31:37.000286344Z",
+  "timestamp": "2026-10-20T15:24:18.976971299Z",
   "model": "glm-5.3"
 }

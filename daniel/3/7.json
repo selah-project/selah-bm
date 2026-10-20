@@ -5,37 +5,15 @@
   "book": "daniel",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "instrument list",
-      "rationale": "vv.5 and 7 repeat the six-instrument catalogue nearly verbatim — the echo enacts the mass obedience; kept identical wording"
-    },
-    {
-      "kind": "elision",
-      "subject": "בה",
-      "gloss-rationale": "",
-      "rationale": "Aramaic pronominal particle בה ('at it\/that') folded into 'o waati na'; no separate Bambara slot"
-    }
-  ],
-  "translation": "O nɔ na, o waati na, jamanaaw bɛɛ y'a yɛlɛ karna (kɔnɔfɔli) ta kan, mashrokiti, kitaros, sabka, psanterin, ani taabolo cogo bɛɛ; jamanaaw bɛɛ, siyaw ani kankanw bɛɛ bɔra, u ye sigidali kɛ sanu delin la min Nebukadnɛtsar masakɛ daulen.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0c2d861dc09834698150ca6c0722c90defe73c889d1f681646dd10456f69a0e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/3\/5-8.1791945869896.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O cogo na, o waati la min kɔnɔ, ni jama bɛɛ mɛnna ⟨karna⟩ kan, ⟨mashrokiti⟩ kan, ⟨kitros⟩, ⟨sabka⟩, ⟨psanterin⟩, ani zemer lasɔmini bɛɛ, jama bɛɛ, siyaw ni kankɛw bɛɛ, binna ka sanu ɲɛgɛn ɲini — o ɲɛgɛn min Nebukadnesara masakɛ y'a da.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "bɛɛ"
+      "gloss": "o cogo"
     },
     {
       "surface": "קבל",
-      "gloss": "o nɔ na"
+      "gloss": "na"
     },
     {
       "surface": "דנה",
@@ -43,11 +21,11 @@
     },
     {
       "surface": "בה",
-      "gloss": ""
+      "gloss": "min kɔnɔ"
     },
     {
       "surface": "זמנא",
-      "gloss": "waati"
+      "gloss": "waati la"
     },
     {
       "surface": "כדי",
@@ -55,7 +33,7 @@
     },
     {
       "surface": "שמעין",
-      "gloss": "y'a yɛlɛ"
+      "gloss": "mɛnna"
     },
     {
       "surface": "כל",
@@ -63,15 +41,15 @@
     },
     {
       "surface": "עממיא",
-      "gloss": "jamanaaw"
+      "gloss": "jama"
     },
     {
       "surface": "קל",
-      "gloss": "ta kan"
+      "gloss": "kan"
     },
     {
       "surface": "קרנא",
-      "gloss": "karna (kɔnɔfɔli)"
+      "gloss": "karna"
     },
     {
       "surface": "משרוקיתא",
@@ -79,7 +57,7 @@
     },
     {
       "surface": "קיתרס",
-      "gloss": "kitaros"
+      "gloss": "kitros"
     },
     {
       "surface": "שבכא",
@@ -95,15 +73,15 @@
     },
     {
       "surface": "זני",
-      "gloss": "cogo"
+      "gloss": "lasɔmini"
     },
     {
       "surface": "זמרא",
-      "gloss": "taabolo"
+      "gloss": "zemer"
     },
     {
       "surface": "נפלין",
-      "gloss": "bɔra"
+      "gloss": "binna"
     },
     {
       "surface": "כל",
@@ -111,7 +89,7 @@
     },
     {
       "surface": "עממיא",
-      "gloss": "jamanaaw"
+      "gloss": "jama"
     },
     {
       "surface": "אמיא",
@@ -119,15 +97,15 @@
     },
     {
       "surface": "ולשניא",
-      "gloss": "ani kankanw"
+      "gloss": "ni kankɛw"
     },
     {
       "surface": "סגדין",
-      "gloss": "ye sigidali kɛ"
+      "gloss": "ka … ɲini"
     },
     {
       "surface": "לצלם",
-      "gloss": "delin la"
+      "gloss": "ɲɛgɛn la"
     },
     {
       "surface": "דהבא",
@@ -139,17 +117,17 @@
     },
     {
       "surface": "הקים",
-      "gloss": "daulen"
+      "gloss": "y'a da"
     },
     {
       "surface": "נבוכדנצר",
-      "gloss": "Nebukadnɛtsar"
+      "gloss": "Nebukadnesara"
     },
     {
       "surface": "מלכא",
       "gloss": "masakɛ"
     }
   ],
-  "timestamp": "2026-10-14T02:44:29.898364910Z",
+  "timestamp": "2026-10-20T13:36:36.234026948Z",
   "model": "glm-5.3"
 }

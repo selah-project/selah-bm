@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kɔrɔ",
-      "rationale": "חלצים 'loins' rendered 'kɔrɔ' (back\/loins); Bambara lacks a distinct everyday 'loins' word."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Fixed pair 'but\/rather' folded into single 'nka'; אם empty."
-    }
-  ],
-  "translation": "Nka i yɛrɛ, i tɛna so da; nka i denkɛ min bɛna bɔ i kɔrɔ la, o de na so da n tɔgɔ ye kama.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/17-20.1791932007000.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nka i yɛrɛ, i tɛna so in da, ni i denkɛ min bɛna bɔ i balo la, ale de bɛna so in da n'tɔgɔ la.",
   "tokens": [
     {
       "surface": "רק",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "תבנה",
-      "gloss": "na … da"
+      "gloss": "bɛna … da"
     },
     {
       "surface": "הבית",
-      "gloss": "so"
+      "gloss": "so in"
     },
     {
       "surface": "כי",
-      "gloss": "nka"
+      "gloss": "⟨n'i denkɛ min bɛna bɔ i balo la⟩"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "⟨…⟩"
     },
     {
       "surface": "בנך",
@@ -62,29 +41,29 @@
     },
     {
       "surface": "היצא",
-      "gloss": "min bɛna bɔ"
+      "gloss": "bɛna bɔ"
     },
     {
       "surface": "מחלציך",
-      "gloss": "i kɔrɔ la"
+      "gloss": "i balo la"
     },
     {
       "surface": "הוא",
-      "gloss": "o de"
+      "gloss": "ale de"
     },
     {
       "surface": "יבנה",
-      "gloss": "na … da"
+      "gloss": "bɛna … da"
     },
     {
       "surface": "הבית",
-      "gloss": "so"
+      "gloss": "so in"
     },
     {
       "surface": "לשמי",
-      "gloss": "n tɔgɔ ye kama"
+      "gloss": "n'tɔgɔ la"
     }
   ],
-  "timestamp": "2026-10-13T22:53:27.008132068Z",
+  "timestamp": "2026-10-20T12:57:33.186401629Z",
   "model": "glm-5.3"
 }

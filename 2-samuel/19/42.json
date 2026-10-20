@@ -5,42 +5,11 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "misirila",
-      "rationale": "גנב 'stole you' rendered 'misirila' (hid you away), the idiomatic sense of a secret taking."
-    },
-    {
-      "kind": "crux",
-      "subject": "גנבוך",
-      "rationale": "'stolen you away' literal vs 'taken you secretly' — rendered with the secrecy sense."
-    },
-    {
-      "kind": "you",
-      "subject": "to the king",
-      "rationale": "The men of Israel address David directly in second person."
-    },
-    {
-      "kind": "addition",
-      "subject": "ka bo",
-      "rationale": "Verb of crossing supplied for את הירדן ('over the Jordan')."
-    }
-  ],
-  "translation": "N'aw ye, Isirayɛl mɔgɔw bɛɛ nana masakɛ nɔ na, u ko masakɛ la: mun na i n'u ye aw balimaw, Yuda mɔgɔw, masakɛ misirila, ka bɔ a ni a so ye, ka bo Yareden (Jordani) fɛ, Dawididi (Dawuda) ka mɔgɔw bɛɛ ni a ye?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8eeeebf7c52fdde794f3ee6d0727abcca165f7c151c28e8b59c96e9a371234e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/19\/41-44.1791931467933.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka a yira, Israɛl mɔgɔw bɛɛ nana masakɛ la, k'u ko masakɛ la: Munna an ka balimaw Yuda mɔgɔw ye i ladon, ka masakɛ ⟨את⟩ ni a so ⟨את⟩ Yarden latigɛ, ani Dawid mɔgɔw bɛɛ minnu bɛ a la?",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "n'aw ye"
+      "gloss": "Ka a yira"
     },
     {
       "surface": "כל",
@@ -48,11 +17,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "mɔgɔ"
+      "gloss": "mɔgɔw"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayɛl"
+      "gloss": "Israɛl"
     },
     {
       "surface": "באים",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "nɔ na"
+      "gloss": "la"
     },
     {
       "surface": "המלך",
@@ -68,7 +37,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "u ko"
+      "gloss": "k'u ko"
     },
     {
       "surface": "אל",
@@ -80,19 +49,19 @@
     },
     {
       "surface": "מדוע",
-      "gloss": "mun na"
+      "gloss": "Munna"
     },
     {
       "surface": "גנבוך",
-      "gloss": "i misirila"
+      "gloss": "i ladon"
     },
     {
       "surface": "אחינו",
-      "gloss": "aw balimaw"
+      "gloss": "an ka balimaw"
     },
     {
       "surface": "איש",
-      "gloss": "mɔgɔ"
+      "gloss": "mɔgɔw"
     },
     {
       "surface": "יהודה",
@@ -100,7 +69,7 @@
     },
     {
       "surface": "ויעברו",
-      "gloss": "u bɔli kɛra"
+      "gloss": "latigɛ"
     },
     {
       "surface": "את",
@@ -113,7 +82,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a so"
     },
     {
@@ -123,15 +92,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yareden"
+      "marks": "Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yareden"
+      "gloss": "Yarden"
     },
     {
       "surface": "וכל",
-      "gloss": "ka bɛɛ"
+      "gloss": "bɛɛ"
     },
     {
       "surface": "אנשי",
@@ -139,13 +108,13 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dawididi"
+      "gloss": "Dawid"
     },
     {
       "surface": "עמו",
       "gloss": "ni a ye"
     }
   ],
-  "timestamp": "2026-10-13T22:44:27.935764073Z",
+  "timestamp": "2026-10-20T13:27:36.227252127Z",
   "model": "glm-5.3"
 }

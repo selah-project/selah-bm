@@ -5,66 +5,45 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "משמרת x3",
-      "rationale": "kɔlɔsili daɲɛ fila-saba ni min bɛ Layiw denw ɲɛsin — fɔli fila-fila min bɛ jasigili Bamanankan na"
-    },
-    {
-      "kind": "addition",
-      "subject": "u balimaw",
-      "rationale": "daɲɛbilaw minnu farala a kan ka kuma kɔrɔ a ye — sɛbɛnni in fɔli kelen-kelen bɛ yen"
-    }
-  ],
-  "translation": "u bɛna ⟨את⟩ kɔlɔsili mara min ye Ohel Moʿed (weleli-so) ye, ani ⟨את⟩ kɔlɔsili mara min ye fɛn senumaw ye, ani kɔlɔsili min ye Aharon denw ye — u balimaw — Yawe so baara la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a067373f8aa202fcf6112a75de42ce041add037a749b0d45536867f3dda90a35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/23\/29-32.1791948318291.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "An'u mara ⟨את⟩ lasigili min bɛkɛlen bɔyɔrɔ la, ani ⟨את⟩ lasigili yɔrɔ senuma nga, a ni lasigili Awahron denw, u balimaw, walasa k'u baara Yawe so la.",
   "tokens": [
     {
       "surface": "ושמרו",
-      "gloss": "u bɛna mara"
+      "gloss": "an'u mara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kɔlɔsili"
+      "marks": "lasigili"
     },
     {
       "surface": "משמרת",
-      "gloss": "kɔlɔsili"
+      "gloss": "lasigili"
     },
     {
       "surface": "אהל",
-      "gloss": "so (Ohel)"
+      "gloss": "so min bɛkɛlen bɔyɔrɔ la"
     },
     {
       "surface": "מועד",
-      "gloss": "Moʿed"
+      "gloss": "bɛkɛlen bɔyɔrɔ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kɔlɔsili"
+      "marks": "lasigili"
     },
     {
       "surface": "משמרת",
-      "gloss": "kɔlɔsili"
+      "gloss": "lasigili"
     },
     {
       "surface": "הקדש",
-      "gloss": "fɛn senumaw"
+      "gloss": "yɔrɔ senuma"
     },
     {
       "surface": "ומשמרת",
-      "gloss": "ani kɔlɔsili"
+      "gloss": "a ni lasigili"
     },
     {
       "surface": "בני",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon"
+      "gloss": "Awahron"
     },
     {
       "surface": "אחיהם",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "לעבדת",
-      "gloss": "baara la"
+      "gloss": "walasa k'u baara"
     },
     {
       "surface": "בית",
@@ -91,6 +70,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-14T03:25:18.292335607Z",
+  "timestamp": "2026-10-20T12:47:54.678856604Z",
   "model": "glm-5.3"
 }

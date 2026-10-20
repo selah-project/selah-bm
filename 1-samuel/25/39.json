@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "וישלח",
-      "rationale": "'David sent' — object supplied as ⟨cidenw⟩ (messengers), Hebrew leaves it implicit"
-    },
-    {
-      "kind": "crux",
-      "subject": "רב את ריב",
-      "rationale": "verb ריב with cognate object 'pleaded the plea\/contended the contest of my reproach' — 'upheld my cause' (BSB) versus 'pleaded' (KJV)"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ריב … ריב",
-      "rationale": "cognate-object construction, untranslatable repetition lost in Bambara"
-    }
-  ],
-  "translation": "Dawid ye mɛn ko Nawal sa; a ko: “Duba Yawe, min ye ⟨את⟩ n ka danganya ɲininkali sɔrɔ Nawal bolo fɛ, min ye a yɛrɛ mara ka bɔ juguya la, Yawe ye Nawal ka juguya segin a kun kan.” Dawid ye ⟨cidenw⟩ silame ka kuma Avigayil fɛ, ka ta a ka kɛ a muso ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a6fea93560bc84aa5a3671cff17ac336f52fcbc290904f6648846503a75f2b7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/25\/37-40.1791930773162.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawid ye mɛn ko Nabal sa, a ko: Yawe tɔgɔ ye duba sɔrɔ, min ye ⟨את⟩ n masiya ka jalaki Nabal bolo bɔ, ka ⟨את⟩ a dɛmebaga lase ka bɔ jugu la; ani ⟨את⟩ Nabal ka juguya, Yawe ye segin a kun kan. Dawid ye ci, a ye kuma Abigayil (Abigail) fɛ, walasa ka t'a ta a yɛrɛ ye muso ye.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "ye mɛn"
+      "gloss": "mɛn"
     },
     {
       "surface": "דוד",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "נבל",
-      "gloss": "Nawal"
+      "gloss": "Nabal"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a ko"
+      "gloss": "ko"
     },
     {
       "surface": "ברוך",
-      "gloss": "Duba sɔrɔ"
+      "gloss": "duba sɔrɔ"
     },
     {
       "surface": "יהוה",
@@ -71,50 +45,50 @@
     },
     {
       "surface": "רב",
-      "gloss": "ɲininkali sɔrɔ"
+      "gloss": "jalaki-ka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "n ka danganya ɲininkali"
+      "marks": "n masiya ka jalaki"
     },
     {
       "surface": "ריב",
-      "gloss": "ɲininkali"
+      "gloss": "jalaki"
     },
     {
       "surface": "חרפתי",
-      "gloss": "n ka danganya"
+      "gloss": "n masiya"
     },
     {
       "surface": "מיד",
-      "gloss": "bolo fɛ"
+      "gloss": "bolo"
     },
     {
       "surface": "נבל",
-      "gloss": "Nawal"
+      "gloss": "Nabal"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "a sankanbaga"
+      "marks": "a dɛmebaga"
     },
     {
       "surface": "עבדו",
-      "gloss": "a sankanbaga"
+      "gloss": "a dɛmebaga"
     },
     {
       "surface": "חשך",
-      "gloss": "mara"
+      "gloss": "lase"
     },
     {
       "surface": "מרעה",
-      "gloss": "ka bɔ juguya la"
+      "gloss": "rugu"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Nawal ka juguya"
+      "marks": "Nabal ka juguya"
     },
     {
       "surface": "רעת",
@@ -122,7 +96,7 @@
     },
     {
       "surface": "נבל",
-      "gloss": "Nawal"
+      "gloss": "Nabal"
     },
     {
       "surface": "השיב",
@@ -138,7 +112,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "ye silame"
+      "gloss": "ci"
     },
     {
       "surface": "דוד",
@@ -146,25 +120,25 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "ka kuma"
+      "gloss": "kuma"
     },
     {
       "surface": "באביגיל",
-      "gloss": "Avigayil fɛ"
+      "gloss": "Abigayil"
     },
     {
       "surface": "לקחתה",
-      "gloss": "ka ta a"
+      "gloss": "ka t'a ta"
     },
     {
       "surface": "לו",
-      "gloss": "a"
+      "gloss": "a yɛrɛ ye"
     },
     {
       "surface": "לאשה",
-      "gloss": "ka kɛ a muso ye"
+      "gloss": "muso ye"
     }
   ],
-  "timestamp": "2026-10-13T22:32:53.164204862Z",
+  "timestamp": "2026-10-20T13:03:20.412742321Z",
   "model": "glm-5.3"
 }

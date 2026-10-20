@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "thirty men",
-      "rationale": "The king specifies a count of thirty (שלשים) men for the rescue."
-    },
-    {
-      "kind": "elision",
-      "subject": "עבד מלך",
-      "rationale": "Hebrew writes the name as two bound words 'servant-of-Melek'; rendered as the single name Ebed-Melek, so the second token carries no separate gloss."
-    }
-  ],
-  "translation": "Masakɛ y'a laadi ⟨את⟩ Ebed-Melek (Abidimeleki) Kushiten ko: i bolo la mɔgɔw bisaba ta yan, k'a ɲɛ ⟨את⟩ Yeremiyahu nabi bɔ bɔlan kɔnɔ na, abaliko a ka sa.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c545f77ebf24acfa78c9dad2f778b8e2c4d75c3a7dd36f4b856e18f31174f039",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/38\/9-12.1791936067019.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masakɛ y'a da ⟨את⟩ Eved-Melek (Ebed-Melek) Kushiden ma ko: ta mɔgɔ bi-saba o yan ni i bolo ye, ka wili ⟨את⟩ Yirmeyahu (Yeremiya) nabi in bɔ kɔlɔn na, sabu a ma sa.",
   "tokens": [
     {
       "surface": "ויצוה",
-      "gloss": "y'a laadi"
+      "gloss": "y'a da"
     },
     {
       "surface": "המלך",
@@ -39,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ebed-Melek Kushiten"
+      "marks": "Eved-Melek Kushiden"
     },
     {
       "surface": "עבד",
-      "gloss": "Ebed-Melek (Abidimeleki)"
+      "gloss": "Eved"
     },
     {
       "surface": "מלך",
-      "gloss": ""
+      "gloss": "Melek"
     },
     {
       "surface": "הכושי",
-      "gloss": "Kushiten"
+      "gloss": "Kushiden"
     },
     {
       "surface": "לאמר",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "בידך",
-      "gloss": "i bolo la"
+      "gloss": "i bolo na"
     },
     {
       "surface": "מזה",
-      "gloss": "yan"
+      "gloss": "o yan"
     },
     {
       "surface": "שלשים",
-      "gloss": "mɔgɔw bisaba"
+      "gloss": "bi-saba"
     },
     {
       "surface": "אנשים",
@@ -79,20 +58,20 @@
     },
     {
       "surface": "והעלית",
-      "gloss": "k'a ɲɛ"
+      "gloss": "ka wili"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yeremiyahu nabi"
+      "marks": "Yirmeyahu nabi in"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yeremiyahu"
+      "gloss": "Yirmeyahu"
     },
     {
       "surface": "הנביא",
-      "gloss": "nabi"
+      "gloss": "nabi in"
     },
     {
       "surface": "מן",
@@ -100,17 +79,17 @@
     },
     {
       "surface": "הבור",
-      "gloss": "bɔlan kɔnɔ"
+      "gloss": "kɔlɔn"
     },
     {
       "surface": "בטרם",
-      "gloss": "abaliko"
+      "gloss": "sabu a ma"
     },
     {
       "surface": "ימות",
-      "gloss": "a ka sa"
+      "gloss": "sa"
     }
   ],
-  "timestamp": "2026-10-14T00:01:07.020126842Z",
+  "timestamp": "2026-10-20T14:43:29.367909995Z",
   "model": "glm-5.3"
 }

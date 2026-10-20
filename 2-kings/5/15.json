@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ברכה",
-      "rationale": "'blessing\/gift': KJV 'blessing', ASV\/JPS 'present\/gift'; rendered duba to keep the Hebrew word's own shape."
-    },
-    {
-      "kind": "addition",
-      "subject": "ye",
-      "rationale": "Bambara requires the predication particle 'ye' where Hebrew simply juxtaposes אין אלהים."
-    }
-  ],
-  "translation": "A seginna Ala ka motigi ma, a yɛrɛ ni a bolo bɛɛ, a nana, a jɔ a ɲɛfɛ, a ko: Nin tiɲɛ na, ne dɔn ye Ala si tɛ dugukolo bɛɛ kɔnɔ, Yisrayila (Izrayili) kɔnɔ dɔrɔn de ye. Sisan, i m'i ta duba ⟨את⟩ i baramaden bolo.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d68f7b120adcb60107dd17bd4de0339554e4ce5d7a7c8e8e889dd7101faff6a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/5\/13-16.1791932655861.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A seginna Elohim ka mɔgɔ ma, a yɛrɛ ni a daminɛtɔw bɛɛ, a nana, a jɔra a ɲɛfɛ, a ko: “Taama, sisan ne dɔnna ko Elohim si tɛ dugukolo bɛɛ kɔnɔ, Yisrayɛl de ye dɔrɔn. O la sisan, ta ⟨i n'a fɔ ninin⟩ ⟨את⟩ duba min bɛ i donmɔgɔ fɛ.”",
   "tokens": [
     {
       "surface": "וישב",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "…ma"
+      "gloss": "ma"
     },
     {
       "surface": "איש",
-      "gloss": "motigi"
+      "gloss": "mɔgɔ"
     },
     {
       "surface": "האלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "הוא",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "מחנהו",
-      "gloss": "a ka mɔgɔw"
+      "gloss": "a daminɛtɔw"
     },
     {
       "surface": "ויבא",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ויעמד",
-      "gloss": "jɔ"
+      "gloss": "jɔra"
     },
     {
       "surface": "לפניו",
@@ -70,23 +49,23 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "a ko"
     },
     {
       "surface": "הנה",
-      "gloss": "nin tiɲɛ na"
+      "gloss": "taama"
     },
     {
       "surface": "נא",
-      "gloss": "i m'i"
+      "gloss": "ninin"
     },
     {
       "surface": "ידעתי",
-      "gloss": "ne dɔn"
+      "gloss": "ne dɔnna"
     },
     {
       "surface": "כי",
-      "gloss": "ye"
+      "gloss": "ko"
     },
     {
       "surface": "אין",
@@ -94,11 +73,11 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "בכל",
-      "gloss": "bɛɛ kɔnɔ"
+      "gloss": "… kɔnɔ bɛɛ"
     },
     {
       "surface": "הארץ",
@@ -106,15 +85,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "…ko"
+      "gloss": "ko"
     },
     {
       "surface": "אם",
-      "gloss": "dɔrɔn"
+      "gloss": "dɔrɔn de"
     },
     {
       "surface": "בישראל",
-      "gloss": "Yisrayila kɔnɔ"
+      "gloss": "Yisrayɛl"
     },
     {
       "surface": "ועתה",
@@ -126,7 +105,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "i m'i"
+      "gloss": "ninin"
     },
     {
       "surface": "ברכה",
@@ -135,13 +114,13 @@
     {
       "surface": "מאת",
       "gloss": "⟨את⟩",
-      "marks": "i baramaden bolo duba"
+      "marks": "duba min bɛ i donmɔgɔ fɛ"
     },
     {
       "surface": "עבדך",
-      "gloss": "i baramaden"
+      "gloss": "i donmɔgɔ"
     }
   ],
-  "timestamp": "2026-10-13T23:04:15.869837171Z",
+  "timestamp": "2026-10-20T13:22:52.716764016Z",
   "model": "glm-5.3"
 }

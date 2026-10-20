@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "rationale": "Prefixed aleph-tav with 2mp suffix rendered as bare marker ⟨את⟩ pointing at 'aw'."
-    }
-  ],
-  "translation": "Walasa u kana kalan aw ka aw kɛ bɛɛ ye o ɲɛjuguyaw minnu kɛra u alaw (batofɛnw) la, walasa aw kana jurumu kɛ Yawe, aw Ala ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "1a1d65c0a3335f74ba6766fac2daffbabbc9c2e411125f6611a255f321d60f00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/20\/17-20.1791928048050.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Walasa u ma kalan ⟨את⟩ aw ye ka bɛɛ kɛ i n'a fɔ u ka tuyakɛraw ye, minnu kɛra u ka alaw ta ye, aw na jurumu kɛ Yawe, aw ka Elohim ta la.",
   "tokens": [
     {
       "surface": "למען",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "kana"
+      "gloss": "ma"
     },
     {
       "surface": "ילמדו",
-      "gloss": "u kalannen"
+      "gloss": "u ma kalan"
     },
     {
       "surface": "אתכם",
@@ -46,15 +30,15 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "ka kɛ"
+      "gloss": "ka bɛɛ kɛ"
     },
     {
       "surface": "ככל",
-      "gloss": "bɛɛ ye"
+      "gloss": "i n'a fɔ u ka bɛɛ"
     },
     {
       "surface": "תועבתם",
-      "gloss": "u ɲɛjuguyaw"
+      "gloss": "u ka tuyakɛraw"
     },
     {
       "surface": "אשר",
@@ -66,21 +50,21 @@
     },
     {
       "surface": "לאלהיהם",
-      "gloss": "u alaw la"
+      "gloss": "u ka alaw ta"
     },
     {
       "surface": "וחטאתם",
-      "gloss": "aw kana jurumu kɛ"
+      "gloss": "aw na jurumu kɛ"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yawe ye"
+      "gloss": "Yawe"
     },
     {
       "surface": "אלהיכם",
-      "gloss": "aw Ala"
+      "gloss": "aw ka Elohim"
     }
   ],
-  "timestamp": "2026-10-13T21:47:28.052751665Z",
+  "timestamp": "2026-10-20T13:41:02.739684197Z",
   "model": "glm-5.3"
 }

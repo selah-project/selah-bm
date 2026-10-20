@@ -5,63 +5,32 @@
   "book": "leviticus",
   "lang": "bm",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "בקרת",
-      "rationale": "Occurs only here in the Tanakh; root means examination, so 'an investigation\/inquiry shall take place' (YLT\/JPS), not KJV's 'she shall be scourged'."
-    },
-    {
-      "kind": "crux",
-      "subject": "נחרפת",
-      "rationale": "Root חרף: 'designated\/betrothed' to a man (JPS) vs 'reviled\/disgraced' (some rabbinic readings)."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "The conditional particle at verse start is absorbed into Bambara 'ni' construction."
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Case law delivered to Israel in second person; verdict given in third person."
-    }
-  ],
-  "translation": "Ni cɛ dɔ bilen ⟨את⟩ muso dɔ bilenna kisɛ la, nka a ye maya-muso ye min bɛ cɛ dɔ fɛ, a ma bɔ sanu fɛ, walima bɔboya ma di a ye — ɲinini bɛna kɛ; u tɛ sa, sabu a ma bɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/leviticus\/19\/17-20.1791927053305.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni cɛ dɔ fenben ni ⟨את⟩ muso ye, fenben kisɛ ye, a ye forobaw-muso ye min bɛla cɛ dɔ la, a wiregili ma kɛ walima bonya ma di a ye — sariya-ɲinini bɛna kɛ; u tɛ kɛ sajuguya la, sabu a ma di bonya.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "ni cɛ dɔ"
+      "gloss": "cɛ dɔ"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "ni"
     },
     {
       "surface": "ישכב",
-      "gloss": "bilen"
+      "gloss": "fenben"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "muso dɔ"
+      "marks": "muso"
     },
     {
       "surface": "אשה",
-      "gloss": "muso dɔ"
+      "gloss": "muso"
     },
     {
       "surface": "שכבת",
-      "gloss": "bilenna"
+      "gloss": "fenben"
     },
     {
       "surface": "זרע",
@@ -69,23 +38,23 @@
     },
     {
       "surface": "והוא",
-      "gloss": "nka a ye"
+      "gloss": "ale"
     },
     {
       "surface": "שפחה",
-      "gloss": "maya-muso"
+      "gloss": "forobaw-muso"
     },
     {
       "surface": "נחרפת",
-      "gloss": "min bɛ … fɛ"
+      "gloss": "bɛla"
     },
     {
       "surface": "לאיש",
-      "gloss": "cɛ dɔ"
+      "gloss": "cɛ dɔ la"
     },
     {
       "surface": "והפדה",
-      "gloss": "a ma bɔ sanu fɛ"
+      "gloss": "wiregili"
     },
     {
       "surface": "לא",
@@ -93,7 +62,7 @@
     },
     {
       "surface": "נפדתה",
-      "gloss": "bɔ sanu fɛ"
+      "gloss": "wiregi"
     },
     {
       "surface": "או",
@@ -101,7 +70,7 @@
     },
     {
       "surface": "חפשה",
-      "gloss": "bɔboya"
+      "gloss": "bonya"
     },
     {
       "surface": "לא",
@@ -117,7 +86,7 @@
     },
     {
       "surface": "בקרת",
-      "gloss": "ɲinini"
+      "gloss": "sariya-ɲinini"
     },
     {
       "surface": "תהיה",
@@ -129,7 +98,7 @@
     },
     {
       "surface": "יומתו",
-      "gloss": "sa"
+      "gloss": "sajuguya"
     },
     {
       "surface": "כי",
@@ -141,9 +110,9 @@
     },
     {
       "surface": "חפשה",
-      "gloss": "bɔ"
+      "gloss": "bonya"
     }
   ],
-  "timestamp": "2026-10-13T21:30:53.307914029Z",
+  "timestamp": "2026-10-20T15:07:53.985451116Z",
   "model": "glm-5.3"
 }

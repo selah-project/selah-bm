@@ -5,44 +5,23 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "השלכתי",
-      "rationale": "'I was cast upon you' — Hebrew idiom of entrusting oneself wholly; rendered with 'bila ne kan'."
-    },
-    {
-      "kind": "addition",
-      "subject": "don",
-      "rationale": "Bamanankan requires the copula 'don' where Hebrew simply juxtaposes 'my-God you'."
-    }
-  ],
-  "translation": "Ne y'i bila ne kan, ka bɔ dɛnso kɔnɔ; ne ba kunu kɔnɔ na, Ala, i de don ne ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/22\/9-12.1791939731420.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ne bɛ i la a bɔ na mɛrɛmi kɔnɔ; ne ba kamu kɔnɔ na, Elohim, i ye ne tigi ye.",
   "tokens": [
     {
       "surface": "עליך",
-      "gloss": "ne y'i bila ne kan"
+      "gloss": "i la"
     },
     {
       "surface": "השלכתי",
-      "gloss": "ka bɔ"
+      "gloss": "ne bɛ … bɔ na a la (ne y'a bila i la)"
     },
     {
       "surface": "מרחם",
-      "gloss": "dɛnso kɔnɔ"
+      "gloss": "mɛrɛmi kɔnɔ"
     },
     {
       "surface": "מבטן",
-      "gloss": "kunubolo"
+      "gloss": "kamu kɔnɔ"
     },
     {
       "surface": "אמי",
@@ -50,13 +29,13 @@
     },
     {
       "surface": "אלי",
-      "gloss": "Ala ne ye"
+      "gloss": "Elohim"
     },
     {
       "surface": "אתה",
-      "gloss": "i de don"
+      "gloss": "i"
     }
   ],
-  "timestamp": "2026-10-14T01:02:11.421544909Z",
+  "timestamp": "2026-10-20T15:34:42.595501255Z",
   "model": "glm-5.3"
 }

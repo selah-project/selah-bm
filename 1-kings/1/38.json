@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨U⟩",
-      "rationale": "way-element min bɛ tugu ɲɔgɔn na (צדוק…) bɛɛ jira; Heburukan ma min di"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "aleph-tav ni nɔnabila faralen (את+הוא) bɛ jira ni ⟨את⟩ ⟨a⟩ ye, a tɛ di yɔrɔ wɛrɛ"
-    }
-  ],
-  "translation": "⟨U⟩ ni sigi taa ye: Tsadok sarakalasebaga, Natan (Natani) nabi, Benayahu min ye Yehoyada den ye, ani Karetiw ani Peletiw; u ye ⟨את⟩ Shelomo bila masakɛ Dawid ka faraman kan, u y'a ta taa Gihon ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6561b2ec2175bd463c3a49a1ee05f955c81992c8af60e91b029366e1c5635614",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/1\/37-40.1791931738953.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A yɛ, Tsadok sarakalasebaga (Sadoke), Natan nabi (Natani), Benayahu (Benaji), Yehoyada denkɛ, ani Keretiw ani Peletiw, u nana, u ye ⟨את⟩ Shelomo (Solemani) bila Dawid (Dawuda) masakɛ ka bɔrɔmuso kan, u y'⟨את⟩ a taa Gichon (Giyɔn) ma.",
   "tokens": [
     {
       "surface": "וירד",
-      "gloss": "u ni sigi taa"
+      "gloss": "u nana"
     },
     {
       "surface": "צדוק",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "Natan"
+      "gloss": "ani Natan"
     },
     {
       "surface": "הנביא",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "ובניהו",
-      "gloss": "Benayahu"
+      "gloss": "ani Benayahu"
     },
     {
       "surface": "בן",
-      "gloss": "den"
+      "gloss": "denkɛ"
     },
     {
       "surface": "יהוידע",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "Karetiw"
+      "gloss": "ani Keretiw"
     },
     {
       "surface": "והפלתי",
-      "gloss": "Peletiw"
+      "gloss": "ani Peletiw"
     },
     {
       "surface": "וירכבו",
-      "gloss": "u bila … kan"
+      "gloss": "u ye ... bila ... kan"
     },
     {
       "surface": "את",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "פרדת",
-      "gloss": "faraman"
+      "gloss": "bɔrɔmuso"
     },
     {
       "surface": "המלך",
@@ -99,22 +78,22 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "u ta … taa"
+      "gloss": "u y'a taa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨a⟩",
-      "marks": "a (Shelomo)"
+      "gloss": "⟨את⟩ a",
+      "marks": "Gichon"
     },
     {
       "surface": "על",
-      "gloss": "… ma"
+      "gloss": "ma"
     },
     {
       "surface": "גחון",
-      "gloss": "Gihon"
+      "gloss": "Gichon"
     }
   ],
-  "timestamp": "2026-10-13T22:48:58.956526982Z",
+  "timestamp": "2026-10-20T12:52:02.753797893Z",
   "model": "glm-5.3"
 }

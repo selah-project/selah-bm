@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "n'i b'a fɔ",
-      "rationale": "נא politeness particle rendered as Bambara courtesy formula 'if you please'"
-    },
-    {
-      "kind": "addition",
-      "subject": "ni",
-      "rationale": "Bambara joins the three names with ni where Hebrew uses prefixed waw on שבנא and יואח"
-    }
-  ],
-  "translation": "Eliyakim ni Shebna ni Yowax ye Rab-Shake fɛ ko: n'i b'a fɔ, i kuma i ka sɔnɔdaw fɛ Aramukan na, sabu an bɛ mɛn; i kana kuma an fɛ Yudeyakan na, jama tulow la, minnu bɛ diso kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "62275601c170bfb2988ab2f712812785a6132cba61d5bb033faeb36dcb41691a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/36\/10-11.1791950690433.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Eliyakim, Shebna ani Yoah ye ko ko: Rabshake, i k'a fɔ ⟨i⟩ ka surunnuw ye Aramukan na, i tigi, sabu an bɛ mɛn; aw kana a fɔ an ye Yawudew ka kan na, mɔgɔw tulo la minnu bɛ boli kan.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ye … fɛ ko"
+      "gloss": "ye ko"
     },
     {
       "surface": "אליקים",
@@ -38,39 +17,39 @@
     },
     {
       "surface": "ושבנא",
-      "gloss": "ni Shebna"
+      "gloss": "ani Shebna"
     },
     {
       "surface": "ויואח",
-      "gloss": "ni Yowax"
+      "gloss": "ani Yoah"
     },
     {
       "surface": "אל",
-      "gloss": "… fɛ"
+      "gloss": "ko"
     },
     {
       "surface": "רב",
-      "gloss": "Rab"
+      "gloss": "Rab-"
     },
     {
       "surface": "שקה",
-      "gloss": "Shake"
+      "gloss": "shake"
     },
     {
       "surface": "דבר",
-      "gloss": "kuma"
+      "gloss": "a fɔ"
     },
     {
       "surface": "נא",
-      "gloss": "n'i b'a fɔ"
+      "gloss": "i tigi"
     },
     {
       "surface": "אל",
-      "gloss": "… fɛ"
+      "gloss": "ye"
     },
     {
       "surface": "עבדיך",
-      "gloss": "i ka sɔnɔdaw"
+      "gloss": "i ka surunnuw"
     },
     {
       "surface": "ארמית",
@@ -90,27 +69,27 @@
     },
     {
       "surface": "ואל",
-      "gloss": "kana"
+      "gloss": "aw kana"
     },
     {
       "surface": "תדבר",
-      "gloss": "kuma"
+      "gloss": "a fɔ"
     },
     {
       "surface": "אלינו",
-      "gloss": "an fɛ"
+      "gloss": "an ye"
     },
     {
       "surface": "יהודית",
-      "gloss": "Yudeyakan na"
+      "gloss": "Yawudew ka kan na"
     },
     {
       "surface": "באזני",
-      "gloss": "tulow la"
+      "gloss": "tulo la"
     },
     {
       "surface": "העם",
-      "gloss": "jama"
+      "gloss": "mɔgɔw"
     },
     {
       "surface": "אשר",
@@ -118,13 +97,13 @@
     },
     {
       "surface": "על",
-      "gloss": "… kan"
+      "gloss": "bɛ"
     },
     {
       "surface": "החומה",
-      "gloss": "diso"
+      "gloss": "boli kan"
     }
   ],
-  "timestamp": "2026-10-14T04:04:50.434797472Z",
+  "timestamp": "2026-10-20T14:29:38.109337443Z",
   "model": "glm-5.3"
 }

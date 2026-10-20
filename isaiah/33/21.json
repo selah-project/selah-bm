@@ -5,41 +5,15 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "שיט",
-      "rationale": "'oar' — appears only here in the Tanakh"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אדיר",
-      "rationale": "the same word 'mighty\/wide' opens and closes the verse, first for Yawe, then for the enemy ship"
-    },
-    {
-      "kind": "alternative",
-      "subject": "כי אם",
-      "rationale": "'but indeed' vs 'surely there' — some read the pair as one emphatic particle"
-    }
-  ],
-  "translation": "Nka tiɲɛna de, yen Yawe sebaayanen ye an ye — ji caman ni ba kɔgɔn bonyaw yɔrɔ; nsira min bɛ jɔgɛ na, o tɛ taa a kɔnɔ, nsiraba sebaayanen tɛna a lamɛn.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "49c1de37dc4119e929af2fe40b9b7dbaf8bc094d55cfddf2587564292760bbbd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/33\/21-24.1791934143545.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nka tiɲɛ na, yen Yawe, min ka se baana, bɛna kɛ ⟨an⟩ yɔrɔ ye: baji caman yɔrɔ, kɔgɔjidaw min bɛ bonya bolaw bonya; ji-nɔnabɔbaga min bɛ ta ni kpalanw ye tɛna ta a kɔnɔ, ani bago sebaaba tɛna tɛmɛ a la.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "nka"
+      "gloss": "tiɲɛ na"
     },
     {
       "surface": "אם",
-      "gloss": "tiɲɛna de"
+      "gloss": "nka"
     },
     {
       "surface": "שם",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "אדיר",
-      "gloss": "sebaayanen"
+      "gloss": "min ka se baana"
     },
     {
       "surface": "יהוה",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "an ye"
+      "gloss": "⟨an⟩"
     },
     {
       "surface": "מקום",
@@ -63,27 +37,27 @@
     },
     {
       "surface": "נהרים",
-      "gloss": "ji caman"
+      "gloss": "baji caman"
     },
     {
       "surface": "יארים",
-      "gloss": "ba kɔgɔnw"
+      "gloss": "kɔgɔjidaw"
     },
     {
       "surface": "רחבי",
-      "gloss": "bonya"
+      "gloss": "min bɛ bonya"
     },
     {
       "surface": "ידים",
-      "gloss": "bolo"
+      "gloss": "bolaw"
     },
     {
       "surface": "בל",
-      "gloss": "tɛ"
+      "gloss": "abada … tɛ"
     },
     {
       "surface": "תלך",
-      "gloss": "tɛ taa"
+      "gloss": "ta"
     },
     {
       "surface": "בו",
@@ -91,19 +65,19 @@
     },
     {
       "surface": "אני",
-      "gloss": "nsira"
+      "gloss": "ji-nɔnabɔbaga"
     },
     {
       "surface": "שיט",
-      "gloss": "jɔgɛ"
+      "gloss": "kpalanw"
     },
     {
       "surface": "וצי",
-      "gloss": "nsiraba"
+      "gloss": "ani bago"
     },
     {
       "surface": "אדיר",
-      "gloss": "sebaayanen"
+      "gloss": "sebaaba"
     },
     {
       "surface": "לא",
@@ -111,9 +85,9 @@
     },
     {
       "surface": "יעברנו",
-      "gloss": "tɛna a lamɛn"
+      "gloss": "tɛna tɛmɛ a la"
     }
   ],
-  "timestamp": "2026-10-13T23:29:03.547834770Z",
+  "timestamp": "2026-10-20T14:30:05.329347367Z",
   "model": "glm-5.3"
 }

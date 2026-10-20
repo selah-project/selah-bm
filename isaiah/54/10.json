@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 54,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ימושו\/ימוש\/תמוטנה\/תמוט",
-      "rationale": "twin roots מוש and מוט alternate in chiastic contrast — mountains shake, hesed does not; partly lost"
-    },
-    {
-      "kind": "substitution",
-      "subject": "hesed",
-      "rationale": "kept as hesed per discipline; single word 'kanuya' would be too narrow"
-    },
-    {
-      "kind": "you",
-      "subject": "i",
-      "rationale": "direct address to Zion, the comforted city"
-    }
-  ],
-  "translation": "Sabu kulukuluw bɛ se ka taa, kulu fitininw bɛ se ka ɲɛsigi, nka ⟨את⟩ ne ka hesed (kanuya-sensennu) ma bɔ ⟨את⟩ i nɔ na, ne ka hɛrɛ layidu ma ɲɛsigi, Yawe min b'i lamɛn, a y'a fɔ koŋ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b119c6431051b02e1ac2863b70b1d9a0e8f4dddb0bdfe5efd40691395e95d655",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/54\/9-12.1791934540481.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu kulow bɛna tugu bɔ, ani kɔnɔw buluw bɛna wɛrɛ; nka ne ka hesed tɛna bɔ ⟨i⟩ la ⟨את⟩, ani ne ka hɛrɛ layidu tɛna wɛrɛ, Yawe ko, min b'i lamɛn.",
   "tokens": [
     {
       "surface": "כי",
@@ -39,35 +13,32 @@
     },
     {
       "surface": "ההרים",
-      "gloss": "kulukuluw"
+      "gloss": "kulow"
     },
     {
       "surface": "ימושו",
-      "gloss": "bɛ se ka taa"
+      "gloss": "bɛna tugu bɔ"
     },
     {
       "surface": "והגבעות",
-      "gloss": "kulu fitininw"
+      "gloss": "ani kɔnɔw buluw"
     },
     {
       "surface": "תמוטנה",
-      "gloss": "bɛ se ka ɲɛsigi"
-    },
-    {
-      "surface": "ויסדתיך",
-      "gloss": "nka"
+      "gloss": "bɛna wɛrɛ"
     },
     {
       "surface": "וחסדי",
-      "gloss": "⟨את⟩ ne ka hesed"
+      "gloss": "nka ne ka hesed"
     },
     {
       "surface": "מאתך",
-      "gloss": "⟨את⟩ i nɔ na"
+      "gloss": "tɛna bɔ ⟨את⟩ i la",
+      "marks": "ne ka hesed bɔli yɔrɔ — i"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "tɛ"
     },
     {
       "surface": "ימוש",
@@ -75,23 +46,23 @@
     },
     {
       "surface": "וברית",
-      "gloss": "layidu"
+      "gloss": "ani ne ka layidu"
     },
     {
       "surface": "שלומי",
-      "gloss": "ne ka hɛrɛ"
+      "gloss": "hɛrɛ"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "tɛ"
     },
     {
       "surface": "תמוט",
-      "gloss": "ɲɛsigi"
+      "gloss": "wɛrɛ"
     },
     {
       "surface": "אמר",
-      "gloss": "a y'a fɔ"
+      "gloss": "ko"
     },
     {
       "surface": "מרחמך",
@@ -102,6 +73,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-13T23:35:40.483295881Z",
+  "timestamp": "2026-10-20T14:32:36.093378853Z",
   "model": "glm-5.3"
 }

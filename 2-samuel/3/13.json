@@ -5,41 +5,15 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "'ki im' — 'except\/unless' pair rendered by 'a ye … fo', the Hebrew double particle has no single-word match."
-    },
-    {
-      "kind": "substitution",
-      "subject": "כרת ברית",
-      "rationale": "'to cut a covenant' — the cutting picture (passing between pieces) lost; Bambara uses 'segin layidu' (return a covenant)."
-    },
-    {
-      "kind": "you",
-      "subject": "to Awner",
-      "rationale": "Dawid's reply addressed to Abner's messengers; direct speech-act with one condition."
-    }
-  ],
-  "translation": "A ko: O ka nyi, ne bɛ layidu ⟨את⟩ segin ni i ye; nka kuma kelen de ne bɛ ɲini i fɛ, ko: I kanɛ a ye i n'a fɔ i ma ɲɛ, fo i taara Mikal, Shaul (Sawulu) denmuso na, k'an ɲɛ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "65c999d0e5de395e092b7fcf926029e89116fa63a4626644362919dd51b99cc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/3\/13-16.1791930888870.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ko ko: Ɲi, ne bɛna layidu sigi ⟨את⟩ ni i ye; nka kuma kelen dɔrɔn de ne bɛ ɲini ⟨את⟩ i fɛ, ko: i kana ⟨את⟩ ne ɲɛda ye fo i tun na ⟨את⟩ Mikal (Mikalu), Shaul (Sawulu) denmuso na kɔfɛ, ni i nana ⟨את⟩ ne ɲɛda ye.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a ko"
+      "gloss": "ko"
     },
     {
       "surface": "טוב",
-      "gloss": "o ka nyi"
+      "gloss": "Ɲi"
     },
     {
       "surface": "אני",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "אכרת",
-      "gloss": "ne bɛ segin"
+      "gloss": "bɛna sigi"
     },
     {
       "surface": "אתך",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "שאל",
-      "gloss": "ɲini"
+      "gloss": "bɛ ɲini"
     },
     {
       "surface": "מאתך",
@@ -87,45 +61,45 @@
     },
     {
       "surface": "לא",
-      "gloss": "kanɛ"
+      "gloss": "kana"
     },
     {
       "surface": "תראה",
-      "gloss": "a ye"
+      "gloss": "ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i ma ɲɛ"
+      "marks": "ne ɲɛda"
     },
     {
       "surface": "פני",
-      "gloss": "i ma ɲɛ"
+      "gloss": "ɲɛda"
     },
     {
       "surface": "כי",
-      "gloss": ""
-    },
-    {
-      "surface": "אם",
-      "gloss": "a ye"
-    },
-    {
-      "surface": "לפני",
       "gloss": "fo"
     },
     {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kɔfɛ"
+    },
+    {
       "surface": "הביאך",
-      "gloss": "i taara"
+      "gloss": "i na"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mikal"
+      "marks": "Mikal, Shaul denmuso"
     },
     {
       "surface": "מיכל",
-      "gloss": "Mikal"
+      "gloss": "Mikal (Mikalu)"
     },
     {
       "surface": "בת",
@@ -137,22 +111,22 @@
     },
     {
       "surface": "בבאך",
-      "gloss": "k'i na"
+      "gloss": "i na waati"
     },
     {
       "surface": "לראות",
-      "gloss": "ka ɲɛ ye"
+      "gloss": "ka ... ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "an ɲɛ"
+      "marks": "ne ɲɛda"
     },
     {
       "surface": "פני",
-      "gloss": "an ɲɛ"
+      "gloss": "ɲɛda"
     }
   ],
-  "timestamp": "2026-10-13T22:34:48.872254248Z",
+  "timestamp": "2026-10-20T13:29:58.184655291Z",
   "model": "glm-5.3"
 }

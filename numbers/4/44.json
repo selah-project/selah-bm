@@ -5,54 +5,33 @@
   "book": "numbers",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "3200",
-      "rationale": "Census total: three thousand two hundred."
-    },
-    {
-      "kind": "addition",
-      "subject": "tun ye",
-      "rationale": "Bambara past marker added; Hebrew ויהיו rendered 'they were'."
-    }
-  ],
-  "translation": "U jatebaggaw tun ye kelen-ni-wolonwula kɔnɔtɔgɔrɔ-saba (3,200) ye u moyɔrɔw la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "fbd785972404cf5701e049876bfb3afe538f787287490bd9a006a4a01b2f54b2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/4\/41-44.1791927042708.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Anw ni jate-bagaw tɔgɔ sɛbɛn u ka denialen-musow la, u ye sɔrɔ wolonfila-kɛnɛ (3200) don: saba lasuru (3000) ni kɛnɛ fila (200).",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "tun ye"
+      "gloss": "u ye sɔrɔ"
     },
     {
       "surface": "פקדיהם",
-      "gloss": "u jatebaggaw"
+      "gloss": "jate-bagaw"
     },
     {
       "surface": "למשפחתם",
-      "gloss": "u moyɔrɔw la"
+      "gloss": "u ka denialen-musow la"
     },
     {
       "surface": "שלשת",
-      "gloss": "saba"
+      "gloss": "saba lasuru (3000)"
     },
     {
       "surface": "אלפים",
-      "gloss": "kelen-ni-wolonwula kɔnɔtɔgɔrɔ"
+      "gloss": "lasuru"
     },
     {
       "surface": "ומאתים",
-      "gloss": "kɔnɔtɔgɔrɔ-fila"
+      "gloss": "ni kɛnɛ fila (200)"
     }
   ],
-  "timestamp": "2026-10-13T21:30:42.709582380Z",
+  "timestamp": "2026-10-20T15:26:11.123462336Z",
   "model": "glm-5.3"
 }

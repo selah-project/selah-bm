@@ -5,45 +5,19 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל (token 2)",
-      "rationale": "Hebrew says 'called unto Absalom'; Bambara takes the direct object without the preposition."
-    },
-    {
-      "kind": "addition",
-      "subject": "masakɛ",
-      "rationale": "Hebrew ויקרא leaves the subject implicit; Bambara supplies the king as caller."
-    },
-    {
-      "kind": "idiom",
-      "subject": "על אפיו ארצה",
-      "rationale": "Literally 'upon his nose to the earth'; rendered as prostrating with face to the ground."
-    }
-  ],
-  "translation": "Yowab (Yowab) nana masakɛ fɛ, ka kuma min kɛra a y'a fɔ masakɛ ye; masakɛ ye Absalomu (Absarɔmu) wele, a nana masakɛ fɛ, k'a sumaya a ɲɛda ye dugukolo kan masakɛ ɲɛfɛ, masakɛ ye Absalomu ɲami.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9aeb88b74d87b032d9c9ba11d6d75d2c69e621216c7e2b685000c15dcefbeb0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/14\/33-33.1791931243862.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yowab na masakɛ la, k'a fɔ a ye. A ye Awshalom (Abisalɔmu) wele, a na masakɛ la, k'a jalaki a kun ye dugukolo kan, masakɛ ɲɛfɛ; masakɛ ye Awshalom miiri.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "nana"
+      "gloss": "na"
     },
     {
       "surface": "יואב",
-      "gloss": "Yowab (Yowab)"
+      "gloss": "Yowab"
     },
     {
       "surface": "אל",
-      "gloss": "fɛ"
+      "gloss": "…la"
     },
     {
       "surface": "המלך",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ויגד",
-      "gloss": "ka kuma min kɛra a y'a fɔ"
+      "gloss": "k'a fɔ a ye"
     },
     {
       "surface": "לו",
@@ -59,23 +33,23 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "masakɛ ye … wele"
+      "gloss": "a ye … wele"
     },
     {
       "surface": "אל",
-      "gloss": "<elided>"
+      "gloss": ""
     },
     {
       "surface": "אבשלום",
-      "gloss": "Absalomu (Absarɔmu)"
+      "gloss": "Awshalom"
     },
     {
       "surface": "ויבא",
-      "gloss": "nana"
+      "gloss": "na"
     },
     {
       "surface": "אל",
-      "gloss": "fɛ"
+      "gloss": "…la"
     },
     {
       "surface": "המלך",
@@ -83,19 +57,19 @@
     },
     {
       "surface": "וישתחו",
-      "gloss": "k'a sumaya"
+      "gloss": "k'a jalaki"
     },
     {
       "surface": "לו",
-      "gloss": "a ye"
+      "gloss": "a ɲɛfɛ"
     },
     {
       "surface": "על",
-      "gloss": "ye … kan"
+      "gloss": "kan"
     },
     {
       "surface": "אפיו",
-      "gloss": "a ɲɛda"
+      "gloss": "a kun"
     },
     {
       "surface": "ארצה",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "וישק",
-      "gloss": "ye … ɲami"
+      "gloss": "ye … miiri"
     },
     {
       "surface": "המלך",
@@ -119,9 +93,9 @@
     },
     {
       "surface": "לאבשלום",
-      "gloss": "Absalomu"
+      "gloss": "Awshalom"
     }
   ],
-  "timestamp": "2026-10-13T22:40:43.863884597Z",
+  "timestamp": "2026-10-20T13:25:05.993117518Z",
   "model": "glm-5.3"
 }

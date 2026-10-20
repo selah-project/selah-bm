@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tɔgɔsira dɔw",
-      "rationale": "מצות kɔrɔ ye min bɛ wele 'kuma min bɛ kɛ kofɛn ye' — tabali kɔnɔ 'sariya' bɛ sɔn nafa fila ma"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sariyaw",
-      "rationale": "חקות ye sariya minnu bɛ sɛbɛn, minnu ka kan ka tigɛ ni sariya ye; 'sariyaw' dɔgɔya dɔ bɛ yen"
-    }
-  ],
-  "translation": "Yuda fana ma mara ⟨את⟩ Yawe Ala Aw tɔgɔsira dɔw, a bɛ taa Isirayel sariyaw la, minnu ye u dilan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a20b12cd2146b1bea3684db4b89dc58a4d069828fa5184c98eb6b47448512664",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/17\/17-20.1791933115711.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yuda fana ma Yawe, u Elohim tɔgɔw, sariyaw mara, u tugg' Israel ka sariyaw na minnu kɛra, u ye o la k'a tugu.",
   "tokens": [
     {
       "surface": "גם",
@@ -47,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe Ala Aw tɔgɔsira dɔw"
+      "marks": "sariyaw"
     },
     {
       "surface": "מצות",
-      "gloss": "tɔgɔsira dɔw"
+      "gloss": "sariyaw"
     },
     {
       "surface": "יהוה",
@@ -59,19 +38,19 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "Ala Aw"
+      "gloss": "u Elohim tɔgɔw"
     },
     {
       "surface": "וילכו",
-      "gloss": "a bɛ taa"
+      "gloss": "u ye ... k'a tugu"
     },
     {
       "surface": "בחקות",
-      "gloss": "… sariyaw la"
+      "gloss": "ka sariyaw na"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayel"
+      "gloss": "Israel"
     },
     {
       "surface": "אשר",
@@ -79,9 +58,9 @@
     },
     {
       "surface": "עשו",
-      "gloss": "ye u dilan"
+      "gloss": "kɛra"
     }
   ],
-  "timestamp": "2026-10-13T23:11:55.722557670Z",
+  "timestamp": "2026-10-20T13:17:06.105320440Z",
   "model": "glm-5.3"
 }

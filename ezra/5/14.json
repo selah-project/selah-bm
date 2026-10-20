@@ -5,45 +5,19 @@
   "book": "ezra",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "so",
-      "rationale": "היכל (palace\/temple) and בית (house) both rendered 'so'; the Aramaic distinction of terms is lost."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨a⟩",
-      "rationale": "pronoun supplied for the one who appointed Sheshbazzar governor."
-    },
-    {
-      "kind": "elision",
-      "subject": "שמה די",
-      "rationale": "'his name was' compressed into one relative clause; Hebrew\/Aramaic idiom 'one whose name was X'."
-    }
-  ],
-  "translation": "Elohim so ka batofɛnw fana — sanu ni warigwɛ — minnu ye Nebukadnetsar bɔyɔ Yerushalayim (Jerusalɛmu) so kɔnɔ ka u ta Babilɔn so kɔnɔ, o ye Korosh masakɛ bɔ Babilɔn so kɔnɔ, ka u di Sheshbatsar ma, min tɔgɔ n-tɔgɔ ye o, min ye ⟨a⟩ kɛ paxa (dugukɔrɔkuntigi) ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a07c4da2ceeef8267fb0cd0b22fdda7c4bf63bc54d8d591390e6d80d784cf694",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/5\/13-16.1791946487627.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ani Eloah so ka sanu ni warigwɛ fɛnw, min bɔra so min na Yerushalayim la, Nebukadnetsar y'u lasɔrɔ Babilɔn so la — Kores masakɛ de ye u bɔ Babilɔn so na, ka u di Sheshbatsar ma, a tɔgɔ tiɲɛna, min ye ɲɛmɔgɔya sigi ⟨a⟩ ye.",
   "tokens": [
     {
       "surface": "ואף",
-      "gloss": "fana"
+      "gloss": "ani"
     },
     {
       "surface": "מאניא",
-      "gloss": "batofɛnw"
+      "gloss": "fɛnw"
     },
     {
       "surface": "די",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "בית",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "אלהא",
-      "gloss": "Elohim"
+      "gloss": "Eloah"
     },
     {
       "surface": "די",
-      "gloss": "—"
+      "gloss": "min"
     },
     {
       "surface": "דהבה",
@@ -67,19 +41,19 @@
     },
     {
       "surface": "די",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "נבוכדנצר",
-      "gloss": "Nebukadnetsar"
+      "gloss": "Nebukadnetsar (Nebukadnɛsɛr)"
     },
     {
       "surface": "הנפק",
-      "gloss": "y'u bɔ"
+      "gloss": "bɔra"
     },
     {
       "surface": "מן",
-      "gloss": "kɔnɔ bɔ"
+      "gloss": "-na"
     },
     {
       "surface": "היכלא",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "Yerushalayim"
+      "gloss": "Yerushalayim (Jerusalɛmu)"
     },
     {
       "surface": "והיבל",
-      "gloss": "ka u ta"
+      "gloss": "lasɔrɔ"
     },
     {
       "surface": "המו",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "להיכלא",
-      "gloss": "so kɔnɔ"
+      "gloss": "so la"
     },
     {
       "surface": "די",
@@ -115,15 +89,15 @@
     },
     {
       "surface": "הנפק",
-      "gloss": "y'a bɔ"
+      "gloss": "bɔra"
     },
     {
       "surface": "המו",
-      "gloss": "o"
+      "gloss": "u"
     },
     {
       "surface": "כורש",
-      "gloss": "Korosh"
+      "gloss": "Kores (Kuru)"
     },
     {
       "surface": "מלכא",
@@ -131,7 +105,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "kɔnɔ bɔ"
+      "gloss": "-na"
     },
     {
       "surface": "היכלא",
@@ -147,11 +121,11 @@
     },
     {
       "surface": "ויהיבו",
-      "gloss": "ka u di"
+      "gloss": "di"
     },
     {
       "surface": "לששבצר",
-      "gloss": "Sheshbatsar ma"
+      "gloss": "Sheshbatsar"
     },
     {
       "surface": "שמה",
@@ -163,13 +137,13 @@
     },
     {
       "surface": "פחה",
-      "gloss": "paxa"
+      "gloss": "ɲɛmɔgɔ"
     },
     {
       "surface": "שמה",
-      "gloss": "a y'a bila"
+      "gloss": "sigi"
     }
   ],
-  "timestamp": "2026-10-14T02:54:47.629176378Z",
+  "timestamp": "2026-10-20T15:46:40.241942791Z",
   "model": "glm-5.3"
 }

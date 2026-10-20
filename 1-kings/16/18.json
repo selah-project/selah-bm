@@ -5,42 +5,15 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ויהי",
-      "gloss-note": "",
-      "rationale": "the opening wayehi is the narrator's frame, carried by the ni-clause in Bambara"
-    },
-    {
-      "kind": "crux",
-      "subject": "burnt over him",
-      "rationale": "Hebrew says he burned the house over himself; some versions add 'burnt himself' (Geneva), Hebrew only implies his death in the fire"
-    },
-    {
-      "kind": "hapax",
-      "subject": "armon",
-      "rationale": "ארמון citadel of the royal house — a height-fortress, rendered by the Hebrew word armon rather than 'palace'"
-    }
-  ],
-  "translation": "Ni Zimri (Zimri) ye dugu minɛna, a tasa masakɛ so armon kɔnɔ, ka ⟨את⟩ masakɛ so ta ni tasuma ye a la, ka sa.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "5a664874e04aa835518fa60ab849dbce79bfde21bcd4887cf62275cb52ff12bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/16\/17-20.1791932313108.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Zimri ye dugu minɛ don ye, a naana armon na — masakɛ so kɔnɔ — a y'⟨את⟩ masakɛ so fu ni tasuma a kan, a sa.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": ""
+      "gloss": "o kɛra"
     },
     {
       "surface": "כראות",
-      "gloss": "ni ... ye ... ye"
+      "gloss": "ye"
     },
     {
       "surface": "זמרי",
@@ -52,7 +25,7 @@
     },
     {
       "surface": "נלכדה",
-      "gloss": "minɛna"
+      "gloss": "minɛ don ye"
     },
     {
       "surface": "העיר",
@@ -60,11 +33,11 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "tasa"
+      "gloss": "a naana"
     },
     {
       "surface": "אל",
-      "gloss": "kɔnɔ"
+      "gloss": "…na"
     },
     {
       "surface": "ארמון",
@@ -80,16 +53,16 @@
     },
     {
       "surface": "וישרף",
-      "gloss": "ta"
+      "gloss": "a y'a fu"
     },
     {
       "surface": "עליו",
-      "gloss": "a la"
+      "gloss": "a kan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "masakɛ so"
+      "marks": "masakɛ so (king's house)"
     },
     {
       "surface": "בית",
@@ -101,13 +74,13 @@
     },
     {
       "surface": "באש",
-      "gloss": "ni tasuma ye"
+      "gloss": "ni tasuma"
     },
     {
       "surface": "וימת",
-      "gloss": "ka sa"
+      "gloss": "a sa"
     }
   ],
-  "timestamp": "2026-10-13T22:58:33.115402648Z",
+  "timestamp": "2026-10-20T12:54:18.403301279Z",
   "model": "glm-5.3"
 }

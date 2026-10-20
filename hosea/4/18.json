@@ -5,67 +5,41 @@
   "book": "hosea",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סר סבאם",
-      "rationale": "'i ka diwɛn-minɛ bɔra a yɛrɛ la' — סור entweder 'ist vergoren\/sauer' (KJV) oder 'weicht\/vergeht' (JPS: Gelage ist vorbei); hier zweite Lesung gewählt"
-    },
-    {
-      "kind": "substitution",
-      "subject": "marabagaw",
-      "rationale": "מגניה heißt wörtlich 'ihre Schilde'; viele Übersetzer deuten zu 'ihre Beschützer\/Häuptlinge' um — Bildwaffe gegen Amtsträger"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אהבו \/ הבו",
-      "rationale": "dieselbe Wurzel אהב doppelt — 'sie lieben, lieben sie' — Wiederholung verstärkt die Anklage"
-    }
-  ],
-  "translation": "U ka diwɛn-minɛ sarati bɔla a yɛrɛ la; u jalara, jalara ko janɔgɔnya; a ka marabagaw bɛ maloya kanuya.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "623db11338dc7f46d03e3c62fb8039bbcad6eed2e692d53b58b3080dd4d302d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/hosea\/4\/17-19.1791938097947.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ka diwɛnbɔli banna; u bɛ fɛnɲɛnama kɛ fɛrɛbɛ la; a ka kurunw bɛ iya kanuya, ⟨ko⟩: “Aw di!”",
   "tokens": [
     {
       "surface": "סר",
-      "gloss": "bɔla"
+      "gloss": "banna"
     },
     {
       "surface": "סבאם",
-      "gloss": "u ka diwɛn-minɛ sarati"
+      "gloss": "u ka diwɛnbɔli"
     },
     {
       "surface": "הזנה",
-      "gloss": "jalali"
+      "gloss": "fɛnɲɛnama"
     },
     {
       "surface": "הזנו",
-      "gloss": "u jalara"
+      "gloss": "kɛ fɛrɛbɛ la"
     },
     {
       "surface": "אהבו",
-      "gloss": "bɛ kanuya"
+      "gloss": "bɛ … kanuya"
     },
     {
       "surface": "הבו",
-      "gloss": "kanuya"
+      "gloss": "Aw di"
     },
     {
       "surface": "קלון",
-      "gloss": "maloya"
+      "gloss": "iya"
     },
     {
       "surface": "מגניה",
-      "gloss": "a ka marabagaw"
+      "gloss": "a ka kurunw"
     }
   ],
-  "timestamp": "2026-10-14T00:34:57.948137893Z",
+  "timestamp": "2026-10-20T14:26:23.029869893Z",
   "model": "glm-5.3"
 }

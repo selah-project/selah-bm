@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "צבאות",
-      "rationale": "Hebrew 'Tseva'ot' (armies\/hosts) rendered as 'jonbaw tigi' (chief of armies); a title, not the Name."
-    },
-    {
-      "kind": "addition",
-      "subject": "ye",
-      "rationale": "Bambara focus marker supplied for the fronted object 'Tsefanya', Hebrew has only the preposition."
-    },
-    {
-      "kind": "you",
-      "subject": "i",
-      "rationale": "Yawe addresses Shemaiah directly ('you sent letters in your name')."
-    }
-  ],
-  "translation": "Cogo nin na Yawe, jonbaw tigi, Yisraela Ala, ko: sabu i y'i tɔgɔ ye sɛbɛnw cilan jama bɛɛ ma min bɛ Yerushalayim (Jerusalɛmu), ani Tsefanya (Sefanya) ye, Maaseya denkɛ, sarakalasebaga la, ani sarakalasebagaw bɛɛ ma, ko:",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c40a7c7739b793dfc9173434f1c7de3744cfc1690de4916a55f5cef29d64ac7f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/29\/25-28.1791935745653.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe Tsevaot, Israyel Ela Elohim, o ko cogo nin: sabu i y'i tɔgɔ ta ka sɛbɛw ci jama bɛɛ ma min bɛ Yerushalayim (Jerusalɛmu), ani Tssefanya (Sefanya) Maaseya denkɛ sarakalasebaga la, ani sarakalasebaga bɛɛ ma, ko:",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "cogo nin na"
+      "gloss": "cogo nin"
     },
     {
       "surface": "אמר",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "jonbaw tigi"
+      "gloss": "Tsevaot"
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraela"
+      "gloss": "Israyel"
     },
     {
       "surface": "לאמר",
-      "gloss": "ko"
+      "gloss": "ko:"
     },
     {
       "surface": "יען",
@@ -75,15 +49,15 @@
     },
     {
       "surface": "שלחת",
-      "gloss": "i y'a cilan"
+      "gloss": "i y'a ci"
     },
     {
       "surface": "בשמכה",
-      "gloss": "i tɔgɔ ye"
+      "gloss": "i tɔgɔ ta"
     },
     {
       "surface": "ספרים",
-      "gloss": "sɛbɛnw"
+      "gloss": "sɛbɛw"
     },
     {
       "surface": "אל",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min bɛ"
     },
     {
       "surface": "בירושלם",
@@ -107,11 +81,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ani ma"
+      "gloss": "ani"
     },
     {
       "surface": "צפניה",
-      "gloss": "Tsefanya"
+      "gloss": "Tssefanya"
     },
     {
       "surface": "בן",
@@ -127,7 +101,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ani ma"
+      "gloss": "ani"
     },
     {
       "surface": "כל",
@@ -139,9 +113,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ko"
+      "gloss": "ko:"
     }
   ],
-  "timestamp": "2026-10-13T23:55:45.654176719Z",
+  "timestamp": "2026-10-20T14:39:55.354083375Z",
   "model": "glm-5.3"
 }

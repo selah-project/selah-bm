@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גדודי × naani",
-      "rationale": "Daɲɛ kelen — גדודי — dona jugu naani kɔnɔ: Kasdim, Aram, Moab, Amon; kulu-ɲagami ninu bɛ suman Bamanankan na."
-    },
-    {
-      "kind": "crux",
-      "subject": "nabiw",
-      "rationale": "זביא bɛ sɛbɛn nabi ye (kira tɛ — o ye Muhamadu tɔgɔ-jamu ye Bamanankan la); sɛbɛnbilen Bamanankan ka Bibulu bɛ kira fɔ, o ye jɔyɔrɔ ye."
-    }
-  ],
-  "translation": "Yawe y'a ci a kan: ⟨את⟩ Kasdimw ka sofakuluw ani ⟨את⟩ Aramw ka sofakuluw ani ⟨את⟩ Moabw ka sofakuluw ani ⟨את⟩ Amon denyaw ka sofakuluw; ka u ci Yuda kan walasa ka a fa, i n'a fɔ Yawe ka kuma min fɔ a ka jonw — nabiw — bolo.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "567e3f789d38c95868f25ae4f9cfc7b22c9d5f37bb7b79e92a7853089d7a5164",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/24\/1-4.1791933405021.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe ye ⟨i n'a fɔ a yɛrɛ ye⟩ a kunbɛn ⟨את⟩ Kasiduw (Kalidiyɛnw) ka jagokɛlaw ni ⟨את⟩ Aramuw ka jagokɛlaw ni ⟨את⟩ Moabuw ka jagokɛlaw ni ⟨את⟩ Amon denw ka jagokɛlaw ci, a ye u ci Yuda (Zude) la walasa k'a tiɲɛ bɔ, i ko Yawe kuma min ye, min fɔra a ka sarakalasebaga nabiw bolo.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "y'a ci"
+      "gloss": "ye … ci"
     },
     {
       "surface": "יהוה",
@@ -38,59 +17,59 @@
     },
     {
       "surface": "בו",
-      "gloss": "a kan"
+      "gloss": "a kunbɛn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kasdimw ka sofakuluw"
+      "marks": "Kasiduw ka jagokɛlaw"
     },
     {
       "surface": "גדודי",
-      "gloss": "sofakuluw"
+      "gloss": "jagokɛlaw"
     },
     {
       "surface": "כשדים",
-      "gloss": "Kasdimw"
+      "gloss": "Kasiduw"
     },
     {
-      "surface": "ו את",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Aramw ka sofakuluw"
+      "marks": "Aramuw ka jagokɛlaw"
     },
     {
       "surface": "גדודי",
-      "gloss": "sofakuluw"
+      "gloss": "jagokɛlaw"
     },
     {
       "surface": "ארם",
-      "gloss": "Aramw"
+      "gloss": "Aramuw"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Moabw ka sofakuluw"
+      "marks": "Moabuw ka jagokɛlaw"
     },
     {
       "surface": "גדודי",
-      "gloss": "sofakuluw"
+      "gloss": "jagokɛlaw"
     },
     {
       "surface": "מואב",
-      "gloss": "Moabw"
+      "gloss": "Moabuw"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Amon denyaw ka sofakuluw"
+      "marks": "Amon denw ka jagokɛlaw"
     },
     {
       "surface": "גדודי",
-      "gloss": "sofakuluw"
+      "gloss": "jagokɛlaw"
     },
     {
       "surface": "בני",
-      "gloss": "denyaw"
+      "gloss": "denw"
     },
     {
       "surface": "עמון",
@@ -98,19 +77,19 @@
     },
     {
       "surface": "וישלחם",
-      "gloss": "ka u ci"
+      "gloss": "a ye u ci"
     },
     {
       "surface": "ביהודה",
-      "gloss": "Yuda kan"
+      "gloss": "Yuda la"
     },
     {
       "surface": "להאבידו",
-      "gloss": "walasa ka a fa"
+      "gloss": "walasa k'a tiɲɛ bɔ"
     },
     {
       "surface": "כדבר",
-      "gloss": "i n'a fɔ kuma min"
+      "gloss": "i ko Yawe kuma"
     },
     {
       "surface": "יהוה",
@@ -122,7 +101,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "fɔ"
+      "gloss": "fɔra"
     },
     {
       "surface": "ביד",
@@ -130,13 +109,13 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "a ka jonw"
+      "gloss": "a ka sarakalasebaga"
     },
     {
       "surface": "הנביאים",
       "gloss": "nabiw"
     }
   ],
-  "timestamp": "2026-10-13T23:16:45.026447402Z",
+  "timestamp": "2026-10-20T13:21:48.638172758Z",
   "model": "glm-5.3"
 }

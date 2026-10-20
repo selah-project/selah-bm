@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בגרות כמוהם",
-      "rationale": "Gerut Kimham: 'Kimham ka siginyɔrɔw' (sojournings of Kimham) versus place-name 'Gerut Kimham'; geneva\/jps keep it as a proper name."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kenie",
-      "rationale": "אצל literally 'side'; rendered as 'near'"
-    },
-    {
-      "kind": "hapax",
-      "subject": "בגרות",
-      "rationale": "Geruth occurs only here in the Tanakh as this place-name"
-    }
-  ],
-  "translation": "U taara, ka sigi Kimham (Kimham) ka siginyɔrɔw la, minnu bɛ Beti-Lɛmu (Betilɛmu) kenie, walasa ka taa ka don Misira na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "dc3d59b32113eb5938a97e0d2f888181af5d09091af49c40481e967a30cec3e4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/41\/17-18.1791936131441.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U taara, ka sigin Gerut Kimham (Kimham ka yɔrɔ siginin) min bɛ Betilɛhɛm (Betilɛmu) surun, walasa ka taa ka don Mitsrayim (Misira) kɔnɔ.",
   "tokens": [
     {
       "surface": "וילכו",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "ka sigi"
+      "gloss": "ka sigin"
     },
     {
       "surface": "בגרות",
-      "gloss": "siginyɔrɔw la"
+      "gloss": "Gerut"
     },
     {
       "surface": "כמוהם",
@@ -51,23 +25,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "אצל",
-      "gloss": "kenie"
+      "gloss": "bɛ … surun"
     },
     {
       "surface": "בית",
-      "gloss": "Beti-"
+      "gloss": "Betilɛhɛm"
     },
     {
       "surface": "לחם",
-      "gloss": "Lɛmu"
+      "gloss": "(Betilɛmu)"
     },
     {
       "surface": "ללכת",
-      "gloss": "walasa ka taa"
+      "gloss": "ka taa"
     },
     {
       "surface": "לבוא",
@@ -75,9 +49,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Misira na"
+      "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-10-14T00:02:11.442417739Z",
+  "timestamp": "2026-10-20T14:44:13.202178673Z",
   "model": "glm-5.3"
 }

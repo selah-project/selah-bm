@@ -5,40 +5,19 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתה",
-      "rationale": "aleph-tav suffix form pointing back at Tsiklag; rendered as ⟨את⟩ marker only"
-    },
-    {
-      "kind": "substitution",
-      "subject": "פשטו",
-      "rationale": "'to spread out in hostile array' rendered as fililingo kɛ (raided)"
-    }
-  ],
-  "translation": "A kɛra cogo min na: Dawid (Dawuda) ni a ka mɔgɔw nana Tsiklag (Siklag) don sabanan na, Amalekiw ye fililingo kɛ Negev (worodugu) la ani Tsiklag kan, u ye ⟨את⟩ Tsiklag gbɛ, k'u Tigɛ ni tasuma ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c5a1cae895f30f68d8204c6f76e15ef79df17cc33d17bcd369bcea9b5c53f4ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/30\/1-4.1791930776452.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O kɔrɔ yɛrɛ tun ye: Dawida (Dawid) ni a ka mɔgɔw tun bɛ Tsikɛlag (Sikilagi) na don tisinna na, Amalekitiw tun ye fɛn filili kɛ worodugu kɔnɔ ani Tsikɛlag kan, u tun dlɔra ⟨את⟩ Tsikɛlag, u tun y'a Lakodon ni ⟨את⟩ tasuma ye.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "a kɛra cogo min na"
+      "gloss": "kɔrɔ yɛrɛ tun ye"
     },
     {
       "surface": "בבא",
-      "gloss": "nana"
+      "gloss": "bɛ … na"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "Dawida"
     },
     {
       "surface": "ואנשיו",
@@ -46,67 +25,67 @@
     },
     {
       "surface": "צקלג",
-      "gloss": "Tsiklag"
+      "gloss": "Tsikɛlag"
     },
     {
       "surface": "ביום",
-      "gloss": "don"
+      "gloss": "don … na"
     },
     {
       "surface": "השלישי",
-      "gloss": "sabanan na"
+      "gloss": "tisinna"
     },
     {
       "surface": "ועמלקי",
-      "gloss": "Amalekiw"
+      "gloss": "Amalekitiw"
     },
     {
       "surface": "פשטו",
-      "gloss": "ye fililingo kɛ"
+      "gloss": "yɛ fɛn filili kɛ"
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "kɔnɔ"
     },
     {
       "surface": "נגב",
-      "gloss": "Negev"
+      "gloss": "worodugu"
     },
     {
       "surface": "ואל",
-      "gloss": "ani"
+      "gloss": "ani … kan"
     },
     {
       "surface": "צקלג",
-      "gloss": "Tsiklag kan"
+      "gloss": "Tsikɛlag"
     },
     {
       "surface": "ויכו",
-      "gloss": "u ye ... gbɛ"
+      "gloss": "u tun dlɔra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tsiklag"
+      "marks": "Tsikɛlag"
     },
     {
       "surface": "צקלג",
-      "gloss": "Tsiklag"
+      "gloss": "Tsikɛlag"
     },
     {
       "surface": "וישרפו",
-      "gloss": "k'u Tigɛ"
+      "gloss": "u tun y'a Lakodon ni … ye"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "a (Tsiklag)"
+      "marks": "a (Tsikɛlag), tasuma la"
     },
     {
       "surface": "באש",
-      "gloss": "ni tasuma ye"
+      "gloss": "tasuma"
     }
   ],
-  "timestamp": "2026-10-13T22:32:56.453626281Z",
+  "timestamp": "2026-10-20T13:04:54.921462546Z",
   "model": "glm-5.3"
 }

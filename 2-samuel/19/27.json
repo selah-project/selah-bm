@@ -5,41 +5,15 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "את (lemma אֵת)",
-      "rationale": "את in the phrase את המלך is the preposition 'with' (854), not the DO-marker (853); rendered 'masakɛ ni ne ye'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ɲagami",
-      "rationale": "אחבשה = 'ka dɔkɔrɔ ɲagami' (to prepare the donkey) — 'saddle' daɲɛ tiɲɛnen ma dɔn Bamanankan na"
-    },
-    {
-      "kind": "substitution",
-      "subject": "senw gbanen",
-      "rationale": "פסח lame = 'senw gbanen' (feet twisted) — nɔgɔya daɲɛ min bɛ faamu"
-    }
-  ],
-  "translation": "A y'a fɔ ko: ne ka Matigi masakɛ, ne ka baarabaga n'fɔlila; sabu ne ka baarabaga y'a ko: ne bɛna ne ka dɔkɔrɔ ɲagami, ka wuli ka taa ⟨את⟩ masakɛ ni ⟨ne ye⟩, sabu ne ka baarabaga ka senw gbanen.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a04090180452e9e676c5c8a3f9dd5332609c8f0a843ec820c38322b91863ce02",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/19\/25-28.1791931485378.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ko: n ka Matigi masakɛ, n denbaga ye n rayani, sabu i denbaga ye a fɔ ko: n bɛ kɔrɔ da n ye, ka gɛn a kan, ka taa ni ⟨את⟩ masakɛ ye, sabu i denbaga ye gungun don.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a y'a fɔ ko"
+      "gloss": "A ko"
     },
     {
       "surface": "אדני",
-      "gloss": "ne ka Matigi"
+      "gloss": "n ka Matigi"
     },
     {
       "surface": "המלך",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "ne ka baarabaga"
+      "gloss": "n denbaga"
     },
     {
       "surface": "רמני",
-      "gloss": "n'fɔlila"
+      "gloss": "ye n rayani"
     },
     {
       "surface": "כי",
@@ -59,39 +33,40 @@
     },
     {
       "surface": "אמר",
-      "gloss": "y'a ko"
+      "gloss": "ye a fɔ"
     },
     {
       "surface": "עבדך",
-      "gloss": "ne ka baarabaga"
+      "gloss": "i denbaga"
     },
     {
       "surface": "אחבשה",
-      "gloss": "bɛna … ɲagami"
+      "gloss": "bɛ … da (kɔrɔ sigili)"
     },
     {
       "surface": "לי",
-      "gloss": "ne ka"
+      "gloss": "n ye"
     },
     {
       "surface": "החמור",
-      "gloss": "dɔkɔrɔ"
+      "gloss": "kɔrɔ"
     },
     {
       "surface": "וארכב",
-      "gloss": "ka wuli ka taa"
+      "gloss": "ka gɛn a kan"
     },
     {
       "surface": "עליה",
-      "gloss": ""
+      "gloss": "a kan"
     },
     {
       "surface": "ואלך",
-      "gloss": "taa"
+      "gloss": "ka taa"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ masakɛ ni ⟨ne ye⟩"
+      "gloss": "⟨את⟩",
+      "marks": "masakɛ"
     },
     {
       "surface": "המלך",
@@ -103,13 +78,13 @@
     },
     {
       "surface": "פסח",
-      "gloss": "senw gbanen"
+      "gloss": "gungun"
     },
     {
       "surface": "עבדך",
-      "gloss": "ne ka baarabaga"
+      "gloss": "i denbaga"
     }
   ],
-  "timestamp": "2026-10-13T22:44:45.380468250Z",
+  "timestamp": "2026-10-20T13:27:30.712711771Z",
   "model": "glm-5.3"
 }

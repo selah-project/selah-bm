@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 72,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אמן ואמן",
-      "rationale": "Doubled Amen closes the doxology; repetition is a formal seal."
-    },
-    {
-      "kind": "substitution",
-      "subject": "jatigi",
-      "rationale": "כבוד is 'weight\/heaviness'; jatigi (honor-glory) carries the sense but not the weight image."
-    }
-  ],
-  "translation": "Ni a jatigi tɔgɔ duba bɛn le oloman; a jatigi ka faabɔ ⟨את⟩ dugukolo bɛɛ. Amin, ni Amin.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/72\/17-20.1791940679020.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Duba-na a tɔgɔ senuma, a lamɛnniya tɔgɔ, fo ɲɔgɔnfa la bɛɛ; a lamɛnniya ja kɔgɔji bɛɛ kabakɛnɛ ni ⟨את⟩ dugukolo bɛɛ ye. Amen, i ni Amen.",
   "tokens": [
     {
       "surface": "וברוך",
-      "gloss": "ni … duba bɛn"
+      "gloss": "Duba-na"
     },
     {
       "surface": "שם",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "כבודו",
-      "gloss": "a jatigi"
+      "gloss": "a lamɛnniya tɔgɔ"
     },
     {
       "surface": "לעולם",
-      "gloss": "le oloman"
+      "gloss": "fo ɲɔgɔnfa la bɛɛ"
     },
     {
       "surface": "וימלא",
-      "gloss": "ka faabɔ"
+      "gloss": "a ja kɔgɔji bɛɛ kabakɛnɛ ni"
     },
     {
       "surface": "כבודו",
-      "gloss": "a jatigi"
+      "gloss": "a lamɛnniya"
     },
     {
       "surface": "את",
@@ -67,13 +46,13 @@
     },
     {
       "surface": "אמן",
-      "gloss": "Amin"
+      "gloss": "Amen"
     },
     {
       "surface": "ואמן",
-      "gloss": "ni Amin"
+      "gloss": "i ni Amen"
     }
   ],
-  "timestamp": "2026-10-14T01:17:59.021771331Z",
+  "timestamp": "2026-10-20T15:49:35.396589430Z",
   "model": "glm-5.3"
 }

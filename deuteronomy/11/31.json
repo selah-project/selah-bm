@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Israel",
-      "rationale": "direct second-person plural address continuing the covenant speech"
-    },
-    {
-      "kind": "substitution",
-      "subject": "וישבתם",
-      "rationale": "'sit\/dwell' rendered ɲɛsigin (settle), the settled-inhabiting sense"
-    }
-  ],
-  "translation": "Sabu aw bɛ ⟨את⟩ Yarden baji faamuyɔrɔ ka taa, ka don ka minɛ ⟨את⟩ dugukolo min na, min ye Yawe aw ka Ala di aw ma; aw na ⟨את⟩ a minɛ, aw na ɲɛsigin a kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9978f515a4faab6153bf1da2c0d761a44c568117944be8af44aaca869a0b8224",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/11\/29-32.1791927883778.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu aw bɛ ⟨את⟩ Yaraden taabola, ka na ka ⟨את⟩ dugukolo minɛ — dugukolo min Yawe, aw Elohim, bɛ di aw ye — aw na ⟨את⟩ o minɛ, aw na sigi o kɔnɔ.",
   "tokens": [
     {
       "surface": "כי",
@@ -38,20 +17,20 @@
     },
     {
       "surface": "עברים",
-      "gloss": "bɛ faamuyɔrɔ"
+      "gloss": "bɛ taabola"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yarden"
+      "marks": "Yaraden"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yarden baji"
+      "gloss": "Yaraden"
     },
     {
       "surface": "לבא",
-      "gloss": "ka taa ka don"
+      "gloss": "ka na"
     },
     {
       "surface": "לרשת",
@@ -76,15 +55,15 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "aw ka Ala"
+      "gloss": "aw Elohim"
     },
     {
       "surface": "נתן",
-      "gloss": "di"
+      "gloss": "bɛ di"
     },
     {
       "surface": "לכם",
-      "gloss": "aw ma"
+      "gloss": "aw ye"
     },
     {
       "surface": "וירשתם",
@@ -92,18 +71,18 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ a",
-      "marks": "a (dugukolo)"
+      "gloss": "⟨את⟩",
+      "marks": "o (dugukolo)"
     },
     {
       "surface": "וישבתם",
-      "gloss": "aw na ɲɛsigin"
+      "gloss": "aw na sigi"
     },
     {
       "surface": "בה",
-      "gloss": "a kɔnɔ"
+      "gloss": "o kɔnɔ"
     }
   ],
-  "timestamp": "2026-10-13T21:44:43.782259488Z",
+  "timestamp": "2026-10-20T13:38:44.312203580Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "a ɲɛ na",
-      "rationale": "Hebrew בעינו says 'in his eyes'; bracketed since the pronoun reference (Yawe speaking) is supplied"
-    },
-    {
-      "kind": "you",
-      "subject": "to Dawid",
-      "rationale": "Nathan's oracle directly addresses David with second-person verbs throughout"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ŋinti",
-      "rationale": "הכית 'struck' rendered as struck-down since Uriah died by the sword"
-    }
-  ],
-  "translation": "Madu i ye Yawe ka kuma jɔsi, ka jugu kɛ ⟨a ɲɛ na⟩? ⟨את⟩ Uriya Hiitiw, i y'a ŋinti ni npan ye, wa ⟨את⟩ a muso, i y'a ta ka kɛ i muso ye, wa ⟨אתו⟩ i ye a fa ni Amon denkɛw ka npan ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6356cf0eb645372d040b72acc73c6be74b1655d3acbc9901e87d698bc5d4eaa7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/12\/9-12.1791931182976.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mun na i ye Yawe ka kuma jujugu, ka jugu kɛ a ɲɛ na? I ye ⟨את⟩ Uriya Hetiden faga ni npan ye, i ye ⟨את⟩ a muso ta ka kɛ i muso ye, a fana i ye faga ni Amɔn (Amon) denw ka npan ye.",
   "tokens": [
     {
       "surface": "מדוע",
-      "gloss": "Madu"
+      "gloss": "mun na"
     },
     {
       "surface": "בזית",
-      "gloss": "i ye … jɔsi"
+      "gloss": "jujugu"
     },
     {
       "surface": "את",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "ka … kɛ"
+      "gloss": "ka kɛ"
     },
     {
       "surface": "הרע",
@@ -69,7 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Uriya Hiitiw"
+      "marks": "Uriya Hetiden"
     },
     {
       "surface": "אוריה",
@@ -77,11 +51,11 @@
     },
     {
       "surface": "החתי",
-      "gloss": "Hiitiw"
+      "gloss": "Hetiden"
     },
     {
       "surface": "הכית",
-      "gloss": "i y'a ŋinti"
+      "gloss": "faga"
     },
     {
       "surface": "בחרב",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "wa ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a muso"
     },
     {
@@ -98,7 +72,7 @@
     },
     {
       "surface": "לקחת",
-      "gloss": "i y'a ta"
+      "gloss": "ta"
     },
     {
       "surface": "לך",
@@ -106,16 +80,16 @@
     },
     {
       "surface": "לאשה",
-      "gloss": "ka kɛ i muso ye"
+      "gloss": "muso"
     },
     {
       "surface": "ואתו",
-      "gloss": "wa ⟨אתו⟩",
-      "marks": "a"
+      "gloss": "⟨את⟩",
+      "marks": "a (Uriya)"
     },
     {
       "surface": "הרגת",
-      "gloss": "i ye a fa"
+      "gloss": "faga"
     },
     {
       "surface": "בחרב",
@@ -123,13 +97,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "denkɛw"
+      "gloss": "denw"
     },
     {
       "surface": "עמון",
-      "gloss": "Amon"
+      "gloss": "Amɔn"
     }
   ],
-  "timestamp": "2026-10-13T22:39:42.978327580Z",
+  "timestamp": "2026-10-20T13:23:46.303845468Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,16 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨A⟩",
-      "rationale": "Hebrew verb ויצו has no expressed subject; Bambara requires one (Moshe from context)."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Kɔgɔji, i tugun ni nyɛ",
-      "rationale": "Twin imperatives summon Yehoshua to courage — the commissioning charge."
-    },
-    {
-      "kind": "you",
-      "subject": "to Yehoshua",
-      "rationale": "Direct second-person address throughout: i … i ye."
-    }
-  ],
-  "translation": "⟨A⟩ ye ⟨את⟩ Yehoshua, Nun den, ƛ kalan, k'a fɔ ko: Kɔgɔji, i tugun ni nyɛ, sabu i na ⟨את⟩ Yisraɛl denyaw don dugukolo kɔnɔ min na n y'i layidu u ma; ani ne bɛna kɛ ni i ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9ccf73410e7ac0be03ffdcddd3a23d204c710ad49ab1eb3b6f803237e041935c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/31\/21-24.1791928452475.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y'a laseli Yehoshua (Yosuwe), Nun den, ma, a ko: I ye mɛnɲɛya, i ye jɔnjɔnya, sabu i ye na ⟨את⟩ Isirayeli denw blá dugukolo min na, min ma ne ye seere la u ma — ani ne, ne bɛna kɛ ni i ye.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "y'a ƛ kalan"
+      "gloss": "a y'a laseli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yehoshua, Nun den"
+      "marks": "Yehoshua"
     },
     {
       "surface": "יהושע",
@@ -56,15 +30,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "k'a fɔ ko"
+      "gloss": "a ko"
     },
     {
       "surface": "חזק",
-      "gloss": "Kɔgɔji"
+      "gloss": "i ye mɛnɲɛya"
     },
     {
       "surface": "ואמץ",
-      "gloss": "i tugun ni nyɛ"
+      "gloss": "i ye jɔnjɔnya"
     },
     {
       "surface": "כי",
@@ -76,40 +50,40 @@
     },
     {
       "surface": "תביא",
-      "gloss": "i na don"
+      "gloss": "i ye na blá"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisraɛl denyaw"
+      "marks": "Isirayeli denw"
     },
     {
       "surface": "בני",
-      "gloss": "denyaw"
+      "gloss": "denw"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraɛl"
+      "gloss": "Isirayeli"
     },
     {
       "surface": "אל",
-      "gloss": "kɔnɔ"
+      "gloss": "…na"
     },
     {
       "surface": "הארץ",
-      "gloss": "dugukolo"
+      "gloss": "dugukolo min"
     },
     {
       "surface": "אשר",
-      "gloss": "min na"
+      "gloss": "min"
     },
     {
       "surface": "נשבעתי",
-      "gloss": "n y'i layidu"
+      "gloss": "ne ye seere"
     },
     {
       "surface": "להם",
-      "gloss": "u ma"
+      "gloss": "la u ma"
     },
     {
       "surface": "ואנכי",
@@ -117,13 +91,13 @@
     },
     {
       "surface": "אהיה",
-      "gloss": "bɛna kɛ"
+      "gloss": "ne bɛna kɛ"
     },
     {
       "surface": "עמך",
       "gloss": "ni i ye"
     }
   ],
-  "timestamp": "2026-10-13T21:54:12.479756480Z",
+  "timestamp": "2026-10-20T13:44:35.747438598Z",
   "model": "glm-5.3"
 }

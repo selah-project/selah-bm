@@ -5,70 +5,49 @@
   "book": "zechariah",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הרשעה",
-      "rationale": "Feminine noun 'Wickedness' personified as the woman; rendered 'juguya', losing the feminine form."
-    },
-    {
-      "kind": "addition",
-      "subject": "kan",
-      "rationale": "Bambara needs the locative 'kan' (upon) for the stone on the mouth; Hebrew has only אל פיה."
-    }
-  ],
-  "translation": "A ko: nin ye juguya. A y'a bila eifa kɔnɔ, a ye ⟨את⟩ lɛdɛ-kabakurun bila a da kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f30b90cea97e6cd839f3d93217996b6213405041827c6678df8d97a3d87852f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/5\/5-8.1791939191325.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ye ko: O ye jurumu ye. A ye ⟨את⟩ a bila epa (sɛn min bɛ sɔgɔ dun) cɛmancɛ na, k'a ye ⟨את⟩ nɛgɛkabakurun bila a da la.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a ko"
+      "gloss": "a ye ko"
     },
     {
       "surface": "זאת",
-      "gloss": "nin"
+      "gloss": "o"
     },
     {
       "surface": "הרשעה",
-      "gloss": "juguya"
+      "gloss": "jurumu"
     },
     {
       "surface": "וישלך",
-      "gloss": "a y'a bila"
+      "gloss": "a ye ... bila"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "muso in"
+      "marks": "a (muso min ye jurumu ye)"
     },
     {
       "surface": "אל",
-      "gloss": "kɔnɔ"
+      "gloss": "..."
     },
     {
       "surface": "תוך",
-      "gloss": "datugulen"
+      "gloss": "cɛmancɛ"
     },
     {
       "surface": "האיפה",
-      "gloss": "eifa"
+      "gloss": "epa (sɛn min bɛ sɔgɔ dun)"
     },
     {
       "surface": "וישלך",
-      "gloss": "a y'a bila"
+      "gloss": "k'a ye ... bila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lɛdɛ-kabakurun"
+      "marks": "nɛgɛkabakurun"
     },
     {
       "surface": "אבן",
@@ -76,17 +55,17 @@
     },
     {
       "surface": "העפרת",
-      "gloss": "lɛdɛ"
+      "gloss": "nɛgɛ (lead)"
     },
     {
       "surface": "אל",
-      "gloss": "da kan"
+      "gloss": "..."
     },
     {
       "surface": "פיה",
       "gloss": "a da"
     }
   ],
-  "timestamp": "2026-10-14T00:53:11.326745613Z",
+  "timestamp": "2026-10-20T15:42:29.197146417Z",
   "model": "glm-5.3"
 }

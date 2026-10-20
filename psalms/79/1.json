@@ -5,70 +5,44 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 79,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "buguri kuluw",
-      "rationale": "לעיים kɔrɔ ye yɔrɔ-finyenw (kuluw) ye, 'yɔrɔ min bɛ tununen'"
-    },
-    {
-      "kind": "you",
-      "subject": "Elohim",
-      "rationale": "lairo kuma in bɛ Yawe\/Elohim wele a ka nɔnabila fɔlɔ"
-    },
-    {
-      "kind": "addition",
-      "subject": "ka kɛ … ye",
-      "rationale": "Heburukan ka 'שמו לעיים' kɔrɔ banna Bamanankan ka 'bila ka kɛ kuluw ye' ye"
-    }
-  ],
-  "translation": "Dɔnkili Asaf (dɔnkilibaga) ta ye. Elohim (Ala), jamana donkow bɛ doni i ka dɛrɛnyɔrɔ na; u ye ⟨את⟩ i ka senuma hɛikalo finya; u ye ⟨את⟩ Yerushalayim (Jerusalɛmu) bila ka kɛ buguri kuluw ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cd81df0e54f4d266d36d3234b5ea3b932259dec5977cf30a68608337529de99c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/79\/1-4.1791940893095.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sanzun-kuma Asaf (Asaph) ta. Elohim, siyaw nana i ka laidu (nakɔ) kɔnɔ, u ye ⟨את⟩ i ka sarakabɔlan senuma jɔgɔya, u y'a to Yerushalayim (Jerusalɛmu) kɛ yɔrɔ-bilibaw ye.",
   "tokens": [
     {
       "surface": "מזמור",
-      "gloss": "dɔnkili"
+      "gloss": "sanzun-kuma"
     },
     {
       "surface": "לאסף",
-      "gloss": "Asaf (dɔnkilibaga) ta"
+      "gloss": "Asaf (Asaph) ta"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim (Ala)"
+      "gloss": "Elohim"
     },
     {
       "surface": "באו",
-      "gloss": "bɛ doni"
+      "gloss": "nana"
     },
     {
       "surface": "גוים",
-      "gloss": "jamana donkow"
+      "gloss": "siyaw"
     },
     {
       "surface": "בנחלתך",
-      "gloss": "i ka dɛrɛnyɔrɔ na"
+      "gloss": "i ka laidu (nakɔ) kɔnɔ"
     },
     {
       "surface": "טמאו",
-      "gloss": "u ye … finya"
+      "gloss": "u ye … jɔgɔya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i ka senuma hɛikalo"
+      "marks": "i ka sarakabɔlan senuma"
     },
     {
       "surface": "היכל",
-      "gloss": "hɛikalo"
+      "gloss": "sarakabɔlan"
     },
     {
       "surface": "קדשך",
@@ -76,12 +50,12 @@
     },
     {
       "surface": "שמו",
-      "gloss": "u ye … bila"
+      "gloss": "u y'a to … kɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yerushalayim"
+      "marks": "Yerushalayim (Jerusalɛmu)"
     },
     {
       "surface": "ירושלם",
@@ -89,9 +63,9 @@
     },
     {
       "surface": "לעיים",
-      "gloss": "buguri kuluw"
+      "gloss": "yɔrɔ-bilibaw ye"
     }
   ],
-  "timestamp": "2026-10-14T01:21:33.095738521Z",
+  "timestamp": "2026-10-20T15:39:59.610043210Z",
   "model": "glm-5.3"
 }

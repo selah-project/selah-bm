@@ -5,46 +5,20 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גר\/גרים",
-      "rationale": "same root commands love of the stranger and grounds it in Israel's own sojourn; the repetition is kept with dansogow twice"
-    },
-    {
-      "kind": "invitation",
-      "subject": "aw",
-      "rationale": "direct plural imperative addressed to Israel"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "second-person plural command"
-    }
-  ],
-  "translation": "Aw kanuya dansogow na, sabu aw yera dansogow ye Mitsrayim (Misira) dugukolo la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "aebc11574bce9319c4d9dd6f88e993e33296a5a15c24dadbdf77a1b9ebf0a51f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/10\/17-20.1791927696665.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aw ka ⟨את⟩ duguden kanuya, sabu aw ye dugudenw ye Mitsrayim (Misira) dugukolo la.",
   "tokens": [
     {
       "surface": "ואהבתם",
-      "gloss": "aw kanuya"
+      "gloss": "aw ka kanuya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dansogow"
+      "marks": "duguden"
     },
     {
       "surface": "הגר",
-      "gloss": "dansogow"
+      "gloss": "duguden"
     },
     {
       "surface": "כי",
@@ -52,11 +26,11 @@
     },
     {
       "surface": "גרים",
-      "gloss": "dansogow"
+      "gloss": "dugudenw"
     },
     {
       "surface": "הייתם",
-      "gloss": "aw yera ... ye"
+      "gloss": "aw ye … ye"
     },
     {
       "surface": "בארץ",
@@ -67,6 +41,6 @@
       "gloss": "Mitsrayim (Misira)"
     }
   ],
-  "timestamp": "2026-10-13T21:41:36.675105302Z",
+  "timestamp": "2026-10-20T13:38:12.018789507Z",
   "model": "glm-5.3"
 }

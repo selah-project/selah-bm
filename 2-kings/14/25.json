@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nabi",
-      "rationale": "הנביא bayɛlɛmali ye nabi ye — kira bɛ ban, sabu Kira ye Muhamadu jamu ye Bamanankan la"
-    },
-    {
-      "kind": "idiom",
-      "subject": "bolo fɛ",
-      "rationale": "ביד ('bolo fɛ') ye Heburukan ka daɲɛye min kɔrɔ ye 'a fɛ\/cogo min na' — masin kɔnɔ, bolo datugulen ye a yɛrɛ ye"
-    },
-    {
-      "kind": "measurement",
-      "subject": "dannu lase",
-      "rationale": "Yɛlɛma bɛ Kɔrɛ kabakuruw (borders) ɲɛnabɔli la: Hamat ka don yɔrɔ ka se Araba kɔgɔji ma"
-    }
-  ],
-  "translation": "A ye ⟨את⟩ Yisrayɛl (Isirayɛl) ka dannu lase, min bɛ Hamat ka don yɔrɔ la, ka se Araba kɔgɔji ma, i n'a fɔ Yawe, Yisrayɛl ka Ala, ka kuma min fɔra a ka sansan Yonah (Yunusa), Amitay denkɛ, nabi in fɛ, min bɛ Gat-Hefɛr (Gat-Hefɛr) na, kuma kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "479a59ea510fe65ebabee4d75c1dd56c6f83450e278c0e64a3758a852c8e7102",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/14\/25-26.1791950738812.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y'a segin: ⟨את⟩ Isiraɛlɛ ka dan, Hamat ka don yɔrɔbɔ fɔlɔ ka se Araba kɔgɔji ma — i n'a fɔ Yawe, Isiraɛlɛ ka Elohim, fɔlen o kuma nin ⟨a⟩ bolo fɛ, ni a ka baarakebaga Yona ye, Amitay den, nabi di min bɛ Gat-Hefɛr (Gat-Hefɛr) na.",
   "tokens": [
     {
       "surface": "הוא",
@@ -39,24 +13,24 @@
     },
     {
       "surface": "השיב",
-      "gloss": "lase"
+      "gloss": "y'a segin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisrayɛl ka dannu"
+      "marks": "Isiraɛlɛ ka dan"
     },
     {
       "surface": "גבול",
-      "gloss": "dannu"
+      "gloss": "dan"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrayɛl"
+      "gloss": "Isiraɛlɛ"
     },
     {
       "surface": "מלבוא",
-      "gloss": "don yɔrɔ"
+      "gloss": "don yɔrɔbɔ"
     },
     {
       "surface": "חמת",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "fo"
+      "gloss": "ka se … ma"
     },
     {
       "surface": "ים",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "כדבר",
-      "gloss": "i n'a fɔ kuma"
+      "gloss": "i n'a fɔ … kuma"
     },
     {
       "surface": "יהוה",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrayɛl"
+      "gloss": "Isiraɛlɛ"
     },
     {
       "surface": "אשר",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "fɔ"
+      "gloss": "fɔlen"
     },
     {
       "surface": "ביד",
@@ -104,15 +78,15 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "a ka sansan"
+      "gloss": "a ka baarakebaga"
     },
     {
       "surface": "יונה",
-      "gloss": "Yonah (Yunusa)"
+      "gloss": "Yona"
     },
     {
       "surface": "בן",
-      "gloss": "denkɛ"
+      "gloss": "den"
     },
     {
       "surface": "אמתי",
@@ -128,13 +102,13 @@
     },
     {
       "surface": "מגת",
-      "gloss": "Gat-"
+      "gloss": "bɛ"
     },
     {
       "surface": "החפר",
-      "gloss": "Hefɛr"
+      "gloss": "Gat-Hefɛr"
     }
   ],
-  "timestamp": "2026-10-14T04:05:38.813549847Z",
+  "timestamp": "2026-10-20T13:17:53.327894744Z",
   "model": "glm-5.3"
 }

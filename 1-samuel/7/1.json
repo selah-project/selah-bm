@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בגבעה",
-      "rationale": "Place name Gibeah vs common noun 'on the hill' (KJV, JPS 'in the hill'; YLT 'in the height')."
-    },
-    {
-      "kind": "substitution",
-      "subject": "sanduku",
-      "rationale": "ארון is literally a box\/chest; rendered with the plain noun, not a cultic title."
-    }
-  ],
-  "translation": "Ani Kiriyat-Yearim mɔgɔw nana, ka ⟨את⟩ Yawe ka sanduku sanfɛ bɔ, ka ⟨את⟩ a bila Avinadab so la, kulu kan, ani ⟨את⟩ a denkɛ Elazar u y'a bilala senuma ye, walasa ka ⟨את⟩ Yawe ka sanduku kɔlɔsi.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "82bf4cc362d47d076227c6d60fb60d9f18f9d866641eab4f0559b09e12a3bce9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/7\/1-4.1791930065920.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kiriyat Yealim (Kiriyat-Yealim) mɔgɔw nana, u y'⟨את⟩ Yawe ka adala laso, u y'a na Awinadab so la, kulu kan, u ye ⟨את⟩ Elazar a denkɛ kɛ senumaw ye walasa k'⟨את⟩ Yawe ka adala mara.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -38,24 +17,24 @@
     },
     {
       "surface": "קרית",
-      "gloss": "Kiriyat-"
+      "gloss": "Kiriyat"
     },
     {
       "surface": "יערים",
-      "gloss": "Yearim"
+      "gloss": "Yealim"
     },
     {
       "surface": "ויעלו",
-      "gloss": "sanfɛ bɔ"
+      "gloss": "laso"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe ka sanduku"
+      "marks": "Yawe ka adala"
     },
     {
       "surface": "ארון",
-      "gloss": "sanduku"
+      "gloss": "adala"
     },
     {
       "surface": "יהוה",
@@ -63,16 +42,16 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "ka a bila"
+      "gloss": "u y'a na"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "a (sanduku in)"
+      "gloss": "⟨אתו⟩",
+      "marks": "Awinadab so la"
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "…la"
     },
     {
       "surface": "בית",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "אבינדב",
-      "gloss": "Avinadab"
+      "gloss": "Awinadab"
     },
     {
       "surface": "בגבעה",
@@ -89,7 +68,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Elazar"
+      "marks": "Elazar a denkɛ"
     },
     {
       "surface": "אלעזר",
@@ -101,26 +80,26 @@
     },
     {
       "surface": "קדשו",
-      "gloss": "u y'a bilala senuma ye"
+      "gloss": "kɛ senumaw ye"
     },
     {
       "surface": "לשמר",
-      "gloss": "walasa ka kɔlɔsi"
+      "gloss": "walasa k…mara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe ka sanduku"
+      "marks": "Yawe ka adala"
     },
     {
       "surface": "ארון",
-      "gloss": "sanduku"
+      "gloss": "adala"
     },
     {
       "surface": "יהוה",
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-13T22:21:05.921583915Z",
+  "timestamp": "2026-10-20T13:06:12.185557861Z",
   "model": "glm-5.3"
 }

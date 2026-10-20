@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sariya",
-      "rationale": "משפט is a judicial verdict\/judgment, not 'law' — the king's ruling; context decides between the two senses"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שפט \/ משפט",
-      "rationale": "root repetition 'the judgment which the king had judged… to do judgment' — untranslatable verbal echo"
-    }
-  ],
-  "translation": "Yiselaɛli bɛɛ Yawe sariya min datugulen masakɛ fɛ, o mɛn; u siran masakɛ ma, sabu u y'a ye ko Elohim ka hakilitigiya bɛ a kɔnɔ, ka sariya kɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ecdd2f0eb860736a6866a395935254e30403f39ef7e60882d270ade41a63d6de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/3\/25-28.1791931729770.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yisraɛl ka mɔgɔw bɛɛ y'a mɛn ⟨את⟩ sariya-kɛ cogo min na masakɛ y'o kɛ, u y'a siran masakɛ la, sabu u y'a ye ko Elohim ka hakilitoo bɛ a kɔnɔ walasa ka sariya kɛ.",
   "tokens": [
     {
       "surface": "וישמעו",
-      "gloss": "mɛn"
+      "gloss": "u y'a mɛn"
     },
     {
       "surface": "כל",
@@ -38,16 +17,16 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yiselaɛli"
+      "gloss": "Yisraɛl"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sariya"
+      "marks": "sariya-kɛ cogo (המשפט)"
     },
     {
       "surface": "המשפט",
-      "gloss": "sariya"
+      "gloss": "sariya-kɛ cogo"
     },
     {
       "surface": "אשר",
@@ -55,19 +34,19 @@
     },
     {
       "surface": "שפט",
-      "gloss": "datugulen"
+      "gloss": "y'o kɛ"
     },
     {
       "surface": "המלך",
-      "gloss": "masakɛ fɛ"
+      "gloss": "masakɛ"
     },
     {
       "surface": "ויראו",
-      "gloss": "siran"
+      "gloss": "u y'a siran"
     },
     {
       "surface": "מפני",
-      "gloss": "ma"
+      "gloss": "…la"
     },
     {
       "surface": "המלך",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "ראו",
-      "gloss": "u y'a ye ko"
+      "gloss": "u y'a ye"
     },
     {
       "surface": "כי",
@@ -87,11 +66,11 @@
     },
     {
       "surface": "חכמת",
-      "gloss": "hakilitigiya"
+      "gloss": "hakilitoo"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim ka"
+      "gloss": "Elohim"
     },
     {
       "surface": "בקרבו",
@@ -99,13 +78,13 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "kɛ"
+      "gloss": "walasa ka … kɛ"
     },
     {
       "surface": "משפט",
       "gloss": "sariya"
     }
   ],
-  "timestamp": "2026-10-13T22:48:49.772830941Z",
+  "timestamp": "2026-10-20T12:56:31.564601018Z",
   "model": "glm-5.3"
 }

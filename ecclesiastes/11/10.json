@@ -5,41 +5,15 @@
   "book": "ecclesiastes",
   "lang": "bm",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "kɔngɔ",
-      "rationale": "כעס rendered 'vexation\/anger' (kɔngɔ) vs KJV 'sorrow' — the Hebrew word is closer to irritation"
-    },
-    {
-      "kind": "hapax",
-      "subject": "והשחרות",
-      "rationale": "השחרות 'the blackness (of hair)' \/ dawn of youth appears only here; rendered 'kɛnɛmaya sanw' (youth's hairs)"
-    },
-    {
-      "kind": "substitution",
-      "subject": "hevel",
-      "rationale": "הבל kept as hevel (breath\/vapor) rather than reduced to a single word like 'vanity'"
-    }
-  ],
-  "translation": "Ka kɔngɔ bɔ i dusukun na, ka juguya bɔ i farisogo la; sabu denbaya ni kɛnɛmaya sanw ye hevel ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d0fe947a63be6ceb1beeb541f4064d9df7138f79485a4fdf75245efc0e57cfd8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/11\/9-10.1791945373549.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I ka kaasabali bɔ i dusukun na, ani i ka juguya bɔ i sogo la, sabu denyɔrɔ ni wolo-sɔrɔ-fɔlɔ ye fɛn dɔgɔnnenw ye.",
   "tokens": [
     {
       "surface": "והסר",
-      "gloss": "ka ... bɔ"
+      "gloss": "i ka bɔ"
     },
     {
       "surface": "כעס",
-      "gloss": "kɔngɔ"
+      "gloss": "kaasabali"
     },
     {
       "surface": "מלבך",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "והעבר",
-      "gloss": "ka ... bɔ"
+      "gloss": "ka bɔ"
     },
     {
       "surface": "רעה",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "מבשרך",
-      "gloss": "i farisogo la"
+      "gloss": "i sogo la"
     },
     {
       "surface": "כי",
@@ -63,17 +37,17 @@
     },
     {
       "surface": "הילדות",
-      "gloss": "denbaya"
+      "gloss": "denyɔrɔ"
     },
     {
       "surface": "והשחרות",
-      "gloss": "kɛnɛmaya sanw"
+      "gloss": "wolo-sɔrɔ-fɔlɔ"
     },
     {
       "surface": "הבל",
-      "gloss": "hevel"
+      "gloss": "fɛn dɔgɔnnenw"
     }
   ],
-  "timestamp": "2026-10-14T02:36:13.550020566Z",
+  "timestamp": "2026-10-20T13:48:10.382670254Z",
   "model": "glm-5.3"
 }

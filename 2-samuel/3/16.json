@@ -5,36 +5,16 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הלוך ובכה",
-      "gloss": "'going and weeping' — infinitive-absolute chain, doubled verbs marking continuous action; rendered 'a bɛ taa ka bansu'."
-    },
-    {
-      "kind": "you",
-      "subject": "to Paltiel",
-      "rationale": "Abner's abrupt dismissal of the weeping husband: two-word imperative ends the marriage."
-    }
-  ],
-  "translation": "A cɛ taa ⟨את⟩ a ye, a bɛ taa ka bansu a ɲɛfɛ, fo a ka se Bahurim (Baxurimu); Awner ko a ye: “Taa, k'a labɛn segin.” A y'a segin.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "65c999d0e5de395e092b7fcf926029e89116fa63a4626644362919dd51b99cc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/3\/13-16.1791930888870.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A cɛ nana ni ⟨את⟩ a ye, a bɛ taa ka sunge a nɔma na fo Bahurim (Baxurim). Abner (Abunɛri) ye fɔ a ye ko: «Taaw, segin.» A ye segin.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "taa"
+      "gloss": "a nana"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ a ye"
+      "gloss": "ni ⟨את⟩ a ye",
+      "marks": "a muso, min Ale tɔgɔ ye Mikal"
     },
     {
       "surface": "אישה",
@@ -42,15 +22,15 @@
     },
     {
       "surface": "הלוך",
-      "gloss": "a bɛ taa"
+      "gloss": "ka taa"
     },
     {
       "surface": "ובכה",
-      "gloss": "ka bansu"
+      "gloss": "ka sunge"
     },
     {
       "surface": "אחריה",
-      "gloss": "a ɲɛfɛ"
+      "gloss": "a nɔma na"
     },
     {
       "surface": "עד",
@@ -58,11 +38,11 @@
     },
     {
       "surface": "בחרים",
-      "gloss": "Bahurim (Baxurimu)"
+      "gloss": "Bahurim"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "ye fɔ a ye ko"
     },
     {
       "surface": "אליו",
@@ -70,21 +50,21 @@
     },
     {
       "surface": "אבנר",
-      "gloss": "Awner"
+      "gloss": "Abner"
     },
     {
       "surface": "לך",
-      "gloss": "taa"
+      "gloss": "taaw"
     },
     {
       "surface": "שוב",
-      "gloss": "k'a labɛn segin"
+      "gloss": "segin"
     },
     {
       "surface": "וישב",
-      "gloss": "a y'a segin"
+      "gloss": "a ye segin"
     }
   ],
-  "timestamp": "2026-10-13T22:34:48.873532443Z",
+  "timestamp": "2026-10-20T13:29:34.554595463Z",
   "model": "glm-5.3"
 }

@@ -5,58 +5,32 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ni",
-      "rationale": "נפש ye ni \/ kunwale ye, a tɛ 'soul' (dori) ye"
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "Yehoshua ka kuma bɛ Kɔgɔji fan bɛɛ jamaw (Ruben, Gadi, Manashi tilen) kan"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "rationale": "aleph-tav nɔnabila 'aw' — ⟨את⟩ taamasiyɛn bɛ a la k'a jira"
-    }
-  ],
-  "translation": "Dɔrɔn de: aw k'a jɔyi ka kɛ ⟨את⟩ sariya la ani ⟨את⟩ Tora la, min Moshe (Musa), Yawe denbanna, lajadi ⟨את⟩ aw ye — ka Yawe, aw ka Elohim, kanuya, ka taa a siraw bɛɛ la, ka a ladilaw mara, ka a lamini, ka a baara kɛ aw dusukun bɛɛ la ani aw ni bɛɛ la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "461740c9fa07d3b232e62f07f58b3d79621eb8740bdd3dde3b36f64db44f5994",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/22\/5-8.1791929094894.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dɔrɔn de: aw ye ⟨את⟩ wasali kɛli ani ⟨את⟩ Tora kɔlɔsi beew, min Moshe, Yawe denbaga, kalifen aw ye — ka Yawe, aw Elohim kanuya, ani ka taa a siraw bɛɛ la, ani ka a wasaliw mara, ani ka fara a kan, ani ka a baara kɛ ni aw dusukun bɛɛ ye ani ni aw ni bɛɛ ye.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "Dɔrɔn de"
+      "gloss": "dɔrɔn de"
     },
     {
       "surface": "שמרו",
-      "gloss": "aw k'a jɔyi"
+      "gloss": "kɔlɔsi"
     },
     {
       "surface": "מאד",
-      "gloss": "kosɛbɛ"
+      "gloss": "beew"
     },
     {
       "surface": "לעשות",
-      "gloss": "ka kɛ"
+      "gloss": "kɛli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sariya"
+      "marks": "wasali"
     },
     {
       "surface": "המצוה",
-      "gloss": "sariya"
+      "gloss": "wasali"
     },
     {
       "surface": "ואת",
@@ -73,20 +47,20 @@
     },
     {
       "surface": "צוה",
-      "gloss": "k'a lajadi"
+      "gloss": "kalifen"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw",
-      "marks": "lajadi min kɛra aw ye"
+      "gloss": "⟨את⟩",
+      "marks": "aw"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe (Musa)"
+      "gloss": "Moshe"
     },
     {
       "surface": "עבד",
-      "gloss": "denbanna"
+      "gloss": "denbaga"
     },
     {
       "surface": "יהוה",
@@ -99,7 +73,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe, aw ka Elohim"
+      "marks": "Yawe"
     },
     {
       "surface": "יהוה",
@@ -107,15 +81,15 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "aw ka Elohim"
+      "gloss": "aw Elohim"
     },
     {
       "surface": "וללכת",
-      "gloss": "ka taa"
+      "gloss": "ani ka taa"
     },
     {
       "surface": "בכל",
-      "gloss": "bɛɛ la"
+      "gloss": "bɛɛ"
     },
     {
       "surface": "דרכיו",
@@ -123,27 +97,27 @@
     },
     {
       "surface": "ולשמר",
-      "gloss": "ka mara"
+      "gloss": "ani ka mara"
     },
     {
       "surface": "מצותיו",
-      "gloss": "a ladilaw"
+      "gloss": "a wasaliw"
     },
     {
       "surface": "ולדבקה",
-      "gloss": "ka a lamini"
+      "gloss": "ani ka fara a kan"
     },
     {
       "surface": "בו",
-      "gloss": "a la"
+      "gloss": "a kan"
     },
     {
       "surface": "ולעבדו",
-      "gloss": "ka a baara kɛ"
+      "gloss": "ani ka a baara kɛ"
     },
     {
       "surface": "בכל",
-      "gloss": "bɛɛ la"
+      "gloss": "bɛɛ"
     },
     {
       "surface": "לבבכם",
@@ -151,13 +125,13 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "ani bɛɛ la"
+      "gloss": "ani bɛɛ"
     },
     {
       "surface": "נפשכם",
       "gloss": "aw ni"
     }
   ],
-  "timestamp": "2026-10-13T22:04:54.895364215Z",
+  "timestamp": "2026-10-20T14:56:48.588585525Z",
   "model": "glm-5.3"
 }

@@ -5,79 +5,53 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 131,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "tiŋɛ na",
-      "rationale": "אם לא — kumasen-fɔcogo 'i tɛ… wa?' bɛ kɛ tiɲɛ ɲɛfɔli ye ('tiŋɛ na'), a tɛ ɲininka ye"
-    },
-    {
-      "kind": "hapax",
-      "subject": "den min bɔra",
-      "rationale": "גמול (gamul) — daɲɛ in Tanaki kɔnɔ o yɔrɔ dɔrɔn de ( גמל ka participle )"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ni",
-      "rationale": "נפשי — 'ni' ( ninkili \/ balo-mira ), a tɛ dusukun ye"
-    }
-  ],
-  "translation": "Tiŋɛ na, ni ma yɛlɛma, ni ma dimi, i n'a fɔ den ye min bɔra a ba la — i n'a fɔ den min bɔra de, nim in bɛ nin ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "1c0cb547ae6b76470ef40cc8726145e6975bbcec089364c071e37d7b93009b6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/131\/1-3.1791941724732.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni ma ye — awi, n ye n ka ni jɔ, ka a dimi, i n'a fɔ denmin bɔnonna a ka ba fɛ; n ka ni ye den-bɔnnen ye n fɛ.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "tiŋɛ na"
-    },
-    {
-      "surface": "לא",
-      "gloss": ""
-    },
-    {
-      "surface": "שויתי",
-      "gloss": "ni ma yɛlɛma"
-    },
-    {
-      "surface": "ודוממתי",
-      "gloss": "ni ma dimi"
-    },
-    {
-      "surface": "נפשי",
       "gloss": "ni"
     },
     {
-      "surface": "כגמל",
-      "gloss": "i n'a fɔ den ye min bɔra"
+      "surface": "לא",
+      "gloss": "ma"
     },
     {
-      "surface": "עלי",
-      "gloss": "a ba la"
+      "surface": "שויתי",
+      "gloss": "n y'a jɔ"
     },
     {
-      "surface": "אמו",
-      "gloss": "a ba"
-    },
-    {
-      "surface": "כגמל",
-      "gloss": "i n'a fɔ den min bɔra de"
-    },
-    {
-      "surface": "עלי",
-      "gloss": "nin ye"
+      "surface": "ודוממתי",
+      "gloss": "ka a dimi"
     },
     {
       "surface": "נפשי",
-      "gloss": "nim in"
+      "gloss": "n ka ni"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "i n'a fɔ den-bɔnnen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fɛ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "a ka ba"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "den-bɔnnen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n fɛ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "n ka ni"
     }
   ],
-  "timestamp": "2026-10-14T01:35:24.733523214Z",
+  "timestamp": "2026-10-20T15:33:06.131934963Z",
   "model": "glm-5.3"
 }

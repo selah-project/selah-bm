@@ -5,45 +5,19 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "san tan ni fila",
-      "rationale": "2 Chronicles 22:2 reads forty-two; translators divide over copyist error vs. different counting."
-    },
-    {
-      "kind": "crux",
-      "subject": "Omri denkɛmuso",
-      "rationale": "בת עמרי literally 'daughter of Omri'; Athaliah was Ahab's daughter, Omri's granddaughter — BSB says granddaughter, KJV keeps daughter."
-    },
-    {
-      "kind": "measurement",
-      "subject": "san kelen",
-      "rationale": "reign length: one year in Jerusalem."
-    }
-  ],
-  "translation": "Ahazyawu ye san tan ni fila ye a ka masakɛyala waati la, a ye san kelen masakɛya Yerushalayim (Jerusalɛmu). A ba tɔgɔ ye Atalya ye, Omri (Omuri) denkɛmuso, Yisrayel masakɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "4a1b0acfc57e7eb19ee695e459ef2abb98518bbae58973c573515848da0cab8c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/8\/25-28.1791932850022.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ahaliahu (Ahazia) tun ye denkɛ san ni mugan fila ɔn a ka masaya duminkɔrɔ, ani a ka masala san kelen dɔrɔn Yerushalayim (Jerusalɛmu). A ba tɔgɔ tun ye Ataliya, (deli-muso) Omri (Omuri), Isirayɛli masakɛ ta ye.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "den…ye"
+      "gloss": "denkɛ"
     },
     {
       "surface": "עשרים",
-      "gloss": "tan-ni-fila (mugan)"
+      "gloss": "bi-saba (nogoye mugan-2 ni-10)"
     },
     {
       "surface": "ושתים",
-      "gloss": ""
+      "gloss": "ni fila"
     },
     {
       "surface": "שנה",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "אחזיהו",
-      "gloss": "Ahazyawu"
+      "gloss": "Ahaliahu"
     },
     {
       "surface": "במלכו",
-      "gloss": "a ka masakɛyala waati la"
+      "gloss": "a ka masaya duminkɔrɔ"
     },
     {
       "surface": "ושנה",
-      "gloss": "san"
+      "gloss": "ani san"
     },
     {
       "surface": "אחת",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "masakɛya"
+      "gloss": "masala"
     },
     {
       "surface": "בירושלם",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "ושם",
-      "gloss": "…tɔgɔ"
+      "gloss": "ani tɔgɔ"
     },
     {
       "surface": "אמו",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "עתליהו",
-      "gloss": "Atalya"
+      "gloss": "Ataliya"
     },
     {
       "surface": "בת",
-      "gloss": "denkɛmuso"
+      "gloss": "(deli-muso)"
     },
     {
       "surface": "עמרי",
@@ -99,9 +73,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrayel"
+      "gloss": "Isirayɛli"
     }
   ],
-  "timestamp": "2026-10-13T23:07:30.026727215Z",
+  "timestamp": "2026-10-20T13:22:25.608246021Z",
   "model": "glm-5.3"
 }

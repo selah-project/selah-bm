@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "direct address: 'you know' summons the hearers' own memory"
-    },
-    {
-      "kind": "substitution",
-      "subject": "we\/us vs you",
-      "rationale": "Hebrew shifts we dwelt \/ we passed \/ you passed; Bambara keeps the same shifts"
-    }
-  ],
-  "translation": "Sabu aw ye min dɔn: an sigilen cogo min na Mitsrayim dugukolo la, ani an ye cogo min na siyaw kɔnɔya kɔnɔ jalaki, minnu na aw fana ye jalaki.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "4cce3abf327ce58c55f70fadbf7f95eac3d495e0a9cfd29c9924e901e110ef13",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/29\/13-16.1791928302028.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu aw dɔn cogo min na an sigira Mitsrayim (Misira) dugukolo la, ani ⟨את⟩ cogo min na an tamana siyaw kɔnɔ, siyaw minnu ɲɛ aw ye tampen.",
   "tokens": [
     {
       "surface": "כי",
@@ -38,20 +17,20 @@
     },
     {
       "surface": "ידעתם",
-      "gloss": "aw ye ... dɔn"
+      "gloss": "dɔn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "min"
+      "marks": "cogo min na an sigira Mitsrayim dugukolo la"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "cogo min na"
     },
     {
       "surface": "ישבנו",
-      "gloss": "an sigilen"
+      "gloss": "an sigira"
     },
     {
       "surface": "בארץ",
@@ -59,24 +38,24 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitsrayim (Misira)"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "min"
+      "marks": "cogo min na an tamana siyaw kɔnɔ"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "cogo min na"
     },
     {
       "surface": "עברנו",
-      "gloss": "an ye jalaki"
+      "gloss": "an tamana"
     },
     {
       "surface": "בקרב",
-      "gloss": "kɔnɔya kɔnɔ"
+      "gloss": "kɔnɔ"
     },
     {
       "surface": "הגוים",
@@ -84,13 +63,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "minnu na"
+      "gloss": "minnu"
     },
     {
       "surface": "עברתם",
-      "gloss": "aw ye jalaki"
+      "gloss": "aw ye tampen"
     }
   ],
-  "timestamp": "2026-10-13T21:51:42.034724639Z",
+  "timestamp": "2026-10-20T13:43:35.220827073Z",
   "model": "glm-5.3"
 }

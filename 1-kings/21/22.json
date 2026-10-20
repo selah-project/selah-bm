@@ -5,58 +5,32 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Hebrew 'אל הכעס' (to the provoking) has no Bambara equivalent; rendered as nothing."
-    },
-    {
-      "kind": "addition",
-      "subject": "Yawe",
-      "rationale": "Object of הכעסת supplied — Hebrew omits whom Ahab provoked."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ותחטא את ישראל",
-      "rationale": "Literally 'made Israel miss\/sin'; rendered 'cause Israel to fall into jurumu'."
-    }
-  ],
-  "translation": "Ani m'bɛ bila ⟨את⟩ i so ni Yerowam (Jeroboam), Nebat den, so ye, ani ni Basha (Baasha), Ahiya (Ahija) den, so ye — sabu lasara-kɔloko ye min, i ye Yawe lasara, ani i ye ⟨את⟩ Isirayɛl bila jurumu la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d09da84b8f8b85dd9c80b308526e0f84a984ff7d7e68128fa61f1d0e47ce9baf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/21\/21-24.1791932500550.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N bɛna ⟨את⟩ i ka so kɛ Yarobeam, Nebat denkɛ, ka so ye, ani kɛ Bashaa, Achiya denkɛ, ka so ye — sabu sɔbuya min na i ye ⟨ꞌaya⟩ Yawe lasɔbu, ani i ye ⟨את⟩ Izrayeridenw bila jurumu na.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "ani m'bɛ bila"
+      "gloss": "N bɛna … kɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i so"
+      "marks": "i ka so"
     },
     {
       "surface": "ביתך",
-      "gloss": "i so"
+      "gloss": "i ka so"
     },
     {
       "surface": "כבית",
-      "gloss": "ni so ye"
+      "gloss": "i n'a fɔ … ka so ye"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yerowam"
+      "gloss": "Yarobeam"
     },
     {
       "surface": "בן",
-      "gloss": "den"
+      "gloss": "denkɛ"
     },
     {
       "surface": "נבט",
@@ -64,27 +38,27 @@
     },
     {
       "surface": "וכבית",
-      "gloss": "ani ni so ye"
+      "gloss": "ani i n'a fɔ … ka so ye"
     },
     {
       "surface": "בעשא",
-      "gloss": "Basha"
+      "gloss": "Bashaa"
     },
     {
       "surface": "בן",
-      "gloss": "den"
+      "gloss": "denkɛ"
     },
     {
       "surface": "אחיה",
-      "gloss": "Ahiya"
+      "gloss": "Achiya"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "sabu"
     },
     {
       "surface": "הכעס",
-      "gloss": "lasara-kɔloko"
+      "gloss": "sɔbuya"
     },
     {
       "surface": "אשר",
@@ -92,22 +66,22 @@
     },
     {
       "surface": "הכעסת",
-      "gloss": "i ye Yawe lasara"
+      "gloss": "i ye Yawe lasɔbu"
     },
     {
       "surface": "ותחטא",
-      "gloss": "ani i ye jurumu bila"
+      "gloss": "ani i ye … bala jurumu na"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Isirayɛl"
+      "marks": "Izrayeridenw"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayɛl"
+      "gloss": "Izrayeridenw"
     }
   ],
-  "timestamp": "2026-10-13T23:01:40.555949594Z",
+  "timestamp": "2026-10-20T12:55:18.302471752Z",
   "model": "glm-5.3"
 }

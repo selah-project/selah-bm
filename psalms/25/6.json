@@ -5,41 +5,15 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hesed",
-      "rationale": "חסד kept as hesed per discipline; no single Bambara word carries kindness-plus-covenant-loyalty"
-    },
-    {
-      "kind": "you",
-      "subject": "to Yawe",
-      "rationale": "imperative addressed to Yawe by Name"
-    },
-    {
-      "kind": "addition",
-      "subject": "bɛɛ",
-      "rationale": "Bambara needs locative support ('la bɛɛ') where Hebrew bare מעולם means 'from of old'"
-    }
-  ],
-  "translation": "Xeli i ka dimiɲɔgɔnyaw, Yawe, ani i ka hesed, sabu olu bɛ daminɛ-kɔrɔ la bɛɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/25\/5-8.1791939854135.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe, i yɛrɛ xuxu jongo, i mɔgɔyaw ni i hesed; sabu olu bɛ tiɲɛ na dumiminɛ kɔrɔ. Ni kɔlɔsi i ninimilennaw ni i hesed, Yawe, sabu olu bɛ tiɲɛ na dumiminɛ kɔrɔ ye.",
   "tokens": [
     {
       "surface": "זכר",
-      "gloss": "xeli"
+      "gloss": "kɔlɔsi (xuxu jongo)"
     },
     {
       "surface": "רחמיך",
-      "gloss": "i ka dimiɲɔgɔnyaw"
+      "gloss": "i mɔgɔyaw"
     },
     {
       "surface": "יהוה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "וחסדיך",
-      "gloss": "ani i ka hesed"
+      "gloss": "ni i hesed"
     },
     {
       "surface": "כי",
@@ -55,13 +29,13 @@
     },
     {
       "surface": "מעולם",
-      "gloss": "daminɛ-kɔrɔ la"
+      "gloss": "dumiminɛ kɔrɔ"
     },
     {
       "surface": "המה",
       "gloss": "olu"
     }
   ],
-  "timestamp": "2026-10-14T01:04:14.136507883Z",
+  "timestamp": "2026-10-20T15:35:30.007896474Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to the king of Israel",
-      "rationale": "The king answers Yehoshaphat directly, and Yehoshaphat rebukes him in return."
-    },
-    {
-      "kind": "crux",
-      "subject": "nabi",
-      "rationale": "נביא rendered 'nabi' throughout per the standing ruling — never 'kira', which in Bambara reads as Muhammad's title."
-    },
-    {
-      "kind": "addition",
-      "subject": "o cogo kuma",
-      "rationale": "Hebrew כן 'so' alone; Bambara expands to 'such a word' for a natural rebuke."
-    }
-  ],
-  "translation": "Israyel masakɛ y'a fɔ Yehoshafat ma ko: mɔgɔ kelen na dow bɛ, min fɛ an bɛ se ka ⟨את⟩ Yawe ɲini — nane, n y'a jɛgɛn, sabu a tɛ fɔ ne ye ko nyuman, ko nawi dɔrɔn de dɔrɔn: Mikayehu, Yimla denkɛ. Yehoshafat y'a fɔ ko: masakɛ kana o cogo kuma fɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "371f3e4948ddd1ebaba1a10e65f7045631d0bd27df869e45a6ceaa1bef07d569",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/22\/5-8.1791932578442.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Israkɛ masakɛ ye Yehoshafat (Yosafati) ko: mɔgɔ kelen dɔ mɔnnen don, min fɛ an bɛ se ka ⟨את⟩ Yawe ɲinɛ ⟨את⟩ a lamɛn; nka ne y'a jɛgɛn, sabu a tɛ nabi-kumaw fɔ ne ye ɲuman, nka a bɛ fɔ ne ye juguya dɔrɔn de — Mikhayhu, Yimla denkɛ. Yehoshafat ye ko: masakɛ, i kana kuma fɔ nin cogo.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "y'a fɔ"
+      "gloss": "ye … ko"
     },
     {
       "surface": "מלך",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Israkɛ"
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "…ko"
     },
     {
       "surface": "יהושפט",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "na dow"
+      "gloss": "mɔnnen"
     },
     {
       "surface": "איש",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "אחד",
-      "gloss": "kelen"
+      "gloss": "kelen dɔ"
     },
     {
       "surface": "לדרש",
-      "gloss": "ka ɲini"
+      "gloss": "ka … ɲinɛ"
     },
     {
       "surface": "את",
@@ -80,16 +54,16 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "a fɛ ⟨את⟩",
-      "marks": ""
+      "gloss": "⟨את⟩ a lamɛn",
+      "marks": "ne"
     },
     {
       "surface": "ואני",
-      "gloss": "nane"
+      "gloss": "nka ne"
     },
     {
       "surface": "שנאתיו",
-      "gloss": "n y'a jɛgɛn"
+      "gloss": "ne y'a jɛgɛn"
     },
     {
       "surface": "כי",
@@ -101,7 +75,7 @@
     },
     {
       "surface": "יתנבא",
-      "gloss": "fɔ"
+      "gloss": "nabi-kumaw fɔ"
     },
     {
       "surface": "עלי",
@@ -109,23 +83,23 @@
     },
     {
       "surface": "טוב",
-      "gloss": "ko nyuman"
+      "gloss": "ɲuman"
     },
     {
       "surface": "כי",
-      "gloss": "ko"
+      "gloss": "nka"
     },
     {
       "surface": "אם",
-      "gloss": "dɔrɔn"
+      "gloss": "dɔrɔn de"
     },
     {
       "surface": "רע",
-      "gloss": "ko nawi"
+      "gloss": "juguya"
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Mikayehu"
+      "gloss": "Mikhayhu"
     },
     {
       "surface": "בן",
@@ -137,7 +111,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "y'a fɔ ko"
+      "gloss": "ye … ko"
     },
     {
       "surface": "יהושפט",
@@ -157,9 +131,9 @@
     },
     {
       "surface": "כן",
-      "gloss": "o cogo kuma"
+      "gloss": "nin cogo"
     }
   ],
-  "timestamp": "2026-10-13T23:02:58.450614288Z",
+  "timestamp": "2026-10-20T12:56:58.406012979Z",
   "model": "glm-5.3"
 }

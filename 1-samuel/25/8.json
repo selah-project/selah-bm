@@ -5,70 +5,44 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "יום טוב",
-      "rationale": "'don ɲuman' — don-ɲuman dɔgɔtɔrɔ; BSB ye 'dɔgɔtɔrɔ don' fɔ, nka sɛbɛnni yɛrɛ bɛ fɔ don ɲuman ko kelen."
-    },
-    {
-      "kind": "you",
-      "subject": "Nabal",
-      "rationale": "Kumasen in bɛ Nabal wele direct la — Dawid ka denmisɛnw ka ɲɔgɔnfaamɛ."
-    },
-    {
-      "kind": "invitation",
-      "subject": "bɔ fo … di",
-      "rationale": "Kumasen in ye weleli ye: sahɔ sabati fɛɛrɛ, dabɔli ni 'di' daɲɛ."
-    }
-  ],
-  "translation": "Bɔ fo i ka denmisɛnw ma, u bɛn'a fɔ i ye. Denmisɛnw in bɛna tobi sɔrɔ i ɲɛw la, sabu an bɛna don ɲuman na; n'i b'a fɛ, di ⟨את⟩ fɛn min i bolo bɛ sɔrɔ, i ka jaw ma ani i denkɛ Dawida (Dawuda) ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c1e883bc85560bbfe75c8c6a3e90e0437aa455e3c7d55495c0ca344df456eafd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/25\/8-8.1791950305384.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I denkɛw ɲini, olu bɛ ⟨a⟩ fɔ i ma; denkɛw na danbe sɔrɔ ⟨i⟩ ka ɲɛw la, sabu an bɛ na don tiŋɛnw don kɔnɔ; aw kɔngɔ, aw ye ⟨את⟩ fɛn min b'i bolo sɔrɔ, o di i ka somɔgɔw ma ani ⟨i⟩ ka denkɛ ma, Dawuda ma.",
   "tokens": [
     {
       "surface": "שאל",
-      "gloss": "bɔ fo"
+      "gloss": "ɲini"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i ka denmisɛnw"
+      "marks": "i denkɛw"
     },
     {
       "surface": "נעריך",
-      "gloss": "i ka denmisɛnw"
+      "gloss": "denkɛw"
     },
     {
       "surface": "ויגידו",
-      "gloss": "u bɛn'a fɔ"
+      "gloss": "bɛ a fɔ"
     },
     {
       "surface": "לך",
-      "gloss": "i ye"
+      "gloss": "i ma"
     },
     {
       "surface": "וימצאו",
-      "gloss": "u bɛna sɔrɔ"
+      "gloss": "na … sɔrɔ"
     },
     {
       "surface": "הנערים",
-      "gloss": "denmisɛnw"
+      "gloss": "denkɛw"
     },
     {
       "surface": "חן",
-      "gloss": "tobi"
+      "gloss": "danbe"
     },
     {
       "surface": "בעיניך",
-      "gloss": "i ɲɛw la"
+      "gloss": "ɲɛw la"
     },
     {
       "surface": "כי",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "על",
-      "gloss": "na"
+      "gloss": "don … kɔnɔ"
     },
     {
       "surface": "יום",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "טוב",
-      "gloss": "ɲuman"
+      "gloss": "tiŋɛn"
     },
     {
       "surface": "בנו",
-      "gloss": "an bɛna"
+      "gloss": "an bɛ na"
     },
     {
       "surface": "תנה",
@@ -96,12 +70,12 @@
     },
     {
       "surface": "נא",
-      "gloss": "n'i b'a fɛ"
+      "gloss": "aw kɔngɔ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fɛn min i bolo bɛ sɔrɔ"
+      "marks": "fɛn min b'i bolo sɔrɔ"
     },
     {
       "surface": "אשר",
@@ -109,25 +83,25 @@
     },
     {
       "surface": "תמצא",
-      "gloss": "i bolo bɛ sɔrɔ"
+      "gloss": "i bolo sɔrɔ"
     },
     {
       "surface": "ידך",
-      "gloss": "i bolo"
+      "gloss": "bolo"
     },
     {
       "surface": "לעבדיך",
-      "gloss": "i ka jaw ma"
+      "gloss": "i ka somɔgɔw ma"
     },
     {
       "surface": "ולבנך",
-      "gloss": "ani i denkɛ"
+      "gloss": "i ka denkɛ ma"
     },
     {
       "surface": "לדוד",
-      "gloss": "Dawida"
+      "gloss": "Dawuda ma"
     }
   ],
-  "timestamp": "2026-10-14T03:58:25.385394692Z",
+  "timestamp": "2026-10-20T13:04:10.423328122Z",
   "model": "glm-5.3"
 }

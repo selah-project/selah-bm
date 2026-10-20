@@ -5,45 +5,19 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 46,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "min bɛ",
-      "rationale": "Hebrew has no relative clause; apposition 'a river' opened with bracketed 'which is'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "falimaya",
-      "rationale": "ישמחו 'make glad' rendered with causative 'make rejoice'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "bonyaw",
-      "rationale": "פלגיו is 'its rivulets\/channels' — small irrigation streams, not large 'branches'"
-    }
-  ],
-  "translation": "Ba min bɛ, a bonyaw bɛ Elohim ka dugu falimaya, jɔyɔrɔ senuman, Elyon ka sohdilanw.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/46\/5-8.1791940216712.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Baji, a jlɛkalannaw bɛ Elohim ka dugu diɲɛw na, Elyon ka sohunw yɔrɔ senuman.",
   "tokens": [
     {
       "surface": "נהר",
-      "gloss": "ba min bɛ"
+      "gloss": "baji"
     },
     {
       "surface": "פלגיו",
-      "gloss": "a bonyaw"
+      "gloss": "a jlɛkalannaw"
     },
     {
       "surface": "ישמחו",
-      "gloss": "bɛ falimaya"
+      "gloss": "bɛ … diɲɛw na"
     },
     {
       "surface": "עיר",
@@ -51,21 +25,21 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim ka"
+      "gloss": "Elohim"
     },
     {
       "surface": "קדש",
-      "gloss": "jɔyɔrɔ senuman"
+      "gloss": "senuman"
     },
     {
       "surface": "משכני",
-      "gloss": "sohdilanw"
+      "gloss": "sohunw"
     },
     {
       "surface": "עליון",
-      "gloss": "Elyon ka"
+      "gloss": "Elyon"
     }
   ],
-  "timestamp": "2026-10-14T01:10:16.713443139Z",
+  "timestamp": "2026-10-20T15:37:13.211507289Z",
   "model": "glm-5.3"
 }

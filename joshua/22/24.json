@@ -5,40 +5,19 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מה לכם וליהוה",
-      "rationale": "literally 'what (is) to you and to Yawe?' — Hebrew idiom for 'what business do you have with'; rendered as a rhetorical question."
-    },
-    {
-      "kind": "crux",
-      "subject": "ואם לא מדאגה",
-      "rationale": "'and if not — out of anxiety — we did this': KJV\/ASV 'rather, for fear'; YLT 'if not, from fear'; the syntax is compressed and disputed."
-    }
-  ],
-  "translation": "A tɛ o kuma la, n'anka siran de na an ye ⟨את⟩ o kɛ, ko: sinin, aw denw bɛna an denw ma fɔ ko: Yisrayel Ala Yawe de bɛ aw ni mun ye?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d7c6113e30e2aca05a37a7e7b5adb3239d3de7b4aad33665e3f1dfc8594ba001",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/22\/21-24.1791929124887.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Walima ni an ma ye ⟨את⟩ nin kɛ kuma lasiri sabu, ko: Sinin, aw denw bɛna fɔ an denw ma, ko: mun na aw ni Yawe, Israyɛl Elohim?",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "n'anka ni"
+      "gloss": "walima ni"
     },
     {
       "surface": "לא",
-      "gloss": "a tɛ ... ye"
+      "gloss": "ma"
     },
     {
       "surface": "מדאגה",
-      "gloss": "siranba"
+      "gloss": "lasiri"
     },
     {
       "surface": "מדבר",
@@ -51,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o (kuma in)"
+      "marks": "nin"
     },
     {
       "surface": "זאת",
-      "gloss": "o"
+      "gloss": "nin"
     },
     {
       "surface": "לאמר",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "mun"
+      "gloss": "mun na"
     },
     {
       "surface": "לכם",
@@ -95,13 +74,13 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrayel"
+      "gloss": "Israyɛl"
     }
   ],
-  "timestamp": "2026-10-13T22:05:24.889837430Z",
+  "timestamp": "2026-10-20T14:56:02.262601042Z",
   "model": "glm-5.3"
 }

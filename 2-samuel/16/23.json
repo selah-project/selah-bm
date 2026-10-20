@@ -5,41 +5,15 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Elohim kuma la ɲininkali",
-      "rationale": "בדבר האלהים 'in the word of God': KJV 'oracle of God' vs literal 'word of God'; Elohim can read plural ('a divine word')."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mɔgɔ",
-      "rationale": "Hebrew ישאל is impersonal 'one inquires'; Bambara needs 'mɔgɔ' (a person) as subject."
-    },
-    {
-      "kind": "addition",
-      "subject": "tun",
-      "rationale": "Past marker supplied: Hebrew has no tense; context fixes the advice as belonging to those days."
-    }
-  ],
-  "translation": "Ahitofɛl ka latigiyali, min o donw na y'a latigi, tun ye i n'a fɔ ko ni mɔgɔ y'i ɲininka Elohim (Ala) kuma la cogo min na; Ahitofɛl ka latigiyali bɛɛ tun ye o ye, Dawid (Dawuda) fɛ fana, Awshalom (Absalɔm) fɛ fana.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "be7d6fa77aad8f2a2ad6d3bfb60b406509a1a75e0366bad4332e097c5e918edf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/16\/21-23.1791931271791.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ajitofɛl ka ladilikan min o donw na, a tun ye ni mɔgɔ weleli ye Elohim ka kuma la; ajuma bɛɛ ye o ye ni o ye — Dawid fɛ ni ni Awisalɔm fɛ.",
   "tokens": [
     {
       "surface": "ועצת",
-      "gloss": "latigiyali"
+      "gloss": "ani ladilikan"
     },
     {
       "surface": "אחיתפל",
-      "gloss": "Ahitofɛl"
+      "gloss": "Ajitofɛl"
     },
     {
       "surface": "אשר",
@@ -47,65 +21,65 @@
     },
     {
       "surface": "יעץ",
-      "gloss": "y'a latigi"
+      "gloss": "o ladilikanw"
     },
     {
       "surface": "בימים",
-      "gloss": "donw"
+      "gloss": "donw na"
     },
     {
       "surface": "ההם",
-      "gloss": "in na"
+      "gloss": "o"
     },
     {
       "surface": "כאשר",
-      "gloss": "i n'a fɔ ko ni"
+      "gloss": "ni"
     },
     {
       "surface": "ישאל",
-      "gloss": "mɔgɔ y'i ɲininka"
+      "gloss": "weleli"
     },
     {
       "surface": "בדבר",
-      "gloss": "kuma la"
+      "gloss": "… la"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim (Ala)"
+      "gloss": "Elohim ka kuma"
     },
     {
       "surface": "כן",
-      "gloss": "o ye"
+      "gloss": "ni o ye"
     },
     {
       "surface": "כל",
-      "gloss": "bɛɛ"
+      "gloss": "ajuma"
     },
     {
       "surface": "עצת",
-      "gloss": "latigiyali"
+      "gloss": "ladilikan"
     },
     {
       "surface": "אחיתפל",
-      "gloss": "Ahitofɛl"
+      "gloss": "Ajitofɛl"
     },
     {
       "surface": "גם",
-      "gloss": "fana"
+      "gloss": "ni"
     },
     {
       "surface": "לדוד",
-      "gloss": "Dawid (Dawuda) fɛ"
+      "gloss": "Dawid fɛ"
     },
     {
       "surface": "גם",
-      "gloss": "fana"
+      "gloss": "ni ni"
     },
     {
-      "surface": "לאבשלום",
-      "gloss": "Awshalom (Absalɔm) fɛ"
+      "surface": "לאבשלם",
+      "gloss": "Awisalɔm fɛ"
     }
   ],
-  "timestamp": "2026-10-13T22:41:11.798979385Z",
+  "timestamp": "2026-10-20T16:02:59.616329290Z",
   "model": "glm-5.3"
 }

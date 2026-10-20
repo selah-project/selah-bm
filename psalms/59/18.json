@@ -5,45 +5,19 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 59,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ye … ye",
-      "rationale": "Bambara requires the ye…ye construction for the nominal clause; Hebrew has no copula."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kulujan",
-      "rationale": "משגב literally a high cliff\/lofty place, rendered kulujan to keep the literal picture."
-    },
-    {
-      "kind": "you",
-      "subject": "to Elohim",
-      "rationale": "Direct second-person address to Elohim, the psalm's closing vow."
-    }
-  ],
-  "translation": "Ne ka se, i ma ne bɛna kɔnɔ, sabu Elohim ye ne ka kulujan ye, Ala ne ka hesed ta.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "92db15f142b0c9afd42cf02ab6b79365ec523970a97251b92e8960f528c1abfb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/59\/17-18.1791940418929.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ne ma fisayɛ, Yawe, m'bɛ i lamɛn k'a jɛgɛn, sabu Elohim ye ne miiribon ye, ne hesed Elohim ye.",
   "tokens": [
     {
       "surface": "עזי",
-      "gloss": "ne ka se"
+      "gloss": "ne fisayɛ"
     },
     {
       "surface": "אליך",
-      "gloss": "i ma"
+      "gloss": "Yawe, <⟨i la> ni>"
     },
     {
       "surface": "אזמרה",
-      "gloss": "kɔnɔ"
+      "gloss": "m'bɛ i lamɛn k'a jɛgɛn"
     },
     {
       "surface": "כי",
@@ -55,17 +29,17 @@
     },
     {
       "surface": "משגבי",
-      "gloss": "ne ka kulujan"
+      "gloss": "ne miiribon"
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "חסדי",
-      "gloss": "ne ka hesed"
+      "gloss": "ne hesed"
     }
   ],
-  "timestamp": "2026-10-14T01:13:38.930015539Z",
+  "timestamp": "2026-10-20T15:38:14.484791428Z",
   "model": "glm-5.3"
 }

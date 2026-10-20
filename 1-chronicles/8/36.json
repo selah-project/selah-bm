@@ -5,48 +5,32 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ani",
-      "rationale": "Conjunction 'ani' supplied between sons; Hebrew uses only vav"
-    }
-  ],
-  "translation": "Aḥaz ye ⟨את⟩ Yeho'ada den bɔ, Yeho'ada ye ⟨את⟩ Alemet ani ⟨את⟩ Azmavet ani ⟨את⟩ Zimri denw bɔ, Zimri ye ⟨את⟩ Motsa den bɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "fdb979566934f7093a7a4b825b49587a6b58e4faed35deb3c9a3c89dd0fd2d88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/8\/33-36.1791947681882.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ni Ahaz (Ahasi) ye Yehoadda (Yehoadahi) bi; Yehoadda ye Alemet, ni Asmawet, ni Simri bi; Simri ye Motsa bi.",
   "tokens": [
     {
       "surface": "ואחז",
-      "gloss": "Aḥaz"
+      "gloss": "A ni Ahaz"
     },
     {
       "surface": "הוליד",
-      "gloss": "ye … den bɔ"
+      "gloss": "ye … bi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yeho'ada"
+      "marks": "Yehoadda"
     },
     {
       "surface": "יהועדה",
-      "gloss": "Yeho'ada"
+      "gloss": "Yehoadda"
     },
     {
       "surface": "ויהועדה",
-      "gloss": "Yeho'ada"
+      "gloss": "Yehoadda"
     },
     {
       "surface": "הוליד",
-      "gloss": "ye … den bɔ"
+      "gloss": "ye … bi"
     },
     {
       "surface": "את",
@@ -59,29 +43,29 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩",
-      "marks": "Azmavet"
+      "gloss": "⟨את⟩",
+      "marks": "Asmawet"
     },
     {
       "surface": "עזמות",
-      "gloss": "Azmavet"
+      "gloss": "Asmawet"
     },
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩",
-      "marks": "Zimri"
+      "gloss": "⟨את⟩",
+      "marks": "Simri"
     },
     {
       "surface": "זמרי",
-      "gloss": "Zimri"
+      "gloss": "Simri"
     },
     {
       "surface": "וזמרי",
-      "gloss": "Zimri"
+      "gloss": "Simri"
     },
     {
       "surface": "הוליד",
-      "gloss": "ye … den bɔ"
+      "gloss": "ye … bi"
     },
     {
       "surface": "את",
@@ -93,6 +77,6 @@
       "gloss": "Motsa"
     }
   ],
-  "timestamp": "2026-10-14T03:14:41.883774477Z",
+  "timestamp": "2026-10-20T12:50:34.649803170Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "amos",
   "lang": "bm",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "n'ye ... ti",
-      "rationale": "verbless past vs present: 'I was no prophet' (KJV\/ASV) vs 'I am no prophet' (YLT) — Hebrew has no tense"
-    },
-    {
-      "kind": "hapax",
-      "subject": "בולס",
-      "rationale": "unique word: one who pinches\/scrapes sycamore figs to ripen them"
-    },
-    {
-      "kind": "alternative",
-      "subject": "nabi denkɛ",
-      "rationale": "'son of a prophet' = member of a prophetic guild, not literal son"
-    }
-  ],
-  "translation": "Amos (Amɔs) y'a jaabi ko: “Amatsiya (Amatiya), n'ye nabi ti, ani n'ye nabi denkɛ ti; kuma tiɲɛ na, n'ye misi marabaga ye, ani nɔgɔsan-jiri dagabaga.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "96bcfe62e093639b7d7b2273dae79d8edf7e1e656e1c311c3692d823acd2c7a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/amos\/7\/13-16.1791938585275.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Amos y'a jaabi ko Amatsiya ye: n'tɛ nabi ye, an n'tɛ nabi den ye, sabu ne ye misi-marabaga ye, ani jiri-dɛnni minɛbaga ye.",
   "tokens": [
     {
       "surface": "ויען",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "עמוס",
-      "gloss": "Amos (Amɔs)"
+      "gloss": "Amos"
     },
     {
       "surface": "ויאמר",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ye:"
     },
     {
       "surface": "אמציה",
-      "gloss": "Amatsiya (Amatiya)"
+      "gloss": "Amatsiya"
     },
     {
       "surface": "לא",
-      "gloss": "n'ye ⟨...⟩ ti"
+      "gloss": "n'tɛ"
     },
     {
       "surface": "נביא",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "n"
+      "gloss": "ne"
     },
     {
       "surface": "ולא",
-      "gloss": "ani n'ye ⟨...⟩ ti"
+      "gloss": "an n'tɛ"
     },
     {
       "surface": "בן",
-      "gloss": "denkɛ"
+      "gloss": "den"
     },
     {
       "surface": "נביא",
@@ -79,29 +53,29 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "n"
+      "gloss": "ne"
     },
     {
       "surface": "כי",
-      "gloss": "kuma tiɲɛ na"
+      "gloss": "sabu"
     },
     {
       "surface": "בוקר",
-      "gloss": "misi marabaga"
+      "gloss": "misi-marabaga"
     },
     {
       "surface": "אנכי",
-      "gloss": "n"
+      "gloss": "ne"
     },
     {
       "surface": "ובולס",
-      "gloss": "nɔgɔsan-jiri dagabaga"
+      "gloss": "jiri-dɛnni minɛbaga"
     },
     {
       "surface": "שקמים",
-      "gloss": "nɔgɔsanw"
+      "gloss": "ye"
     }
   ],
-  "timestamp": "2026-10-14T00:43:05.276200213Z",
+  "timestamp": "2026-10-20T13:31:43.528159595Z",
   "model": "glm-5.3"
 }

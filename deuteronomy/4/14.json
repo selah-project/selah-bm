@@ -5,36 +5,16 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "walasa",
-      "rationale": "purpose particle added to render the infinitive construct לעשתכם"
-    },
-    {
-      "kind": "substitution",
-      "subject": "fɛnwali-cogow",
-      "rationale": "משפטים literally 'verdicts'; rendered as 'customs of judging' since no single Bambara word carries judicial ordinance"
-    }
-  ],
-  "translation": "Yawe ye ⟨את⟩ ne laso waati o la, walasa n'aw kalan sariyaw ni fɛnwali-cogow, aw ka u bɛɛ kɛ dugukolo min kɔnɔ min bɔko aw bɛ taa a fa, an dugukolo min bɛɛ sigi o kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "3eecf7ee101dc8c26e19ecbf1f6594179a575a56d87ac516868ed04520af422d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/4\/13-16.1791927549432.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe ye ⟨את⟩ ne lamini o waati la walasa k'⟨את⟩ aw kalansariyara sariya ni faso-cogoya-judisiya daw, aw ka b'a ke dugukolo min na aw bɛ taa a la minɛ yen,",
   "tokens": [
     {
-      "surface": "ויתי",
-      "gloss": "⟨את⟩ ne"
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ ne",
+      "marks": "צוה (Yawe ka laminiya kɔrɔ)"
     },
     {
       "surface": "צוה",
-      "gloss": "laso"
+      "gloss": "lamini"
     },
     {
       "surface": "יהוה",
@@ -42,7 +22,7 @@
     },
     {
       "surface": "בעת",
-      "gloss": "waati"
+      "gloss": "waati la"
     },
     {
       "surface": "ההוא",
@@ -50,11 +30,12 @@
     },
     {
       "surface": "ללמד",
-      "gloss": "walasa n'aw kalan"
+      "gloss": "walasa k'aw kalansi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw"
+      "gloss": "⟨את⟩ aw",
+      "marks": "חקים (sariyaw ni judisiyaw)"
     },
     {
       "surface": "חקים",
@@ -62,19 +43,20 @@
     },
     {
       "surface": "ומשפטים",
-      "gloss": "fɛnwali-cogow"
+      "gloss": "judisiyaw"
     },
     {
       "surface": "לעשתכם",
-      "gloss": "aw ka bɛɛ kɛ"
+      "gloss": "aw ka b'o ke"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ u"
+      "gloss": "⟨את⟩ o",
+      "marks": "בארץ (dugukolo min na)"
     },
     {
       "surface": "בארץ",
-      "gloss": "dugukolo kɔnɔ"
+      "gloss": "dugukolo min na"
     },
     {
       "surface": "אשר",
@@ -86,17 +68,17 @@
     },
     {
       "surface": "עברים",
-      "gloss": "bɛ taa a fa"
+      "gloss": "bɛ taa"
     },
     {
       "surface": "שמה",
-      "gloss": "an"
+      "gloss": "yen"
     },
     {
       "surface": "לרשתה",
-      "gloss": "a fa ka sigi o kɔnɔ"
+      "gloss": "minɛ a la"
     }
   ],
-  "timestamp": "2026-10-13T21:39:09.433688035Z",
+  "timestamp": "2026-10-20T13:45:40.758468611Z",
   "model": "glm-5.3"
 }

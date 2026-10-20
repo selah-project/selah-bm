@@ -5,54 +5,24 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "aw",
-      "rationale": "אתכם ye nɔnabila ye (aw) — a tɛ aleph-tav daɲɛmarkɛrɔ ye nin yɔrɔ in na"
-    },
-    {
-      "kind": "addition",
-      "subject": "n'i b'a fɛ",
-      "rationale": "נא ye kumakan-nafama ye min tɛ Bamanankan kɔnɔ, a sɔrɔla ni ⟨⟩ ye"
-    },
-    {
-      "kind": "crux",
-      "subject": "ka duni",
-      "rationale": "לבער: 'ka dun' (KJV) walima 'ka balo kɛ fɛn bɛɛ ye' — sira tilennen ta"
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "Yawe bɛ wele jama min b'o nakɔ misali kɔrɔ fɛ"
-    }
-  ],
-  "translation": "Sisan de, ne bɛna ⟨את⟩ aw laselen ne bɛ kɛ ⟨את⟩ min ye ne ka winyɛnnakɔ (winyɛnforo) la: ne bɛ a ka bansu bɔ, a bɛna ka duni; ne bɛ a ka dɛgɛ tiŋɛ, a bɛna ka ɲagabi.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/5\/5-8.1791933543709.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sisan naw, ne bɛ aw ye a jira ⟨את⟩ min, ne bɛ min kɛ ne ka nakɔ la: ne bɛ a ka bin-bɔ bɔ, a bɛna dun; ne bɛ a ka bɔ fasa, a bɛna butigiya.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Sisan de"
+      "gloss": "Sisan"
     },
     {
       "surface": "אודיעה",
-      "gloss": "ne bɛna aw laselen"
+      "gloss": "ne bɛ aw ye a jira"
     },
     {
       "surface": "נא",
-      "gloss": "n'i b'a fɛ"
+      "gloss": "naw"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw"
+      "gloss": "⟨את⟩",
+      "marks": "aw"
     },
     {
       "surface": "את",
@@ -69,19 +39,19 @@
     },
     {
       "surface": "עשה",
-      "gloss": "kɛ"
+      "gloss": "bɛ kɛ"
     },
     {
       "surface": "לכרמי",
-      "gloss": "ne ka winyɛnnakɔ la"
+      "gloss": "ne ka nakɔ la"
     },
     {
       "surface": "הסר",
-      "gloss": "bɔ"
+      "gloss": "ne bɛ … bɔ"
     },
     {
       "surface": "משוכתו",
-      "gloss": "a ka bansu"
+      "gloss": "a ka bin-bɔ"
     },
     {
       "surface": "והיה",
@@ -89,15 +59,15 @@
     },
     {
       "surface": "לבער",
-      "gloss": "ka duni"
+      "gloss": "dunli ye"
     },
     {
       "surface": "פרץ",
-      "gloss": "tiŋɛ"
+      "gloss": "fasa"
     },
     {
       "surface": "גדרו",
-      "gloss": "a ka dɛgɛ"
+      "gloss": "a ka bɔ"
     },
     {
       "surface": "והיה",
@@ -105,9 +75,9 @@
     },
     {
       "surface": "למרמס",
-      "gloss": "ka ɲagabi"
+      "gloss": "butigiya ye"
     }
   ],
-  "timestamp": "2026-10-13T23:19:03.712551224Z",
+  "timestamp": "2026-10-20T14:32:03.291550544Z",
   "model": "glm-5.3"
 }

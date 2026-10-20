@@ -5,45 +5,19 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 126,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אז … אז",
-      "rationale": "Repetition of 'then … then' frames the doubled report; kept by repeating 'o waati la'."
-    },
-    {
-      "kind": "crux",
-      "subject": "עם אלה",
-      "rationale": "'with these' — the nations say YHWH did great things 'with\/for these'; 'for them' (KJV) smooths the literal 'with'."
-    },
-    {
-      "kind": "elision",
-      "subject": "siyaw kɔnɔ",
-      "rationale": "בגוים 'among the nations' rendered as within-nations phrase; no clean single Bambara preposition."
-    }
-  ],
-  "translation": "O waati la, fiyi ye an ka da ye jugu, ani donyili ye an ka kan ye; o waati la, siyaw b'a fɔ ko: Yawe ye baasi-kɛba kɛ ni nin mɔgɔw ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/126\/1-4.1791941805210.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O waati min na, an ka da ye seye ye minɛ, ani an ka kanmelen ye donw ye; o waati na, u ko siyaw kɔnɔ ko: Yawe ye fɛn belebelew kɛ ni ⟨alew⟩ ye.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "o waati la"
+      "gloss": "o waati min na"
     },
     {
       "surface": "ימלא",
-      "gloss": "ye … ye jugu"
+      "gloss": "minɛ"
     },
     {
       "surface": "שחוק",
-      "gloss": "fiyi"
+      "gloss": "seye"
     },
     {
       "surface": "פינו",
@@ -51,19 +25,19 @@
     },
     {
       "surface": "ולשוננו",
-      "gloss": "ani an ka kan"
+      "gloss": "ani an ka kanmelen"
     },
     {
       "surface": "רנה",
-      "gloss": "donyili"
+      "gloss": "donw"
     },
     {
       "surface": "אז",
-      "gloss": "o waati la"
+      "gloss": "o waati na"
     },
     {
       "surface": "יאמרו",
-      "gloss": "b'a fɔ ko"
+      "gloss": "u ko"
     },
     {
       "surface": "בגוים",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "הגדיל",
-      "gloss": "baasi-kɛba kɛ"
+      "gloss": "ye fɛn belebelew kɛ"
     },
     {
       "surface": "יהוה",
@@ -83,13 +57,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "ni … ye"
+      "gloss": "ni"
     },
     {
       "surface": "אלה",
-      "gloss": "nin mɔgɔw"
+      "gloss": "⟨alew⟩"
     }
   ],
-  "timestamp": "2026-10-14T01:36:45.211740354Z",
+  "timestamp": "2026-10-20T15:32:58.166456621Z",
   "model": "glm-5.3"
 }

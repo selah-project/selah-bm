@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "particle after יען absorbed into 'sabu'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הכך\/ויכהו",
-      "rationale": "the verb 'strike' frames the verse: prophesied strike and fulfilled strike, same root נכה"
-    }
-  ],
-  "translation": "A ko a ye: “Sabu i ma Yawe kan mɛn, nɛ, i bɛ bɔ ne fɛ ⟨את⟩, waraba bɛ i ja.” A y'a bɔ a yɛrɛ la, waraba y'a ɲini, ka a ja.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8048adefe8470d0ef1272e65122f624efafa6dd840b7ea53b4abc1ecbd0475b0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/20\/33-36.1791932427663.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ko a ye: sabu i ma Yawe ka kan mɛn, tamasiyɛn, i bɛ taa bɔ ⟨את⟩ n la, waraba bɛ i boli. A y'a bɔ a la, waraba ye a ye, a y'a boli.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "a ko"
     },
     {
       "surface": "לו",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "min"
     },
     {
       "surface": "לא",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "שמעת",
-      "gloss": "mɛn"
+      "gloss": "i ma mɛn"
     },
     {
       "surface": "בקול",
@@ -62,20 +41,20 @@
     },
     {
       "surface": "הנך",
-      "gloss": "nɛ"
+      "gloss": "tamasiyɛn"
     },
     {
       "surface": "הולך",
-      "gloss": "bɛ taa"
+      "gloss": "i bɛ taa"
     },
     {
       "surface": "מאתי",
-      "gloss": "ne fɛ ⟨את⟩",
-      "marks": "ne (bɔyɔrɔ)"
+      "gloss": "⟨את⟩ bɔ n la",
+      "marks": "n (ne la)"
     },
     {
       "surface": "והכך",
-      "gloss": "ja"
+      "gloss": "waraba bɛ i boli"
     },
     {
       "surface": "האריה",
@@ -83,15 +62,15 @@
     },
     {
       "surface": "וילך",
-      "gloss": "bɔra"
+      "gloss": "a y'a bɔ"
     },
     {
       "surface": "מאצלו",
-      "gloss": "a yɛrɛ la"
+      "gloss": "a la"
     },
     {
       "surface": "וימצאהו",
-      "gloss": "ɲini"
+      "gloss": "a ye a ye"
     },
     {
       "surface": "האריה",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "ויכהו",
-      "gloss": "ja"
+      "gloss": "a y'a boli"
     }
   ],
-  "timestamp": "2026-10-13T23:00:27.668512829Z",
+  "timestamp": "2026-10-20T12:55:14.980282854Z",
   "model": "glm-5.3"
 }

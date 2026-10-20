@@ -5,36 +5,15 @@
   "book": "daniel",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אוצר",
-      "rationale": "'depository\/treasury' rendered sarabɔ (storehouse); Bambara lacks a palace-treasury word"
-    },
-    {
-      "kind": "elision",
-      "subject": "אלהיו",
-      "rationale": "'his god' (Nebuchadnezzar's deity) rendered 'a ma Ala' — Hebrew plural of the foreign god, Bambara singular"
-    }
-  ],
-  "translation": "Adonay (Adonay) y'⟨את⟩ Yehoyakim, Yehuda masakɛ, di a bolo la, ni Elohim ka so ka minɛnw dɔ ye; a ye u blá Shinar (Shinar) jamana la, a ma Ala ka so la; ⟨את⟩ minɛnw in, a y'u bila a ma Ala ka sarabɔso kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a2edc38c8fb220bf83474c8b9c2f85fdff5255baf237d5aaed9956f61002fc8c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/1\/1-4.1791945625136.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Matigi ye ⟨את⟩ Yehoyakim (Yehoyakimu), Yuda masakɛ, ani Elohim so ka minɛnw dɔ di a bolo la; a y'u minɛ Shinar (Sina) dugukolo la, a Elohim so kɔnɔ; ⟨את⟩ minɛnw fana, a y'u na a Elohim ka wasan so kɔnɔ.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "a y'i di"
+      "gloss": "ye … di"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonay"
+      "gloss": "Matigi"
     },
     {
       "surface": "בידו",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yehoyakim, Yehuda masakɛ"
+      "marks": "Yehoyakim, Yuda masakɛ"
     },
     {
       "surface": "יהויקים",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yuda"
     },
     {
       "surface": "ומקצת",
-      "gloss": "ni dɔ"
+      "gloss": "ani … dɔ"
     },
     {
       "surface": "כלי",
@@ -71,15 +50,15 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim ta"
+      "gloss": "Elohim"
     },
     {
       "surface": "ויביאם",
-      "gloss": "a ye u blá"
+      "gloss": "a y'u minɛ"
     },
     {
       "surface": "ארץ",
-      "gloss": "jamana la"
+      "gloss": "dugukolo"
     },
     {
       "surface": "שנער",
@@ -91,12 +70,12 @@
     },
     {
       "surface": "אלהיו",
-      "gloss": "a ma Ala ta"
+      "gloss": "a Elohim"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "minɛnw in"
+      "marks": "minɛnw"
     },
     {
       "surface": "הכלים",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "הביא",
-      "gloss": "a y'u bila"
+      "gloss": "a y'u na"
     },
     {
       "surface": "בית",
@@ -112,13 +91,13 @@
     },
     {
       "surface": "אוצר",
-      "gloss": "sarabɔ"
+      "gloss": "wasan"
     },
     {
       "surface": "אלהיו",
-      "gloss": "a ma Ala ta"
+      "gloss": "a Elohim"
     }
   ],
-  "timestamp": "2026-10-14T02:40:25.138284283Z",
+  "timestamp": "2026-10-20T13:32:14.803763901Z",
   "model": "glm-5.3"
 }

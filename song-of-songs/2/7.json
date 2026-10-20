@@ -5,42 +5,16 @@
   "book": "song-of-songs",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "או",
-      "rationale": "Hebrikan 'או' (walima) ma bayɛlɛma — Bamanankan 'ni' (ni) y'a lamini."
-    },
-    {
-      "kind": "crux",
-      "subject": "עד שתחפץ",
-      "rationale": "'fo a ka fɛ don' — KJV sɛbɛn 'til he please', JPS 'until it please' — a bɛ se ka kɛ kanuya yɛrɛ walima nɔnabila ye."
-    },
-    {
-      "kind": "you",
-      "subject": "denmusow",
-      "rationale": "Weleli tilennen Yerushalayim denmusow ma."
-    }
-  ],
-  "translation": "Ne b'aw cikan mara, Yerushalayim (Jerusalɛmu) denmusow, sisenw ni foro sisenmusow la: aw k'a yeli, aw k'a yeleke ⟨את⟩ kanuya, fo a ka fɛ don.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0a8e4ff521e79130072931154f13756e4a88c683f0908c6de7f7e8d0497d86da",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/2\/5-8.1791944541714.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N'ye ⟨את⟩ aw cikan da, Yerushalayim (Jerusalɛmu) denmusow: sagayaw fɛ walima foro sagamugaw fɛ — aw kana kanuya jigi, walima aw kana a sɔgɔli, fo a yɛrɛ b'a ɲini.",
   "tokens": [
     {
       "surface": "השבעתי",
-      "gloss": "Ne b'aw cikan mara"
+      "gloss": "n'ye … cikan da"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "denmusow"
+      "marks": "denmusow (Yerushalayim denmusow)"
     },
     {
       "surface": "בנות",
@@ -48,19 +22,19 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "Yerushalayim (Jerusalɛmu)"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "בצבאות",
-      "gloss": "sisenw"
+      "gloss": "sagayaw fɛ"
     },
     {
       "surface": "או",
-      "gloss": "ni"
+      "gloss": "walima"
     },
     {
       "surface": "באילות",
-      "gloss": "sisenmusow"
+      "gloss": "foro sagamugaw fɛ"
     },
     {
       "surface": "השדה",
@@ -68,19 +42,19 @@
     },
     {
       "surface": "אם",
-      "gloss": "aw k'a yeli"
+      "gloss": "aw kana"
     },
     {
       "surface": "תעירו",
-      "gloss": "aw k'a yeli"
+      "gloss": "jigi"
     },
     {
       "surface": "ואם",
-      "gloss": "aw k'a yeleke"
+      "gloss": "walima aw kana"
     },
     {
       "surface": "תעוררו",
-      "gloss": "aw k'a yeleke"
+      "gloss": "sɔgɔli"
     },
     {
       "surface": "את",
@@ -97,9 +71,9 @@
     },
     {
       "surface": "שתחפץ",
-      "gloss": "a ka fɛ don"
+      "gloss": "a yɛrɛ b'a ɲini"
     }
   ],
-  "timestamp": "2026-10-14T02:22:21.716395768Z",
+  "timestamp": "2026-10-20T15:41:12.089209851Z",
   "model": "glm-5.3"
 }

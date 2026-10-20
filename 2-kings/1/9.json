@@ -5,73 +5,47 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨o⟩",
-      "rationale": "Hebrew suffix -יו on 'his fifty' supplied as separate Bambara possessive"
-    },
-    {
-      "kind": "substitution",
-      "subject": "על ראש ההר",
-      "rationale": "lit. 'on the head of the mountain'; rendered 'kulu sanfetɛ' (top of the hill)"
-    },
-    {
-      "kind": "you",
-      "subject": "to Eliyahu",
-      "rationale": "captain addresses the man of God with royal summons 'come down'"
-    }
-  ],
-  "translation": "A y'a ɲini ni kɛmɛdɔrɔ 50-tigi kelen ye, ni ⟨o⟩ kɛmɛdɔrɔ 50 ye; o tigi tuluŋa a nɔ ma. A y'a ye ko, aw ka yɛlɛ, a sigilen don kulu sanfetɛ la. A y'a wele ko: yo Elohim mɔgɔ, masakɛ ko: aw ka na duguma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "964ab0b5d50b9bb361b60c11daa5245a361ec7c20c67916f8372b688c4739fed",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/1\/9-12.1791932569512.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y'o cɛmancɛ min dira tan-suru-denw la a cili a fɛ, kelen ni a ka tanw ye; a ye taa a fɛ — a sigilen kulun sanfɛ — a ye kuma fɔ a ye: «Elohim ka mɔgɔ, masakɛ fɔra ko: Aw na sigi.»",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "a y'a ɲini"
+      "gloss": "a y'a cili"
     },
     {
       "surface": "אליו",
-      "gloss": "a nɔ ma"
+      "gloss": "a fɛ"
     },
     {
       "surface": "שר",
-      "gloss": "kɛmɛdɔrɔ 50-tigi"
+      "gloss": "cɛmancɛ min dira tan-suru-denw la"
     },
     {
       "surface": "חמשים",
-      "gloss": "50"
+      "gloss": "tan-suru-denw"
     },
     {
       "surface": "וחמשיו",
-      "gloss": "ni o kɛmɛdɔrɔ 50"
+      "gloss": "ni a ka tanw ye"
     },
     {
       "surface": "ויעל",
-      "gloss": "o tigi tuluŋa"
+      "gloss": "a ye taa"
     },
     {
       "surface": "אליו",
-      "gloss": "a nɔ ma"
+      "gloss": "a fɛ"
     },
     {
       "surface": "והנה",
-      "gloss": "aw ka yɛlɛ"
+      "gloss": "—"
     },
     {
       "surface": "ישב",
-      "gloss": "a sigilen don"
+      "gloss": "a sigilen"
     },
     {
       "surface": "על",
-      "gloss": "sanfetɛ la"
+      "gloss": "sanfɛ"
     },
     {
       "surface": "ראש",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "ההר",
-      "gloss": "kulu"
+      "gloss": "kulun"
     },
     {
       "surface": "וידבר",
-      "gloss": "a y'a wele"
+      "gloss": "a ye kuma fɔ"
     },
     {
       "surface": "אליו",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohim ka"
     },
     {
       "surface": "המלך",
@@ -103,13 +77,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": "ko"
+      "gloss": "fɔra"
     },
     {
       "surface": "רדה",
-      "gloss": "aw ka na duguma"
+      "gloss": "Aw na sigi"
     }
   ],
-  "timestamp": "2026-10-13T23:02:49.516118802Z",
+  "timestamp": "2026-10-20T13:16:03.510929360Z",
   "model": "glm-5.3"
 }

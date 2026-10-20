@@ -5,54 +5,28 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hadamaden",
-      "rationale": "בן אדם ye 'Adam denkɛ' ye; n'an y'a bayɛlɛma 'hadamaden' (hadamaden-jate) ma, k'a kɔrɔ 'mɔgɔ' Jɔ."
-    },
-    {
-      "kind": "addition",
-      "subject": "ko",
-      "rationale": "Heburukan bɛ kuma-daɲɛ 'ko' wajibiya Bamanankan na, Hebrikan t'a la."
-    },
-    {
-      "kind": "you",
-      "subject": "Yehezkeyɛl",
-      "rationale": "Kumasen in bɛ Wele Yehezkeyɛl fɛ ni fɔlɔdaɲɛw ye (dun, taa, kuma)."
-    }
-  ],
-  "translation": "A y'a fɔ ne ye ko: hadamaden, ⟨את⟩ min i bɛ nyini, o dun; dun ⟨את⟩ sɛbɛn nin, ka taa ka kuma Yisrayɛl so ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "441a10aeac71e664c0f8b87082e1e091dda593eea6bd9db38bfaa21af70de85e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/3\/1-4.1791936668929.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ko ne ye: hadamaden, ⟨את⟩ min i na nyini, o dun — dun ⟨את⟩ sɛbɛnkurun in (magiliya), i ka taa i ka kuma Isirayeli (Isirayeli) so ma.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "A y'a fɔ"
+      "gloss": "a ko"
     },
     {
       "surface": "אלי",
-      "gloss": "ne ma"
+      "gloss": "ne ye"
     },
     {
       "surface": "בן",
-      "gloss": "denkɛ"
+      "gloss": "den"
     },
     {
       "surface": "אדם",
-      "gloss": "Adam"
+      "gloss": "hadamaden"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "min i bɛ nyini, o"
+      "marks": "min i na nyini (o min bɛna i bolo don)"
     },
     {
       "surface": "אשר",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "תמצא",
-      "gloss": "i bɛ nyini"
+      "gloss": "i na nyini"
     },
     {
       "surface": "אכול",
@@ -73,19 +47,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sɛbɛn nin"
+      "marks": "sɛbɛnkurun in"
     },
     {
       "surface": "המגלה",
-      "gloss": "sɛbɛn"
+      "gloss": "sɛbɛnkurun"
     },
     {
       "surface": "הזאת",
-      "gloss": "nin"
+      "gloss": "in"
     },
     {
       "surface": "ולך",
-      "gloss": "ka taa"
+      "gloss": "i ka taa"
     },
     {
       "surface": "דבר",
@@ -93,7 +67,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "…ma"
     },
     {
       "surface": "בית",
@@ -101,9 +75,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrayɛl"
+      "gloss": "Isirayeli (Isirayeli)"
     }
   ],
-  "timestamp": "2026-10-14T00:11:08.930435167Z",
+  "timestamp": "2026-10-20T14:03:56.046946538Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויכרת... עם",
-      "rationale": "'Cut a covenant' — Bambara 'ye layidu da' loses the cutting picture of כרת, echoing v15."
-    },
-    {
-      "kind": "crux",
-      "subject": "ובקש יהוה",
-      "rationale": "Jussive wish ('Yawe ka a ɲini') vs. YLT's future 'Yawe hath sought it' — KJV\/Geneva read a wish, YLT a statement."
-    },
-    {
-      "kind": "addition",
-      "subject": "ko",
-      "rationale": "Bambara quotative 'ko' added to introduce the covenant words; Hebrew has no marker."
-    }
-  ],
-  "translation": "Yonatan (Yunatan) ye layidu da Dawid (Dawuda) so ni, ko: Yawe ka a ɲini Dawid ka bɛnnyɔrɔmaw bolo.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cb14f6d7744f54c69aaef52baf127fee4bac8c66f30a41aced25b0187218fdb6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/20\/13-16.1791930528183.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yehonatan (Jonatan) ye layidu ke ni Dawid ka so ye, ani Yawe bɛ a ɲini Dawid ka bɛnbagaw bolo.",
   "tokens": [
     {
       "surface": "ויכרת",
-      "gloss": "ye layidu da"
+      "gloss": "ye layidu ke"
     },
     {
       "surface": "יהונתן",
-      "gloss": "Yonatan"
+      "gloss": "Yehonatan"
     },
     {
       "surface": "עם",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "ובקש",
-      "gloss": "ka a ɲini"
+      "gloss": "bɛ ɲini"
     },
     {
       "surface": "יהוה",
@@ -67,13 +41,13 @@
     },
     {
       "surface": "איבי",
-      "gloss": "bɛnnyɔrɔmaw"
+      "gloss": "bɛnbagaw"
     },
     {
       "surface": "דוד",
       "gloss": "Dawid"
     }
   ],
-  "timestamp": "2026-10-13T22:28:48.185647924Z",
+  "timestamp": "2026-10-20T13:01:34.893153023Z",
   "model": "glm-5.3"
 }

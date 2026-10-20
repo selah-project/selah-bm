@@ -5,41 +5,15 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "lakika",
-      "rationale": "תשועה is rescue\/deliverance; rendered 'your rescue'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כסיתי\/כחדתי",
-      "rationale": "parallel 'covered'\/'concealed' pair; Bambara repeats one verb dogo, losing the synonym variation"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨o⟩",
-      "rationale": "object pronoun supplied where Hebrew leaves the object implicit"
-    }
-  ],
-  "translation": "I ka tiɲɛɲɛnta, n ma a dogo n dusukun kɔnɔ; i ka tiɲɛ-nya ani i ka lakika, n ye ⟨o⟩ fɔ; n ma dogo i ka hesed ani i ka tiɲɛ jama ba ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/40\/9-12.1791940128649.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N man i ka kɛɲɛya dogo n ka dusukun kɔnɔ; i ka tiɲɛya ani i ka lasigili, n y'⟨u⟩ fɔ; n man i ka hesed ani i ka tiɲɛ dogo jama bon ma.",
   "tokens": [
     {
       "surface": "צדקתך",
-      "gloss": "i ka tiɲɛɲɛnta"
+      "gloss": "i ka kɛɲɛya"
     },
     {
       "surface": "לא",
-      "gloss": "n ma"
+      "gloss": "ma"
     },
     {
       "surface": "כסיתי",
@@ -51,23 +25,23 @@
     },
     {
       "surface": "לבי",
-      "gloss": "n dusukun"
+      "gloss": "n ka dusukun"
     },
     {
       "surface": "אמונתך",
-      "gloss": "i ka tiɲɛ-nya"
+      "gloss": "i ka tiɲɛya"
     },
     {
       "surface": "ותשועתך",
-      "gloss": "i ka lakika"
+      "gloss": "ani i ka lasigili"
     },
     {
       "surface": "אמרתי",
-      "gloss": "n ye fɔ"
+      "gloss": "n y'u fɔ"
     },
     {
       "surface": "לא",
-      "gloss": "n ma"
+      "gloss": "ma"
     },
     {
       "surface": "כחדתי",
@@ -79,17 +53,17 @@
     },
     {
       "surface": "ואמתך",
-      "gloss": "i ka tiɲɛ"
+      "gloss": "ani i ka tiɲɛ"
     },
     {
       "surface": "לקהל",
-      "gloss": "jama ba ma"
+      "gloss": "jama"
     },
     {
       "surface": "רב",
-      "gloss": "ba"
+      "gloss": "bon"
     }
   ],
-  "timestamp": "2026-10-14T01:08:48.650392917Z",
+  "timestamp": "2026-10-20T15:36:52.128597997Z",
   "model": "glm-5.3"
 }

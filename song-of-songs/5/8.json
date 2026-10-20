@@ -5,41 +5,16 @@
   "book": "song-of-songs",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מה תגידו לו",
-      "rationale": "'what will you tell him?' (question, JPS\/YLT) vs 'that you tell him' (charge, KJV\/ASV); rendered as question."
-    },
-    {
-      "kind": "substitution",
-      "subject": "bana ban kunuya la",
-      "rationale": "שחולת אהבה 'faint\/sick with love' rendered 'I am sick with love-illness'."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Yerushalayim denmusow",
-      "rationale": "direct adjuration addressed to the daughters of Jerusalem."
-    }
-  ],
-  "translation": "Ne bɛ aw miiri k'aw kɛ tiɲɛ-dabila: Yerushalayim (Jerusalɛmu) denmusow, ni aw ye ⟨את⟩ ne ka doodi ye, aw bɛ mun fɔ a ye? — ne bana ban kunuya la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/5\/5-8.1791944589185.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ne bɛ aw bila tiɲɛ la, Yerushalayim (Jerusalɛmu) denmusow, ni aw ye ⟨את⟩ n kanbila-nyɔgɔn ta ye, aw b'a fɔ a ye ko: ne ye mɔgɔ min bana kanuya na.",
   "tokens": [
     {
       "surface": "השבעתי",
-      "gloss": "ne bɛ aw miiri k'aw kɛ tiɲɛ-dabila"
+      "gloss": "ne bɛ aw bila tiɲɛ la"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw"
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim denmusow"
     },
     {
       "surface": "בנות",
@@ -60,19 +35,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ne ka doodi"
+      "marks": "n kanbila-nyɔgɔn (dodime)"
     },
     {
       "surface": "דודי",
-      "gloss": "ne ka doodi"
+      "gloss": "n kanbila-nyɔgɔn"
     },
     {
       "surface": "מה",
-      "gloss": "mun"
+      "gloss": "aw b'a fɔ ... ye ko"
     },
     {
       "surface": "תגידו",
-      "gloss": "aw bɛ ... fɔ"
+      "gloss": "aw b'a fɔ a ye"
     },
     {
       "surface": "לו",
@@ -80,17 +55,17 @@
     },
     {
       "surface": "שחולת",
-      "gloss": "bana ban"
+      "gloss": "mɔgɔ min bana"
     },
     {
       "surface": "אהבה",
-      "gloss": "kunuya"
+      "gloss": "kanuya na"
     },
     {
       "surface": "אני",
       "gloss": "ne"
     }
   ],
-  "timestamp": "2026-10-14T02:23:09.187298797Z",
+  "timestamp": "2026-10-20T15:41:46.852971549Z",
   "model": "glm-5.3"
 }

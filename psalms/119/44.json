@@ -5,27 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לְעוֹלָם וָעֶד",
-      "rationale": "The paired 'forever and ever' rendered by the Bambara idiom 'dunya ni kɔfɛ' (this world and beyond)."
-    }
-  ],
-  "translation": "Ani ne bɛna i ka Tora mara tuma bɛɛ, dunya ni kɔfɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "083b74b5421d477a7b0acb4e1a3563295e4833d22f5e9e5fbcdd8aa043e28985",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/119\/41-44.1791941559064.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "An bɛna i ka Tora mara tuma bɛɛ, fo ka taa <lɛɛla ni taamɛ>, ka taa bɛɛ bɛɛ.",
   "tokens": [
     {
       "surface": "ואשמרה",
-      "gloss": "ani ne bɛna mara"
+      "gloss": "an bɛna … mara"
     },
     {
       "surface": "תורתך",
@@ -37,13 +21,13 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "dunya"
+      "gloss": "fo ka taa lɛɛla"
     },
     {
       "surface": "ועד",
-      "gloss": "ni kɔfɛ"
+      "gloss": "ni taamɛ"
     }
   ],
-  "timestamp": "2026-10-14T01:32:39.065731119Z",
+  "timestamp": "2026-10-20T15:32:38.275133385Z",
   "model": "glm-5.3"
 }

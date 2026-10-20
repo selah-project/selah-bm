@@ -5,64 +5,38 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "כסא",
-      "rationale": "throne rendered baŋkɛrɛ 'royal seat'; Bambara has no native throne word"
-    },
-    {
-      "kind": "measurement",
-      "subject": "המאות",
-      "rationale": "'hundreds' — military units of a hundred counted out"
-    },
-    {
-      "kind": "addition",
-      "subject": "masakɛya",
-      "rationale": "Hebrew הממלכה is 'the kingdom'; Bambara needs the genitive 'masakɛya baŋkɛrɛ' for 'throne of the kingdom'"
-    }
-  ],
-  "translation": "A ye ⟨את⟩ kemekɛnw ka kɛmɛsɔrɔdɔnɛtigiw, ni ⟨את⟩ mɔgɔ babaw, ni ⟨את⟩ jamaa ɲɛmɔgɔw, ni ⟨את⟩ dugukolo jamaa bɛɛ ta, ka masakɛ bila Yawe so na, u naana sanfɛla daw kɔnɔ, masakɛ so kɔnɔ, ka masakɛ sigi masakɛya baŋkɛrɛ la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "585db9fcec29ca14deb44dce472312265fef9d8bec1c37b8a04de1879b251df4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/23\/17-20.1791949332290.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ye ⟨את⟩ kɛmɛdaw ka kilabagaw min, ani ⟨את⟩ ɔɛɔdaw, ani ⟨את⟩ jamanamɛnw ka ɲɛmɔgɔw, ani ⟨את⟩ dugukolo mɔgɔ bɛɛ, a y'a bilabila Yawe so la; u ye ⟨את⟩ masakɛ bɔ yen, u naana sanfɛla da kɔnɔ, min ye masakɛ so ye, u tun bilala ⟨את⟩ masakɛ ɔɛɔ sanma.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "ye ... ta"
+      "gloss": "min"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kɛmɛsɔrɔdɔnɛtigiw"
+      "marks": "kɛmɛdaw ka kilabagaw"
     },
     {
       "surface": "שרי",
-      "gloss": "kɛmɛsɔrɔdɔnɛtigiw"
+      "gloss": "kilabagaw"
     },
     {
       "surface": "המאות",
-      "gloss": "kɛmɛ"
+      "gloss": "kɛmɛdaw"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "mɔgɔ babaw"
+      "marks": "ɔɛɔdaw"
     },
     {
       "surface": "האדירים",
-      "gloss": "mɔgɔ babaw"
+      "gloss": "ɔɛɔdaw"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "jamaa ɲɛmɔgɔw"
+      "marks": "jamanamɛnw ka ɲɛmɔgɔw"
     },
     {
       "surface": "המושלים",
@@ -70,12 +44,12 @@
     },
     {
       "surface": "בעם",
-      "gloss": "jamaa"
+      "gloss": "jamanamɛnw la"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "dugukolo jamaa bɛɛ"
+      "marks": "dugukolo mɔgɔ bɛɛ"
     },
     {
       "surface": "כל",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "jamaa"
+      "gloss": "mɔgɔ"
     },
     {
       "surface": "הארץ",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "ויורד",
-      "gloss": "ka ... bila ... na"
+      "gloss": "bilabila"
     },
     {
       "surface": "את",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "מבית",
-      "gloss": "so"
+      "gloss": "so la"
     },
     {
       "surface": "יהוה",
@@ -120,7 +94,7 @@
     },
     {
       "surface": "שער",
-      "gloss": "daw"
+      "gloss": "da"
     },
     {
       "surface": "העליון",
@@ -136,7 +110,7 @@
     },
     {
       "surface": "ויושיבו",
-      "gloss": "ka ... sigi"
+      "gloss": "u tun bilala"
     },
     {
       "surface": "את",
@@ -149,17 +123,17 @@
     },
     {
       "surface": "על",
-      "gloss": "la"
+      "gloss": "sanma"
     },
     {
       "surface": "כסא",
-      "gloss": "baŋkɛrɛ"
+      "gloss": "ɔɛɔ"
     },
     {
       "surface": "הממלכה",
       "gloss": "masakɛya"
     }
   ],
-  "timestamp": "2026-10-14T03:42:12.293798527Z",
+  "timestamp": "2026-10-20T13:11:39.221562767Z",
   "model": "glm-5.3"
 }

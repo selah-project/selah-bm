@@ -5,52 +5,31 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ברכו",
-      "rationale": "Hebrew verb lacks explicit object 'him'; Bambara needs 'o' supplied"
-    },
-    {
-      "kind": "measurement",
-      "subject": "birth order",
-      "rationale": "Ordinal list of Obed-edom's sons, sixth through eighth"
-    }
-  ],
-  "translation": "Ammiel min ye filanan ye, a ye souran ye, Peullethai ye seegin ye, sabu Elohim ye o duba.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b9de67f0a80c130408cfe0fa9ca5e55c797bb4254132db064addf8c4072a4773",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/26\/5-8.1791948357666.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ammiyɛl ye wolonfilanan ye, Yisasakar (Yisakara) ye wolonwulasannan ye, Pɛuletay ye wolenseginnan ye — sabu Elohim y'a duba.",
   "tokens": [
     {
       "surface": "עמיאל",
-      "gloss": "Ammiel"
+      "gloss": "Ammiyɛl"
     },
     {
       "surface": "הששי",
-      "gloss": "min ye filanan ye"
+      "gloss": "wolonfilanan"
     },
     {
       "surface": "יששכר",
-      "gloss": "Yisaskar"
+      "gloss": "Yisasakar (Yisakara)"
     },
     {
       "surface": "השביעי",
-      "gloss": "a ye souran ye"
+      "gloss": "wolonwulasannan"
     },
     {
       "surface": "פעלתי",
-      "gloss": "Peullethai"
+      "gloss": "Pɛuletay"
     },
     {
       "surface": "השמיני",
-      "gloss": "a ye seegin ye"
+      "gloss": "wolenseginnan"
     },
     {
       "surface": "כי",
@@ -58,13 +37,13 @@
     },
     {
       "surface": "ברכו",
-      "gloss": "ye o duba"
+      "gloss": "y'a duba"
     },
     {
       "surface": "אלהים",
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-14T03:25:57.666718207Z",
+  "timestamp": "2026-10-20T12:48:49.457142472Z",
   "model": "glm-5.3"
 }

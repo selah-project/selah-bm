@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שמע תשמעו",
-      "rationale": "Infinitive absolute before the verb — 'mɛn-mɛnna' doubled hearing for emphasis; Bambara keeps one verb 'ye mɛn … mɛn'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ni",
-      "rationale": "נפש rendered 'ni' (life\/breath-force), not a separate 'soul' concept"
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "Direct address to Isirayeli, Moshe ka kuma"
-    }
-  ],
-  "translation": "A bɛna kɛ: ni aw ye mɛn an ka sariyaw minnu de ne bɛ aw da bi, ka kanuya ⟨את⟩ Yawe aw ka Ala, ani k'a baara kɛ ni aw ka dusukun bɛɛ ye ani ni aw ka ni bɛɛ ye,",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "5e7356629e3c7a107172c684e4f174dd6f7f8a82d8a87133e9b805f7e348dd09",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/11\/13-16.1791927735635.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ko bɛna kɛ: ni aw mɛn-mɛnna An ka sariya minnu An b'aw dalilu ⟨את⟩ sinyɛ, walasa aw ka Yawe ⟨את⟩ aw Elohim Elohim kanuya, ani ka a la baara kɛ ni aw dusukun bɛɛ ani ni aw ni bɛɛ ye.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "a bɛna kɛ"
+      "gloss": "ko bɛna kɛ"
     },
     {
       "surface": "אם",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "שמע",
-      "gloss": "ye mɛn"
-    },
-    {
-      "surface": "תשמעו",
       "gloss": "mɛn"
     },
     {
+      "surface": "תשמעו",
+      "gloss": "aw mɛn-mɛnna"
+    },
+    {
       "surface": "אל",
-      "gloss": "de"
+      "gloss": "ma"
     },
     {
       "surface": "מצותי",
-      "gloss": "an ka sariyaw"
+      "gloss": "An ka sariya minnu"
     },
     {
       "surface": "אשר",
@@ -63,29 +37,29 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "ne"
+      "gloss": "An"
     },
     {
       "surface": "מצוה",
-      "gloss": "bɛ aw da"
+      "gloss": "b'aw dalilu"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "aw"
+      "marks": "aw (dalilu kɛrɛfɛ ye — sinyɛ don in)"
     },
     {
       "surface": "היום",
-      "gloss": "bi"
+      "gloss": "sinyɛ"
     },
     {
       "surface": "לאהבה",
-      "gloss": "ka kanuya"
+      "gloss": "walasa aw ka kanuya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe aw ka Ala"
+      "marks": "Yawe, aw Elohim Elohim"
     },
     {
       "surface": "יהוה",
@@ -93,29 +67,29 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "aw ka Ala"
+      "gloss": "aw Elohim Elohim"
     },
     {
       "surface": "ולעבדו",
-      "gloss": "ani k'a baara kɛ"
+      "gloss": "ani ka a la baara kɛ"
     },
     {
       "surface": "בכל",
-      "gloss": "ni bɛɛ ye"
+      "gloss": "bɛɛ"
     },
     {
       "surface": "לבבכם",
-      "gloss": "aw ka dusukun"
+      "gloss": "aw dusukun"
     },
     {
       "surface": "ובכל",
-      "gloss": "ani ni bɛɛ ye"
+      "gloss": "ani bɛɛ"
     },
     {
       "surface": "נפשכם",
-      "gloss": "aw ka ni"
+      "gloss": "aw ni"
     }
   ],
-  "timestamp": "2026-10-13T21:42:15.640985888Z",
+  "timestamp": "2026-10-20T13:39:11.166927811Z",
   "model": "glm-5.3"
 }

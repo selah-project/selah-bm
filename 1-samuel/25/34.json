@@ -5,41 +5,15 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "משתין בקיר",
-      "rationale": "'one who urinates against the wall' = idiom for males; kept literally, many versions soften it to 'male'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אתך",
-      "gloss note": "אתך here is 'you' with 2fs suffix (at + k), not the DO marker; rendered 'i'"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ko tiɲɛ⟩",
-      "rationale": "כי אם oath-reinforcement supplied in Bambara to carry the oath force"
-    }
-  ],
-  "translation": "Amisa, ni Yawe, Isirayeli (Izirayeli) Ala ka tiɲɛ ko a balo, min ye ne mɔɔsira ka ne bila i juguw la — sabu ni i ma teliya ka na ne ɲɛ fɛ, mɔgɔ min bɛ ji bila dɛgɛ kan kelen si tun tɛna to Nabali (Nabalu) ma fo sɔgɔma yeelen na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "1c815526323512d4e74d506d6dfb3ff207a74f9dc9281d34f1f68b575073f572",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/25\/33-36.1791930772991.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nka tiɲɛ na, i n'a fɔ Yawe, Isirayɛl Elohim, balo ye — min ye n' bali ka juguya kɛ ⟨את⟩ i ma — ni i ma teliya, i na n ɲɛfɛ, tiɲɛ na, mɔgɔ min bɛ tunu bentan kan, o si ma to Nabal ma fo sɔgɔma yeelen ma.",
   "tokens": [
     {
       "surface": "ואולם",
-      "gloss": "amisa"
+      "gloss": "nka tiɲɛ na"
     },
     {
       "surface": "חי",
-      "gloss": "ka tiɲɛ ko a balo"
+      "gloss": "balo"
     },
     {
       "surface": "יהוה",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayeli"
+      "gloss": "Isirayɛl"
     },
     {
       "surface": "אשר",
@@ -59,15 +33,16 @@
     },
     {
       "surface": "מנעני",
-      "gloss": "ye ne mɔɔsira"
+      "gloss": "ye n' bali"
     },
     {
       "surface": "מהרע",
-      "gloss": "ka ne bila i juguw la"
+      "gloss": "juguya kɛ"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ i"
+      "gloss": "⟨את⟩",
+      "marks": "i ma"
     },
     {
       "surface": "כי",
@@ -75,35 +50,35 @@
     },
     {
       "surface": "לולי",
-      "gloss": "ni … ma"
+      "gloss": "ni i ma"
     },
     {
       "surface": "מהרת",
-      "gloss": "i ma teliya"
+      "gloss": "teliya"
     },
     {
       "surface": "ותבאתי",
-      "gloss": "ka na"
+      "gloss": "na"
     },
     {
       "surface": "לקראתי",
-      "gloss": "ne ɲɛ fɛ"
+      "gloss": "n ɲɛfɛ"
     },
     {
       "surface": "כי",
-      "gloss": "⟨ko tiɲɛ⟩"
+      "gloss": "tiɲɛ na"
     },
     {
       "surface": "אם",
-      "gloss": "⟨tiɲɛ⟩"
+      "gloss": "dɔrɔn"
     },
     {
       "surface": "נותר",
-      "gloss": "tun tɛna to"
+      "gloss": "to"
     },
     {
       "surface": "לנבל",
-      "gloss": "Nabali ma"
+      "gloss": "Nabal ma"
     },
     {
       "surface": "עד",
@@ -119,13 +94,13 @@
     },
     {
       "surface": "משתין",
-      "gloss": "min bɛ ji bila"
+      "gloss": "min bɛ tunu"
     },
     {
       "surface": "בקיר",
-      "gloss": "dɛgɛ kan"
+      "gloss": "bentan kan"
     }
   ],
-  "timestamp": "2026-10-13T22:32:53.038279243Z",
+  "timestamp": "2026-10-20T13:03:26.724020836Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "numbers",
   "lang": "bm",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אותה",
-      "rationale": "אוֹתָהּ is the pronoun 'her' (object of יניא), not the aleph-tav marker; rendered 'a'."
-    },
-    {
-      "kind": "crux",
-      "subject": "מבטא",
-      "rationale": "'rash utterance' (ASV\/BSB) vs 'clear utterance' (JPS) — rendered simply 'kuma' (utterance)."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ni",
-      "rationale": "נפש is life-force\/throat, rendered 'ni' per fixed vocabulary."
-    }
-  ],
-  "translation": "Ni don kelen na a cɛ mɛn a, ka a bali — a ye ⟨את⟩ a ladamuni min bɛ a kan fɔ, ani ⟨את⟩ a nogɔ kuma min i tugu a ni kan, Yawe bɛ yafa di a ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8255ef01ac25b4e46433a6f266d7164c0065eb3497f8bfeecac8c54edac4b553",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/30\/9-12.1791927271889.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nka ni a cɛkɔrɔba ye a ma awaati don min na a mɛn a, a na ⟨את⟩ a layidu min bɛ a kan, a ni ⟨את⟩ a lebu fen min ye a lebu la min a furu a ni kan, Yawe na a sɔn.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "ni"
+      "gloss": "Nka ni"
     },
     {
       "surface": "ביום",
-      "gloss": "don kelen na"
+      "gloss": "don min na"
     },
     {
       "surface": "שמע",
@@ -47,28 +21,29 @@
     },
     {
       "surface": "אישה",
-      "gloss": "a cɛ"
+      "gloss": "a cɛkɔrɔba"
     },
     {
       "surface": "יניא",
-      "gloss": "bali"
+      "gloss": "ma awaati"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ a"
+      "gloss": "⟨את⟩",
+      "marks": "a (muso min bɛ kuma kɔnɔ)"
     },
     {
       "surface": "והפר",
-      "gloss": "fɔ"
+      "gloss": "bali"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a ladamuni"
+      "marks": "a layidu"
     },
     {
       "surface": "נדרה",
-      "gloss": "a ladamuni"
+      "gloss": "a layidu"
     },
     {
       "surface": "אשר",
@@ -81,15 +56,15 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "a nogɔ kuma"
+      "marks": "a lebu fen min ye a lebu la"
     },
     {
       "surface": "מבטא",
-      "gloss": "kuma"
+      "gloss": "lebu fen min ye a lebu la"
     },
     {
       "surface": "שפתיה",
-      "gloss": "a nogɔw"
+      "gloss": "a lebu"
     },
     {
       "surface": "אשר",
@@ -97,7 +72,7 @@
     },
     {
       "surface": "אסרה",
-      "gloss": "jɛ"
+      "gloss": "furu"
     },
     {
       "surface": "על",
@@ -113,13 +88,13 @@
     },
     {
       "surface": "יסלח",
-      "gloss": "yafa di"
+      "gloss": "sɔn"
     },
     {
       "surface": "לה",
-      "gloss": "a ma"
+      "gloss": "a"
     }
   ],
-  "timestamp": "2026-10-13T21:34:31.890653466Z",
+  "timestamp": "2026-10-20T15:25:05.984385613Z",
   "model": "glm-5.3"
 }

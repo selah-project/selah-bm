@@ -5,37 +5,11 @@
   "book": "ezra",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "u daminɛ",
-      "rationale": "Hebrew החלו names the leaders as its subject but the work-object is implicit; the rendering repeats the verb to carry the long list"
-    },
-    {
-      "kind": "measurement",
-      "subject": "san mugan ni a sanba",
-      "rationale": "minimum age of the Levites is fixed by count — twenty years"
-    },
-    {
-      "kind": "crux",
-      "subject": "לנצח",
-      "rationale": "from נצח: 'to supervise\/oversee the work' vs 'to lead the music' — here administrative oversight, ka ɲɛmɔ kɛ"
-    }
-  ],
-  "translation": "San filanan na, u ka na Elohim ka so kɔnɔ, Yerushalayim (Yerusalɛmu), kalo filanan na, u daminɛ — Zerubabeli (Zerubabeli), Shealtieli (Saltieli) denkɛ, ni Yeshua (Jeshua), Yotsadaki (Jozadaki) denkɛ, ni u balimakɛw tɔɔrɛ, sarakalasebagaw ani Lewiw (Levi) dencɛw, ani mɔgɔ bɛɛ minnu bɔra dancɛ (captivité) la ka na Yerushalayim — u ye ⟨את⟩ Lewiw dencɛw sigi san mugan ni a sanba la, ka ɲɛmɔ kɛ baara la Yawe so kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "51a95af595ec64a53451fff6268b72a2a16b0354979a6905650df2c3a63407a5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/3\/5-8.1791946560699.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "San filanan na, nin u nana Elohim ka so ma Yerushalayim (Jerusalɛmu) na, kalo filanan na, Zerubabel, Shaltiel denkɛ, ni Yeshu'a, Yotsadak denkɛ, ni olu balimakɛw tɔɔrɔ — sarakalasebagaw ni Lewiyenw — ni mɔgɔ bɛɛ minnu bɔra jonso la na Yerushalayim, u bilala ⟨את⟩ Lewiyenw, min san tiŋɛna mugan walima a sanba, walasa u ka Yawe ka so baara ɲɛmɔgɔya kɛ.",
   "tokens": [
     {
       "surface": "ובשנה",
-      "gloss": "san … na"
+      "gloss": "san"
     },
     {
       "surface": "השנית",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "לבואם",
-      "gloss": "u ka na"
+      "gloss": "nin u nana"
     },
     {
       "surface": "אל",
-      "gloss": "… kɔnɔ"
+      "gloss": "ma"
     },
     {
       "surface": "בית",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim ka"
+      "gloss": "Elohim"
     },
     {
       "surface": "לירושלם",
-      "gloss": "Yerushalayim (Yerusalɛmu)"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "בחדש",
-      "gloss": "kalo … na"
+      "gloss": "kalo"
     },
     {
       "surface": "השני",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "החלו",
-      "gloss": "u daminɛ"
+      "gloss": "daminɛna"
     },
     {
       "surface": "זרבבל",
-      "gloss": "Zerubabeli (Zerubabeli)"
+      "gloss": "Zerubabel"
     },
     {
       "surface": "בן",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "שאלתיאל",
-      "gloss": "Shealtieli (Saltieli)"
+      "gloss": "Shaltiel"
     },
     {
       "surface": "וישוע",
-      "gloss": "Yeshua (Jeshua)"
+      "gloss": "ni Yeshu'a"
     },
     {
       "surface": "בן",
@@ -95,15 +69,15 @@
     },
     {
       "surface": "יוצדק",
-      "gloss": "Yotsadaki (Jozadaki)"
+      "gloss": "Yotsadak"
     },
     {
       "surface": "ושאר",
-      "gloss": "ni … tɔɔrɛ"
+      "gloss": "ni tɔɔrɔ"
     },
     {
       "surface": "אחיהם",
-      "gloss": "u balimakɛw"
+      "gloss": "olu balimakɛw"
     },
     {
       "surface": "הכהנים",
@@ -111,11 +85,11 @@
     },
     {
       "surface": "והלוים",
-      "gloss": "ani Lewiw (Levi) dencɛw"
+      "gloss": "ni Lewiyenw"
     },
     {
       "surface": "וכל",
-      "gloss": "ani … bɛɛ"
+      "gloss": "ni bɛɛ"
     },
     {
       "surface": "הבאים",
@@ -123,7 +97,7 @@
     },
     {
       "surface": "מהשבי",
-      "gloss": "bɔra dancɛ (captivité) la"
+      "gloss": "jonso"
     },
     {
       "surface": "ירושלם",
@@ -131,20 +105,20 @@
     },
     {
       "surface": "ויעמידו",
-      "gloss": "u ye … sigi"
+      "gloss": "u bilala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Lewiw dencɛw"
+      "marks": "Lewiyenw"
     },
     {
       "surface": "הלוים",
-      "gloss": "Lewiw dencɛw"
+      "gloss": "Lewiyenw"
     },
     {
       "surface": "מבן",
-      "gloss": "… san"
+      "gloss": "min bɛ"
     },
     {
       "surface": "עשרים",
@@ -156,15 +130,15 @@
     },
     {
       "surface": "ומעלה",
-      "gloss": "ni a sanba"
+      "gloss": "walima a sanba"
     },
     {
       "surface": "לנצח",
-      "gloss": "ka ɲɛmɔ kɛ"
+      "gloss": "walasa u ka ɲɛmɔgɔya kɛ"
     },
     {
       "surface": "על",
-      "gloss": "… la"
+      "gloss": ""
     },
     {
       "surface": "מלאכת",
@@ -172,13 +146,13 @@
     },
     {
       "surface": "בית",
-      "gloss": "… so"
+      "gloss": "so"
     },
     {
       "surface": "יהוה",
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-14T02:56:00.701531343Z",
+  "timestamp": "2026-10-20T14:10:32.500316052Z",
   "model": "glm-5.3"
 }

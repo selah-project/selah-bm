@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ti",
-      "rationale": "Hebrew הלא expects the answer yes; Bambara question with 'ti' carries the same rhetorical force"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מסית → aw blali",
-      "rationale": "'to prick\/seduce' rendered as 'causing you to slip\/stumble (bali)'; the incitement picture kept as misleading"
-    },
-    {
-      "kind": "substitution",
-      "subject": "כף → bolo",
-      "rationale": "'hollow of the palm' rendered with Bambara 'bolo' (hand\/arm); the cupped-hand image has no single Bambara word"
-    }
-  ],
-  "translation": "Yehizkiyahu ti a bɛ aw blali aw ka sa kɔngɔ ni dumanikɔlɛ la, ko: Yawe, an ka Elohim, bɛna an lasɔrɔ Ashur masakɛ bolo la?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "33da31ad26dd2a56c8b01969218523d4962cd2231b3e5f96f8b8559b68ef6093",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/32\/9-12.1791949664545.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yala Yehizkiyahu (Ezikiya) tɛ aw laseli aw ma aw ka sa kɔngɔ ni sinya la, ko: Yawe, an ka Elohim, bɛna an lasago bɔ Ashur (Asiri) masakɛ bolo la?",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "ti"
+      "gloss": "yala"
     },
     {
       "surface": "יחזקיהו",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "מסית",
-      "gloss": "bɛ aw blali"
+      "gloss": "tɛ aw laseli"
     },
     {
       "surface": "אתכם",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "לתת",
-      "gloss": "aw ka"
+      "gloss": "aw ma"
     },
     {
       "surface": "אתכם",
@@ -61,15 +35,15 @@
     },
     {
       "surface": "למות",
-      "gloss": "sa"
+      "gloss": "aw ka sa"
     },
     {
       "surface": "ברעב",
-      "gloss": "kɔngɔ"
+      "gloss": "kɔngɔ la"
     },
     {
       "surface": "ובצמא",
-      "gloss": "ni dumanikɔlɛ"
+      "gloss": "ni sinya la"
     },
     {
       "surface": "לאמר",
@@ -85,11 +59,11 @@
     },
     {
       "surface": "יצילנו",
-      "gloss": "bɛna an lasɔrɔ"
+      "gloss": "bɛna an lasago"
     },
     {
       "surface": "מכף",
-      "gloss": "bolo"
+      "gloss": "bolo la"
     },
     {
       "surface": "מלך",
@@ -100,6 +74,6 @@
       "gloss": "Ashur"
     }
   ],
-  "timestamp": "2026-10-14T03:47:44.546893258Z",
+  "timestamp": "2026-10-20T13:13:38.999872719Z",
   "model": "glm-5.3"
 }

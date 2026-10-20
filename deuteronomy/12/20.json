@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "נפשך",
-      "rationale": "נפש is life-force\/appetite, rendered i ni per the fixed gloss."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תאוה\/אוה and בשר",
-      "rationale": "Root אוה appears twice (desire, longing) and בשר four times — a fourfold drum on flesh and craving that the translation carries by repetition."
-    }
-  ],
-  "translation": "Ni Yawe i Ala ka ⟨את⟩ i danw caya, i n'a fɔ a y'a fɔ i ye o cogo min na, i na ko: “N b'a fɛ ka sogo dun,” sabu i ni b'a fɛ ka sogo dun — i ni ka sogo dun, i ni bɛ fɛ min o bɛɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b48f7e28498e565b0ebf3232708906a6925c06371484fe2cad5cc68f4f081999",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/12\/17-20.1791927864520.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni Yawe, i Elohim Elohim, bɛna ⟨את⟩ i dan wɛrɛ, o cogo min na a y'i fɔ i ye, ani kɔ fɛ i bɛna a fɔ: ne bɛ fɛ ka sogo dun — sabu i ni b'a fɛ ka sogo dun — i bɛ se ka sogo dun, i ni b'a fɛ bɛɛ ye.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ni"
+      "gloss": "Ni"
     },
     {
       "surface": "ירחיב",
-      "gloss": "ka caya"
+      "gloss": "bɛna … wɛrɛ"
     },
     {
       "surface": "יהוה",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i Ala"
+      "gloss": "i Elohim Elohim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i danw"
+      "marks": "i dan"
     },
     {
       "surface": "גבולך",
-      "gloss": "i danw"
+      "gloss": "i dan"
     },
     {
       "surface": "כאשר",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "a y'a fɔ"
+      "gloss": "y'i fɔ"
     },
     {
       "surface": "לך",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "i na ko"
+      "gloss": "i bɛna a fɔ"
     },
     {
       "surface": "אכלה",
-      "gloss": "n b'a fɛ ka dun"
+      "gloss": "ne bɛ fɛ ka … dun"
     },
     {
       "surface": "בשר",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "לאכל",
-      "gloss": "ka dun"
+      "gloss": "ka … dun"
     },
     {
       "surface": "בשר",
@@ -99,11 +78,11 @@
     },
     {
       "surface": "בכל",
-      "gloss": "o bɛɛ na"
+      "gloss": "bɛɛ ye"
     },
     {
       "surface": "אות",
-      "gloss": "i ni bɛ fɛ min"
+      "gloss": "i ni b'a fɛ"
     },
     {
       "surface": "נפשך",
@@ -111,13 +90,13 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "i ni ka dun"
+      "gloss": "i bɛ se ka … dun"
     },
     {
       "surface": "בשר",
       "gloss": "sogo"
     }
   ],
-  "timestamp": "2026-10-13T21:44:24.532533023Z",
+  "timestamp": "2026-10-20T13:38:54.888974345Z",
   "model": "glm-5.3"
 }

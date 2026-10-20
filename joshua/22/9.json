@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אחזתם\/נאחזו",
-      "rationale": "possession\/they-took-possession — same root twice, the echo lost in Bambara"
-    },
-    {
-      "kind": "substitution",
-      "subject": "da kuma",
-      "rationale": "על פי 'upon the mouth of' rendered idiomatically as 'da kuma la' (by the word)"
-    }
-  ],
-  "translation": "Reuven (Ruben) denyaw ni Gad denyaw ni Manase sow ka filen ye u yɛrɛ segin, ka bɔ ⟨את⟩ Israel denyaw la, Shilo la, min bɛ Kanaan dugukolo kɔnɔ, ka taa Gilada dugukolo la, ka taa u ka minɛ dugukolo la, minnu minɛra a la Yawe da kuma la, Moshe (Musa) bolo fɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0fe005bd6873b371722a267d59c5167fc5781f73a3d271d1c00111d3c8fc9dc5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/22\/9-12.1791929071982.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Rewuben (Ruben) denw ni Gad denw ni Manasha (Manase) masada tilennenw yɛlɛma ka taa, ka bɔ ⟨את⟩ Israyeldenw fɛ, bɔ Shilo (Silo) la, min bɛ Kanaan dugukolo la, ka taa Gilad dugukolo la, ka taa u ka minɛn dugukolo la, minnu y'o minɛ Yawe da fɛ, ni Moshe (Musa) bolo ye.",
   "tokens": [
     {
       "surface": "וישבו",
-      "gloss": "ye u yɛrɛ segin"
+      "gloss": "yɛlɛma"
     },
     {
       "surface": "וילכו",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "בני",
-      "gloss": "denyaw"
+      "gloss": "denw"
     },
     {
       "surface": "ראובן",
-      "gloss": "Reuven"
+      "gloss": "Rewuben"
     },
     {
       "surface": "ובני",
-      "gloss": "denyaw"
+      "gloss": "ni … denw"
     },
     {
       "surface": "גד",
@@ -54,28 +33,28 @@
     },
     {
       "surface": "וחצי",
-      "gloss": "ka filen"
+      "gloss": "ni … tilennen"
     },
     {
       "surface": "שבט",
-      "gloss": "sow"
+      "gloss": "masada"
     },
     {
       "surface": "המנשה",
-      "gloss": "Manase"
+      "gloss": "Manasha"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
-      "marks": "Israel denyaw"
+      "gloss": "bɔ ⟨את⟩ … fɛ",
+      "marks": "Israyeldenw"
     },
     {
       "surface": "בני",
-      "gloss": "denyaw"
+      "gloss": "denw"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Israyel"
     },
     {
       "surface": "משלה",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "dugukolo kɔnɔ"
+      "gloss": "dugukolo la"
     },
     {
       "surface": "כנען",
@@ -95,11 +74,11 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "ka taa"
+      "gloss": "ka taa kama"
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "… la"
     },
     {
       "surface": "ארץ",
@@ -107,11 +86,11 @@
     },
     {
       "surface": "הגלעד",
-      "gloss": "Gilada"
+      "gloss": "Gilad"
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "… la"
     },
     {
       "surface": "ארץ",
@@ -119,27 +98,27 @@
     },
     {
       "surface": "אחזתם",
-      "gloss": "u ka minɛ"
+      "gloss": "u ka minɛn"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "נאחזו",
-      "gloss": "minɛra"
+      "gloss": "y'o minɛ"
     },
     {
       "surface": "בה",
-      "gloss": "a la"
+      "gloss": "o la"
     },
     {
       "surface": "על",
-      "gloss": "la"
+      "gloss": "… fɛ"
     },
     {
       "surface": "פי",
-      "gloss": "da kuma"
+      "gloss": "da"
     },
     {
       "surface": "יהוה",
@@ -147,13 +126,13 @@
     },
     {
       "surface": "ביד",
-      "gloss": "bolo fɛ"
+      "gloss": "bolo"
     },
     {
       "surface": "משה",
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-10-13T22:04:31.983736303Z",
+  "timestamp": "2026-10-20T14:56:09.930627353Z",
   "model": "glm-5.3"
 }

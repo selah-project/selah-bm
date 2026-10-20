@@ -5,49 +5,23 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עוד",
-      "rationale": "Hebrew 'still\/again' (twice) folded into Bambara negation kana … ; no separate word."
-    },
-    {
-      "kind": "substitution",
-      "subject": "juya",
-      "rationale": "טמא is cultic contamination ('be unclean'); juya is moral filth, the nearest Bambara shape."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לעם\/לאלהים",
-      "rationale": "Chiastic covenant formula people\/God — God\/people mirrors u na kɛ \/ ne na kɛ."
-    }
-  ],
-  "translation": "Walasa Yisrayɛl so kana taa yɔrɔ wɛrɛ n kɔfɛ, kana u ka tiganibaliw bɛɛ la juya; u na kɛ ne ye jamana ye, ne na kɛ u ye Ala ye — Adonay Yawe ko.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "97553dda928ede6ede1496b76d6c9937eb7afded6a40280680f649690562a52f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/14\/9-12.1791936917120.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Walasa Yisrayel so tuguni te ban Yawe kɔfɛ, ani u tuguni te jiɲikɛ ni u jurumuw bɛɛ ye; k'u kɛra n ye jama ye, ani n na kɛ ⟨u⟩ ye Elohim ye — Adonay Yawe ka kuma de.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "walasa"
+      "gloss": "Walasa"
     },
     {
       "surface": "לא",
-      "gloss": "kana"
+      "gloss": "te"
     },
     {
       "surface": "יתעו",
-      "gloss": "taa yɔrɔ wɛrɛ"
+      "gloss": "ban"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "tuguni"
     },
     {
       "surface": "בית",
@@ -55,23 +29,23 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrayɛl"
+      "gloss": "Yisrayel"
     },
     {
       "surface": "מאחרי",
-      "gloss": "… n kɔfɛ"
+      "gloss": "kɔfɛ"
     },
     {
       "surface": "ולא",
-      "gloss": "kana"
+      "gloss": "ani te"
     },
     {
       "surface": "יטמאו",
-      "gloss": "juya"
+      "gloss": "jiɲikɛ"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "tuguni"
     },
     {
       "surface": "בכל",
@@ -79,23 +53,23 @@
     },
     {
       "surface": "פשעיהם",
-      "gloss": "u ka tiganibaliw"
+      "gloss": "jurumuw"
     },
     {
       "surface": "והיו",
-      "gloss": "u na kɛ"
+      "gloss": "kɛra"
     },
     {
       "surface": "לי",
-      "gloss": "ne ye"
+      "gloss": "n ye"
     },
     {
       "surface": "לעם",
-      "gloss": "jamana"
+      "gloss": "jama"
     },
     {
       "surface": "ואני",
-      "gloss": "ne"
+      "gloss": "ani n"
     },
     {
       "surface": "אהיה",
@@ -107,11 +81,11 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "נאם",
-      "gloss": "… ko"
+      "gloss": "kuma de"
     },
     {
       "surface": "אדני",
@@ -122,6 +96,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-14T00:15:17.121758580Z",
+  "timestamp": "2026-10-20T13:59:34.544962443Z",
   "model": "glm-5.3"
 }

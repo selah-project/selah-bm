@@ -5,69 +5,43 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בעלי קעילה",
-      "rationale": "literally 'masters\/possessors of Keilah', rendered 'Kewila tigiw'"
-    },
-    {
-      "kind": "secret",
-      "subject": "oracle inquiry",
-      "rationale": "David asks Yawe to reveal hidden future events — will they surrender him"
-    },
-    {
-      "kind": "you",
-      "subject": "to Yawe",
-      "rationale": "direct second-person address throughout the prayer"
-    }
-  ],
-  "translation": "Yala Kewila tigiw bɛna n digi a bolo la wa? Yala Shawulu bɛna dɔgɔya na, i n'a fɔ i denbaga mɛnlen cogo min na? Yawe, Isirayeli Ala, n'i taasi, k'a fɔ i denbaka ye. Yawe ko: A bɛna dɔgɔya na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/23\/9-12.1791930560420.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yala Keilah sigimadenw bɛna mɛnɛ min bolo? Yala Sawulu bɛna a bɔ duguma, i n'a fɔ i ka sereme mɛnɛ? Yawe, Israɛlɛ Elohim, i fɔ k'i jira i ka seremema.” Yawe ko: “A bɛna a bɔ duguma.”",
   "tokens": [
     {
       "surface": "היסגרני",
-      "gloss": "bɛna n digi"
+      "gloss": "bɛna mɛnɛ"
     },
     {
       "surface": "בעלי",
-      "gloss": "tigiw"
+      "gloss": "sigimadenw"
     },
     {
       "surface": "קעילה",
-      "gloss": "Kewila"
+      "gloss": "Keilah"
     },
     {
       "surface": "בידו",
-      "gloss": "a bolo la"
+      "gloss": "min bolo"
     },
     {
       "surface": "הירד",
-      "gloss": "bɛna dɔgɔya na"
+      "gloss": "bɛna a bɔ duguma"
     },
     {
-      "surface": "שׁאול",
-      "gloss": "Shawulu"
+      "surface": "שאול",
+      "gloss": "Sawulu"
     },
     {
-      "surface": "כאשׁר",
+      "surface": "כאשר",
       "gloss": "i n'a fɔ"
     },
     {
-      "surface": "שׁמע",
-      "gloss": "mɛnlen"
+      "surface": "שמע",
+      "gloss": "mɛnɛ"
     },
     {
       "surface": "עבדך",
-      "gloss": "i denbaga"
+      "gloss": "i ka sereme"
     },
     {
       "surface": "יהוה",
@@ -75,23 +49,23 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
-      "surface": "ישׂראל",
-      "gloss": "Isirayeli"
+      "surface": "ישראל",
+      "gloss": "Israɛlɛ"
     },
     {
       "surface": "הגד",
-      "gloss": "k'a fɔ"
+      "gloss": "jira"
     },
     {
       "surface": "נא",
-      "gloss": "n' i taasi"
+      "gloss": "i tigi"
     },
     {
       "surface": "לעבדך",
-      "gloss": "i denbaka ye"
+      "gloss": "i ka seremema"
     },
     {
       "surface": "ויאמר",
@@ -103,9 +77,9 @@
     },
     {
       "surface": "ירד",
-      "gloss": "bɛna dɔgɔya na"
+      "gloss": "a bɛna a bɔ duguma"
     }
   ],
-  "timestamp": "2026-10-13T22:29:20.423821826Z",
+  "timestamp": "2026-10-20T13:03:24.300276806Z",
   "model": "glm-5.3"
 }

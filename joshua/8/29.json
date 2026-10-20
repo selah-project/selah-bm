@@ -5,38 +5,12 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "Yehoshua",
-      "rationale": "Hebrew verb תלה lacks explicit subject; supplied from context"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kunbago",
-      "rationale": "נבלתו is carrion\/dead body, rendered as ordinary 'dead body'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אותה",
-      "rationale": "aleph-tav with 3fs suffix rendered as marker only; pronoun absorbed into 'a' of flɛ"
-    }
-  ],
-  "translation": "Yehoshua (Yosuwa) ye ⟨את⟩ Ayi ka masakɛ so jiri kan fo wula waati ma; ni tile nana don, Yehoshua y'a da, u ye a kunbago jiri la bɔ, u ye a flɛ dugu da la, u ye kabakurun caman a kan jɛ, o taara fo nin don na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a742c87f0f58e19579e8483de720a12dad48ab5711b73c26c25a2d2619b99ac8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/8\/29-32.1791928746933.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y'⟨את⟩ Ayi (Ayi) ka masakɛ tigɛ jiri kan fo wula waati; ni tile donna, Yehoshua (Yehoshua) y'a ɲini, u ye ⟨את⟩ a ku bɔ jiri kan, u ye ⟨את⟩ o fo dugubu ka da lan, u ye kabakurun jɛgɛn bon ɲagami a la, o bɛ yen fo bi in ma.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "masakɛ"
+      "marks": "Ayi ka masakɛ"
     },
     {
       "surface": "מלך",
@@ -48,7 +22,7 @@
     },
     {
       "surface": "תלה",
-      "gloss": "so"
+      "gloss": "tigɛ"
     },
     {
       "surface": "על",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "וכבוא",
-      "gloss": "donni"
+      "gloss": "don"
     },
     {
       "surface": "השמש",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "da"
+      "gloss": "ɲini"
     },
     {
       "surface": "יהושע",
@@ -93,11 +67,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kunbago"
+      "marks": "a ku"
     },
     {
       "surface": "נבלתו",
-      "gloss": "kunbago"
+      "gloss": "a ku"
     },
     {
       "surface": "מן",
@@ -109,16 +83,16 @@
     },
     {
       "surface": "וישליכו",
-      "gloss": "flɛ"
+      "gloss": "fo"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "dugu da"
+      "marks": "a ku (o)"
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "lan"
     },
     {
       "surface": "פתח",
@@ -130,15 +104,15 @@
     },
     {
       "surface": "העיר",
-      "gloss": "dugu"
+      "gloss": "dugubu"
     },
     {
       "surface": "ויקימו",
-      "gloss": "jɛ"
+      "gloss": "ɲagami"
     },
     {
       "surface": "עליו",
-      "gloss": "a kan"
+      "gloss": "a la"
     },
     {
       "surface": "גל",
@@ -150,7 +124,7 @@
     },
     {
       "surface": "גדול",
-      "gloss": "caman"
+      "gloss": "bon"
     },
     {
       "surface": "עד",
@@ -158,13 +132,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "don"
+      "gloss": "bi"
     },
     {
       "surface": "הזה",
-      "gloss": "nin"
+      "gloss": "in"
     }
   ],
-  "timestamp": "2026-10-13T21:59:06.937465775Z",
+  "timestamp": "2026-10-20T14:58:22.166046056Z",
   "model": "glm-5.3"
 }

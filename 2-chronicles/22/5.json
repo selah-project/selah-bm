@@ -5,48 +5,27 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הרמים",
-      "rationale": "'Aramuw' (Aramites) s. 'Ramaw mɔgɔw' (YLT: men of Ramah); masalanw bɛ ce emphatic min na, nka consonantw bɛ fɔ Aramuw ye"
-    },
-    {
-      "kind": "substitution",
-      "subject": "wound",
-      "rationale": "ויכו ye 'u boli' kɔrɔ; wound daɲɛ ye a la sabu kumasen in bɛ fɔ 2Kɔr. 8:28 kɔnɔ ko wound"
-    }
-  ],
-  "translation": "A tila u ka lasirili la, a taa ni ⟨את⟩ Yehoram (Yoramu), Ahab den, Isirayeli masakɛ ye, ka ɛnwa kɛ Hazael, Aramu masakɛ fɛ, Ramot-Giladi; Aramuw ye ⟨את⟩ Yoramu wound.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f5d356d60f494f4b6a80fd96e89800d1ec06dd2234741e7981ebcc6e45d2ead8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/22\/5-8.1791949360594.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A fana y'a yɛlɛmɛ u ka masumali nɔ na, ani a taa-ra ni ⟨את⟩ Yehoram, Ahaw (Ahab) denkɛ, Yisirayeli (Isirayeli) masakɛ ye, ka kɛ kɛrɛfɛ ye Hazael, Aram masakɛ kan, Ramot-Gilad (Ramot-Gilead) kɔnɔ; Aramiw (Aramitɔw) ye ⟨את⟩ Yoram boli.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "fɔlɔ"
+      "gloss": "a fana"
     },
     {
       "surface": "בעצתם",
-      "gloss": "u ka lasirili la"
+      "gloss": "u ka masumali nɔ na"
     },
     {
       "surface": "הלך",
-      "gloss": "a tila"
+      "gloss": "a y'a yɛlɛmɛ"
     },
     {
       "surface": "וילך",
-      "gloss": "a taa"
+      "gloss": "a taa-ra"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ni ... ye",
+      "gloss": "⟨את⟩",
       "marks": "Yehoram"
     },
     {
@@ -55,11 +34,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "den"
+      "gloss": "denkɛ"
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahab"
+      "gloss": "Ahaw"
     },
     {
       "surface": "מלך",
@@ -67,15 +46,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayeli"
+      "gloss": "Yisirayeli"
     },
     {
       "surface": "למלחמה",
-      "gloss": "ka ɛnwa kɛ"
+      "gloss": "kɛrɛfɛ"
     },
     {
       "surface": "על",
-      "gloss": "fɛ"
+      "gloss": "kan"
     },
     {
       "surface": "חזאל",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "ארם",
-      "gloss": "Aramu"
+      "gloss": "Aram"
     },
     {
       "surface": "ברמות",
@@ -95,26 +74,26 @@
     },
     {
       "surface": "גלעד",
-      "gloss": "Giladi"
+      "gloss": "Gilad"
     },
     {
       "surface": "ויכו",
-      "gloss": "u ye ... wound"
+      "gloss": "u ye ... boli"
     },
     {
       "surface": "הרמים",
-      "gloss": "Aramuw"
+      "gloss": "Aramiw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yoramu"
+      "marks": "Yoram"
     },
     {
       "surface": "יורם",
-      "gloss": "Yoramu"
+      "gloss": "Yoram"
     }
   ],
-  "timestamp": "2026-10-14T03:42:40.595061840Z",
+  "timestamp": "2026-10-20T13:11:06.762780968Z",
   "model": "glm-5.3"
 }

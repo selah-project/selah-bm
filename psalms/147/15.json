@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 147,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עד",
-      "rationale": "the intensifying particle עד in עד מהרה has no separate Bambara equivalent; its force is folded into 'kilinkilin dɔgɔkun' (very swiftly)"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אמרתו \/ דברו",
-      "rationale": "two Hebrew words for 'word' bracket the verse in repetition; both rendered 'a kuma', keeping the echo"
-    }
-  ],
-  "translation": "Min b'a kuma ci dugukolo kan, a kuma bɛ boli kilinkilin dɔgɔkun.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/147\/13-16.1791942048575.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Min bɛ a kuma cilen dugukolo kan, a kuma bɛ ju teliya la.",
   "tokens": [
     {
       "surface": "השלח",
-      "gloss": "Min b'ci"
+      "gloss": "min bɛ … cilen"
     },
     {
       "surface": "אמרתו",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "dugukolo"
+      "gloss": "dugukolo kan"
     },
     {
       "surface": "עד",
@@ -46,17 +25,17 @@
     },
     {
       "surface": "מהרה",
-      "gloss": "kilinkilin dɔgɔkun"
+      "gloss": "teliya la"
     },
     {
       "surface": "ירוץ",
-      "gloss": "boli"
+      "gloss": "bɛ ju"
     },
     {
       "surface": "דברו",
       "gloss": "a kuma"
     }
   ],
-  "timestamp": "2026-10-14T01:40:48.576726950Z",
+  "timestamp": "2026-10-20T15:33:12.616493027Z",
   "model": "glm-5.3"
 }

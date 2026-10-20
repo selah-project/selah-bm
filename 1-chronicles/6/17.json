@@ -5,74 +5,47 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "misiŋ-sɔrɔda \/ suma-ɲɛfɛ",
-      "rationale": "משכן אהל מועד ye misiŋ-sɔrɔda ni suma-ɲɛfɛ sɔrɔda ye — bound construct, kelen-kelen bɛ to"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jusigiyɔrɔ",
-      "rationale": "משפט ka kɔrɔ ye sariya-fɔli ye; 'ka jɔ a cogo la' jirasili bɛ ⟨…⟩ la"
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "gloss-decision": "gloss: ''",
-      "rationale": "על עבודתם bɛ lamini kelen ye — 'baara' dɔrɔn bɛ se ka a ta"
-    }
-  ],
-  "translation": "An bɛ kɛ minɛnbagaw ye donkili la misiŋ-sɔrɔda ɲɛfɛ — a ye suma-ɲɛfɛ da (A suman-ɲɛfɛ yɛrɛ da) — fo Shimshon (Shelomoh) ka Yawe so da Yerushalayim (Jerusalɛmu) na; an bɛ jɔ a jusigiyɔrɔ la cogo min na o yɛrɛ ye ⟨את⟩ baara ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cf498264b473fea56e91a3f498af208158f2c31d5790f1f493758e9d1c0ec15b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/6\/17-20.1791947593584.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olu ye sara ka kɛ ni donkili ye, Mishikan ɲɛma — Ohɛl Minɛn min lamɛnra kɔnɔ (duguso) — ka se don ma Sholomo (Sulɛmɛ) da Yawe so ⟨את⟩ Yerushalayim (Jerusalɛmu); olu bilala u nin ka sariya cogo la, u baara kan.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "olu kɛra"
+      "gloss": "olu ye"
     },
     {
       "surface": "משרתים",
-      "gloss": "minɛnbagaw"
+      "gloss": "sara"
     },
     {
       "surface": "לפני",
-      "gloss": "ɲɛfɛ"
+      "gloss": "ɲɛma"
     },
     {
       "surface": "משכן",
-      "gloss": "misiŋ-sɔrɔda"
+      "gloss": "Mishikan"
     },
     {
       "surface": "אהל",
-      "gloss": "sɔrɔda"
+      "gloss": "Ohɛl Minɛn"
     },
     {
       "surface": "מועד",
-      "gloss": "suman-ɲɛfɛ"
+      "gloss": "duguso"
     },
     {
       "surface": "בשיר",
-      "gloss": "donkili la"
+      "gloss": "ni donkili ye"
     },
     {
       "surface": "עד",
-      "gloss": "fo"
+      "gloss": "ka se don ma"
     },
     {
       "surface": "בנות",
-      "gloss": "ka … da"
+      "gloss": "da"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoh"
+      "gloss": "Sholomo"
     },
     {
       "surface": "את",
@@ -89,25 +62,25 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "Yerushalayim na"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "ויעמדו",
-      "gloss": "olu yɛ jɔ"
+      "gloss": "olu bilala"
     },
     {
       "surface": "כמשפטם",
-      "gloss": "a jusigiyɔrɔ la cogo min na"
+      "gloss": "u nin ka sariya cogo la"
     },
     {
       "surface": "על",
-      "gloss": "<elision>"
+      "gloss": "kan"
     },
     {
       "surface": "עבודתם",
-      "gloss": "baara"
+      "gloss": "u baara"
     }
   ],
-  "timestamp": "2026-10-14T03:13:13.586155143Z",
+  "timestamp": "2026-10-20T12:49:24.632880525Z",
   "model": "glm-5.3"
 }

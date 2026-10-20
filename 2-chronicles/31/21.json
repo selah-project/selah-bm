@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "faratiw",
-      "rationale": "מצוה ye 'farati' \/ 'laseli' ye; 'farati' tlalen don minnu bɛ lajɛ"
-    },
-    {
-      "kind": "substitution",
-      "subject": "וְהִצְלִיחַ",
-      "rationale": "kɔrɔ ye 'ka ɲɛtaabolo ta' ye (ka taa ɲɛ), 'sukuwera' ye a nɔgɔya len don"
-    },
-    {
-      "kind": "addition",
-      "subject": "Yawe",
-      "rationale": "לאלהיו kɔnɔ, Elohim ye a yɛrɛ tɔgɔ sɛbɛn; יהוה tɛ kumasen in kɔnɔ"
-    }
-  ],
-  "translation": "Kuma bɛɛ min na a daminɛna, Elohim so baara la, Tora la, ani faratiw la, walasa ka a Ala Yawe ɲinini, a y'o kɛ ni a dusukun bɛɛ ye, a tun sukuwera.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "4f9399388430f5665605eb5258930d11e10034053424d14bbb1968977b86f107",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/31\/21-21.1791949586544.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Baara bɛɛ min daminɛna Elohim so baara la, Tora la ani awo la, walasa k'a Elohim ɲini, a y'o kɛ ni a dusukun bɛɛ ye, ka sɔrɔ a juguyara.",
   "tokens": [
     {
       "surface": "ובכל",
-      "gloss": "ani kuma bɛɛ min na"
+      "gloss": "ani baara bɛɛ min"
     },
     {
       "surface": "מעשה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "החל",
-      "gloss": "a daminɛna"
+      "gloss": "daminɛna"
     },
     {
       "surface": "בעבודת",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "ובמצוה",
-      "gloss": "ani faratiw la"
+      "gloss": "awo la"
     },
     {
       "surface": "לדרש",
-      "gloss": "walasa ka ɲinini"
+      "gloss": "walasa ka … ɲini"
     },
     {
       "surface": "לאלהיו",
-      "gloss": "a Ala Yawe"
+      "gloss": "a Elohim"
     },
     {
       "surface": "בכל",
@@ -91,9 +65,9 @@
     },
     {
       "surface": "והצליח",
-      "gloss": "a tun sukuwera"
+      "gloss": "a juguyara"
     }
   ],
-  "timestamp": "2026-10-14T03:46:26.545271071Z",
+  "timestamp": "2026-10-20T13:13:34.941436983Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תפרו",
-      "rationale": "mɔgɔw de bɛ layidu ti-bɔ (aw) wa, walima Yawe yɛrɛ? — bayɛlɛmabaga caman bɛ a lajɛ cogo cine: 'aw bɛ se ka ti-bɔ wa' i n'a fɔ a tɛ se ka kɛ"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יומם ולילה בעתם",
-      "rationale": "tile ni su bɛɛ bɛ u waati-dɔ la — jatebaliya (Gen 8:22) jira cogo min na, a bɛ kuma layidu in ka seko dɔn"
-    }
-  ],
-  "translation": "Nin ko Yawe fɔ: ni aw bɛ se ka n layidu, ⟨tile ta⟩, ti-bɔ, ani n layidu ⟨su ta⟩, walasa tile ni su ma kɛ u waati la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "536010f4029c2e6799bad06c98b91fb4b0cc5413c4e94b27365538b6cbb567fc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/33\/17-20.1791935875572.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe kɔrɔlen cogo nin na: ni aw bɛ se ka ⟨את⟩ n ka layidu min bɛ ni don ye, ani ⟨את⟩ n ka layidu min bɛ ni su ye, ka bɔ don ni su la u ka waati la,",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "nin"
+      "gloss": "cogo nin na"
     },
     {
       "surface": "אמר",
-      "gloss": "ko"
+      "gloss": "kɔrɔlen ko"
     },
     {
       "surface": "יהוה",
@@ -46,29 +25,29 @@
     },
     {
       "surface": "תפרו",
-      "gloss": "ti-bɔ"
+      "gloss": "aw bɛ se ka … gɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "n layidu"
+      "marks": "n ka layidu min bɛ ni don ye"
     },
     {
       "surface": "בריתי",
-      "gloss": "n layidu"
+      "gloss": "n ka layidu"
     },
     {
       "surface": "היום",
-      "gloss": "tile"
+      "gloss": "don"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "n layidu"
+      "gloss": "ani ⟨את⟩",
+      "marks": "n ka layidu min bɛ ni su ye"
     },
     {
       "surface": "בריתי",
-      "gloss": "n layidu"
+      "gloss": "n ka layidu"
     },
     {
       "surface": "הלילה",
@@ -76,25 +55,25 @@
     },
     {
       "surface": "ולבלתי",
-      "gloss": "walasa … ma"
+      "gloss": "ka bɔ … la"
     },
     {
       "surface": "היות",
-      "gloss": "kɛ"
+      "gloss": "kɛli tɛ kɛ"
     },
     {
       "surface": "יומם",
-      "gloss": "tile-tile"
+      "gloss": "don don"
     },
     {
       "surface": "ולילה",
-      "gloss": "su"
+      "gloss": "ani su su"
     },
     {
       "surface": "בעתם",
-      "gloss": "u waati la"
+      "gloss": "u ka waati la"
     }
   ],
-  "timestamp": "2026-10-13T23:57:55.573710864Z",
+  "timestamp": "2026-10-20T14:41:59.062068650Z",
   "model": "glm-5.3"
 }

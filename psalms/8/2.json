@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Matigi",
-      "rationale": "אדנינו = 'an ka Matigi' — sɔrɔko-tigɛ daɲɛ min tɛ Yawe Tɔgɔ ye."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨la⟩",
-      "rationale": "Bamanankan bɛ kɔfɛ-daɲɛ wajibiya, Heburukan ma a sɔrɔ."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מה אדיר",
-      "rationale": "Kumayɔrɔ jɛgɛnsira: 'hakɛ fa! i tɔgɔ ka ɲi' — finiw hakɛ jira Bamanankan na."
-    }
-  ],
-  "translation": "Yawe, an ka Matigi, i tɔgɔ ka ɲi dugukolo bɛɛ la hakɛ fa! I min ye i bonyi sigilen sankolow ⟨la⟩ sanfɛ!",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/8\/1-4.1791939665480.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe, an ka Matigi, i tɔgɔ ka bon cogo di dugukolo bɛɛ la, min ye i bonya bilalen sangolow la!",
   "tokens": [
     {
       "surface": "יהוה",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "hakɛ fa"
+      "gloss": "cogo di"
     },
     {
       "surface": "אדיר",
-      "gloss": "ka ɲi"
+      "gloss": "ka bon"
     },
     {
       "surface": "שמך",
@@ -63,25 +37,25 @@
     },
     {
       "surface": "אשר",
-      "gloss": "i min"
+      "gloss": "min"
     },
     {
       "surface": "תנה",
-      "gloss": "ye … sigilen"
+      "gloss": "bilalen"
     },
     {
       "surface": "הודך",
-      "gloss": "i bonyi"
+      "gloss": "i bonya"
     },
     {
       "surface": "על",
-      "gloss": "sanfɛ"
+      "gloss": "sangolow la"
     },
     {
       "surface": "השמים",
-      "gloss": "sankolow"
+      "gloss": "sangolow"
     }
   ],
-  "timestamp": "2026-10-14T01:01:05.481143590Z",
+  "timestamp": "2026-10-20T15:39:28.205422972Z",
   "model": "glm-5.3"
 }

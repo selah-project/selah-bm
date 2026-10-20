@@ -5,40 +5,19 @@
   "book": "judges",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בעיני יהוה",
-      "rationale": "kuma in kɔrɔ: 'Yawe ɲɛ na' — i n'a fɔ u kuma bɛ Yawe ɲɛw ye"
-    },
-    {
-      "kind": "addition",
-      "subject": "sabu",
-      "rationale": "על כי faralenw ye sabu-taamasiyɛn dɔrɔn ye Bambara na; gloss kelen-kelen bɛɛ b'a jira"
-    }
-  ],
-  "translation": "Israiledenw y'a fara a kan ka ko bonyan kɛ Yawe ɲɛ na; Yawe ye ⟨את⟩ Eglon, Mowab masakɛ, hayawale Israili kan, sabu u ye ⟨את⟩ ko bonyan kɛ Yawe ɲɛ na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "1c609b6d3c7a65e44f2e6ca80f543257d0179145c62542a00b129ce5b5de6f4d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/3\/9-12.1791929254483.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Israyɛlw ka denw y'a fara a kan ka bonya ka kɛtɔw kɛ Yawe ka ɲɛda la, anka Yawe ye ⟨את⟩ Eglon (Eglɔn), Moab masakɛ, miiri k'a fa Israyɛl kan, sabu u tun kɛra ⟨את⟩ bonya-kɛtɔw ɲɛ Yawe ye.",
   "tokens": [
     {
       "surface": "ויספו",
-      "gloss": "y'a fara a kan ka ... kɛ"
+      "gloss": "u y'a fara a kan (kokura)"
     },
     {
       "surface": "בני",
-      "gloss": "Israiledenw"
+      "gloss": "denw"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israil"
+      "gloss": "Israyɛl"
     },
     {
       "surface": "לעשות",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "הרע",
-      "gloss": "ko bonyan"
+      "gloss": "bonya-kɛtɔw"
     },
     {
       "surface": "בעיני",
-      "gloss": "ɲɛ na"
+      "gloss": "ɲɛ la"
     },
     {
       "surface": "יהוה",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ויחזק",
-      "gloss": "ye ... hayawale"
+      "gloss": "a ye a fa ka se"
     },
     {
       "surface": "יהוה",
@@ -67,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Eglon"
+      "marks": "Eglon, Moab masakɛ"
     },
     {
       "surface": "עגלון",
@@ -79,15 +58,15 @@
     },
     {
       "surface": "מואב",
-      "gloss": "Mowab"
+      "gloss": "Moab"
     },
     {
       "surface": "על",
-      "gloss": "kan"
+      "gloss": "kan (a bɛ Israyɛl kan)"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israili"
+      "gloss": "Israyɛl"
     },
     {
       "surface": "על",
@@ -95,30 +74,30 @@
     },
     {
       "surface": "כי",
-      "gloss": "sabu"
+      "gloss": "kokura-dɔnni daɲɛ"
     },
     {
       "surface": "עשו",
-      "gloss": "u ye ... kɛ"
+      "gloss": "u kɛra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ko bonyan"
+      "marks": "bonya-kɛtɔw"
     },
     {
       "surface": "הרע",
-      "gloss": "ko bonyan"
+      "gloss": "bonya-kɛtɔw"
     },
     {
       "surface": "בעיני",
-      "gloss": "ɲɛ na"
+      "gloss": "ɲɛ"
     },
     {
       "surface": "יהוה",
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-13T22:07:34.488570043Z",
+  "timestamp": "2026-10-20T15:02:07.251241750Z",
   "model": "glm-5.3"
 }

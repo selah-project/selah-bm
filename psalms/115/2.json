@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 115,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "נא",
-      "rationale": "נא (weleli daɲɛ, 'nin') bila len kuma kɔnɔ, a tɛ se ka bayɛlɛma tile daɲɛ kelen na"
-    },
-    {
-      "kind": "substitution",
-      "subject": "batofɛnw",
-      "rationale": "אלהיהם sigen siyaw ka ɔrɔw la: 'u ka batofɛnw', Tɔgɔ tɛ, k'a kɛ Elohim ye"
-    }
-  ],
-  "translation": "Siya min di, bɛna u fɔ ko: u ka batofɛnw bɛ min nin?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/115\/1-4.1791941540187.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mun na siyaw bɛna fɔ ko: Yawen Elohim bɛ min sisan?",
   "tokens": [
     {
       "surface": "למה",
-      "gloss": "biyoromu"
+      "gloss": "Mun na"
     },
     {
       "surface": "יאמרו",
-      "gloss": "bɛna u fɔ ko"
+      "gloss": "bɛna fɔ ko"
     },
     {
       "surface": "הגוים",
@@ -42,17 +21,17 @@
     },
     {
       "surface": "איה",
-      "gloss": "bɛ min nin"
+      "gloss": "bɛ min"
     },
     {
       "surface": "נא",
-      "gloss": ""
+      "gloss": "sisan"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "u ka batofɛnw"
+      "gloss": "Yawen Elohim"
     }
   ],
-  "timestamp": "2026-10-14T01:32:20.188350352Z",
+  "timestamp": "2026-10-20T15:32:37.008682188Z",
   "model": "glm-5.3"
 }

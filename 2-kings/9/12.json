@@ -5,44 +5,23 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "a fɔcogo",
-      "rationale": "Nin kumasen in kɔgɔjugu — kuma in ma bɛn, n bɛna a jira n na cogo min na"
-    },
-    {
-      "kind": "elision",
-      "subject": "נא",
-      "rationale": "Hebrew nɔgɔya-daɲɛ נא ma tɛmɛ Bamanankan na"
-    }
-  ],
-  "translation": "U ko: O ye fɔli-ŋɛŋɛ ye; k'a fɔ an ye. A ko u ye: A ko n ye nin cogo na, ko: Nin cogo in na Yawe ye fɔ ko, N ye ki la i Masakɛ ye Israel kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6d5a247054c90c870d6ea2a632a05ef82067d1c9f75167975567efe211bf34b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/9\/9-12.1791932747593.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ye ko: “O ye fɛn tiɲɛna ye i n'a fɔ a yɛrɛ ko ɲɛw, n'ɔɔ, k'a ɲɛfɔ an ye!” A y'u ye ko: “A ye kuma nin ni nin fɔ ne ye, ko: N'ɔɔ, Yawe bɛ kuma fɔ fɛn nin na: Ne ye tulu sigi i kan, kɛra ne ye i ye masakɛ ye Israyɛl (Isirayɛl) kan.”",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "U ko"
+      "gloss": "u ye ko"
     },
     {
       "surface": "שקר",
-      "gloss": "fɔli-ŋɛŋɛ"
+      "gloss": "fɛn tiɲɛna"
     },
     {
       "surface": "הגד",
-      "gloss": "k'a fɔ"
+      "gloss": "ɲɛfɔ"
     },
     {
       "surface": "נא",
-      "gloss": ""
+      "gloss": "n'ɔɔ"
     },
     {
       "surface": "לנו",
@@ -50,27 +29,23 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "A ko"
-    },
-    {
-      "surface": "אלי",
-      "gloss": "u ye"
+      "gloss": "a y'a ye ko"
     },
     {
       "surface": "כזאת",
-      "gloss": "nin cogo na"
+      "gloss": "nin"
     },
     {
-      "surface": "וככזאת",
-      "gloss": "nin cogo in na"
+      "surface": "וכזאת",
+      "gloss": "ni nin"
     },
     {
       "surface": "אמר",
-      "gloss": "ko"
+      "gloss": "fɔ"
     },
     {
       "surface": "אלי",
-      "gloss": "n ye"
+      "gloss": "ne ye"
     },
     {
       "surface": "לאמר",
@@ -78,11 +53,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "Nin cogo in na"
+      "gloss": "fɛn nin na"
     },
     {
       "surface": "אמר",
-      "gloss": "ye fɔ ko"
+      "gloss": "bɛ kuma fɔ"
     },
     {
       "surface": "יהוה",
@@ -90,11 +65,11 @@
     },
     {
       "surface": "משחתיך",
-      "gloss": "N ye … ki la i ye"
+      "gloss": "ne ye tulu sigi i kan"
     },
     {
       "surface": "למלך",
-      "gloss": "Masakɛ ye"
+      "gloss": "masakɛ"
     },
     {
       "surface": "אל",
@@ -102,9 +77,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Israyɛl"
     }
   ],
-  "timestamp": "2026-10-13T23:05:47.599142720Z",
+  "timestamp": "2026-10-20T13:22:28.057559921Z",
   "model": "glm-5.3"
 }

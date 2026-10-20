@@ -5,54 +5,23 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תערג",
-      "rationale": "Rare verb, 'pant\/gasplong for'; Bambara ɲini (seek) captures the longing, loses the physical gasping."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תערג ... תערג",
-      "rationale": "The verb repeats in both halves of the simile — deer and soul seek alike."
-    },
-    {
-      "kind": "substitution",
-      "subject": "nin",
-      "rationale": "נפש is throat\/breath\/life-force, not immaterial 'soul'; Bambara nin (life-breath) keeps the concrete sense."
-    },
-    {
-      "kind": "addition",
-      "subject": "Yawe",
-      "rationale": "The psalm's singer addresses Elohim directly; the vocative Name added once for clarity per D1 discipline — {Yawe}."
-    }
-  ],
-  "translation": "I n'a fɔ sɛgɛsɛgɛbagan min bɛ ji kɔnɔna ɲini, nin nin in de bɛ Ala, i Yawe ɲini.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/42\/1-4.1791940147213.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I n'a fɔ dɛrɛ min bɛ ji sawaliw la a b'a ɲini, o cogo min na n'ka ni fana b'i ɲini, Elohim.",
   "tokens": [
     {
       "surface": "כאיל",
-      "gloss": "sɛgɛsɛgɛbagan"
+      "gloss": "dɛrɛ"
     },
     {
       "surface": "תערג",
-      "gloss": "bɛ ɲini"
+      "gloss": "b'a ɲini"
     },
     {
       "surface": "על",
-      "gloss": "<ni>"
+      "gloss": "la"
     },
     {
       "surface": "אפיקי",
-      "gloss": "ji kɔnɔna"
+      "gloss": "ji sawaliw"
     },
     {
       "surface": "מים",
@@ -60,25 +29,25 @@
     },
     {
       "surface": "כן",
-      "gloss": "nin nin"
+      "gloss": "o cogo min na"
     },
     {
       "surface": "נפשי",
-      "gloss": "nin in"
+      "gloss": "n'ka ni"
     },
     {
       "surface": "תערג",
-      "gloss": "bɛ ɲini"
+      "gloss": "b'i ɲini"
     },
     {
       "surface": "אליך",
-      "gloss": "i de"
+      "gloss": "i la"
     },
     {
       "surface": "אלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-14T01:09:07.214241671Z",
+  "timestamp": "2026-10-20T15:36:33.660009068Z",
   "model": "glm-5.3"
 }

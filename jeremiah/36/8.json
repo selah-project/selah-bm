@@ -5,48 +5,27 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nabi",
-      "rationale": "נביא rendered nabi per standing ruling, not kira."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "megila \/ sebene",
-      "rationale": "verse 6's scroll (megila) returns as sebene 'book'; Hebrew uses מגלה vs ספר — two words kept distinct."
-    }
-  ],
-  "translation": "Bareux, Neriyah denkɛ, ye kɛ i ko Yirmeyahu nabi ye a lasi cogo bɛɛ ye: ka karan sebene kɔnɔ Yawe kumaw, Yawe so kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "467a08531437612b166bedf3e71e57e7dc1f1721d59e49139254c1adea436bae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/36\/5-8.1791936097519.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Baruk (Baruki) Neriya (Neriya) den kɛra Yirmeyahu (Yeremiya) nabi ka fɔcogo bɛɛ la, ka kuma minnu bɛ seburu kɔnɔ, Yawe ka kuma, karan Yawe ka so kɔnɔ.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "ye kɛ"
+      "gloss": "kɛra"
     },
     {
       "surface": "ברוך",
-      "gloss": "Bareux"
+      "gloss": "Baruk"
     },
     {
       "surface": "בן",
-      "gloss": "denkɛ"
+      "gloss": "den"
     },
     {
       "surface": "נריה",
-      "gloss": "Neriyah"
+      "gloss": "Neriya"
     },
     {
       "surface": "ככל",
-      "gloss": "cogo bɛɛ ye"
+      "gloss": "bɛɛ la"
     },
     {
       "surface": "אשר",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "צוהו",
-      "gloss": "a lasi a ma"
+      "gloss": "ka fɔcogo"
     },
     {
       "surface": "ירמיהו",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "לקרא",
-      "gloss": "ka karan"
+      "gloss": "karan"
     },
     {
       "surface": "בספר",
-      "gloss": "sebene kɔnɔ"
+      "gloss": "seburu kɔnɔ"
     },
     {
       "surface": "דברי",
-      "gloss": "kumaw"
+      "gloss": "kuma"
     },
     {
       "surface": "יהוה",
@@ -89,6 +68,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-14T00:01:37.521657134Z",
+  "timestamp": "2026-10-20T14:42:57.421397872Z",
   "model": "glm-5.3"
 }

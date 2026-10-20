@@ -5,49 +5,28 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כרת ברית",
-      "rationale": "'cut a covenant' — Hebrew idiom of cutting pieces; rendered da (make), the covenant sense kept"
-    },
-    {
-      "kind": "addition",
-      "subject": "sabu",
-      "rationale": "Bambara needs the causal particle sabu where Hebrew relies on על אשר 'on account of'"
-    }
-  ],
-  "translation": "U bɛna kuma ko: sabu u y'e tiɲɛ-nyininka bali ⟨את⟩ layidu min Yawe — u faaw Ala — da ni u ye, ni a ye ⟨את⟩ u bɔ Mitsrayim (Misira) dugukolo na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "adddd89617aba5d895e8bed54618a4dbde4515c0fe805af950ce6a45592b9aca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/29\/21-24.1791928336210.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U na kɔ a ye: «Sabu u y'a to ⟨את⟩ Yawe layidu la — Elohim min ye u baw ye — layidu min Yawe sigira ni u ye, a waati min na a ye ⟨את⟩ u bɔra Mitsrayim (Misira) dugukolo na.»",
   "tokens": [
     {
       "surface": "ואמרו",
-      "gloss": "u bɛna kuma ko"
+      "gloss": "u na kɔ"
     },
     {
       "surface": "על",
-      "gloss": "ko"
-    },
-    {
-      "surface": "אשר",
       "gloss": "sabu"
     },
     {
+      "surface": "אשר",
+      "gloss": "min"
+    },
+    {
       "surface": "עזבו",
-      "gloss": "u y'e tiɲɛ-nyininka bali"
+      "gloss": "u y'a to"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "layidu min"
+      "marks": "Yawe layidu"
     },
     {
       "surface": "ברית",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "אבתם",
-      "gloss": "u faaw"
+      "gloss": "u baw"
     },
     {
       "surface": "אשר",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "כרת",
-      "gloss": "da"
+      "gloss": "sigira"
     },
     {
       "surface": "עמם",
@@ -79,12 +58,12 @@
     },
     {
       "surface": "בהוציאו",
-      "gloss": "ni a ye…bɔ"
+      "gloss": "a bɔli waati la"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "u"
+      "marks": "u (Mitsrayim dugukolo bɔli)"
     },
     {
       "surface": "מארץ",
@@ -92,9 +71,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitsrayim (Misira)"
     }
   ],
-  "timestamp": "2026-10-13T21:52:16.218075499Z",
+  "timestamp": "2026-10-20T13:44:05.574731906Z",
   "model": "glm-5.3"
 }

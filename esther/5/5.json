@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "lambi",
-      "rationale": "המשתה ye 'min-dɔn' kɔrɔ ye (ji-minɛ sɔbɔ), n'a bɛ fɔ lambi la Bamanankan na"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Heburukan 'ele' ye bɔ-yɔrɔ daɲɛ ye; Bamanankan n'a mɔgɔw bɔ yɔrɔ dafalen sɔrɔ tɛ"
-    }
-  ],
-  "translation": "Masa kelen in ko: Iwili, aw bɛ Haman (Hamani) ɔngoya la, walasa a bɛ Ester (Estɛri) ka kuma kɛ. Masa ni Haman naana lambi min la, Ester ye o dilan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "3c605cda140b6bbc6f14507df3805437f8b392bb7a953cfd738f2d5f67c4cc35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/5\/5-8.1791945467678.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masakɛ ko: Aw ye ⟨את⟩ Haman teliya, walasa k'Ester ka ⟨את⟩ kuma kɛ; masakɛ ni Haman naana sereli la min Ester ye dilan.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "מהרו",
-      "gloss": "iwili"
+      "gloss": "aw ye … teliya"
     },
     {
       "surface": "את",
@@ -51,12 +30,12 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "walasa a bɛ kɛ"
+      "gloss": "walasa ka kɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuma"
+      "marks": "kuma (Ester ka)"
     },
     {
       "surface": "דבר",
@@ -76,15 +55,15 @@
     },
     {
       "surface": "והמן",
-      "gloss": "Haman"
+      "gloss": "⟨ni⟩ Haman"
     },
     {
       "surface": "אל",
-      "gloss": "(kɔnɔ)"
+      "gloss": "la"
     },
     {
       "surface": "המשתה",
-      "gloss": "lambi"
+      "gloss": "sereli"
     },
     {
       "surface": "אשר",
@@ -92,13 +71,13 @@
     },
     {
       "surface": "עשתה",
-      "gloss": "ye o dilan"
+      "gloss": "dilan"
     },
     {
       "surface": "אסתר",
       "gloss": "Ester"
     }
   ],
-  "timestamp": "2026-10-14T02:37:47.678934037Z",
+  "timestamp": "2026-10-20T13:50:08.739465314Z",
   "model": "glm-5.3"
 }

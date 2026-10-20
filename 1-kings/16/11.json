@@ -5,62 +5,36 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "משתין בקיר",
-      "rationale": "'min bɛ kɔgolo kɔnɔ sɔrɔ' — cɛdenw ɲɛfɔli la Heburukan na; yeltɔɔ tɛ Bamanankan na, a bɛ jira ka kɛ cɛden hakili ye"
-    },
-    {
-      "kind": "crux",
-      "subject": "משתין בקיר",
-      "rationale": "'cɛden kelen si tɛ' (ASV\/JPS) walima 'min bɛ kɔgolo kɔnɔ sɔrɔ' (KJV tilennen) — dɔw b'a ta cɛden hakili ye"
-    },
-    {
-      "kind": "substitution",
-      "subject": "וגאליו",
-      "rationale": "גואל — jamana-nafolo bɛɛ tigi \/ balima-nyɔgɔnfaamɔgɔ, a tɛ 'kinsman' dɔrɔn ye"
-    }
-  ],
-  "translation": "A masakɛya daminɛna, a sigilen bɛ a ka sigiso la, a ye ⟨את⟩ Bashan (Basha) so bɛɛ fo; a ye si tɛ a bila min bɛ kɔgolo kɔnɔ sɔrɔ, a ka balima-nyɛmɔgɔw tɛ, a ka teriw tɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/16\/9-12.1791932241760.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ye kɛ a ka masaya daminɛ na, ni a sigira a ka masakerɛ kan, a ye ⟨את⟩ Basha so bɛɛ fo; a ma bila mɔgɔ kelen min bɛ ji bɔ bɔngi kan, a tɔrɔ-bolibagaw tɛ, a ka teriw tɛ.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "a kɛra"
+      "gloss": "A ye kɛ"
     },
     {
       "surface": "במלכו",
-      "gloss": "a masakɛya la"
+      "gloss": "a ka masaya daminɛ na"
     },
     {
       "surface": "כשבתו",
-      "gloss": "a sigilen"
+      "gloss": "ni a sigira"
     },
     {
       "surface": "על",
-      "gloss": "(kan)"
+      "gloss": "kan"
     },
     {
       "surface": "כסאו",
-      "gloss": "a ka sigiso"
+      "gloss": "a ka masakerɛ"
     },
     {
       "surface": "הכה",
-      "gloss": "a ye ... fo"
+      "gloss": "a ye … fo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Bashan so bɛɛ"
+      "marks": "Basha so bɛɛ (כל בית בעשא)"
     },
     {
       "surface": "כל",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "בעשא",
-      "gloss": "Bashan (Basha)"
+      "gloss": "Basha"
     },
     {
       "surface": "לא",
-      "gloss": "a ye si tɛ ... bila"
+      "gloss": "a ma"
     },
     {
       "surface": "השאיר",
@@ -84,25 +58,25 @@
     },
     {
       "surface": "לו",
-      "gloss": "a bɛɛ"
+      "gloss": "⟨a ye⟩"
     },
     {
       "surface": "משתין",
-      "gloss": "min bɛ kɔgolo kɔnɔ sɔrɔ"
+      "gloss": "mɔgɔ min bɛ ji bɔ"
     },
     {
       "surface": "בקיר",
-      "gloss": "kɔgolo"
+      "gloss": "bɔngi kan"
     },
     {
       "surface": "וגאליו",
-      "gloss": "a ka balima-nyɛmɔgɔw"
+      "gloss": "a ka tɔrɔ-bolibagaw"
     },
     {
       "surface": "ורעהו",
       "gloss": "a ka teriw"
     }
   ],
-  "timestamp": "2026-10-13T22:57:21.768079915Z",
+  "timestamp": "2026-10-20T12:54:26.924794617Z",
   "model": "glm-5.3"
 }

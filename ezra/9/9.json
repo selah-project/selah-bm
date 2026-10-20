@@ -5,49 +5,23 @@
   "book": "ezra",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "חסד",
-      "rationale": "hesed tɛ bayɛlɛma kuma kelen ye; a toora Heburu fɔcogo la."
-    },
-    {
-      "kind": "substitution",
-      "subject": "balo",
-      "rationale": "מחיה ye 'balo-marali \/ balo kɔnɔna' ye, tɛ 'reviving' kelen ye."
-    },
-    {
-      "kind": "crux",
-      "subject": "גדר",
-      "rationale": "sinzin (datugu) walima 'hakili-sira jɔli' (jiri lajɛ): tubabukanw bɛ 'wall\/protection' fɔ — 'protection' ye ɲɛfɔli ye, tɛ a cogo ye."
-    }
-  ],
-  "translation": "Sabu an ye warabagaw ye, ani an ka warabaliya kɔnɔ, Elohim anu ma an bila; a ye hesed kɔnɔ an la, Paras (Peresi) masaw ɲɛ, walasa ka balo di an ma, walasa ka ⟨את⟩ Elohim anu ka so ɲɛgɛn, ani ka a datuguniw jɔ, ani walasa ka sinzin di an ma Yuda ni Yerushalayim (Jerusalɛmu).",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "46e629efaa390bb1736be8221d4e14fc82d299e6291831642da7a6b256ec7a18",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezra\/9\/9-12.1791946770166.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu anw ye dɛsɛw ye, ani an ka dɛsɛya la, Elohim an ka Elohim ma an bila; a y'a tiñe hesed bɛ an kan Paras (Perisi) masakɛw ɲɛfɛ, walasa k'a di an ma ni-maana, walasa k'ori ⟨את⟩ Elohim an ka so, ani walasa ka jɔ ⟨את⟩ a juguyɔrɔw, ani walasa ka bisi di an ma Yuda (Yuda) kɔnɔ ani Yerushalayim (Jerusalɛmu) kɔnɔ.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sabu"
+      "gloss": "sabu"
     },
     {
       "surface": "עבדים",
-      "gloss": "warabagaw"
+      "gloss": "dɛsɛw"
     },
     {
       "surface": "אנחנו",
-      "gloss": "an"
+      "gloss": "anw"
     },
     {
       "surface": "ובעבדתנו",
-      "gloss": "ani an ka warabaliya kɔnɔ"
+      "gloss": "an ka dɛsɛya la"
     },
     {
       "surface": "לא",
@@ -55,19 +29,19 @@
     },
     {
       "surface": "עזבנו",
-      "gloss": "(an) bila"
+      "gloss": "bila"
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim anu"
+      "gloss": "Elohim an ka Elohim"
     },
     {
       "surface": "ויט",
-      "gloss": "a ye hesed kɔnɔ"
+      "gloss": "y'a tiñe"
     },
     {
       "surface": "עלינו",
-      "gloss": "an la"
+      "gloss": "bɛ an kan"
     },
     {
       "surface": "חסד",
@@ -75,19 +49,19 @@
     },
     {
       "surface": "לפני",
-      "gloss": "… ɲɛ"
+      "gloss": "ɲɛfɛ"
     },
     {
       "surface": "מלכי",
-      "gloss": "masaw"
+      "gloss": "masakɛw"
     },
     {
       "surface": "פרס",
-      "gloss": "Paras"
+      "gloss": "Paras (Perisi)"
     },
     {
       "surface": "לתת",
-      "gloss": "walasa ka di"
+      "gloss": "walasa k'a di"
     },
     {
       "surface": "לנו",
@@ -95,16 +69,16 @@
     },
     {
       "surface": "מחיה",
-      "gloss": "balo"
+      "gloss": "ni-maana"
     },
     {
       "surface": "לרומם",
-      "gloss": "walasa ka ɲɛgɛn"
+      "gloss": "walasa k'ori"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elohim anu ka so"
+      "marks": "Elohim an ka so"
     },
     {
       "surface": "בית",
@@ -112,20 +86,20 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim anu"
+      "gloss": "Elohim an ka Elohim"
     },
     {
       "surface": "ולהעמיד",
-      "gloss": "ani ka jɔ"
+      "gloss": "ani walasa ka jɔ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a datuguniw"
+      "marks": "a juguyɔrɔw"
     },
     {
       "surface": "חרבתיו",
-      "gloss": "datuguniw"
+      "gloss": "a juguyɔrɔw"
     },
     {
       "surface": "ולתת",
@@ -137,17 +111,17 @@
     },
     {
       "surface": "גדר",
-      "gloss": "sinzin"
+      "gloss": "bisi"
     },
     {
       "surface": "ביהודה",
-      "gloss": "Yuda"
+      "gloss": "Yuda kɔnɔ"
     },
     {
       "surface": "ובירושלם",
-      "gloss": "ani Yerushalayim"
+      "gloss": "ani Yerushalayim kɔnɔ"
     }
   ],
-  "timestamp": "2026-10-14T02:59:30.168170483Z",
+  "timestamp": "2026-10-20T14:12:20.642968430Z",
   "model": "glm-5.3"
 }

@@ -5,86 +5,60 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "צורה ×3",
-      "rationale": "cogoya kuma bɛna o tilennen na tɔgɔ saba na, Heburukan ka segin-segin b'a la"
-    },
-    {
-      "kind": "measurement",
-      "subject": "jɔcogo",
-      "rationale": "so ka jɔcogo, bɔyɔrɔw ni donyɔrɔw ɲɛfɔli — sariya bɔɔcogo kelen"
-    },
-    {
-      "kind": "you",
-      "subject": "Yekieli",
-      "rationale": "ladiɲu bɛɛ bɛ hadamadenden la"
-    }
-  ],
-  "translation": "Ni u ma u yɛrɛw bin u ka dilanw bɛɛ la, i k'a fɔ u ye: so nɔ, a jɔcogo, a bɔyɔrɔw, a donyɔrɔw, a cogoyaw bɛɛ, a sariyaw bɛɛ, a cogoyaw bɛɛ, a Tora bɛɛ; k'a sɛbɛn u ka ɲɛw kuntugu; walasa u ka so cogoya bɛɛ ni a sariyaw bɛɛ mara, ka u ke.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "269d28a48addbe680ee8da00a3018da41435581ffe5761aa7ab1efed45e71e7d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/43\/9-12.1791937973317.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni u bɛ masi bɔ min nu kɛra bɛɛ la, i ka so ka cogo, ni a jɔcogo, ni a bɔyɔrɔw ani a donyɔrɔw, ni a cogo bɛɛ ni ⟨את⟩ a sariya bɛɛ, ni a cogo bɛɛ ani a Tora bɛɛ ɲɛfɔ u ye, k'o sɛbɛn u ɲɛw la, walasa u ka a cogo bɛɛ ni ⟨את⟩ a sariya bɛɛ mara, ka o kɛ.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "ni"
+      "gloss": "Ni"
     },
     {
       "surface": "נכלמו",
-      "gloss": "u ma u yɛrɛw bin"
+      "gloss": "masi bɔ"
     },
     {
       "surface": "מכל",
-      "gloss": "bɛɛ la"
+      "gloss": "bɛɛ"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "עשו",
-      "gloss": "u ka dilanw"
+      "gloss": "kɛra"
     },
     {
       "surface": "צורת",
-      "gloss": "cogoya"
+      "gloss": "cogo"
     },
     {
       "surface": "הבית",
-      "gloss": "so nɔ"
+      "gloss": "so"
     },
     {
       "surface": "ותכונתו",
-      "gloss": "a jɔcogo"
+      "gloss": "ni a jɔcogo"
     },
     {
       "surface": "ומוצאיו",
-      "gloss": "a bɔyɔrɔw"
+      "gloss": "ni a bɔyɔrɔw"
     },
     {
       "surface": "ומובאיו",
-      "gloss": "a donyɔrɔw"
+      "gloss": "ani a donyɔrɔw"
     },
     {
       "surface": "וכל",
-      "gloss": "a ... bɛɛ"
+      "gloss": "ni bɛɛ"
     },
     {
       "surface": "צורתו",
-      "gloss": "cogoyaw"
+      "gloss": "a cogo"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "a sariyaw bɛɛ"
+      "marks": "a sariya bɛɛ"
     },
     {
       "surface": "כל",
@@ -92,48 +66,49 @@
     },
     {
       "surface": "חקתיו",
-      "gloss": "a sariyaw"
+      "gloss": "a sariya"
     },
     {
       "surface": "וכל",
-      "gloss": "a ... bɛɛ"
+      "gloss": "ni bɛɛ"
     },
     {
       "surface": "צורתי",
-      "gloss": "cogoyaw"
+      "gloss": "a cogo"
     },
     {
       "surface": "וכל",
-      "gloss": "a ... bɛɛ"
+      "gloss": "ani bɛɛ"
     },
     {
       "surface": "תורתו",
-      "gloss": "Tora"
+      "gloss": "a Tora"
     },
     {
       "surface": "הודע",
-      "gloss": "k'a fɔ ... ye"
+      "gloss": "ɲɛfɔ u ye"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ u"
+      "gloss": "⟨את⟩",
+      "marks": "u"
     },
     {
       "surface": "וכתב",
-      "gloss": "k'a sɛbɛn"
+      "gloss": "k'o sɛbɛn"
     },
     {
       "surface": "לעיניהם",
-      "gloss": "u ka ɲɛw kuntugu"
+      "gloss": "u ɲɛw la"
     },
     {
       "surface": "וישמרו",
-      "gloss": "walasa u ka ... mara"
+      "gloss": "ka mara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "so cogoya bɛɛ"
+      "marks": "a cogo bɛɛ"
     },
     {
       "surface": "כל",
@@ -141,12 +116,12 @@
     },
     {
       "surface": "צורתו",
-      "gloss": "so cogoya"
+      "gloss": "a cogo"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "a sariyaw bɛɛ"
+      "marks": "a sariya bɛɛ"
     },
     {
       "surface": "כל",
@@ -154,17 +129,18 @@
     },
     {
       "surface": "חקתיו",
-      "gloss": "a sariyaw"
+      "gloss": "a sariya"
     },
     {
       "surface": "ועשו",
-      "gloss": "ka ... ke"
+      "gloss": "ka o kɛ"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ olu"
+      "gloss": "⟨את⟩",
+      "marks": "o"
     }
   ],
-  "timestamp": "2026-10-14T00:32:53.318390350Z",
+  "timestamp": "2026-10-20T14:08:07.382274145Z",
   "model": "glm-5.3"
 }

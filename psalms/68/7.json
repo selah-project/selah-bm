@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 68,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "so la (ביתה)",
-      "rationale": "'in a house' (jps, literal) vs 'in families' (kjv\/bsb, reading bayit as household); construct bayta is ambiguous."
-    },
-    {
-      "kind": "hapax",
-      "subject": "צחיחה",
-      "rationale": "tsechichah, 'parched land', occurs only here in the Tanakh."
-    },
-    {
-      "kind": "crux",
-      "subject": "בכושרות",
-      "rationale": "'into prosperity' vs 'with singing' (from כשר as triumphal song, Targum); rare plural."
-    }
-  ],
-  "translation": "Elohim bɛ mɔgɔ kɛnɛnw sigi so la; a bɛ minɛnw bɔ ka uoya kɔnɔnya la; nka walaha-mɔgɔw de bɛ sigi dugukolo min ma ji sigi.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/68\/5-8.1791940539579.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Elohim bɛ mɔgɔ kelen-kelenw sigi so la; a bɛ minɛnw bɔ ka taa bɛnniya la; nka oyuw balo tɛgɛntɛn na dɔrɔn.",
   "tokens": [
     {
       "surface": "אלהים",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "מושיב",
-      "gloss": "bɛ … sigi"
+      "gloss": "bɛ sigi"
     },
     {
       "surface": "יחידים",
-      "gloss": "mɔgɔ kɛnɛnw"
+      "gloss": "mɔgɔ kelen-kelenw"
     },
     {
       "surface": "ביתה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "מוציא",
-      "gloss": "bɛ … bɔ"
+      "gloss": "bɛ bɔ"
     },
     {
       "surface": "אסירים",
@@ -59,25 +33,25 @@
     },
     {
       "surface": "בכושרות",
-      "gloss": "ka uoya kɔnɔnya la"
+      "gloss": "bɛnniya la"
     },
     {
       "surface": "אך",
-      "gloss": "nka"
+      "gloss": "nka … dɔrɔn"
     },
     {
       "surface": "סוררים",
-      "gloss": "walaha-mɔgɔw"
+      "gloss": "oyuw"
     },
     {
       "surface": "שכנו",
-      "gloss": "bɛ sigi"
+      "gloss": "bɛ balo"
     },
     {
       "surface": "צחיחה",
-      "gloss": "dugukolo min ma ji sigi"
+      "gloss": "tɛgɛntɛn"
     }
   ],
-  "timestamp": "2026-10-14T01:15:39.580930323Z",
+  "timestamp": "2026-10-20T15:38:58.094303026Z",
   "model": "glm-5.3"
 }

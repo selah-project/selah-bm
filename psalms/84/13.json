@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 84,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ayɛ",
-      "rationale": "Hebrew marks the address only by context; Bamanankan vocative particle supplied and bracketed"
-    },
-    {
-      "kind": "substitution",
-      "subject": "barika",
-      "rationale": "אשרי is an interjection 'how happy!'; rendered with the blessing-word barika, the closest Bamanankan exclamative"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אשרי",
-      "rationale": "plural-construct form used as interjection; the beatitude formula opens and closes the psalm's frame with verse 5"
-    }
-  ],
-  "translation": "Yawe Tsevaot, ⟨ayɛ⟩, hadamaden min bɛ i kunbɛn, o barika!",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "3481c00196881e8019a8a68d42d0792dca17d59d7eeb04e1b7de5bc4947d3f38",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/84\/13-13.1791940886120.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe Sababɛɛtigi, hadamaden min b'i la hkɛmɛya, o tɔgɔ dira!",
   "tokens": [
     {
       "surface": "יהוה",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "Sababɛɛtigi"
     },
     {
       "surface": "אשרי",
-      "gloss": "o barika"
+      "gloss": "o tɔgɔ dira"
     },
     {
       "surface": "אדם",
@@ -51,13 +25,13 @@
     },
     {
       "surface": "בטח",
-      "gloss": "kunbɛn"
+      "gloss": "b'i la hkɛmɛya"
     },
     {
       "surface": "בך",
-      "gloss": "i"
+      "gloss": "i la"
     }
   ],
-  "timestamp": "2026-10-14T01:21:26.121357485Z",
+  "timestamp": "2026-10-20T15:40:22.925650823Z",
   "model": "glm-5.3"
 }

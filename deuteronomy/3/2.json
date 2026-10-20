@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨ko⟩",
-      "rationale": "Heburukan ויאמר bɛɛ kofɔ-daɲɛw jira; Bambara wajibiya ko"
-    },
-    {
-      "kind": "you",
-      "subject": "to Moshe",
-      "rationale": "Yawe kuma kɔrɔdɔrɔ don Moshe ma — al-ka-ki: i kana, aw bolo ma, aw na kɛ"
-    }
-  ],
-  "translation": "Yawe ye n wele ko: I kana a siran; sabu ne b'a di aw bolo ma — ⟨את⟩ a, ⟨את⟩ a jama bɛɛ, ani ⟨את⟩ a dugukolo. Aw na kɛ a ye min ye i n'a fɔ aw ye kɛ Sihon (Sihon) ye, Amori (Amori) masakɛ min sigilen Heshbon (Heshbon).",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "69a79efe92e46e0f95e78a4356372cfabbf4763e8e7010c8b65f8db7c00a88b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/3\/1-4.1791927521533.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe ye n'na ko: \"I k'o siran, sabu ne ye ⟨את⟩ o di i bolo la, ani ⟨את⟩ a jama bɛɛ, ani ⟨את⟩ a dugukolo; i bɛna a kɛ cogo min na i ye kɛ Sihɔn (Sihon), Amoruw ka masakɛ min dugunna Heshibɔn (Heshbon), o ye.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ye ... ko"
+      "gloss": "ko"
     },
     {
       "surface": "יהוה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "n ... ma wele"
+      "gloss": "n'na"
     },
     {
       "surface": "אל",
@@ -51,7 +30,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "Og — a"
+      "marks": "o (Og, Bashan masakɛ)"
     },
     {
       "surface": "כי",
@@ -59,16 +38,16 @@
     },
     {
       "surface": "בידך",
-      "gloss": "aw bolo ma"
+      "gloss": "i bolo la"
     },
     {
       "surface": "נתתי",
-      "gloss": "ne b'a di"
+      "gloss": "ne ye ... di"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "a"
+      "marks": "o (Og)"
     },
     {
       "surface": "ואת",
@@ -94,23 +73,23 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "aw na kɛ"
+      "gloss": "i bɛna ... kɛ"
     },
     {
       "surface": "לו",
-      "gloss": "a ye"
+      "gloss": "a"
     },
     {
       "surface": "כאשר",
-      "gloss": "i n'a fɔ aw ye kɛ ... ye"
+      "gloss": "cogo min na"
     },
     {
       "surface": "עשית",
-      "gloss": "kɛ"
+      "gloss": "i ye ... kɛ"
     },
     {
       "surface": "לסיחן",
-      "gloss": "Sihon"
+      "gloss": "Sihɔn (Sihon)"
     },
     {
       "surface": "מלך",
@@ -118,7 +97,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "Amori"
+      "gloss": "Amoruw"
     },
     {
       "surface": "אשר",
@@ -126,13 +105,13 @@
     },
     {
       "surface": "יושב",
-      "gloss": "sigilen"
+      "gloss": "dugunna"
     },
     {
       "surface": "בחשבון",
-      "gloss": "Heshbon"
+      "gloss": "Heshibɔn (Heshbon)"
     }
   ],
-  "timestamp": "2026-10-13T21:38:41.537316743Z",
+  "timestamp": "2026-10-20T13:44:19.652765196Z",
   "model": "glm-5.3"
 }

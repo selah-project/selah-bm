@@ -5,66 +5,40 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "eighth day and onward",
-      "rationale": "The inauguration closes on the eighth day; regular offerings begin from there."
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Second-person plural 'your burnt offerings' addresses the exiles through Ezekiel."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שלמיכם \/ hɛrɛ",
-      "rationale": "Shelamim 'peace offerings' shares its root with shalom; hɛrɛ keeps the peace resonance."
-    }
-  ],
-  "translation": "Don ninnu nana na banna na, don sigidan don na k'a tu bɛɛ, sarakalasebagaw bɛ aw ka tutu-sarakaw ni ⟨את⟩ aw ka hɛrɛ-sarakaw kɛ sarakabɔlan kan; n bɛna ⟨את⟩ aw sɔn — Adonay Yawe ka kuma ko nin ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "dec333b4156e6981679dd4e05e7eb9ca7d0344f09d95f9d1977cad46022171ca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/43\/25-27.1791937931119.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni o donw banna (bɛɛla donw), o kɔ, don wolonwulanan na ani kɔfɛ, sarakalasebagaw bɛ ⟨את⟩ aw ka sarakaw minnu bɛ tasumana (lasebali) ani ⟨את⟩ aw ka hɛrɛ-sarakaw kɛ sarakabɔlan kan, m'aw yɛrɛ bɛna sɔn aw ma — Adonay Yawe ka kuma.",
   "tokens": [
     {
       "surface": "ויכלו",
-      "gloss": "u bɛna o banaba"
+      "gloss": "banna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "don ninnu"
+      "marks": "donw"
     },
     {
       "surface": "הימים",
-      "gloss": "don ninnu"
+      "gloss": "donw"
     },
     {
       "surface": "והיה",
-      "gloss": "k'a kɛ"
+      "gloss": "kɔ, o bɛna kɛ"
     },
     {
       "surface": "ביום",
-      "gloss": "don la"
+      "gloss": "don na"
     },
     {
       "surface": "השמיני",
-      "gloss": "sigidan"
+      "gloss": "wolonwulanan"
     },
     {
       "surface": "והלאה",
-      "gloss": "k'a tu bɛɛ"
+      "gloss": "ani kɔfɛ"
     },
     {
       "surface": "יעשו",
-      "gloss": "u bɛ kɛ"
+      "gloss": "bɛ ... kɛ"
     },
     {
       "surface": "הכהנים",
@@ -81,11 +55,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tutu-sarakaw"
+      "marks": "saraka minnu bɛ tasumana"
     },
     {
       "surface": "עולותיכם",
-      "gloss": "aw ka tutu-sarakaw"
+      "gloss": "aw ka sarakaw minnu bɛ tasumana (lasebali)"
     },
     {
       "surface": "ואת",
@@ -98,12 +72,11 @@
     },
     {
       "surface": "ורצאתי",
-      "gloss": "n bɛna sɔn"
+      "gloss": "m'bɛna sɔn aw ma"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "aw"
+      "gloss": "⟨את⟩ aw"
     },
     {
       "surface": "נאם",
@@ -118,6 +91,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-14T00:32:11.120788643Z",
+  "timestamp": "2026-10-20T14:08:20.383347433Z",
   "model": "glm-5.3"
 }

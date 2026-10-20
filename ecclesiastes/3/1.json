@@ -5,41 +5,15 @@
   "book": "ecclesiastes",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bɛ yen",
-      "rationale": "Hebrew has no verb; Bambara needs the existential bɛ yen"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kunyolifa",
-      "rationale": "חפץ is pleasure\/desire\/concrete valuable thing; kunyolifa takes the 'what one desires' edge"
-    },
-    {
-      "kind": "measurement",
-      "subject": "waati",
-      "rationale": "verse opens a catalog of appointed times, a structure of measured opposites"
-    }
-  ],
-  "translation": "Bááyɔrɔ bɛɛ ma, waati ⟨bɛ yen⟩, ani kunyolifa bɛɛ ma sankolow jukɔrɔ, waati ⟨bɛ yen⟩.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ecclesiastes\/3\/1-4.1791945156804.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fɛn bɛɛ la, waati dɔ bɛ yen; ani fɛn o fɛn min bɛ sankolow jukɔrɔ, o bɛɛ bɛ a ka waati tɔɔ dɔw la.",
   "tokens": [
     {
       "surface": "לכל",
-      "gloss": "bááyɔrɔ bɛɛ ma"
+      "gloss": "fɛn bɛɛ la"
     },
     {
       "surface": "זמן",
-      "gloss": "waati walɛn"
+      "gloss": "waati tɔɔ"
     },
     {
       "surface": "ועת",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "bɛɛ ma"
+      "gloss": "fɛn o fɛn bɛɛ"
     },
     {
       "surface": "חפץ",
-      "gloss": "kunyolifa"
+      "gloss": "a b'a fɛ fɛn"
     },
     {
       "surface": "תחת",
@@ -62,6 +36,6 @@
       "gloss": "sankolow"
     }
   ],
-  "timestamp": "2026-10-14T02:32:36.804992649Z",
+  "timestamp": "2026-10-20T13:47:43.939872246Z",
   "model": "glm-5.3"
 }

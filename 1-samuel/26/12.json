@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "תרדמה",
-      "rationale": "'lethargy\/trance', a heavy divine sleep (cf. Gen 2:21); rendered 'tagatigɛlen' (deep sleep)."
-    },
-    {
-      "kind": "elision",
-      "subject": "להם",
-      "gloss": "Reflexive 'for themselves' in וילכו להם ('they got themselves away') has no separate Bambara rendering."
-    }
-  ],
-  "translation": "Dawuda ye ⟨את⟩ ɲamara ni ⟨את⟩ ji degɔrɔ ta Shaulu (Sawulu) ka kunbolo, u ye taa; mɔgɔ si ma ye, mɔgɔ si ma dɔn, mɔgɔ si ma taga bɔ, sabu u bɛɛ tun tagalen don, sabu tagatigɛlen min bɔra Yawe nɔ na, o bora u kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/26\/9-12.1791930714712.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawid ye ⟨את⟩ npan ni ⟨את⟩ ji-kɔlɔ ta Shauli kun-mɛrɛ la, u ye u yɛrɛ taa; mɔgɔ si ma ye, mɔgɔ si ma dɔn, mɔgɔ si ma bɔ sunɔgɔ la, sabu u bɛɛ tun bɛ sunɔgɔ, sabu Yawe ka sunɔgɔya-bonya bɔra u kan.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -34,25 +13,25 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dawuda"
+      "gloss": "Dawid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ɲamara"
+      "marks": "npan"
     },
     {
       "surface": "החנית",
-      "gloss": "ɲamara"
+      "gloss": "npan"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ji degɔrɔ"
+      "marks": "ji-kɔlɔ"
     },
     {
       "surface": "צפחת",
-      "gloss": "ji degɔrɔ"
+      "gloss": "ji-kɔlɔ"
     },
     {
       "surface": "המים",
@@ -60,23 +39,23 @@
     },
     {
       "surface": "מראשתי",
-      "gloss": "kunbolo"
+      "gloss": "kun-mɛrɛ"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaulu"
+      "gloss": "Shauli"
     },
     {
       "surface": "וילכו",
-      "gloss": "u ye taa"
+      "gloss": "u ye … taa"
     },
     {
       "surface": "להם",
-      "gloss": ""
+      "gloss": "u yɛrɛ"
     },
     {
       "surface": "ואין",
-      "gloss": "si ma"
+      "gloss": "mɔgɔ si ma"
     },
     {
       "surface": "ראה",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "ואין",
-      "gloss": "si ma"
+      "gloss": "mɔgɔ si ma"
     },
     {
       "surface": "יודע",
@@ -92,11 +71,11 @@
     },
     {
       "surface": "ואין",
-      "gloss": "si ma"
+      "gloss": "mɔgɔ si ma"
     },
     {
       "surface": "מקיץ",
-      "gloss": "taga bɔ"
+      "gloss": "bɔ sunɔgɔ la"
     },
     {
       "surface": "כי",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "ישנים",
-      "gloss": "tagalen don"
+      "gloss": "sunɔgɔ"
     },
     {
       "surface": "כי",
@@ -116,7 +95,7 @@
     },
     {
       "surface": "תרדמת",
-      "gloss": "tagatigɛlen"
+      "gloss": "sunɔgɔya-bonya"
     },
     {
       "surface": "יהוה",
@@ -124,13 +103,13 @@
     },
     {
       "surface": "נפלה",
-      "gloss": "bora"
+      "gloss": "bɔra"
     },
     {
       "surface": "עליהם",
       "gloss": "u kan"
     }
   ],
-  "timestamp": "2026-10-13T22:31:54.714634367Z",
+  "timestamp": "2026-10-20T13:04:44.319228342Z",
   "model": "glm-5.3"
 }

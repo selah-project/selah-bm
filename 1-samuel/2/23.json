@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "minnu bɛ fɔ aw kan",
-      "rationale": "Hebrew 'from all this people I hear' — Bambara kumasen ka nɔgɔya kama, u bila u yɛrɛ fɛ"
-    },
-    {
-      "kind": "you",
-      "subject": "aw (Eli ka denw)",
-      "rationale": "Eli bɛ a denw wele k'u ɲini — 'aw' direct address"
-    }
-  ],
-  "translation": "A y'u ko: Munna aw bɛ nin kumaw kɛ wa, mɔgɔ bɛɛ ye aw ka kumaw juguw lamɛn ma bɔ nin jama in fɛ, minnu bɛ fɔ aw kan?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/2\/21-24.1791929889998.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y'u wele ko: mun na aw bɛ kumaw ninnu kɛ, minnu na ne bɛ mɛn ⟨את⟩ aw ka kumaw juguw ⟨את⟩ bɔ jama in nin bɛɛ fɛ?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a y'u ko"
+      "gloss": "A y'u wele ko"
     },
     {
       "surface": "להם",
@@ -38,23 +17,23 @@
     },
     {
       "surface": "למה",
-      "gloss": "Munna wa"
+      "gloss": "mun na"
     },
     {
       "surface": "תעשון",
-      "gloss": "aw bɛ kɛ"
+      "gloss": "aw bɛ … kɛ"
     },
     {
       "surface": "כדברים",
-      "gloss": "nin kumaw i n'a fɔ"
+      "gloss": "i n'a fɔ kumaw"
     },
     {
       "surface": "האלה",
-      "gloss": "nin"
+      "gloss": "ninnu"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "minnu na"
     },
     {
       "surface": "אנכי",
@@ -62,12 +41,12 @@
     },
     {
       "surface": "שמע",
-      "gloss": "lamɛn"
+      "gloss": "bɛ mɛn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aw ka kumaw juguw"
+      "marks": "aw ka kumaw"
     },
     {
       "surface": "דבריכם",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "bɔ ⟨את⟩"
+      "gloss": "⟨את⟩ bɔ"
     },
     {
       "surface": "כל",
@@ -87,13 +66,13 @@
     },
     {
       "surface": "העם",
-      "gloss": "jama"
+      "gloss": "jama in"
     },
     {
       "surface": "אלה",
-      "gloss": "in"
+      "gloss": "nin"
     }
   ],
-  "timestamp": "2026-10-13T22:18:10.001018876Z",
+  "timestamp": "2026-10-20T13:02:19.499511901Z",
   "model": "glm-5.3"
 }

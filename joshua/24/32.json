@@ -5,38 +5,12 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "קשיטה",
-      "rationale": "kesitah — a stamped money-ingot; value unknown, left as loanword."
-    },
-    {
-      "kind": "substitution",
-      "subject": "sanu",
-      "rationale": "Bambara 'sanu' (gold) supplied for the unknown kesitah's material; Hebrew names no metal — coin word kept beside it."
-    },
-    {
-      "kind": "elision",
-      "subject": "מאת",
-      "rationale": "Preposition 'from with' rendered simply 'fɛ'; the doubled aleph-tav form noted with ⟨את⟩."
-    }
-  ],
-  "translation": "Ni Yusuifu (Yusufu) kolow, minnu ye Isirayili denw bɔ Mitsrayim (Misira) na, u ye u sinsin Sikemu (Sikem), foro dɔ la min Yaaqub (Yakuba) ye ta Xamoru (Xamoru) denw fɛ, Sikemu fa, ni sanu kɛmɛ kesita ye; o kɛra Yusuifu denw yɔrɔ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "650da16a52120dcaeb57aae3d07a8a38fecb1a7b4cc5162b697474b45a27c6ea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/24\/29-32.1791929168881.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ani ⟨את⟩ Yosef ka kolow, minnu Yisrael denw nana b'o minɛ Misira fɛ, u y'u lafan bɛ Shekem (Sikɛmu), foro boɲa min na Yakub ye ta Hamor denw, Shekem fa, fɛ ni kesitah kɛmɛdɔ ye; o kɛra Yosef denw ka nafa-yɔrɔ ye.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ni ⟨את⟩",
-      "marks": "kolow"
+      "gloss": "⟨את⟩",
+      "marks": "Yosef ka kolow"
     },
     {
       "surface": "עצמות",
@@ -44,7 +18,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Yusuifu"
+      "gloss": "Yosef"
     },
     {
       "surface": "אשר",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "העלו",
-      "gloss": "bɔ"
+      "gloss": "nana b'o minɛ"
     },
     {
       "surface": "בני",
@@ -60,23 +34,23 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayili"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ממצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Misira fɛ"
     },
     {
       "surface": "קברו",
-      "gloss": "u ye u sinsin"
+      "gloss": "u y'u lafan"
     },
     {
       "surface": "בשכם",
-      "gloss": "Sikemu"
+      "gloss": "bɛ Shekem (Sikɛmu)"
     },
     {
       "surface": "בחלקת",
-      "gloss": "dɔ la"
+      "gloss": "boɲa"
     },
     {
       "surface": "השדה",
@@ -88,11 +62,11 @@
     },
     {
       "surface": "קנה",
-      "gloss": "ta"
+      "gloss": "ye … ta (san)"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaaqub"
+      "gloss": "Yakub (Yakuba)"
     },
     {
       "surface": "מאת",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "חמור",
-      "gloss": "Xamoru"
+      "gloss": "Hamor"
     },
     {
       "surface": "אבי",
@@ -112,15 +86,15 @@
     },
     {
       "surface": "שכם",
-      "gloss": "Sikemu"
+      "gloss": "Shekem"
     },
     {
       "surface": "במאה",
-      "gloss": "kɛmɛ"
+      "gloss": "ni kɛmɛdɔ ye"
     },
     {
       "surface": "קשיטה",
-      "gloss": "kesita"
+      "gloss": "kesitah"
     },
     {
       "surface": "ויהיו",
@@ -128,17 +102,17 @@
     },
     {
       "surface": "לבני",
-      "gloss": "denw"
+      "gloss": "denw ka"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yusuifu"
+      "gloss": "Yosef"
     },
     {
       "surface": "לנחלה",
-      "gloss": "yɔrɔ ye"
+      "gloss": "nafa-yɔrɔ"
     }
   ],
-  "timestamp": "2026-10-13T22:06:08.885684266Z",
+  "timestamp": "2026-10-20T14:57:37.519217153Z",
   "model": "glm-5.3"
 }

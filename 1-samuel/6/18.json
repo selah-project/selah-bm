@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אבל הגדולה",
-      "rationale": "Abel ka bonba' walima 'Abel-meadow ka bonba' (jps) walima 'bonba Abel' — kɔrɔ ma jɛ tilennenya la"
-    },
-    {
-      "kind": "hapax",
-      "subject": "הסרנים",
-      "rationale": "saran' (dumamɛɛ, Plisiti ka karamɔgɔw) — baara kɛra Tanaki kɔnɔ Plisiti dumamɛɛw bɛɛ fɔ la, kɔrɔko ye 'axle\/peer' ye"
-    },
-    {
-      "kind": "elision",
-      "subject": "בית השמשי",
-      "rationale": "Heburu fɔ 'Bet-ha-shemshi' (Betshemeshi-jamuw tɔgɔ) — Bamanankan bɛ a ɲɛfɔ kelen kɔnɔ"
-    }
-  ],
-  "translation": "Ni sanu nɔgɔninw, duguw bɛɛ jateden na minnu ye Pelistinenw ka dumamɛɛw tamanwula-saba-yɛrɛ ye, min bɔ dugu-kɔrɔkɔlɔnw na fo dugu-fitininw ma, ka na Abel ka bonba ma, min kan u bila ⟨את⟩ Yawe ka arɔn — fo bi don in na, Yehoshua Betshemeshi (Betshemesikaw) ka foro la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e5075d8ddb2c2a68d8b798c197b2e8de8aed73db5b0e23f5ab14dfc5ba63a5b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/6\/17-20.1791929997901.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni sanu juw ni Filisti duguw bɛɛ hakɛ ye, duuru saranw tɔɔrɔ ye — dugu min nu kabaw da, fo dugu fitininw ma, fo Abel bonba ma, min kan u bilila ⟨את⟩ Yawe ka sanduku; a bɛ yen fo nin don in na, Yehoshua (Yezu) ka foro la, Beti-Shemesh dugu la.",
   "tokens": [
     {
       "surface": "ועכברי",
-      "gloss": "ni nɔgɔninw"
+      "gloss": "ni juw"
     },
     {
       "surface": "הזהב",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "מספר",
-      "gloss": "jateden"
+      "gloss": "hakɛ"
     },
     {
       "surface": "כל",
@@ -55,23 +29,23 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelistinenw ka"
+      "gloss": "Filistiw"
     },
     {
       "surface": "לחמשת",
-      "gloss": "tamanwula-saba-yɛrɛ"
+      "gloss": "duuru"
     },
     {
       "surface": "הסרנים",
-      "gloss": "dumamɛɛw"
+      "gloss": "saranw"
     },
     {
       "surface": "מעיר",
-      "gloss": "min bɔ dugu"
+      "gloss": "dugu"
     },
     {
       "surface": "מבצר",
-      "gloss": "kɔrɔkɔlɔn"
+      "gloss": "min kabaw da"
     },
     {
       "surface": "ועד",
@@ -79,15 +53,15 @@
     },
     {
       "surface": "כפר",
-      "gloss": "dugu-fitinin"
+      "gloss": "dugu fitinin"
     },
     {
       "surface": "הפרזי",
-      "gloss": "dugumafɛnw"
+      "gloss": "duguw ta"
     },
     {
       "surface": "ועד",
-      "gloss": "ka na"
+      "gloss": "fo"
     },
     {
       "surface": "אבל",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "הניחו",
-      "gloss": "u bila"
+      "gloss": "u bilila"
     },
     {
       "surface": "עליה",
@@ -112,11 +86,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe ka arɔn"
+      "marks": "Yawe ka sanduku"
     },
     {
       "surface": "ארון",
-      "gloss": "arɔn"
+      "gloss": "sanduku"
     },
     {
       "surface": "יהוה",
@@ -128,7 +102,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "bi don"
+      "gloss": "nin don"
     },
     {
       "surface": "הזה",
@@ -143,10 +117,14 @@
       "gloss": "Yehoshua"
     },
     {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
       "surface": "השמשי",
-      "gloss": "Betshemeshikaw"
+      "gloss": "Shemesh dugu"
     }
   ],
-  "timestamp": "2026-10-13T22:19:57.908676608Z",
+  "timestamp": "2026-10-20T13:06:44.742510136Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,11 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ye Ye",
-      "rationale": "שְׁמוֹ (his name) needs the Bamanankan copula ye to carry the naming clause"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מזבח מזבח",
-      "rationale": "doubled vocative addressing the altar itself, kept doubled in Bamanankan"
-    },
-    {
-      "kind": "you",
-      "subject": "sarakabɔlan",
-      "rationale": "the prophet addresses the altar directly as addressee ('upon you' three times)"
-    },
-    {
-      "kind": "mystery",
-      "subject": "Yosiya jatebila",
-      "rationale": "a king named three centuries ahead — sealed foreknowledge given as a sign"
-    }
-  ],
-  "translation": "A ye Yawe ka kuma fɔ sarakabɔlan kan, a ko: Sarakabɔlan, sarakabɔlan, Yawe nin ye o kuma: I na a ye: denkɛ dɔ bɛna baara Dawuda (Dawuda) ka so la, tɔgɔ ye Ye Yosiya (Josiya); a bɛ ⟨את⟩ sanhɔw sarakalasebaga minnu bɛ i kan ka tasuma di, di i bilen sara; ani hadamadenw ka kolow bɛna tasuma di i kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "aaa6cdb4a2266f63b05db7ac04e6ba3fc77e26ac42edbb3a95d6a51fdc48ba25",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/13\/1-4.1791932202792.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y'a wele sarakabɔlan kan Yawe kuma fɛ, a ko: “Sarakabɔlan, sarakabɔlan, nin kuma Yawe ka: aw i yɛ, denkɛ dɔ bɛna bɔ Dawid (Dawuda) so la, Yoshiyahu (Josiya) tɔgɔ ye, a bɛna ⟨את⟩ sangalan yɔrɔw ka sarakalasebagaw minnu bɛ i kan tusu sara, u saraka i kan, ani hadamadew ka kolo bɛna tuguni i kan.”",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "a ye ... fɔ"
+      "gloss": "wele"
     },
     {
       "surface": "על",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "בדבר",
-      "gloss": "kuma la"
+      "gloss": "kuma fɛ"
     },
     {
       "surface": "יהוה",
@@ -60,23 +29,23 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "a ko"
+      "gloss": "ko"
     },
     {
       "surface": "מזבח",
-      "gloss": "sarakabɔlan"
+      "gloss": "Sarakabɔlan"
     },
     {
       "surface": "מזבח",
-      "gloss": "sarakabɔlan"
+      "gloss": "Sarakabɔlan"
     },
     {
       "surface": "כה",
-      "gloss": "nin ye o"
+      "gloss": "nin"
     },
     {
       "surface": "אמר",
-      "gloss": "ko"
+      "gloss": "kuma"
     },
     {
       "surface": "יהוה",
@@ -84,7 +53,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "i na a ye"
+      "gloss": "aw i yɛ"
     },
     {
       "surface": "בן",
@@ -92,7 +61,7 @@
     },
     {
       "surface": "נולד",
-      "gloss": "bɛna baara"
+      "gloss": "bɛna bɔ"
     },
     {
       "surface": "לבית",
@@ -100,11 +69,11 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dawuda"
+      "gloss": "Dawid"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Yosiya"
+      "gloss": "Yoshiyahu"
     },
     {
       "surface": "שמו",
@@ -112,7 +81,7 @@
     },
     {
       "surface": "וזבח",
-      "gloss": "di i bilen sara"
+      "gloss": "saraka"
     },
     {
       "surface": "עליך",
@@ -121,19 +90,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sanhɔw sarakalasebaga"
+      "marks": "sarakalasebagaw"
     },
     {
       "surface": "כהני",
-      "gloss": "sarakalasebaga"
+      "gloss": "sarakalasebagaw"
     },
     {
       "surface": "הבמות",
-      "gloss": "sanhɔw"
+      "gloss": "sangalan yɔrɔw"
     },
     {
       "surface": "המקטרים",
-      "gloss": "minnu bɛ tasuma di"
+      "gloss": "minnu bɛ tusu sara"
     },
     {
       "surface": "עליך",
@@ -141,17 +110,21 @@
     },
     {
       "surface": "ועצמות",
-      "gloss": "kolow"
+      "gloss": "kolo"
     },
     {
       "surface": "אדם",
-      "gloss": "hadamadenw"
+      "gloss": "hadamade"
     },
     {
       "surface": "ישרפו",
-      "gloss": "bɛna tasuma di"
+      "gloss": "bɛna tuguni"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "i kan"
     }
   ],
-  "timestamp": "2026-10-13T22:56:42.797343326Z",
+  "timestamp": "2026-10-20T12:53:36.051768389Z",
   "model": "glm-5.3"
 }

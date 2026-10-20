@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נצב על",
-      "rationale": "'daatalen … kan' — 'set over' (authority) vs 'standing among' (ASV 'stood by'): Doeg's office is at stake."
-    },
-    {
-      "kind": "addition",
-      "subject": "dugu tɛ sɔrɔ",
-      "rationale": "Bamanankan k'a fɔ dugu ye, Heburukan ma min fɔ; an ma a fara a kan."
-    }
-  ],
-  "translation": "A sɔrɔ Doeg Adɔmi (Dɔɛgu Adɔmitɔgan) min daatalen Shaul (Saulu) ka dɛmkɛw kan, a y'a jawo ko: ne ye ⟨את⟩ Yishayi (Yise) denkɛ ye a nana Nowo (Nɔbu), a taa ra Ahimelek (Aximelek) Ahitub denkɛ fɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "db24cb0b17f4e24899bc10c1fd29cdb1c5db4bdae090cc71ba83fb18d199f401",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/22\/9-12.1791930599987.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Doeg (Doeg) Edomiden (Edomiden) jaabi a min tinɛ Shaul (Saul) dɛmɛtigiw la, a kɔrɔko ko: ne ye ⟨את⟩ Yishai (Jese) den ye a nana Nob (Nob) kɔnɔ, a kɔrɔko Ahimelek (Ahimelek) ma, Ahitub (Ahitub) den ma.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "a y'a jawo"
+      "gloss": "jaabi"
     },
     {
       "surface": "דאג",
@@ -38,23 +17,23 @@
     },
     {
       "surface": "האדמי",
-      "gloss": "Adɔmi"
+      "gloss": "Edomiden"
     },
     {
       "surface": "והוא",
-      "gloss": "min"
+      "gloss": "a"
     },
     {
       "surface": "נצב",
-      "gloss": "daatalen"
+      "gloss": "a min tinɛ"
     },
     {
       "surface": "על",
-      "gloss": "kan"
+      "gloss": "la"
     },
     {
       "surface": "עבדי",
-      "gloss": "dɛmkɛw"
+      "gloss": "dɛmɛtigiw"
     },
     {
       "surface": "שאול",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "a ko"
+      "gloss": "a kɔrɔko ko"
     },
     {
       "surface": "ראיתי",
@@ -71,27 +50,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yishayi denkɛ"
+      "marks": "Yishai den"
     },
     {
       "surface": "בן",
-      "gloss": "denkɛ"
+      "gloss": "den"
     },
     {
       "surface": "ישי",
-      "gloss": "Yishayi"
+      "gloss": "Yishai"
     },
     {
       "surface": "בא",
-      "gloss": "nana"
+      "gloss": "a nana"
     },
     {
       "surface": "נבה",
-      "gloss": "Nowo"
+      "gloss": "Nob kɔnɔ"
     },
     {
       "surface": "אל",
-      "gloss": "fɛ"
+      "gloss": "ma"
     },
     {
       "surface": "אחימלך",
@@ -99,13 +78,13 @@
     },
     {
       "surface": "בן",
-      "gloss": "denkɛ"
+      "gloss": "den"
     },
     {
       "surface": "אחטוב",
       "gloss": "Ahitub"
     }
   ],
-  "timestamp": "2026-10-13T22:29:59.988981109Z",
+  "timestamp": "2026-10-20T13:03:30.950430752Z",
   "model": "glm-5.3"
 }

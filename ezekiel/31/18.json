@@ -5,57 +5,31 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Farawun",
-      "rationale": "Direct address to Pharaoh: rhetorical question 'an b'i jija cogo min na' plus second-person verbs."
-    },
-    {
-      "kind": "crux",
-      "subject": "ערלים",
-      "rationale": "'elabɛw' (uncircumcised) as those among whom Pharaoh lies — literal kept; some render simply 'the dead of the nations'."
-    },
-    {
-      "kind": "addition",
-      "subject": "an b'i jija",
-      "rationale": "Hebrew opens with אל מי דמית 'to whom did you liken' — Bambara question frame supplied with 'an' question particle the Hebrew lacks."
-    }
-  ],
-  "translation": "An b'i jija cogo min na ni sumaya ani ni bonya ye Ɛdɛn jiriw la? I bɛna ⟨את⟩ Ɛdɛn jiriw tiya ka taa dugukolo duguma; i bɛna su elabɛw cɛma, ⟨את⟩ npan-kunbɔligw ye. O ye Farawun de ye ni a mɛnɛ bɛɛ ye, Adonay Yawe ka kuma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8fe58fd7207ee972e501194ac1da852c52f4cd735d1faad2ec783797f3c61cc9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/31\/17-18.1791937492234.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I ye tɔgɔ bɔ min la, i n'a fɔ caya ni bonya la, Edɛn jiriw la? Nka i bɛna sigi kɔrɔla ni Edɛn jiriw ye, dugukolo jukɔrɔ na; bilakorow bɛɛ la i bɛna i to, ⟨את⟩ npanw fagaw la. O de ye Farawo (Paroh) ye, ni a jama bɛɛ ye — Adonay Yawe ka kuma de.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "an b'i jija … i ko"
+      "gloss": "min la"
     },
     {
       "surface": "מי",
-      "gloss": "mun"
+      "gloss": "min"
     },
     {
       "surface": "דמית",
-      "gloss": "i jija … ye"
+      "gloss": "i ye tɔgɔ bɔ"
     },
     {
       "surface": "ככה",
-      "gloss": "cogo min na"
+      "gloss": "n'a fɔ"
     },
     {
       "surface": "בכבוד",
-      "gloss": "ni sumaya"
+      "gloss": "caya"
     },
     {
       "surface": "ובגדל",
-      "gloss": "ani ni bonya"
+      "gloss": "ni bonya la"
     },
     {
       "surface": "בעצי",
@@ -63,16 +37,16 @@
     },
     {
       "surface": "עדן",
-      "gloss": "Ɛdɛn"
+      "gloss": "Edɛn"
     },
     {
       "surface": "והורדת",
-      "gloss": "i bɛna … tiya ka taa"
+      "gloss": "i bɛna sigi kɔrɔla"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ɛdɛn jiriw"
+      "marks": "Edɛn jiriw"
     },
     {
       "surface": "עצי",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "עדן",
-      "gloss": "Ɛdɛn"
+      "gloss": "Edɛn"
     },
     {
       "surface": "אל",
-      "gloss": "ka taa"
+      "gloss": "ye"
     },
     {
       "surface": "ארץ",
@@ -92,28 +66,28 @@
     },
     {
       "surface": "תחתית",
-      "gloss": "duguma"
+      "gloss": "jukɔrɔ"
     },
     {
       "surface": "בתוך",
-      "gloss": "cɛma"
+      "gloss": "bɛɛ la"
     },
     {
       "surface": "ערלים",
-      "gloss": "elabɛw"
+      "gloss": "bilakorow"
     },
     {
       "surface": "תשכב",
-      "gloss": "i bɛna su"
+      "gloss": "i bɛna i to"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "npan-kunbɔligw"
+      "marks": "npanw fagaw"
     },
     {
       "surface": "חללי",
-      "gloss": "kunbɔligw"
+      "gloss": "fagaw"
     },
     {
       "surface": "חרב",
@@ -121,23 +95,23 @@
     },
     {
       "surface": "הוא",
-      "gloss": "o"
+      "gloss": "o de"
     },
     {
       "surface": "פרעה",
-      "gloss": "Farawun de"
+      "gloss": "Farawo"
     },
     {
       "surface": "וכל",
-      "gloss": "ni … bɛɛ"
+      "gloss": "ni ... bɛɛ"
     },
     {
       "surface": "המונה",
-      "gloss": "a mɛnɛ"
+      "gloss": "jama"
     },
     {
       "surface": "נאם",
-      "gloss": "ka kuma"
+      "gloss": "ka kuma de"
     },
     {
       "surface": "אדני",
@@ -148,6 +122,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-14T00:24:52.235116488Z",
+  "timestamp": "2026-10-20T14:05:05.663551229Z",
   "model": "glm-5.3"
 }

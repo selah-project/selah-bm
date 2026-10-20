@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "השחיתם",
-      "rationale": "'ruin\/destroy' rendered 'bana' (spoil); causative of decay"
-    },
-    {
-      "kind": "addition",
-      "subject": "minnun bɛ … ye",
-      "rationale": "Bambara needs a relative clause where Hebrew simply juxtaposes בריתו את אברהם"
-    }
-  ],
-  "translation": "Yawe ye u di ninimaya, a ye u hunyɔrɔya, a y'o ɲɛ fɛ a bɛɛ la, a layidu cogo minnu de kɔrɔ, o sabu — minnun bɛ ⟨את⟩ Awraham (Ibrahima), Itshak (Isaki) ani Yaaqub (Yakuba) ye. A ma b'a fɛ ka u bana, ani a ma u blali bɔ a ɲɛda kunbɛn fo bi ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e9a87030a9be6d5ccf0cda2979c7c06e7ef38f642330273f189687176f262f59",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/13\/21-24.1791932896278.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe y'u dimiya di, a y'u dimokɔrɔ, a ɲɛda jira u ma, a layidu kama min kɛra ni ⟨את⟩ Awraham (Ibrahima), Yitsak (Isaka) ni Yaaqob (Yakuba) ye; a ma sago ka u tiɲɛbali, ani a ma b'a fɛ ka u wuli bilasu a ɲɛda la fo ti nin don.",
   "tokens": [
     {
       "surface": "ויחן",
-      "gloss": "ye ninimaya di"
+      "gloss": "dimiya di"
     },
     {
       "surface": "יהוה",
@@ -38,23 +17,24 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩"
+      "gloss": "⟨את⟩",
+      "marks": "u (Israɛl jamanaw)"
     },
     {
       "surface": "וירחמם",
-      "gloss": "a ye u hunyɔrɔya"
+      "gloss": "dimokɔrɔ"
     },
     {
       "surface": "ויפן",
-      "gloss": "a y'o ɲɛ fɛ"
+      "gloss": "ɲɛda jira"
     },
     {
       "surface": "אליהם",
-      "gloss": "a bɛɛ la"
+      "gloss": "u ma"
     },
     {
       "surface": "למען",
-      "gloss": "sabu"
+      "gloss": "kama"
     },
     {
       "surface": "בריתו",
@@ -63,7 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Awraham, Itshak ani Yaaqub"
+      "marks": "Awraham"
     },
     {
       "surface": "אברהם",
@@ -71,35 +51,35 @@
     },
     {
       "surface": "יצחק",
-      "gloss": "Itshak (Isaki)"
+      "gloss": "Yitsak (Isaka)"
     },
     {
       "surface": "ויעקב",
-      "gloss": "ani Yaaqub (Yakuba)"
+      "gloss": "Yaaqob (Yakuba)"
     },
     {
       "surface": "ולא",
-      "gloss": "a ma b'a fɛ ka"
+      "gloss": "a ma"
     },
     {
       "surface": "אבה",
-      "gloss": ""
+      "gloss": "sago"
     },
     {
       "surface": "השחיתם",
-      "gloss": "u bana"
+      "gloss": "tiɲɛbali"
     },
     {
       "surface": "ולא",
-      "gloss": "ani a ma"
+      "gloss": "a ma"
     },
     {
       "surface": "השליכם",
-      "gloss": "u blali bɔ"
+      "gloss": "wuli bilasu"
     },
     {
       "surface": "מעל",
-      "gloss": "kunbɛn"
+      "gloss": "la bɔ"
     },
     {
       "surface": "פניו",
@@ -111,9 +91,9 @@
     },
     {
       "surface": "עתה",
-      "gloss": "bi ma"
+      "gloss": "ti nin don"
     }
   ],
-  "timestamp": "2026-10-13T23:08:16.283962770Z",
+  "timestamp": "2026-10-20T13:18:06.708451299Z",
   "model": "glm-5.3"
 }

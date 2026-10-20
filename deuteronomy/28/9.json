@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "noni",
-      "rationale": "נשבע lit. 'to seven oneself' = to swear; 'noni' (to swear) keeps the speech-act"
-    },
-    {
-      "kind": "elision",
-      "subject": "לו",
-      "rationale": "reflexive preposition folded into 'a yɛrɛ' (himself)"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "second-person singular address throughout the blessing"
-    }
-  ],
-  "translation": "Yawe bɛ i bilasiri a yɛrɛ ye ka kɛ jama senuma ye, i n’a fɔ a y'i noni i n'a fɔ a ye i la layidu: ni i bɛ Yawe i Ala Ala ka ⟨את⟩ sariya mara, ka taa a siraw la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "83072a6556856f2537f196013010f5976a07257fa270e47aa1d5312436835098",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/28\/9-12.1791928247982.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe bɛ i sigi ka kɛ a yɛrɛ maa senuma ye, i n'a fɔ a y'i la laidu kɛ cogo min na, sabu i bɛ mara ⟨את⟩ Yawe i Elohim sariyaw, wa i bɛ tugu a siraw la.",
   "tokens": [
     {
       "surface": "יקימך",
-      "gloss": "bɛ i bilasiri"
+      "gloss": "bɛ i sigi"
     },
     {
       "surface": "יהוה",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "a yɛrɛ"
+      "gloss": "a yɛrɛ ye"
     },
     {
       "surface": "לעם",
-      "gloss": "ka kɛ jama ye"
+      "gloss": "maa"
     },
     {
       "surface": "קדוש",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "y'i noni"
+      "gloss": "a y'i la laidu kɛ"
     },
     {
       "surface": "לך",
-      "gloss": "i"
+      "gloss": ""
     },
     {
       "surface": "כי",
-      "gloss": "ni"
+      "gloss": "sabu"
     },
     {
       "surface": "תשמר",
@@ -76,11 +50,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sariya"
+      "marks": "sariyaw"
     },
     {
       "surface": "מצות",
-      "gloss": "sariya"
+      "gloss": "sariyaw"
     },
     {
       "surface": "יהוה",
@@ -88,17 +62,17 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i Ala Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "והלכת",
-      "gloss": "ka taa"
+      "gloss": "i bɛ tugu"
     },
     {
       "surface": "בדרכיו",
       "gloss": "a siraw la"
     }
   ],
-  "timestamp": "2026-10-13T21:50:47.984756113Z",
+  "timestamp": "2026-10-20T13:43:43.743475256Z",
   "model": "glm-5.3"
 }

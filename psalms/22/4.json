@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨i ye … ye⟩",
-      "rationale": "Bambara copula supplied; Hebrew has no verb 'to be' — 'but you [are] holy'"
-    },
-    {
-      "kind": "crux",
-      "subject": "יושב תהלות",
-      "rationale": "'sitting\/inhabiting the praises' — 'enthroned on the praises' (JPS) vs 'inhabitest' (KJV); literal sitting kept"
-    },
-    {
-      "kind": "you",
-      "subject": "i",
-      "rationale": "direct address to Elohim: 'but you are holy'"
-    }
-  ],
-  "translation": "Nka i, ⟨i ye⟩ senuma ⟨ye⟩, min bɛ sigin Isirayɛl (Isirayɛl) ka sanyali kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/22\/1-4.1791939818627.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nina i ye senuma ye, min bɛ sigi Isirayɛl ka dubaw kɔnɔ.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "nka i"
+      "gloss": "nina i"
     },
     {
       "surface": "קדוש",
@@ -43,17 +17,17 @@
     },
     {
       "surface": "יושב",
-      "gloss": "min bɛ sigin"
+      "gloss": "min bɛ sigi"
     },
     {
       "surface": "תהלות",
-      "gloss": "sanyali"
+      "gloss": "dubaw"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayɛl ka"
+      "gloss": "Isirayɛl"
     }
   ],
-  "timestamp": "2026-10-14T01:03:38.628392336Z",
+  "timestamp": "2026-10-20T15:35:07.104695736Z",
   "model": "glm-5.3"
 }

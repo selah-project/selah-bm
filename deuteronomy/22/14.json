@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עלילות דברים",
-      "rationale": "lit. 'walew ni kumaw' — bayɛlɛmabaga bɛcɛɛ bɛ o fɔ 'jalakili' (accusations) walima 'ɲɛfɔli juguw' (shameful things)"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בתולים",
-      "rationale": "ne y'a bayɛlɛmali kɛ 'ɲɛnamaw' (tokens) ye — a kɔrɔ ye denmuso-kele-ɲɛnamaw ye, kuma kelen dɔrɔn tɛ a da"
-    },
-    {
-      "kind": "addition",
-      "subject": "a",
-      "rationale": "nɔnabila 'a' farala לה kan kokura kumasen in kɔnɔ"
-    }
-  ],
-  "translation": "ka bila jalakili kumaw a kan, ka bɔ a kan tɔgɔ jugu, ka ko: “Muso in, ne y'a ta, ne y'a ɲɛ ta, nka ne ma a ɲɛnamaw ye.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0ebf874e02f770a54ec02abe03b2b8af099a467e4496750736318a7a2465d181",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/22\/13-16.1791928159795.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "a bɛ kuma juguw bila a kan, ka tɔgɔ jugu bɔ a kan, k'a fɔ ko: ⟨את⟩ muso in ne ye ta, ani ne y'a surun a la, ani ne ma ye a kɔnɔ sabuya taamasiyɛnw.",
   "tokens": [
     {
       "surface": "ושם",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "לה",
-      "gloss": "a"
+      "gloss": "a kan"
     },
     {
-      "surface": "עלילות",
-      "gloss": "jalakili"
+      "surface": "עלילת",
+      "gloss": "kuma"
     },
     {
       "surface": "דברים",
-      "gloss": "kumaw"
+      "gloss": "kumajuguw"
     },
     {
       "surface": "והוציא",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "ka ko"
+      "gloss": "k'a fɔ ko"
     },
     {
       "surface": "את",
@@ -84,33 +58,33 @@
     },
     {
       "surface": "לקחתי",
-      "gloss": "ne y'a ta"
+      "gloss": "ne ye ta"
     },
     {
       "surface": "ואקרב",
-      "gloss": "ne y'a ɲɛ ta"
+      "gloss": "ne y'a surun"
     },
     {
       "surface": "אליה",
-      "gloss": "a ɲɛ"
+      "gloss": "a la"
     },
     {
       "surface": "ולא",
-      "gloss": "nka … tɛ"
+      "gloss": "ani ne ma"
     },
     {
       "surface": "מצאתי",
-      "gloss": "ne ma … ye"
+      "gloss": "ye"
     },
     {
       "surface": "לה",
-      "gloss": "a"
+      "gloss": "a kɔnɔ"
     },
     {
       "surface": "בתולים",
-      "gloss": "ɲɛnamaw"
+      "gloss": "sabuya taamasiyɛnw"
     }
   ],
-  "timestamp": "2026-10-13T21:49:19.797135732Z",
+  "timestamp": "2026-10-20T13:42:41.661254294Z",
   "model": "glm-5.3"
 }

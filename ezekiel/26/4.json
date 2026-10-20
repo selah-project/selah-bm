@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "jɛlen",
-      "rationale": "צחיח literally 'sun-scorched, bare-exposed' — rendered 'jɛlen' (bright\/bare); 'top of a rock' in KJV adds 'top'"
-    },
-    {
-      "kind": "elision",
-      "subject": "pronoun object of העליתי-verbs",
-      "rationale": "Hebrew suffixes on אותה carried by Bambara 'a' — the aleph-tav אותה kept as ⟨את⟩ marker"
-    }
-  ],
-  "translation": "U bɛ Tsor ka boliw gilin, u bɛ a ka kunnasow sa a jukɔrɔ; m'bɛ a buguri sanbi a la, k'a bila ka kɛ kabakurun jɛlen ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2ed03c3d1372b6b90791a95442a7e5b1a28d06af44da40ab788f32ec74b84394",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/26\/1-4.1791937406390.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U bɛna Tsor (Tiro) boliw jɛgɛn, u bɛ a torow bɔ a nɔ na, ani ne bɛ a buguri lasagi a la bɔ a la, ne bɛ a di ⟨את⟩ a ka kɛ kabakurun yeelenyen ye.",
   "tokens": [
     {
       "surface": "ושחתו",
-      "gloss": "gilin"
+      "gloss": "u bɛna … jɛgɛn"
     },
     {
       "surface": "חמות",
@@ -42,42 +21,42 @@
     },
     {
       "surface": "והרסו",
-      "gloss": "sa ... jukɔrɔ"
+      "gloss": "u bɛ … bɔ"
     },
     {
       "surface": "מגדליה",
-      "gloss": "kunnasow"
+      "gloss": "a torow"
     },
     {
       "surface": "וסחיתי",
-      "gloss": "sanbi"
+      "gloss": "ani ne bɛ … lasagi"
     },
     {
       "surface": "עפרה",
-      "gloss": "buguri"
+      "gloss": "a buguri"
     },
     {
       "surface": "ממנה",
-      "gloss": "a la"
+      "gloss": "a la bɔ a la"
     },
     {
       "surface": "ונתתי",
-      "gloss": "bila"
+      "gloss": "ne bɛ … di"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "Tsor"
+      "marks": "a (Tsor)"
     },
     {
       "surface": "לצחיח",
-      "gloss": "jɛlen"
+      "gloss": "yeelenyen"
     },
     {
       "surface": "סלע",
       "gloss": "kabakurun"
     }
   ],
-  "timestamp": "2026-10-14T00:23:26.392068168Z",
+  "timestamp": "2026-10-20T14:03:14.901380087Z",
   "model": "glm-5.3"
 }

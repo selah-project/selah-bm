@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שמטו",
-      "rationale": "oxen 'stumbled' (KJV\/JPS) vs 'were released\/shook it' (YLT): Bambara keeps 'sen tigɛ' (stumbled)."
-    },
-    {
-      "kind": "substitution",
-      "subject": "sandili",
-      "rationale": "הארון is literally 'box\/chest'; sandili keeps the container picture."
-    }
-  ],
-  "translation": "U ye na fo Kidɔn ka forobolo, Uza ye ⟨את⟩ a bolo sunnya ka minɛ ⟨את⟩ sandili, sabu misiw ye sen tigɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "14b22c7c42cfc2a5004ffc6d3ee75c2614bf2936d3091435aea09f3c76ed2833",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/13\/9-10.1791951571829.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U nana fo Kidon (Kidon) ka dɔgɔkɛyɔrɔ ma, Uza (Uza) y'a bolo ci ⟨את⟩ a bolo walasa ka minɛ ⟨את⟩ sandigi, sabu misiw tigera.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "u ye na"
+      "gloss": "nana"
     },
     {
       "surface": "עד",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "גרן",
-      "gloss": "forobolo"
+      "gloss": "dɔgɔkɛyɔrɔ"
     },
     {
       "surface": "כידן",
-      "gloss": "Kidɔn"
+      "gloss": "Kidon (Kidon)"
     },
     {
       "surface": "וישלח",
-      "gloss": "ye … sunnya"
+      "gloss": "y'a ... ci"
     },
     {
       "surface": "עזא",
-      "gloss": "Uza"
+      "gloss": "Uza (Uza)"
     },
     {
       "surface": "את",
@@ -68,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sandili"
+      "marks": "sandigi"
     },
     {
       "surface": "הארון",
-      "gloss": "sandili"
+      "gloss": "sandigi"
     },
     {
       "surface": "כי",
@@ -80,13 +59,13 @@
     },
     {
       "surface": "שמטו",
-      "gloss": "ye sen tigɛ"
+      "gloss": "tigera"
     },
     {
       "surface": "הבקר",
       "gloss": "misiw"
     }
   ],
-  "timestamp": "2026-10-14T04:19:31.830091161Z",
+  "timestamp": "2026-10-20T12:46:52.356087637Z",
   "model": "glm-5.3"
 }

@@ -5,46 +5,19 @@
   "book": "esther",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ɲɛmaya",
-      "rationale": "חן is grace\/favor in the eyes of a beholder, rendered 'ɲɛmaya' (that-which-pleases-the-eye)."
-    },
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "gloss note": "",
-      "rationale": "כי אם is a single limiting idiom 'except'; the second particle carries no separate word."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "Estɛr\/ɲɛmaya",
-      "rationale": "The narrative links Esther's name with finding חן before every beholder; the Hebrew sound-link is faint even in Hebrew."
-    }
-  ],
-  "translation": "Ni Estɛr (Estɛr) ka waati tun sondɔn — Abihayil (Abihayil) denmuso, Mordekay (Mordekay) balimakɛ, min y'a ta ka kɛ a denmuso ye — ka na masakɛ fɛ, a ma ɲini fɛn si yɛrɛ, fo ⟨את⟩ fɛn min tun bɛ Hegay (Hegay) fɔ, masakɛ ka sarisa, musow marabaga. Estɛr tun ye ɲɛmaya sɔrɔ minnu y'a ye, olu bɛɛ ɲɛfɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "774462fe2ef7f86b405ecd797bc666c11cf6e6ff14eb85e8b8e88f98c1f844a6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/2\/13-16.1791945512605.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni Esther ka sira — Abihayil denmuso, Mordekay ka balimakɛba, min y'a ta a ye denmuso ye — seera ka don masakɛ fɛ, fɔli si ma ɲini, fo ⟨את⟩ fɛn min Hegay, masakɛ ka sarakalasebaga ani musow marabaga, bɛ fɔ. Esther ye kanuya sɔrɔ minnu y'a ye, olu bɛɛ ɲɛfɛ.",
   "tokens": [
     {
       "surface": "ובהגיע",
-      "gloss": "ni waati tun sondɔn"
+      "gloss": "ni … seera"
     },
     {
       "surface": "תר",
-      "gloss": "ka waati"
+      "gloss": "sira"
     },
     {
       "surface": "אסתר",
-      "gloss": "Estɛr"
+      "gloss": "Esther"
     },
     {
       "surface": "בת",
@@ -56,7 +29,7 @@
     },
     {
       "surface": "דד",
-      "gloss": "balimakɛ"
+      "gloss": "balimakɛba"
     },
     {
       "surface": "מרדכי",
@@ -68,19 +41,19 @@
     },
     {
       "surface": "לקח",
-      "gloss": "y'a ta"
+      "gloss": "ta"
     },
     {
       "surface": "לו",
-      "gloss": "a"
+      "gloss": "a ye"
     },
     {
       "surface": "לבת",
-      "gloss": "ka kɛ denmuso ye"
+      "gloss": "denmuso ye"
     },
     {
       "surface": "לבוא",
-      "gloss": "ka na"
+      "gloss": "ka don"
     },
     {
       "surface": "אל",
@@ -100,7 +73,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "fɛn si"
+      "gloss": "fɔli"
     },
     {
       "surface": "כי",
@@ -113,7 +86,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fɛn min"
+      "marks": "fɛn min Hegay bɛ fɔ"
     },
     {
       "surface": "אשר",
@@ -121,7 +94,7 @@
     },
     {
       "surface": "יאמר",
-      "gloss": "tun bɛ fɔ"
+      "gloss": "fɔ"
     },
     {
       "surface": "הגי",
@@ -129,7 +102,7 @@
     },
     {
       "surface": "סריס",
-      "gloss": "sarisa"
+      "gloss": "sarakalasebaga"
     },
     {
       "surface": "המלך",
@@ -145,11 +118,11 @@
     },
     {
       "surface": "ותהי",
-      "gloss": "tun ye"
+      "gloss": "kɛra"
     },
     {
       "surface": "אסתר",
-      "gloss": "Estɛr"
+      "gloss": "Esther"
     },
     {
       "surface": "נשאת",
@@ -157,7 +130,7 @@
     },
     {
       "surface": "חן",
-      "gloss": "ɲɛmaya"
+      "gloss": "kanuya"
     },
     {
       "surface": "בעיני",
@@ -172,6 +145,6 @@
       "gloss": "minnu y'a ye"
     }
   ],
-  "timestamp": "2026-10-14T02:38:32.607089865Z",
+  "timestamp": "2026-10-20T13:49:46.707802575Z",
   "model": "glm-5.3"
 }

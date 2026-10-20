@@ -5,37 +5,16 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "relative particle absorbed into 'walasa aw kana' construction"
-    },
-    {
-      "kind": "idiom",
-      "subject": "reproach of famine",
-      "rationale": "Hebrew construct 'disgrace-of-hunger' = the shame of going hungry; rendered as one phrase"
-    }
-  ],
-  "translation": "N bɛ jiri ⟨את⟩ jiriden ni foro ka denw ka boniya, walasa aw kana ka kayɔrɔ kɔngɔ masɔɔ siyaw la fan fɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "7d443dea66ff362a7f0113d9958efa72b7800bef0acad00c50eafbb20099103b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/36\/29-32.1791937677782.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N bɛna ⟨את⟩ jiriw ka jiriden ni foro ka jiridenw ka caya, walasa aw kana kɔngɔ ka danbe minɛ kokura siyaw la.",
   "tokens": [
     {
       "surface": "והרביתי",
-      "gloss": "N bɛ … ka boniya"
+      "gloss": "N bɛna … caya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jiri jiriden"
+      "marks": "jiriw ka jiriden"
     },
     {
       "surface": "פרי",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "ותנובת",
-      "gloss": "denw"
+      "gloss": "jiridenw"
     },
     {
       "surface": "השדה",
@@ -67,15 +46,15 @@
     },
     {
       "surface": "תקחו",
-      "gloss": "ka kayɔrɔ"
+      "gloss": "minɛ"
     },
     {
       "surface": "עוד",
-      "gloss": "kana … dɔ"
+      "gloss": "kokura"
     },
     {
       "surface": "חרפת",
-      "gloss": "masɔɔ"
+      "gloss": "danbe"
     },
     {
       "surface": "רעב",
@@ -83,9 +62,9 @@
     },
     {
       "surface": "בגוים",
-      "gloss": "siyaw la fan fɛ"
+      "gloss": "siyaw la"
     }
   ],
-  "timestamp": "2026-10-14T00:27:57.783035413Z",
+  "timestamp": "2026-10-20T14:05:33.317490700Z",
   "model": "glm-5.3"
 }

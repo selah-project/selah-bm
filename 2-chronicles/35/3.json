@@ -5,50 +5,19 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "המבונים",
-      "rationale": "'who taught all Israel' (from בין, to discern\/instruct) vs 'who were appointed over all Israel' — versions split"
-    },
-    {
-      "kind": "you",
-      "subject": "Lewidenw",
-      "rationale": "direct imperative address of Josiah to the Levites"
-    },
-    {
-      "kind": "invitation",
-      "subject": "sisan aw ka dinɛ kɛ",
-      "rationale": "summons to present service, now that the ark rests"
-    },
-    {
-      "kind": "addition",
-      "subject": "(Solomɔn), (Dawuda)",
-      "rationale": "first-mention brackets with familiar Bambara name forms"
-    }
-  ],
-  "translation": "A ko Lewidenw minnu bɛ Isirayeli bɛɛ kalanni, minnu ye Yawe ye senumaw ye: “Aw ye ⟨את⟩ sanduki-senema bila so kɔnɔ min na Shelomo (Solomɔn), Dawuda (Dawuda) denkɛ, Isirayeli masakɛ, da; kanin si tɛ aw la aw kɛlɛ la; sisan aw ka Yawe, aw ka Elohim, dinɛ kɛ, ani ⟨את⟩ a ka jama Isirayeli.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "bb25ef954e2b96d6be747077baa295ff35ec49aeaeb0a2315717e1aafca376a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/35\/1-4.1791949837824.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y'a ko Lewiw ma, minnu bɛ Isirayɛl bɛɛ kalanni (ɲɛfɔ), minnu ye Yawe ye senuma ye: \"Aw b'⟨את⟩ sankabila senuma in bila so min na Selomo (Selomo), Dawid (Dawuda) denkɛ, Isirayɛl masakɛ, dalen; waliju tɛ aw ka kɔlɔkolo kan ye; sisan aw b'⟨את⟩ Yawe, aw Elohim, baara kɛ, ani ⟨את⟩ a mɔgɔw Isirayɛl.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a ko"
+      "gloss": "a y'a ko"
     },
     {
       "surface": "ללוים",
-      "gloss": "Lewidenw ma"
+      "gloss": "Lewiw ma"
     },
     {
       "surface": "המבונים",
-      "gloss": "minnu bɛ kalanni"
+      "gloss": "kalannibagaw (ɲɛfɔbagaw)"
     },
     {
       "surface": "לכל",
@@ -56,7 +25,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayeli"
+      "gloss": "Isirayɛl"
     },
     {
       "surface": "הקדושים",
@@ -68,36 +37,36 @@
     },
     {
       "surface": "תנו",
-      "gloss": "aw ye … bila"
+      "gloss": "aw bɛ bila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sanduki-senema"
+      "marks": "sankabila senuma"
     },
     {
       "surface": "ארון",
-      "gloss": "sanduki"
+      "gloss": "sankabila"
     },
     {
       "surface": "הקדש",
-      "gloss": "senema"
+      "gloss": "senuma"
     },
     {
       "surface": "בבית",
-      "gloss": "so kɔnɔ"
+      "gloss": "so … na"
     },
     {
       "surface": "אשר",
-      "gloss": "min na"
+      "gloss": "min"
     },
     {
       "surface": "בנה",
-      "gloss": "da"
+      "gloss": "dalen"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Shelomo (Selomo)"
     },
     {
       "surface": "בן",
@@ -105,7 +74,7 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Dawuda"
+      "gloss": "Dawid (Dawuda)"
     },
     {
       "surface": "מלך",
@@ -113,23 +82,23 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayeli"
+      "gloss": "Isirayɛl"
     },
     {
       "surface": "אין",
-      "gloss": "si tɛ"
+      "gloss": "tɛ yen"
     },
     {
       "surface": "לכם",
-      "gloss": "aw la"
+      "gloss": "aw (ka)"
     },
     {
       "surface": "משא",
-      "gloss": "kanin"
+      "gloss": "waliju"
     },
     {
       "surface": "בכתף",
-      "gloss": "kɛlɛ la"
+      "gloss": "kɔlɔkolo kan"
     },
     {
       "surface": "עתה",
@@ -137,12 +106,12 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "aw ka dinɛ kɛ"
+      "gloss": "aw bɛ baara kɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe aw ka Elohim"
+      "marks": "Yawe, aw Elohim"
     },
     {
       "surface": "יהוה",
@@ -150,22 +119,22 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "aw ka Elohim"
+      "gloss": "aw Elohim (aw Ala)"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "a ka jama Isirayeli"
+      "marks": "a mɔgɔw Isirayɛl"
     },
     {
       "surface": "עמו",
-      "gloss": "a ka jama"
+      "gloss": "a mɔgɔw"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayeli"
+      "gloss": "Isirayɛl"
     }
   ],
-  "timestamp": "2026-10-14T03:50:37.825558862Z",
+  "timestamp": "2026-10-20T13:14:55.006888649Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתך",
-      "rationale": "אִתְּךָ here is preposition 'with thee' (H854), not the direct-object marker (H853); rendered 'ni i'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "minnunu na",
-      "rationale": "משלח ידך 'sending of your hand' rendered as 'that which you set your hand to'"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "second-person singular covenant blessing"
-    }
-  ],
-  "translation": "Yawe bɛna ⟨את⟩ duba da ⟨ni⟩ i ye, i sɔrɔbɔyɔrɔw la, ani fɛn bɛɛ min bɛ i bolo minnunu na; Yawe bɛna i duba dugukolo min na, Yawe i Elohim b'o di i ye min.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "7ba576684ab76643af980a6ddeaeadd1e8f5e6e4078ac7f2ca712657c8f30fac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/28\/5-8.1791928264117.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe bɛna laseli ka ⟨את⟩ duba kɛ i ye, i toko caman kɔnɔ, ani fɛn bɛɛ min bɛ boli i bolo fɛ; a bɛna i duba dugukolo min kɔnɔ Yawe i Elohim bɛ o di i ye.",
   "tokens": [
     {
       "surface": "יצו",
-      "gloss": "bɛna … da"
+      "gloss": "bɛna laseli"
     },
     {
       "surface": "יהוה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ni i"
+      "gloss": "⟨את⟩ i n'a fɔ"
     },
     {
       "surface": "את",
@@ -56,27 +30,27 @@
     },
     {
       "surface": "באסמיך",
-      "gloss": "i sɔrɔbɔyɔrɔw la"
+      "gloss": "i toko caman kɔnɔ"
     },
     {
       "surface": "ובכל",
-      "gloss": "ani fɛn bɛɛ"
+      "gloss": "ani fɛn bɛɛ min"
     },
     {
       "surface": "משלח",
-      "gloss": "min bɛ i bolo minnunu na"
+      "gloss": "boli"
     },
     {
       "surface": "ידך",
-      "gloss": "i bolo"
+      "gloss": "i bolo fɛ"
     },
     {
       "surface": "וברכך",
-      "gloss": "Yawe bɛna i duba"
+      "gloss": "a bɛna i duba"
     },
     {
       "surface": "בארץ",
-      "gloss": "dugukolo min na"
+      "gloss": "dugukolo min kɔnɔ"
     },
     {
       "surface": "אשר",
@@ -92,13 +66,13 @@
     },
     {
       "surface": "נתן",
-      "gloss": "di"
+      "gloss": "bɛ di"
     },
     {
       "surface": "לך",
       "gloss": "i ye"
     }
   ],
-  "timestamp": "2026-10-13T21:51:04.240724295Z",
+  "timestamp": "2026-10-20T13:43:25.919867434Z",
   "model": "glm-5.3"
 }

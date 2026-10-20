@@ -5,40 +5,19 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sila",
-      "rationale": "שבט literally 'staff\/tribe-branch'; rendered as lineage-group 'sila'"
-    },
-    {
-      "kind": "addition",
-      "subject": "sisan fɛ",
-      "rationale": "'this day' explicit 'now' supplied for Bambara clarity"
-    }
-  ],
-  "translation": "O waati la, Yawe ye ⟨את⟩ Lewi jamana-sshewatigiden-sila in kɛ ayrinen ye, walasa ka Yawe ka layidu sanu-kɛsisɛn in wuli, ka ɲɛda Yawe ye, ka a baara kɛ, ka duba di a tɔgɔ la — fo don in bɛɛ, sisan fɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cd6f3422dfe18aa0169a6b7592ae2c3b82f03f978a642382451ecff2d54abfb4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/10\/5-8.1791927699958.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O waati min na, Yawe ye Lewi (Lewi) ka ⟨את⟩ sigi-yɔrɔ jɛsi, walasa ka Yawe ka layidu ⟨את⟩ sandugu so, walasa ka Yawe ɲɛda la jɛ, walasa ka a baara kɛ, ani walasa ka a tɔgɔ la duba, ka se don in na.",
   "tokens": [
     {
       "surface": "בעת",
-      "gloss": "o waati la"
+      "gloss": "o waati min na"
     },
     {
       "surface": "ההוא",
-      "gloss": "in"
+      "gloss": "o"
     },
     {
       "surface": "הבדיל",
-      "gloss": "kɛ ayrinen ye"
+      "gloss": "jɛsi"
     },
     {
       "surface": "יהוה",
@@ -47,28 +26,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Lewi sila in"
+      "marks": "Lewi ka sigi-yɔrɔ"
     },
     {
       "surface": "שבט",
-      "gloss": "sila"
+      "gloss": "sigi-yɔrɔ"
     },
     {
       "surface": "הלוי",
-      "gloss": "Lewi"
+      "gloss": "Lewi (Lewi)"
     },
     {
       "surface": "לשאת",
-      "gloss": "walasa ka ... wuli"
+      "gloss": "walasa ka so"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sanu-kɛsisɛn in"
+      "marks": "layidu sandugu"
     },
     {
       "surface": "ארון",
-      "gloss": "sanu-kɛsisɛn in"
+      "gloss": "sandugu"
     },
     {
       "surface": "ברית",
@@ -80,11 +59,11 @@
     },
     {
       "surface": "לעמד",
-      "gloss": "ka ... ɲɛda ye"
+      "gloss": "walasa ka jɛ"
     },
     {
       "surface": "לפני",
-      "gloss": "ɲɛda ... ye"
+      "gloss": "ɲɛda la"
     },
     {
       "surface": "יהוה",
@@ -92,11 +71,11 @@
     },
     {
       "surface": "לשרתו",
-      "gloss": "a baara kɛ"
+      "gloss": "walasa ka a baara kɛ"
     },
     {
       "surface": "ולברך",
-      "gloss": "duba di"
+      "gloss": "ani walasa ka duba"
     },
     {
       "surface": "בשמו",
@@ -104,17 +83,17 @@
     },
     {
       "surface": "עד",
-      "gloss": "fo ... bɛɛ"
+      "gloss": "ka se"
     },
     {
       "surface": "היום",
-      "gloss": "don in bɛɛ, sisan fɛ"
+      "gloss": "don in"
     },
     {
       "surface": "הזה",
-      "gloss": "in"
+      "gloss": "na"
     }
   ],
-  "timestamp": "2026-10-13T21:41:39.973147996Z",
+  "timestamp": "2026-10-20T13:38:38.878709784Z",
   "model": "glm-5.3"
 }

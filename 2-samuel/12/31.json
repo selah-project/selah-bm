@@ -5,38 +5,12 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "במלכן",
-      "rationale": "tilebi-furno (brickkiln) walima 'u masakɛ fɛ' (b-malkam, i n'a fɔ LXX walima 'Malakɔm ka furakɛyɔrɔ'); 1 Chroniques 20:3 ye kɔrɔw filanan jira — ka mɔgɔw bila baara la, kɛrɛnkɛrɛnnenya la tilebiw dabɔyɔrɔ la"
-    },
-    {
-      "kind": "crux",
-      "subject": "ka u bilala",
-      "rationale": "וישם: 'a ye u bilala [yɔrɔ minnu la] minnu bɛ fɛn domi — ka mɔgɔw bila nɛgɛ-baara minɛnw bolo ka' (walew; BSB, LXX) walima 'a ye u dimi kɛ u ye ni nɛgɛ minnu ye' (baliya; KJV\/Geneva waati jaabiw)"
-    },
-    {
-      "kind": "hapax",
-      "subject": "מגרה",
-      "rationale": "siginin-kɛminɛ (nogɔsɔrɔ) — o daɲɛ de dɔrɔn de bɛ Tanaki kɔnɔ nin yɔrɔ in na"
-    }
-  ],
-  "translation": "Ani ⟨את⟩ mɔgɔw minnu tun ye dugu in kɔnɔ, a ye u bɔ yen, ka u bila nɛgɛ-nogɔsɔrɔw la, ani nɛgɛ-misɛnw la, ani nɛgɛ-tigidinaw la, ka u cogoya bila tilebi-furno kɔnɔ; o cogo kelen na, a ye Amɔndenw (Amɔn denw) duguw bɛɛ kɛ; Dawuda ni mɔgɔw bɛɛ ye Yerushalayim (Jerusalɛmu) segin.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "936d153ee2b2f78b34c4651dd78800f3303730400f4a93745dea4a8f2079fe3f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/12\/29-31.1791931158039.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ye ⟨את⟩ mɔgɔw minnu tun ye a kɔnɔ bɔ, k'a to u la dulokibaga la, ani nɛgɛ ka forobolobagaw la, ani nɛgɛ ka atɛnɛw la, k'a tɛmɛ ⟨את⟩ u bici-kɛso kɔnɔ; a kɛra cogo kelen na Amon denw ka duguw bɛɛ la. Anisan, Dawid (Dawuda) ni mɔgɔw bɛɛ y'a segin Yerushalayim (Jerusalɛmu).",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "mɔgɔw minnu ye dugu in kɔnɔ"
+      "marks": "mɔgɔw"
     },
     {
       "surface": "העם",
@@ -52,51 +26,52 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "ye … bɔ"
+      "gloss": "bɔ"
     },
     {
       "surface": "וישם",
-      "gloss": "ka u bila"
+      "gloss": "k'a to"
     },
     {
       "surface": "במגרה",
-      "gloss": "nɛgɛ-nogɔsɔrɔ la"
+      "gloss": "dulokibaga la"
     },
     {
       "surface": "ובחרצי",
-      "gloss": "ani nɛgɛ-misɛnw la"
+      "gloss": "forobolobagaw la"
     },
     {
       "surface": "הברזל",
-      "gloss": "nɛgɛ"
+      "gloss": "nɛgɛ ka"
     },
     {
       "surface": "ובמגזרת",
-      "gloss": "ani nɛgɛ-tigidinaw la"
+      "gloss": "atɛnɛw la"
     },
     {
       "surface": "הברזל",
-      "gloss": "nɛgɛ"
+      "gloss": "nɛgɛ ka"
     },
     {
       "surface": "והעביר",
-      "gloss": "ka u cogoya bila"
+      "gloss": "tɛmɛ"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ u"
+      "gloss": "⟨את⟩",
+      "marks": "u"
     },
     {
       "surface": "במלכן",
-      "gloss": "tilebi-furno kɔnɔ"
+      "gloss": "bici-kɛso kɔnɔ"
     },
     {
       "surface": "וכן",
-      "gloss": "o cogo kelen na"
+      "gloss": "cogo kelen na"
     },
     {
       "surface": "יעשה",
-      "gloss": "ye … kɛ"
+      "gloss": "kɛra"
     },
     {
       "surface": "לכל",
@@ -112,15 +87,15 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Amɔn"
+      "gloss": "Amon"
     },
     {
       "surface": "וישב",
-      "gloss": "ye … segin"
+      "gloss": "segin"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawuda"
+      "gloss": "Dawid"
     },
     {
       "surface": "וכל",
@@ -135,6 +110,6 @@
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-10-13T22:39:18.041133903Z",
+  "timestamp": "2026-10-20T13:24:16.014612587Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "du ni wɔrɔ kelen san-kɛmɛ wɔrɔ",
-      "rationale": "Jateden min bɛ kuma kɔnɔ: mɔgɔ 30,000"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מס",
-      "rationale": "Kɔrɔ ye mɔgɔ minnu bɛ masabaara kɛ soba ye (forced labor) — 'masabaara-kɛli'"
-    },
-    {
-      "kind": "addition",
-      "subject": "tun",
-      "rationale": "ויהי ma bayɛlɛma dɔrɔn de ye; Bamanankan ka past marker farala a kan"
-    }
-  ],
-  "translation": "Masa Shelomo ye masabaara-kɛli (masa-tigɛ) bɔ Israyɛl bɛɛ la; masabaara-kɛtɔw tun ye mɔgɔ du ni wɔrɔ kelen (30,000) ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ad4fd45a398b6192d6c91442b4c4fa0118587af53b34c965d925354acecf093b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/5\/26-27.1791950431698.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masa Shelomo (Sulemani) ye wale-wajibi ta Israyɛl (Israyɛlidenw) bɛɛ la; wale-wajibi in ye mɔgɔ wolonwula kɛmɛ ye.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "ye … bɔ"
+      "gloss": "ye … ta (n'a ɲɛbila)"
     },
     {
       "surface": "המלך",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "מס",
-      "gloss": "masabaara-kɛli"
+      "gloss": "wale-wajibi"
     },
     {
       "surface": "מכל",
-      "gloss": "bɛɛ la"
+      "gloss": "bɛɛ"
     },
     {
       "surface": "ישראל",
@@ -59,25 +33,25 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "tun ye"
+      "gloss": "ye … ye"
     },
     {
       "surface": "המס",
-      "gloss": "masabaara-kɛtɔw"
+      "gloss": "wale-wajibi in"
     },
     {
       "surface": "שלשים",
-      "gloss": "du ni wɔrɔ kelen"
+      "gloss": "wolonwula"
     },
     {
       "surface": "אלף",
-      "gloss": "〈san-kɛmɛ wɔrɔ〉"
+      "gloss": "kɛmɛ"
     },
     {
       "surface": "איש",
       "gloss": "mɔgɔ"
     }
   ],
-  "timestamp": "2026-10-14T04:00:31.699500374Z",
+  "timestamp": "2026-10-20T12:55:58.334943599Z",
   "model": "glm-5.3"
 }

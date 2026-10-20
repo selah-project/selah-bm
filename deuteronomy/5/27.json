@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Moshe",
-      "rationale": "The people address Moshe directly with singular imperatives — the mediator is appointed here."
-    },
-    {
-      "kind": "addition",
-      "subject": "o",
-      "rationale": "Bambara needs the object pronoun 'o' in 'we will hear it'; Hebrew encodes it in the verb suffix."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "parallel clauses",
-      "rationale": "The verse mirrors 'hear\/speak' in two balanced halves around the Name; structure kept in Bambara."
-    }
-  ],
-  "translation": "I, i kɔrɔsili, i na Yawe an ka Elohim ka fɔ bɛɛ mɛn; i y'an fɔ Yawe an ka Elohim ka fɔlen bɛɛ, min bɛna kuma i ye; an bɛ o mɛn, an bɛ o kɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d762a56b61737f74e76d63905a84f0ecd1638d7fe2bead7c661b50d10b77b28c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/5\/25-28.1791927616558.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I yɛ surun, k'an mɛn Yawe Elohim an ka Matigi bɛna a fɔ bɛɛ; i yɛ min bɛ Yawe Elohim an ka Matigi bɛna a fɔ i ma, o bɛɛ k'i fɔ an ye, ani an bɛna mɛn, an bɛna o kɛ.",
   "tokens": [
     {
       "surface": "קרב",
-      "gloss": "i kɔrɔsili"
+      "gloss": "yɛ surun"
     },
     {
       "surface": "אתה",
@@ -43,12 +17,12 @@
     },
     {
       "surface": "ושמע",
-      "gloss": "i na mɛn"
+      "gloss": "k'an mɛn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bɛɛ"
+      "marks": "bɛɛ (kalannen min bɛ na)"
     },
     {
       "surface": "כל",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "יאמר",
-      "gloss": "ka fɔ"
+      "gloss": "bɛna a fɔ"
     },
     {
       "surface": "יהוה",
@@ -68,24 +42,24 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "an ka Elohim"
+      "gloss": "Elohim an ka Matigi"
     },
     {
       "surface": "ואת",
-      "gloss": "i"
+      "gloss": "i fɛ"
     },
     {
       "surface": "תדבר",
-      "gloss": "y'an fɔ"
+      "gloss": "k'i fɔ an ye"
     },
     {
       "surface": "אלינו",
-      "gloss": "an"
+      "gloss": "an ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bɛɛ"
+      "marks": "bɛɛ (kalannen min bɛna fɔ)"
     },
     {
       "surface": "כל",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "ka fɔlen"
+      "gloss": "bɛna a fɔ"
     },
     {
       "surface": "יהוה",
@@ -105,21 +79,21 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "an ka Elohim"
+      "gloss": "Elohim an ka Matigi"
     },
     {
       "surface": "אליך",
-      "gloss": "i ye"
+      "gloss": "i ma"
     },
     {
       "surface": "ושמענו",
-      "gloss": "an bɛ o mɛn"
+      "gloss": "an bɛna mɛn"
     },
     {
       "surface": "ועשינו",
-      "gloss": "an bɛ o kɛ"
+      "gloss": "an bɛna o kɛ"
     }
   ],
-  "timestamp": "2026-10-13T21:40:16.560114368Z",
+  "timestamp": "2026-10-20T13:46:34.365943461Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "min bɛ",
-      "rationale": "Bambara needs a relative marker\/participle support where Hebrew uses the bare participle מדבר"
-    }
-  ],
-  "translation": "Sarakalasebagaw ni nabiw ni mɔgɔw bɛɛ ye ⟨את⟩ Yirmeya (Yeremiya) mɛn min bɛ kuma kuma ninnu fɔ Yawe ka so kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "1899e3346f2fce31185c979409cb4b8bc58539c792b5b1db7ba2294f4a950124",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/26\/5-8.1791935582561.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sarakalasebagaw ani nabiw ani jama bɛɛ y'u mɛn ⟨את⟩ Yirmeyahu kuma ⟨את⟩ kuma ninnu bɛɛ Yawe so kɔnɔ.",
   "tokens": [
     {
       "surface": "וישמעו",
-      "gloss": "ye … mɛn"
+      "gloss": "y'u mɛn"
     },
     {
       "surface": "הכהנים",
@@ -33,28 +17,28 @@
     },
     {
       "surface": "והנבאים",
-      "gloss": "nabiw"
+      "gloss": "ani nabiw"
     },
     {
       "surface": "וכל",
-      "gloss": "bɛɛ"
+      "gloss": "ani bɛɛ"
     },
     {
       "surface": "העם",
-      "gloss": "mɔgɔw"
+      "gloss": "jama"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yirmeya"
+      "marks": "Yirmeyahu"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmeya (Yeremiya)"
+      "gloss": "Yirmeyahu"
     },
     {
       "surface": "מדבר",
-      "gloss": "min bɛ kuma"
+      "gloss": "kuma"
     },
     {
       "surface": "את",
@@ -63,7 +47,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "kuma"
+      "gloss": "kuma ninnu"
     },
     {
       "surface": "האלה",
@@ -78,6 +62,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-13T23:53:02.562815403Z",
+  "timestamp": "2026-10-20T14:39:17.624634281Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Dawudi",
-      "rationale": "Joab's imperatives addressed directly to David"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לכד\/לכדה",
-      "rationale": "Root לכד repeated three times across vv.26-28 (capture…capture…capture), binding the report together"
-    }
-  ],
-  "translation": "Sisan, i kɛ mɔgɔ labanw lajɛ, k'u sigi dugu kan, ka minɛ a; sin ne bɛna minɛ ⟨את⟩ dugu in, ka ne tɔgɔ wele a kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e4df2acf68517df4f446a3fd0efaafab4d58812b1106f94969726030bcae43c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/12\/25-28.1791931172518.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sisan, lajɛ ⟨את⟩ mɔgɔ tɔw, k'i sigi dugu kan, k'a minɛ, ni ne ye ⟨את⟩ dugu minɛ, ne tɔgɔ bɛna wele a kan.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mɔgɔ labanw"
+      "marks": "mɔgɔ tɔw"
     },
     {
       "surface": "יתר",
-      "gloss": "laban"
+      "gloss": "tɔ"
     },
     {
       "surface": "העם",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "וחנה",
-      "gloss": "k'u sigi"
+      "gloss": "sigi"
     },
     {
       "surface": "על",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "ולכדה",
-      "gloss": "ka minɛ a"
+      "gloss": "minɛ"
     },
     {
       "surface": "פן",
-      "gloss": "sin"
+      "gloss": "ni"
     },
     {
       "surface": "אלכד",
-      "gloss": "bɛna minɛ"
+      "gloss": "minɛ"
     },
     {
       "surface": "אני",
@@ -80,15 +59,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dugu in"
+      "marks": "dugu"
     },
     {
       "surface": "העיר",
-      "gloss": "dugu in"
+      "gloss": "dugu"
     },
     {
       "surface": "ונקרא",
-      "gloss": "ka wele"
+      "gloss": "wele"
     },
     {
       "surface": "שמי",
@@ -99,6 +78,6 @@
       "gloss": "a kan"
     }
   ],
-  "timestamp": "2026-10-13T22:39:32.521575810Z",
+  "timestamp": "2026-10-20T13:24:01.887330787Z",
   "model": "glm-5.3"
 }

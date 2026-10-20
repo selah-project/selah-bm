@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "lise sɛgɛsɛgɛli",
-      "rationale": "The verse closes the census roll of Yehoshafat's army, with the garrison troops held apart from the count."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨⟨ minnu tun bɛ ⟩⟩",
-      "rationale": "Hebrew participle המשרתים carries 'these were the ones serving'; Bambara needs the relative 'who were' made explicit."
-    }
-  ],
-  "translation": "Ninuw ye ⟨⟨ minnu tun bɛ ⟩⟩ ⟨את⟩ masakɛ laso kɛ, fɛn min bɔra o la: masakɛ y'i bila dugu jɔbagaw kɔnɔ, Yuda bɛɛ la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "76d826484116622dbb00ad9c26b8d70c7f9ea3731f22c47cfecd0c944c703f8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/17\/17-19.1791949019019.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olu de ye minnu to ka baara kɛ ⟨את⟩ masakɛ ye, ni o tɛmɛ ni u minnu masakɛ y'u sigi dugu danngenw la, Yehuda bɛɛ kɔnɔ.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "ninuw"
+      "gloss": "olu"
     },
     {
       "surface": "המשרתים",
-      "gloss": "lasebagaw"
+      "gloss": "minnu to ka baara kɛ"
     },
     {
       "surface": "את",
@@ -47,15 +26,15 @@
     },
     {
       "surface": "מלבד",
-      "gloss": "fɛn min bɔra o la"
+      "gloss": "ni o tɛmɛ ni"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "minnu"
     },
     {
       "surface": "נתן",
-      "gloss": "y'i bila"
+      "gloss": "y'u sigi"
     },
     {
       "surface": "המלך",
@@ -63,21 +42,21 @@
     },
     {
       "surface": "בערי",
-      "gloss": "dugu … kɔnɔ"
+      "gloss": "dugu"
     },
     {
       "surface": "המבצר",
-      "gloss": "jɔbagaw"
+      "gloss": "danngenw"
     },
     {
       "surface": "בכל",
-      "gloss": "bɛɛ la"
+      "gloss": "bɛɛ kɔnɔ"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yuda"
+      "gloss": "Yehuda"
     }
   ],
-  "timestamp": "2026-10-14T03:36:59.020407072Z",
+  "timestamp": "2026-10-20T15:53:02.160719553Z",
   "model": "glm-5.3"
 }

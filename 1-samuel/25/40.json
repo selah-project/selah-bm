@@ -5,36 +5,15 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "Karmel-muso",
-      "rationale": "הכרמלית is the gentilic 'the Carmelite' — hyphenated to keep Abigail's epithet bound"
-    },
-    {
-      "kind": "you",
-      "subject": "direct address",
-      "rationale": "the messengers speak to Abigail in second person: 'David sent us to you'"
-    }
-  ],
-  "translation": "Dawid ka sankanbagaw na Avigayil, Karmel-muso, fɛ, u ye kuma a fɛ ko: “Dawid ye an silame i fɛ, ka ta i ka kɛ a muso ye.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a6fea93560bc84aa5a3671cff17ac336f52fcbc290904f6648846503a75f2b7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/25\/37-40.1791930773162.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawid (Dawuda) ka surukunw nana Abigayil (Abigail) ma Karmel, u ye kuma fɔ a lagɔ ko: Dawid ye an ci i la walasa k'i ta a yɛrɛ ye a ka muso (ɲɔgɔden-muso) ye.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "u na"
+      "gloss": "nana"
     },
     {
       "surface": "עבדי",
-      "gloss": "sankanbagaw"
+      "gloss": "surukunw"
     },
     {
       "surface": "דוד",
@@ -42,23 +21,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "… fɛ"
+      "gloss": "ma"
     },
     {
       "surface": "אביגיל",
-      "gloss": "Avigayil"
+      "gloss": "Abigayil"
     },
     {
       "surface": "הכרמלה",
-      "gloss": "Karmel-muso"
+      "gloss": "Karmel"
     },
     {
       "surface": "וידברו",
-      "gloss": "u ye kuma"
+      "gloss": "u ye kuma fɔ"
     },
     {
       "surface": "אליה",
-      "gloss": "a fɛ"
+      "gloss": "a lagɔ"
     },
     {
       "surface": "לאמר",
@@ -70,25 +49,25 @@
     },
     {
       "surface": "שלחנו",
-      "gloss": "ye an silame"
+      "gloss": "ye an ci"
     },
     {
       "surface": "אליך",
-      "gloss": "i fɛ"
+      "gloss": "i la"
     },
     {
       "surface": "לקחתך",
-      "gloss": "ka ta i"
+      "gloss": "k'i ta"
     },
     {
       "surface": "לו",
-      "gloss": "a"
+      "gloss": "a yɛrɛ ye"
     },
     {
       "surface": "לאשה",
-      "gloss": "ka kɛ a muso ye"
+      "gloss": "muso"
     }
   ],
-  "timestamp": "2026-10-13T22:32:53.164545853Z",
+  "timestamp": "2026-10-20T13:03:14.206320638Z",
   "model": "glm-5.3"
 }

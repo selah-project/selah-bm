@@ -5,45 +5,20 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתכם (וילחמו אתכם)",
-      "rationale": "nin את ye tɛmɛsira-daɲɛ ye ('ni aw ye'), aleph-tav taamasiyɛn tɛ; n'ye ⟨את⟩ mara a nɔ na"
-    },
-    {
-      "kind": "idiom",
-      "subject": "aw bolo ma",
-      "rationale": "ביד 'bolo' = fanga; 'ka di bolo ma' kɔrɔ ye 'ka di a fanga la \/ a bolo ye' ye"
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "Yawe ka kumasen bɛ tugu Isirayili ɲɛda da, a ka baaraw jira aw ye"
-    }
-  ],
-  "translation": "An n'aw na Emoriw ka dugukolo la, minnu sigilen bɛ Yardɛn (Jaden) sisan; u ye ⟨את⟩ aw ɲɛ da; an n'⟨את⟩ u di aw bolo ma, aw y'⟨את⟩ u ka dugukolo minɛ; an n'u tiɲɛ bɔ aw ɲɛnw ɲɛfɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cffd34a95ac2e4f8908f22c7ec63b5b4240f72d2697b5198d9be01b35a11d94e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/24\/5-8.1791929153304.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "An n'i mɛn ⟨את⟩ na Emori (Amoritew) ka dugukolo la, minnu bɛ ɲɛfɛ Yarden (Zizibugu) fan fɛ, u tuguni ni aw ye. N't'u di aw bolo la, aw ye ⟨את⟩ u dugukolo minɛ, ani n'ye u faaw bɔ aw ɲɛw la.",
   "tokens": [
     {
       "surface": "ואבאה",
-      "gloss": "an n'… na"
+      "gloss": "n'i mɛn na"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw"
+      "gloss": "⟨את⟩",
+      "marks": "aw (aw bolo)"
     },
     {
       "surface": "אל",
-      "gloss": "… la"
+      "gloss": "la"
     },
     {
       "surface": "ארץ",
@@ -51,63 +26,63 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "Emoriw"
+      "gloss": "Emori"
     },
     {
       "surface": "היושב",
-      "gloss": "min sigilen bɛ"
+      "gloss": "minnu bɛ"
     },
     {
       "surface": "בעבר",
-      "gloss": "sisan"
+      "gloss": "ɲɛfɛ fan fɛ"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yardɛn"
+      "gloss": "Yarden"
     },
     {
       "surface": "וילחמו",
-      "gloss": "u ye … ɲɛ da"
+      "gloss": "u tuguni"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw"
+      "gloss": "⟨את⟩ ni aw ye"
     },
     {
       "surface": "ואתן",
-      "gloss": "an n'… di"
+      "gloss": "n't'u di"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ u",
-      "marks": "aw bolo ma"
+      "gloss": "⟨את⟩",
+      "marks": "u (u dugukolo)"
     },
     {
       "surface": "בידכם",
-      "gloss": "aw bolo ma"
+      "gloss": "aw bolo la"
     },
     {
-      "surface": "ויתירשו",
-      "gloss": "aw y'a minɛ"
+      "surface": "ותירשו",
+      "gloss": "aw ye … minɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u ka dugukolo"
+      "marks": "u dugukolo"
     },
     {
       "surface": "ארצם",
-      "gloss": "u ka dugukolo"
+      "gloss": "u dugukolo"
     },
     {
       "surface": "ואשמידם",
-      "gloss": "an n'u tiɲɛ bɔ"
+      "gloss": "n'ye u faaw bɔ"
     },
     {
       "surface": "מפניכם",
-      "gloss": "aw ɲɛnw ɲɛfɛ"
+      "gloss": "aw ɲɛw la"
     }
   ],
-  "timestamp": "2026-10-13T22:05:53.308374721Z",
+  "timestamp": "2026-10-20T14:56:44.227387549Z",
   "model": "glm-5.3"
 }

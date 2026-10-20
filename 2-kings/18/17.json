@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "תרתן \/ רב סריס \/ רב שקה",
-      "rationale": "Assyrian official titles kept as proper names (Tartan, Rav-Saris, Rav-Shake), not translated as 'chief cupbearer' etc."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויעלו ויבאו … ויעלו ויבאו",
-      "rationale": "Verbs of going-up-and-coming repeated twice for slow ceremonial approach; repetition kept in Bambara"
-    }
-  ],
-  "translation": "Ashur (Asiri) masakɛ ye ⟨את⟩ Tartan ni ⟨את⟩ Rav-Saris ni ⟨את⟩ Rav-Shake ci Lakish (Lakisi) bɔ ka taa Hizikiyahu masakɛ fɛ, ni jɛ giriman ye, Yerushalayim (Jerusalɛmu) ma. U ye taa ka na Yerushalayim; u ye taa ka na, ka jɔ ji-datugubolo la, ji-lajɛyɔrɔ sanfɛlen la, min bɛ lafasirala foro sira la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a317e603b7ceff9ebd3061d44c57cd0e19830940002e27803e38e1c9d12c1a74",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/18\/17-20.1791933142402.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Asshur masakɛ ye ⟨את⟩ Tartan ni ⟨את⟩ Rab-Saris ni ⟨את⟩ Rabshakeh ci Lakish (Lakis) la, ka na Hizikiya masakɛ fɛ Yerushalayim (Jeruzalɛmu), ni lasibaw ka bon kosɛbɛ. U ye yaala, u ye na Yerushalayim; u ye yaala ka na, u ye jɔ ji bwangan kan min bɛ sanfɛ, min bɛ fin sɛgɛnnibagaw ka foro sira la.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ci"
+      "gloss": "ye … ci"
     },
     {
       "surface": "מלך",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashur (Asiri)"
+      "gloss": "Asshur"
     },
     {
       "surface": "את",
@@ -52,11 +31,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Rav-Saris"
+      "marks": "Rab-Saris"
     },
     {
       "surface": "רב",
-      "gloss": "Rav-"
+      "gloss": "Rab-"
     },
     {
       "surface": "סריס",
@@ -65,27 +44,27 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Rav-Shake"
+      "marks": "Rabshakeh"
     },
     {
       "surface": "רב",
-      "gloss": "Rav-"
+      "gloss": "Rab-"
     },
     {
       "surface": "שקה",
-      "gloss": "Shake"
+      "gloss": "shakeh"
     },
     {
       "surface": "מן",
-      "gloss": "bɔ"
+      "gloss": "la"
     },
     {
       "surface": "לכיש",
-      "gloss": "Lakish (Lakisi)"
+      "gloss": "Lakish"
     },
     {
       "surface": "אל",
-      "gloss": "ka taa … fɛ"
+      "gloss": "ka na … fɛ"
     },
     {
       "surface": "המלך",
@@ -93,55 +72,55 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hizikiyahu"
+      "gloss": "Hizikiya"
     },
     {
       "surface": "בחיל",
-      "gloss": "jɛ"
+      "gloss": "ni lasibaw ye"
     },
     {
       "surface": "כבד",
-      "gloss": "giriman"
+      "gloss": "ka bon kosɛbɛ"
     },
     {
-      "surface": "יירושלם",
-      "gloss": "Yerushalayim (Jerusalɛmu)"
-    },
-    {
-      "surface": "ויעלו",
-      "gloss": "u ye taa"
-    },
-    {
-      "surface": "ויבאו",
-      "gloss": "ka na"
-    },
-    {
-      "surface": "יירושלם",
+      "surface": "ירושלם",
       "gloss": "Yerushalayim"
     },
     {
       "surface": "ויעלו",
-      "gloss": "u ye taa"
+      "gloss": "u ye yaala"
     },
     {
       "surface": "ויבאו",
-      "gloss": "ka na"
+      "gloss": "u ye na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "u ye yaala"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "u ye na"
     },
     {
       "surface": "ויעמדו",
-      "gloss": "ka jɔ"
+      "gloss": "u ye jɔ"
     },
     {
       "surface": "בתעלת",
-      "gloss": "ji-datugubolo la"
+      "gloss": "ji bwangan kan"
     },
     {
       "surface": "הברכה",
-      "gloss": "ji-lajɛyɔrɔ"
+      "gloss": "ji blon"
     },
     {
       "surface": "העליונה",
-      "gloss": "sanfɛlen"
+      "gloss": "min bɛ sanfɛ"
     },
     {
       "surface": "אשר",
@@ -157,9 +136,9 @@
     },
     {
       "surface": "כובס",
-      "gloss": "lafasirala"
+      "gloss": "fin sɛgɛnnibaga"
     }
   ],
-  "timestamp": "2026-10-13T23:12:22.404015808Z",
+  "timestamp": "2026-10-20T13:19:18.525477104Z",
   "model": "glm-5.3"
 }

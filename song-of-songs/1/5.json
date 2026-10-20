@@ -5,37 +5,11 @@
   "book": "song-of-songs",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "nka",
-      "rationale": "ו here read as 'but' (KJV, JPS) vs 'and\/yes' (yonah 'dark AND comely'); Bambara nka follows the majority reading."
-    },
-    {
-      "kind": "you",
-      "subject": "Yerushalayim denmusow",
-      "rationale": "direct address to the daughters of Jerusalem."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שחורה\/שלמה",
-      "rationale": "shorah (dark) against Shelomo — dark tents vs splendid curtains, contrast lost in Bambara."
-    }
-  ],
-  "translation": "Ne ye fin don, nka ne ka nyɛ, Yerushalayim (Jerusalɛmu) denmusow: i n'a fɔ Kedar (Kɛdar) ka ɲɔgɔnw, i n'a fɔ Shelomo (Solomani) ka danwɛlɛw.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ff01a4dd9d7ec2d7f1048913ac57122e870c2f44c8a5605eb99689e6cac96806",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/1\/5-8.1791944571756.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ne ye bibi ye, nka n ka ɲi, Yerushalayim (Jerusalɛmu) denmusow, i n'a fɔ Kedar ɲɛsiraw ye, i n'a fɔ Shelomo (Solomani) tɛlmɛgɔw ye.",
   "tokens": [
     {
       "surface": "שחורה",
-      "gloss": "fin"
+      "gloss": "bibi"
     },
     {
       "surface": "אני",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ונאוה",
-      "gloss": "nka ne ka nyɛ"
+      "gloss": "nka n ka ɲi"
     },
     {
       "surface": "בנות",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "כאהלי",
-      "gloss": "i n'a fɔ … ɲɔgɔnw"
+      "gloss": "i n'a fɔ ... ɲɛsiraw"
     },
     {
       "surface": "קדר",
@@ -63,13 +37,13 @@
     },
     {
       "surface": "כיריעות",
-      "gloss": "i n'a fɔ … danwɛlɛw"
+      "gloss": "i n'a fɔ ... tɛlmɛgɔw"
     },
     {
       "surface": "שלמה",
       "gloss": "Shelomo"
     }
   ],
-  "timestamp": "2026-10-14T02:22:51.757992295Z",
+  "timestamp": "2026-10-20T15:41:00.375332651Z",
   "model": "glm-5.3"
 }

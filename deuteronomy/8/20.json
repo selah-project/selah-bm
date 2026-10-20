@@ -5,46 +5,15 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "עקב",
-      "rationale": "'heeli' daɲɛ in kɔrɔ ye 'kunbila' ye; n'an bɛ a fɔ 'sabu' ye, a bɛ kɔrɔ caya ka kɛ 'min kɛra o ye' ye."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מאביד\/תאבדון",
-      "rationale": "Daɲɛ kelen-kelen bɛɛ bɛ tuguDaɲɛw la: Yawe ka kɛ a ye, aw fana bɛna kɛ o ye — Bamanankan b'a mara dɔɔni."
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Moses ka kuma Israel ka jama la, ni 'aw' nɔnabila."
-    },
-    {
-      "kind": "addition",
-      "subject": "kan",
-      "rationale": "בקול ye 'kan' kɔrɔ ye; Hebrew daɲɛ jɔlen don min ma soyali Bamanankan na."
-    }
-  ],
-  "translation": "Ni siyaw minnu ye, Yawe b'u bɔrɔbɔ i n'a fɔ o ye, aw bɛna bɔrɔ sabu aw ma Yawe aw Ala Yawe kan mɛn.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "76f5f1c3a5f050da5beea4de4cae1de6d5046f35bb1870a26a2f59a1bf773e7f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/8\/20-20.1791949988768.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I n'a fɔ siyaw ye cogo min na Yawe bɛ jɔya aw ɲɛda kɔrɔ, o cogo na aw nana jɔya, sabu aw tun mɛnna Yawe aw Elohim ka kan mɛn.",
   "tokens": [
     {
       "surface": "כגוים",
-      "gloss": "ni siyaw minnu ye"
+      "gloss": "i n'a fɔ siyaw"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "יהוה",
@@ -52,19 +21,19 @@
     },
     {
       "surface": "מאביד",
-      "gloss": "bɛ ... bɔrɔbɔ"
+      "gloss": "bɛ jɔya"
     },
     {
       "surface": "מפניכם",
-      "gloss": "aw ɲɛw la"
+      "gloss": "aw ɲɛda kɔrɔ"
     },
     {
       "surface": "כן",
-      "gloss": "i n'a fɔ o ye"
+      "gloss": "o cogo na"
     },
     {
       "surface": "תאבדון",
-      "gloss": "aw bɛna bɔrɔ"
+      "gloss": "aw nana jɔya"
     },
     {
       "surface": "עקב",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "ma ... si"
+      "gloss": "tun mɛnna"
     },
     {
       "surface": "תשמעון",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "בקול",
-      "gloss": "kan"
+      "gloss": "ka kan"
     },
     {
       "surface": "יהוה",
@@ -88,9 +57,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "aw Ala Yawe"
+      "gloss": "aw Elohim"
     }
   ],
-  "timestamp": "2026-10-14T03:53:08.769244987Z",
+  "timestamp": "2026-10-20T13:47:23.665180171Z",
   "model": "glm-5.3"
 }

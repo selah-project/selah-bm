@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הישר",
-      "rationale": "Hebrew 'the straight\/upright'; rendered haɲɛ ('rightness\/what is correct')."
-    },
-    {
-      "kind": "addition",
-      "subject": "ye",
-      "rationale": "Bamanankan copula\/predication particle needed for 'is right in the eyes'."
-    }
-  ],
-  "translation": "Ni i bɛ Yawe i ka Ala ka kan mɛn, ka ⟨את⟩ a ka wasonw bɛɛ mara, minnu ne b'i fɔ bi, ka kɛ haɲɛ ye Yawe i ka Ala ɲɛw ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "dbb9544cf4b6928334cb06570bcf9f5c1bcf5f981d76d38ad9b2a10ee9fd68f6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/13\/18-19.1791950130937.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni i bɛ Yawe i Elohim ka kan mɛn, walasa k⟨את⟩ a ka sariyaw bɛɛ mara, minnu na ne bɛ i la Sariya fɔ don don kɔnɔ, walasa kɛ fɛn min ka ɲɛ Yawe i Elohim ka ɲɛ na.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "תשמע",
-      "gloss": "i bɛ … mɛn"
+      "gloss": "i bɛ ... mɛn"
     },
     {
       "surface": "בקול",
@@ -46,16 +25,16 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i ka Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "לשמר",
-      "gloss": "ka … mara"
+      "gloss": "walasa ... mara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a ka wasonw bɛɛ"
+      "marks": "sariyaw bɛɛ"
     },
     {
       "surface": "כל",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "מצותיו",
-      "gloss": "a ka wasonw"
+      "gloss": "a ka sariyaw"
     },
     {
       "surface": "אשר",
@@ -75,23 +54,23 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "b'i fɔ"
+      "gloss": "bɛ i la Sariya fɔ"
     },
     {
       "surface": "היום",
-      "gloss": "bi"
+      "gloss": "don don kɔnɔ"
     },
     {
       "surface": "לעשות",
-      "gloss": "ka kɛ"
+      "gloss": "walasa kɛ"
     },
     {
       "surface": "הישר",
-      "gloss": "haɲɛ"
+      "gloss": "fɛn min ka ɲɛ"
     },
     {
       "surface": "בעיני",
-      "gloss": "ɲɛw ye"
+      "gloss": "... ka ɲɛ na"
     },
     {
       "surface": "יהוה",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i ka Ala"
+      "gloss": "i Elohim"
     }
   ],
-  "timestamp": "2026-10-14T03:55:30.938520006Z",
+  "timestamp": "2026-10-20T13:40:16.272752452Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 65,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "kabakurunw",
-      "rationale": "הלבנים literally 'the bricks'; KJV adds 'altars of brick' — plain 'bricks' kept"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tulu parɛ",
-      "rationale": "מקטרים 'make smoke (incense)' rendered 'burn oil'; Hebrew has no separate word for incense here"
-    }
-  ],
-  "translation": "Jama minnu bɛ n habali n'ɲɛda kan don bɛɛ; u bɛ saraka kɛ nakɔw la, ka tulu parɛ kabakurunw kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ec6d24d98bc3c49334ea8e65009354aa4de03dae426c5af008d8061d1a71489a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/65\/1-4.1791934924249.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jama minnu bɛ ⟨את⟩ n ju wuli n ka ɲɛda kan walɔrɔla, u bɛ saraka kɛ nakɔdaw kɔnɔ, ka tulu tugu kabakurunw kan.",
   "tokens": [
     {
       "surface": "העם",
@@ -34,12 +13,12 @@
     },
     {
       "surface": "המכעיסים",
-      "gloss": "minnu bɛ n habali"
+      "gloss": "juwulila"
     },
     {
       "surface": "אותי",
       "gloss": "⟨את⟩",
-      "marks": "ne"
+      "marks": "n"
     },
     {
       "surface": "על",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "פני",
-      "gloss": "n'ɲɛda"
+      "gloss": "ɲɛda"
     },
     {
       "surface": "תמיד",
-      "gloss": "don bɛɛ"
+      "gloss": "walɔrɔla"
     },
     {
       "surface": "זבחים",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "בגנות",
-      "gloss": "nakɔw la"
+      "gloss": "nakɔdaw kɔnɔ"
     },
     {
       "surface": "ומקטרים",
-      "gloss": "tulu parɛ"
+      "gloss": "ka tulu tugu"
     },
     {
       "surface": "על",
@@ -74,6 +53,6 @@
       "gloss": "kabakurunw"
     }
   ],
-  "timestamp": "2026-10-13T23:42:04.251619137Z",
+  "timestamp": "2026-10-20T14:33:59.308833545Z",
   "model": "glm-5.3"
 }

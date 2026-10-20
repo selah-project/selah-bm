@@ -5,41 +5,20 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "המוקעים",
-      "rationale": "root yɛrɛ sɔrɔ yan fo sisan: laso-kɔrɔ; Septuagint kɔrɔ fɔra ko 'Jesuyɛl kolow' — krɛn krɛn dɔw farala a kan."
-    },
-    {
-      "kind": "addition",
-      "subject": "laso-tɔgɔ",
-      "rationale": "laso kɔgɔjida bɛɛ tɔgɔ bɛ Heburukan na; Bamankan sɔrɔ-yan walasa ka laso-seko-seko dɔn."
-    }
-  ],
-  "translation": "Dawid (Dawuda) ye kolow sɔrɔ yan: Sawulu (Sha'ul) kolow ni a denkɛ Yonatan (Yehonatan) kolow; u ye laso min sigida",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "aab3924c7b965dca57193e03caceac34ebf2949af9c938c5a67ff357e836da6c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/21\/13-16.1791931461717.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ye ⟨את⟩ Shaul kolow ni ⟨את⟩ a denkɛ Yehonatan kolow ta yen na, ka ⟨את⟩ minnu bɛ furatɔw (minnu furenen) kolow lamini.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "sɔrɔ-yan"
+      "gloss": "ta … na"
     },
     {
       "surface": "משם",
-      "gloss": "yan"
+      "gloss": "yen"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sawulu kolow"
+      "marks": "Shaul kolow"
     },
     {
       "surface": "עצמות",
@@ -47,12 +26,12 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Sawulu"
+      "gloss": "Shaul"
     },
     {
       "surface": "ואת",
-      "gloss": "ni ⟨את⟩",
-      "marks": "Yonatan kolow"
+      "gloss": "⟨את⟩",
+      "marks": "a denkɛ Yehonatan kolow"
     },
     {
       "surface": "עצמות",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "יהונתן",
-      "gloss": "Yonatan"
+      "gloss": "Yehonatan"
     },
     {
       "surface": "בנו",
@@ -68,12 +47,12 @@
     },
     {
       "surface": "ויאספו",
-      "gloss": "u ye laso"
+      "gloss": "lamini"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kolow laso-minnu"
+      "marks": "furatɔw kolow"
     },
     {
       "surface": "עצמות",
@@ -81,9 +60,9 @@
     },
     {
       "surface": "המוקעים",
-      "gloss": "minnu sigida"
+      "gloss": "minnu bɛ furatɔw"
     }
   ],
-  "timestamp": "2026-10-13T22:44:21.718401406Z",
+  "timestamp": "2026-10-20T13:27:55.033288109Z",
   "model": "glm-5.3"
 }

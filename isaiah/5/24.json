@@ -5,45 +5,19 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את \/ ואת",
-      "rationale": "Iberu kan taamasiyɛn min bɛ daɲɛ min lamɛnna a fɛ, o ma bayɛlɛma; ⟨את⟩ taamasiyɛn dɔrɔn de digilen don"
-    },
-    {
-      "kind": "addition",
-      "subject": "a",
-      "rationale": "Nɔnabila min bɛ a wele, Bamanankan maga o (u y'a bali, u y'a nyagami)"
-    },
-    {
-      "kind": "hapax",
-      "subject": "חשש",
-      "rationale": "Daɲɛ min bɛ Tanaki kɔnɔ o daɲɛ dɔrɔn de bɛ yen, a maana ye 'bin kɛlɛn' ye"
-    }
-  ],
-  "translation": "Sabiya o la, i n'a fɔ tasuma kan bɛ sankyɛrɛ dun, ani bin kɛlɛnw bɛ sen na tasuma la, u ka kokɔrɔ koŋkɔrɔbaliye bɛna kɛ, ani u ka fɔli bɛna san na i n'a fɔ buguri; sabu u y'a bali: ⟨את⟩ Yawe Tsabaot ka Tora, ani ⟨את⟩ Yisrael ka Senumakɛ ka kuma, u y'a nyagami.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d58ec96a7d2900cba89cb8bf81c6479fafabe8a79bb33a2d3f7b6f053dbbd1e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/5\/21-24.1791933514928.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O la, i n'a fɔ tasuma ka kan bɛ ⟨את⟩ so dun, ani kuraya bin bɛ tasuma-kun la yamaruya, olu kondɔma bɛna kɛ fɔligo ye, ani ⟨את⟩ olu kisɛbɔlenw bɛna tugu i n'a fɔ buguri; sabu u ye ⟨את⟩ Yawe Tsevaot ka Tora kɛ jugu ye, ani ⟨את⟩ Israel ka Senumakɛ kuma, u y'a nɔgɔya.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "sabiya o la"
+      "gloss": "O la"
     },
     {
       "surface": "כאכל",
-      "gloss": "i n'a fɔ ... dun"
+      "gloss": "dun"
     },
     {
       "surface": "קש",
-      "gloss": "sankyɛrɛ"
+      "gloss": "so"
     },
     {
       "surface": "לשון",
@@ -55,31 +29,31 @@
     },
     {
       "surface": "וחשש",
-      "gloss": "ani bin kɛlɛnw"
+      "gloss": "kuraya bin"
     },
     {
       "surface": "להבה",
-      "gloss": "tasuma la"
+      "gloss": "tasuma-kun"
     },
     {
       "surface": "ירפה",
-      "gloss": "bɛ sen na"
+      "gloss": "yamaruya"
     },
     {
       "surface": "שרשם",
-      "gloss": "u ka kokɔrɔ"
+      "gloss": "olu kondɔma"
     },
     {
       "surface": "כמק",
-      "gloss": "koŋkɔrɔbaliye"
+      "gloss": "fɔligo"
     },
     {
       "surface": "יהיה",
-      "gloss": "bɛna kɛ"
+      "gloss": "bɛna kɛ … ye"
     },
     {
       "surface": "ופרחם",
-      "gloss": "ani u ka fɔli"
+      "gloss": "olu kisɛbɔlenw"
     },
     {
       "surface": "כאבק",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "יעלה",
-      "gloss": "bɛna san na"
+      "gloss": "bɛna tugu"
     },
     {
       "surface": "כי",
@@ -95,12 +69,12 @@
     },
     {
       "surface": "מאסו",
-      "gloss": "u y'a bali"
+      "gloss": "kɛ jugu ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe Tsabaot ka Tora"
+      "marks": "Tora"
     },
     {
       "surface": "תורת",
@@ -112,12 +86,12 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsabaot"
+      "gloss": "Tsevaot"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Yisrael ka Senumakɛ ka kuma"
+      "marks": "kuma"
     },
     {
       "surface": "אמרת",
@@ -129,13 +103,13 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israel"
     },
     {
       "surface": "נאצו",
-      "gloss": "u y'a nyagami"
+      "gloss": "nɔgɔya"
     }
   ],
-  "timestamp": "2026-10-13T23:18:34.934953703Z",
+  "timestamp": "2026-10-20T15:48:22.056233528Z",
   "model": "glm-5.3"
 }

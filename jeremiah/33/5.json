@@ -5,83 +5,57 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הסתרתי פני",
-      "rationale": "Hebrew 'hide the face' = withdraw favor; Bambara keeps the picture 'ɲɛda dogɔ'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kuw",
-      "rationale": "פגרי literally 'limp carcass'; Bambara 'kuw' (corpse) loses the limp picture."
-    },
-    {
-      "kind": "crux",
-      "subject": "ולמלאם",
-      "rationale": "'fill them (the houses) with corpses' vs 'fill them (the Chaldeans)'; KJV\/ASV split the object."
-    }
-  ],
-  "translation": "Mɔgɔw bɛ na ka ladamu ⟨את⟩ Kasidew (Babilunjaw) fɛ, ani ka ⟨את⟩ mɔgɔw ka kuw u la — minnu n tigɛ n hawiya la ni n kesu la; ani minnu kama n ye n ɲɛda dogɔ dugu in na, u ka bonya bɛɛ la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cfc6c5101e64203d782e9a583dcd5b50dbb0d23b1374efc330be3c472d0ddf60",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/33\/5-8.1791935857703.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Minnu bɛ na ka to ⟨את⟩ Kashedenw ⟨הכשדים⟩ fɛ, walasa ka hadamadenw ka ⟨את⟩ sɔgɔsɔgɔw lanabu, minnu na n bɔra ne ka dusida la ni ne ka gɛlɛyali la, ani minnu kama n ye ne ka ɲɛ lɔsi dugu in na, u ka ko juguw bɛɛ la kɔrɔ.",
   "tokens": [
     {
       "surface": "באים",
-      "gloss": "bɛ na"
+      "gloss": "minnu bɛ na"
     },
     {
       "surface": "להלחם",
-      "gloss": "ka ladamu"
+      "gloss": "ka to … fɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kasidew"
+      "marks": "Kashedenw"
     },
     {
       "surface": "הכשדים",
-      "gloss": "Kasidew"
+      "gloss": "Kashedenw"
     },
     {
       "surface": "ולמלאם",
-      "gloss": "ani ka u tiɲɛ"
+      "gloss": "walasa ka … lanabu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mɔgɔw ka kuw"
+      "marks": "hadamadenw ka sɔgɔsɔgɔw"
     },
     {
       "surface": "פגרי",
-      "gloss": "kuw"
+      "gloss": "sɔgɔsɔgɔw"
     },
     {
       "surface": "האדם",
-      "gloss": "mɔgɔw"
+      "gloss": "hadamadenw ka"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "minnu na"
     },
     {
       "surface": "הכיתי",
-      "gloss": "n tigɛ"
+      "gloss": "n bɔra"
     },
     {
       "surface": "באפי",
-      "gloss": "n hawiya la"
+      "gloss": "ne ka dusida la"
     },
     {
       "surface": "ובחמתי",
-      "gloss": "ani n kesu la"
+      "gloss": "ni ne ka gɛlɛyali la"
     },
     {
       "surface": "ואשר",
@@ -89,11 +63,11 @@
     },
     {
       "surface": "הסתרתי",
-      "gloss": "n ye … dogɔ"
+      "gloss": "n ye … lɔsi"
     },
     {
       "surface": "פני",
-      "gloss": "n ɲɛda"
+      "gloss": "ne ka ɲɛ"
     },
     {
       "surface": "מהעיר",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "על",
-      "gloss": "… la"
+      "gloss": "kɔrɔ"
     },
     {
       "surface": "כל",
@@ -113,9 +87,9 @@
     },
     {
       "surface": "רעתם",
-      "gloss": "u ka bonya"
+      "gloss": "u ka ko juguw"
     }
   ],
-  "timestamp": "2026-10-13T23:57:37.703801684Z",
+  "timestamp": "2026-10-20T14:42:06.226782863Z",
   "model": "glm-5.3"
 }

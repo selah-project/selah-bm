@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 77,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בקדש",
-      "rationale": "'In holiness' (abstract, JPS) vs 'in the sanctuary' (KJV, place); Bambara follows the abstract reading."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨i ka sira de ye⟩",
-      "rationale": "Bambara needs fronted possessive phrase; Hebrew has only 'in holiness your way'."
-    },
-    {
-      "kind": "you",
-      "subject": "to Elohim",
-      "rationale": "Direct address to God, rhetorical question."
-    }
-  ],
-  "translation": "Elohim, ⟨i ka sira de ye⟩ senumaya ye; Ala jumɛ don ka bon i n'a fɔ Elohim?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "85b0e52c26410761291584f85ef59b1e29d5841b85ff47a6700aa2c60cac724c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/77\/13-16.1791940710550.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Elohim, i ka sira bɛ senumayɔrɔ la; El min don min ka bon ni Elohim ye?",
   "tokens": [
     {
       "surface": "אלהים",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "בקדש",
-      "gloss": "senumaya la"
+      "gloss": "senumayɔrɔ la"
     },
     {
       "surface": "דרכך",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "מי",
-      "gloss": "jumɛ"
+      "gloss": "min don"
     },
     {
       "surface": "אל",
-      "gloss": "Ala"
+      "gloss": "El"
     },
     {
       "surface": "גדול",
@@ -59,9 +33,9 @@
     },
     {
       "surface": "כאלהים",
-      "gloss": "i n'a fɔ Elohim"
+      "gloss": "ni Elohim ye"
     }
   ],
-  "timestamp": "2026-10-14T01:18:30.551009359Z",
+  "timestamp": "2026-10-20T15:39:49.926707181Z",
   "model": "glm-5.3"
 }

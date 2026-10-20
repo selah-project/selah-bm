@@ -5,50 +5,19 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מה לי ולך",
-      "rationale": "Hebrew idiom 'what to me and to you' = 'what do we have in common'; rendered as a question in Bambara"
-    },
-    {
-      "kind": "addition",
-      "subject": "ka t'a fɔ a ye",
-      "rationale": "emphatic dismissal added to render the curt Hebrew imperative לך"
-    },
-    {
-      "kind": "crux",
-      "subject": "אל כי",
-      "rationale": "'No, for' vs 'Do not (say so), for' — the king interrupts Elisha's rebuke"
-    },
-    {
-      "kind": "you",
-      "subject": "to the king of Israel",
-      "rationale": "Elisha addresses the king of Israel directly with the dismissal idiom"
-    }
-  ],
-  "translation": "Elisha (Elisi) ko Yisrayɛlɛ masakɛ ma: Ni nin ye min ye an bɛɛ la? Ka t'a fɔ a ye. Taa i ba nabiw de, taa i ma nabiw de. Yisrayɛlɛ masakɛ ko a ye: Ayi; sabu Yawe ye nin masakɛw saba wele ka u di Moab bolo ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cde270101394d55c4a9549ec2b60f8290ab90d751011f6bb96e64e7a276dcf07",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/3\/13-16.1791932674621.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Elisha ye Yisraɛl masakɛ la kuma kɔnɔ ko: ne ni i ye, mun na? ka taa i fa nabiw nɔ, ani i ba nabiw nɔ. Yisraɛl masakɛ ye a ye ko: ayi, sabu Yawe ye masakɛw ninu saba wele ka di ⟨את⟩ u Moab bolo ma.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "ye … kuma kɔnɔ ko"
     },
     {
       "surface": "אלישע",
-      "gloss": "Elisha (Elisi)"
+      "gloss": "Elisha"
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "la"
     },
     {
       "surface": "מלך",
@@ -56,27 +25,27 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrayɛlɛ"
+      "gloss": "Yisraɛl"
     },
     {
       "surface": "מה",
-      "gloss": "mun"
+      "gloss": "mun na"
     },
     {
       "surface": "לי",
-      "gloss": "ne ma"
+      "gloss": "ne"
     },
     {
       "surface": "ולך",
-      "gloss": "ani i ma"
+      "gloss": "ni i ye"
     },
     {
       "surface": "לך",
-      "gloss": "taa"
+      "gloss": "ka taa"
     },
     {
       "surface": "אל",
-      "gloss": "ka"
+      "gloss": "nɔ"
     },
     {
       "surface": "נביאי",
@@ -84,11 +53,11 @@
     },
     {
       "surface": "אביך",
-      "gloss": "i ba"
+      "gloss": "i fa"
     },
     {
       "surface": "ואל",
-      "gloss": "ani ka"
+      "gloss": "ani … nɔ"
     },
     {
       "surface": "נביאי",
@@ -96,15 +65,15 @@
     },
     {
       "surface": "אמך",
-      "gloss": "i ma"
+      "gloss": "i ba"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "ye … ye ko"
     },
     {
       "surface": "לו",
-      "gloss": "a ye"
+      "gloss": "a"
     },
     {
       "surface": "מלך",
@@ -112,11 +81,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrayɛlɛ"
+      "gloss": "Yisraɛl"
     },
     {
       "surface": "אל",
-      "gloss": "Ayi"
+      "gloss": "ayi"
     },
     {
       "surface": "כי",
@@ -136,30 +105,30 @@
     },
     {
       "surface": "המלכים",
-      "gloss": "masakɛw"
+      "gloss": "masakɛw ninu"
     },
     {
       "surface": "האלה",
-      "gloss": "nin"
+      "gloss": ""
     },
     {
       "surface": "לתת",
-      "gloss": "ka u di"
+      "gloss": "ka di"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "Moab bolo"
+      "marks": "u (masakɛw saba)"
     },
     {
       "surface": "ביד",
-      "gloss": "bolo"
+      "gloss": "bolo ma"
     },
     {
       "surface": "מואב",
       "gloss": "Moab"
     }
   ],
-  "timestamp": "2026-10-13T23:04:34.625592577Z",
+  "timestamp": "2026-10-20T13:21:38.949888955Z",
   "model": "glm-5.3"
 }

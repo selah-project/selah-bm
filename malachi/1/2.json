@@ -5,36 +5,16 @@
   "book": "malachi",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אהבתי\/אהבתנו",
-      "rationale": "kanuya daɲɛ lase tilennen-kelen na — fɔli fila fila in bɛ miiri Bamanankan na dɔrɔn"
-    },
-    {
-      "kind": "you",
-      "subject": "Isirayel",
-      "rationale": "Yawe bɛ Isirayel wele ka kuma a bɛɛ kɔnɔ a fɛn in na"
-    }
-  ],
-  "translation": "N y'aw kanuya, Yawe ko, nka aw y'a ko: i y'an kanuya mun na? Yakyob balimakɛ ye Esav tɛ wa? Yawe ka kuma de, n ye ⟨את⟩ Yakyob kanuya.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "aa8fdf77aec3110d1ef8f5fe827d84ef20afdabbc248b7ad9a52816638d2eeca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/malachi\/1\/1-4.1791939416068.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N y'⟨את⟩ aw kanuya, Yawe ko. Nka aw ye fɔ ko: i y'an kanuya mun na? Esav (Esau) ma ye Yaaqob balimakɛ ti wa, Yawe kuma tiŋɛna? N y'⟨את⟩ Yaaqob kanuya.",
   "tokens": [
     {
       "surface": "אהבתי",
-      "gloss": "n y'aw kanuya"
+      "gloss": "n y'… kanuya"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw"
+      "gloss": "⟨את⟩ aw",
+      "marks": "aw"
     },
     {
       "surface": "אמר",
@@ -46,7 +26,7 @@
     },
     {
       "surface": "ואמרתם",
-      "gloss": "aw y'a ko"
+      "gloss": "aw ye fɔ ko"
     },
     {
       "surface": "במה",
@@ -58,7 +38,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "wa … tɛ"
+      "gloss": "… wa"
     },
     {
       "surface": "אח",
@@ -70,11 +50,11 @@
     },
     {
       "surface": "ליעקב",
-      "gloss": "Yakyob"
+      "gloss": "Yaaqob"
     },
     {
       "surface": "נאם",
-      "gloss": "kuma de"
+      "gloss": "kuma tiŋɛna"
     },
     {
       "surface": "יהוה",
@@ -82,18 +62,18 @@
     },
     {
       "surface": "ואהב",
-      "gloss": "n ye kanuya"
+      "gloss": "n y'… kanuya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yakyob"
+      "marks": "Yaaqob"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yakyob"
+      "gloss": "Yaaqob"
     }
   ],
-  "timestamp": "2026-10-14T00:56:56.068928656Z",
+  "timestamp": "2026-10-20T15:14:36.925803238Z",
   "model": "glm-5.3"
 }

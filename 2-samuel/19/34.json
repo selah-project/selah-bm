@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Barzillai",
-      "rationale": "Masakɛ kuma bɛ tɛmɛ Barzillai ma directement — dakunyalen 'i ye'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתך",
-      "rationale": "aleph-tav taamasiyɛn dɔrɔn de, a bɛ jira ⟨את⟩ ye, a bɛ 'ne fɛ' minɛ"
-    }
-  ],
-  "translation": "Masakɛ ko Barzillai ma: i ye — ka aboroden ni ne ye, ne bɛ i dilan ⟨את⟩ ne fɛ Yerushalayim (Jerusalɛmu).",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "7b925f76e84cde42df805c3a49f65f753c2320b63650704c172507b8db7c5672",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/19\/33-36.1791931422242.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masakɛ ko Barzilay (Barzilay) ma: i yɛrɛ, na ka tɛmɛ ne ⟨את⟩ ni, ani ne bɛna ⟨את⟩ i to ne bɛɛ ye Yerushalayim (Jerusalɛmu) la.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,38 +21,39 @@
     },
     {
       "surface": "ברזלי",
-      "gloss": "Barzillai"
+      "gloss": "Barzilay"
     },
     {
       "surface": "אתה",
-      "gloss": "i"
+      "gloss": "i yɛrɛ"
     },
     {
       "surface": "עבר",
-      "gloss": "ka aboroden"
+      "gloss": "na ka tɛmɛ"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ni ne ye ⟨ne⟩"
+      "gloss": "⟨את⟩ ni",
+      "marks": "ne (ne ni, kelen-kelen)"
     },
     {
       "surface": "וכלכלתי",
-      "gloss": "ne bɛ i dilan"
+      "gloss": "ne bɛna … to"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "ne fɛ"
+      "gloss": "⟨את⟩ i",
+      "marks": "ne bɛɛ ye (עמדי)"
     },
     {
       "surface": "עמדי",
-      "gloss": "ne fɛ"
+      "gloss": "ne bɛɛ ye"
     },
     {
       "surface": "בירושלם",
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-10-13T22:43:42.244577419Z",
+  "timestamp": "2026-10-20T13:26:33.141564243Z",
   "model": "glm-5.3"
 }

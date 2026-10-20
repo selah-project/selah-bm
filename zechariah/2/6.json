@@ -5,33 +5,7 @@
   "book": "zechariah",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "verse",
-      "rationale": "The verse's whole business is measuring Jerusalem's width and length"
-    },
-    {
-      "kind": "addition",
-      "subject": "na",
-      "rationale": "Bambara needs the locative particle after 'min' to ask 'where to'"
-    },
-    {
-      "kind": "elision",
-      "subject": "למד",
-      "rationale": "Hebrew verb 'to stretch\/measure' rendered simply 'dajɛ'; the stretching picture is lost"
-    }
-  ],
-  "translation": "Ne ko: i taa min na? A ko ne ye: ka dajɛ ⟨את⟩ Yerushalayim (Jerusalɛmu), walasa ka dɔn a genhɛ bɛ se tuma joli, ani a janya bɛ se tuma joli.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/2\/5-8.1791939197889.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ne ko: i taa min na? A ko ne ma: ne bɛ ⟨את⟩ Yerushalayim (Jerusalɛmu) fun, walasa k'a ye a ka bon cogo di, ani a ka jan cogo di.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אנה",
-      "gloss": "min"
+      "gloss": "min na"
     },
     {
       "surface": "אתה",
@@ -55,42 +29,42 @@
     },
     {
       "surface": "אלי",
-      "gloss": "ne ye"
+      "gloss": "ne ma"
     },
     {
       "surface": "למד",
-      "gloss": "ka dajɛ"
+      "gloss": "fun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yerushalayim"
+      "marks": "Yerushalayim (Jerusalɛmu)"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Yerushalayim"
+      "gloss": "Yerushalayim (Jerusalɛmu)"
     },
     {
       "surface": "לראות",
-      "gloss": "walasa ka dɔn"
+      "gloss": "walasa k'a ye"
     },
     {
       "surface": "כמה",
-      "gloss": "tuma joli"
+      "gloss": "cogo di"
     },
     {
       "surface": "רחבה",
-      "gloss": "a genhɛ"
+      "gloss": "bon"
     },
     {
       "surface": "וכמה",
-      "gloss": "ani … tuma joli"
+      "gloss": "ani cogo di"
     },
     {
       "surface": "ארכה",
-      "gloss": "a janya"
+      "gloss": "jan"
     }
   ],
-  "timestamp": "2026-10-14T00:53:17.890385877Z",
+  "timestamp": "2026-10-20T15:42:47.810604880Z",
   "model": "glm-5.3"
 }

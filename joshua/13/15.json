@@ -5,27 +5,11 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "a",
-      "rationale": "object pronoun 'a' (the inheritance) supplied; Hebrew verb carries it implicitly"
-    }
-  ],
-  "translation": "Moshe (Musa) ye a di Reuven (Ruben) denw ka jamana ma, u ka mɔgɔyaw bɛɛ ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "583b5401a9c4cbe0b3c59fa033f93987e7e3b1fb503a51cef30caf18c6a2bcc3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/13\/13-16.1791928790835.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Moshe ye nnasan Reuben denw ka mara denw ma, u ka muludennw taamasiyɛn fɛ.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "ye a di"
+      "gloss": "ye … ma di"
     },
     {
       "surface": "משה",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "למטה",
-      "gloss": "jamana ma"
+      "gloss": "nnasan \/ mara denw"
     },
     {
       "surface": "בני",
@@ -41,13 +25,13 @@
     },
     {
       "surface": "ראובן",
-      "gloss": "Reuven"
+      "gloss": "Reuben"
     },
     {
       "surface": "למשפחתם",
-      "gloss": "u ka mɔgɔyaw bɛɛ ma"
+      "gloss": "u ka muludennw ma"
     }
   ],
-  "timestamp": "2026-10-13T21:59:50.837944003Z",
+  "timestamp": "2026-10-20T14:54:17.499008257Z",
   "model": "glm-5.3"
 }

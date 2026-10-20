@@ -5,37 +5,11 @@
   "book": "esther",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "וכדי בזיון וקצף",
-      "rationale": "'according to the sufficiency of contempt and wrath' — KJV 'too much', JPS 'enough'; rendered 'ka se' (it reaches\/suffices)"
-    },
-    {
-      "kind": "alternative",
-      "subject": "תאמרנה",
-      "rationale": "'say the like' (comparing themselves to Vashti) rather than plain 'say'; Bambara keeps simple 'fɔ'"
-    },
-    {
-      "kind": "addition",
-      "subject": "i kuma kɛ tɔgɔbila",
-      "rationale": "'say the like' — the Hebrew uses the verb alone to mean 'say the same'; Bambara needs an object phrase"
-    }
-  ],
-  "translation": "Ni dɔɔnin in don, Parasi ani Madi saradamuw minnu y'⟨את⟩ masamuso ka kuma mɛn, bɛna i kuma kɛ tɔgɔbila masakɛ ka saramɔgɔw bɛɛ ma — jalaki ni kunya ka se.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9a33d35b65288750b57841875921342f7516de5e2a1f95bf5c9b6aae50cdb6ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/1\/17-20.1791945507330.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Don in na, Parasi (Persia) ani Madi (Mɛdi) ka saraw, minnu mɛnna ⟨את⟩ masabaso kuma, bɛna kuma fɔ masakɛ ka ɲɛmɔgɔw bɛɛ ma — dɔgoya ni ja ka kɔ.",
   "tokens": [
     {
       "surface": "והיום",
-      "gloss": "dɔɔnin in don"
+      "gloss": "don in na"
     },
     {
       "surface": "הזה",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "תאמרנה",
-      "gloss": "bɛna fɔ"
+      "gloss": "bɛna … fɔ"
     },
     {
       "surface": "שרות",
-      "gloss": "saradamuw"
+      "gloss": "saraw"
     },
     {
       "surface": "פרס",
@@ -63,12 +37,12 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "y'u mɛn"
+      "gloss": "mɛnna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuma"
+      "marks": "masabaso kuma"
     },
     {
       "surface": "דבר",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "המלכה",
-      "gloss": "masamuso"
+      "gloss": "masabaso"
     },
     {
       "surface": "לכל",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "saramɔgɔ"
+      "gloss": "ɲɛmɔgɔw"
     },
     {
       "surface": "המלך",
@@ -92,17 +66,17 @@
     },
     {
       "surface": "וכדי",
-      "gloss": "ka se"
+      "gloss": "ka kɔ"
     },
     {
       "surface": "בזיון",
-      "gloss": "jalaki"
+      "gloss": "dɔgoya"
     },
     {
       "surface": "וקצף",
-      "gloss": "ni kunya"
+      "gloss": "ja"
     }
   ],
-  "timestamp": "2026-10-14T02:38:27.331405820Z",
+  "timestamp": "2026-10-20T13:49:20.584220513Z",
   "model": "glm-5.3"
 }

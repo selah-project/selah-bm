@@ -5,62 +5,36 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sanfɛ-yɔrɔ",
-      "rationale": "במה is a cultic 'high place'; Bambara compound 'high-place' keeps the literal elevation without importing a later negative sense."
-    },
-    {
-      "kind": "crux",
-      "subject": "היום בא",
-      "rationale": "Hebrew perfect בא 'he has come\/is come' vs imperfect nuance 'he comes today'; aspect read as present arrival, matching the hurry."
-    },
-    {
-      "kind": "you",
-      "subject": "Shaul",
-      "rationale": "The young women answer Saul directly, urging him to hurry."
-    }
-  ],
-  "translation": "O denmusow ye ⟨את⟩ u jaabi, u ko: a bɛ yen; aw ye, a b'aw ɲɛw la — i teli bi, sabu bi a bɛ na dugubolo la, sabu bi jama ka saraka bɛ sanfɛ-yɔrɔ la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "726618519fc0d1fa85f8e84a1328ca3c79d8fc170346a081a5076b45010040cc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/9\/9-12.1791930116565.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U y'⟨את⟩ u jaabi ko: A bɛ; aw ye ɲɛ, a bɛ aw ɲɛ; aw ɲɔgɔɔ bi, sabu bi a na dugu kɔnɔ, sabu bi jama ka saraka bɛ bi jɛgɛnyɔrɔ la.",
   "tokens": [
     {
       "surface": "ותענינה",
-      "gloss": "ye ⟨את⟩ … jaabi"
+      "gloss": "u y'... jaabi"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "u (Shaul ni a denbilen)"
+      "marks": "u (mɔgɔw minnu ɲininka kunmɛnna)"
     },
     {
       "surface": "ותאמרנה",
-      "gloss": "u ko"
+      "gloss": "ko"
     },
     {
       "surface": "יש",
-      "gloss": "a bɛ yen"
+      "gloss": "a bɛ"
     },
     {
       "surface": "הנה",
-      "gloss": "aw ye"
+      "gloss": "aw ye ɲɛ"
     },
     {
       "surface": "לפניך",
-      "gloss": "aw ɲɛw la"
+      "gloss": "aw ɲɛ"
     },
     {
       "surface": "מהר",
-      "gloss": "i teli bi"
+      "gloss": "aw ɲɔgɔɔ"
     },
     {
       "surface": "עתה",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "בא",
-      "gloss": "bɛ na"
+      "gloss": "na"
     },
     {
       "surface": "לעיר",
-      "gloss": "dugubolo la"
+      "gloss": "dugu kɔnɔ"
     },
     {
       "surface": "כי",
@@ -96,13 +70,13 @@
     },
     {
       "surface": "לעם",
-      "gloss": "jama ka"
+      "gloss": "jama"
     },
     {
       "surface": "בבמה",
-      "gloss": "sanfɛ-yɔrɔ la"
+      "gloss": "jɛgɛnyɔrɔ la"
     }
   ],
-  "timestamp": "2026-10-13T22:21:56.568606931Z",
+  "timestamp": "2026-10-20T13:05:45.741167523Z",
   "model": "glm-5.3"
 }

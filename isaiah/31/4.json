@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "רעים",
-      "rationale": "misitigiw (misiw bɛɛtigiw) — Bamanankan tɛ 'saga-bɛɛtigi' daɲɛ tilannen sɔrɔ; Heburukan kɔgɔjigun ye saga-bɛɛtigiw ye."
-    },
-    {
-      "kind": "substitution",
-      "subject": "יענה",
-      "rationale": "ענה 'to be bowed down \/ answer' — 'yɛrɛ dɔgɔya' ka surun a ka kɔrɔ la."
-    },
-    {
-      "kind": "crux",
-      "subject": "לצבא על הר ציון",
-      "rationale": "'ka faajuu kɛ Tsiyon kulu kan' — על bɛ se ka kɔrɔ 'ni ye' walima 'a kan'; a yɛrɛ kan jugu la ka sababu ye (k'a lakika Isaya 31:5)."
-    }
-  ],
-  "translation": "Sabu Yawe ye n ma kuma ko cogo nin na: i n'a fɔ waraba ni a denkɛ min bɛ tugun kan ka tuguni bɔ, hali ni misitigiw ka ca wele t'a kan, a tɛ siran u kan na, a tɛ yɛrɛ dɔgɔya u hamanu la; o cogo min, Yawe Tsabaot bɛna na ka faajuu kɛ Tsiyon kulu kan ani a bɔlonya kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f632ec8308c30b086a285f70b6e19320d059822ae3cb3da2015ceb73fa9b6cc1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/31\/1-4.1791934109823.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu Yawe ye ne ma kɔ ko: i n'a fɔ waraba ni warabaden bɛŋ a ka nini kan, ni sagabagaw caman wele ka na a kan na, a tɛ siran u kan na, a tɛ jaabi u jaamuye ye; cogo min na, Yawe Sebaot bɛna jigin ka soo kɛ Tsiyon (Ziyon) kulu kan ani a ka kulu fitini kan.",
   "tokens": [
     {
       "surface": "כי",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "ko cogo nin na"
+      "gloss": "cogo nin na"
     },
     {
       "surface": "אמר",
-      "gloss": "y'a fɔ"
+      "gloss": "kɔ"
     },
     {
       "surface": "יהוה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "n ma"
+      "gloss": "ne ma"
     },
     {
       "surface": "כאשר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "יהגה",
-      "gloss": "bɛ tuguni bɔ"
+      "gloss": "bɛŋ"
     },
     {
       "surface": "האריה",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "והכפיר",
-      "gloss": "ni a denkɛ"
+      "gloss": "ani warabaden"
     },
     {
       "surface": "על",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "טרפו",
-      "gloss": "a tugun"
+      "gloss": "a ka nini"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "ni"
     },
     {
       "surface": "יקרא",
@@ -87,15 +61,15 @@
     },
     {
       "surface": "עליו",
-      "gloss": "t'a kan"
+      "gloss": "a kan na"
     },
     {
       "surface": "מלא",
-      "gloss": "ka ca"
+      "gloss": "caman"
     },
     {
       "surface": "רעים",
-      "gloss": "misitigiw"
+      "gloss": "sagabagaw"
     },
     {
       "surface": "מקולם",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "ומהמונם",
-      "gloss": "u hamanu"
+      "gloss": "ani u jaamuye"
     },
     {
       "surface": "לא",
@@ -119,15 +93,15 @@
     },
     {
       "surface": "יענה",
-      "gloss": "yɛrɛ dɔgɔya"
+      "gloss": "jaabi"
     },
     {
       "surface": "כן",
-      "gloss": "o cogo min"
+      "gloss": "cogo min na"
     },
     {
       "surface": "ירד",
-      "gloss": "bɛna na"
+      "gloss": "bɛna jigin"
     },
     {
       "surface": "יהוה",
@@ -135,11 +109,11 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsabaot"
+      "gloss": "Sebaot"
     },
     {
       "surface": "לצבא",
-      "gloss": "ka faajuu kɛ"
+      "gloss": "ka soo kɛ"
     },
     {
       "surface": "על",
@@ -151,17 +125,17 @@
     },
     {
       "surface": "ציון",
-      "gloss": "Tsiyon"
+      "gloss": "Tsiyon (Ziyon)"
     },
     {
       "surface": "ועל",
-      "gloss": "ani"
+      "gloss": "ani kan"
     },
     {
       "surface": "גבעתה",
-      "gloss": "a bɔlonya kan"
+      "gloss": "a ka kulu fitini"
     }
   ],
-  "timestamp": "2026-10-13T23:28:29.831421931Z",
+  "timestamp": "2026-10-20T14:30:12.151162437Z",
   "model": "glm-5.3"
 }

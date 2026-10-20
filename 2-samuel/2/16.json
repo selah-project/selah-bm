@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "חלקת הצרים",
-      "rationale": "place-name 'field of the adversaries\/flints' occurs only here; kept as Helkat-Hasurim with bracketed gloss"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "צרים",
-      "rationale": "double sense — 'adversaries' and 'flints' — each man fell before his adversary; gloss keeps both"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨npan-ɲɛnamaw foro⟩",
-      "rationale": "supplied gloss of the opaque place-name for the Bambara reader"
-    }
-  ],
-  "translation": "Mɔgɔ kelen-kelen y'a kɛnɛ kun minɛ, ka a npan don a kɛnɛ lanwɔrɔ la; u bɛɛ bɛɲɛra kelen kɔrɔ. O yɔrɔ tɔgɔ ko Helkat-Hasurim ⟨npan-ɲɛnamaw foro⟩, min bɛ Givɔn.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6c4ce391b96eae1ddd097e6d694ce540c563fad2f563e4eb1faf42e9fad40ac6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/2\/13-16.1791930863587.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mɔgɔ kelen-kelen tun minɛna a jɛkɛdennin kun, n'a npan tun don a jɛkɛdennin bulɔn na, u bɛɛ bɔra ni jɛ ye; o yɔrɔ tɔgɔ fɔra Khelkat-hatsurim (o kɔrɔ ye jɛkɛdennw ka foro ye), min bɛ Gibeɔn (Gibeon) na.",
   "tokens": [
     {
       "surface": "ויחזקו",
-      "gloss": "y'a … minɛ"
+      "gloss": "minɛna"
     },
     {
       "surface": "איש",
@@ -47,35 +21,35 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "a kɛnɛ"
+      "gloss": "a jɛkɛdennin"
     },
     {
       "surface": "וחרבו",
-      "gloss": "a npan"
+      "gloss": "n'a npan"
     },
     {
       "surface": "בצד",
-      "gloss": "lanwɔrɔ"
+      "gloss": "bulɔn na"
     },
     {
       "surface": "רעהו",
-      "gloss": "a kɛnɛ"
+      "gloss": "a jɛkɛdennin"
     },
     {
       "surface": "ויפלו",
-      "gloss": "bɛɲɛra"
+      "gloss": "u bɛɛ bɔra"
     },
     {
       "surface": "יחדו",
-      "gloss": "kelen kɔrɔ"
+      "gloss": "ni jɛ ye"
     },
     {
       "surface": "ויקרא",
-      "gloss": "tɔgɔ ko"
+      "gloss": "tɔgɔ fɔra"
     },
     {
       "surface": "למקום",
-      "gloss": "yɔrɔ"
+      "gloss": "o yɔrɔ"
     },
     {
       "surface": "ההוא",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "חלקת",
-      "gloss": "Helkat"
+      "gloss": "Khelkat"
     },
     {
       "surface": "הצרים",
-      "gloss": "Hasurim"
+      "gloss": "hatsurim"
     },
     {
       "surface": "אשר",
@@ -95,9 +69,9 @@
     },
     {
       "surface": "בגבעון",
-      "gloss": "Givɔn"
+      "gloss": "bɛ Gibeɔn na"
     }
   ],
-  "timestamp": "2026-10-13T22:34:23.590275146Z",
+  "timestamp": "2026-10-20T13:28:26.194213736Z",
   "model": "glm-5.3"
 }

@@ -5,66 +5,40 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 53,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אחלק \/ יחלק",
-      "rationale": "Same verb חלק twice — 'I allot him' and 'he allots spoil'; the echo of apportionment frames the verse and is lost."
-    },
-    {
-      "kind": "substitution",
-      "subject": "יפגיע",
-      "rationale": "'toli kɛ u ye' for the verb 'to reach, impinge, interpose' — KJV 'made intercession'; the literal picture is striking, meeting someone on the way."
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "gloss-rationale": "relative particle folded into 'sabu ... o-tuma-min'; no standalone Bambara word for it."
-    }
-  ],
-  "translation": "O la, ne bɛ a la caman kɔnɔ, a bɛ sɔngɔ labɛn sebagaw ye; sabu a y'a ni yɛlɛ saya ma, ani u ye ⟨את⟩ a ɔ ni kandilikɛlaw ye; a yɛrɛ ye caman jurumu ta, a bɛ toli kɛ kandilikɛlaw ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/53\/9-12.1791934577028.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O la, ne bɛna ⟨את⟩ a boyo mɔgɔ caman ye, kabenun, a bɛna ⟨את⟩ laseli ni mɔgɔ sebagaw ye, sabu a y'a nin'a tuluya saya la, ka tugu; bɛɛ n'ɔ ta kɔrɔ, a ni jurumukɛlaw bɛ jate kelen ye; a ye mɔgɔ caman ka jurumu tari, a ye jurumukɛlaw ɲɛ fan fɔ.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "o la"
+      "gloss": "O la"
     },
     {
       "surface": "אחלק",
-      "gloss": "ne bɛ ... la"
+      "gloss": "ne bɛna boyo"
     },
     {
       "surface": "לו",
-      "gloss": "a"
+      "gloss": "a ye"
     },
     {
       "surface": "ברבים",
-      "gloss": "caman kɔnɔ"
+      "gloss": "mɔgɔ caman ye"
     },
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩",
-      "marks": "sebagaw"
+      "gloss": "⟨את⟩",
+      "marks": "a (a boyo min bɛna sɔrɔ)"
     },
     {
       "surface": "עצומים",
-      "gloss": "sebagaw"
+      "gloss": "mɔgɔ sebagaw"
     },
     {
       "surface": "יחלק",
-      "gloss": "bɛ ... labɛn"
+      "gloss": "a bɛna laseli"
     },
     {
       "surface": "שלל",
-      "gloss": "sɔngɔ"
+      "gloss": "laseli"
     },
     {
       "surface": "תחת",
@@ -72,36 +46,36 @@
     },
     {
       "surface": "אשר",
-      "gloss": "o-tuma-min"
+      "gloss": "min ta ye"
     },
     {
       "surface": "הערה",
-      "gloss": "yɛlɛ"
+      "gloss": "a y'a tuluya"
     },
     {
       "surface": "למות",
-      "gloss": "saya ma"
+      "gloss": "saya la"
     },
     {
       "surface": "נפשו",
-      "gloss": "a ni"
+      "gloss": "a nin'a"
     },
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩",
-      "marks": "kandilikɛlaw"
+      "gloss": "⟨את⟩",
+      "marks": "jurumukɛlaw"
     },
     {
       "surface": "פשעים",
-      "gloss": "kandilikɛlaw"
+      "gloss": "jurumukɛlaw"
     },
     {
       "surface": "נמנה",
-      "gloss": "u ye ... ɔ"
+      "gloss": "u ye jate kelen ye"
     },
     {
       "surface": "והוא",
-      "gloss": "a yɛrɛ"
+      "gloss": "a de"
     },
     {
       "surface": "חטא",
@@ -109,21 +83,21 @@
     },
     {
       "surface": "רבים",
-      "gloss": "caman"
+      "gloss": "mɔgɔ caman ka"
     },
     {
       "surface": "נשא",
-      "gloss": "ta"
+      "gloss": "tari"
     },
     {
       "surface": "ולפשעים",
-      "gloss": "kandilikɛlaw ye"
+      "gloss": "jurumukɛlaw ye"
     },
     {
       "surface": "יפגיע",
-      "gloss": "bɛ toli kɛ"
+      "gloss": "a ye ɲɛ fan fɔ"
     }
   ],
-  "timestamp": "2026-10-13T23:36:17.031321837Z",
+  "timestamp": "2026-10-20T14:33:20.285537343Z",
   "model": "glm-5.3"
 }

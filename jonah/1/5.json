@@ -5,71 +5,40 @@
   "book": "jonah",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הכלים",
-      "rationale": "'utensils\/apparatus' — aRendered as 'fɛnw' (things\/goods); some translate 'cargo', others 'tackle'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ויזעקו",
-      "rationale": "Hebrew is a shriek from anguish; rendered by the ordinary 'wele' (call out), losing the panic."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨u ye⟩",
-      "rationale": "מעליהם 'from upon them' rendered as 'u ye' — the preposition's picture of lifting weight off has no clean Bambara shape."
-    },
-    {
-      "kind": "substitution",
-      "subject": "וירדם",
-      "rationale": "'to be stunned with sleep' rendered 'dɔngɔ jugu' (heavy sleep); the stunning nuance is softened."
-    }
-  ],
-  "translation": "Gɔgɔtigiw siranra, mɔgɔ kelen-kelen bɛɛ y'a yɛrɛ Ala wele, u ye ⟨את⟩ fɛnw minnu bɛ ani kɔnɔ bila ji kɔnɔ, walasa ani nɔgɔya ⟨u ye⟩. Yona (Jonas) tagala ani kɔnɔ duguma, a suko, a y'a dɔngɔ jugu.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a0c7e3fbcf2dbf189bfe1c9d1a1a548e78aaf482f16ee971671b8ba9c0e34ccb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jonah\/1\/5-8.1791938813689.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ji-lasɔrɔbagaw siranra, kelen-kelen y'a Elohim ye wele, u ye ⟨את⟩ fɛnw minnu bɛ bɔlona kɔnɔ fo kɔgɔji la, walasa bɔlo ka nɔgɔya u kɔrɔ; Yona na bɔlona kɔnɔdɔw la, a labɛra, a nana dumba bɔn.",
   "tokens": [
     {
       "surface": "וייראו",
-      "gloss": "u siranra"
+      "gloss": "siranra"
     },
     {
       "surface": "המלחים",
-      "gloss": "gɔgɔtigiw"
+      "gloss": "ji-lasɔrɔbagaw"
     },
     {
       "surface": "ויזעקו",
-      "gloss": "u y'a wele"
+      "gloss": "weleli"
     },
     {
       "surface": "איש",
-      "gloss": "mɔgɔ kelen-kelen"
+      "gloss": "kelen-kelen"
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "ye"
     },
     {
       "surface": "אלהיו",
-      "gloss": "a yɛrɛ Ala"
+      "gloss": "a Elohim"
     },
     {
       "surface": "ויטלו",
-      "gloss": "u ye … bila"
+      "gloss": "u ye … fo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fɛnw"
+      "marks": "fɛnw minnu bɛ bɔlona kɔnɔ"
     },
     {
       "surface": "הכלים",
@@ -81,23 +50,23 @@
     },
     {
       "surface": "באניה",
-      "gloss": "ani kɔnɔ"
+      "gloss": "bɔlona kɔnɔ"
     },
     {
       "surface": "אל",
-      "gloss": "kɔnɔ"
+      "gloss": "fo"
     },
     {
       "surface": "הים",
-      "gloss": "ji"
+      "gloss": "kɔgɔji la"
     },
     {
       "surface": "להקל",
-      "gloss": "nɔgɔya"
+      "gloss": "walasa … nɔgɔya"
     },
     {
       "surface": "מעליהם",
-      "gloss": "u ye"
+      "gloss": "u kɔrɔ"
     },
     {
       "surface": "ויונה",
@@ -105,29 +74,29 @@
     },
     {
       "surface": "ירד",
-      "gloss": "tagala"
+      "gloss": "na … duguma"
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "la"
     },
     {
       "surface": "ירכתי",
-      "gloss": "dugumaw"
+      "gloss": "kɔnɔdɔw"
     },
     {
       "surface": "הספינה",
-      "gloss": "ani kɔnɔ"
+      "gloss": "bɔlona"
     },
     {
       "surface": "וישכב",
-      "gloss": "a suko"
+      "gloss": "labɛra"
     },
     {
       "surface": "וירדם",
-      "gloss": "a y'a dɔngɔ jugu"
+      "gloss": "dumba bɔn"
     }
   ],
-  "timestamp": "2026-10-14T00:46:53.690129417Z",
+  "timestamp": "2026-10-20T14:53:04.437832786Z",
   "model": "glm-5.3"
 }

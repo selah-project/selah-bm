@@ -5,71 +5,40 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "n ni",
-      "rationale": "נפשי is life-breath, rendered 'n ni' per the fixed vocabulary."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ראה … ראה … דע … וראה",
-      "rationale": "repetition of 'see' — 'see, yea see… know and see' — partially kept with 'ye … fana ye … dɔn ka ye'."
-    },
-    {
-      "kind": "you",
-      "subject": "n ba",
-      "rationale": "David addresses Shaul as 'my father', royal kinship address."
-    },
-    {
-      "kind": "invitation",
-      "subject": "dɔn, ka ye",
-      "rationale": "imperative summons to Shaul to examine the evidence."
-    }
-  ],
-  "translation": "N ba, ye, fana ye i dɔgɔ yɔrɔkɛnɛn min bɛ n ka bolo la — sabu n ye ⟨את⟩ i dɔgɔ yɔrɔkɛnɛn sigi, m'i fa. Dɔn, ka ye ko ko jugu ni cunta si tɛ n ka bolo la, m'i jurumu kɛ i la; nka i yɛrɛ bɛ ⟨את⟩ n ni ɲini ka ta.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "66a3adc3d2b944a593391fd188ace5b5baf914af50ca625a5e13847a6176090f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/24\/9-12.1791930620102.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ani ba, aw ye, aw ye ⟨ah⟩ — aw ye ⟨את⟩ i ka bubu kɛrɛfɛ ne ka bolo kɔnɔ; sabu ne ye ⟨את⟩ i ka bubu kɛrɛfɛ kɛrɛ, nka ne m'i faga. Aw dɔn aw ye fɔ ko ko jugu si tɛ ne ka bolo la, fisaya si tɛ, ani ne m'i jurumu kɛ i ko; nka i ye ne ka ni ɲini ka ta a.",
   "tokens": [
     {
       "surface": "ואבי",
-      "gloss": "n ba"
+      "gloss": "ani ba"
     },
     {
       "surface": "ראה",
-      "gloss": "ye"
+      "gloss": "aw ye"
     },
     {
       "surface": "גם",
-      "gloss": "fana"
+      "gloss": "aw ye yɛlɛma ye"
     },
     {
       "surface": "ראה",
-      "gloss": "ye"
+      "gloss": "aw ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i dɔgɔ yɔrɔkɛnɛn"
+      "marks": "i ka bubu kɛrɛfɛ"
     },
     {
       "surface": "כנף",
-      "gloss": "yɔrɔkɛnɛn"
+      "gloss": "kɛrɛfɛ"
     },
     {
       "surface": "מעילך",
-      "gloss": "i dɔgɔ"
+      "gloss": "i ka bubu"
     },
     {
       "surface": "בידי",
-      "gloss": "n ka bolo la"
+      "gloss": "ne ka bolo kɔnɔ"
     },
     {
       "surface": "כי",
@@ -77,36 +46,36 @@
     },
     {
       "surface": "בכרתי",
-      "gloss": "n ye … sigi"
+      "gloss": "ne ye … kɛrɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i dɔgɔ yɔrɔkɛnɛn"
+      "marks": "i ka bubu kɛrɛfɛ"
     },
     {
       "surface": "כנף",
-      "gloss": "yɔrɔkɛnɛn"
+      "gloss": "kɛrɛfɛ"
     },
     {
       "surface": "מעילך",
-      "gloss": "i dɔgɔ"
+      "gloss": "i ka bubu"
     },
     {
       "surface": "ולא",
-      "gloss": "nka … tɛ"
+      "gloss": "nka ne ma"
     },
     {
       "surface": "הרגתיך",
-      "gloss": "m'i fa"
+      "gloss": "i faga"
     },
     {
       "surface": "דע",
-      "gloss": "dɔn"
+      "gloss": "aw dɔn"
     },
     {
       "surface": "וראה",
-      "gloss": "ka ye"
+      "gloss": "aw ye fɔ"
     },
     {
       "surface": "כי",
@@ -114,11 +83,11 @@
     },
     {
       "surface": "אין",
-      "gloss": "si tɛ yen"
+      "gloss": "si tɛ"
     },
     {
       "surface": "בידי",
-      "gloss": "n ka bolo la"
+      "gloss": "ne ka bolo la"
     },
     {
       "surface": "רעה",
@@ -126,42 +95,42 @@
     },
     {
       "surface": "ופשע",
-      "gloss": "cunta"
+      "gloss": "fisaya"
     },
     {
       "surface": "ולא",
-      "gloss": "nka tɛ"
+      "gloss": "ani ne ma"
     },
     {
       "surface": "חטאתי",
-      "gloss": "jurumu"
+      "gloss": "i jurumu kɛ"
     },
     {
       "surface": "לך",
-      "gloss": "i la"
+      "gloss": "i ko"
     },
     {
       "surface": "ואתה",
-      "gloss": "nka i yɛrɛ"
+      "gloss": "nka i ye"
     },
     {
       "surface": "צדה",
-      "gloss": "bɛ ɲini"
+      "gloss": "ne ka ni ɲini"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "n ni"
+      "marks": "ne ka ni"
     },
     {
       "surface": "נפשי",
-      "gloss": "n ni"
+      "gloss": "ne ka ni"
     },
     {
       "surface": "לקחתה",
-      "gloss": "ka ta"
+      "gloss": "ka ta a"
     }
   ],
-  "timestamp": "2026-10-13T22:30:20.104923350Z",
+  "timestamp": "2026-10-20T13:03:39.921479397Z",
   "model": "glm-5.3"
 }

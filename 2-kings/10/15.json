@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "wataro",
-      "rationale": "מרכבה (so-wataro, waraba-wataro) bɛ bayɛlɛma ni 'wataro' ye — Bamanankan tɛ sɛbɛnni kɔrɔ daɲɛ wɛrɛ sɔrɔ"
-    },
-    {
-      "kind": "you",
-      "subject": "Yehu ka ɲininka Yehonadab fɛ",
-      "rationale": "Yehu bɛ Yehonadab ɲininka k'a laninkɛ dusukun ɲɛmanyɔrɔ la"
-    }
-  ],
-  "translation": "A tagara yen na, a ye ⟨את⟩ Yehonadab, Rekab den, ye — min bɛ na a fɛ — a y'a duba, a ko a ye: Yala i dusukun bɛ ɲɛman don, n dusukun bɛ i dusukun fɛ cogo min na? Yehonadab ko: Ɔwɔ, ɔwɔ dɔrɛn. A ko: Ni o tiɲɛ ye, i bolo di. A ye a bolo di, a y'a Tulon a fɛ, a wataro kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cb0993fa46ab74349bd70a6958a8e262ac5f7b40d4123f3fa7db8bf9af49e82a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/10\/13-16.1791932779854.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A tagara yen, a ye ⟨את⟩ Yehonadab, Rekhaw (Rekab) den, sɔrɔ a bɛ a furakɛ la, a y'a duba di, a ko a ye: yala i ka dusukun bɛ kunbɔ, i n'a fɔ ne ka dusukun bɛ ni i ka dusukun ye wa? Yehonadab ko: awɔ, awɔ de. ⟨Yehu⟩ ko: ni o ye, i ka bolo di ⟨ne ma⟩. A ye a bolo di, a y'a diga a la, a la, marɛkaba la.",
   "tokens": [
     {
       "surface": "וילך",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "משם",
-      "gloss": "yen na"
+      "gloss": "yen"
     },
     {
       "surface": "וימצא",
-      "gloss": "a ye … ye"
+      "gloss": "a ye … ye (sɔrɔ)"
     },
     {
       "surface": "את",
@@ -55,15 +34,15 @@
     },
     {
       "surface": "רכב",
-      "gloss": "Rekab"
+      "gloss": "Rekhaw"
     },
     {
       "surface": "לקראתו",
-      "gloss": "min bɛ na a fɛ"
+      "gloss": "a furakɛ la"
     },
     {
       "surface": "ויברכהו",
-      "gloss": "a y'a duba"
+      "gloss": "a y'a duba di"
     },
     {
       "surface": "ויאמר",
@@ -80,23 +59,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i dusukun"
+      "marks": "i ka dusukun"
     },
     {
       "surface": "לבבך",
-      "gloss": "i dusukun"
+      "gloss": "i ka dusukun"
     },
     {
       "surface": "ישר",
-      "gloss": "ɲɛman"
+      "gloss": "kunbɔ"
     },
     {
       "surface": "כאשר",
-      "gloss": "cogo min na"
+      "gloss": "i n'a fɔ"
     },
     {
       "surface": "לבבי",
-      "gloss": "n dusukun"
+      "gloss": "ne ka dusukun"
     },
     {
       "surface": "עם",
@@ -104,11 +83,11 @@
     },
     {
       "surface": "לבבך",
-      "gloss": "i dusukun"
+      "gloss": "i ka dusukun"
     },
     {
       "surface": "ויאמר",
-      "gloss": "… ko"
+      "gloss": "ko"
     },
     {
       "surface": "יהונדב",
@@ -116,24 +95,24 @@
     },
     {
       "surface": "יש",
-      "gloss": "ɔwɔ"
+      "gloss": "awɔ"
     },
     {
       "surface": "ויש",
-      "gloss": "ɔwɔ dɔrɛn"
+      "gloss": "awɔ de"
     },
     {
       "surface": "תנה",
-      "gloss": "i bolo di"
+      "gloss": "di"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i bolo"
+      "marks": "i ka bolo"
     },
     {
       "surface": "ידך",
-      "gloss": "i bolo"
+      "gloss": "i ka bolo"
     },
     {
       "surface": "ויתן",
@@ -145,21 +124,21 @@
     },
     {
       "surface": "ויעלהו",
-      "gloss": "a y'a Tulon"
+      "gloss": "a y'a diga"
     },
     {
       "surface": "אליו",
-      "gloss": "a fɛ"
+      "gloss": "a la"
     },
     {
       "surface": "אל",
-      "gloss": "kɔnɔ"
+      "gloss": "a la"
     },
     {
       "surface": "המרכבה",
-      "gloss": "wataro"
+      "gloss": "marɛkaba la"
     }
   ],
-  "timestamp": "2026-10-13T23:06:19.869913470Z",
+  "timestamp": "2026-10-20T13:16:39.323334539Z",
   "model": "glm-5.3"
 }

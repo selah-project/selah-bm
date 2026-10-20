@@ -5,57 +5,31 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ברך יברכך",
-      "rationale": "Infinitive-absolute doubling 'bless he-will-bless-you' intensifies; rendered 'duba kosɛbɛ'."
-    },
-    {
-      "kind": "crux",
-      "subject": "אפס כי",
-      "rationale": "'Only\/nothing but' — KJV reads as exception ('save when'), moderns as assurance ('however, there will be no poor')."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "First כי after אפס is idiom 'only that', absorbed into 'dɔrɔn:' with empty gloss."
-    }
-  ],
-  "translation": "Dɔrɔn: mɔgɔsoso tɛna i la, sabu Yawe bɛna i duba kosɛbɛ dugukolo min na — Yawe i ka Elohim min bɛ di i ye naxala ye ka mine o.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "951ea50b774bd73147206992756279a75d684f67502fc25ff20aa68c5ec78901",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/15\/1-4.1791927923855.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fɛn si tɛna kɛ — mɔgɔ min fiyan bɛ munu, o tɛna bɔ aw la, sabu Yawe bɛna aw duba kosɛbɛ dugukolo min na, min ye Yawe Aw Elohim di aw ma aw ka faso ye, ka aw ta a.",
   "tokens": [
     {
       "surface": "אפס",
-      "gloss": "dɔrɔn"
+      "gloss": "fɛn si tɛna kɛ"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "לא",
-      "gloss": "tɛ"
+      "gloss": "tɛna"
     },
     {
       "surface": "יהיה",
-      "gloss": "na"
+      "gloss": "bɔ"
     },
     {
       "surface": "בך",
-      "gloss": "i la"
+      "gloss": "aw la"
     },
     {
       "surface": "אביון",
-      "gloss": "mɔgɔsoso"
+      "gloss": "mɔgɔ min fiyan bɛ munu"
     },
     {
       "surface": "כי",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "יברכך",
-      "gloss": "i duba"
+      "gloss": "bɛna aw duba"
     },
     {
       "surface": "יהוה",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "dugukolo"
+      "gloss": "dugukolo min na"
     },
     {
       "surface": "אשר",
@@ -87,25 +61,25 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i ka Elohim"
+      "gloss": "Aw Elohim"
     },
     {
       "surface": "נתן",
-      "gloss": "di"
+      "gloss": "di aw ma"
     },
     {
       "surface": "לך",
-      "gloss": "i ye"
+      "gloss": "aw"
     },
     {
       "surface": "נחלה",
-      "gloss": "naxala"
+      "gloss": "faso"
     },
     {
       "surface": "לרשתה",
-      "gloss": "ka mine o"
+      "gloss": "ka aw ta a"
     }
   ],
-  "timestamp": "2026-10-13T21:45:23.864609305Z",
+  "timestamp": "2026-10-20T13:40:26.671567871Z",
   "model": "glm-5.3"
 }

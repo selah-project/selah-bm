@@ -5,41 +5,15 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ne",
-      "rationale": "Hebrew verb form implies first person without pronoun; Bambara needs ⟨ne⟩"
-    },
-    {
-      "kind": "substitution",
-      "subject": "janya",
-      "rationale": "אף literally nose\/nostril, idiom for anger"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Tɔndenw Tigi",
-      "rationale": "צבאות literally 'armies\/hosts', rendered as army-master title"
-    }
-  ],
-  "translation": "O de sabu, ⟨ne⟩ bɛna sankolow ladon, ani dugukolo bɛna bɔ a yɔrɔ la, Yawe Tɔndenw Tigi ka janya la, ani a tasuma-sira don la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f7781f639bf1de9b3f5b44ccae7bcd7a3af1804de0761600ced9aa623de2fa8e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/13\/13-16.1791933609578.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O de sababu la, ne bɛna sankolow ni yɛlɛma kozɔkozɔ, dugukolo bɛna bɔ a yɔrɔ la, Yawe Tɔnɔnbɛɛtigi ka janya bɛɛ sira fɛ, ani a bɛɛtigi-yɛlɛma don la.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "o"
+      "gloss": "o de sababu la"
     },
     {
       "surface": "כן",
-      "gloss": "de sabu"
+      "gloss": "o de"
     },
     {
       "surface": "שמים",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "ארגיז",
-      "gloss": "bɛna ladon"
+      "gloss": "bɛna yɛlɛma kozɔkozɔ"
     },
     {
       "surface": "ותרעש",
-      "gloss": "bɛna bɔ"
+      "gloss": "bɛna yɛlɛma kozɔkozɔ"
     },
     {
       "surface": "הארץ",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "בעברת",
-      "gloss": "janya la"
+      "gloss": "janya bɛɛ sira fɛ"
     },
     {
       "surface": "יהוה",
@@ -71,21 +45,21 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tɔndenw Tigi"
+      "gloss": "Tɔnɔnbɛɛtigi"
     },
     {
       "surface": "וביום",
-      "gloss": "ani ... don la"
+      "gloss": "don la"
     },
     {
       "surface": "חרון",
-      "gloss": "tasuma-sira"
+      "gloss": "bɛɛtigi-yɛlɛma"
     },
     {
       "surface": "אפו",
-      "gloss": "a janya"
+      "gloss": "a"
     }
   ],
-  "timestamp": "2026-10-13T23:20:09.582275703Z",
+  "timestamp": "2026-10-20T14:26:52.124527418Z",
   "model": "glm-5.3"
 }

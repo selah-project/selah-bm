@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Sheol",
-      "rationale": "שאול ye suw ka dugu ye; jahanama walima laharaw banna — 'to the grave' (KJV\/JPS) versus 'to Sheol' (YSB)."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kun-kokoro",
-      "rationale": "שיבה ye kɔrɔkɔrɔya\/kokoro-jatebɔ ye — 'old age' walima 'gray head'; kun-kokoro ye a ɲɛ dɔgɔnen ye."
-    },
-    {
-      "kind": "you",
-      "subject": "Solomo (Sulɛmɛnu)",
-      "rationale": "Dawid ka kuma bɛ kɛ a den bolo ye — a fɔra a ye k'a wele."
-    }
-  ],
-  "translation": "Sisan, kana a yoŋɔn-bali, bawo i ye mɔgɔ dɔnniratɔ ye, ani i bɛ dɔn ⟨את⟩ fɛn min i bɛna kɛ a ye, k'a bilasi a kun-kokoro ni joli ye k'a sigi Sheol.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "3bf12a4814bfbedcdbebfbb452d0081439cd67cae8106ce59c8175d3d42dcb3c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/2\/9-12.1791931664659.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sisan, i kana a yamaruya tigɛ, sabu i ye mɔgɔ dɔnnibaga ye, i bɛna dɔn ⟨את⟩ min bɛ ka kɛ a ye, k'i bɛna ⟨את⟩ a kun shɛnnen bilisi Sheol ma ni joli ye.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "תנקהו",
-      "gloss": "a yoŋɔn-bali"
+      "gloss": "a yamaruya tigɛ"
     },
     {
       "surface": "כי",
-      "gloss": "bawo"
+      "gloss": "sabu"
     },
     {
       "surface": "איש",
@@ -55,20 +29,20 @@
     },
     {
       "surface": "חכם",
-      "gloss": "dɔnniratɔ"
+      "gloss": "dɔnnibaga"
     },
     {
       "surface": "אתה",
-      "gloss": "i ye"
+      "gloss": "i"
     },
     {
       "surface": "וידעת",
-      "gloss": "ani i bɛ dɔn"
+      "gloss": "i bɛna dɔn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fɛn min i bɛna kɛ a ye"
+      "marks": "min bɛ ka kɛ a ye"
     },
     {
       "surface": "אשר",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "i bɛna kɛ"
+      "gloss": "i bɛ o kɛ"
     },
     {
       "surface": "לו",
@@ -84,16 +58,16 @@
     },
     {
       "surface": "והורדת",
-      "gloss": "k'i bilasi"
+      "gloss": "i bɛna ... bilisi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a kun-kokoro"
+      "marks": "a kun shɛnnen"
     },
     {
       "surface": "שיבתו",
-      "gloss": "kun-kokoro"
+      "gloss": "a kun shɛnnen"
     },
     {
       "surface": "בדם",
@@ -104,6 +78,6 @@
       "gloss": "Sheol"
     }
   ],
-  "timestamp": "2026-10-13T22:47:44.662341344Z",
+  "timestamp": "2026-10-20T12:55:00.445247935Z",
   "model": "glm-5.3"
 }

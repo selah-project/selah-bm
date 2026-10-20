@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bilakoro bɔ",
-      "rationale": "מול ye 'ka bilakoro bɔ' ye — kɔrɔfɔli dɔgɔlen ('foforo bɔ') la, angilɛkan 'circumcise' tɛ"
-    },
-    {
-      "kind": "elision",
-      "subject": "היצאים",
-      "rationale": "Heburukan ma Mitsrayim tɔgɔ fɔ yan; bɔyɔrɔ men keera duguma v:4 kɔnɔ, o men don a nɔ"
-    },
-    {
-      "kind": "measurement",
-      "subject": "dogoun kunun",
-      "rationale": "sira-ɲɛnaboli dogo-ɲɛnaboli kɔrɔtiya ɲɛfɔli bɛ sira kan jɔ"
-    }
-  ],
-  "translation": "Sabu jama bɛɛ minnu bɔra, u bilakoro bɔra; ani jama bɛɛ minnu dogouna kunun sira kan, u bɔli waati la Mitsrayim (Misira), u bilakoro ma bɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0b61caaeffa52e2ccd2b329534fb2da4ce913a0ab708d9c86b98f947afb0cacc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/5\/5-8.1791928584163.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu jama bɛɛ minnu bɔra, u ye sununkalo bɔ; nka jama bɛɛ minnu dogoya jɛgɛnana na, sira kan, u ka bɔ Mitsrayim (Misira) waati la, u ma sununkalo bɔ.",
   "tokens": [
     {
       "surface": "כי",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "מלים",
-      "gloss": "bilakoro-bɔra"
+      "gloss": "u ye sununkalo bɔ"
     },
     {
       "surface": "היו",
-      "gloss": "tun"
+      "gloss": "tun ye"
     },
     {
       "surface": "כל",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ani bɛɛ"
+      "gloss": "nka jama bɛɛ"
     },
     {
       "surface": "העם",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "הילדים",
-      "gloss": "minnu dogouna"
+      "gloss": "minnu dogoya"
     },
     {
       "surface": "במדבר",
-      "gloss": "kunu"
+      "gloss": "jɛgɛnana na"
     },
     {
       "surface": "בדרך",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "בצאתם",
-      "gloss": "u bɔli waati la"
+      "gloss": "u ka bɔ"
     },
     {
       "surface": "ממצרים",
@@ -91,9 +65,9 @@
     },
     {
       "surface": "מלו",
-      "gloss": "bilakoro-bɔ"
+      "gloss": "sununkalo bɔ"
     }
   ],
-  "timestamp": "2026-10-13T21:56:24.238286446Z",
+  "timestamp": "2026-10-20T14:57:03.985708733Z",
   "model": "glm-5.3"
 }

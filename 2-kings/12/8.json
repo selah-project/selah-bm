@@ -5,41 +5,15 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "sarakalasebagaw",
-      "rationale": "masakɛ ka kuma bɛ tugu Yehoyada ni sarakalasebagaw ma (a kɔrɔ: 'aw')"
-    },
-    {
-      "kind": "crux",
-      "subject": "מאת מכריכם",
-      "rationale": "'⟨את⟩ aw matɔgɔw fɛ': KJV 'of your acquaintance', JPS 'from them that bestow it upon you'"
-    },
-    {
-      "kind": "elision",
-      "subject": "תתנהו",
-      "rationale": "כי ... תתנהו: 'aw bɛna o di' — nɔnabila 'o' bɛ tɛmɛsira 'o' ye, o bɛ don kumasen kɔnɔ"
-    }
-  ],
-  "translation": "Masakɛ Yehoash ye Yehoyada (Yehoyada) sarakalasebaga ani sarakalasebagaw wele, k'a fɔ u ma: mun na aw tɛ ⟨את⟩ so ka datu janya? Sisan aw kana warigwɛ ta ⟨את⟩ aw matɔgɔw fɛ; sabu aw bɛna o di so ka datu ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0b6efc9b36318c569524c8a2f89bd0fecb6fbe0e341c38c323e2da4051c74225",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/12\/5-8.1791932942071.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masa Yehoash ye Yehoyada sarakalasebaga ni sarakalasebagaw wele, k'a fɔ u ye ko: mun na aw tɛ ⟨את⟩ so ka dogotigɛw jɔli kɔlɔsi? Sisan aw kana warigwɛ ta aw ni ɲɛmɔgɔw la, sabu aw bɛ o di so dogotigɛw la.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "ye ... wele"
+      "gloss": "wele"
     },
     {
       "surface": "המלך",
-      "gloss": "masakɛ"
+      "gloss": "Masa"
     },
     {
       "surface": "יהואש",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ליהוידע",
-      "gloss": "Yehoyada ma"
+      "gloss": "Yehoyada"
     },
     {
       "surface": "הכהן",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "ולכהנים",
-      "gloss": "ani sarakalasebagaw"
+      "gloss": "ni sarakalasebagaw"
     },
     {
       "surface": "ויאמר",
-      "gloss": "k'a fɔ"
+      "gloss": "k'a fɔ u ye"
     },
     {
       "surface": "אלהם",
-      "gloss": "u ma"
+      "gloss": "u ye"
     },
     {
       "surface": "מדוע",
@@ -75,16 +49,16 @@
     },
     {
       "surface": "מחזקים",
-      "gloss": "janya"
+      "gloss": "jɔli kɔlɔsi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "so ka datu"
+      "marks": "so ka dogotigɛw"
     },
     {
       "surface": "בדק",
-      "gloss": "datu"
+      "gloss": "dogotigɛw"
     },
     {
       "surface": "הבית",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "תקחו",
-      "gloss": "aw ka ta"
+      "gloss": "aw kana ta"
     },
     {
       "surface": "כסף",
@@ -108,11 +82,11 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ ... fɛ"
+      "gloss": "⟨את⟩ la"
     },
     {
       "surface": "מכריכם",
-      "gloss": "aw matɔgɔw"
+      "gloss": "aw ni ɲɛmɔgɔw"
     },
     {
       "surface": "כי",
@@ -120,7 +94,7 @@
     },
     {
       "surface": "לבדק",
-      "gloss": "datu ... ma"
+      "gloss": "dogotigɛw la"
     },
     {
       "surface": "הבית",
@@ -128,9 +102,9 @@
     },
     {
       "surface": "תתנהו",
-      "gloss": "aw bɛna o di"
+      "gloss": "aw bɛ o di"
     }
   ],
-  "timestamp": "2026-10-13T23:09:02.079652432Z",
+  "timestamp": "2026-10-20T13:17:16.569726387Z",
   "model": "glm-5.3"
 }

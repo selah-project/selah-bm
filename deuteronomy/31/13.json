@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "lirʾa \/ siran",
-      "rationale": "ליראה ye 'ka siran ani ka a senuma ya' kelen-kelen bɛɛ; 'siran' dɔgɔya"
-    },
-    {
-      "kind": "invitation",
-      "subject": "bɛna mɛn, kalan",
-      "rationale": "sɛbɛn in bɛ denkɛw wele ka Tora mɛn — kalanfɔlɔw ka don-so don"
-    }
-  ],
-  "translation": "Ni u denkɛw, minnu ma ⟨את⟩ Yawe, Ala aw ye, dɔn, bɛna mɛn, kalan ka a siran, don bɛɛ min aw bɛ balo dugukolo kan, min na aw bɛ ⟨את⟩ Jarden ji tai, walasa k'a minɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f8cefc62ed7eac38a8bde6cc1d55b02abc2c7721250949ce82a14d2f7a1febd5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/31\/13-16.1791928477661.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni u denw minnu ma dɔn, bɛna mɛn, bɛna kalan ka siran ⟨את⟩ Yawe, Aw ye Elohim, donw bɛɛ minnu na aw bɛ balo dugukolo kan, min bɔyen aw bɛ tɛmɛ ⟨את⟩ Yarden (Jorodan) kɔnɔ ka taa ka a minɛ san o yɔrɔ.",
   "tokens": [
     {
       "surface": "ובניהם",
-      "gloss": "ni u denkɛw"
+      "gloss": "ni u denw"
     },
     {
       "surface": "אשר",
@@ -50,16 +29,16 @@
     },
     {
       "surface": "ולמדו",
-      "gloss": "kalan"
+      "gloss": "bɛna kalan"
     },
     {
       "surface": "ליראה",
-      "gloss": "ka a siran"
+      "gloss": "ka siran"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe, Ala aw ye"
+      "marks": "Yawe"
     },
     {
       "surface": "יהוה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Ala aw ye"
+      "gloss": "Aw ye Elohim"
     },
     {
       "surface": "כל",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "הימים",
-      "gloss": "don"
+      "gloss": "donw"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "minnu na"
     },
     {
       "surface": "אתם",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "חיים",
-      "gloss": "balo"
+      "gloss": "bɛ balo"
     },
     {
       "surface": "על",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min bɔyen"
     },
     {
       "surface": "אתם",
@@ -107,26 +86,26 @@
     },
     {
       "surface": "עברים",
-      "gloss": "bɛ tai"
+      "gloss": "bɛ tɛmɛ kɔnɔ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jarden ji"
+      "marks": "Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jarden ji"
+      "gloss": "Yarden"
     },
     {
       "surface": "שמה",
-      "gloss": "yen"
+      "gloss": "ka taa san o yɔrɔ"
     },
     {
       "surface": "לרשתה",
-      "gloss": "walasa k'a minɛ"
+      "gloss": "ka a minɛ"
     }
   ],
-  "timestamp": "2026-10-13T21:54:37.667092016Z",
+  "timestamp": "2026-10-20T13:44:25.419354927Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,24 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "תריעו\/הריעו\/והריעתם",
-      "rationale": "Root רוע repeated three times (shout-war-cry); Bambara can only repeat 'wele' — the sound-burst shape kept, variation lost."
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Joshua's command addresses the people directly with plural imperatives."
-    }
-  ],
-  "translation": "Yehoshua (Yusufu) y'a fɔ ⟨את⟩ jamaa ma ko: aw kana wele, aw kana aw kuma kuwandi, kuma si ka bɔ aw dan na, fo don min n na wele aw ko: aw ye aw bɛ kuma kuwandi — ani o waati, aw bɛna wele.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "394fc078a3e4aedf636a5f5ce1cfef312692e2f6f9914fc4cf641908e055cffb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/6\/9-12.1791928634618.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yehoshua ye ⟨את⟩ jamaaw lase, ko a kuma ko: aw tɛna kɔrɔbɔ, aw tɛna ⟨את⟩ aw ka kan jira ⟨a la⟩, kuma si tɛna bɔ aw dan na, fo don min na ne bɛna aw fɔ ko: kɔrɔbɔ aw — kɔrɔbɔ na, aw bɛna kɔrɔ.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "jamaa (the people)"
+      "marks": "jamaaw"
     },
     {
       "surface": "העם",
-      "gloss": "jamaa"
+      "gloss": "jamaaw"
     },
     {
       "surface": "צוה",
-      "gloss": "y'a fɔ ... ma"
+      "gloss": "lase"
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehoshua (Yusufu)"
+      "gloss": "Yehoshua"
     },
     {
       "surface": "לאמר",
@@ -51,36 +30,36 @@
     },
     {
       "surface": "לא",
-      "gloss": "kana"
+      "gloss": "tɛ"
     },
     {
       "surface": "תריעו",
-      "gloss": "wele"
+      "gloss": "kɔrɔbɔ"
     },
     {
       "surface": "ולא",
-      "gloss": "kana"
+      "gloss": "ani tɛ"
     },
     {
       "surface": "תשמיעו",
-      "gloss": "aw kuma kuwandi"
+      "gloss": "kan jira"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aw kan (your voice)"
+      "marks": "aw ka kan"
     },
     {
       "surface": "קולכם",
-      "gloss": "aw kan"
+      "gloss": "aw ka kan"
     },
     {
       "surface": "ולא",
-      "gloss": "si"
+      "gloss": "ani tɛ"
     },
     {
       "surface": "יצא",
-      "gloss": "ka bɔ"
+      "gloss": "bɔ"
     },
     {
       "surface": "מפיכם",
@@ -96,11 +75,11 @@
     },
     {
       "surface": "יום",
-      "gloss": "don min"
+      "gloss": "don"
     },
     {
       "surface": "אמרי",
-      "gloss": "n na wele aw ko"
+      "gloss": "aw fɔ"
     },
     {
       "surface": "אליכם",
@@ -108,13 +87,13 @@
     },
     {
       "surface": "הריעו",
-      "gloss": "aw ye aw bɛ kuma kuwandi"
+      "gloss": "kɔrɔbɔ aw"
     },
     {
       "surface": "והריעתם",
-      "gloss": "aw bɛna wele"
+      "gloss": "aw bɛna kɔrɔ"
     }
   ],
-  "timestamp": "2026-10-13T21:57:14.623753431Z",
+  "timestamp": "2026-10-20T14:57:30.068280167Z",
   "model": "glm-5.3"
 }

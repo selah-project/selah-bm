@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Tsaba",
-      "rationale": "צבאות (so — jama) bɛ sɛbɛn Heburu fɔcogo la Tsaba, Tɔgɔ-farali ye, a ma bayɛlɛmɛ ka kɛ 'so' ye."
-    },
-    {
-      "kind": "substitution",
-      "subject": "והפכתם",
-      "rationale": "'wuli' (ka a wuli, ka a yɛlɛma ka tɛmɛ a nɔ na) bɛ הפך ka fɔcogo mara; jatigɛli sago bɛ a la."
-    },
-    {
-      "kind": "crux",
-      "subject": "המשא יהיה לאיש דברו",
-      "rationale": "Kɔrɔ dɔw fɔ ko 'mɔgɔ kelen-kelen ka kuma bɛna kɛ a dalan ye'; n'ka bayɛlɛmali bɔlen don o sira la, nka YLT sigira o fɛ."
-    }
-  ],
-  "translation": "Dalan Yawe ta, aw ma ka xusu o korocco, sabu dalan bɛna kɛ mɔgɔ kelen-kelen ka kuma ye; aw y'⟨את⟩ Elohim balotigi, Yawe Tsaba, an ka Elohim kumaw wuli.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a915f4b6e5afde58a37296a4c03e03de309defa0cf2ad0b04d7a8ad13f2375fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/23\/33-36.1791935571713.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aw tɛna Yawe ka dɛn fɔ kokura, sabu mɔgɔ kelen-kelen ka kuma de bɛna kɛ a ye dɛn ye, aw ye ⟨את⟩ kumaw yɛlɛmɛ minnu ye Elohim min bɛ balo ta — Yawe Tsebawot, an ka Elohim — ta.",
   "tokens": [
     {
       "surface": "ומשא",
-      "gloss": "Dalan"
+      "gloss": "dɛn"
     },
     {
       "surface": "יהוה",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "tɛna"
     },
     {
       "surface": "תזכרו",
-      "gloss": "aw na ka xusu"
+      "gloss": "fɔ"
     },
     {
       "surface": "עוד",
-      "gloss": "o korocco"
+      "gloss": "kokura"
     },
     {
       "surface": "כי",
@@ -59,28 +33,28 @@
     },
     {
       "surface": "המשא",
-      "gloss": "dalan"
+      "gloss": "dɛn"
     },
     {
       "surface": "יהיה",
-      "gloss": "bɛna kɛ"
+      "gloss": "bɛna kɛ … ye"
     },
     {
       "surface": "לאיש",
-      "gloss": "mɔgɔ kelen-kelen ka"
+      "gloss": "mɔgɔ kelen-kelen"
     },
     {
       "surface": "דברו",
-      "gloss": "kuma ye"
+      "gloss": "a ka kuma"
     },
     {
       "surface": "והפכתם",
-      "gloss": "aw y'a wuli"
+      "gloss": "aw ye … yɛlɛmɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kumaw"
+      "marks": "kumaw (Yawe ka kumaw)"
     },
     {
       "surface": "דברי",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "חיים",
-      "gloss": "balotigi"
+      "gloss": "min bɛ balo"
     },
     {
       "surface": "יהוה",
@@ -100,13 +74,13 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsaba"
+      "gloss": "Tsebawot"
     },
     {
       "surface": "אלהינו",
       "gloss": "an ka Elohim"
     }
   ],
-  "timestamp": "2026-10-13T23:52:51.714465407Z",
+  "timestamp": "2026-10-20T14:38:47.433872441Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Bath-Sheba",
-      "rationale": "Nathan continues direct address with imperatives."
-    },
-    {
-      "kind": "invitation",
-      "subject": "na",
-      "rationale": "Imperative 'come' — a summons into the plan."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ninu",
-      "rationale": "נפש rendered as ninu (life\/soul); the Hebrew word's throat-life-force breadth cannot carry into one Bambara word."
-    }
-  ],
-  "translation": "Sisan, na, n'a sɔrɔ n b'i ɲɛsigi ɲuman na, walasa i bɛ se ka i ninu balo, ani i denkɛ Shelomo ninu balo.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "04176cf383202b003caf3b80cf1f7e173680039930a9c58fbd4e79f7b2c94485",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/1\/9-12.1791931665272.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sisan na, n b'i lasɔrɔ masara dɔ la, walasa i na ⟨את⟩ i yɛrɛ ka ni bali, ani ⟨את⟩ i denkɛ Sholomo (Solomɔ) ka ni bali.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Sisan"
+      "gloss": "sisan"
     },
     {
       "surface": "לכי",
@@ -43,37 +17,37 @@
     },
     {
       "surface": "איעצך",
-      "gloss": "n b'i ɲɛsigi"
+      "gloss": "n b'i lasɔrɔ"
     },
     {
       "surface": "נא",
-      "gloss": "n'a sɔrɔ"
+      "gloss": "i n'a fɔra"
     },
     {
       "surface": "עצה",
-      "gloss": "ɲɛsigi ɲuman na"
+      "gloss": "masara"
     },
     {
       "surface": "ומלטי",
-      "gloss": "walasa i bɛ se ka … balo"
+      "gloss": "bali"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "i ninu"
+      "marks": "i yɛrɛ ka ni"
     },
     {
       "surface": "נפשך",
-      "gloss": "i ninu"
+      "gloss": "i yɛrɛ ka ni"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "i denkɛ Shelomo ninu"
+      "marks": "i denkɛ Sholomo ka ni"
     },
     {
       "surface": "נפש",
-      "gloss": "ninu"
+      "gloss": "ni"
     },
     {
       "surface": "בנך",
@@ -81,9 +55,9 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Sholomo"
     }
   ],
-  "timestamp": "2026-10-13T22:47:45.309392028Z",
+  "timestamp": "2026-10-20T12:51:44.051604280Z",
   "model": "glm-5.3"
 }

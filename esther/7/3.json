@@ -5,32 +5,11 @@
   "book": "esther",
   "lang": "bm",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ni",
-      "rationale": "נפש = 'ni' (ninakili\/ka balo kɔrɔ), a tɛ 'soul' (diinɛ daɲɛ) ye."
-    },
-    {
-      "kind": "you",
-      "subject": "masakɛ",
-      "rationale": "Ester bɛ masakɛ la kuma kelen-kelen bɛɛ la."
-    }
-  ],
-  "translation": "Ester masakɛmuso jaabi ko: “Ni ne ye ɲumanya sɔrɔ i ɲɛ na, masakɛ, ani ni ale ka nyɛ masakɛ ye ⟨i yɛrɛ⟩, ne ka ni bɛna di ne ma ne ɲinili na, ani ne ka mɔgɔw ne ɲinini na.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9d62e02e402c6aecc4a05352fde1994e2656409ce4d0951d1ad1b8b26bd12b43",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/7\/1-4.1791945596768.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masamuso Ester ye jaabi ko: ni ne ye ɲɛli sɔrɔ i ɲɛw la, masakɛ, ani ni masakɛ b'a di, aw ka ne ka ni di ne ne ka ɲɛmɔgɔya la, ani ne ka jama ne ka weeli la.",
   "tokens": [
     {
       "surface": "ותען",
-      "gloss": "jaabi"
+      "gloss": "ye jaabi"
     },
     {
       "surface": "אסתר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "המלכה",
-      "gloss": "masakɛmuso"
+      "gloss": "masamuso"
     },
     {
       "surface": "ותאמר",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "מצאתי",
-      "gloss": "ne ye … sɔrɔ"
+      "gloss": "ne ye sɔrɔ"
     },
     {
       "surface": "חן",
-      "gloss": "ɲumanya"
+      "gloss": "ɲɛli"
     },
     {
       "surface": "בעיניך",
-      "gloss": "i ɲɛ"
+      "gloss": "i ɲɛw la"
     },
     {
       "surface": "המלך",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "על",
-      "gloss": "kan"
+      "gloss": ""
     },
     {
       "surface": "המלך",
@@ -78,15 +57,15 @@
     },
     {
       "surface": "טוב",
-      "gloss": "ka nyɛ"
+      "gloss": "b'a di"
     },
     {
       "surface": "תנתן",
-      "gloss": "bɛna di"
+      "gloss": "aw ka di"
     },
     {
       "surface": "לי",
-      "gloss": "ne ma"
+      "gloss": "ne"
     },
     {
       "surface": "נפשי",
@@ -94,17 +73,17 @@
     },
     {
       "surface": "בשאלתי",
-      "gloss": "ne ɲinili na"
+      "gloss": "ne ka ɲɛmɔgɔya la"
     },
     {
       "surface": "ועמי",
-      "gloss": "ani ne ka mɔgɔw"
+      "gloss": "ani ne ka jama"
     },
     {
       "surface": "בבקשתי",
-      "gloss": "ne ɲinini na"
+      "gloss": "ne ka weeli la"
     }
   ],
-  "timestamp": "2026-10-14T02:39:56.770403633Z",
+  "timestamp": "2026-10-20T13:50:08.646649381Z",
   "model": "glm-5.3"
 }

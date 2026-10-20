@@ -5,32 +5,11 @@
   "book": "proverbs",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בוצע בצע",
-      "rationale": "kɛ-daɲɛ ni tɔgɔ-daɲɛ ye kelen ye (boṣea\/baṣa); Bamanankan na sira\/nyɛmɛ yaablɛ nin bɛ tasuma."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ni",
-      "rationale": "נפש ye ni ye, a tɛ 'mɔgɔkow' ye."
-    }
-  ],
-  "translation": "O cogo de, min bɛ fɛ ka nyɛmɛ minɛ bɛɛ ka siraw ye: o bɛ ⟨את⟩ a tigiw ka ni ta.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0e6153acecaa17d94848af4fce10916f8da89ec58f02b98bb040025c45b26ca1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/1\/17-20.1791942101359.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nin cogo na, bɔtɔli ɲininkɛla ka siraw bɛɛ ye — bɔtɔli yɛrɛ bɛ ⟨את⟩ a tigimɛnw ka ni ta.",
   "tokens": [
     {
       "surface": "כן",
-      "gloss": "o cogo de"
+      "gloss": "Nin cogo na"
     },
     {
       "surface": "ארחות",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "בצע",
-      "gloss": "min bɛ fɛ ka minɛ"
+      "gloss": "bɔtɔli ɲininkɛla"
     },
     {
       "surface": "בצע",
-      "gloss": "nyɛmɛ"
+      "gloss": "bɔtɔli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a tigiw ka ni"
+      "marks": "ni (n'i tigimɛnw ka ni)"
     },
     {
       "surface": "נפש",
@@ -59,13 +38,13 @@
     },
     {
       "surface": "בעליו",
-      "gloss": "a tigiw"
+      "gloss": "a tigimɛnw"
     },
     {
       "surface": "יקח",
-      "gloss": "bɛ ta"
+      "gloss": "bɛ … ta"
     }
   ],
-  "timestamp": "2026-10-14T01:41:41.360700867Z",
+  "timestamp": "2026-10-20T15:28:44.087665780Z",
   "model": "glm-5.3"
 }

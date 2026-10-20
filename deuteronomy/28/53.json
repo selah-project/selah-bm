@@ -5,45 +5,19 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Isirayali",
-      "rationale": "Verse addresses Israel directly with second-person singular 'thou'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "i kono jiriden",
-      "rationale": "פרי בטנך 'fruit of your belly' — a construct chain rendered as belly + fruit."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מצור\/מצוק\/יציק",
-      "rationale": "Triple root צוק (narrow\/oppress) — siege, straitness, and distress share one root; flattened in Bambara."
-    }
-  ],
-  "translation": "I bɛna dun i kono jiriden, i denkɛw ni i denmusow sogo, minnu Yawe, i Ala, y'i di ⟨a ye⟩, gilila ni janya kɔnɔ, min na i tigibaga bɛ i juguya.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6a8f570ccf4f105af9ef5f71268a8659a6678ac49f797c601e71ed5bbd67ebe2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/28\/53-56.1791928299745.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I bɛna dun i bɛtɛngɛn ka den, i denmisenw ni i denmusow ka sogo, minnu ye Yawe i Elohim di ma i ye, dɛsɛdɛsɛli ani gɛlɛya kɔnɔ, min bɛna i jiya, i ka ɲɛnajɛtɔ.",
   "tokens": [
     {
       "surface": "ואכלת",
-      "gloss": "I bɛna dun"
+      "gloss": "i bɛna dun"
     },
     {
       "surface": "פרי",
-      "gloss": "jiriden"
+      "gloss": "den"
     },
     {
       "surface": "בטנך",
-      "gloss": "i kono"
+      "gloss": "i bɛtɛngɛn"
     },
     {
       "surface": "בשר",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "בניך",
-      "gloss": "i denkɛw"
+      "gloss": "i denmisenw"
     },
     {
       "surface": "ובנתיך",
-      "gloss": "i denmusow"
+      "gloss": "ani i denmusow"
     },
     {
       "surface": "אשר",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "i"
+      "gloss": "ma i ye"
     },
     {
       "surface": "יהוה",
@@ -75,23 +49,23 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "במצור",
-      "gloss": "gilila kɔnɔ"
+      "gloss": "dɛsɛdɛsɛli kɔnɔ"
     },
     {
       "surface": "ובמצוק",
-      "gloss": "janya kɔnɔ"
+      "gloss": "ani gɛlɛya kɔnɔ"
     },
     {
       "surface": "אשר",
-      "gloss": "min na"
+      "gloss": "min"
     },
     {
       "surface": "יציק",
-      "gloss": "bɛ i juguya"
+      "gloss": "bɛna jiya"
     },
     {
       "surface": "לך",
@@ -99,9 +73,9 @@
     },
     {
       "surface": "איבך",
-      "gloss": "i tigibaga"
+      "gloss": "i ka ɲɛnajɛtɔ"
     }
   ],
-  "timestamp": "2026-10-13T21:51:39.747745608Z",
+  "timestamp": "2026-10-20T13:43:17.456391763Z",
   "model": "glm-5.3"
 }

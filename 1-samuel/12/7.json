@@ -5,53 +5,28 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "וְאִשָּׁפְטָה",
-      "rationale": "Bayɛlɛmabaga bɛ ntam: 'ne bɛ aw la jira\/sariya kɛ aw la' (jɛkɛli) walima 'ne bɛ aw fɔ Yawe ɲɛfɛ' (kuma kɛli)"
-    },
-    {
-      "kind": "invitation",
-      "subject": "aw jɔ",
-      "rationale": "Dɔgɔtɔrɔ-kuma: aw jɔ — jama bɛ wele ka u yɛrɛ jɔ Yawe ɲɛfɛ"
-    },
-    {
-      "kind": "you",
-      "subject": "Isirayili jama",
-      "rationale": "Kuma_jira kelen-kelen bɛ jama la"
-    }
-  ],
-  "translation": "Sisan aw jɔ, ne bɛna aw ni ɲɔgɔn jira Yawe ɲɛfɛ, ⟨את⟩ Yawe ka tiɲɛ-kɛliw bɛɛ la minnu kɛ ⟨את⟩ aw ye ani ⟨את⟩ aw ka maw ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/12\/5-8.1791930176921.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sisan, aw jɔ aw yɛrɛ, walasa ne ka ⟨את⟩ aw ɲɛjɛ Yawe ɲɛ fɛ, ⟨את⟩ Yawe ka kɛliɲumanw bɛɛ, minnu o kɛra ⟨את⟩ ni aw ye, ni ⟨את⟩ aw faamaw ye.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "sisan"
+      "gloss": "Sisan"
     },
     {
       "surface": "התיצבו",
-      "gloss": "aw jɔ"
+      "gloss": "aw jɔ aw yɛrɛ"
     },
     {
       "surface": "ואשפטה",
-      "gloss": "ne bɛna aw ni ɲɔgɔn jira"
+      "gloss": "walasa ne ka … ɲɛjɛ"
     },
     {
       "surface": "אתכם",
-      "gloss": "aw ni ⟨את⟩"
+      "gloss": "⟨את⟩ aw",
+      "marks": "ɲɛjɛla keleden — Samuel ka ɲɛjɛli kelemin"
     },
     {
       "surface": "לפני",
-      "gloss": "ɲɛfɛ"
+      "gloss": "ɲɛ fɛ"
     },
     {
       "surface": "יהוה",
@@ -60,7 +35,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tiɲɛ-kɛliw bɛɛ"
+      "marks": "kɛliɲumanw bɛɛ"
     },
     {
       "surface": "כל",
@@ -68,11 +43,11 @@
     },
     {
       "surface": "צדקות",
-      "gloss": "tiɲɛ-kɛliw"
+      "gloss": "kɛliɲumanw"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yawe ka"
+      "gloss": "Yawe"
     },
     {
       "surface": "אשר",
@@ -80,21 +55,23 @@
     },
     {
       "surface": "עשה",
-      "gloss": "kɛ"
+      "gloss": "o kɛra"
     },
     {
       "surface": "אתכם",
-      "gloss": "aw ni ⟨את⟩"
+      "gloss": "⟨את⟩ ni aw ye",
+      "marks": "kɛliɲumanw minnu Yawe kɛra aw ye"
     },
     {
       "surface": "ואת",
-      "gloss": "ni ⟨את⟩"
+      "gloss": "⟨את⟩ ni",
+      "marks": "aw faamaw"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "aw ka maw"
+      "gloss": "aw faamaw"
     }
   ],
-  "timestamp": "2026-10-13T22:22:56.922613127Z",
+  "timestamp": "2026-10-20T12:59:51.539036043Z",
   "model": "glm-5.3"
 }

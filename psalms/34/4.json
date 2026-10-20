@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתי",
-      "rationale": "yan o ye 'et H854' ye (kɔfɛ-daɲɛ 'ni'), a tɛ direct-object taamasiyɛn H853 ye; ⟨את⟩ marara a nɔ na"
-    },
-    {
-      "kind": "invitation",
-      "subject": "aw",
-      "rationale": "weleli ni laseli daɲɛ 'ka kɛ ɲɔgɔn ye'"
-    }
-  ],
-  "translation": "Aw ye Yawe bonya jira ni ⟨את⟩ n ye, k'an bɔ a tɔgɔ sanfɛ ɲɔgɔnna.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/34\/1-4.1791940015323.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe bonya jira ⟨את⟩ ni an ye, k'an bɔ a tɔgɔ sanfɛ jɛkɛyɔrɔ kelen na.",
   "tokens": [
     {
       "surface": "גדלו",
-      "gloss": "aw ye … bonya jira"
+      "gloss": "bonya jira"
     },
     {
       "surface": "ליהוה",
@@ -38,11 +17,12 @@
     },
     {
       "surface": "אתי",
-      "gloss": "ni ⟨את⟩ n ye"
+      "gloss": "⟨את⟩ ni an ye",
+      "marks": "Yawe"
     },
     {
       "surface": "ונרוממה",
-      "gloss": "k'an bɔ sanfɛ"
+      "gloss": "k'an bɔ a tɔgɔ sanfɛ"
     },
     {
       "surface": "שמו",
@@ -50,9 +30,9 @@
     },
     {
       "surface": "יחדו",
-      "gloss": "ɲɔgɔnna"
+      "gloss": "jɛkɛyɔrɔ kelen na"
     }
   ],
-  "timestamp": "2026-10-14T01:06:55.324182213Z",
+  "timestamp": "2026-10-20T15:35:31.551857091Z",
   "model": "glm-5.3"
 }

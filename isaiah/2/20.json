@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "חפר פרות",
-      "rationale": "lit. 'diggers of holes' — burrowers, probably mole-rats; rendered suɲusunbagaw (mole-creatures), פרות folded into it."
-    },
-    {
-      "kind": "elision",
-      "subject": "פרות",
-      "rationale": "'holes' folded into the compound burrower-word; no separate Bambara slot."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אלילי\/אלילי",
-      "rationale": "the doubled 'idols of silver \/ idols of gold' kept as a parallel pair in Bambara."
-    }
-  ],
-  "translation": "O don la, hadamaden bɛna ⟨את⟩ a ka warigwɛ batofɛnw ni ⟨את⟩ a ka sanu batofɛnw bila, minnu o dilanna a ma walasa k'u la su sirila, ka b'u di suɲusunbagaw ni anwalejɛbagaw ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cebda9a6d076349863ad4898fc80ffda88c7d6f3e759fdfc17eb90b549e3951b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/2\/17-20.1791933325470.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O don na, hadamaden bɛna ⟨את⟩ a warigɛ batofɛnw ni ⟨את⟩ a sanu batofɛnw bɔ — minnu o dilan a yɛrɛ ma walasa k'a dugɛ ka u kɛɲɛ — u bɛna u bila kolobagaw ma ani su-fele-baganw ma.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "don la"
+      "gloss": "o don na"
     },
     {
       "surface": "ההוא",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ישליך",
-      "gloss": "bɛna ... bila"
+      "gloss": "bɛna … bɔ"
     },
     {
       "surface": "האדם",
@@ -52,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a ka warigwɛ batofɛnw"
+      "marks": "a warigɛ batofɛnw"
     },
     {
       "surface": "אלילי",
@@ -60,12 +34,12 @@
     },
     {
       "surface": "כספו",
-      "gloss": "a ka warigwɛ"
+      "gloss": "warigɛ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "a ka sanu batofɛnw"
+      "marks": "a sanu batofɛnw"
     },
     {
       "surface": "אלילי",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "זהבו",
-      "gloss": "a ka sanu"
+      "gloss": "sanu"
     },
     {
       "surface": "אשר",
@@ -81,29 +55,29 @@
     },
     {
       "surface": "עשו",
-      "gloss": "dilanna"
+      "gloss": "dilan"
     },
     {
       "surface": "לו",
-      "gloss": "a ma"
+      "gloss": "a yɛrɛ ma"
     },
     {
       "surface": "להשתחות",
-      "gloss": "walasa k'u la su sirila"
+      "gloss": "walasa k'a dugɛ ka kɛɲɛ"
     },
     {
       "surface": "לחפר",
-      "gloss": "suɲusunbagaw"
+      "gloss": "kolobagaw ma"
     },
     {
       "surface": "פרות",
-      "gloss": ""
+      "gloss": "kolow"
     },
     {
       "surface": "ולעטלפים",
-      "gloss": "ani anwalejɛbagaw"
+      "gloss": "su-fele-baganw ma"
     }
   ],
-  "timestamp": "2026-10-13T23:15:25.474060867Z",
+  "timestamp": "2026-10-20T14:27:33.670355263Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "sabu",
-      "rationale": "Hebrew joins the clauses by infinitive construct באהבת alone; Bambara needs the causal connector"
-    },
-    {
-      "kind": "you",
-      "subject": "to king Solomon",
-      "rationale": "the queen of Sheba blesses Yawe while addressing Solomon directly"
-    },
-    {
-      "kind": "invitation",
-      "subject": "blessing formula",
-      "rationale": "kana… dubu is a summons to bless, spoken to Solomon"
-    }
-  ],
-  "translation": "Yawe, i Ala (i ka Elohim), kana i dubu; min b'i la fɛ, ka bila i Yisraɛl (Izirayɛli) ka siginkuru kan; sabu Yawe bɛ kanuya kɛ Yisraɛl ⟨את⟩ ye danka bɛɛ, a bilala i masakɛ ye walasa ka sariya ni tiɲɛ-kɛcogo kɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9c899bbb411a0508bcf2e4f5f0c73c13e1985d326227a5f564dadd84415b0b00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/10\/9-12.1791931974849.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Duba na Yawe, i Elohim, min ye i yɛrɛ la diya, min b'i bila Israyɛl jenkena kan; sabu Yawe b'Israyɛl ⟨את⟩ kanuya domodugu bɛɛ, o de sabu a bilala i masakɛ ye, walasa ka sariya-sigi ani ɲuman-ɲumanya kɛ.",
   "tokens": [
     {
       "surface": "יהי",
-      "gloss": "kana"
+      "gloss": "n'a dubara na"
     },
     {
       "surface": "יהוה",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "ברוך",
-      "gloss": "dubu"
+      "gloss": "duba"
     },
     {
       "surface": "אשר",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "b'i la fɛ"
+      "gloss": "ye … la diya"
     },
     {
       "surface": "בך",
-      "gloss": "i la"
+      "gloss": "i yɛrɛ la"
     },
     {
       "surface": "לתתך",
-      "gloss": "ka bila i"
+      "gloss": "k'i bila"
     },
     {
       "surface": "על",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "כסא",
-      "gloss": "siginkuru"
+      "gloss": "jenkena"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraɛl"
+      "gloss": "Israyɛl"
     },
     {
       "surface": "באהבת",
-      "gloss": "kanuya kɛ"
+      "gloss": "kanuya sabu"
     },
     {
       "surface": "יהוה",
@@ -88,37 +62,37 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisraɛl"
+      "marks": "Israyɛl"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraɛl"
+      "gloss": "Israyɛl"
     },
     {
       "surface": "לעלם",
-      "gloss": "danka bɛɛ"
+      "gloss": "domodugu bɛɛ"
     },
     {
       "surface": "וישימך",
-      "gloss": "a bilala i"
+      "gloss": "a bilala i ye"
     },
     {
       "surface": "למלך",
-      "gloss": "masakɛ ye"
+      "gloss": "masakɛ"
     },
     {
       "surface": "לעשות",
-      "gloss": "walasa ka kɛ"
+      "gloss": "walasa ka … kɛ"
     },
     {
       "surface": "משפט",
-      "gloss": "sariya"
+      "gloss": "sariya-sigi"
     },
     {
       "surface": "וצדקה",
-      "gloss": "tiɲɛ-kɛcogo"
+      "gloss": "ɲuman-ɲumanya"
     }
   ],
-  "timestamp": "2026-10-13T22:52:54.852915653Z",
+  "timestamp": "2026-10-20T12:52:08.366366801Z",
   "model": "glm-5.3"
 }

@@ -5,62 +5,41 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "רע לי",
-      "rationale": "'ko gɛlɛya ne ma' — a bɛ kɛ wale-daɲɛ falen ye kumasen in kɔnɔ, a tɛ fɔ kokura"
-    },
-    {
-      "kind": "addition",
-      "subject": "a tɔgɔ",
-      "rationale": "שמו gloss bɛ ואבד kɔnɔ; sira nɔgɔya"
-    }
-  ],
-  "translation": "Ne ka tɛmɛlenw bɛ fɔ ko: don di don a bena sa, a tɔgɔ bena bɔ yɛrɛ la?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/41\/5-8.1791940145375.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nson bɛ i bɛnnɛ ifasirili: “Yala waati don min na a bɛna sa, a tɔgɔ bɛna bɔ <a kan>?”",
   "tokens": [
     {
       "surface": "אויבי",
-      "gloss": "ne ka tɛmɛlenw"
+      "gloss": "i bɛnnɛ ifasirili"
     },
     {
       "surface": "יאמרו",
-      "gloss": "bɛ fɔ ko"
+      "gloss": "bɛ fɔ"
     },
     {
       "surface": "רע",
-      "gloss": ""
+      "gloss": "ifasirili"
     },
     {
       "surface": "לי",
-      "gloss": ""
+      "gloss": "i kan"
     },
     {
       "surface": "מתי",
-      "gloss": "don di don"
+      "gloss": "waati don min na"
     },
     {
       "surface": "ימות",
-      "gloss": "a bena sa"
+      "gloss": "a bɛna sa"
     },
     {
       "surface": "ואבד",
-      "gloss": "a tɔgɔ bena bɔ yɛrɛ la"
+      "gloss": "bɛna bɔ a kan"
     },
     {
       "surface": "שמו",
-      "gloss": ""
+      "gloss": "a tɔgɔ"
     }
   ],
-  "timestamp": "2026-10-14T01:09:05.376524484Z",
+  "timestamp": "2026-10-20T15:36:23.288975033Z",
   "model": "glm-5.3"
 }

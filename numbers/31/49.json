@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "bm",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשאו את ראש",
-      "rationale": "Hebrew 'lift the head of' = to count\/muster; Bambara keeps the picture 'kun nɔ' (lift head)"
-    },
-    {
-      "kind": "measurement",
-      "subject": "census",
-      "rationale": "the officers report a head-count of the men of war with none missing"
-    },
-    {
-      "kind": "you",
-      "subject": "to Moses",
-      "rationale": "officers address Moshe directly with their report"
-    }
-  ],
-  "translation": "U ye Moshe (Musa) ko: i ka sumaw ye ⟨את⟩ kɛlɛkɛlaw ka kun nɔ, minnu bɛ an bolo la, ani mɔgɔ kelen si ma bɔn an bɛɛ la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f120b510b8b93621728eedec0fa6e379e813f4966449b92a71f336fa330bf3d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/31\/49-52.1791927233789.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ye Musa ko: “I denbaga nɔmɔgɔw ye ⟨את⟩ kɛlɛcɛw ka kun jati, minnu bɛ an bolo, ani mɔgɔ si ma bɔ an la.”",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -39,24 +13,24 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ye … ye"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe (Musa)"
+      "gloss": "Musa"
     },
     {
       "surface": "עבדיך",
-      "gloss": "i ka sumaw"
+      "gloss": "i denbaga nɔmɔgɔw"
     },
     {
       "surface": "נשאו",
-      "gloss": "nɔ"
+      "gloss": "jati"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kɛlɛkɛlaw ka kun"
+      "marks": "kɛlɛcɛw ka kun"
     },
     {
       "surface": "ראש",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "kɛlɛkɛlaw"
+      "gloss": "cɛw"
     },
     {
       "surface": "המלחמה",
@@ -76,25 +50,25 @@
     },
     {
       "surface": "בידנו",
-      "gloss": "an bolo la"
+      "gloss": "an bolo"
     },
     {
       "surface": "ולא",
-      "gloss": "ani"
+      "gloss": "ani … si"
     },
     {
       "surface": "נפקד",
-      "gloss": "ma bɔn"
+      "gloss": "bɔ"
     },
     {
       "surface": "ממנו",
-      "gloss": "a la"
+      "gloss": "an la"
     },
     {
       "surface": "איש",
-      "gloss": "mɔgɔ kelen"
+      "gloss": "mɔgɔ si"
     }
   ],
-  "timestamp": "2026-10-13T21:33:53.790236120Z",
+  "timestamp": "2026-10-20T15:24:34.528807665Z",
   "model": "glm-5.3"
 }

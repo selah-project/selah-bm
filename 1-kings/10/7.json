@@ -5,41 +5,15 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "the half was not told me",
-      "rationale": "tilen tɛrɔra ne ma — Hebrew ka tilen-fɔli, kuma sɛgɛsɛgɛli ye, literal tilen"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "minni-daɲɛ Bamanankan bɛ minnu don, o kɔnɔ אשר si-a-fɔli tɛ"
-    },
-    {
-      "kind": "you",
-      "subject": "Solomɔn",
-      "rationale": "Sabba bɛ a kumaw fɔ Solomɔn ma a yɛrɛ kan"
-    }
-  ],
-  "translation": "Ne ma kumaw la tigɛ fo ne nana, ne ka ɲɛw ye; anw, tilen tɛrɔra ne ma; i ye dɔnniya ni ɲuman fara kuma min ne mɛnra, o kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "16bc6228d1d334220e56b8a85afcb5b76a73bc9f5c6d8ce01aeac43850a2ac44",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/10\/5-8.1791932017240.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N t'kumaw kannaya fo ne nana, ani ne ɲɛw ye a ye; n'i y'a ye, ⟨u⟩ ma fɔ ne ye — tilancɛ; i ye hakilijagoya ani ɲumanya fara kuma min kan ne mɛnna la.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ani ne ma"
+      "gloss": "n tɛ"
     },
     {
       "surface": "האמנתי",
-      "gloss": "tigɛ la"
+      "gloss": "kannaya"
     },
     {
       "surface": "לדברים",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "⟨ye⟩"
     },
     {
       "surface": "באתי",
@@ -59,31 +33,31 @@
     },
     {
       "surface": "ותראינה",
-      "gloss": "ye"
+      "gloss": "ani … ye a ye"
     },
     {
       "surface": "עיני",
-      "gloss": "ne ka ɲɛw"
+      "gloss": "ne ɲɛw"
     },
     {
       "surface": "והנה",
-      "gloss": "anw"
+      "gloss": "n'i y'a ye"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "tɛ"
     },
     {
       "surface": "הגד",
-      "gloss": "tɛrɔra"
+      "gloss": "u ma fɔ"
     },
     {
       "surface": "לי",
-      "gloss": "ne ma"
+      "gloss": "ne"
     },
     {
       "surface": "החצי",
-      "gloss": "tilen"
+      "gloss": "tilancɛ"
     },
     {
       "surface": "הוספת",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "חכמה",
-      "gloss": "dɔnniya"
+      "gloss": "hakilijagoya"
     },
     {
       "surface": "וטוב",
-      "gloss": "ni ɲuman"
+      "gloss": "ani ɲumanya"
     },
     {
       "surface": "אל",
@@ -103,17 +77,17 @@
     },
     {
       "surface": "השמועה",
-      "gloss": "kuma min"
+      "gloss": "kuma"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "min"
     },
     {
       "surface": "שמעתי",
-      "gloss": "ne mɛnra"
+      "gloss": "ne mɛnna"
     }
   ],
-  "timestamp": "2026-10-13T22:53:37.251649446Z",
+  "timestamp": "2026-10-20T12:52:18.718565662Z",
   "model": "glm-5.3"
 }

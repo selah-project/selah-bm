@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "העדות",
-      "rationale": "'seere' (testimony) kɔrɔ: Tara ɲɛwala walima sariya-seere; KJV 'a ye seere di a ma' ka se kɛ 'layidu-seere' ye."
-    },
-    {
-      "kind": "substitution",
-      "subject": "וימשחהו",
-      "rationale": "'u ye tulu bila a kan' — Hebrew mashah kɔrɔ ye fɔli-tulu (anoint) ye."
-    },
-    {
-      "kind": "invitation",
-      "subject": "יחי המלך",
-      "rationale": "Jama ka weleli: 'Masakɛ ka balo!' — kuma min bɛ jama bɛɛ la."
-    }
-  ],
-  "translation": "U ye masakɛ den bɔ, u ye ⟨את⟩ masataga ni ⟨את⟩ seere bila a kan, u ye a kɛ masakɛ ye, Yehoyada ni a denw ye tulu bila a kan, u ko: Masakɛ ka balo!",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "47749a7c379c154603747ff8eec52c3c12bf3dc3f3c8cd627077cd0e11fc2abf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/23\/9-12.1791949304783.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ye ⟨את⟩ masakɛ den bɔ, u ye ⟨את⟩ dayaki ani ⟨את⟩ seere bila a kan, u ye a kɛ masakɛ ye, Yehoyada (Jehojada) ni a denw ye tulu bila a kan, u ko: Masakɛ ka balo!",
   "tokens": [
     {
       "surface": "ויוציאו",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "ויתנו",
-      "gloss": "u ye … bila"
+      "gloss": "u ye … bila a kan"
     },
     {
       "surface": "עליו",
@@ -61,15 +35,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "masataga"
+      "marks": "dayaki"
     },
     {
       "surface": "הנזר",
-      "gloss": "masataga"
+      "gloss": "dayaki"
     },
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "seere"
     },
     {
@@ -82,12 +56,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ a",
-      "marks": "a (masakɛ den)"
+      "gloss": "⟨את⟩",
+      "marks": "a (den min kɛra masakɛ ye)"
     },
     {
       "surface": "וימשחהו",
-      "gloss": "u ye tulu bila a kan"
+      "gloss": "ye tulu bila a kan"
     },
     {
       "surface": "יהוידע",
@@ -110,6 +84,6 @@
       "gloss": "masakɛ"
     }
   ],
-  "timestamp": "2026-10-14T03:41:44.785392050Z",
+  "timestamp": "2026-10-20T13:11:45.535728790Z",
   "model": "glm-5.3"
 }

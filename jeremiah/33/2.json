@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "o",
-      "rationale": "the suffix -הּ ('it') has no stated antecedent in the verse; most read the city\/earth from context, supplied as 'o'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "Yawe x3",
-      "rationale": "triple naming of Yawe frames the verse; kept verbatim"
-    }
-  ],
-  "translation": "Nin ko Yawe, min dilanna ⟨⟨את⟩⟩ o, Yawe min jɔlna o ka a labɛn, Yawe don a tɔgɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6e9424f2436b8af6f93f3e6d07be096fae60270eb6dc877ead7aedcccc63f7fb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/33\/1-4.1791935892121.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nin cogo na Yawe ko — Yawe, ⟨a⟩ dilabaga, Yawe, ⟨a⟩ jɔla, wal' ⟨a⟩ lasigi — Yawe de ye ⟨a⟩ tɔgɔ ye.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "nin ko"
+      "gloss": "nin cogo na"
     },
     {
       "surface": "אמר",
-      "gloss": "kuma"
+      "gloss": "ko"
     },
     {
       "surface": "יהוה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "dilanna"
+      "gloss": "dilabaga"
     },
     {
       "surface": "יהוה",
@@ -50,16 +29,16 @@
     },
     {
       "surface": "יוצר",
-      "gloss": "jɔlna"
+      "gloss": "jɔla"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "o (duguba o kɔrɔfɔli kɔnɔ)"
+      "marks": "lasigili"
     },
     {
       "surface": "להכינה",
-      "gloss": "ka a labɛn"
+      "gloss": "wal' a lasigi"
     },
     {
       "surface": "יהוה",
@@ -70,6 +49,6 @@
       "gloss": "a tɔgɔ"
     }
   ],
-  "timestamp": "2026-10-13T23:58:12.122368742Z",
+  "timestamp": "2026-10-20T14:41:46.362397376Z",
   "model": "glm-5.3"
 }

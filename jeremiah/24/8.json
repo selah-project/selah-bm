@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתן",
-      "rationale": "'I will give' — here 'give over to calamity' per context (v.9), kept as 'di' with the giving sense intact"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כה...כן",
-      "rationale": "'thus...so' pairing mirrors v.5's good-figs formula inverted for the bad figs, chiastic symmetry preserved"
-    }
-  ],
-  "translation": "Ni teɲe jɔnjɔnw minnu tɛ se ka dunu, sabu u ka gɛlɛya ka bon, nin cogo min na Yawe ko, nin na na n bɛ Tsidikiyahu, Yuda masakɛ, ni ⟨את⟩ a ka satinɛmɔgɔw, ni ⟨את⟩ Yerushalayim o fitinin, minnu to dugukolo in na, ani minnu bɛ dugukolo lamɛn Mitsrayim, ni diya-sira filɛ ni korɔ kɔrɔ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e587f57d315a69bf8baad981e5b9e3a62b7747c442afb814f99996c4f3b7a4ab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/24\/5-8.1791935645808.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni debe jɔnw minnu tɛ se ka dun sabu u jɔn ye — sabu Yawe ye ko: nin cogo min na, nin de na nin bɛ ⟨את⟩ Tsedekiyahu min ye Yuda masakɛ ye, ni ⟨את⟩ a ka sɔrɔdala-cɛw, ni ⟨את⟩ Yerushalayim ka mɔgɔ minnu mɔra, minnu bɛ dugukolo in na, ani minnu bɛ sigi Mitsrayim dugukolo la, di.",
   "tokens": [
     {
       "surface": "וכתאנים",
-      "gloss": "ni teɲew i n'a fɔ"
+      "gloss": "ni debe jɔnw"
     },
     {
       "surface": "הרעות",
-      "gloss": "jɔnjɔn ninnu"
+      "gloss": "jɔnw"
     },
     {
       "surface": "אשר",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "tɛ se"
+      "gloss": "tɛ"
     },
     {
       "surface": "תאכלנה",
-      "gloss": "ka dunu"
+      "gloss": "se ka dun"
     },
     {
       "surface": "מרע",
-      "gloss": "gɛlɛya sabu"
+      "gloss": "sabu u jɔn ye"
     },
     {
       "surface": "כי",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "nin cogo min na"
+      "gloss": "ko"
     },
     {
       "surface": "אמר",
-      "gloss": "ko"
+      "gloss": "ye … fɔ"
     },
     {
       "surface": "יהוה",
@@ -70,20 +49,20 @@
     },
     {
       "surface": "כן",
-      "gloss": "nin na"
+      "gloss": "nin cogo min na"
     },
     {
       "surface": "אתן",
-      "gloss": "n bɛ di"
+      "gloss": "nin bɛ … di"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tsidikiyahu"
+      "marks": "Tsedekiyahu, Yuda masakɛ"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Tsidikiyahu"
+      "gloss": "Tsedekiyahu"
     },
     {
       "surface": "מלך",
@@ -96,20 +75,20 @@
     {
       "surface": "ואת",
       "gloss": "ni ⟨את⟩",
-      "marks": "a ka satinɛmɔgɔw"
+      "marks": "a ka sɔrɔdala-cɛw"
     },
     {
       "surface": "שריו",
-      "gloss": "a ka satinɛmɔgɔw"
+      "gloss": "a ka sɔrɔdala-cɛw"
     },
     {
       "surface": "ואת",
       "gloss": "ni ⟨את⟩",
-      "marks": "Yerushalayim o fitinin"
+      "marks": "Yerushalayim ka mɔgɔ minnu mɔra"
     },
     {
       "surface": "שארית",
-      "gloss": "o fitinin"
+      "gloss": "mɔgɔ minnu mɔra"
     },
     {
       "surface": "ירושלם",
@@ -117,7 +96,7 @@
     },
     {
       "surface": "הנשארים",
-      "gloss": "minnu to"
+      "gloss": "minnu bɛ to"
     },
     {
       "surface": "בארץ",
@@ -129,7 +108,7 @@
     },
     {
       "surface": "והישבים",
-      "gloss": "minnu bɛ biti"
+      "gloss": "ani minnu bɛ sigi"
     },
     {
       "surface": "בארץ",
@@ -140,6 +119,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-10-13T23:54:05.809949144Z",
+  "timestamp": "2026-10-20T14:38:33.425673923Z",
   "model": "glm-5.3"
 }

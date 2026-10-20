@@ -5,52 +5,31 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 65,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ji-ngamaw",
-      "rationale": "נוראות 'awesome\/terrible things': 'wondrous deeds' (JPS) vs 'terrible things' (KJV); Bambara 'ji-ngamaw' (astonishing-things) chosen"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dagaya",
-      "rationale": "מבטח is 'refuge\/security'; rendered 'dagaya' (trust), losing the concrete refuge image"
-    }
-  ],
-  "translation": "I bɛ an ka yeli Ala, ɲɛsumuya la, ye an ye ni ji-ngamaw ye; i ye dugukolo fan bɛɛ ni kɔgɔji surunyaw ka dagaya ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/65\/5-8.1791940476712.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fɛn sirannenw ye tiɲɛ na, i bɛna an ɲini, Elohim, an ka yeli tigi; ⟨i⟩ ye dugukolo kunw bɛɛ ni kɔgɔji soronw ka sigilen-yɔrɔ ye.",
   "tokens": [
     {
       "surface": "נוראות",
-      "gloss": "ji-ngamaw"
+      "gloss": "fɛn sirannenw"
     },
     {
       "surface": "בצדק",
-      "gloss": "ɲɛsumuya la"
+      "gloss": "tiɲɛ na"
     },
     {
       "surface": "תעננו",
-      "gloss": "i bɛ … ye an ye"
+      "gloss": "i bɛna an ɲini"
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישענו",
-      "gloss": "an ka yeli"
+      "gloss": "an ka yeli tigi"
     },
     {
       "surface": "מבטח",
-      "gloss": "dagaya"
+      "gloss": "sigilen-yɔrɔ"
     },
     {
       "surface": "כל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "קצוי",
-      "gloss": "fan"
+      "gloss": "kunw"
     },
     {
       "surface": "ארץ",
@@ -66,13 +45,13 @@
     },
     {
       "surface": "וים",
-      "gloss": "kɔgɔji"
+      "gloss": "ni kɔgɔji"
     },
     {
       "surface": "רחקים",
-      "gloss": "surunyaw"
+      "gloss": "soronw"
     }
   ],
-  "timestamp": "2026-10-14T01:14:36.712921405Z",
+  "timestamp": "2026-10-20T15:37:49.774563830Z",
   "model": "glm-5.3"
 }

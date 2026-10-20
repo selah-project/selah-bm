@@ -5,36 +5,15 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נכר",
-      "rationale": "KJV\/JPS 'delivered' (minɛ); YLT 'made known' — נכר kɔrɔ fɔlɔ ye 'ka ye ka dɔn' ye"
-    },
-    {
-      "kind": "elision",
-      "subject": "לבוא",
-      "rationale": "'ka don' daɲɛ farala נסגר minɛli kɔrɔ la Bamanankan na, a yɛrɛ tɛ to daɲɛ kelen ye"
-    }
-  ],
-  "translation": "Mɔgɔw ye Shawul fɔ ko Dawid naana Kelila. Shawul ko: Elohim ye ⟨את⟩ ⟨a⟩ minɛ ne bolo, sabu a ye a yɛrɛ da dugu kɔnɔ min bɛ ni dabaw ni kɔlɔ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f765b91ec771635750517e5b559e3ada8496408aab9c43e04f844148f249c2e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/23\/5-8.1791930569536.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kuma in tira Sha'u (Sawulo) ma ko Dawid (Dawuda) nana Keila. Sha'u ko: Elohim ye ⟨את⟩ a di ne bolo, sabu a datugunen don, ka don dugu kɔnɔ min bɛ ni da ni bɔliti ye.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "Mɔgɔw ye ... fɔ"
+      "gloss": "kuma in tira… ma"
     },
     {
       "surface": "לשאול",
-      "gloss": "Shawul"
+      "gloss": "Sha'u ma"
     },
     {
       "surface": "כי",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "naana"
+      "gloss": "nana"
     },
     {
       "surface": "דוד",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "קעילה",
-      "gloss": "Kelila"
+      "gloss": "Keila"
     },
     {
       "surface": "ויאמר",
@@ -58,16 +37,16 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Shawul"
+      "gloss": "Sha'u"
     },
     {
       "surface": "נכר",
-      "gloss": "minɛ"
+      "gloss": "di"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨a⟩",
-      "marks": "a (Dawid)"
+      "gloss": "⟨את⟩",
+      "marks": "a (Dawid, Elohim nɔfɛ)"
     },
     {
       "surface": "אלהים",
@@ -83,25 +62,25 @@
     },
     {
       "surface": "נסגר",
-      "gloss": "a ye a yɛrɛ da ... kɔnɔ"
+      "gloss": "datugunen don"
     },
     {
       "surface": "לבוא",
-      "gloss": ""
+      "gloss": "ka don"
     },
     {
       "surface": "בעיר",
-      "gloss": "dugu"
+      "gloss": "dugu kɔnɔ"
     },
     {
       "surface": "דלתים",
-      "gloss": "dabaw"
+      "gloss": "da"
     },
     {
       "surface": "ובריח",
-      "gloss": "kɔlɔ"
+      "gloss": "bɔliti"
     }
   ],
-  "timestamp": "2026-10-13T22:29:29.540754293Z",
+  "timestamp": "2026-10-20T13:02:59.786667107Z",
   "model": "glm-5.3"
 }

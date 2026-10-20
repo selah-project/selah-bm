@@ -5,32 +5,11 @@
   "book": "esther",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "tun",
-      "rationale": "Hebrew participle ראי and הישבים mark ongoing past; Bambara past marker tun supplied"
-    },
-    {
-      "kind": "measurement",
-      "subject": "wolonfila",
-      "rationale": "verse counts the seven princes of Paras and Madi and lists their names"
-    }
-  ],
-  "translation": "Minnu tun ye a ka surunyɔrɔw ye: Karshena, Shetar, Admata, Tarshish, Meres, Marsena ni Memukan — Paras ni Madi masakɛcɛ wolonfila, minnu tun bɛ ye masakɛ ɲɛ, ani minnu sigilen tun ye fɔlɔ masakɛya kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c3282d5573f1abe19c5e41c82d5043860c352c2245131392b5ce5664eff82358",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/1\/14-15.1791951424752.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Min tun surunra a la ye: Karshena (Karsena), Shetar, Admata, Tarshish, Mere, Marsena, ni Memukan — olu ye Paras (Peresi) ani Madi (Medi) masakɛdenniw diran-na-nan, minnu ye masakɛ ka ɲɛda ye ani minnu tun sigida fɔlɔ masala kɔnɔ.",
   "tokens": [
     {
       "surface": "והקרב",
-      "gloss": "ani minnu tun ye a ka surunyɔrɔw ye"
+      "gloss": "min tun surunra a la ye"
     },
     {
       "surface": "אליו",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "כרשנא",
-      "gloss": "Karshena"
+      "gloss": "Karshena (Karsena)"
     },
     {
       "surface": "שתר",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "מרס",
-      "gloss": "Meres"
+      "gloss": "Mere"
     },
     {
       "surface": "מרסנא",
@@ -66,35 +45,35 @@
     },
     {
       "surface": "שבעת",
-      "gloss": "wolonfila"
+      "gloss": "diran-na-nan"
     },
     {
       "surface": "שרי",
-      "gloss": "masakɛcɛ"
+      "gloss": "masakɛdenniw"
     },
     {
       "surface": "פרס",
-      "gloss": "Paras"
+      "gloss": "Paras (Peresi)"
     },
     {
       "surface": "ומדי",
-      "gloss": "ani Madi"
+      "gloss": "ani Madi (Medi)"
     },
     {
       "surface": "ראי",
-      "gloss": "minnu tun bɛ ye"
+      "gloss": "minnu ye … ye"
     },
     {
       "surface": "פני",
-      "gloss": "ɲɛ"
+      "gloss": "ɲɛda"
     },
     {
       "surface": "המלך",
-      "gloss": "masakɛ ta"
+      "gloss": "masakɛ ka"
     },
     {
       "surface": "הישבים",
-      "gloss": "minnu sigilen tun ye"
+      "gloss": "minnu tun sigida"
     },
     {
       "surface": "ראשנה",
@@ -102,9 +81,9 @@
     },
     {
       "surface": "במלכות",
-      "gloss": "masakɛya kɔnɔ"
+      "gloss": "masala kɔnɔ"
     }
   ],
-  "timestamp": "2026-10-14T04:17:04.752759804Z",
+  "timestamp": "2026-10-20T13:49:10.098719331Z",
   "model": "glm-5.3"
 }

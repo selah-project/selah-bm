@@ -5,73 +5,47 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "kalo wɔlɔ, tile tan-ni-duuru",
-      "rationale": "The verse fixes a festival date: eighth month, fifteenth day — a copy of Judah's feast shifted a month."
-    },
-    {
-      "kind": "crux",
-      "subject": "a nana sarakabɔlan kan",
-      "rationale": "ויעל על המזבח 'he went up on the altar': KJV 'offered upon the altar'; the literal ascent rendered."
-    },
-    {
-      "kind": "substitution",
-      "subject": "misikuraw",
-      "rationale": "עגלים 'calves\/young bulls' rendered 'misikuraw' (young cattle); the gold of 12:28 is not repeated here."
-    }
-  ],
-  "translation": "Yarobawam ye donba dilan kalo wɔlɔ na, kalo tile tan-ni-duuru don la, i n'a fɔ donba min bɛ Yuda (Zuda) ye; a nana sarakabɔlan kan. O cogo le a kɛlen na Bet-El (Beteli): walasa ka sara misikuraw ma minnu ye u yɛrɛ dilan; a yeli ⟨את⟩ sanfeyɔrɔw sarakalasebagaw ɔ jɔ Bet-El, minnu ye u yɛrɛ dilan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2be6b2ec286fa3886cd53339650ae541629007b54a4e34046fceac35f12437fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/12\/29-32.1791932187898.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yarobeam ye seli da kalo seginnan na, don tan-ni-duuru don kalo la, i n'a fɔ seli min Yehuda; a taara sarakabɔlan kan. O cogo kelen a ye o kɛ Bɛt-El (Bet-El) na, ka saraka kɛ misidenw ma minnu ye a dilan; kabɛ a ye ⟨את⟩ bamaw ka sarakalasebagaw sigi Bɛt-El, minnu ye a dilan.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "a ye … dilan"
+      "gloss": "ye … da"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yarobawam"
+      "gloss": "Yarobeam"
     },
     {
       "surface": "חג",
-      "gloss": "donba"
+      "gloss": "seli"
     },
     {
       "surface": "בחדש",
-      "gloss": "kalo … la"
+      "gloss": "kalo … na"
     },
     {
       "surface": "השמיני",
-      "gloss": "wɔlɔ"
+      "gloss": "seginnan"
     },
     {
       "surface": "בחמשה",
-      "gloss": "duuru"
+      "gloss": "tan-ni…"
     },
     {
       "surface": "עשר",
-      "gloss": "tan-ni-…"
+      "gloss": "…duuru"
     },
     {
       "surface": "יום",
-      "gloss": "tile\/don"
+      "gloss": "don"
     },
     {
       "surface": "לחדש",
-      "gloss": "kalo"
+      "gloss": "kalo la"
     },
     {
       "surface": "כחג",
-      "gloss": "i n'a fɔ donba"
+      "gloss": "i n'a fɔ seli"
     },
     {
       "surface": "אשר",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "ביהודה",
-      "gloss": "Yuda"
+      "gloss": "Yehuda"
     },
     {
       "surface": "ויעל",
-      "gloss": "a nana … sanfe"
+      "gloss": "taara"
     },
     {
       "surface": "על",
@@ -95,27 +69,27 @@
     },
     {
       "surface": "כן",
-      "gloss": "o cogo"
+      "gloss": "o cogo kelen"
     },
     {
       "surface": "עשה",
-      "gloss": "a kɛlen na"
+      "gloss": "kɛ"
     },
     {
       "surface": "בבית",
-      "gloss": "Bet-El"
+      "gloss": "Bɛt-El"
     },
     {
       "surface": "אל",
-      "gloss": "El"
+      "gloss": "Bɛt-El"
     },
     {
       "surface": "לזבח",
-      "gloss": "walasa ka sara"
+      "gloss": "ka saraka kɛ"
     },
     {
       "surface": "לעגלים",
-      "gloss": "misikuraw"
+      "gloss": "misidenw ma"
     },
     {
       "surface": "אשר",
@@ -123,24 +97,24 @@
     },
     {
       "surface": "עשה",
-      "gloss": "u yɛrɛ dilan"
+      "gloss": "dilan"
     },
     {
       "surface": "והעמיד",
-      "gloss": "a yeli … ɔ jɔ"
+      "gloss": "ye … sigi"
     },
     {
       "surface": "בבית",
-      "gloss": "Bet-El"
+      "gloss": "Bɛt-El"
     },
     {
       "surface": "אל",
-      "gloss": "El"
+      "gloss": "Bɛt-El"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sarakalasebagaw"
+      "marks": "bamaw ka sarakalasebagaw"
     },
     {
       "surface": "כהני",
@@ -148,7 +122,7 @@
     },
     {
       "surface": "הבמות",
-      "gloss": "sanfeyɔrɔw"
+      "gloss": "bamaw"
     },
     {
       "surface": "אשר",
@@ -156,9 +130,9 @@
     },
     {
       "surface": "עשה",
-      "gloss": "u yɛrɛ dilan"
+      "gloss": "dilan"
     }
   ],
-  "timestamp": "2026-10-13T22:56:27.908121142Z",
+  "timestamp": "2026-10-20T12:53:44.636360437Z",
   "model": "glm-5.3"
 }

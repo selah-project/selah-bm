@@ -5,37 +5,11 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨Ala ye⟩",
-      "rationale": "Bambara needs the copula ye; Hebrew has no verb"
-    },
-    {
-      "kind": "crux",
-      "subject": "i yɛrɛ",
-      "rationale": "אתה הוא emphatic 'you, even you' — 'you alone are God' (JPS) vs plain 'you are God'"
-    },
-    {
-      "kind": "you",
-      "subject": "Dawid ka maasi Yawe fɛ",
-      "rationale": "direct address to Yawe continues"
-    }
-  ],
-  "translation": "Sisan, Yawe, i yɛrɛ ye ⟨Ala⟩ ye, ani i yɛrɛ ye nin ɲuman in fɔ i sofa kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "772674a1de46f0e0db15611cbdbb1ffce08e712ce12218ad5f6fb6f927de9ca4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/17\/25-27.1791948090042.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Min sisan, Yawe, i ye Elohim de ye, i y'i fɔ i denbagan kan nin jbɔya kanuya in kan.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "sisan"
+      "gloss": "Min sisan"
     },
     {
       "surface": "יהוה",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "yɛrɛ"
+      "gloss": "de"
     },
     {
       "surface": "האלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "ותדבר",
-      "gloss": "i yɛrɛ ye… fɔ"
+      "gloss": "i y'i fɔ"
     },
     {
       "surface": "על",
@@ -63,17 +37,17 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "i sofa"
+      "gloss": "i denbagan kan"
     },
     {
       "surface": "הטובה",
-      "gloss": "ɲuman"
+      "gloss": "kanuya"
     },
     {
       "surface": "הזאת",
       "gloss": "nin"
     }
   ],
-  "timestamp": "2026-10-14T03:21:30.043058032Z",
+  "timestamp": "2026-10-20T12:46:31.134607663Z",
   "model": "glm-5.3"
 }

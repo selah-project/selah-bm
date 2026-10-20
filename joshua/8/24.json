@@ -5,49 +5,28 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "'npan da la' — pe da fɔcogo; 'edge of the sword' ye Heburu ka laada kuma ye"
-    },
-    {
-      "kind": "elision",
-      "subject": "ויהי",
-      "rationale": "wayyiqtol jɛgɛnsira bɛ Bamanankan nɔ 'kɔrɔya ko' la — daɲɛsurun de ye a ye"
-    }
-  ],
-  "translation": "Kɔrɔya ko: Israyel labanennu to Ayi jɔyɔrɔbɛɛ bɔli foro kɔnɔ, suworo min kɔnɔ u ye u lolili, ka bɛɛ bɔ npan da la ka ban na. Israyel bɛɛ ye segin Ayi ma, ka bɔ ⟨את⟩ a npan da la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "217ed01935e297e4d2c61568aa6c5c92193d3b6d89c271388dcc6a24c3346513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/8\/21-24.1791928735399.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A kɛra cogo min na: ni Yisrayɛl banra ⟨את⟩ Hai (Hai) ka mɔgɔsigidɛnw bɛɛ faga la, foro la ani yɔrɔ jɔlen la, min na u ye u tugu, ani u bɛɛ bilala npan da la fo u banra, Yisrayɛl bɛɛ tun na Hai ma, ka bɔ ⟨את⟩ o npan da la.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kɔrɔya ko"
+      "gloss": "A kɛra cogo min na"
     },
     {
       "surface": "ככלות",
-      "gloss": "labanennu to"
+      "gloss": "ni … banra"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Yisrayɛl"
     },
     {
       "surface": "להרג",
-      "gloss": "bɔli"
+      "gloss": "faga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jɔyɔrɔbɛɛ"
+      "marks": "mɔgɔsigidɛnw bɛɛ"
     },
     {
       "surface": "כל",
@@ -55,27 +34,27 @@
     },
     {
       "surface": "ישבי",
-      "gloss": "jɔyɔrɔbɛɛ"
+      "gloss": "mɔgɔsigidɛnw"
     },
     {
       "surface": "העי",
-      "gloss": "Ayi"
+      "gloss": "Hai"
     },
     {
       "surface": "בשדה",
-      "gloss": "foro kɔnɔ"
+      "gloss": "foro la"
     },
     {
       "surface": "במדבר",
-      "gloss": "suworo kɔnɔ"
+      "gloss": "yɔrɔ jɔlen la"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min na"
     },
     {
       "surface": "רדפום",
-      "gloss": "u ye u lolili"
+      "gloss": "u ye u tugu"
     },
     {
       "surface": "בו",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "ויפלו",
-      "gloss": "ka bɔ"
+      "gloss": "u bilala"
     },
     {
       "surface": "כלם",
@@ -103,11 +82,11 @@
     },
     {
       "surface": "תמם",
-      "gloss": "ka ban na"
+      "gloss": "u banra"
     },
     {
       "surface": "וישבו",
-      "gloss": "u ye segin"
+      "gloss": "tun na"
     },
     {
       "surface": "כל",
@@ -115,11 +94,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Yisrayɛl"
     },
     {
       "surface": "העי",
-      "gloss": "Ayi ma"
+      "gloss": "Hai ma"
     },
     {
       "surface": "ויכו",
@@ -127,8 +106,8 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ a",
-      "marks": "a (Ayi dugu)"
+      "gloss": "⟨את⟩",
+      "marks": "Hai (duguba)"
     },
     {
       "surface": "לפי",
@@ -139,6 +118,6 @@
       "gloss": "npan"
     }
   ],
-  "timestamp": "2026-10-13T21:58:55.401610749Z",
+  "timestamp": "2026-10-20T14:58:45.751985125Z",
   "model": "glm-5.3"
 }

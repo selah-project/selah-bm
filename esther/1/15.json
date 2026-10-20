@@ -5,37 +5,11 @@
   "book": "esther",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ביד הסריסים",
-      "rationale": "'ni saracasebagaw bolo' (by the hand of the eunuchs) vs 'by the commission of the eunuchs' — literal hand kept"
-    },
-    {
-      "kind": "you",
-      "subject": "kunnafoni ɲinini",
-      "rationale": "king's question addressed to the wise men: what to do with Washti"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הסריסים",
-      "rationale": "rendered saracasebagaw (eunuchs), court officials of the women's quarters"
-    }
-  ],
-  "translation": "Sariya la, mun na kɛ ni masakɛmuso Washti ye, sabu a ma kɛ masakɛ Axashverosh ka kuma ⟨את⟩ ye ni saracasebagaw bolo?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c3282d5573f1abe19c5e41c82d5043860c352c2245131392b5ce5664eff82358",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/1\/14-15.1791951424752.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sariya kunbɛn, mun bɛ se ka kɛ Wasti masamuso (Vasti) la, sabu a ma kɛ ⟨את⟩ masakɛ Ahashuerosh (Kserkisi) ka kuma-sɛbɛn, min bɛ to cidenbalenw bolo fɛ?",
   "tokens": [
     {
       "surface": "כדת",
-      "gloss": "sariya la"
+      "gloss": "sariya kunbɛn"
     },
     {
       "surface": "מה",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "na kɛ"
+      "gloss": "kɛ"
     },
     {
       "surface": "במלכה",
-      "gloss": "ni masakɛmuso Washti ye"
+      "gloss": "masamuso la"
     },
     {
       "surface": "ושתי",
-      "gloss": "Washti"
+      "gloss": "Wasti"
     },
     {
       "surface": "על",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "a"
+      "gloss": "min"
     },
     {
       "surface": "לא",
@@ -72,11 +46,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "masakɛ ka kuma"
+      "marks": "masakɛ ka kuma-sɛbɛn"
     },
     {
       "surface": "מאמר",
-      "gloss": "kuma"
+      "gloss": "kuma-sɛbɛn"
     },
     {
       "surface": "המלך",
@@ -84,17 +58,17 @@
     },
     {
       "surface": "אחשורוש",
-      "gloss": "Axashverosh"
+      "gloss": "Ahashuerosh"
     },
     {
       "surface": "ביד",
-      "gloss": "ni ... bolo"
+      "gloss": "bolo fɛ"
     },
     {
       "surface": "הסריסים",
-      "gloss": "saracasebagaw"
+      "gloss": "cidenbalenw"
     }
   ],
-  "timestamp": "2026-10-14T04:17:04.753017887Z",
+  "timestamp": "2026-10-20T13:48:46.817565261Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "dating",
-      "rationale": "Verse fixes the word by two regnal-year reckonings: tenth of Tsidikiyahu, eighteenth of Nevukadretsari."
-    },
-    {
-      "kind": "substitution",
-      "subject": "היא",
-      "rationale": "Hebrew emphatic pronoun 'she\/it is' rendered by Bamanankan focus particle de with o san."
-    },
-    {
-      "kind": "addition",
-      "subject": "ye",
-      "rationale": "Copula ye supplied for the year-equation clause, which Hebrew states by pronoun alone."
-    }
-  ],
-  "translation": "Kuma min na Yirmeyahu (Yeremiya) ma ka bɔ ⟨את⟩ Yawe fɛ, san tananan na Tsidikiyahu (Sedekiya), Yuda masakɛ, la — o san de ye san tan ni segidu ye Nevukadretsari (Nabukodonosoro) la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c5ac7d8e27ee2320ca5fd7b32c8d475e3591a5e333086d90052dca9e63c71fa1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/32\/1-4.1791935903431.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kuma min na Yirmiyahu (Yeremiya) ma, ka bɔ ⟨את⟩ Yawe fɛ, san tannanan na Tsidkiyahu (Sedekiya), Yehuda masakɛ sanɔgɔma; o san ye tan-ni-segi san ye Nebukadretsar (Nebukadnezɛr) fɛ.",
   "tokens": [
     {
       "surface": "הדבר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "na kɛ"
+      "gloss": "na … ma"
     },
     {
       "surface": "אל",
@@ -51,11 +25,12 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmeyahu"
+      "gloss": "Yirmiyahu"
     },
     {
       "surface": "מאת",
-      "gloss": "bɔ ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ka bɔ … fɛ (Yawe)"
     },
     {
       "surface": "יהוה",
@@ -67,11 +42,11 @@
     },
     {
       "surface": "העשרית",
-      "gloss": "tananan"
+      "gloss": "tannanan"
     },
     {
       "surface": "לצדקיהו",
-      "gloss": "Tsidikiyahu … la"
+      "gloss": "Tsidkiyahu"
     },
     {
       "surface": "מלך",
@@ -79,23 +54,23 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yuda"
+      "gloss": "Yehuda"
     },
     {
       "surface": "היא",
-      "gloss": "de"
+      "gloss": "o san ye … ye"
     },
     {
       "surface": "השנה",
-      "gloss": "o san"
+      "gloss": "san"
     },
     {
       "surface": "שמנה",
-      "gloss": "segidu"
+      "gloss": "segi"
     },
     {
       "surface": "עשרה",
-      "gloss": "tan"
+      "gloss": "tan-ni"
     },
     {
       "surface": "שנה",
@@ -103,9 +78,9 @@
     },
     {
       "surface": "לנבוכדראצר",
-      "gloss": "Nevukadretsari la"
+      "gloss": "Nebukadretsar"
     }
   ],
-  "timestamp": "2026-10-13T23:58:23.432700924Z",
+  "timestamp": "2026-10-20T14:41:20.896077750Z",
   "model": "glm-5.3"
 }

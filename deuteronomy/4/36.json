@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kalansen",
-      "rationale": "ליסרך covers discipline and instruction; Bambara 'kalansen' (instruction\/correction) holds both."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨a n'a⟩",
-      "rationale": "Bambara needs the object pronoun before 'kumaw' where Hebrew relies on the verb's suffix."
-    }
-  ],
-  "translation": "A ye i ye ⟨את⟩ a ka kan minan ka bɔ sankolow na, walasa k'i kalansen; ani dugukolo kan, a ye ⟨את⟩ a ka tasuma bonya ye i ma, ani i ye a n'a kumaw minan ka bɔ tasuma kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cfdeedfa4b2e5dc6cdec02ecb1a8524350bf5a06077d20111b4287955c9943dd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/4\/33-36.1791927619080.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bɔ sankolow la, a y'i to i mɛn ⟨את⟩ a ka kan, walasa k'i kalan; dugukolo kan, a y'i to i ye ⟨את⟩ a ka tasuma bonba, ani a kumaw i y'u mɛn tasuma cɛmancɛ na.",
   "tokens": [
     {
       "surface": "מן",
-      "gloss": "ka bɔ … na"
+      "gloss": "bɔ … la"
     },
     {
       "surface": "השמים",
@@ -38,12 +17,12 @@
     },
     {
       "surface": "השמיעך",
-      "gloss": "a ye i ye a ka kan minan"
+      "gloss": "y'i to i mɛn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a ka kan"
+      "marks": "a ka kan (קלו)"
     },
     {
       "surface": "קלו",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "ליסרך",
-      "gloss": "walasa k'i kalansen"
+      "gloss": "walasa k'i kalan"
     },
     {
       "surface": "ועל",
@@ -63,38 +42,38 @@
     },
     {
       "surface": "הראך",
-      "gloss": "a ye … ye i ma"
+      "gloss": "y'i to i ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a ka tasuma bonya"
+      "marks": "a ka tasuma bonba (אשו הגדולה)"
     },
     {
       "surface": "אשו",
-      "gloss": "a ka tasuma"
+      "gloss": "tasuma"
     },
     {
       "surface": "הגדולה",
-      "gloss": "bonya"
+      "gloss": "bonba"
     },
     {
       "surface": "ודבריו",
-      "gloss": "ani a n'a kumaw"
+      "gloss": "ani a kumaw"
     },
     {
       "surface": "שמעת",
-      "gloss": "i ye … minan"
+      "gloss": "i y'u mɛn"
     },
     {
       "surface": "מתוך",
-      "gloss": "ka bɔ … kɔnɔ"
+      "gloss": "… cɛmancɛ na"
     },
     {
       "surface": "האש",
       "gloss": "tasuma"
     }
   ],
-  "timestamp": "2026-10-13T21:40:19.082601962Z",
+  "timestamp": "2026-10-20T13:46:11.732874543Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "san mugan-ni-tan-ni-seginyi \/ mugan-ni-fila",
-      "rationale": "Regnal-year dating formula: accession year and reign length counted."
-    },
-    {
-      "kind": "elision",
-      "subject": "וימלך",
-      "rationale": "Second verb repeated full name-and-title formula; Bambara kept the repetition as Hebrew does."
-    }
-  ],
-  "translation": "Ahav (Ahab), Omri (Omuri) den, y'a masaya daminɛ Israyel kan, Asa (Asa), Yuda masakɛ, san mugan-ni-tan-ni-seginyi na; Ahav, Omri den, y'a masaya kɛra Israyel kan Shomiron (Samari) na, san mugan-ni-fila ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f22eaf49146f8791465e5f52b22b76b033ddc2f3f38380879c809d7c06164be2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/16\/29-32.1791932278554.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ahab (Ahaba) Omri denkɛ tun bɛ Isirayeli ɲɛmɛnɛ Asa (Asa), Yuda masakɛ, ka masaya san tan-sigan-ni-wolonfila don kɔnɔ; Ahab Omri denkɛ de tun bɛ Isirayeli ɲɛmɛnɛ Shomron (Samari) kɔnɔ, san biwolo-ni-fila don yɛrɛ.",
   "tokens": [
     {
       "surface": "ואחאב",
-      "gloss": "Ahav"
+      "gloss": "Ahab"
     },
     {
       "surface": "בן",
-      "gloss": "den"
+      "gloss": "denkɛ"
     },
     {
       "surface": "עמרי",
@@ -42,27 +21,27 @@
     },
     {
       "surface": "מלך",
-      "gloss": "masaya daminɛ"
+      "gloss": "masaya kɛra"
     },
     {
       "surface": "על",
-      "gloss": "kan"
+      "gloss": "svg"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Isirayeli"
     },
     {
       "surface": "בשנת",
-      "gloss": "san … na"
+      "gloss": "san kɔnɔ"
     },
     {
       "surface": "שלשים",
-      "gloss": "mugan-ni-tan"
+      "gloss": "tan-sigan-ni"
     },
     {
       "surface": "ושמנה",
-      "gloss": "ni seginyi"
+      "gloss": "wolonfila"
     },
     {
       "surface": "שנה",
@@ -82,15 +61,15 @@
     },
     {
       "surface": "וימלך",
-      "gloss": "masaya kɛra"
+      "gloss": "a masaya kɛra"
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahav"
+      "gloss": "Ahab"
     },
     {
       "surface": "בן",
-      "gloss": "den"
+      "gloss": "denkɛ"
     },
     {
       "surface": "עמרי",
@@ -98,19 +77,19 @@
     },
     {
       "surface": "על",
-      "gloss": "kan"
+      "gloss": "svg"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Isirayeli"
     },
     {
       "surface": "בשמרון",
-      "gloss": "Shomiron na"
+      "gloss": "Shomron kɔnɔ"
     },
     {
       "surface": "עשרים",
-      "gloss": "mugan"
+      "gloss": "biwolo"
     },
     {
       "surface": "ושתים",
@@ -121,6 +100,6 @@
       "gloss": "san"
     }
   ],
-  "timestamp": "2026-10-13T22:57:58.557370155Z",
+  "timestamp": "2026-10-20T12:54:04.419306140Z",
   "model": "glm-5.3"
 }

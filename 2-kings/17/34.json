@@ -5,45 +5,19 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כחקתם a ka sariyaw",
-      "rationale": "Suffix -ם: 'their statutes' = Israel's ordinances (KJV\/ASV\/JPS) vs the nations' customs; suffix reference is a known disagreement."
-    },
-    {
-      "kind": "substitution",
-      "subject": "כרת... אינם\/יראים tɛ siran",
-      "rationale": "אינם יראים is a verbal-clause negation ('there-is-not fearing'), flattened to tɛ + verb in Bambara."
-    },
-    {
-      "kind": "addition",
-      "subject": "cogo ma",
-      "rationale": "כ prefix rendered as 'i n'a fɔ … cogo ma' — comparison particle added to make the 'like' explicit in Bambara."
-    }
-  ],
-  "translation": "Fo don in na, u bɛ taa kɛ i n'a fɔ laadalaw fɔlɔw cogo ma: u tɛ Yawe siran, u tɛ kɛ i n'a fɔ a ka sariyaw, ni a ka darijaw, ni Tora, ni lasigiden min Yawe y'a lasigida Yakub denw ma, min tɔgɔ a bila Yisraɛl.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d2d76985708a1e871f10ea1f3bd1c5fd01fd11bb5a247d2c010d191d6640f084",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/17\/34-35.1791950733170.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bi tuguni, u bɛ kɛ i n'a fɔ u tun bɛ cogo min na kɔrɔ la: u tɛ ⟨את⟩ Yawe siran, wa u tɛ kɛ u ka sariyaw cogo la, u ka sariya-kɛcogo la, Tora la, ani a laselen cogo la min Yawe ye ⟨את⟩ Yakyubu (Yakuba) denw laselen, min tɔgɔ bilala Yawe ye Isirayeli (Isirayeli).",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "fo"
+      "gloss": "bi tuguni"
     },
     {
       "surface": "היום",
-      "gloss": "don"
+      "gloss": "don nin na"
     },
     {
       "surface": "הזה",
-      "gloss": "in"
+      "gloss": "nin"
     },
     {
       "surface": "הם",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "עשים",
-      "gloss": "bɛ taa kɛ"
+      "gloss": "bɛ kɛ"
     },
     {
       "surface": "כמשפטים",
-      "gloss": "i n'a fɔ laadalaw"
+      "gloss": "i n'a fɔ u ka kɛcogo"
     },
     {
       "surface": "הראשנים",
-      "gloss": "fɔlɔw"
+      "gloss": "kɔrɔlenw"
     },
     {
       "surface": "אינם",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "ואינם",
-      "gloss": "u tɛ"
+      "gloss": "wa u tɛ"
     },
     {
       "surface": "עשים",
@@ -88,19 +62,19 @@
     },
     {
       "surface": "כחקתם",
-      "gloss": "i n'a fɔ a ka sariyaw"
+      "gloss": "u ka sariyaw cogo la"
     },
     {
       "surface": "וכמשפטם",
-      "gloss": "ni a ka darijaw"
+      "gloss": "u ka sariya-kɛcogo la"
     },
     {
       "surface": "וכתורה",
-      "gloss": "ni Tora"
+      "gloss": "Tora la"
     },
     {
       "surface": "וכמצוה",
-      "gloss": "ni lasigiden"
+      "gloss": "a laselen cogo la"
     },
     {
       "surface": "אשר",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "y'a lasigida"
+      "gloss": "laselen"
     },
     {
       "surface": "יהוה",
@@ -117,7 +91,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yakub denw"
+      "marks": "Yakyubu denw"
     },
     {
       "surface": "בני",
@@ -125,7 +99,7 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Yakub"
+      "gloss": "Yakyubu"
     },
     {
       "surface": "אשר",
@@ -133,7 +107,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "bila"
+      "gloss": "bilala"
     },
     {
       "surface": "שמו",
@@ -141,9 +115,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraɛl"
+      "gloss": "Isirayeli"
     }
   ],
-  "timestamp": "2026-10-14T04:05:33.170930456Z",
+  "timestamp": "2026-10-20T13:18:29.988369524Z",
   "model": "glm-5.3"
 }

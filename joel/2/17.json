@@ -5,46 +5,15 @@
   "book": "joel",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "dakunta",
-      "rationale": "Hebrew article in האולם is a real article; the ⟨…⟩ marks the Bambara noun class support supplied"
-    },
-    {
-      "kind": "substitution",
-      "subject": "hakili to",
-      "rationale": "חוסה literally 'to cover', figuratively 'to compassionate'"
-    },
-    {
-      "kind": "you",
-      "subject": "priests",
-      "rationale": "the verse commands the priests directly and gives them the words of a prayer to Yawe"
-    },
-    {
-      "kind": "invitation",
-      "subject": "prayer",
-      "rationale": "חוסה יהוה is a summons-prayer: the priests cry out on behalf of the people"
-    }
-  ],
-  "translation": "Sarakalasebagaw, minnu bɛ Yawe yanbɔ, bɛgɔ kan ⟨dakunta⟩ la ni sarakabɔlan cɛ, k'u ko: Yawe, hakili to i ka jama la, k'i tɛ i ka dado lasɔgɔsɔgɔya di walima jamana wɛrɛw bolo; cɔgɔya na u bɛna fɔ mɔgɔw la ko: u ka Ala Yawe bɛ min?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f35a0f18421a0934b7515f206b6972824de39b4f7cdf8843d10b7bd1addb0964",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joel\/2\/17-20.1791938495485.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sarakalasebaga minnu bɛ Yawe mara, olu ka sunɔgɔ ⟨a⟩ dakun ni sarakabɔlan cɛ, ka fɔ ko: Yawe, hakili to i jamaa kan, i kana i keko di anyiya la, ka siyaw u faamankɛ; mun na u ka bɔ jamaw la fɔ ko: u ka Elohim bɛ min?",
   "tokens": [
     {
       "surface": "בין",
-      "gloss": "…cɛ"
+      "gloss": "a cɛ"
     },
     {
       "surface": "האולם",
-      "gloss": "dakunta"
+      "gloss": "⟨a⟩ dakun"
     },
     {
       "surface": "ולמזבח",
@@ -52,15 +21,15 @@
     },
     {
       "surface": "יבכו",
-      "gloss": "bɛgɔ kan"
+      "gloss": "ka sunɔgɔ"
     },
     {
       "surface": "הכהנים",
-      "gloss": "sarakalasebagaw"
+      "gloss": "sarakalasebaga"
     },
     {
       "surface": "משרתי",
-      "gloss": "minnu bɛ … yanbɔ"
+      "gloss": "minnu bɛ … mara"
     },
     {
       "surface": "יהוה",
@@ -68,7 +37,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "k'u ko"
+      "gloss": "ka fɔ ko"
     },
     {
       "surface": "חוסה",
@@ -80,15 +49,15 @@
     },
     {
       "surface": "על",
-      "gloss": "…la"
+      "gloss": "… kan"
     },
     {
       "surface": "עמך",
-      "gloss": "i ka jama"
+      "gloss": "i jamaa"
     },
     {
       "surface": "ואל",
-      "gloss": "k'i tɛ"
+      "gloss": "i kana"
     },
     {
       "surface": "תתן",
@@ -96,15 +65,15 @@
     },
     {
       "surface": "נחלתך",
-      "gloss": "i ka dado"
+      "gloss": "i keko"
     },
     {
       "surface": "לחרפה",
-      "gloss": "lasɔgɔsɔgɔya"
+      "gloss": "anyiya la"
     },
     {
       "surface": "למשל",
-      "gloss": "walima … bolo"
+      "gloss": "ka … faamankɛ"
     },
     {
       "surface": "בם",
@@ -112,29 +81,29 @@
     },
     {
       "surface": "גוים",
-      "gloss": "jamana wɛrɛw"
+      "gloss": "siyaw"
     },
     {
       "surface": "למה",
-      "gloss": "cɔgɔya na?"
+      "gloss": "mun na"
     },
     {
       "surface": "יאמרו",
-      "gloss": "u bɛna fɔ"
+      "gloss": "u ka bɔ fɔ"
     },
     {
       "surface": "בעמים",
-      "gloss": "mɔgɔw la"
+      "gloss": "jamaw la"
     },
     {
       "surface": "איה",
-      "gloss": "min?"
+      "gloss": "bɛ min"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "u ka Ala"
+      "gloss": "u ka Elohim"
     }
   ],
-  "timestamp": "2026-10-14T00:41:35.485823838Z",
+  "timestamp": "2026-10-20T14:53:05.238044492Z",
   "model": "glm-5.3"
 }

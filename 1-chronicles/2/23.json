@@ -5,37 +5,11 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "חות",
-      "rationale": "Havvot ('tent-villages') kept as a place-name component, Havvot-Yair"
-    },
-    {
-      "kind": "crux",
-      "subject": "ויקח",
-      "rationale": "'He took' has no stated subject — Geshur and Aram, or Jair, have been read as the taker"
-    },
-    {
-      "kind": "measurement",
-      "subject": "dugu dege ni mugan",
-      "rationale": "Sixty cities total counted for Jair's settlements"
-    }
-  ],
-  "translation": "Geshur (Geshur) ni Aram (Aram) ye ⟨את⟩ Yair ka Havvot minɛ u bolo, ni ⟨את⟩ Kenat (Kenat) ni ⟨את⟩ a denmusow — dugu dege ni mugan; nin bɛɛ ye Makir denw ye, min ye Gilad ba ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6cdf964d06b405ba928c9883a91d37b5554a7cbd71e3802289c528d02cca780a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/2\/21-24.1791947437161.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Geshur (Geshura) ni Aram (Siri) ye ⟨את⟩ Yair ka duguw minnu mara, o tɔgɔ ye Havot-Yair (Yair ka nɔgɔso-duguw) ye, bɔ u bolo, ⟨את⟩ Kenat (Kenati) ni ⟨את⟩ a denmusow duguw, dugu mɔgɔcu-duru ye — o bɛɛ tun ye Makir (Makiri), Gilada (Gileadi) fa, denw ye.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "ye…minɛ"
+      "gloss": "ye … ta"
     },
     {
       "surface": "גשור",
@@ -48,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yair ka Havvot"
+      "marks": "Havot-Yair"
     },
     {
       "surface": "חות",
-      "gloss": "Havvot"
+      "gloss": "Havot"
     },
     {
       "surface": "יאיר",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨את⟩ u bolo"
+      "gloss": "bɔ u bolo ⟨את⟩"
     },
     {
       "surface": "את",
@@ -73,16 +47,15 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ni ⟨את⟩",
-      "marks": "a denmusow"
+      "gloss": "ni ⟨את⟩"
     },
     {
       "surface": "בנתיה",
-      "gloss": "a denmusow"
+      "gloss": "a denmusow duguw"
     },
     {
       "surface": "ששים",
-      "gloss": "dege ni mugan"
+      "gloss": "mɔgɔcu-duru"
     },
     {
       "surface": "עיר",
@@ -94,7 +67,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "nin"
+      "gloss": "o"
     },
     {
       "surface": "בני",
@@ -106,13 +79,13 @@
     },
     {
       "surface": "אבי",
-      "gloss": "ba"
+      "gloss": "fa"
     },
     {
       "surface": "גלעד",
-      "gloss": "Gilad"
+      "gloss": "Gilada"
     }
   ],
-  "timestamp": "2026-10-14T03:10:37.163042796Z",
+  "timestamp": "2026-10-20T12:47:42.636541607Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,15 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מְפַזֵּז וּמְכַרְכֵּר",
-      "rationale": "two rare verbs — springing and whirling — paired; bilen ka don keeps the pair but loses the sound-play."
-    },
-    {
-      "kind": "addition",
-      "subject": "Dawid",
-      "rationale": "the pronoun לו 'him' is named explicitly as Dawid, whom Bambara would otherwise leave ambiguous."
-    },
-    {
-      "kind": "elision",
-      "subject": "בְּעַד",
-      "gloss": "",
-      "rationale": "preposition 'through\/behind' folded into the tila … la construction, no separate word in Bambara."
-    }
-  ],
-  "translation": "Ni Yawe ka sanduku tun donna Dawid ka dugu la, Sawulu ka denmuso Mikale ye a yɛrɛ tila dantɛmɛ la, a ye ye ⟨את⟩ masakɛ Dawid bilen ka don Yawe ɲɛfɛ, a yɛ Dawid fyɔ a dusukun na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b1409a58f740d1dff55b3d65531a57408289bcf8de4e59c4e11a0fcc5f20f0f0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/6\/13-16.1791931057915.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni Yawe ka ⟨את⟩ sandigu nana Dawid (Dawuda) ka dugu kɔnɔ, Mikal, Shaul denmuso, y'a ɲɛda ɲɛ daɲɛda kɔnɔ, a yera ⟨את⟩ masakɛ Dawid ka wulanya ka don ka tɛmɛ tɛmɛ Yawe ɲɛfɛ, a ye a tiimɛ a dusukun na.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ni … tun"
+      "gloss": "ni … kɛra"
     },
     {
       "surface": "ארון",
-      "gloss": "sanduku"
+      "gloss": "sandigu"
     },
     {
       "surface": "יהוה",
@@ -48,7 +21,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "donna"
+      "gloss": "nana"
     },
     {
       "surface": "עיר",
@@ -60,7 +33,7 @@
     },
     {
       "surface": "ומיכל",
-      "gloss": "Mikale"
+      "gloss": "Mikal"
     },
     {
       "surface": "בת",
@@ -68,28 +41,28 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Sawulu"
+      "gloss": "Shaul"
     },
     {
       "surface": "נשקפה",
-      "gloss": "ye a yɛrɛ tila … la"
+      "gloss": "y'a ɲɛda ɲɛ"
     },
     {
       "surface": "בעד",
-      "gloss": ""
+      "gloss": "kɔnɔ"
     },
     {
       "surface": "החלון",
-      "gloss": "dantɛmɛ"
+      "gloss": "daɲɛda"
     },
     {
       "surface": "ותרא",
-      "gloss": "ye … ye"
+      "gloss": "a yera"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "masakɛ"
+      "marks": "masakɛ Dawid"
     },
     {
       "surface": "המלך",
@@ -101,11 +74,11 @@
     },
     {
       "surface": "מפזז",
-      "gloss": "bilen"
+      "gloss": "ka wulanya"
     },
     {
       "surface": "ומכרכר",
-      "gloss": "don"
+      "gloss": "ka don ka tɛmɛ tɛmɛ"
     },
     {
       "surface": "לפני",
@@ -117,17 +90,17 @@
     },
     {
       "surface": "ותבז",
-      "gloss": "fyɔ"
+      "gloss": "a ye a tiimɛ"
     },
     {
       "surface": "לו",
-      "gloss": "Dawid"
+      "gloss": "a"
     },
     {
       "surface": "בלבה",
       "gloss": "a dusukun na"
     }
   ],
-  "timestamp": "2026-10-13T22:37:37.919995633Z",
+  "timestamp": "2026-10-20T15:45:42.347763653Z",
   "model": "glm-5.3"
 }

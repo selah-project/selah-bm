@@ -5,56 +5,15 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ממשך ומורט",
-      "rationale": "'tall and smooth(-skinned)' (ASV\/JPS\/BSB) vs 'scattered and peeled' (KJV\/Geneva); מורט is a hapax, sense uncertain."
-    },
-    {
-      "kind": "crux",
-      "subject": "קו קו",
-      "rationale": "'measured line by line' (KJV 'meted out') vs JPS 'sturdy'; the repeated קו is either a measuring cord or a rare word for strong."
-    },
-    {
-      "kind": "hapax",
-      "subject": "מורט",
-      "rationale": "Occurs only here in the Tanakh."
-    },
-    {
-      "kind": "crux",
-      "subject": "בזאו",
-      "rationale": "'rivers divide\/spoiled its land' (ASV\/KJV) vs 'whose land the rivers have devoured'; root sense 'to cleave'."
-    },
-    {
-      "kind": "invitation",
-      "subject": "לכו",
-      "rationale": "Imperative summons to the swift messengers: 'Go'."
-    },
-    {
-      "kind": "you",
-      "subject": "messengers",
-      "rationale": "Direct address to the envoys being sent."
-    }
-  ],
-  "translation": "Min bɛ cidenw ci kɔgɔji la, ni gɛnɛ fitiniw ye ji ɲɛfɛ — aw ka taa, ciden ɛzɛnninw, siya min bɛ janya ni ɲɛjɛlen ye, jama min bɛ siran, a daminɛ na fo bi; siya min bɛ jate ni kabakolo ye, kabakolo ye, min bɛ nɔ bɔ a la, min bɛ bajiw tigɛ ⟨a ka⟩ dugukolo.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "09e49299305836eb392ba88b85b98d89ff37106566c1a06010df6da0936bf95f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/18\/1-4.1791933849860.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Min bɛ cidenw ci kɔgɔji fɛ, ni goma-minɛ (papyrus) minɛnw ye ji ɲɛda kan — (aw ye taaw): «Kɛ aw ye, ciden tilennenw, siya min jan don ka finbolo kalan, jama min bɛ siran bɔ a daminɛ na fo bi, siya min bɛ sariya kɛ sariya, min bɛ lasɔrɔ, min dugukolo bajiw ye dafa!»",
   "tokens": [
     {
       "surface": "השלח",
-      "gloss": "min bɛ ci"
+      "gloss": "min bɛ … ci"
     },
     {
       "surface": "בים",
-      "gloss": "kɔgɔji la"
+      "gloss": "kɔgɔji fɛ"
     },
     {
       "surface": "צירים",
@@ -62,19 +21,19 @@
     },
     {
       "surface": "ובכלי",
-      "gloss": "ni fitiniw"
+      "gloss": "ni minɛnw ye"
     },
     {
       "surface": "גמא",
-      "gloss": "gɛnɛ"
+      "gloss": "goma-minɛ (papyrus)"
     },
     {
       "surface": "על",
-      "gloss": "sanfɛ"
+      "gloss": "kan"
     },
     {
       "surface": "פני",
-      "gloss": "ɲɛ"
+      "gloss": "ɲɛda"
     },
     {
       "surface": "מים",
@@ -82,7 +41,7 @@
     },
     {
       "surface": "לכו",
-      "gloss": "aw ka taa"
+      "gloss": "kɛ aw ye"
     },
     {
       "surface": "מלאכים",
@@ -90,39 +49,39 @@
     },
     {
       "surface": "קלים",
-      "gloss": "ɛzɛnninw"
+      "gloss": "tilennenw"
     },
     {
       "surface": "אל",
-      "gloss": "ka taa"
+      "gloss": "(aw ye taaw)"
     },
     {
       "surface": "גוי",
-      "gloss": "siya"
+      "gloss": "siya min"
     },
     {
       "surface": "ממשך",
-      "gloss": "min bɛ janya"
+      "gloss": "jan don"
     },
     {
       "surface": "ומורט",
-      "gloss": "ni ɲɛjɛlen"
+      "gloss": "finbolo kalan"
     },
     {
       "surface": "אל",
-      "gloss": "ka taa"
+      "gloss": "(aw ye taaw)"
     },
     {
       "surface": "עם",
-      "gloss": "jama"
+      "gloss": "jama min"
     },
     {
       "surface": "נורא",
-      "gloss": "min bɛ siran"
+      "gloss": "bɛ siran bɔ"
     },
     {
       "surface": "מן",
-      "gloss": "ka bɔ"
+      "gloss": "na"
     },
     {
       "surface": "הוא",
@@ -134,19 +93,19 @@
     },
     {
       "surface": "גוי",
-      "gloss": "siya"
+      "gloss": "siya min"
     },
     {
       "surface": "קו",
-      "gloss": "kabakolo"
+      "gloss": "sariya"
     },
     {
       "surface": "קו",
-      "gloss": "kabakolo"
+      "gloss": "sariya"
     },
     {
       "surface": "ומבוסה",
-      "gloss": "nɔtigi"
+      "gloss": "lasɔrɔ"
     },
     {
       "surface": "אשר",
@@ -154,7 +113,7 @@
     },
     {
       "surface": "בזאו",
-      "gloss": "min bɛ tigɛ"
+      "gloss": "ye dafa"
     },
     {
       "surface": "נהרים",
@@ -165,6 +124,6 @@
       "gloss": "dugukolo"
     }
   ],
-  "timestamp": "2026-10-13T23:24:09.865132451Z",
+  "timestamp": "2026-10-20T14:28:03.346739577Z",
   "model": "glm-5.3"
 }

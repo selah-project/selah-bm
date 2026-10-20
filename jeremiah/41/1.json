@@ -5,44 +5,23 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ורבי המלך",
-      "rationale": "KJV 'princes of the king' (plural) vs JPS\/ASV 'one of the chief officers' (Ishmael himself); anatiplosis leaves the syntax ambiguous."
-    },
-    {
-      "kind": "measurement",
-      "subject": "kalo wolonwilanan",
-      "rationale": "verse anchors the event by month and by count of ten men."
-    }
-  ],
-  "translation": "O kera kalo wolonwilanan na: Yishmael (Ismail), Netanyah denkɛ, Elishama denkɛ, min bɔra masakɛya kisɛ la, ani masakɛ ka bonmɔgɔw, ni mɔgɔ tan ⟨את⟩ ni a ye, u na Gedalyahu (Gedali), Achikam denkɛ, ɲɛ Mitspa (Misifa); u ye buru dun yen ɲɔgɔn fɛ Mitspa.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9a289b6672d8314e8627f55cf3ba2cb09465cb7e7531685a921c3909cb864513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/41\/1-4.1791936123083.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kalo wolonwulan na, Yishmael Netanya denkɛ, Elishama denkɛ, min bɔra masaya kisɛ la, ani masakɛ ka nbaaw, ni mɔgɔ tan ⟨את⟩ a ye, nana so Gedalyahu Ahikam denkɛ la Mitspa (dugu) ; u ye buru dun yen ɲɔgɔn ye Mitspa.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "o kera"
+      "gloss": "a kɛra"
     },
     {
       "surface": "בחדש",
-      "gloss": "kalo na"
+      "gloss": "kalo"
     },
     {
       "surface": "השביעי",
-      "gloss": "wolonwilanan"
+      "gloss": "wolonwulan"
     },
     {
       "surface": "בא",
-      "gloss": "u na"
+      "gloss": "nana"
     },
     {
       "surface": "ישמעאל",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "נתניה",
-      "gloss": "Netanyah"
+      "gloss": "Netanya"
     },
     {
       "surface": "בן",
@@ -70,15 +49,15 @@
     },
     {
       "surface": "המלוכה",
-      "gloss": "masakɛya"
+      "gloss": "masaya"
     },
     {
       "surface": "ורבי",
-      "gloss": "ani ka bonmɔgɔw"
+      "gloss": "ani nbaaw"
     },
     {
       "surface": "המלך",
-      "gloss": "masakɛ ta"
+      "gloss": "masakɛ ka"
     },
     {
       "surface": "ועשרה",
@@ -90,11 +69,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ni a ye"
+      "gloss": "⟨את⟩",
+      "marks": "ni a ye (a ni mɔgɔ tan)"
     },
     {
       "surface": "אל",
-      "gloss": "ɲɛ"
+      "gloss": "so"
     },
     {
       "surface": "גדליהו",
@@ -106,7 +86,7 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "Achikam"
+      "gloss": "Ahikam"
     },
     {
       "surface": "המצפתה",
@@ -126,13 +106,13 @@
     },
     {
       "surface": "יחדו",
-      "gloss": "ɲɔgɔn fɛ"
+      "gloss": "ɲɔgɔn ye"
     },
     {
       "surface": "במצפה",
       "gloss": "Mitspa"
     }
   ],
-  "timestamp": "2026-10-14T00:02:03.084929533Z",
+  "timestamp": "2026-10-20T14:44:46.964738764Z",
   "model": "glm-5.3"
 }

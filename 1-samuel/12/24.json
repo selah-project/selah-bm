@@ -5,36 +5,15 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הגדיל עמכם",
-      "rationale": "'a kɛra bonba ni aw ye' (עִם 'ni') — KJV bayɛlɛmabaw fɔ 'for you' (a y'a kɛ aw kama); Heburu kuma kɔrɔ ye 'ni aw ye' ye"
-    },
-    {
-      "kind": "invitation",
-      "subject": "aw na Yawe siran",
-      "rationale": "jɔli daɲɛw — Samuel ka weleli laban, kelen-kelen bɛɛ sinsin aw kan"
-    }
-  ],
-  "translation": "Kelen de: aw na Yawe siran, aw b'a baara kɛ ⟨את⟩ a ye ni tiɲɛ, ni aw dusukun bɛɛ ye; sabu aw y'a lajɛ: fɛn minnu ka bon, a y'u kɛ ni aw ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "355249c35f14cc1f503c6276f85b62bcaa89a7b3c182666f2cf9082e0d11c036",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/12\/21-24.1791930147563.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kɔrɔnte de, aw ka Yawe siran, aw ka ⟨את⟩ a bɛ tiɲɛ na ni aw ka dusukun bɛɛ ye, sabu aw ye minnu ye, aw ye o jira: ⟨את⟩ min o ye bon o kɛ ni aw ye.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Kelen de"
+      "gloss": "kɔrɔnte de"
     },
     {
       "surface": "יראו",
-      "gloss": "siran"
+      "gloss": "aw ka siran"
     },
     {
       "surface": "את",
@@ -47,16 +26,16 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "baara kɛ"
+      "gloss": "aw ka a bɛ"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "a"
+      "gloss": "⟨אתו⟩",
+      "marks": "a (Yawe)"
     },
     {
       "surface": "באמת",
-      "gloss": "ni tiɲɛ"
+      "gloss": "tiɲɛ na"
     },
     {
       "surface": "בכל",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "לבבכם",
-      "gloss": "aw dusukun"
+      "gloss": "aw ka dusukun"
     },
     {
       "surface": "כי",
@@ -72,26 +51,26 @@
     },
     {
       "surface": "ראו",
-      "gloss": "lajɛ"
+      "gloss": "aw ye … ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fɛn minnu ka bon"
+      "marks": "minnu ye (o minnu bon)"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "הגדל",
-      "gloss": "ka bon"
+      "gloss": "o kɛ bon"
     },
     {
       "surface": "עמכם",
       "gloss": "ni aw ye"
     }
   ],
-  "timestamp": "2026-10-13T22:22:27.565632777Z",
+  "timestamp": "2026-10-20T12:58:51.544615025Z",
   "model": "glm-5.3"
 }

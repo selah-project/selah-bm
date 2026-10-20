@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨amin⟩",
-      "rationale": "Hebrew wajyi bɛ tiɲɛ-cogo jira — Bamanankan ka 'a bɛna balo' ka nɔgɔya, kɔrɔ-tɛmɛsira bɛ a fɔ"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sariya-jatew",
-      "rationale": "משפטים kɔrɔ ye 'sariya-kɛlignw' — 'sariya-jatew' bɛ se, a tɛ fika"
-    }
-  ],
-  "translation": "Ani N ye ⟨את⟩ n sariyaw di u ma, N ye ⟨את⟩ n sariya-jatew fɔ u ye, minnu hadamaden bɛ kɛ, a bɛna balo ⟨את⟩ o la ⟨amin⟩.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b7b7d84e98cce438ce2136fbdb288b77e2342ba6b17ce96403181e923a211fad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/20\/9-12.1791937089484.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N ye ⟨את⟩ n ka sariyaw di u ma, ani ⟨את⟩ n ka fɛrɛw, n ye u ɲɛfɔ u ye — hadamaden min o nu kɛ, o bɛ balo nin nu ye.",
   "tokens": [
     {
       "surface": "ואתן",
-      "gloss": "N ye … di"
+      "gloss": "n ye ... di"
     },
     {
       "surface": "להם",
@@ -39,54 +18,56 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "n sariyaw"
+      "marks": "n ka sariyaw"
     },
     {
       "surface": "חקותי",
-      "gloss": "n sariyaw"
+      "gloss": "n ka sariyaw"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "n sariya-jatew"
+      "marks": "n ka fɛrɛw"
     },
     {
       "surface": "משפטי",
-      "gloss": "n sariya-jatew"
+      "gloss": "n ka fɛrɛw"
     },
     {
       "surface": "הודעתי",
-      "gloss": "N ye … fɔ u ye"
+      "gloss": "n ye ... ɲɛfɔ u ye"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ u"
+      "gloss": "⟨את⟩",
+      "marks": "u (o kumasen)"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "יעשה",
-      "gloss": "bɛ kɛ"
+      "gloss": "kɛ"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ o"
+      "gloss": "⟨את⟩",
+      "marks": "o nu (sariya nuw)"
     },
     {
       "surface": "האדם",
-      "gloss": "hadamaden"
+      "gloss": "hadamaden min o nu"
     },
     {
       "surface": "וחי",
-      "gloss": "a bɛna balo"
+      "gloss": "o bɛ balo"
     },
     {
       "surface": "בהם",
-      "gloss": "o la"
+      "gloss": "nin nu ye"
     }
   ],
-  "timestamp": "2026-10-14T00:18:09.486148231Z",
+  "timestamp": "2026-10-20T14:01:53.510170249Z",
   "model": "glm-5.3"
 }

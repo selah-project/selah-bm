@@ -5,41 +5,15 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "don",
-      "rationale": "Bamanankan ka copula wajibi ye; Heburukan ma a sɛbɛn"
-    },
-    {
-      "kind": "crux",
-      "subject": "טובתי בל עליך",
-      "rationale": "kɔrɔ suguya: 'ne ka nyɛ tɛ i la' (ASV\/JPS) walima 'ne ka nyɛ tɛ se i ma' (KJV)"
-    },
-    {
-      "kind": "elision",
-      "subject": "kuma-cila",
-      "rationale": "KJV ye 'O my soul' fara a kan; Heburukan kɔnɔ o tɛ yen"
-    }
-  ],
-  "translation": "Ne ye Yawe ye ko: Adonay, i de ⟨don⟩ ne ta; ne ka nyɛ tɛ ⟨foyikɛ› i la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/16\/1-4.1791939650895.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N ye Yawe ma fɔ ko: Adonay, i de ⟨ye⟩; fo i la, n ka diya si tɛ yen.",
   "tokens": [
     {
       "surface": "אמרת",
-      "gloss": "ne ye … ko"
+      "gloss": "n ye … fɔ"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yawe ye"
+      "gloss": "Yawe ma"
     },
     {
       "surface": "אדני",
@@ -51,17 +25,17 @@
     },
     {
       "surface": "טובתי",
-      "gloss": "ne ka nyɛ"
+      "gloss": "n ka diya"
     },
     {
       "surface": "בל",
-      "gloss": "tɛ"
+      "gloss": "si tɛ"
     },
     {
       "surface": "עליך",
       "gloss": "i la"
     }
   ],
-  "timestamp": "2026-10-14T01:00:50.896278927Z",
+  "timestamp": "2026-10-20T15:34:52.640449815Z",
   "model": "glm-5.3"
 }

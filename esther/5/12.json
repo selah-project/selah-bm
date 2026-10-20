@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "'for but' = 'except', rendered ni ne ye; literal would mislead"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "the restrictive כי folded into the exceptive idiom, rendered as nothing"
-    }
-  ],
-  "translation": "Haman ko: Ester masamuso ma walisa mɔgɔ si na masakɛ ni a ye a sɔngɔdabɔ la min o ye dilan, ni ne ye; sinima don kɔ, ne de weelena a kama masakɛ ni a ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "964c362621328d27e1b7522057a2923b364edbd630df8974a75b44526831871b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/5\/9-12.1791945503345.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Haman fana ko: Ester masakɛmuso ma mɔgɔ si bila ni masakɛ ye ka taa laseli la min na a y'a dilan, ni ne dɔrɔn de ⟨את⟩ ɲɛ; ani sunkalo minɛ, ne fana bɛ welelen ka na ni masakɛ ye a la.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אף",
-      "gloss": "fɔlɔ"
+      "gloss": "fana"
     },
     {
       "surface": "לא",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הביאה",
-      "gloss": "ma walisa … na"
+      "gloss": "ma mɔgɔ si bila"
     },
     {
       "surface": "אסתר",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "המלכה",
-      "gloss": "masamuso"
+      "gloss": "masakɛmuso"
     },
     {
       "surface": "עם",
@@ -66,51 +45,52 @@
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "ka taa"
     },
     {
       "surface": "המשתה",
-      "gloss": "sɔngɔdabɔ"
+      "gloss": "laseli la"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min na"
     },
     {
       "surface": "עשתה",
-      "gloss": "ye dilan"
+      "gloss": "a y'a dilan"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "ni"
     },
     {
       "surface": "אם",
-      "gloss": "ni ne ye"
+      "gloss": "dɔrɔn de"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ne"
+      "gloss": "⟨את⟩ ne ɲɛ",
+      "marks": "ne"
     },
     {
       "surface": "וגם",
-      "gloss": "sinima don kɔ"
+      "gloss": "ani"
     },
     {
       "surface": "למחר",
-      "gloss": "sinima"
+      "gloss": "sunkalo minɛ"
     },
     {
       "surface": "אני",
-      "gloss": "ne de"
+      "gloss": "ne fana"
     },
     {
       "surface": "קרוא",
-      "gloss": "weelena"
+      "gloss": "bɛ welelen"
     },
     {
       "surface": "לה",
-      "gloss": "a kama"
+      "gloss": "a la"
     },
     {
       "surface": "עם",
@@ -121,6 +101,6 @@
       "gloss": "masakɛ"
     }
   ],
-  "timestamp": "2026-10-14T02:38:23.347825570Z",
+  "timestamp": "2026-10-20T13:50:13.018647720Z",
   "model": "glm-5.3"
 }

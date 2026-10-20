@@ -5,37 +5,16 @@
   "book": "daniel",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "direct-object marker preserved as ⟨את⟩, pointing at 'u'"
-    },
-    {
-      "kind": "addition",
-      "subject": "mɔgɔ si",
-      "rationale": "'no one' supplied; Hebrew has verb 'was found' with negative only"
-    }
-  ],
-  "translation": "Masakɛ ye ⟨את⟩ u la kuma; u bɛɛ la, mɔgɔ si sɔrɔ tɛ a yeDaniyel (Daniel), Hananya, Mishaɛl ni Azarya ye; u yelandira masakɛ ɲɛfɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "bdaace9e2589059ef1666de1ee9052edbe7982aa769c35613c24c16bc04d1358",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/1\/17-20.1791945603510.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masakɛ ye kuma ni ⟨u⟩ ye, a sɔrɔ ⟨u⟩ bɛɛ kɔnɔ mɔgɔ si ma ɲini sɔrɔ i n'a fɔ Daniyel, Hananya, Mishael ni Azarya; o la u nana yɛlɛ masakɛ ɲɛfɛ.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "kuma"
+      "gloss": "ye kuma"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "u"
+      "marks": "ni u ye (ale nin u)"
     },
     {
       "surface": "המלך",
@@ -43,19 +22,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "tɛ"
+      "gloss": "…si ma"
     },
     {
       "surface": "נמצא",
-      "gloss": "sɔrɔ"
+      "gloss": "ɲini sɔrɔ"
     },
     {
       "surface": "מכלם",
-      "gloss": "u bɛɛ la"
+      "gloss": "u bɛɛ kɔnɔ"
     },
     {
       "surface": "כדניאל",
-      "gloss": "a ye Daniyel"
+      "gloss": "i n'a fɔ Daniyel"
     },
     {
       "surface": "חנניה",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "מישאל",
-      "gloss": "Mishaɛl"
+      "gloss": "Mishael"
     },
     {
       "surface": "ועזריה",
-      "gloss": "Azarya"
+      "gloss": "ni Azarya"
     },
     {
       "surface": "ויעמדו",
-      "gloss": "yelandira"
+      "gloss": "u nana yɛlɛ"
     },
     {
       "surface": "לפני",
@@ -82,6 +61,6 @@
       "gloss": "masakɛ"
     }
   ],
-  "timestamp": "2026-10-14T02:40:03.511820660Z",
+  "timestamp": "2026-10-20T13:32:29.737665084Z",
   "model": "glm-5.3"
 }

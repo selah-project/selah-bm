@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "wa",
-      "rationale": "Bambara question particle supplied; Hebrew שלום לנער is a bare 'peace to the youth?'"
-    },
-    {
-      "kind": "you",
-      "subject": "to Ahimatsɛ",
-      "rationale": "Masakɛ ka ɲinasi bɛ Ahimatsɛ fɛ — 'hɛrɛ bɛ den Abshalɔm fɛ wa?' da ani Ahaltsop"
-    },
-    {
-      "kind": "crux",
-      "subject": "ההמון הגדול",
-      "rationale": "Ahimaats evades: 'jamabonba' ('crowd') — a kana kuma Awushalɔm ka kum-kɔrɔ kan, o ye a da-dilan ye"
-    }
-  ],
-  "translation": "Masakɛ ko: Hɛrɛ bɛ den Abshalɔm (Absalom) fɛ wa? Ahimatsɛ (Ahimaas) ko: Yowab (Yoab) ye masakɛ ka sarakalasebaga ni i ka sarakalasebaga cili waati, ne ye jasuma bonba ye, nka ne ma dɔn ko mun ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "788bebdaae4b07be151c51cf8c63fc2727efb03454dbfce47825c057536fa767",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/18\/29-32.1791931494268.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masakɛ ko: Yala hɛrɛ bɛ denbaya Avishalom (Avishalom) la wa? Axiimats (Axiimats) ko: ni Yowab (Yowab) minisira ⟨את⟩ masakɛ densonkɛ ni ⟨את⟩ i densonkɛ, ne ye jama bonba ye, nka n ma dɔn mun.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "לנער",
-      "gloss": "den"
+      "gloss": "denbaya"
     },
     {
       "surface": "לאבשלום",
-      "gloss": "Abshalɔm"
+      "gloss": "Avishalom (Avishalom)"
     },
     {
       "surface": "ויאמר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "אחימעץ",
-      "gloss": "Ahimatsɛ"
+      "gloss": "Axiimats (Axiimats)"
     },
     {
       "surface": "ראיתי",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "ההמון",
-      "gloss": "jasuma"
+      "gloss": "jama"
     },
     {
       "surface": "הגדול",
@@ -75,47 +49,47 @@
     },
     {
       "surface": "לשלח",
-      "gloss": "cili waati"
+      "gloss": "minisira"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sarakalasebaga"
+      "marks": "masakɛ densonkɛ"
     },
     {
       "surface": "עבד",
-      "gloss": "sarakalasebaga"
+      "gloss": "densonkɛ"
     },
     {
       "surface": "המלך",
-      "gloss": "masakɛ ka"
+      "gloss": "masakɛ"
     },
     {
       "surface": "יואב",
-      "gloss": "Yowab"
+      "gloss": "Yowab (Yowab)"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "i ka sarakalasebaga"
+      "marks": "i densonkɛ"
     },
     {
       "surface": "עבדך",
-      "gloss": "i ka sarakalasebaga"
+      "gloss": "i densonkɛ"
     },
     {
       "surface": "ולא",
-      "gloss": "nka ne ma"
+      "gloss": "nka … tɛ"
     },
     {
       "surface": "ידעתי",
-      "gloss": "dɔn"
+      "gloss": "ma dɔn"
     },
     {
       "surface": "מה",
       "gloss": "mun"
     }
   ],
-  "timestamp": "2026-10-13T22:44:54.269862200Z",
+  "timestamp": "2026-10-20T13:26:36.374578077Z",
   "model": "glm-5.3"
 }

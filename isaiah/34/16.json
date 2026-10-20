@@ -5,46 +5,15 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "aw ye Yawe ka sɛbɛn ɲini",
-      "rationale": "Imperatives summon the hearers to seek and read the book of Yawe."
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "Direct address plural to the hearers\/readers of the oracle."
-    },
-    {
-      "kind": "crux",
-      "subject": "פי … ורוחו",
-      "rationale": "KJV reads 'my mouth … his spirit' (person shift); Hebrew is 'his mouth … his spirit' — kept third person."
-    },
-    {
-      "kind": "mystery",
-      "subject": "sɛbɛn",
-      "rationale": "A sealed register: every creature named must appear, none missing — a book to be verified."
-    }
-  ],
-  "translation": "Aw ye Yawe ka sɛbɛn ɲini, aw ye kalan: o kelen-kelen ma bɔ yen, muso si ma janya a ka ɲɔgɔn dɔw la; sabu a da de y'o lase, a ka fiɲɛ de ye olu lamini.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "be46451dd92edafb0523ceaf717e748c137d83456733c8ef51a3463ed439caaa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/34\/13-16.1791934172934.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aw y'aw ye Yawe ka sɛbɛn la ɲini, aw k'a kalan: olu la, kelen tɛ o bɔli, muso tɛ a takɔn ɲami, sabu ⟨a⟩ ka da ko de, a ka fiɲɛ de ye u lamini ye.",
   "tokens": [
     {
       "surface": "דרשו",
-      "gloss": "aw ye … ɲini"
+      "gloss": "aw y'aw ye … ɲini"
     },
     {
       "surface": "מעל",
-      "gloss": "…la"
+      "gloss": "la"
     },
     {
       "surface": "ספר",
@@ -56,11 +25,11 @@
     },
     {
       "surface": "וקראו",
-      "gloss": "aw ye kalan"
+      "gloss": "aw k'a kalan"
     },
     {
       "surface": "אחת",
-      "gloss": "kelen-kelen"
+      "gloss": "kelen"
     },
     {
       "surface": "מהנה",
@@ -68,11 +37,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "tɛ"
     },
     {
       "surface": "נעדרה",
-      "gloss": "bɔ"
+      "gloss": "o bɔli"
     },
     {
       "surface": "אשה",
@@ -80,15 +49,15 @@
     },
     {
       "surface": "רעותה",
-      "gloss": "a ka ɲɔgɔn dɔ"
+      "gloss": "a takɔn"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "tɛ"
     },
     {
       "surface": "פקדו",
-      "gloss": "janya"
+      "gloss": "ɲami"
     },
     {
       "surface": "כי",
@@ -96,7 +65,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "a da"
+      "gloss": "da"
     },
     {
       "surface": "הוא",
@@ -104,7 +73,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "lase"
+      "gloss": "ko"
     },
     {
       "surface": "ורוחו",
@@ -116,9 +85,9 @@
     },
     {
       "surface": "קבצן",
-      "gloss": "lamini"
+      "gloss": "ye u lamini ye"
     }
   ],
-  "timestamp": "2026-10-13T23:29:32.936277994Z",
+  "timestamp": "2026-10-20T14:29:46.221410445Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "genamayɔrɔw",
-      "rationale": "אוצרות 'treasuries\/storehouses' rendered as storerooms of the house of Yawe"
-    },
-    {
-      "kind": "addition",
-      "subject": "O cogo la",
-      "rationale": " Hebrew opens with the verb ותשלם 'was completed'; connective framing added in Bambara"
-    }
-  ],
-  "translation": "O cogo la, masakɛ Shelomo (Seloma) ka Yawe so kɔnɔ baara bɛɛ banna. Shelomo naana ⟨את⟩ Dawuda (David) a fa ka senumafɛnw dona: ⟨את⟩ warigwɛ ni ⟨את⟩ sanu ni ⟨את⟩ fɛnw — o bɛ Yawe so ka genamayɔrɔw la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "7d6ba3acca2e5418d9fcf5ca8ffe1aa704458139c5246562adc8da4767c0c340",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/7\/49-51.1791931927870.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Baara bɛɛ min kɛra Yawe so kɔnɔ, masakɛ Shelomo (Suleman) y'a kɛ, o banna; kabanu, Shelomo naana ⟨את⟩ Dawid (Dawuda) ba kosennumaw — ⟨את⟩ warigwɛ ni ⟨את⟩ sanu ni ⟨את⟩ minɛnw — a y'u bila Yawe so mara-yɔrɔw la.",
   "tokens": [
     {
       "surface": "ותשלם",
-      "gloss": "banna"
+      "gloss": "o banna"
     },
     {
       "surface": "כל",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "kɛra"
+      "gloss": "y'a kɛ"
     },
     {
       "surface": "המלך",
@@ -75,19 +54,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Dawuda ka senumafɛnw"
+      "marks": "Dawid ba kosennumaw"
     },
     {
       "surface": "קדשי",
-      "gloss": "senumafɛnw"
+      "gloss": "kosennumaw"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawuda"
+      "gloss": "Dawid"
     },
     {
       "surface": "אביו",
-      "gloss": "a fa"
+      "gloss": "ba"
     },
     {
       "surface": "את",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ni ⟨את⟩",
       "marks": "sanu"
     },
     {
@@ -109,20 +88,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "fɛnw"
+      "gloss": "ni ⟨את⟩",
+      "marks": "minɛnw"
     },
     {
       "surface": "הכלים",
-      "gloss": "fɛnw"
+      "gloss": "minɛnw"
     },
     {
       "surface": "נתן",
-      "gloss": "dona"
+      "gloss": "a y'u bila"
     },
     {
       "surface": "באצרות",
-      "gloss": "genamayɔrɔw la"
+      "gloss": "mara-yɔrɔw la"
     },
     {
       "surface": "בית",
@@ -133,6 +112,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-13T22:52:07.875842569Z",
+  "timestamp": "2026-10-20T12:58:10.979921081Z",
   "model": "glm-5.3"
 }

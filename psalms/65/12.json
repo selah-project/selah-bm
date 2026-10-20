@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 65,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bonya",
-      "rationale": "דשן is fat\/grease, i.e. fertility-abundance; rendered as richness."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "kunwale",
-      "rationale": "עטרת 'crown' encircles the year's end as its crown — image kept literally."
-    }
-  ],
-  "translation": "I bɛ san kunwale ni i ka ɲumanya ye; i ka siraw bɛ bonya miiri bɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/65\/9-12.1791940432078.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I ye san in kɔnɔ ni i ka ɲumanye ye, ani i ka siraw bɛ bonya tu.",
   "tokens": [
     {
       "surface": "עטרת",
-      "gloss": "i bɛ san kunwale"
+      "gloss": "kɔnɔ"
     },
     {
       "surface": "שנת",
@@ -38,21 +17,21 @@
     },
     {
       "surface": "טובתך",
-      "gloss": "ni i ka ɲumanya ye"
+      "gloss": "i ka ɲumanye"
     },
     {
       "surface": "ומעגליך",
-      "gloss": "i ka siraw"
+      "gloss": "ani i ka siraw"
     },
     {
       "surface": "ירעפון",
-      "gloss": "bɛ miiri bɔ"
+      "gloss": "tu"
     },
     {
       "surface": "דשן",
       "gloss": "bonya"
     }
   ],
-  "timestamp": "2026-10-14T01:13:52.078984197Z",
+  "timestamp": "2026-10-20T15:37:58.420209027Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "preposition folded into 'ka mɛn kumaw' (listen to the words), no separate Bambara word"
-    },
-    {
-      "kind": "idiom",
-      "subject": "והשכם ושלח",
-      "rationale": "lit. 'rising early and sending' — idiom of persistent repeated sending, rendered 'ci ni ci kɔ' (sending and sending again)"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨n⟩",
-      "rationale": "Bambara needs the subject pronoun 'n' that Hebrew implies in the participle שלח"
-    }
-  ],
-  "translation": "ka mɛn n ka sukuw ka — nabiw ka kumaw minnu de, aw fɛ minnu ci, ni sɔgɔma-sɔgɔmaw ci ni ci kɔ, nka aw ma mɛn.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "1899e3346f2fce31185c979409cb4b8bc58539c792b5b1db7ba2294f4a950124",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/26\/5-8.1791935582561.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ka mɛn ne ka jonw, nabiw, kumaw minnu ne bɛ cilen aw ma, sɔgɔma ka ɲagami ka u cilen, nka aw ma u mɛn.",
   "tokens": [
     {
       "surface": "לשמע",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "על",
-      "gloss": "—"
+      "gloss": "⟨ka⟩"
     },
     {
       "surface": "דברי",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "n ka sukuw"
+      "gloss": "ne ka jonw"
     },
     {
       "surface": "הנבאים",
@@ -55,37 +29,37 @@
     },
     {
       "surface": "אשר",
-      "gloss": "minnu de"
+      "gloss": "minnu"
     },
     {
       "surface": "אנכי",
-      "gloss": "⟨n⟩"
+      "gloss": "ne"
     },
     {
       "surface": "שלח",
-      "gloss": "aw fɛ minnu ci"
+      "gloss": "bɛ cilen"
     },
     {
       "surface": "אליכם",
-      "gloss": ""
+      "gloss": "aw ma"
     },
     {
       "surface": "והשכם",
-      "gloss": "ni sɔgɔma-sɔgɔmaw ci"
+      "gloss": "sɔgɔma ka ɲagami"
     },
     {
       "surface": "ושלח",
-      "gloss": "ni ci kɔ"
+      "gloss": "ka u cilen"
     },
     {
       "surface": "ולא",
-      "gloss": "nka"
+      "gloss": "nka … ma"
     },
     {
       "surface": "שמעתם",
-      "gloss": "aw ma mɛn"
+      "gloss": "aw ma u mɛn"
     }
   ],
-  "timestamp": "2026-10-13T23:53:02.562217094Z",
+  "timestamp": "2026-10-20T14:39:32.841234278Z",
   "model": "glm-5.3"
 }

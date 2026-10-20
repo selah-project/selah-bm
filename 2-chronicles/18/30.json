@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Hebrew restrictive pair 'but only' folded into Bambara 'dɔrɔn de'; no single equivalent."
-    },
-    {
-      "kind": "you",
-      "subject": "chariot commanders",
-      "rationale": "King of Aram's direct command to his captains, negative imperatives."
-    },
-    {
-      "kind": "idiom",
-      "subject": "את הקטן את הגדול",
-      "rationale": "'with-small with-great' = 'with anyone at all'; rendered as paired merism fitini\/belebele."
-    }
-  ],
-  "translation": "Aram masakɛ y'a fɔ ⟨את⟩ warikɛlaw tɔgɔma minnu b'a la, ko: aw kana kɛlɛ kɛ ni fitini ye, ni belebele ye; aw kana kɛlɛ kɛ ni mɔgɔ si ye, ni Israyɛl masakɛ dɔrɔn de ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c9d1aeb95b3d3d6dcc254840197b793605355f4159f9dc6cb0e54c2316841357",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/18\/29-32.1791949208412.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aram masakɛ y'a da ⟨את⟩ a waraw ka ɲɛmɔgɔw kan, minnu bɛ a fɛ, ko: aw kana wolowolo kɛ ⟨את⟩ fitinɛnw ni ⟨את⟩ bonnw ye, fo ⟨את⟩ Yisraɛl masakɛ de dɔrɔn.",
   "tokens": [
     {
       "surface": "ומלך",
@@ -43,20 +17,20 @@
     },
     {
       "surface": "צוה",
-      "gloss": "y'a fɔ \/ y'a lasigi"
+      "gloss": "y'a da"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "warikɛlaw tɔgɔma minnu b'a la"
+      "marks": "waraw ka ɲɛmɔgɔw"
     },
     {
       "surface": "שרי",
-      "gloss": "warikɛlaw tɔgɔma"
+      "gloss": "ɲɛmɔgɔw"
     },
     {
       "surface": "הרכב",
-      "gloss": "warikɛlaw"
+      "gloss": "waraw"
     },
     {
       "surface": "אשר",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "b'a la"
+      "gloss": "a fɛ"
     },
     {
       "surface": "לאמר",
@@ -76,38 +50,38 @@
     },
     {
       "surface": "תלחמו",
-      "gloss": "kɛlɛ kɛ"
+      "gloss": "wolowolo kɛ"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ni",
-      "marks": "fitini"
+      "gloss": "⟨את⟩",
+      "marks": "fitinɛnw"
     },
     {
       "surface": "הקטן",
-      "gloss": "fitini"
+      "gloss": "fitinɛnw"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ni",
-      "marks": "belebele"
+      "gloss": "⟨את⟩",
+      "marks": "bonnw"
     },
     {
       "surface": "הגדול",
-      "gloss": "belebele"
+      "gloss": "bonnw"
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "fo"
     },
     {
       "surface": "אם",
-      "gloss": "—"
+      "gloss": "…"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ni",
-      "marks": "Israyɛl masakɛ"
+      "gloss": "⟨את⟩",
+      "marks": "Yisraɛl masakɛ"
     },
     {
       "surface": "מלך",
@@ -115,13 +89,13 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyɛl"
+      "gloss": "Yisraɛl"
     },
     {
       "surface": "לבדו",
       "gloss": "dɔrɔn de"
     }
   ],
-  "timestamp": "2026-10-14T03:40:08.413223547Z",
+  "timestamp": "2026-10-20T13:09:58.665392156Z",
   "model": "glm-5.3"
 }

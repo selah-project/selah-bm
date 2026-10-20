@@ -5,41 +5,15 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "senuma-yɔrɔ ka kɛ kabakurun-koɲɛ-bali ye",
-      "rationale": "The same Yawe is sanctuary to the faithful and stumbling-stone to both houses — readings turn on whether the stones apply to Yawe himself or to his sanctuary."
-    },
-    {
-      "kind": "substitution",
-      "subject": "so fila",
-      "rationale": "לשני בתי ישראל 'the two houses of Israel' likely = Israel (north) and Judah; the dual is kept literally."
-    },
-    {
-      "kind": "addition",
-      "subject": "bɛna kɛ … ye",
-      "rationale": "Bambara needs the future-copula frame that Hebrew carries in והיה alone."
-    }
-  ],
-  "translation": "A bɛna kɛ senumayɔrɔ ye, ani kabakurun koɲɛ-bali ye, ani kulu don-bali ye, Yisrayɛla so fila la; panya ani jalapo ye, Yerushalayim (Jerusalɛmu) ziguw la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d68edc4e0241c4a532cfc10469ab978202e514b13b9bddf4c3e633ee42a88a78",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/8\/13-16.1791933528870.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A bɛna kɛ ⟨yɔrɔ⟩ senuma ye; nka a ye kabakurun-min-bɛ-to-binya ye, ani kulu-min-bɛ-to-bila — Israyɛli so fila ye — fɛnsɛn ye ani ɲɛ-minɛn ye, mɔgɔw min bɛ Yerushalayim kɔnɔ.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "a bɛna kɛ"
+      "gloss": "A bɛna kɛ"
     },
     {
       "surface": "למקדש",
-      "gloss": "senumayɔrɔ ye"
+      "gloss": "yɔrɔ senuma"
     },
     {
       "surface": "ולאבן",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "נגף",
-      "gloss": "koɲɛ-bali"
+      "gloss": "min bɛ to-binya"
     },
     {
       "surface": "ולצור",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "מכשול",
-      "gloss": "don-bali"
+      "gloss": "min bɛ to-bila"
     },
     {
       "surface": "לשני",
@@ -67,25 +41,25 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrayɛla"
+      "gloss": "Israyɛli"
     },
     {
       "surface": "לפח",
-      "gloss": "panya"
+      "gloss": "fɛnsɛn"
     },
     {
       "surface": "ולמוקש",
-      "gloss": "ani jalapo"
+      "gloss": "ani ɲɛ-minɛn"
     },
     {
       "surface": "ליושב",
-      "gloss": "ziguw la"
+      "gloss": "mɔgɔw min bɛ … kɔnɔ"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Yerushalayim (Jerusalɛmu)"
+      "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-10-13T23:18:48.873662449Z",
+  "timestamp": "2026-10-20T14:35:47.949271418Z",
   "model": "glm-5.3"
 }

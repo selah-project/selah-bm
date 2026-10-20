@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Dawid ka kuma a ka balimaw ma",
-      "rationale": "David directly addresses his men, 'an balimaw' — correction of the wicked men's proposal"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הגדוד",
-      "rationale": "'raiding band\/troop' rendered 'gadu' (band of raiders), keeping the martial picture"
-    }
-  ],
-  "translation": "Dawid y'a fɔ ko: i kana o kɛ nin cogo na, an balimaw; ⟨את⟩ minnu Yawe ye an ma di, min ye an mara, ani min ye ⟨את⟩ gadu min nana an kan di an bolo la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "1db2dee95d7aac94700f307a771e0cbf0ab7ea87ae576d2707799530cc40cd75",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/30\/21-24.1791930942381.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawid ye a fɔ ko: aw kana nin kɛ cogo min na, an ka balimakɛw, ⟨את⟩ fɛn min ye Yawe di an ma, A ye an mara, ani A ye ⟨את⟩ sojatɔ-ka-bon min tun nana an kan, o di an bolo ma.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "y'a fɔ ko"
+      "gloss": "ye a fɔ ko"
     },
     {
       "surface": "דוד",
@@ -42,28 +21,28 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "kɛ"
+      "gloss": "aw kana nin kɛ"
     },
     {
       "surface": "כן",
-      "gloss": "nin cogo na"
+      "gloss": "cogo min na"
     },
     {
       "surface": "אחי",
-      "gloss": "an balimaw"
+      "gloss": "an ka balimakɛw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "minnu Yawe ye an ma di"
+      "marks": "fɛn min ye Yawe di an ma (אשר nɔfɛ)"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "נתן",
-      "gloss": "ye di"
+      "gloss": "di"
     },
     {
       "surface": "יהוה",
@@ -75,28 +54,29 @@
     },
     {
       "surface": "וישמר",
-      "gloss": "min ye an mara"
+      "gloss": "A ye an mara"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ an"
+      "gloss": "⟨את⟩",
+      "marks": "an"
     },
     {
       "surface": "ויתן",
-      "gloss": "min ye di"
+      "gloss": "A ye … di"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gadu"
+      "marks": "sojatɔ-ka-bon min tun nana an kan"
     },
     {
       "surface": "הגדוד",
-      "gloss": "gadu"
+      "gloss": "sojatɔ-ka-bon"
     },
     {
       "surface": "הבא",
-      "gloss": "min nana"
+      "gloss": "min tun nana"
     },
     {
       "surface": "עלינו",
@@ -104,9 +84,9 @@
     },
     {
       "surface": "בידנו",
-      "gloss": "an bolo la"
+      "gloss": "an bolo ma"
     }
   ],
-  "timestamp": "2026-10-13T22:35:42.385275881Z",
+  "timestamp": "2026-10-20T13:04:40.502810862Z",
   "model": "glm-5.3"
 }

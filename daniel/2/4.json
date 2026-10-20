@@ -5,42 +5,11 @@
   "book": "daniel",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Aramukan na",
-      "rationale": "ארמית marks that from here the book switches to Aramaic; KJV 'Syriack' is wrong, it is Aramaic"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨minɛ⟩",
-      "rationale": "Aramaic imperative softened with a supplied particle for natural Bambara address"
-    },
-    {
-      "kind": "invitation",
-      "subject": "to the king",
-      "rationale": "the Chaldeans address the king directly with a petition: tell us the dream"
-    },
-    {
-      "kind": "elision",
-      "subject": "וידברו",
-      "rationale": "verb of speaking rendered as 'ye … kuma fɔ'; Hebrew wayyiqtol narrative 'and' not carried"
-    }
-  ],
-  "translation": "Kashdenw ye Aramukan na masakɛ ma kuma fɔ: Masakɛ, i bɛ balo tele bɛɛ! I kaanudenw ma finyɛw dɔn min bɛ kɛ, o kuma fɔ minɛ, k'a fɔ ani a ɲɛfɔli, an b'ɔ tiɲɛ ne.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6dd1a43ceb25a69bb0ec9f934493f2477f8d50a3aa9dd7c0559e1e6b43af615b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/2\/4-4.1791951381149.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kashdenw ye Aramukan na kuma masakɛ ye, ko: Masakɛ, i ka balo fo tale ten! Suya in bɔn fɔ i ka sɔnbagaw ma, anw bɛna a ɲɛfɔli jira.",
   "tokens": [
     {
       "surface": "וידברו",
-      "gloss": "ye … kuma fɔ"
+      "gloss": "ka kuma"
     },
     {
       "surface": "הכשדים",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "למלך",
-      "gloss": "masakɛ ma"
+      "gloss": "masakɛ la"
     },
     {
       "surface": "ארמית",
@@ -60,11 +29,11 @@
     },
     {
       "surface": "לעלמין",
-      "gloss": "tele bɛɛ"
+      "gloss": "fo tale ten"
     },
     {
       "surface": "חיי",
-      "gloss": "balo"
+      "gloss": "i ka balo"
     },
     {
       "surface": "אמר",
@@ -72,21 +41,21 @@
     },
     {
       "surface": "חלמא",
-      "gloss": "finyɛw dɔn min bɛ kɛ"
+      "gloss": "suya"
     },
     {
       "surface": "לעבדיך",
-      "gloss": "i kaanudenw ma"
+      "gloss": "i ka sɔnbagaw ma"
     },
     {
       "surface": "ופשרא",
-      "gloss": "a ɲɛfɔli"
+      "gloss": "ni ɲɛfɔli"
     },
     {
       "surface": "נחוא",
-      "gloss": "tiɲɛ ne"
+      "gloss": "anw bɛna jira"
     }
   ],
-  "timestamp": "2026-10-14T04:16:21.150457907Z",
+  "timestamp": "2026-10-20T13:33:21.476345099Z",
   "model": "glm-5.3"
 }

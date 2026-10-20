@@ -5,36 +5,15 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ni",
-      "rationale": "waw-conjunction on ואחרח rendered as Bambara 'ni'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "ordinal genealogy",
-      "rationale": "birth-order counting: firstborn, second, third"
-    }
-  ],
-  "translation": "Binyamin (Binjamɛn) ye ⟨את⟩ Bɛla a denkɛ fɔlɔ, Ashbel filanan, ni Aharah sabanan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0f1e06e25412f021c74b48f1291d84477a5280bc83062d985c9da25bce5c2863",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/8\/1-4.1791947657892.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni Binjamin ye ⟨את⟩ Bɛla, a denkɛ fɔlɔ, bɔ; Ashbel ye filanan ye, ni Aharah ye sabanan ye.",
   "tokens": [
     {
       "surface": "ובנימן",
-      "gloss": "Binyamin"
+      "gloss": "Ni Binjamin"
     },
     {
       "surface": "הוליד",
-      "gloss": "ye … denw bɔ"
+      "gloss": "bɔ"
     },
     {
       "surface": "את",
@@ -59,13 +38,13 @@
     },
     {
       "surface": "ואחרח",
-      "gloss": "ni Aharah"
+      "gloss": "Aharah"
     },
     {
       "surface": "השלישי",
       "gloss": "sabanan"
     }
   ],
-  "timestamp": "2026-10-14T03:14:17.893384447Z",
+  "timestamp": "2026-10-20T12:50:18.465988045Z",
   "model": "glm-5.3"
 }

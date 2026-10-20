@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "a bɛ ne segin k'a bɔ a fɛ",
-      "rationale": "Hebrew והשבני is causative 'he will bring me back'; Bambara needs a fuller verb phrase"
-    },
-    {
-      "kind": "substitution",
-      "subject": "a ka so",
-      "rationale": "נוהו is 'his lovely dwelling\/pasture-home', rendered with the plain word for house"
-    },
-    {
-      "kind": "you",
-      "subject": "to Tsadok",
-      "rationale": "the king addresses Tsadok directly with the imperative השב"
-    }
-  ],
-  "translation": "Masakɛ ko Tsadok (Tsadok) ye: “Segin ⟨את⟩ Ala ka sandigaso dugu la. Ni ne bɛna kanuya sɔrɔ Yawe ka ɲɛ na, a bɛ ne segin k’a bɔ a fɛ, a bɛna ne ye ⟨את⟩ a yɛrɛ ni ⟨את⟩ a ka so.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cc210c487d4ce651afe49f709d9a132c8e32cef78414f62baffeb3269c679849",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/15\/25-28.1791931333548.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masa ye Tsadok (Zadok) ye ko: segin ⟨את⟩ Elohim ka kabakurun dugu la. Ni ne bɛna sɔngoya sɔrɔ Yawe ɲɛ na, a bɛna n segin, a bɛna ⟨את⟩ a ye ne ye, ani ⟨את⟩ a so.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "masakɛ"
+      "gloss": "Masa"
     },
     {
       "surface": "לצדוק",
-      "gloss": "Tsadok"
+      "gloss": "Tsadok (Zadok) ye"
     },
     {
       "surface": "השב",
@@ -52,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ala ka sandigaso"
+      "marks": "Elohim ka kabakurun"
     },
     {
       "surface": "ארון",
-      "gloss": "sandigaso"
+      "gloss": "kabakurun"
     },
     {
       "surface": "האלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "העיר",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "אמצא",
-      "gloss": "sɔrɔ"
+      "gloss": "bɛna sɔrɔ"
     },
     {
       "surface": "חן",
-      "gloss": "kanuya"
+      "gloss": "sɔngoya"
     },
     {
       "surface": "בעיני",
@@ -88,27 +62,27 @@
     },
     {
       "surface": "והשבני",
-      "gloss": "segin ne"
+      "gloss": "a bɛna n segin"
     },
     {
       "surface": "והראני",
-      "gloss": "ye ne ye"
+      "gloss": "a bɛna a ye ne ye"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "a (sandigaso)"
+      "gloss": "⟨את⟩ a",
+      "marks": "a (Elohim ka kabakurun)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "a ka so"
+      "gloss": "ani ⟨את⟩",
+      "marks": "a so"
     },
     {
       "surface": "נוהו",
-      "gloss": "a ka so"
+      "gloss": "a so"
     }
   ],
-  "timestamp": "2026-10-13T22:42:13.551667234Z",
+  "timestamp": "2026-10-20T13:25:44.766698490Z",
   "model": "glm-5.3"
 }

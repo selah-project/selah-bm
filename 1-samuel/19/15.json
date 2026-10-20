@@ -5,85 +5,64 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kokura",
-      "rationale": "'again' supplied — Hebrew has only וישלח, context marks it a second sending"
-    },
-    {
-      "kind": "you",
-      "subject": "to the messengers",
-      "rationale": "Saul's imperative העלו addresses the messengers directly"
-    }
-  ],
-  "translation": "Sha-ul ye ⟨את⟩ cidennw ci kokura ka Dawida ye, ko: aw y'a min liti na n'na, walasa k'a faga.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/19\/13-16.1791930442711.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Shaul ye cidenw ci ka ⟨את⟩ Dawid ye, k'u ko: “Aw ye ⟨את⟩ a minɛ a sɔngɔda la, n'a bɔ yori n'fɛ, walasa n k'a sa.”",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ye ... ci"
+      "gloss": "ye … ci"
     },
     {
       "surface": "שאול",
-      "gloss": "Sha-ul"
+      "gloss": "Shaul"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cidennw"
+      "marks": "cidenw"
     },
     {
       "surface": "המלאכים",
-      "gloss": "cidennw"
+      "gloss": "cidenw"
     },
     {
       "surface": "לראות",
-      "gloss": "ka ... ye"
+      "gloss": "ka … ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Dawida"
+      "marks": "Dawid"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawida"
+      "gloss": "Dawid"
     },
     {
       "surface": "לאמר",
-      "gloss": "ko"
+      "gloss": "k'u ko"
     },
     {
       "surface": "העלו",
-      "gloss": "aw y'a ... na"
+      "gloss": "aw ye … bɔ yori na"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "a (Dawida)"
+      "marks": "a sɔngɔda"
     },
     {
       "surface": "במטה",
-      "gloss": "liti la"
+      "gloss": "a sɔngɔda la"
     },
     {
       "surface": "אלי",
-      "gloss": "ne ma"
+      "gloss": "n'fɛ"
     },
     {
       "surface": "להמתו",
-      "gloss": "walasa k'a faga"
+      "gloss": "walasa n k'a sa"
     }
   ],
-  "timestamp": "2026-10-13T22:27:22.713484026Z",
+  "timestamp": "2026-10-20T13:01:29.408115508Z",
   "model": "glm-5.3"
 }

@@ -5,53 +5,27 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מיד \/ bolo",
-      "rationale": "'bolo' (hand) figurative power, similar to Hebrew יד."
-    },
-    {
-      "kind": "addition",
-      "subject": "walasa",
-      "rationale": "Hebrew waw + save; purpose connector supplied in Bambara."
-    },
-    {
-      "kind": "you",
-      "subject": "Shemuɛl",
-      "rationale": "Israel's children address Samuel directly with a petition."
-    }
-  ],
-  "translation": "Yisrayɛl denw ye Shemuɛl (Samuɛl) ko: i kana sisigi an ye, ka tɛmɛ ka wele Yawe, an ka Ala ma; walasa a ka an falen Filistiniw (Filiste) bolo ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "407b60a19de815fa89ec8ed7072ad2df27ac2fceb36a0db8dee5c8bdbf181459",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/7\/8-8.1791950168953.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Isiraeli denw y'a fɔ Shemuwɛl (Samuel) fɛ ko: i kana tɛgin an bolo, ka weleli bila ka taa Yawe, an ka Elohim nɔ na, walasa o ka an filili Filistitiw bolo na.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ye … ko"
+      "gloss": "y'a fɔ"
     },
     {
       "surface": "בני",
       "gloss": "denw"
     },
     {
-      "surface": "ישׂראל",
-      "gloss": "Yisrayɛl"
+      "surface": "ישראל",
+      "gloss": "Isiraeli"
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "fɛ"
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuɛl"
+      "gloss": "Shemuwɛl"
     },
     {
       "surface": "אל",
@@ -59,19 +33,19 @@
     },
     {
       "surface": "תחרש",
-      "gloss": "sisigi"
+      "gloss": "tɛgin"
     },
     {
       "surface": "ממנו",
-      "gloss": "an ye"
+      "gloss": "an bolo"
     },
     {
       "surface": "מזעק",
-      "gloss": "wele"
+      "gloss": "weleli bila"
     },
     {
       "surface": "אל",
-      "gloss": "⟨ma⟩"
+      "gloss": "ka taa"
     },
     {
       "surface": "יהוה",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "an ka Ala"
+      "gloss": "an ka Elohim"
     },
     {
       "surface": "וישענו",
-      "gloss": "a ka an falen"
+      "gloss": "o ka an filili"
     },
     {
       "surface": "מיד",
@@ -91,9 +65,9 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistiniw"
+      "gloss": "Filistitiw"
     }
   ],
-  "timestamp": "2026-10-14T03:56:08.953542516Z",
+  "timestamp": "2026-10-20T13:06:21.072961739Z",
   "model": "glm-5.3"
 }

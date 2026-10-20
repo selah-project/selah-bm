@@ -5,45 +5,19 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 71,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "ספרות",
-      "rationale": "ספורה 'numbering' appears only here in the Tanakh"
-    },
-    {
-      "kind": "you",
-      "subject": "to Yawe",
-      "rationale": "direct address declaring God's righteousness and rescue"
-    },
-    {
-      "kind": "addition",
-      "subject": "o",
-      "rationale": "object pronoun supplied — Hebrew leaves 'them' (the numbers) implicit"
-    }
-  ],
-  "translation": "N ka da bɛna i ka ɲumaninya fɔ, i ka musakaw bɔli don o don bɛɛ; sabu n tɛ o jatelenw dɔn.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0a1ee5dc1511e1ef3f3520935b85d72f87a00495bbe70beb00fb03821231156b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/71\/13-16.1791940569435.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N ka da bɛna i ka keneya fɔ, ni i ka fangatigɛbɔ don bɛɛ, sabu n tɛ o jatew dɔn.",
   "tokens": [
     {
       "surface": "פי",
       "gloss": "n ka da"
     },
     {
-      "surface": "יסספר",
-      "gloss": "bɛna ... fɔ"
+      "surface": "יספר",
+      "gloss": "bɛna fɔ"
     },
     {
       "surface": "צדקתך",
-      "gloss": "i ka ɲumaninya"
+      "gloss": "i ka keneya"
     },
     {
       "surface": "כל",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "היום",
-      "gloss": "don o don"
+      "gloss": "don"
     },
     {
       "surface": "תשועתך",
-      "gloss": "i ka musakaw bɔli"
+      "gloss": "i ka fangatigɛbɔ"
     },
     {
       "surface": "כי",
@@ -67,13 +41,13 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "n ... dɔn"
+      "gloss": "n dɔn"
     },
     {
       "surface": "ספרות",
-      "gloss": "o jatelenw"
+      "gloss": "jatew"
     }
   ],
-  "timestamp": "2026-10-14T01:16:09.436520472Z",
+  "timestamp": "2026-10-20T15:39:10.333367968Z",
   "model": "glm-5.3"
 }

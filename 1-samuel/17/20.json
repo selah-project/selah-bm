@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "kurun-kuru",
-      "rationale": "המעגלה: 'the wagon-circle\/rampart' (KJV 'trench', ASV 'place of the wagons', YLT 'the path') — the circle-of-wagons picture is kept"
-    },
-    {
-      "kind": "substitution",
-      "subject": "y'u ka kan wuli",
-      "rationale": "הריעו is 'raise a shout (rua)'; rendered 'lifted their voice' since Bamanankan has no single war-shout verb"
-    }
-  ],
-  "translation": "Dawid y'i wuli sɔgɔma-tile la, o ye ⟨את⟩ baganw bila marabaga ma, ka ta ka taa, i n'a fɔ Yishay y'a ɲini cogo min na; a yaka na kurun-kuru la, kɛlɛkɛw minnu bɛ bɔ ɲɛ-sira la, u y'u ka kan wuli kɛlɛ kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0ae7269ca59e02ce205286d9e0deda27bd71d5724ff930513c96d778131a3a27",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/17\/17-20.1791930528490.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawid y'a to sɔgɔma na, ka ⟨את⟩ sagaw di kɔlɔsikɛla ma, ka ta ka taa, Yeshi min y'a ɲini cogo min na; a nana sira-tilen na, ani so min tun bɛ bɔ ka taa ɲɛnamafa kɔnɔ, ka u kɛgɛ silibya ɛtɛrɛ na.",
   "tokens": [
     {
       "surface": "וישכם",
-      "gloss": "y'i wuli sɔgɔma-tile"
+      "gloss": "y'a to sɔgɔma na"
     },
     {
       "surface": "דוד",
@@ -38,20 +17,20 @@
     },
     {
       "surface": "בבקר",
-      "gloss": "sɔgɔma-tile la"
+      "gloss": "sɔgɔma"
     },
     {
-      "surface": "ויטוש",
-      "gloss": "o ye ⟨את⟩ bila"
+      "surface": "ויטש",
+      "gloss": "ka sagaw di"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "baganw"
+      "marks": "sagaw"
     },
     {
       "surface": "הצאן",
-      "gloss": "baganw"
+      "gloss": "sagaw"
     },
     {
       "surface": "על",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "שמר",
-      "gloss": "marabaga"
+      "gloss": "kɔlɔsikɛla"
     },
     {
       "surface": "וישא",
@@ -71,49 +50,49 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "i n'a fɔ … cogo min na"
+      "gloss": "cogo min na"
     },
     {
       "surface": "צוהו",
-      "gloss": "y'a ɲini"
+      "gloss": "min y'a ɲini"
     },
     {
       "surface": "ישי",
-      "gloss": "Yishay"
+      "gloss": "Yeshi"
     },
     {
       "surface": "ויבא",
-      "gloss": "a yaka na"
+      "gloss": "nana"
     },
     {
       "surface": "המעגלה",
-      "gloss": "kurun-kuru la"
+      "gloss": "sira-tilen"
     },
     {
       "surface": "והחיל",
-      "gloss": "kɛlɛkɛw"
+      "gloss": "so"
     },
     {
       "surface": "היצא",
-      "gloss": "minnu bɛ bɔ"
+      "gloss": "tun bɛ bɔ ka taa"
     },
     {
       "surface": "אל",
-      "gloss": "ka taa"
+      "gloss": "kɔnɔ"
     },
     {
       "surface": "המערכה",
-      "gloss": "ɲɛ-sira la"
+      "gloss": "ɲɛnamafa"
     },
     {
       "surface": "והרעו",
-      "gloss": "u y'u ka kan wuli"
+      "gloss": "ka u kɛgɛ silibya"
     },
     {
       "surface": "במלחמה",
-      "gloss": "kɛlɛ kɔnɔ"
+      "gloss": "ɛtɛrɛ"
     }
   ],
-  "timestamp": "2026-10-13T22:28:48.493281524Z",
+  "timestamp": "2026-10-20T13:01:05.361892424Z",
   "model": "glm-5.3"
 }

@@ -5,43 +5,27 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "כל בני המלך",
-      "rationale": "repetition of בני from v.25 ('my son') — all the king's sons sent into danger while 'my son' is refused"
-    }
-  ],
-  "translation": "Awshalom y'a kɔngɔ, a y'⟨את⟩ Amnon ci ka taa a ni, ni ⟨את⟩ masakɛ denkɛw bɛɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a1777aada9a877ef59f3562ee5e913a1d1863261ceeb29e646f5ba7cadae7026",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/13\/25-28.1791931220128.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Abshalom ye a kɔtɛ, a ye ⟨את⟩ Amnon ni ⟨את⟩ masakɛ denkɛw bɛɛ ci ni a ye.",
   "tokens": [
     {
       "surface": "ויפרץ",
-      "gloss": "y'a kɔngɔ"
+      "gloss": "kɔtɛ"
     },
     {
       "surface": "בו",
-      "gloss": "a"
+      "gloss": "a la"
     },
     {
       "surface": "אבשלום",
-      "gloss": "Awshalom"
+      "gloss": "Abshalom"
     },
     {
       "surface": "וישלח",
-      "gloss": "a y'a ci"
+      "gloss": "ci"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ a ni"
+      "gloss": "⟨את⟩ ni a ye"
     },
     {
       "surface": "את",
@@ -54,8 +38,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ni ⟨את⟩",
-      "marks": "masakɛ denkɛw bɛɛ"
+      "gloss": "⟨את⟩",
+      "marks": "bɛɛ"
     },
     {
       "surface": "כל",
@@ -70,6 +54,6 @@
       "gloss": "masakɛ"
     }
   ],
-  "timestamp": "2026-10-13T22:40:20.130452664Z",
+  "timestamp": "2026-10-20T13:24:02.676701345Z",
   "model": "glm-5.3"
 }

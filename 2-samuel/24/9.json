@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "jate",
-      "rationale": "census totals: 800,000 for Israyɛl and 500,000 for Yuda."
-    },
-    {
-      "kind": "crux",
-      "subject": "jate jatelenw",
-      "rationale": "these totals differ from 1 Chronicles 21:5 (1,100,000 and 470,000); famous discrepancy."
-    }
-  ],
-  "translation": "Yoab ye ⟨את⟩ jate min bɛ mɔgɔw lajɛli kɔnɔ di masakɛ ma; Israyɛl kɛra wolonwula kɛmɛ ni 1000 cɛ ye, sebagaw minnu bɛ npan wɔli, ani Yuda cɛw duuru kɛmɛ ni 1000 mɔgɔ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ccb36c88e6943138e0a0fce5cd265d3d4dab3a87660e26bf9fdebdd84e6eac7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/24\/9-12.1791931623153.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yoaw ye ⟨את⟩ mɔgɔw ka jate-jatebaw di masakɛ ma; Yisraɛl tun ye cɛ segin ba (kɛmɛ wolonwula ni tusant) ye minnu ye se ka npan bɔ, ani Yuda cɛw tun ye duuru ba (kɛmɛ duuru ni tusant) ye.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -34,20 +13,20 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Yoab"
+      "gloss": "Yoaw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jate"
+      "marks": "jate-jatebaw"
     },
     {
       "surface": "מספר",
-      "gloss": "jate"
+      "gloss": "jate-jatebaw"
     },
     {
       "surface": "מפקד",
-      "gloss": "lajɛli"
+      "gloss": "kɔlɔsili-jate"
     },
     {
       "surface": "העם",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ma"
+      "gloss": "… ma"
     },
     {
       "surface": "המלך",
@@ -63,23 +42,23 @@
     },
     {
       "surface": "ותהי",
-      "gloss": "kɛra"
+      "gloss": "tun ye … ye"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyɛl"
+      "gloss": "Yisraɛl"
     },
     {
       "surface": "שמנה",
-      "gloss": "wolonwula"
+      "gloss": "segin"
     },
     {
       "surface": "מאות",
-      "gloss": "kɛmɛ"
+      "gloss": "kɛmɛ wolonwula"
     },
     {
       "surface": "אלף",
-      "gloss": "1000"
+      "gloss": "tusant"
     },
     {
       "surface": "איש",
@@ -87,11 +66,11 @@
     },
     {
       "surface": "חיל",
-      "gloss": "sebagaw"
+      "gloss": "se ka npan bɔ"
     },
     {
       "surface": "שלף",
-      "gloss": "wɔli"
+      "gloss": "bɔ"
     },
     {
       "surface": "חרב",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "ואיש",
-      "gloss": "ani cɛw"
+      "gloss": "ani … cɛw"
     },
     {
       "surface": "יהודה",
@@ -111,17 +90,17 @@
     },
     {
       "surface": "מאות",
-      "gloss": "kɛmɛ"
+      "gloss": "kɛmɛ duuru"
     },
     {
       "surface": "אלף",
-      "gloss": "1000"
+      "gloss": "tusant"
     },
     {
       "surface": "איש",
-      "gloss": "mɔgɔ"
+      "gloss": "cɛw"
     }
   ],
-  "timestamp": "2026-10-13T22:47:03.159441781Z",
+  "timestamp": "2026-10-20T13:29:13.154509784Z",
   "model": "glm-5.3"
 }

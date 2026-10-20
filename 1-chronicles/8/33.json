@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ani",
-      "rationale": "Bamanankan needs 'ani' between listed sons; Hebrew has only vav"
-    },
-    {
-      "kind": "crux",
-      "subject": "Eshbaal",
-      "rationale": "Ishbosheth in 2 Sam — Chronicles keeps the -baal name; rendered Eshbaal as written"
-    }
-  ],
-  "translation": "Ner ye ⟨את⟩ Kish (Kisu)Den bɔ, Kish ye ⟨את⟩ Shaul (Sawula) den bɔ, Shaul ye ⟨את⟩ Yehonatan ani ⟨את⟩ Malkishu'a ani ⟨את⟩ Avinadav ani ⟨את⟩ Eshbaal denw bɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "fdb979566934f7093a7a4b825b49587a6b58e4faed35deb3c9a3c89dd0fd2d88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/8\/33-36.1791947681882.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ner ye ⟨את⟩ Kish den bɔ, Kish ye ⟨את⟩ Shaul den bɔ, ani Shaul ye ⟨את⟩ Yehonatan ni ⟨את⟩ Malkishua ni ⟨את⟩ Abinadab ni ⟨את⟩ Eshbaal den bɔ.",
   "tokens": [
     {
       "surface": "ונר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "ye … den bɔ"
+      "gloss": "den bɔ"
     },
     {
       "surface": "את",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "ye … den bɔ"
+      "gloss": "den bɔ"
     },
     {
       "surface": "את",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "ye … den bɔ"
+      "gloss": "den bɔ"
     },
     {
       "surface": "את",
@@ -81,29 +60,29 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩",
-      "marks": "Malkishu'a"
+      "gloss": "ni ⟨את⟩",
+      "marks": "Malkishua"
     },
     {
       "surface": "מלכי",
-      "gloss": "Malkishu'a"
+      "gloss": "Malki-"
     },
     {
       "surface": "שוע",
-      "gloss": "Malkishu'a"
+      "gloss": "shua"
     },
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩",
-      "marks": "Avinadav"
+      "gloss": "ni ⟨את⟩",
+      "marks": "Abinadab"
     },
     {
       "surface": "אבינדב",
-      "gloss": "Avinadav"
+      "gloss": "Abinadab"
     },
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩",
+      "gloss": "ni ⟨את⟩",
       "marks": "Eshbaal"
     },
     {
@@ -111,6 +90,6 @@
       "gloss": "Eshbaal"
     }
   ],
-  "timestamp": "2026-10-14T03:14:41.883066023Z",
+  "timestamp": "2026-10-20T12:50:37.431900130Z",
   "model": "glm-5.3"
 }

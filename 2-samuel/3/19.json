@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "באזני",
-      "rationale": "'in the ears of' = 'to speak to'; kept literal as 'tulo na' since Bambara also says words enter the ear"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גם … גם",
-      "rationale": "repeated 'also' frames Abner's double mission (Benjamin, then David); flattened to 'fana'"
-    }
-  ],
-  "translation": "Awner y'a fɔ Binyamin tulo na fana, ani Awner y'a yala taa Khebron, k'a fɔ Dawid tulo na: fɛn bɛɛ min ye Yisrael ɲɛ ka dɔɔnin, ani Binyamin so bɛɛ ɲɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/3\/17-20.1791930916899.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Abner (Abunɛru) fana ye kuma Binyamin tulo la, k'Abner fana ta ka kuma Dawid (Dawuda) tulo la Hewron (Hebron), ⟨את⟩ fɛn bɛɛ min ye Yisrayɛla (Isirayɛla) ɲɛ da ye, ani min ye Binyamin so bɛɛ ɲɛ da ye.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "y'a fɔ"
+      "gloss": "ye kuma"
     },
     {
       "surface": "גם",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אבנר",
-      "gloss": "Awner"
+      "gloss": "Abner"
     },
     {
       "surface": "באזני",
-      "gloss": "tulo na"
+      "gloss": "tulo la"
     },
     {
       "surface": "בנימין",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "וילך",
-      "gloss": "y'a yala taa"
+      "gloss": "ta"
     },
     {
       "surface": "גם",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "אבנר",
-      "gloss": "Awner"
+      "gloss": "Abner"
     },
     {
       "surface": "לדבר",
-      "gloss": "k'a fɔ"
+      "gloss": "ka kuma"
     },
     {
       "surface": "באזני",
-      "gloss": "tulo na"
+      "gloss": "tulo la"
     },
     {
       "surface": "דוד",
@@ -74,12 +53,12 @@
     },
     {
       "surface": "בחברון",
-      "gloss": "Khebron"
+      "gloss": "Hewron"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fɛn bɛɛ min ye Yisrael ɲɛ ka dɔɔnin"
+      "marks": "fɛn bɛɛ"
     },
     {
       "surface": "כל",
@@ -91,19 +70,19 @@
     },
     {
       "surface": "טוב",
-      "gloss": "ka dɔɔnin"
+      "gloss": "ka di"
     },
     {
       "surface": "בעיני",
-      "gloss": "ɲɛ"
+      "gloss": "ɲɛ da"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisrayɛla"
     },
     {
       "surface": "ובעיני",
-      "gloss": "ani … ɲɛ"
+      "gloss": "ɲɛ da"
     },
     {
       "surface": "כל",
@@ -118,6 +97,6 @@
       "gloss": "Binyamin"
     }
   ],
-  "timestamp": "2026-10-13T22:35:16.902705070Z",
+  "timestamp": "2026-10-20T13:29:45.154131879Z",
   "model": "glm-5.3"
 }

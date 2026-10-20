@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 55,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויענם",
-      "rationale": "'answer them' vs 'afflict\/humble them'; the root ענה carries both, and Bambara jaabi keeps only the answering sense."
-    },
-    {
-      "kind": "crux",
-      "subject": "חליפות",
-      "rationale": "'no changes' — vague: no changes of fortune, no succession\/replacement, no repentance; Bambara yɛlɛmali keeps the openness."
-    },
-    {
-      "kind": "elision",
-      "subject": "סלה",
-      "rationale": "Musical pause marker kept as Selah, untranslatable."
-    }
-  ],
-  "translation": "El bɛ mɛn ani a b'u jaabi, min bɛ jɔ kɔrɔ kɔrɔ la, Selah; minnu ye yɛlɛmali si sɔrɔ, olu tɛ Ala siran.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/55\/17-20.1791940357165.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "El bɛ mɛn, ka u nɛnɛ, A min sigilen kɔnɔ kɔrɔnin na. Sela. Sabu yɛlɛmali si tɛ u kɔnɔ, o de la u tɛ Elohim siran.",
   "tokens": [
     {
       "surface": "ישמע",
@@ -43,27 +17,27 @@
     },
     {
       "surface": "ויענם",
-      "gloss": "a b'u jaabi"
+      "gloss": "ka u nɛnɛ"
     },
     {
       "surface": "וישב",
-      "gloss": "min bɛ jɔ"
+      "gloss": "min sigilen"
     },
     {
       "surface": "קדם",
-      "gloss": "kɔrɔ kɔrɔ la"
+      "gloss": "kɔrɔnin"
     },
     {
       "surface": "סלה",
-      "gloss": "Selah"
+      "gloss": "Sela"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "sabu"
     },
     {
       "surface": "אין",
-      "gloss": "si"
+      "gloss": "si tɛ"
     },
     {
       "surface": "חליפות",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "למו",
-      "gloss": "olu"
+      "gloss": "u kɔnɔ"
     },
     {
       "surface": "ולא",
@@ -83,9 +57,9 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-14T01:12:37.166906211Z",
+  "timestamp": "2026-10-20T15:37:53.209828517Z",
   "model": "glm-5.3"
 }

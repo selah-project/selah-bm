@@ -5,52 +5,31 @@
   "book": "genesis",
   "lang": "bm",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "jalaki",
-      "rationale": "כבדו literally 'were heavy' — English versions soften to 'dim'; Bambara keeps the weight picture"
-    },
-    {
-      "kind": "addition",
-      "subject": "a y'u ta ka na a fɛ",
-      "rationale": "ויגש 'he brought near' expanded into a full verb phrase; subject not explicit in Hebrew"
-    }
-  ],
-  "translation": "Yisraɛl (Yakuba) ɲɛnw jalaki kɔkɔrɔya la, a ma se ka ye; a y'u ta ka na a fɛ, a y'u nu, a y'u mine.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cba49df6cdaa1dfefdf706c7d7e090141baac61ce9eb298fb8c2c5035891f712",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/genesis\/48\/9-12.1791926858056.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yisrael ka ɲɛw jantira kɔkɔrɔya sabu, a man se ka ye; a y'u ⟨את⟩ ɲɛsin a ma, a y'u basi, ani a y'u gɛnɛ.",
   "tokens": [
     {
       "surface": "ועיני",
-      "gloss": "ɲɛnw"
+      "gloss": "ɲɛw"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraɛl"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כבדו",
-      "gloss": "jalaki"
+      "gloss": "jantira"
     },
     {
       "surface": "מזקן",
-      "gloss": "kɔkɔrɔya la"
+      "gloss": "kɔkɔrɔya sabu"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "a man se"
     },
     {
       "surface": "יוכל",
-      "gloss": "se"
+      "gloss": "man se"
     },
     {
       "surface": "לראות",
@@ -58,20 +37,20 @@
     },
     {
       "surface": "ויגש",
-      "gloss": "ta ka na a fɛ"
+      "gloss": "a y'u ɲɛsin a ma"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "u"
+      "marks": "a ma (u — Yosefu denkɛw)"
     },
     {
       "surface": "אליו",
-      "gloss": "a fɛ"
+      "gloss": "a ma"
     },
     {
       "surface": "וישק",
-      "gloss": "nu"
+      "gloss": "a y'u basi"
     },
     {
       "surface": "להם",
@@ -79,13 +58,13 @@
     },
     {
       "surface": "ויחבק",
-      "gloss": "mine"
+      "gloss": "a y'u gɛnɛ"
     },
     {
       "surface": "להם",
       "gloss": "u"
     }
   ],
-  "timestamp": "2026-10-13T21:27:38.057777719Z",
+  "timestamp": "2026-10-20T15:47:46.339236864Z",
   "model": "glm-5.3"
 }

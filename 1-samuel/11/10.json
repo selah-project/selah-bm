@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Amɔn (Nahash)",
-      "rationale": "the men of Jabesh address the Ammonite besiegers without naming them — Hebrew omits the addressee"
-    },
-    {
-      "kind": "secret",
-      "subject": "deception",
-      "rationale": "the speech conceals the planned rescue, a ruse addressed to the enemy"
-    }
-  ],
-  "translation": "Yawesh mɔgɔw ko: sini an bɛna bɔ aw la, aw bɛna anw kɛ fɛn min ka nyi aw ɲɛw ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "53cf25570542505c951b92bd76edc9d4bb62050e171184edbd1287d73d785a32",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/11\/9-12.1791930127620.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yabesh (Yabesu) mɔgɔw ko: “Sini an bɛna bɔ aw fɛ, aw ye min bɛ ka ɲi aw ɲɛ na bɛɛ kɛ an ye.”",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "u ko"
+      "gloss": "ko"
     },
     {
       "surface": "אנשי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "יביש",
-      "gloss": "Yawesh"
+      "gloss": "Yabesh"
     },
     {
       "surface": "מחר",
@@ -50,29 +29,29 @@
     },
     {
       "surface": "אליכם",
-      "gloss": "aw la"
+      "gloss": "aw fɛ"
     },
     {
-      "surface": "ויעשיתם",
-      "gloss": "aw bɛna kɛ"
+      "surface": "ועשיתם",
+      "gloss": "aw ye … kɛ"
     },
     {
       "surface": "לנו",
-      "gloss": "anw"
+      "gloss": "an ye"
     },
     {
       "surface": "ככל",
-      "gloss": "i bɛɛ i yɛrɛ la"
+      "gloss": "bɛɛ"
     },
     {
       "surface": "הטוב",
-      "gloss": "ka nyi"
+      "gloss": "ka ɲi"
     },
     {
       "surface": "בעיניכם",
-      "gloss": "aw ɲɛw ye"
+      "gloss": "aw ɲɛ na"
     }
   ],
-  "timestamp": "2026-10-13T22:22:07.621796610Z",
+  "timestamp": "2026-10-20T15:53:13.729188671Z",
   "model": "glm-5.3"
 }

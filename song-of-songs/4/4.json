@@ -5,58 +5,27 @@
   "book": "song-of-songs",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "תלפיות",
-      "rationale": "occurs only here; 'turrets\/rows of courses' vs 'armoury' (KJV)"
-    },
-    {
-      "kind": "measurement",
-      "subject": "thousand",
-      "rationale": "the shields hanging on the tower are counted: a thousand"
-    },
-    {
-      "kind": "addition",
-      "subject": "ye",
-      "rationale": "Hebrew nominal clause lacks a copula; Bambara needs ye"
-    },
-    {
-      "kind": "you",
-      "subject": "to the beloved",
-      "rationale": "direct address continues"
-    }
-  ],
-  "translation": "I ka kunkolotila ye Dawuda (Dawida) ka gungan-so ye, min bɛ ɔn ni tila-ɲɔgɔnyaw ye; kɛnɛ tangafɛn de bɛ a kan, seko-kɛnw ka tangafɛn bɛɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/song-of-songs\/4\/1-4.1791944664227.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I ka dɛgɛn bɛ tɛi i n'a fɔ Dawid ka so jan, min banna talpiyotw ye; kɛnɛ gafe bɛ a lamɛn a kan, gibilenw bɛɛ ka gafe.",
   "tokens": [
     {
       "surface": "כמגדל",
-      "gloss": "gungan-so i ye"
+      "gloss": "i n'a fɔ so jan"
     },
     {
       "surface": "דויד",
-      "gloss": "Dawuda"
+      "gloss": "Dawid"
     },
     {
       "surface": "צוארך",
-      "gloss": "i kunkolotila"
+      "gloss": "i ka dɛgɛn"
     },
     {
       "surface": "בנוי",
-      "gloss": "bɛ ɔn"
+      "gloss": "banna"
     },
     {
       "surface": "לתלפיות",
-      "gloss": "ni tila-ɲɔgɔnyaw ye"
+      "gloss": "talpiyotw ye"
     },
     {
       "surface": "אלף",
@@ -64,11 +33,11 @@
     },
     {
       "surface": "המגן",
-      "gloss": "tangafɛn"
+      "gloss": "gafe"
     },
     {
       "surface": "תלוי",
-      "gloss": "bɛ a kan"
+      "gloss": "lamɛn"
     },
     {
       "surface": "עליו",
@@ -80,13 +49,13 @@
     },
     {
       "surface": "שלטי",
-      "gloss": "tangafɛnw"
+      "gloss": "ka gafe"
     },
     {
       "surface": "הגבורים",
-      "gloss": "seko-kɛnw"
+      "gloss": "gibilenw"
     }
   ],
-  "timestamp": "2026-10-14T02:24:24.228852566Z",
+  "timestamp": "2026-10-20T15:41:44.701796044Z",
   "model": "glm-5.3"
 }

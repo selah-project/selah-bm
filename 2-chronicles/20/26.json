@@ -5,48 +5,27 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ברכה",
-      "rationale": "Place name Berakha = 'blessing': the valley is named from the act done there (ברכו את יהוה); the naming etiology is kept with the bracket Duba-kulu."
-    },
-    {
-      "kind": "measurement",
-      "subject": "Don naaninan",
-      "rationale": "The fourth day is counted, fixing the assembly in the sequence of days."
-    }
-  ],
-  "translation": "Don naaninan na, u jɔsira Ɛmɛk Berakha (Duba-kulu) kɔnɔ, sabu yen nɔ u ye Yawe duba; o la, u ye ⟨את⟩ o yɔrɔ tɔgɔ wele ko Ɛmɛk Berakha (Duba-kulu), fo bi ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6f43d2b8de9ad2bf0265e775350b5b5ba6a2be0a10a5b4a8b8a1179a0e097551",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/20\/25-28.1791949226571.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Don naninan na, u ye u bɛɛ lajɛ Berakha (Duba Kilin) na, sabu sin na u ye ⟨את⟩ Yawe duba kɛ. O la, u ye ⟨את⟩ o yɔrɔ tɔgɔ wele Duba Kilin, fo bi ma.",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "... don na"
+      "gloss": "don naninan na"
     },
     {
       "surface": "הרבעי",
-      "gloss": "naaninan"
+      "gloss": "naninan"
     },
     {
       "surface": "נקהלו",
-      "gloss": "u jɔsira"
+      "gloss": "u ye u bɛɛ lajɛ"
     },
     {
       "surface": "לעמק",
-      "gloss": "Ɛmɛk ... kɔnɔ"
+      "gloss": "Berakha na"
     },
     {
       "surface": "ברכה",
-      "gloss": "Berakha (Duba-kulu)"
+      "gloss": "(Duba Kilin)"
     },
     {
       "surface": "כי",
@@ -54,16 +33,16 @@
     },
     {
       "surface": "שם",
-      "gloss": "yen nɔ"
+      "gloss": "sin na"
     },
     {
       "surface": "ברכו",
-      "gloss": "u ye ... duba"
+      "gloss": "u ye ... duba kɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawɛ"
+      "marks": "Yawe"
     },
     {
       "surface": "יהוה",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "o la"
     },
     {
       "surface": "כן",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "yɔrɔ"
+      "gloss": "o yɔrɔ"
     },
     {
       "surface": "ההוא",
@@ -100,11 +79,11 @@
     },
     {
       "surface": "עמק",
-      "gloss": "Ɛmɛk"
+      "gloss": "Duba Kilin"
     },
     {
       "surface": "ברכה",
-      "gloss": "Berakha (Duba-kulu)"
+      "gloss": "Duba Kilin"
     },
     {
       "surface": "עד",
@@ -112,9 +91,9 @@
     },
     {
       "surface": "היום",
-      "gloss": "bi"
+      "gloss": "bi ma"
     }
   ],
-  "timestamp": "2026-10-14T03:40:26.572916801Z",
+  "timestamp": "2026-10-20T13:09:53.472053219Z",
   "model": "glm-5.3"
 }

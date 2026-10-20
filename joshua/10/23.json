@@ -5,64 +5,48 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "masakɛ nimɔrɔ",
-      "rationale": "counting list — five kings named one by one, each with its own את marker"
-    }
-  ],
-  "translation": "U ye o kɛ, ka masakɛ nimɔrɔ in bɔ a fɛ luŋɔ in kɔnɔ: Yerushalayim (Jerusalɛmu) masakɛ, Hevron masakɛ, Yarmut masakɛ, Lakhish (Lakisi) masakɛ, Eglon (Egelɔn) masakɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f492b4a898b179158a252c1090e1a8d211f0e723db572015a74ff065b3fe0401",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/10\/21-24.1791928874122.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U y'o kɛ cogo min na, ka ⟨את⟩ masakɛ duuruw ni bɔ hamarun na k'o taa a nɔ na: Yerushalayim (Jerusalɛmu) masakɛ, ⟨את⟩ Hevron (Hewron) masakɛ, ⟨את⟩ Yarmut masakɛ, ⟨את⟩ Lakhish (Lakisi) masakɛ, ⟨את⟩ Eglon masakɛ.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "u ye o kɛ"
+      "gloss": "u y'o kɛ"
     },
     {
       "surface": "כן",
-      "gloss": "o"
+      "gloss": "cogo min na"
     },
     {
       "surface": "ויציאו",
-      "gloss": "ka … bɔ"
+      "gloss": "ka…bɔ…ta"
     },
     {
       "surface": "אליו",
-      "gloss": "a fɛ"
+      "gloss": "a nɔ na"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "masakɛ nimɔrɔ in"
+      "marks": "masakɛ duuruw"
     },
     {
       "surface": "חמשת",
-      "gloss": "nimɔrɔ"
+      "gloss": "duuru"
     },
     {
       "surface": "המלכים",
-      "gloss": "masakɛ"
+      "gloss": "masakɛw"
     },
     {
       "surface": "האלה",
-      "gloss": "in"
+      "gloss": "ninnu"
     },
     {
       "surface": "מן",
-      "gloss": "kɔnɔ"
+      "gloss": "bɔ"
     },
     {
       "surface": "המערה",
-      "gloss": "luŋɔ in"
+      "gloss": "hamarun na"
     },
     {
       "surface": "את",
@@ -75,7 +59,7 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "Yerushalayim"
+      "gloss": "Yerushalayim (Jerusalɛmu)"
     },
     {
       "surface": "את",
@@ -88,7 +72,7 @@
     },
     {
       "surface": "חברון",
-      "gloss": "Hevron"
+      "gloss": "Hevron (Hewron)"
     },
     {
       "surface": "את",
@@ -114,7 +98,7 @@
     },
     {
       "surface": "לכיש",
-      "gloss": "Lakhish"
+      "gloss": "Lakhish (Lakisi)"
     },
     {
       "surface": "את",
@@ -130,6 +114,6 @@
       "gloss": "Eglon"
     }
   ],
-  "timestamp": "2026-10-13T22:01:14.125882118Z",
+  "timestamp": "2026-10-20T14:53:44.167778617Z",
   "model": "glm-5.3"
 }

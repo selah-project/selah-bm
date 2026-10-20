@@ -5,64 +5,38 @@
   "book": "judges",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "את",
-      "rationale": "Here את is the feminine pronoun 'thou' (אַתְּ, addressed to the vine with לְכִי), not the direct-object marker; rendered 'i'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "an bolo",
-      "rationale": "עלינו 'over\/upon us' rendered as Bambara postposition 'an bolo' (on us)."
-    },
-    {
-      "kind": "addition",
-      "subject": "(winye-jiri)",
-      "rationale": "First mention of גפן: bracketed gloss 'winye-jiri' (wine-tree) added for the hearer."
-    }
-  ],
-  "translation": "Jirow ko gapɛn (winye-jiri) ma: “Na, i na ka masakɛya an bolo.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "5924955c2349d5f84bb6fbf84108062d495efd0851bea31f9c1ab74a63b6e5a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/9\/12-12.1791950172004.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jiriw y'a fɔ gafɛ ye ko: Na, i bɛ ⟨את⟩ masaya kɛ an bɛɛ la.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "jirow ko"
+      "gloss": "y'a fɔ … ye ko"
     },
     {
       "surface": "העצים",
-      "gloss": "jirow"
+      "gloss": "jiriw"
     },
     {
       "surface": "לגפן",
-      "gloss": "gapɛn (winye-jiri) ma"
+      "gloss": "gafɛ ye"
     },
     {
       "surface": "לכי",
-      "gloss": "i na"
+      "gloss": "Na"
     },
     {
       "surface": "את",
-      "gloss": "i",
-      "marks": "masakɛya an bolo"
+      "gloss": "⟨את⟩",
+      "marks": "masaya"
     },
     {
       "surface": "מלוכי",
-      "gloss": "ka masakɛya"
+      "gloss": "masaya kɛ"
     },
     {
       "surface": "עלינו",
-      "gloss": "an bolo"
+      "gloss": "an bɛɛ la"
     }
   ],
-  "timestamp": "2026-10-14T03:56:12.004976363Z",
+  "timestamp": "2026-10-20T15:03:09.658721362Z",
   "model": "glm-5.3"
 }

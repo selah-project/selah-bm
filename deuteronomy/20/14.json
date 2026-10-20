@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "רק",
-      "rationale": "'nka' ma dogoya — רק bɛ daminɛ ni 'dɔrɔn' ye nka kuma in na a bɛ wele ko 'nka'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ואכלת",
-      "rationale": "'dun' — Heburukan ka fɔ 'dun you' ye, o ye minɛli ɲɔgɔnniya ɲɛfɔli ye"
-    }
-  ],
-  "translation": "Nka musow ni denfitiniw ni misi ani fɛn bɛɛ min bɛ dugu kɔnɔ — you bɛɛ, i bɛna minɛ i yɛrɛ ye, i bɛna dun ⟨את⟩ i ka binɛnw ka you, min Yawe, i ka Elohim, di i ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c2e1e8305639ea2c69b7e74fe3040e870c42d0f6b44b0307f94c3061bfff6c8c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/20\/13-16.1791927990823.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nka musow, dɛnw, baganw, ni fɛn bɛɛ min bɛna dugu kɔnɔ, a tola bɛɛ i bɛna min bɔ i yɛrɛ ye, i bɛna ⟨את⟩ i jaw ka tola dun, min dira i ye Yawe i Elohim fɛ.",
   "tokens": [
     {
       "surface": "רק",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "והטף",
-      "gloss": "denfitiniw"
+      "gloss": "ani dɛnw"
     },
     {
       "surface": "והבהמה",
-      "gloss": "misi"
+      "gloss": "ani baganw"
     },
     {
       "surface": "וכל",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "bɛ"
+      "gloss": "bɛna kɛ"
     },
     {
       "surface": "בעיר",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "שללה",
-      "gloss": "you"
+      "gloss": "a tola"
     },
     {
       "surface": "תבז",
-      "gloss": "i bɛna minɛ"
+      "gloss": "i bɛna bɔ i yɛrɛ ye"
     },
     {
       "surface": "לך",
-      "gloss": "i yɛrɛ ye"
+      "gloss": "i ye"
     },
     {
       "surface": "ואכלת",
@@ -83,15 +62,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "you"
+      "marks": "i jaw ka tola"
     },
     {
       "surface": "שלל",
-      "gloss": "you"
+      "gloss": "i jaw ka tola"
     },
     {
       "surface": "איביך",
-      "gloss": "i ka binɛnw"
+      "gloss": "i jaw ka"
     },
     {
       "surface": "אשר",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "di"
+      "gloss": "dira"
     },
     {
       "surface": "יהוה",
@@ -107,13 +86,13 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i ka Elohim"
+      "gloss": "i Elohim"
     },
     {
       "surface": "לך",
-      "gloss": "i ma"
+      "gloss": "i ye"
     }
   ],
-  "timestamp": "2026-10-13T21:46:30.825029042Z",
+  "timestamp": "2026-10-20T13:41:21.308416092Z",
   "model": "glm-5.3"
 }

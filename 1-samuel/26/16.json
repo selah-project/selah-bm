@@ -5,38 +5,7 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sayadenw",
-      "rationale": "בני מות literally 'sons of death', kept as 'sayadenw' (children of death), not softened to 'worthy to die' as KJV\/JPS"
-    },
-    {
-      "kind": "idiom",
-      "subject": "חי יהוה",
-      "rationale": "oath formula 'as Yawe lives' rendered 'Yawe ka balo tiɲɛ na'"
-    },
-    {
-      "kind": "addition",
-      "subject": "tiɲɛ na",
-      "rationale": "oath-confirming phrase supplied where Hebrew כי alone carries the asseverative force"
-    },
-    {
-      "kind": "you",
-      "subject": "to Abner and the guard",
-      "rationale": "David's direct accusation and imperative 'yɛ' addressed to Saul's men"
-    }
-  ],
-  "translation": "Baara nin min kɛra, a tɛ ɲɛ ye. Yawe ka balo tiɲɛ na, aw ye sayadenw ye, aw minnu ma kɔlɔsi aw Matigi, Yawe ka Mashíaj. Sisan, yɛ masakɛ ka npan yɔrɔ min, ni ⟨את⟩ ji kalaba min tun b'a kun na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/26\/13-16.1791930794826.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nin kuma in tɛ di, i min kɛra o. Yawe balo don, sabu aw ye saya-denw ye, aw min ma a yɔrɔbɔ aw Matigi kan, Yawe ka Mashíaj kan. Sisan, ye masakɛ ka npan min bɛ, ni ⟨את⟩ ji-daga min bɛ, min bɛ a kunbolo.",
   "tokens": [
     {
       "surface": "לא",
@@ -44,11 +13,11 @@
     },
     {
       "surface": "טוב",
-      "gloss": "ɲɛ"
+      "gloss": "di"
     },
     {
       "surface": "הדבר",
-      "gloss": "baara"
+      "gloss": "kuma in"
     },
     {
       "surface": "הזה",
@@ -60,11 +29,11 @@
     },
     {
       "surface": "עשית",
-      "gloss": "kɛra"
+      "gloss": "i kɛra o"
     },
     {
       "surface": "חי",
-      "gloss": "ka balo"
+      "gloss": "balo"
     },
     {
       "surface": "יהוה",
@@ -72,11 +41,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "tiɲɛ na"
+      "gloss": "sabu"
     },
     {
       "surface": "בני",
-      "gloss": "denw"
+      "gloss": "-denw"
     },
     {
       "surface": "מות",
@@ -88,7 +57,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "לא",
@@ -96,11 +65,11 @@
     },
     {
       "surface": "שמרתם",
-      "gloss": "kɔlɔsi"
+      "gloss": "aw ma a yɔrɔbɔ"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "kan"
     },
     {
       "surface": "אדניכם",
@@ -108,7 +77,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "kan"
     },
     {
       "surface": "משיח",
@@ -120,15 +89,15 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "sisan"
+      "gloss": "Sisan"
     },
     {
       "surface": "ראה",
-      "gloss": "yɛ"
+      "gloss": "ye"
     },
     {
       "surface": "אי",
-      "gloss": "yɔrɔ min"
+      "gloss": "min bɛ"
     },
     {
       "surface": "חנית",
@@ -136,16 +105,16 @@
     },
     {
       "surface": "המלך",
-      "gloss": "masakɛ"
+      "gloss": "masakɛ ka"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ji kalaba"
+      "marks": "ji-daga"
     },
     {
       "surface": "צפחת",
-      "gloss": "ji kalaba"
+      "gloss": "ji-daga"
     },
     {
       "surface": "המים",
@@ -157,9 +126,9 @@
     },
     {
       "surface": "מראשתו",
-      "gloss": "a kun na"
+      "gloss": "a kunbolo"
     }
   ],
-  "timestamp": "2026-10-13T22:33:14.828779874Z",
+  "timestamp": "2026-10-20T13:04:48.082268646Z",
   "model": "glm-5.3"
 }

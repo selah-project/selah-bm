@@ -5,45 +5,19 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "bɔnyi kɛ ɲɛ na",
-      "rationale": "בעיני יהוה = Yawe ɲɛ na — Heburu ka 'ɲɛ' kan kɔrɔdilan, Bamanankan b'o mara"
-    },
-    {
-      "kind": "addition",
-      "subject": "a",
-      "rationale": "Nɔnabila farala kan ma min na Heburu t'a sɛbɛn, kalanbaga ka Baasha jira"
-    },
-    {
-      "kind": "elision",
-      "subject": "וילך 'taa'",
-      "rationale": "'Taa sira la' = kɔgɔjida fɔcogo; Heburu ka waati-daɲɛ tɛ Bamanankan na, nka a laseli bɛ tiɲɛ"
-    }
-  ],
-  "translation": "A ye bɔnyi kɛ Yawe ɲɛ na, a tun taa nin Yarobam (Yaroboamu) sira la, ni a jurumu la min na a ye Israɛl ⟨את⟩ jurumu na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d96b0cf71ede5319d91bb0ae1cab3a84c2d9dfbb37286ce78b09d8eb4044eac4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/15\/33-34.1791932214967.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ye fɛn bonya kɛ Yawe yeelen na, ka taa Yarobeam (Yerobowam) sira la, ni a jurumu la, min na Yarobeam ye ⟨את⟩ IsiraEl (Isirayɛli) bila jurumu la.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "a ye…kɛ"
+      "gloss": "a ye … kɛ"
     },
     {
       "surface": "הרע",
-      "gloss": "bɔnyi"
+      "gloss": "fɛn bonya"
     },
     {
       "surface": "בעיני",
-      "gloss": "ɲɛ na"
+      "gloss": "yeelen na"
     },
     {
       "surface": "יהוה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "וילך",
-      "gloss": "a tun taa"
+      "gloss": "ka taa"
     },
     {
       "surface": "בדרך",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yarobam"
+      "gloss": "Yarobeam"
     },
     {
       "surface": "ובחטאתו",
@@ -67,22 +41,22 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min na"
+      "gloss": "min"
     },
     {
       "surface": "החטיא",
-      "gloss": "jurumu na"
+      "gloss": "bila jurumu la"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israɛl"
+      "marks": "IsiraEl"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israɛl"
+      "gloss": "IsiraEl"
     }
   ],
-  "timestamp": "2026-10-13T22:56:54.970412934Z",
+  "timestamp": "2026-10-20T12:53:46.310183044Z",
   "model": "glm-5.3"
 }

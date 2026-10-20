@@ -5,68 +5,47 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מי ישימני",
-      "rationale": "rhetorical wish 'oh that someone would make me' (KJV) vs plain question 'who will set me' — wish reading followed"
-    },
-    {
-      "kind": "substitution",
-      "subject": "cɛɲɛmɔgɔ",
-      "rationale": "שופט (judge) rendered with the ordinary Bambara law-man word"
-    }
-  ],
-  "translation": "Awshalom ko: «Hake min bɛ n bila cɛɲɛmɔgɔ ye dugukolo kan! Mɔgɔ o mɔgɔ min bɛ na ni ariibɛ ni sariyaɲinii don, a na n fɛ, n bɛ a kɛ tiɲɛ ye.»",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "201f4dd1f5cdecb50786c1c5aaef4ab79a5359058b0639d0182326c31740a719",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/15\/1-4.1791931322607.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Abshalom ye ko: munu bɛ na n bila jatigɛ ye dugukolo la? Mɔgɔ min bɛ ɲɛnajira walima jate a bolo, o bɛɛ bɛna na n ma, n bɛna a ɲɛfɔ ka a kɛ ⟨tiɲɛ⟩ ye.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "ye ko"
     },
     {
       "surface": "אבשלום",
-      "gloss": "Awshalom"
+      "gloss": "Abshalom"
     },
     {
       "surface": "מי",
-      "gloss": "hake"
+      "gloss": "munu"
     },
     {
-      "surface": "ישימני",
-      "gloss": "min bɛ n bila"
+      "surface": "ישמני",
+      "gloss": "n bila"
     },
     {
-      "surface": "שופט",
-      "gloss": "cɛɲɛmɔgɔ ye"
+      "surface": "שפט",
+      "gloss": "jatigɛ"
     },
     {
       "surface": "בארץ",
-      "gloss": "dugukolo kan"
+      "gloss": "dugukolo la"
     },
     {
       "surface": "ועלי",
-      "gloss": "n fɛ"
+      "gloss": "n ma"
     },
     {
       "surface": "יבוא",
-      "gloss": "na"
+      "gloss": "bɛna na"
     },
     {
       "surface": "כל",
-      "gloss": "mɔgɔ o mɔgɔ"
+      "gloss": "bɛɛ"
     },
     {
       "surface": "איש",
-      "gloss": ""
+      "gloss": "mɔgɔ"
     },
     {
       "surface": "אשר",
@@ -78,21 +57,21 @@
     },
     {
       "surface": "לו",
-      "gloss": "a"
+      "gloss": "a bolo"
     },
     {
       "surface": "ריב",
-      "gloss": "ariibɛ"
+      "gloss": "ɲɛnajira"
     },
     {
       "surface": "ומשפט",
-      "gloss": "sariya"
+      "gloss": "walima jate"
     },
     {
-      "surface": "והצדיקתיו",
-      "gloss": "n bɛ a kɛ tiɲɛ ye"
+      "surface": "והצדקתיו",
+      "gloss": "n bɛna a tiɲɛya"
     }
   ],
-  "timestamp": "2026-10-13T22:42:02.620719190Z",
+  "timestamp": "2026-10-20T13:25:24.615896505Z",
   "model": "glm-5.3"
 }

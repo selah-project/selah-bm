@@ -5,45 +5,19 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "to Huram",
-      "rationale": "Imperative 'command' — Solomon's letter makes a direct request of the king of Tsor."
-    },
-    {
-      "kind": "elision",
-      "subject": "ארזים",
-      "rationale": "No aleph-tav precedes this object; the ⟨את⟩ bracket in the translation marks the object pair supplied for alignment only."
-    },
-    {
-      "kind": "crux",
-      "subject": "כצדנים",
-      "rationale": "'like the Tsidonians' — a comparison of skill in timber-felling, not an ethnic slur; some versions soften to 'as the Sidonians do'."
-    }
-  ],
-  "translation": "Si sisan, i ka fɔ ka kɛ, walisa u ka ⟨את⟩ sedenw ge ne ye Liban (Lebanon) na, ani n ka sɔgɔbagaw na bɛ i ka sɔgɔbagaw ni, ani ne bɛna i ka sɔgɔbagaw ka sarakan di i ma, i bɛna fɔ fɛn bɛɛ la min na; sabu i dɔn ko an kɔnɔ, mɔgɔ si tɛ yen min dɔn ka ge jiriw i n'a fɔ Tsidonkaw.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "53339a39b95366c8c6c3a4fef369a44cb23a8e91c19514b203a74a659afcbceb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/5\/17-20.1791931887775.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sisan, i k'i ɲini ka sede-jiriw dogo ne ye min bɔ Lebani na; ani ne ka surukɛw na kɛ ni i ka surukɛw ye; ani i ka surukɛw ka sara, n'bɛ a di i ma, i na fɔ min bɛɛ la; sabu i y'a dɔn ko mɔgɔ si tɛ an kɔnɔ min bɛ se ka jiri dogo, ni Tsidoniw ye.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "si sisan"
+      "gloss": "Sisan"
     },
     {
       "surface": "צוה",
-      "gloss": "i ka fɔ ka kɛ"
+      "gloss": "i k'i ɲini"
     },
     {
       "surface": "ויכרתו",
-      "gloss": "u ka ge"
+      "gloss": "ka dogo"
     },
     {
       "surface": "לי",
@@ -51,43 +25,43 @@
     },
     {
       "surface": "ארזים",
-      "gloss": "⟨את⟩ sedenw"
+      "gloss": "sede-jiriw"
     },
     {
       "surface": "מן",
-      "gloss": "na"
+      "gloss": "min bɔ"
     },
     {
       "surface": "הלבנון",
-      "gloss": "Liban"
+      "gloss": "Lebani na"
     },
     {
       "surface": "ועבדי",
-      "gloss": "n ka sɔgɔbagaw"
+      "gloss": "ani ne ka surukɛw"
     },
     {
       "surface": "יהיו",
-      "gloss": "na bɛ"
+      "gloss": "na kɛ"
     },
     {
       "surface": "עם",
-      "gloss": "ni"
+      "gloss": "ni ... ye"
     },
     {
       "surface": "עבדיך",
-      "gloss": "i ka sɔgɔbagaw"
+      "gloss": "i ka surukɛw"
     },
     {
       "surface": "ושכר",
-      "gloss": "sarakan"
+      "gloss": "ani ... sara"
     },
     {
       "surface": "עבדיך",
-      "gloss": "i ka sɔgɔbagaw ka"
+      "gloss": "i ka surukɛw"
     },
     {
       "surface": "אתן",
-      "gloss": "bɛna di"
+      "gloss": "n'bɛ ... di"
     },
     {
       "surface": "לך",
@@ -95,15 +69,15 @@
     },
     {
       "surface": "ככל",
-      "gloss": "fɛn bɛɛ la min na"
+      "gloss": "bɛɛ la"
     },
     {
       "surface": "אשר",
-      "gloss": "i bɛna fɔ"
+      "gloss": "min"
     },
     {
       "surface": "תאמר",
-      "gloss": "fɔ"
+      "gloss": "i na fɔ"
     },
     {
       "surface": "כי",
@@ -115,7 +89,7 @@
     },
     {
       "surface": "ידעת",
-      "gloss": "dɔn"
+      "gloss": "i y'a dɔn"
     },
     {
       "surface": "כי",
@@ -123,7 +97,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "si tɛ yen"
+      "gloss": "si tɛ"
     },
     {
       "surface": "בנו",
@@ -135,11 +109,11 @@
     },
     {
       "surface": "ידע",
-      "gloss": "min dɔn"
+      "gloss": "dɔnbaga"
     },
     {
       "surface": "לכרת",
-      "gloss": "ka ge"
+      "gloss": "ka dogo"
     },
     {
       "surface": "עצים",
@@ -147,9 +121,9 @@
     },
     {
       "surface": "כצדנים",
-      "gloss": "i n'a fɔ Tsidonkaw"
+      "gloss": "ni Tsidoniw ye"
     }
   ],
-  "timestamp": "2026-10-13T22:51:27.783302005Z",
+  "timestamp": "2026-10-20T12:56:10.642197353Z",
   "model": "glm-5.3"
 }

@@ -5,44 +5,23 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 89,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ye",
-      "rationale": "Hebrew lacks copula between subject and predicate"
-    },
-    {
-      "kind": "elision",
-      "subject": "hesed",
-      "rationale": "Kept as the fixed term per ruling; gloss bracket supplies 'kanuya ni tiɲɛ' only at first mention sense, not as replacement"
-    }
-  ],
-  "translation": "Ɲɛnumanya ni sariya ⟨ye⟩ i ka sigilan ka sigida; hesed (kanuya ni tiɲɛ) bɛ taa i ɲɛda ɲɛfɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ec8fcc6101fb7d638be7107993f1a08bdbc3b7c4d727cdf9527a6e3defe9dd3d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/89\/14-15.1791951251542.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tɛgɛsira ni sariya-kilala ye ⟨i ka⟩ kursi ka duguma ye; hesed ni tiɲɛ bɛ tugu i ɲɛda ɲɛfɔ.",
   "tokens": [
     {
       "surface": "צדק",
-      "gloss": "ɲɛnumanya"
+      "gloss": "Tɛgɛsira"
     },
     {
       "surface": "ומשפט",
-      "gloss": "ni sariya"
+      "gloss": "ni sariya-kilala"
     },
     {
       "surface": "מכון",
-      "gloss": "ka sigida"
+      "gloss": "duguma"
     },
     {
       "surface": "כסאך",
-      "gloss": "i ka sigilan"
+      "gloss": "i ka kursi"
     },
     {
       "surface": "חסד",
@@ -54,13 +33,13 @@
     },
     {
       "surface": "יקדמו",
-      "gloss": "bɛ taa ɲɛfɛ"
+      "gloss": "bɛ tugu ɲɛfɔ"
     },
     {
       "surface": "פניך",
       "gloss": "i ɲɛda"
     }
   ],
-  "timestamp": "2026-10-14T04:14:11.543045792Z",
+  "timestamp": "2026-10-20T15:40:41.009307327Z",
   "model": "glm-5.3"
 }

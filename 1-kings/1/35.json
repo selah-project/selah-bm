@@ -5,41 +5,15 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sigilan",
-      "rationale": "כסא kɔrɔ ye kun-bilalan min bɛ sigi a kan; sigilan nɔgɔya"
-    },
-    {
-      "kind": "crux",
-      "subject": "נגיד",
-      "rationale": "ɲɛmɔgɔ walima masakɛ: nabi-dilan kɔrɔ ye ɲɛmɔgɔ ye, masakɛ tɛ"
-    },
-    {
-      "kind": "addition",
-      "subject": "ye",
-      "rationale": "Bamanankan wale-daɲɛ ye…ye ka Heburukan kɛcogo jira"
-    }
-  ],
-  "translation": "Aw na a kɔfɛ ka na, a na na a sigi n ka sigilan kan, a na masakɛya kɛ n nɔ na; ne ye fara a kan ko a kɛ Israyɛl ni Yuda ɲɛmɔgɔ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/1\/33-36.1791931723251.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aw na a gilla, a na na a na sigi n'ka masakɛ sigilan kan, a de na masakɛya ne ɲɛ. Ne y'a ɖɛn ⟨את⟩ a ma ka kɛ ɲɛmɔgɔ ye Yisrayɛl kan ani Yehuda kan.",
   "tokens": [
     {
       "surface": "ועליתם",
-      "gloss": "aw na… na"
+      "gloss": "aw na a gilla"
     },
     {
       "surface": "אחריו",
-      "gloss": "a kɔfɛ"
+      "gloss": "a gilla"
     },
     {
       "surface": "ובא",
@@ -55,32 +29,32 @@
     },
     {
       "surface": "כסאי",
-      "gloss": "n ka sigilan"
+      "gloss": "n'ka masakɛ sigilan"
     },
     {
       "surface": "והוא",
-      "gloss": "a"
+      "gloss": "a de"
     },
     {
       "surface": "ימלך",
-      "gloss": "na masakɛya kɛ"
+      "gloss": "na masakɛya"
     },
     {
       "surface": "תחתי",
-      "gloss": "n nɔ na"
+      "gloss": "ne ɲɛ"
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩ a",
-      "marks": "ne ye fara a kan"
+      "gloss": "⟨את⟩",
+      "marks": "a (Solomɔ) — ne y'a ɖɛn"
     },
     {
       "surface": "צויתי",
-      "gloss": "ne ye fara a kan"
+      "gloss": "ne y'a ɖɛn"
     },
     {
       "surface": "להיות",
-      "gloss": "ko a kɛ… ye"
+      "gloss": "ka kɛ"
     },
     {
       "surface": "נגיד",
@@ -88,21 +62,21 @@
     },
     {
       "surface": "על",
-      "gloss": "kɔrɔ"
+      "gloss": "kan"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyɛl"
+      "gloss": "Yisrayɛl"
     },
     {
       "surface": "ועל",
-      "gloss": "ni kɔrɔ"
+      "gloss": "ani kan"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yuda"
+      "gloss": "Yehuda"
     }
   ],
-  "timestamp": "2026-10-13T22:48:43.254481480Z",
+  "timestamp": "2026-10-20T12:51:49.527553445Z",
   "model": "glm-5.3"
 }

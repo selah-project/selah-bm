@@ -5,53 +5,27 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 57,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "מאתי",
-      "rationale": "aleph-tav taamasiyɛn (מ+את) bɛ 'Ne ni' kɔnɔ — ⟨את⟩ bɛ to a la i n'a fɔ Heburukan sira ye."
-    },
-    {
-      "kind": "crux",
-      "subject": "יד חזית",
-      "rationale": "'bolo min i y'a ye': KJV 'where thou sawest it' (bolo = yɔrɔ) walima JPS 'whose hand thou sawest'; Heburukan kɔrɔ-yɛrɛ ye 'bolo, i y'a ye' ye."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ותכרת לך",
-      "rationale": "i ye layidu kɛ: Heburukan 'i ye i layidu dogo' — kɔrɔfɔli ye diinɛ-layidu (batofɛn-layidu) ye."
-    }
-  ],
-  "translation": "Da kɔfɛ ani daɲɛkɛrɛ la, i ye i xatare sigi yen. Sabu i y'i yɛrɛ ɲɛjira ⟨את⟩ Ne ni, ani i yoli sanfɛ, i y'i bɔnɔ bon kɛ; i ye layidu kɛ i ye ⟨olu⟩ ni; i ye olu bɔnɔ kanuya, bolo min i y'a ɲɛnɛxiriŋ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ec57c862093da13194b14939a24bdddb41423c6e32fa124d1cb90d28c6381a61",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/57\/5-8.1791934724108.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dɔ ɲɔgɔnma kɔfɛ ani da-sigi kɔfɛ, i y'i xifolan sigi; sabu i y'i yɛlɛmali kɛ ⟨את⟩ ne la, i y'a sanfalɛ, i y'i so caba, i y'i layidu sigi ⟨את⟩ u la, i y'i kanuya, i ye u bolo ye.",
   "tokens": [
     {
       "surface": "ואחר",
-      "gloss": "…kɔfɛ"
+      "gloss": "kɔfɛ"
     },
     {
       "surface": "הדלת",
-      "gloss": "da"
+      "gloss": "dɔ ɲɔgɔnma"
     },
     {
       "surface": "והמזוזה",
-      "gloss": "ani daɲɛkɛrɛ"
+      "gloss": "ani da-sigi"
     },
     {
       "surface": "שמת",
-      "gloss": "i ye … sigi"
+      "gloss": "i y'i sigi"
     },
     {
       "surface": "זכרונך",
-      "gloss": "i xatare"
+      "gloss": "i xifolan"
     },
     {
       "surface": "כי",
@@ -59,43 +33,44 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "⟨את⟩ (Ne ni)"
+      "gloss": "⟨את⟩ ne la",
+      "marks": "ne (min bɛ kuma — Yawe, min bɛ Israel fɔ)"
     },
     {
       "surface": "גלית",
-      "gloss": "i y'i yɛrɛ ɲɛjira"
+      "gloss": "i y'i yɛlɛmali kɛ"
     },
     {
       "surface": "ותעלי",
-      "gloss": "ani i yoli sanfɛ"
+      "gloss": "i y'a sanfalɛ"
     },
     {
       "surface": "הרחבת",
-      "gloss": "i y'a bon kɛ"
+      "gloss": "i y'i caba"
     },
     {
       "surface": "משכבך",
-      "gloss": "i bɔnɔ"
+      "gloss": "i so"
     },
     {
       "surface": "ותכרת",
-      "gloss": "i ye layidu kɛ"
+      "gloss": "i y'i layidu sigi"
     },
     {
       "surface": "לך",
-      "gloss": "i ye"
+      "gloss": "i y'i"
     },
     {
       "surface": "מהם",
-      "gloss": "…olu ni"
+      "gloss": "u la"
     },
     {
       "surface": "אהבת",
-      "gloss": "i ye … kanuya"
+      "gloss": "i y'i kanuya"
     },
     {
       "surface": "משכבם",
-      "gloss": "olu bɔnɔ"
+      "gloss": "u so"
     },
     {
       "surface": "יד",
@@ -103,9 +78,9 @@
     },
     {
       "surface": "חזית",
-      "gloss": "i y'a ɲɛnɛxiriŋ"
+      "gloss": "i ye ... ye"
     }
   ],
-  "timestamp": "2026-10-13T23:38:44.110104970Z",
+  "timestamp": "2026-10-20T14:33:10.684719693Z",
   "model": "glm-5.3"
 }

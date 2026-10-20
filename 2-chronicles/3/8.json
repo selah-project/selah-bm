@@ -5,47 +5,16 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "2Chr 3:8",
-      "rationale": "Dimensions of the holy of holies: twenty by twenty cubits, plus the weight of gold — six hundred talents."
-    },
-    {
-      "kind": "crux",
-      "subject": "לככרים שש מאות",
-      "rationale": "'Six hundred talents' — the kikkar is a weight (talent); rendered as borrowed ⟨talantw⟩ since Bamanankan has no native weight word of that size."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קדש הקדשים",
-      "rationale": "Hebrew superlative construct 'holy-of-holies'; Bamanankan plural redexpression 'senuma-senumaw' approximates the intensification."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨a⟩",
-      "rationale": "Bamananka past construction 'a ye … kɛ' requires the object pronoun ⟨a⟩ that Hebrew omits."
-    }
-  ],
-  "translation": "A y'⟨a⟩ kɛ ⟨את⟩ senuma-senumaw so ye: a ka jan ye so ka bon ɲɛda la, amuw mugan; a ka bon fana ye amuw mugan; a y'a datugu ni sanu nyuman ye — ⟨talantw⟩ wolonwula-kɛmɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "7228085a53caf1e091da35ebb7cc9973d731d60b731d0eedf3f14bfe3f6051b0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/3\/8-8.1791951601174.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "K'a ye ⟨את⟩ senuma-senuma so (kodesh hakodashim) lan: a jan, so ka ɲɛda la, ama fila (20); a yɔrɔjana fana, ama fila (20); a yɛ sigi ni sanu ye min ka ɲi, kikari wolonwula-tan (600) la.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "a y'⟨a⟩ kɛ"
+      "gloss": "k'a ye … lan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "senuma-senumaw so"
+      "marks": "senuma-senuma so"
     },
     {
       "surface": "בית",
@@ -57,15 +26,15 @@
     },
     {
       "surface": "הקדשים",
-      "gloss": "senumaw"
+      "gloss": "senuma-senuma"
     },
     {
       "surface": "ארכו",
-      "gloss": "a ka jan"
+      "gloss": "a jan"
     },
     {
       "surface": "על",
-      "gloss": "kan"
+      "gloss": "la"
     },
     {
       "surface": "פני",
@@ -73,7 +42,7 @@
     },
     {
       "surface": "רחב",
-      "gloss": "bon"
+      "gloss": "yɔrɔjana"
     },
     {
       "surface": "הבית",
@@ -81,27 +50,27 @@
     },
     {
       "surface": "אמות",
-      "gloss": "amuw"
+      "gloss": "ama"
     },
     {
       "surface": "עשרים",
-      "gloss": "mugan"
+      "gloss": "fila (20)"
     },
     {
       "surface": "ורחבו",
-      "gloss": "a ka bon fana"
+      "gloss": "a yɔrɔjana fana"
     },
     {
       "surface": "אמות",
-      "gloss": "amuw"
+      "gloss": "ama"
     },
     {
       "surface": "עשרים",
-      "gloss": "mugan"
+      "gloss": "fila (20)"
     },
     {
       "surface": "ויחפהו",
-      "gloss": "a y'a datugu"
+      "gloss": "a yɛ sigi"
     },
     {
       "surface": "זהב",
@@ -109,11 +78,11 @@
     },
     {
       "surface": "טוב",
-      "gloss": "nyuman"
+      "gloss": "min ka ɲi"
     },
     {
       "surface": "לככרים",
-      "gloss": "⟨talantw⟩"
+      "gloss": "kikari"
     },
     {
       "surface": "שש",
@@ -121,9 +90,9 @@
     },
     {
       "surface": "מאות",
-      "gloss": "kɛmɛ"
+      "gloss": "tan (100)"
     }
   ],
-  "timestamp": "2026-10-14T04:20:01.175298954Z",
+  "timestamp": "2026-10-20T13:12:08.604451357Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "על עיר דוד — 'dugu sanfɛ' laada tɛ Bamanankan kɔnɔ, a tagarɛ teliya la."
-    },
-    {
-      "kind": "addition",
-      "subject": "a bilasira",
-      "rationale": "ויטהו kɔrɔ ye 'ka a tugun ni a jɔcogo ye' — bilasira-fɛn farala a kan ka a jira."
-    }
-  ],
-  "translation": "Dawid ma b'a fɛ ka ⟨את⟩ Yawe ka sanda wuli o taa a fɛ, a ka dugu Dawid dugu la, nka Dawid y'a wuli a bilasira Obed-Edom (Obɛd-Edɔmu) ka so la, min ye Gatiden ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "5c5a3294f65174d5788a2170ef191baca46d0d332fbd906912e06619a7e70b0e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/6\/9-12.1791930989459.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dawid ma wili ka Yawe ka ⟨את⟩ sandigi taa a yɛrɛ ma, Dawid ka dugu kɔnɔ; Dawid y'a tila Obed-Edom (Obɛdɛ-Edɔmu), min ye Gati-dɛn ye, so la.",
   "tokens": [
     {
       "surface": "ולא",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אבה",
-      "gloss": "ma b'a fɛ"
+      "gloss": "ma wili"
     },
     {
       "surface": "דוד",
@@ -42,20 +21,20 @@
     },
     {
       "surface": "להסיר",
-      "gloss": "ka wuli"
+      "gloss": "ka taa"
     },
     {
       "surface": "אליו",
-      "gloss": "o taa a fɛ"
+      "gloss": "a yɛrɛ ma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe ka sanda"
+      "marks": "sandigi"
     },
     {
       "surface": "ארון",
-      "gloss": "sanda"
+      "gloss": "sandigi"
     },
     {
       "surface": "יהוה",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "ta"
     },
     {
       "surface": "עיר",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "ויטהו",
-      "gloss": "y'a wuli a bilasira"
+      "gloss": "y'a tila"
     },
     {
       "surface": "דוד",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "Obed-"
+      "gloss": "Obed"
     },
     {
       "surface": "אדום",
@@ -95,9 +74,9 @@
     },
     {
       "surface": "הגתי",
-      "gloss": "Gatiden"
+      "gloss": "Gati-dɛn"
     }
   ],
-  "timestamp": "2026-10-13T22:36:29.461954666Z",
+  "timestamp": "2026-10-20T13:30:16.292328058Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,11 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kasi",
-      "rationale": "וספדו ye kasi-niɲumalɛ ye min kɔrɔ taamasiyɛn bɛɛ bɛ sigi a kan; 'kasi' dɔgɔya dɔ bɛ yen"
-    },
-    {
-      "kind": "elision",
-      "subject": "קבר",
-      "rationale": "'na kaburu la' — sira fɔcogo dɔrɔn; tɛmɛsira 'אל קבר' bɛ kɛ kaburu yɛrɛ ye"
-    },
-    {
-      "kind": "you",
-      "subject": "Ahijah ka kuma Yarabɛam muso ma",
-      "rationale": "kumasen in bɛ fɔ den bɛmmɔgɔ ma"
-    },
-    {
-      "kind": "secret",
-      "subject": "nabi ka ɲɛfɔli",
-      "rationale": "Yawe ka sira fitinin bɛ fɔra: den dɔrɔn de na kaburu la"
-    }
-  ],
-  "translation": "Israel bɛɛ na kasi a ye, k'u na a sin kaburu la; sabu Yarabɛam (Yerobowamu) ka famulu la, wa o de dɔrɔn na na kaburu la, sabu fɛn dɔ ɲuman tun bɛ a kɔnɔ, Yawe, Israel Elohim fɛ, Yarabɛam so kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "017631d8d90b5efb14a705075cc2a33784c11e8b7f68d1b7b27d68fcc56523bb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/14\/13-16.1791932262961.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Isirayɛl bɛɛ bɛna kumun a ye, u bɛna ⟨את⟩ a sumɛ, sabu o ye Yarobeam so la dɔrɔn de ye min bɛna na ka don kaburu la, sabu kuma tiɲɛnen dɔ bɛ sɔrɔ a kɔnɔ Yawe, Isirayɛl Elohim fɛ, Yarobeam so kɔnɔ.",
   "tokens": [
     {
       "surface": "וספדו",
-      "gloss": "na kasi"
+      "gloss": "bɛna kumun"
     },
     {
       "surface": "לו",
@@ -52,16 +21,16 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Isirayɛl"
     },
     {
       "surface": "וקברו",
-      "gloss": "k'u na sin"
+      "gloss": "u bɛna sumɛ"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "a"
+      "marks": "a (dennin kelen min bɛna sa)"
     },
     {
       "surface": "כי",
@@ -73,19 +42,19 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "dɔrɔn"
+      "gloss": "dɔrɔn de"
     },
     {
       "surface": "יבא",
-      "gloss": "na na"
+      "gloss": "bɛna na"
     },
     {
       "surface": "לירבעם",
-      "gloss": "Yarabɛam la"
+      "gloss": "Yarobeam (so la)"
     },
     {
       "surface": "אל",
-      "gloss": "<kaburu la>"
+      "gloss": "ka don … la"
     },
     {
       "surface": "קבר",
@@ -97,7 +66,7 @@
     },
     {
       "surface": "נמצא",
-      "gloss": "tun bɛ"
+      "gloss": "bɛ sɔrɔ"
     },
     {
       "surface": "בו",
@@ -105,11 +74,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "fɛn"
+      "gloss": "kuma"
     },
     {
       "surface": "טוב",
-      "gloss": "ɲuman"
+      "gloss": "tiɲɛnen"
     },
     {
       "surface": "אל",
@@ -125,7 +94,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Isirayɛl"
     },
     {
       "surface": "בבית",
@@ -133,9 +102,9 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yarabɛam"
+      "gloss": "Yarobeam"
     }
   ],
-  "timestamp": "2026-10-13T22:57:42.965232700Z",
+  "timestamp": "2026-10-20T12:53:02.104347938Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bɛ",
-      "rationale": "Bambara requires the locative copula bɛ; Hebrew verblessly sets disgrace 'before me'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ɲɛ",
-      "rationale": "פני 'face' kept literally; the shame of my face covers me — the Hebrew body-part idiom retained rather than softened."
-    }
-  ],
-  "translation": "Don bɛɛ, n ka danya bɛ n ɲɛfɛ, ani n ka ɲɛ ka yo-juguya ye n datugu.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ae5db8211991fba40a7be49d8a8fef6e18c73abf8fefdfb9a9b7cf74c6b387de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/44\/13-16.1791940226439.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Don bɛɛ, ne ta cikɔya bɛ ne ɲɛfɛ, ni ne ɲɛda ka ɲɛfɔbali ne datugu.",
   "tokens": [
     {
       "surface": "כל",
@@ -38,25 +17,25 @@
     },
     {
       "surface": "כלמתי",
-      "gloss": "n ka danya"
+      "gloss": "ne ta cikɔya"
     },
     {
       "surface": "נגדי",
-      "gloss": "n ɲɛfɛ"
+      "gloss": "ne ɲɛfɛ"
     },
     {
       "surface": "ובשת",
-      "gloss": "ani yo-juguya"
+      "gloss": "ni ɲɛfɔbali"
     },
     {
       "surface": "פני",
-      "gloss": "n ka ɲɛ"
+      "gloss": "ne ɲɛda ka"
     },
     {
       "surface": "כסתני",
-      "gloss": "ye n datugu"
+      "gloss": "ne datugu"
     }
   ],
-  "timestamp": "2026-10-14T01:10:26.440489292Z",
+  "timestamp": "2026-10-20T15:36:53.243746693Z",
   "model": "glm-5.3"
 }

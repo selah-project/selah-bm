@@ -5,36 +5,23 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "don",
-      "rationale": "Hebrew ordinal stands alone without a noun for the captain"
-    },
-    {
-      "kind": "measurement",
-      "subject": "mugan-ni-nanani ba",
-      "rationale": "same fixed headcount repeated for every course"
-    }
-  ],
-  "translation": "Tan-ni-kelen na don, tan-ni-kelen na kalo na, ye Benaya (Piratɔnigiman, Efrayim denw la bɔlen) ye; ani a gɛlɛn-kɔnɔ, mɔgɔ mugan-ni-nanani ba.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "41c17bc6e3b31b6e6d56e6e8584a8e42401f8187a94799fde6235d143c404b01",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/27\/13-16.1791948388266.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tan-ni-kelen, kalo tan-ni-kelen na: Benaya (Benaaya), Piratɔninɛ, a bɔra Efrayim denw la; a kɛmɛdugu la, mɔgɔw ɲɔgɔnna ni kɛmɛ tan-ni-ni fila ye.",
   "tokens": [
     {
-      "surface": "עשתי עשר",
-      "gloss": "tan-ni-kelen na"
+      "surface": "עשתי",
+      "gloss": "tan-ni-kelen"
     },
     {
-      "surface": "לעשתי עשר",
-      "gloss": "tan-ni-kelen na kalo na"
+      "surface": "עשר",
+      "gloss": "tan"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "kalo tan-ni-kelen na"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tan"
     },
     {
       "surface": "החדש",
@@ -46,11 +33,11 @@
     },
     {
       "surface": "הפרעתוני",
-      "gloss": "Piratɔnigiman"
+      "gloss": "Piratɔninɛ"
     },
     {
       "surface": "מן",
-      "gloss": "bɔlen"
+      "gloss": "bɔra"
     },
     {
       "surface": "בני",
@@ -62,25 +49,25 @@
     },
     {
       "surface": "ועל",
-      "gloss": "ani a kan"
+      "gloss": "la"
     },
     {
       "surface": "מחלקתו",
-      "gloss": "a gɛlɛn"
+      "gloss": "a kɛmɛdugu"
     },
     {
       "surface": "עשרים",
-      "gloss": "mugan"
+      "gloss": "ɲɔgɔnna"
     },
     {
       "surface": "וארבעה",
-      "gloss": "ani nanan"
+      "gloss": "ni fila"
     },
     {
       "surface": "אלף",
-      "gloss": "ba"
+      "gloss": "kɛmɛ tan-ni-ni fila"
     }
   ],
-  "timestamp": "2026-10-14T03:26:28.267067029Z",
+  "timestamp": "2026-10-20T15:44:27.990892789Z",
   "model": "glm-5.3"
 }

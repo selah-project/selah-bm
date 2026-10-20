@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Hebrew preposition 'unto' absorbed into the Bambara verb frame 'ye … wele'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אתו",
-      "rationale": "here אתו is the preposition את (with) plus pronoun, not the direct-object marker; gloss carries ⟨את⟩ per discipline with 'a nɔ' as the marked phrase"
-    },
-    {
-      "kind": "measurement",
-      "subject": "למקטן ועד גדול",
-      "rationale": "merism spanning the whole population, small to great"
-    }
-  ],
-  "translation": "A ye Yowanan, Karea denkɛ, wele, ani sarakari tigiw bɛɛ minnu bɛ ⟨את⟩ a nɔ, ani jama bɛɛ, fitinidenkɔrɔma la fo bonba ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "24a4f1fd338a5c9629a273213acec1ab68c6304507728e90f3789357b60b0656",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/42\/8-8.1791950860833.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ye Yowᴉhanan (Yowahanan), Karea denkɛ, wele, ani sera sɔrɔdasiw bɛɛ minnu bɛ a nɔ na, ani jama bɛɛ, fitinidɔn fɔlɔ ka se kɔgɔjidɔn ma — ⟨a y⟨את⟩⟩ɔ bɛɛ la.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "(yɔrɔ-daɲɛ, a bɛ ⟨…⟩ kɔnɔ)"
+      "gloss": "(a wele) ko"
     },
     {
       "surface": "יוחנן",
-      "gloss": "Yowanan"
+      "gloss": "Yowahanan"
     },
     {
       "surface": "בן",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ani"
+      "gloss": "ani … ko"
     },
     {
       "surface": "כל",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "שרי",
-      "gloss": "sarakari tigiw"
+      "gloss": "seraw"
     },
     {
       "surface": "החילים",
-      "gloss": "maxxanw"
+      "gloss": "sɔrɔdasiw"
     },
     {
       "surface": "אשר",
@@ -75,8 +49,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "a nɔ"
+      "gloss": "⟨את⟩ a",
+      "marks": "a nɔ na (minnu bɛ a nɔ)"
     },
     {
       "surface": "ולכל",
@@ -88,17 +62,17 @@
     },
     {
       "surface": "למקטן",
-      "gloss": "fitinidenkɔrɔma la"
+      "gloss": "fitinidɔn fɔlɔ"
     },
     {
       "surface": "ועד",
-      "gloss": "fo"
+      "gloss": "ka se … ma"
     },
     {
       "surface": "גדול",
-      "gloss": "bonba"
+      "gloss": "kɔgɔjidɔn"
     }
   ],
-  "timestamp": "2026-10-14T04:07:40.833974623Z",
+  "timestamp": "2026-10-20T14:45:10.403703877Z",
   "model": "glm-5.3"
 }

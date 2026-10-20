@@ -5,52 +5,31 @@
   "book": "daniel",
   "lang": "bm",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "a bolo",
-      "rationale": "Hebrew ושלטנה lacks explicit 'from him'; 'a bolo' supplied to make the taking-away clear."
-    },
-    {
-      "kind": "substitution",
-      "subject": "nyɛsigilali bɛna sigi",
-      "rationale": "Hebrew idiom 'judgment shall sit' (the court convenes) rendered with sigi (sit\/hold session)."
-    }
-  ],
-  "translation": "Nyɛsigilali bɛna sigi, a ka fanga bɛna bɔ a bolo, ka tiɲɛ bɔ ka sa fo laban na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e8ec84e09968cbb29249cd03a2ecef606f689be2ed1d990532a1d5c36c669c05",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/daniel\/7\/25-28.1791946149521.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ani sariya bɛna jɔ, a fanga bɛna bɔ a ma, walasa ka faasani ani ka bin, fo a laban na.",
   "tokens": [
     {
       "surface": "ודינא",
-      "gloss": "nyɛsigilali"
+      "gloss": "ani sariya"
     },
     {
       "surface": "יתב",
-      "gloss": "bɛna sigi"
+      "gloss": "bɛna jɔ"
     },
     {
       "surface": "ושלטנה",
-      "gloss": "a ka fanga"
+      "gloss": "a fanga"
     },
     {
       "surface": "יהעדון",
-      "gloss": "bɛna bɔ"
+      "gloss": "bɛna bɔ a ma"
     },
     {
       "surface": "להשמדה",
-      "gloss": "ka tiɲɛ bɔ"
+      "gloss": "walasa ka faasani"
     },
     {
       "surface": "ולהובדה",
-      "gloss": "ka sa"
+      "gloss": "ani ka bin"
     },
     {
       "surface": "עד",
@@ -58,9 +37,9 @@
     },
     {
       "surface": "סופא",
-      "gloss": "laban"
+      "gloss": "a laban"
     }
   ],
-  "timestamp": "2026-10-14T02:49:09.522398461Z",
+  "timestamp": "2026-10-20T13:37:05.953215879Z",
   "model": "glm-5.3"
 }

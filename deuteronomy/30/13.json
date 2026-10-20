@@ -5,41 +5,15 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Directional preposition absorbed into the adverb 'kɔrɔ fɛ' — no separate Bambara word."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מעבר\/יעבר\/עבר",
-      "rationale": "Triple repetition of the root עבר (cross\/beyond) frames the verse; kept as 'kɔrɔ — tɛmɛ — kɔrɔ' but the root-echo is lost."
-    },
-    {
-      "kind": "invitation",
-      "subject": "rhetorical question",
-      "rationale": "The imagined speaker's question ('Who will cross for us?') draws Israel into the argument that the word is not far."
-    }
-  ],
-  "translation": "A tɛ kɔgɔji kɔrɔ fɛ, walasa i na a fɔ ko: Jumɛ na tɛmɛ an ye kɔgɔji kɔrɔ fɛ, ka ⟨a⟩ ta an na, ka ⟨a⟩ lamɛn an ye, ka an k'a kɛ?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/30\/13-16.1791928451286.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O tɛ kɔgɔji kɔfɛ, i na fɔ: Min bɛna tugu kɔgɔji kɔfɛ ka k'a ta anw ma, ka k'anw mɛn ⟨את⟩ walasa an bɛna a kɛ?",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "a tɛ"
+      "gloss": "o tɛ"
     },
     {
       "surface": "מעבר",
-      "gloss": "kɔrɔ fɛ"
+      "gloss": "kɔfɛ"
     },
     {
       "surface": "לים",
@@ -51,27 +25,27 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "walasa i na a fɔ ko"
+      "gloss": "i na fɔ"
     },
     {
       "surface": "מי",
-      "gloss": "jumɛ"
+      "gloss": "min"
     },
     {
       "surface": "יעבר",
-      "gloss": "na tɛmɛ"
+      "gloss": "bɛna tugu"
     },
     {
       "surface": "לנו",
-      "gloss": "an ye"
+      "gloss": "anw"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ka taa"
     },
     {
       "surface": "עבר",
-      "gloss": "kɔrɔ"
+      "gloss": "kɔfɛ"
     },
     {
       "surface": "הים",
@@ -79,26 +53,26 @@
     },
     {
       "surface": "ויקחה",
-      "gloss": "ka ⟨a⟩ ta"
+      "gloss": "ka k'a ta"
     },
     {
       "surface": "לנו",
-      "gloss": "an na"
+      "gloss": "anw ma"
     },
     {
       "surface": "וישמענו",
-      "gloss": "ka ⟨a⟩ lamɛn an ye"
+      "gloss": "ka k'anw mɛn"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "kuma in (a min kɛra ko kɛlen ye)"
+      "marks": "a (kuma min sɛbɛnna, min bɛna kɛ)"
     },
     {
       "surface": "ונעשנה",
-      "gloss": "ka an k'a kɛ"
+      "gloss": "walasa an bɛna a kɛ"
     }
   ],
-  "timestamp": "2026-10-13T21:54:11.289638248Z",
+  "timestamp": "2026-10-20T13:44:48.141808623Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,19 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "צלמות",
-      "rationale": "Heburukan fɔcogo ye 'saya-kun-dibi' ye; Bamanankan na an y'o jira ni 'sayakun dibi' ye."
-    },
-    {
-      "kind": "addition",
-      "subject": "ko",
-      "rationale": "Bamanankan ka 'fɔ' wajibiya daɲɛ 'ko' min bɛ kuma-minɛn kɔnɔ, Heburukan o daɲɛ te."
-    },
-    {
-      "kind": "elision",
-      "subject": "איה",
-      "rationale": "'Mun na yɔrɔ min na' fɔcogo ma bayɛlɛma dɔrɔn; a sigira 'ko' la."
-    }
-  ],
-  "translation": "U ma fɔ ko: Yawe min b'eŋ bɔ an bɔ Mitsrayim (Misira) dugukolo la, min b'an ɲɛmɔya dakunyɔrɔ la, jahi-yɔrɔ ni dunbiw yɔrɔ la, konon yɔrɔ ni sayakun dibi yɔrɔ la, yɔrɔ min na ⟨את⟩ mɔgɔ si ma tugu o la, hadamaden si ma sigin yen.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "64d2aff526b45dce4ea0a48495c5a093e6dff428eb72f1f4823bb4562831072d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/2\/6-7.1791950803572.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ani u ma fɔ ko: Yawe bɛ min? Min ye ⟨את⟩ an bilala ka bɔ Mitsrayim (Misira) dugukolɔnɔ, min na ⟨את⟩ an taa nenɛ la — dugujɛ ani kunbɔ-yɔrɔw la, dugukolo min bɛ kunbin ni saya-dibi ye, dugukolo min na cɛ si ma tɛmɛ a la, ani hadamaden si tun ma sigi yen.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ma"
+      "gloss": "ani ma"
     },
     {
       "surface": "אמרו",
-      "gloss": "fɔ"
+      "gloss": "u ma fɔ"
     },
     {
       "surface": "איה",
-      "gloss": "ko"
+      "gloss": "bɛ min"
     },
     {
       "surface": "יהוה",
@@ -51,61 +25,61 @@
     },
     {
       "surface": "המעלה",
-      "gloss": "min b'eŋ bɔ"
+      "gloss": "min bilala"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "an"
+      "marks": "an (Mitsrayim dugukolɔnɔ la)"
     },
     {
       "surface": "מארץ",
-      "gloss": "dugukolo"
+      "gloss": "dugukolɔnɔ"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitsrayim (Misira)"
     },
     {
       "surface": "המוליך",
-      "gloss": "min b'ɲɛmɔya"
+      "gloss": "min ɲɛmɔsira"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "an"
+      "marks": "an (nenɛ la)"
     },
     {
       "surface": "במדבר",
-      "gloss": "dakunyɔrɔ la"
+      "gloss": "nenɛ la"
     },
     {
       "surface": "בארץ",
-      "gloss": "yɔrɔ la"
+      "gloss": "dugukolo"
     },
     {
       "surface": "ערבה",
-      "gloss": "jahi-yɔrɔ"
+      "gloss": "dugujɛ"
     },
     {
       "surface": "ושוחה",
-      "gloss": "ni dunbiw"
+      "gloss": "kunbɔ-yɔrɔw"
     },
     {
       "surface": "בארץ",
-      "gloss": "yɔrɔ la"
+      "gloss": "dugukolo"
     },
     {
       "surface": "ציה",
-      "gloss": "konon"
+      "gloss": "kunbin-dugukolo"
     },
     {
       "surface": "וצלמות",
-      "gloss": "ni sayakun dibi"
+      "gloss": "saya-dibi"
     },
     {
       "surface": "בארץ",
-      "gloss": "yɔrɔ la"
+      "gloss": "dugukolo"
     },
     {
       "surface": "לא",
@@ -113,23 +87,23 @@
     },
     {
       "surface": "עבר",
-      "gloss": "tugu"
+      "gloss": "tɛmɛ"
     },
     {
       "surface": "בה",
-      "gloss": "o la"
+      "gloss": "a la"
     },
     {
       "surface": "איש",
-      "gloss": "mɔgɔ"
+      "gloss": "cɛ"
     },
     {
       "surface": "ולא",
-      "gloss": "si ma"
+      "gloss": "ani si ma"
     },
     {
       "surface": "ישב",
-      "gloss": "sigin"
+      "gloss": "sigi"
     },
     {
       "surface": "אדם",
@@ -140,6 +114,6 @@
       "gloss": "yen"
     }
   ],
-  "timestamp": "2026-10-14T04:06:43.573120983Z",
+  "timestamp": "2026-10-20T14:37:37.220036766Z",
   "model": "glm-5.3"
 }

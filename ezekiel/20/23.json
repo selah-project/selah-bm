@@ -5,49 +5,28 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשאתי את ידי",
-      "rationale": "'I lifted my hand' = swearing an oath (ASV 'sware'); the gesture is kept literal"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "להפיץ \/ ולזרות",
-      "rationale": "near-synonymous pair 'scatter \/ winnow-disperse', both kept as separate Bambara verbs jalaki \/ fasa"
-    }
-  ],
-  "translation": "Kabini o yɛrɛ, n ye ⟨את⟩ nin bolo daminɛ u kan sɔrɔdugula kɔnɔ, ka u jalaki siyaw kɔnɔ ani ka u fasa dugukolow la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cd7b3dac1955f39302c0d7902bbe7a42b1c69e2ef40eae1631a90ba5fc9d1e0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/20\/21-24.1791937089834.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ani ne yɛ, ne ye ⟨את⟩ ne ka bolo la a u kan jɔnajifɔna, walasa k'u fan ka bɔ ɲɔgɔn na siyaw la, ani k'u latigɛ dugukolow la.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "kabini o yɛrɛ"
+      "gloss": "ani"
     },
     {
       "surface": "אני",
-      "gloss": "n"
+      "gloss": "ne yɛ"
     },
     {
       "surface": "נשאתי",
-      "gloss": "n ye … daminɛ"
+      "gloss": "ne ye … la"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nin bolo"
+      "marks": "ne ka bolo"
     },
     {
       "surface": "ידי",
-      "gloss": "nin bolo"
+      "gloss": "bolo"
     },
     {
       "surface": "להם",
@@ -55,33 +34,35 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "sɔrɔdugula kɔnɔ"
+      "gloss": "jɔnajifɔna"
     },
     {
       "surface": "להפיץ",
-      "gloss": "ka u jalaki"
+      "gloss": "walasa k'u fan ka bɔ ɲɔgɔn na"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ u"
+      "gloss": "⟨את⟩",
+      "marks": "siyaw la"
     },
     {
       "surface": "בגוים",
-      "gloss": "siyaw kɔnɔ"
+      "gloss": "siyaw la"
     },
     {
       "surface": "ולזרות",
-      "gloss": "ani ka u fasa"
+      "gloss": "ani k'u latigɛ"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ u"
+      "gloss": "⟨את⟩",
+      "marks": "dugukolow la"
     },
     {
       "surface": "בארצות",
       "gloss": "dugukolow la"
     }
   ],
-  "timestamp": "2026-10-14T00:18:09.835765787Z",
+  "timestamp": "2026-10-20T14:01:30.664522032Z",
   "model": "glm-5.3"
 }

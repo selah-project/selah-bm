@@ -5,67 +5,41 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 144,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לו",
-      "rationale": "'to it' absorbed into 'minnu bɛ cogo min'"
-    },
-    {
-      "kind": "addition",
-      "subject": "don",
-      "rationale": "Bambara copula supplied; Hebrew אשרי is an exclamation, not a clause"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אשרי ... אשרי",
-      "rationale": "parallel repetition of 'happy the people' frames the psalm's conclusion"
-    }
-  ],
-  "translation": "Ni jɔyɔrɔ ɲuman don mɔɔw la minnu bɛ cogo min; ni jɔyɔrɔ ɲuman don mɔɔw la minnu ka Ala ye Yawe.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "03ec3eb36db4f12f8b8d9b5531d39acebaed495ef25298a17ffb668739be92ee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/144\/13-15.1791942008195.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "N’yiriya jama min sɔrɔ o la, a ye o ye; n’yiriya jama min ka Elohim ye Yawe ye.",
   "tokens": [
     {
       "surface": "אשרי",
-      "gloss": "ni jɔyɔrɔ ɲuman don"
+      "gloss": "n’yiriya"
     },
     {
       "surface": "העם",
-      "gloss": "mɔɔw la"
+      "gloss": "jama"
     },
     {
       "surface": "שככה",
-      "gloss": "minnu bɛ cogo min"
+      "gloss": "o la \/ o cogo"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "a ye o ye"
     },
     {
       "surface": "אשרי",
-      "gloss": "ni jɔyɔrɔ ɲuman don"
+      "gloss": "n’yiriya"
     },
     {
       "surface": "העם",
-      "gloss": "mɔɔw la"
+      "gloss": "jama"
     },
     {
       "surface": "שיהוה",
-      "gloss": "ye Yawe"
+      "gloss": "Yawe"
     },
     {
       "surface": "אלהיו",
-      "gloss": "ka Ala ye"
+      "gloss": "a ka Elohim"
     }
   ],
-  "timestamp": "2026-10-14T01:40:08.196266621Z",
+  "timestamp": "2026-10-20T15:59:51.032151184Z",
   "model": "glm-5.3"
 }

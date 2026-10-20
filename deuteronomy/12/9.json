@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "nan",
-      "rationale": "Bamanankan bɛ fɔli-jatebɔ (past-tense particle) de dɔnya, Heburukan tɛ o ɲini"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מנוחה\/הנחלה",
-      "rationale": "Hebrew roots נוח and נחל echo each other; the echo is dim in Bamanankan (hɛrɛ \/ lasigiden)"
-    }
-  ],
-  "translation": "Sabu aw nan na fo sisan hɛrɛyɔrɔ la ani lasigiden la min Yawe Aw Ala di aw ma.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2ec8a58b1ab553fa978a28b513715f6ad7cd33f8563c1a1b8ad4f81354d696b1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/12\/9-12.1791927920358.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu aw mɛn na ⟨fo⟩ sisan na sira min bɛ sin ka yɛlɛma a ɲɛ, a ye sɔsɔli-yɔrɔ la ani a ye faso-yɔrɔ la min bɛ se Yawe ⟨i⟩ Elohim ma min bɛ n'a di aw ma.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "tɛ"
+      "gloss": "mɛn"
     },
     {
       "surface": "באתם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "fo"
+      "gloss": "⟨fo⟩"
     },
     {
       "surface": "עתה",
@@ -50,19 +29,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "sin"
     },
     {
       "surface": "המנוחה",
-      "gloss": "hɛrɛyɔrɔ"
+      "gloss": "sɔsɔli-yɔrɔ"
     },
     {
       "surface": "ואל",
-      "gloss": "ani … la"
+      "gloss": "ani sin"
     },
     {
       "surface": "הנחלה",
-      "gloss": "lasigiden"
+      "gloss": "faso-yɔrɔ"
     },
     {
       "surface": "אשר",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Aw Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "נתן",
@@ -85,6 +64,6 @@
       "gloss": "aw ma"
     }
   ],
-  "timestamp": "2026-10-13T21:45:20.359817460Z",
+  "timestamp": "2026-10-20T13:39:58.046627424Z",
   "model": "glm-5.3"
 }

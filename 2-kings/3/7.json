@@ -5,51 +5,15 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "עלה",
-      "rationale": "'go up \/ ascend' rendered plain taa (go); Bamanankan lacks the idiom of ascending to battle"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כמוני כמוך כעמי כעמך כסוסי כסוסיך",
-      "rationale": "three parallel 'as-I-as-you' pairs, chiasm lost without explicit pronouns"
-    },
-    {
-      "kind": "crux",
-      "subject": "אתי",
-      "rationale": "preposition 'with me', not the aleph-tav marker; rendered ni ne ye with ⟨את⟩ kept in gloss per rule"
-    },
-    {
-      "kind": "you",
-      "subject": "Yehoshafat",
-      "rationale": "direct address: Joram's message and question to the king of Judah"
-    },
-    {
-      "kind": "invitation",
-      "subject": "I bɛ na ni ne ye … wa",
-      "rhetoric": "rhetorical question inviting alliance"
-    }
-  ],
-  "translation": "A tagara, a ye kunnafoni ci Yehoshafat (Yehoshafati) ma, Yuda masakɛ ye, ko: Moab masakɛ n’i bolo fɔliyara. I bɛ na ⟨את⟩ ni ne ye Moab kɔnɔ, ka kɛ ɛntɛriye la wa? A ko: Ne bɛna taa. N’i sigira ne bolo, i mɛnɛnw ye ne ta ye, i so-wɛrɛw ye ne ta ye — ne tɛ i la surun.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "de72c38f04c22b0c941348d333157605a575036708220376c210d5bf7d2255c9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/3\/5-8.1791932673782.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A taara, a ye kunnafoni ci Yehoshafat (Yosafati) ma, min ye Yuda masakɛ ye, ko: Moab masakɛ ye jurumu kɛ ne na. Yala i bɛ taa ne ni ⟨את⟩ Moab kɛ kɛrɛfɔ la wa? A ko: Ne bɛ taa, ne bɛ kɔgɔn; ne ye ⟨i tɛmɛn ye⟩: ne jama ye i jama ye, ani ne soɲininw ye i soɲininw ye.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "A tagara"
+      "gloss": "a taara"
     },
     {
       "surface": "וישלח",
-      "gloss": "a ye kunnafoni ci … ma"
+      "gloss": "a ye ci"
     },
     {
       "surface": "אל",
@@ -57,7 +21,7 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "Yehoshafat"
+      "gloss": "Yehoshafat (Yosafati)"
     },
     {
       "surface": "מלך",
@@ -81,23 +45,24 @@
     },
     {
       "surface": "פשע",
-      "gloss": "fɔliyara"
+      "gloss": "ye jurumu kɛ"
     },
     {
       "surface": "בי",
-      "gloss": "n’i bolo"
+      "gloss": "ne na"
     },
     {
       "surface": "התלך",
-      "gloss": "I bɛ na"
+      "gloss": "i bɛ taa"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ni ne ye"
+      "gloss": "⟨את⟩ ni ne",
+      "marks": "i bɛ taa ne ni Moab kɛ kɛrɛfɔ la"
     },
     {
       "surface": "אל",
-      "gloss": "kɔnɔ"
+      "gloss": "…la"
     },
     {
       "surface": "מואב",
@@ -105,41 +70,41 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "ka kɛ ɛntɛriye la"
+      "gloss": "kɛ kɛrɛfɔ la"
     },
     {
       "surface": "ויאמר",
-      "gloss": "A ko"
+      "gloss": "a ko"
     },
     {
       "surface": "אעלה",
-      "gloss": "Ne bɛna taa"
+      "gloss": "ne bɛ taa, ne bɛ kɔgɔn"
     },
     {
       "surface": "כמוני",
-      "gloss": "n’i sigira ne bolo"
+      "gloss": "ne tɛmɛn"
     },
     {
       "surface": "כמוך",
-      "gloss": "ne tɛ i la surun"
+      "gloss": "i tɛmɛn"
     },
     {
       "surface": "כעמי",
-      "gloss": "i mɛnɛnw ye ne ta ye"
+      "gloss": "ne jama"
     },
     {
       "surface": "כעמך",
-      "gloss": ""
+      "gloss": "i jama"
     },
     {
       "surface": "כסוסי",
-      "gloss": "i so-wɛrɛw ye ne ta ye"
+      "gloss": "ne soɲininw"
     },
     {
       "surface": "כסוסיך",
-      "gloss": ""
+      "gloss": "i soɲininw"
     }
   ],
-  "timestamp": "2026-10-13T23:04:33.792294740Z",
+  "timestamp": "2026-10-20T13:21:30.256571294Z",
   "model": "glm-5.3"
 }

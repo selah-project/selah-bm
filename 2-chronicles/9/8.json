@@ -5,42 +5,11 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "o sabu",
-      "rationale": "Hebrew joins the clauses by juxtaposition; Bambara causal 'o sabu' supplied to link the result clause"
-    },
-    {
-      "kind": "crux",
-      "subject": "ליהוה אלהיך",
-      "rationale": "'to be king for Yawe your God': renderings split between 'for the LORD' (as YHWH's representative) and 'in place of the LORD'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "dunia bɛɛ",
-      "rationale": "לעולם literally 'to the concealed\/vanishing point', i.e. forever; 'lelemase' would keep the endlessness more sharply"
-    },
-    {
-      "kind": "you",
-      "subject": "queen of Sheba blessing Yawe before Solomon",
-      "rationale": "speech-act shifts from addressing Solomon to blessing his God"
-    }
-  ],
-  "translation": "“Yawe i ka Ala ye dubalen — min b'i lafiya ka di i bila a ka sigilan kan masakɛ ye, i ka Yawe Ala ye; i ka Ala kanuya la Yisraɛl ⟨את⟩ la, k'a jɔ dunia bɛɛ, o sabu a bilasy i u kan masakɛ ye, ka kɛ benw ni keneya ye.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "4c309775bee395cb686deecd0a65482d717f9cd20ec8b439deac79162140ad88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/9\/5-8.1791948950007.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe, i Elohim ka kɛ dubalen ye, min b'i fɛ a la di ka i bila a ka sigida kan ka kɛ masakɛ ye Yawe i Elohim ye; sabu i Elohim b'⟨את⟩ Israɛl (Yisraɛl) fɛ kanuya, walasa k'a jɔ duguma kɔfɛ, o de sabu a y'i bila u la ka kɛ masakɛ ye, walasa ka sariya-tigɛ ni tiɲɛ-ɲuman kɛ.",
   "tokens": [
     {
       "surface": "יהי",
-      "gloss": "kɛ"
+      "gloss": "ka kɛ"
     },
     {
       "surface": "יהוה",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i ka Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "ברוך",
@@ -60,15 +29,15 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "lafiya"
+      "gloss": "b'i fɛ a la di"
     },
     {
       "surface": "בך",
-      "gloss": "i la"
+      "gloss": "i fɛ"
     },
     {
       "surface": "לתתך",
-      "gloss": "ka di i"
+      "gloss": "ka i bila"
     },
     {
       "surface": "על",
@@ -76,7 +45,7 @@
     },
     {
       "surface": "כסאו",
-      "gloss": "a ka sigilan"
+      "gloss": "a ka sigida"
     },
     {
       "surface": "למלך",
@@ -88,40 +57,40 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i ka Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "באהבת",
-      "gloss": "kanuya la"
+      "gloss": "sabu ka kanuya"
     },
     {
       "surface": "אלהיך",
-      "gloss": "i ka Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisraɛl"
+      "marks": "Israɛl"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraɛl"
+      "gloss": "Israɛl"
     },
     {
       "surface": "להעמידו",
-      "gloss": "k'a jɔ"
+      "gloss": "walasa k'a jɔ"
     },
     {
       "surface": "לעולם",
-      "gloss": "dunia bɛɛ"
+      "gloss": "duguma kɔfɛ"
     },
     {
       "surface": "ויתנך",
-      "gloss": "a bilasy i"
+      "gloss": "a y'i bila"
     },
     {
       "surface": "עליהם",
-      "gloss": "u kan"
+      "gloss": "u la"
     },
     {
       "surface": "למלך",
@@ -129,17 +98,17 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "ka kɛ"
+      "gloss": "walasa ka kɛ"
     },
     {
       "surface": "משפט",
-      "gloss": "benw"
+      "gloss": "sariya-tigɛ"
     },
     {
       "surface": "וצדקה",
-      "gloss": "keneya"
+      "gloss": "tiɲɛ-ɲuman"
     }
   ],
-  "timestamp": "2026-10-14T03:35:50.009251643Z",
+  "timestamp": "2026-10-20T13:16:14.342525486Z",
   "model": "glm-5.3"
 }

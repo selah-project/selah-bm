@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hugu",
-      "rationale": "נפת literally 'sieve\/high place' — rendered 'height\/elevated region' of Dor, not 'region'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "district list",
-      "rationale": "Continues the census of Solomon's twelve officers and their districts."
-    }
-  ],
-  "translation": "Ben-Avinadab (Ben-Avinadab), Dor ka hugu bɛɛ la; Tafat (Tafat), Shelomo (Shelomo) ka denmuso, kɛra a ye muso ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "7035d34557ff64cd5a83972db694a1f0a4cac4a69dffb39ca3d1a738d1b6e907",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/4\/9-12.1791931777877.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ben-Awinadab, ⟨a mara⟩ Nafat-Dor bɛɛ; Tafat, Shelomo (Solomɔn) denmuso, kɛra a muso ye.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "Ben-Avinadab (den)"
+      "gloss": "Ben-Awinadab"
     },
     {
       "surface": "אבינדב",
-      "gloss": "Avinadab"
+      "gloss": "Ben-Awinadab"
     },
     {
       "surface": "כל",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "נפת",
-      "gloss": "hugu (Dor ka)"
+      "gloss": "Nafat"
     },
     {
       "surface": "דאר",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo ka"
+      "gloss": "Shelomo"
     },
     {
       "surface": "היתה",
@@ -66,13 +45,13 @@
     },
     {
       "surface": "לו",
-      "gloss": "a ye"
+      "gloss": "a"
     },
     {
       "surface": "לאשה",
       "gloss": "muso ye"
     }
   ],
-  "timestamp": "2026-10-13T22:49:37.886076899Z",
+  "timestamp": "2026-10-20T12:56:10.854754648Z",
   "model": "glm-5.3"
 }

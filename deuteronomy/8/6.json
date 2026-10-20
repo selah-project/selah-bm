@@ -5,41 +5,20 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mara",
-      "rationale": "שמר ka kɔrɔ ye 'ka kisi ni suma' ye — 'mara' bɛ o jɔcogo mara a kɔnɔ"
-    },
-    {
-      "kind": "you",
-      "subject": "Isirayeli",
-      "rationale": "Takudaɲɛ in bɛ Isirayeli fɛ"
-    }
-  ],
-  "translation": "I na Yawe i Ala Elohim ka takuw mara, walasa ka taa a siraw la ani k'a siran ⟨אתו⟩.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c27dabee088dc1fb09f9df2aadcbfbf6da9496268d9d172abb055ed4a69efd83",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/8\/5-8.1791927719589.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I bɛ Yawe i Elohim tɔgɔsensenw mara, ka taa a siraw la, ka a siran.",
   "tokens": [
     {
       "surface": "ושמרת",
-      "gloss": "i na mara"
+      "gloss": "i bɛ … mara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "takuw"
+      "marks": "tɔgɔsensenw (sariyaw)"
     },
     {
       "surface": "מצות",
-      "gloss": "takuw"
+      "gloss": "tɔgɔsensenw"
     },
     {
       "surface": "יהוה",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i Ala Elohim"
+      "gloss": "i Elohim (Elohim)"
     },
     {
       "surface": "ללכת",
-      "gloss": "walasa ka taa"
+      "gloss": "ka taa"
     },
     {
       "surface": "בדרכיו",
@@ -59,14 +38,14 @@
     },
     {
       "surface": "וליראה",
-      "gloss": "ani k'a siran"
+      "gloss": "ka a siran"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "a (Yawe)"
     }
   ],
-  "timestamp": "2026-10-13T21:41:59.595118015Z",
+  "timestamp": "2026-10-20T13:47:06.842275215Z",
   "model": "glm-5.3"
 }

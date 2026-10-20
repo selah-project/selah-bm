@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "a laso",
-      "rationale": "והחרדתי is 'I will terrify\/make tremble'; laso renders causing panic."
-    },
-    {
-      "kind": "addition",
-      "subject": "wa",
-      "rationale": "discourse particle supplied to mark the causal 'while\/for' sense of the clauses."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו (min bɛ ⟨את⟩ a la)",
-      "rationale": "second אתו is the preposition 'with him' (H854), not the object marker; kept as ⟨את⟩ with 'a la' to carry 'with'."
-    }
-  ],
-  "translation": "M'aka na a kan, a bɛ neŋen ani a bolo tɛ se wa, ne bɛ a laso, jama bɛɛ min bɛ ⟨את⟩ a la u bɛ boli, ani ne bɛ fɔ ⟨את⟩ masakɛ a yɛrɛ dɔrɔn.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/17\/1-4.1791931348310.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "An bɛna na a kan, a bɛna ge ni bolo jokori, n bɛna a kɛ a siran, jama bɛɛ min bɛ ⟨את⟩ ni a ye, u bɛna toɔri, ani n bɛna ⟨את⟩ masakɛ fɔ, a kelen ko.",
   "tokens": [
     {
       "surface": "ואבוא",
-      "gloss": "m'aka na"
+      "gloss": "an bɛna na"
     },
     {
       "surface": "עליו",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "יגע",
-      "gloss": "bɛ neŋen"
+      "gloss": "ge"
     },
     {
       "surface": "ורפה",
-      "gloss": "bolo tɛ se"
+      "gloss": "jokori"
     },
     {
       "surface": "ידים",
@@ -59,16 +33,16 @@
     },
     {
       "surface": "והחרדתי",
-      "gloss": "ne bɛ a laso"
+      "gloss": "n bɛna a kɛ a siran"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "a"
+      "marks": "a (min bɛna toɔri)"
     },
     {
       "surface": "ונס",
-      "gloss": "u bɛ boli"
+      "gloss": "bɛna toɔri"
     },
     {
       "surface": "כל",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ a la"
+      "gloss": "⟨את⟩ ni a ye"
     },
     {
       "surface": "והכיתי",
-      "gloss": "ne bɛ fɔ"
+      "gloss": "n bɛna fɔ"
     },
     {
       "surface": "את",
@@ -101,9 +75,9 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "a yɛrɛ dɔrɔn"
+      "gloss": "a kelen ko"
     }
   ],
-  "timestamp": "2026-10-13T22:42:28.315145595Z",
+  "timestamp": "2026-10-20T13:26:34.126563370Z",
   "model": "glm-5.3"
 }

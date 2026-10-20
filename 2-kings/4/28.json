@@ -5,41 +5,15 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תשלה",
-      "rationale": "Rare verb שלה: 'mislead\/deceive' (KJV 'deceive me not') vs 'disappoint me'; rendered here as 'n tɔgɔtɔ' (do not mock\/deceive me)."
-    },
-    {
-      "kind": "you",
-      "subject": "to Elisha",
-      "rationale": "The woman addresses the man of Elohim directly as 'Adonay' (my lord)."
-    },
-    {
-      "kind": "hapax-context",
-      "subject": "אדני",
-      "rationale": "The woman calls the prophet 'my lord' — human address, not the divine Name; kept as Adonay."
-    }
-  ],
-  "translation": "A ko: “Yala ne y'a ɲini denkɛ ⟨את⟩ Adonay fɛ wa? Yala ne ma fɔ ko: n tɛ tɔgɔtɔ wa?”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "13cf0e66206493277a93fa565b96abb369df5f747afdca86ec6ef77d6dc3b584",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/4\/25-28.1791932639017.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ko: “Ne ɲinina denkɛ Matigi fɛ ⟨את⟩ wa? Ne ma fɔ ko: i kana ⟨את⟩ ne bo kabɔfoɲi la wa?”",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "A ko"
+      "gloss": "a ko"
     },
     {
       "surface": "השאלתי",
-      "gloss": "ne y'a ɲini"
+      "gloss": "ne ɲinina"
     },
     {
       "surface": "בן",
@@ -47,27 +21,28 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ fɛ"
+      "gloss": "⟨את⟩ fɛ",
+      "marks": "Matigi"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonay"
+      "gloss": "Matigi"
     },
     {
       "surface": "הלא",
-      "gloss": "Yala … wa"
+      "gloss": "yala…wa"
     },
     {
       "surface": "אמרתי",
-      "gloss": "ne ma fɔ ko"
+      "gloss": "ne fɔra"
     },
     {
       "surface": "לא",
-      "gloss": "tɛ"
+      "gloss": "kana"
     },
     {
       "surface": "תשלה",
-      "gloss": "n tɔgɔtɔ"
+      "gloss": "i kana ne bo kabɔfoɲi la"
     },
     {
       "surface": "אתי",
@@ -75,6 +50,6 @@
       "marks": "ne"
     }
   ],
-  "timestamp": "2026-10-13T23:03:59.029552761Z",
+  "timestamp": "2026-10-20T13:21:39.015361460Z",
   "model": "glm-5.3"
 }

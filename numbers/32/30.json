@@ -5,57 +5,36 @@
   "book": "numbers",
   "lang": "bm",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "u ka nɔɔrɔ",
-      "rationale": "Hebrew verb נאחז holds both 'seize' and 'hold in possession'; Bambara needs the object named"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ka taa fanga bolo",
-      "rationale": "חלוצים literally 'stripped\/departed ones', troops drawn up in battle order; rendered as armed-going"
-    }
-  ],
-  "translation": "Ni u ma tɛmɛ aw ni ka taa fanga bolo, u bɛna u ka nɔɔrɔ mara aw cɛmancɛ la, Kenaan (Kanaan) dugukolo la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e7021ebaba1a3270b54fed18cec9ecf275b2103722ca8d23762f0aa425dccdc8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/numbers\/32\/30-31.1791950026337.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nka ni minɛbaw tɛ taa ⟨את⟩ ni aw ye, u bɛna fanu minɛ aw cɛma Kenaan dugukolo la.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Ni"
+      "gloss": "nka ni"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "tɛ"
     },
     {
       "surface": "יעברו",
-      "gloss": "u ma tɛmɛ"
+      "gloss": "taa"
     },
     {
       "surface": "חלוצים",
-      "gloss": "ka taa fanga bolo"
+      "gloss": "minɛbaw"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw",
-      "marks": "aw"
+      "gloss": "⟨את⟩ ni aw ye",
+      "marks": "minɛbaw"
     },
     {
       "surface": "ונאחזו",
-      "gloss": "u bɛna u ka nɔɔrɔ mara"
+      "gloss": "ka fanu minɛ"
     },
     {
       "surface": "בתככם",
-      "gloss": "aw cɛmancɛ la"
+      "gloss": "aw cɛma"
     },
     {
       "surface": "בארץ",
@@ -66,6 +45,6 @@
       "gloss": "Kenaan"
     }
   ],
-  "timestamp": "2026-10-14T03:53:46.337960272Z",
+  "timestamp": "2026-10-20T15:25:37.917517893Z",
   "model": "glm-5.3"
 }

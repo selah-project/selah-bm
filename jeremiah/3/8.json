@@ -5,42 +5,11 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "furutan-sɛbɛn",
-      "rationale": "כריתות literally 'cutting-off' — furutan-sɛbɛn (divorce-writing) keeps the legal document picture; 'cutting' lost."
-    },
-    {
-      "kind": "substitution",
-      "subject": "furukɛ tasuma",
-      "rationale": "נאף rendered furu-ɲɛfɔli (adultery); some versions use 'played the harlot' (zanaku-ɲɛfɔli) — Jeremiah mixes both images (3:9)."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "משבה\/בגדה",
-      "rationale": "two labels on Israel and Judah — 'turning-away' (jɔyɔrɔ-tingɛ) vs 'treachery' (bɛnkan); Hebrew keeps the pair distinct, Bambara mirrors with two words."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨a yɛrɛ⟩",
-      "rationale": "Hebrew גם היא is emphatic 'also she'; Bambara needs the emphatic reflexive supplied in brackets."
-    }
-  ],
-  "translation": "M'a ye ko Israyɛl, jɔyɔrɔ-tingɛbaga, o bɛɛ sabu minnu na a ye furu-ɲɛfɔli kɛ, ne ye a bila, ne ye ⟨את⟩ a ka furutan-sɛbɛn di a ye; nka a ka jɔyɔrɔ-tingɛ bɛnkan Yuda ma siran, a taara a ye furu-ɲɛfɔli kɛ fana, <a yɛrɛ>.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "5a1bd851a446817f7173a4ee3156d98317d4432ba6c5132d0806d31b31a45f0e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/3\/8-8.1791950770118.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "M'ɛ y'a ye ko, Isirayɛli bɔkɛli ye kunubali kɛ o sababow bɛɛ la, sabu n ye a bilala, n ye ⟨את⟩ a furukɛbɔ-sɛbɛn di a ye; nka a denmuso Yuda bogodala ma a siran, a yɛrɛ fana taara a ye kunubali kɛ.",
   "tokens": [
     {
       "surface": "וארא",
-      "gloss": "M'a ye"
+      "gloss": "M'ɛ y'a ye"
     },
     {
       "surface": "כי",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "על",
-      "gloss": "sabu"
+      "gloss": "sanfɛ"
     },
     {
       "surface": "כל",
@@ -56,36 +25,36 @@
     },
     {
       "surface": "אדות",
-      "gloss": "minnu na"
+      "gloss": "sababow"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "נאפה",
-      "gloss": "a ye furu-ɲɛfɔli kɛ"
+      "gloss": "kunubali kɛ"
     },
     {
       "surface": "משבה",
-      "gloss": "jɔyɔrɔ-tingɛbaga"
+      "gloss": "bɔkɛli"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyɛl"
+      "gloss": "Isirayɛli"
     },
     {
       "surface": "שלחתיה",
-      "gloss": "ne ye a bila"
+      "gloss": "n ye a bilala"
     },
     {
       "surface": "ואתן",
-      "gloss": "ne ye … di"
+      "gloss": "n ye … di"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a ka furutan-sɛbɛn"
+      "marks": "furukɛbɔ-sɛbɛn"
     },
     {
       "surface": "ספר",
@@ -93,7 +62,7 @@
     },
     {
       "surface": "כריתתיה",
-      "gloss": "furutan"
+      "gloss": "furukɛbɔ"
     },
     {
       "surface": "אליה",
@@ -109,7 +78,7 @@
     },
     {
       "surface": "בגדה",
-      "gloss": "jɔyɔrɔ-tingɛ"
+      "gloss": "bogodala"
     },
     {
       "surface": "יהודה",
@@ -117,7 +86,7 @@
     },
     {
       "surface": "אחותה",
-      "gloss": "bɛnkan"
+      "gloss": "a denmuso"
     },
     {
       "surface": "ותלך",
@@ -125,7 +94,7 @@
     },
     {
       "surface": "ותזן",
-      "gloss": "a ye furu-ɲɛfɔli kɛ"
+      "gloss": "kunubali kɛ"
     },
     {
       "surface": "גם",
@@ -136,6 +105,6 @@
       "gloss": "a yɛrɛ"
     }
   ],
-  "timestamp": "2026-10-14T04:06:10.118579711Z",
+  "timestamp": "2026-10-20T15:58:20.110282595Z",
   "model": "glm-5.3"
 }

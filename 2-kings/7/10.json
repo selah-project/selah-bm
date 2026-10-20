@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨a⟩",
-      "rationale": "Hebrew ויגידו has no explicit object; Bambara needs 'a' (it) for 'told it'"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "the pair 'only if not' collapses into a single 'dɔrɔn' (only)"
-    },
-    {
-      "kind": "crux",
-      "subject": "כאשר המה",
-      "rationale": "'tents as they were' — intact\/untouched vs 'in their place'; rendered literally"
-    }
-  ],
-  "translation": "U nana, u ye dugu dakɔlɔsiw wele, u y'⟨a⟩ fɔ u ye ko: an nana Aram (Suramaw) so la, i n'a fɔ, mɔgɔ si ma yen, hadamaden kan si ma yen; so minnu maralen don ni keleya minnu maralen don dɔrɔn, ani makyɔrɔw, u bɛ u yeelen cogo min na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "dfafccee2b56bebd306b7b87488d2d3d8fef53844cada931b2a61f6b13b7745e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/7\/10-11.1791950609443.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U nana, u ye duguw da-kɔlisibagaw wele, u y'u la kuma fɔ u ma ko: an nana Aram (Siri) ka so-dalan kɔnɔ, a ye tiɲɛ ye ko mɔgɔ si tɛ yen, hadamaden bɛ kan si tɛ yen — so maralenw de bɛ yen ni barki maralenw, ani dalenw bɛ to u yɛrɛ ye cogo min na.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "שער",
-      "gloss": "dakɔlɔsibaga"
+      "gloss": "da-kɔlisibaga"
     },
     {
       "surface": "העיר",
-      "gloss": "dugu"
+      "gloss": "duguw"
     },
     {
       "surface": "ויגידו",
-      "gloss": "u y'… fɔ"
+      "gloss": "u y'u la kuma fɔ"
     },
     {
       "surface": "להם",
-      "gloss": "u ye"
+      "gloss": "u ma"
     },
     {
       "surface": "לאמר",
@@ -71,23 +45,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "kɔnɔ"
     },
     {
       "surface": "מחנה",
-      "gloss": "so (jamana)"
+      "gloss": "so-dalan"
     },
     {
       "surface": "ארם",
-      "gloss": "Aram (Suramaw)"
+      "gloss": "Aram (Siri)"
     },
     {
       "surface": "והנה",
-      "gloss": "i n'a fɔ"
+      "gloss": "a ye tiɲɛ ye ko"
     },
     {
       "surface": "אין",
-      "gloss": "si ma yen"
+      "gloss": "si tɛ"
     },
     {
       "surface": "שם",
@@ -107,15 +81,15 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "dɔrɔn de"
     },
     {
       "surface": "אם",
-      "gloss": "dɔrɔn"
+      "gloss": ""
     },
     {
       "surface": "הסוס",
-      "gloss": "so (wɔlɔ)"
+      "gloss": "so"
     },
     {
       "surface": "אסור",
@@ -123,7 +97,7 @@
     },
     {
       "surface": "והחמור",
-      "gloss": "keleya"
+      "gloss": "barki"
     },
     {
       "surface": "אסור",
@@ -131,7 +105,7 @@
     },
     {
       "surface": "ואהלים",
-      "gloss": "makyɔrɔw"
+      "gloss": "dalenw"
     },
     {
       "surface": "כאשר",
@@ -139,9 +113,9 @@
     },
     {
       "surface": "המה",
-      "gloss": "u bɛ u yeelen"
+      "gloss": "u yɛrɛ"
     }
   ],
-  "timestamp": "2026-10-14T04:03:29.443671232Z",
+  "timestamp": "2026-10-20T13:22:59.017076864Z",
   "model": "glm-5.3"
 }

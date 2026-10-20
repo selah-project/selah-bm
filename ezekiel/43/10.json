@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בית ... הבית",
-      "rationale": "so (Yisrael so) mini so (Yawe so) — kumafila ɲɔgɔn na, Bamanankan bɛ o laɲini dɔɔni"
-    },
-    {
-      "kind": "you",
-      "subject": "Yekieli",
-      "rationale": "Yawe bɛ hadamadenden Yekiel wele"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kalankan",
-      "rationale": "sariya bɔɔcogo: k'u kalankan so cogoya nɔ"
-    }
-  ],
-  "translation": "I, hadamadenden, jira Yisrael so ma so in, walasa u bɛna u yɛrɛw bin u ka juguya nɔ; ka u kalankan so cogoya nɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "269d28a48addbe680ee8da00a3018da41435581ffe5761aa7ab1efed45e71e7d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/43\/9-12.1791937973317.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aw, hadamaden, jira ⟨את⟩ so Yisrayela ma, ⟨את⟩ so, walasa k'u kɛyɔrɔya u jurumuw na; k'u hakɛ ⟨את⟩ cogoya.",
   "tokens": [
     {
       "surface": "אתה",
-      "gloss": "I"
+      "gloss": "aw"
     },
     {
       "surface": "בן",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "hadama"
+      "gloss": "hadamaden"
     },
     {
       "surface": "הגד",
@@ -52,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "so in"
+      "marks": "so"
     },
     {
       "surface": "בית",
@@ -60,39 +34,39 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisrayela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "so in"
+      "marks": "so"
     },
     {
       "surface": "הבית",
-      "gloss": "so in"
+      "gloss": "so"
     },
     {
       "surface": "ויכלמו",
-      "gloss": "walasa u bɛna u yɛrɛw bin"
+      "gloss": "kɛyɔrɔya"
     },
     {
       "surface": "מעונותיהם",
-      "gloss": "u ka juguya nɔ"
+      "gloss": "jurumuw"
     },
     {
       "surface": "ומדדו",
-      "gloss": "ka u kalankan"
+      "gloss": "hakɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "so cogoya"
+      "marks": "cogoya"
     },
     {
       "surface": "תכנית",
-      "gloss": "so cogoya"
+      "gloss": "cogoya"
     }
   ],
-  "timestamp": "2026-10-14T00:32:53.318070102Z",
+  "timestamp": "2026-10-20T14:07:54.901149828Z",
   "model": "glm-5.3"
 }

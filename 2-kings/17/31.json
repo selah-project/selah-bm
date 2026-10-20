@@ -5,41 +5,15 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "נבחז",
-      "rationale": "Nivhaz lacks the aleph-tav marker (Tartak has it); kept as is."
-    },
-    {
-      "kind": "crux",
-      "subject": "אלה ספרים",
-      "rationale": "Read as 'gods of Sepharaim'; ketiv ספרים vs qere Sepharvajim — kept the written form's sense."
-    },
-    {
-      "kind": "hapax",
-      "subject": "Nivhaz, Tartak, Adrammelek-idol, Anammelek",
-      "rationale": "These deity names appear only here in the Tanakh."
-    }
-  ],
-  "translation": "Awwiyaw ye Nivhaz ani ⟨את⟩ Tartak dilan; Sefarawayiw tun bɛ ⟨את⟩ u ka denw tununi tuni la Adrammelek ani Anammelek ma — Sefarawayiw ka batofɛnw ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e7a9fd96d5094ea5756417e9379bfc887e1595f4de89c7f600885bbe247f3c51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/17\/29-32.1791933068056.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni Awiw-jamaw ye Nivhaz ni ⟨את⟩ Tartak dilan, ni Sefarwayim-jamaw b'⟨את⟩ u denw tunu ⟨i n'a fɔ a ye⟩ tasuma la Adrammelek ni Anammelek ma, Sefarwayim alaw de ye.",
   "tokens": [
     {
       "surface": "והעוים",
-      "gloss": "Awwiyaw"
+      "gloss": "ni Awiw-jamaw"
     },
     {
       "surface": "עשו",
-      "gloss": "dilan"
+      "gloss": "dilan (ye…dilan)"
     },
     {
       "surface": "נבחז",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ani ⟨את⟩",
+      "gloss": "ni ⟨את⟩",
       "marks": "Tartak"
     },
     {
@@ -56,24 +30,24 @@
     },
     {
       "surface": "והספרוים",
-      "gloss": "Sefarawayiw"
+      "gloss": "ni Sefarwayim-jamaw"
     },
     {
       "surface": "שרפים",
-      "gloss": "tununi tuni la"
+      "gloss": "b'u denw tunu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u ka denw"
+      "marks": "u denw"
     },
     {
       "surface": "בניהם",
-      "gloss": "u ka denw"
+      "gloss": "u denw"
     },
     {
       "surface": "באש",
-      "gloss": "tasuma"
+      "gloss": "tasuma la"
     },
     {
       "surface": "לאדרמלך",
@@ -81,17 +55,17 @@
     },
     {
       "surface": "וענמלך",
-      "gloss": "ani Anammelek"
+      "gloss": "ni Anammelek"
     },
     {
       "surface": "אלה",
-      "gloss": "batofɛnw"
+      "gloss": "alaw"
     },
     {
       "surface": "ספרים",
-      "gloss": "Sefarawayiw"
+      "gloss": "Sefarwayim"
     }
   ],
-  "timestamp": "2026-10-13T23:11:08.063503308Z",
+  "timestamp": "2026-10-20T13:17:10.046641569Z",
   "model": "glm-5.3"
 }

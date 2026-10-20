@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "וימלטו",
-      "rationale": "'they let escape \/ were spared' — root 'be smooth, slip away'; rendered 'were not touched' in Bambara."
-    },
-    {
-      "kind": "substitution",
-      "subject": "nabi",
-      "rationale": "נביא rendered nabi per ruling; the printed Bambara Bible's kira is barred (Muhammad's title)."
-    }
-  ],
-  "translation": "A ko: A bila, mɔgɔ si kana a kolow wuyi. A kolow ma daminɛ ni nabi ka kolow ye min nana Shomeron (Samari) na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "4c489e54d15ff4a44c095d12622bd58399740b1fc0473f1b470a90b701710476",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/23\/17-20.1791933291165.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y'a fɔ ko: A bila, mɔgɔ si kana a kolow min. O kɔ, u y'a kolow tiɲɛ ni ⟨את⟩ nabi kolow ye, min bɔra Shomeron (Samari) na.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a ko"
+      "gloss": "a y'a fɔ ko"
     },
     {
       "surface": "הניחו",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ינע",
-      "gloss": "wuyi"
+      "gloss": "min"
     },
     {
       "surface": "עצמתיו",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "וימלטו",
-      "gloss": "ma daminɛ"
+      "gloss": "u y'a kolow tiɲɛ"
     },
     {
       "surface": "עצמתיו",
@@ -67,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nabi ka kolow"
+      "marks": "nabi kolow"
     },
     {
       "surface": "עצמות",
@@ -83,13 +62,13 @@
     },
     {
       "surface": "בא",
-      "gloss": "nana"
+      "gloss": "bɔra"
     },
     {
       "surface": "משמרון",
-      "gloss": "Shomeron"
+      "gloss": "Shomeron (Samari)"
     }
   ],
-  "timestamp": "2026-10-13T23:14:51.176477752Z",
+  "timestamp": "2026-10-20T13:19:59.949186907Z",
   "model": "glm-5.3"
 }

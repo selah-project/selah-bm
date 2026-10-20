@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Solomon an assembly kan",
-      "rationale": "Verse 13–14: Solomon turns to bless the standing assembly; direct address begins in v.15."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קהל ישראל",
-      "rationale": "The phrase repeats verbatim in one verse; kept identical in Bambara to preserve the refrain."
-    }
-  ],
-  "translation": "Masakɛ ye a ɲɛda jalaki, ka ⟨את⟩ Israel jama bɛɛ duba<...> ani Israel jama bɛɛ yɛrɛ bɛ jɔ yen.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/8\/13-16.1791931977114.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masa bɛ ⟨את⟩ a ɲɛda jɔ, ka Israel jama bɛɛ duba; Israel jama bɛɛ tun dira ɲɔgɔn kan.",
   "tokens": [
     {
       "surface": "ויסב",
-      "gloss": "ka a ɲɛda jalaki"
+      "gloss": "jɔ"
     },
     {
       "surface": "המלך",
-      "gloss": "masakɛ"
+      "gloss": "masa"
     },
     {
       "surface": "את",
@@ -47,12 +26,12 @@
     },
     {
       "surface": "ויברך",
-      "gloss": "ka … duba"
+      "gloss": "ka ... duba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israel jama bɛɛ"
+      "marks": "jama bɛɛ"
     },
     {
       "surface": "כל",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ani … bɛɛ"
+      "gloss": "bɛɛ"
     },
     {
       "surface": "קהל",
@@ -80,9 +59,9 @@
     },
     {
       "surface": "עמד",
-      "gloss": "bɛ jɔ"
+      "gloss": "dira ɲɔgɔn kan"
     }
   ],
-  "timestamp": "2026-10-13T22:52:57.119249948Z",
+  "timestamp": "2026-10-20T12:57:55.708931777Z",
   "model": "glm-5.3"
 }

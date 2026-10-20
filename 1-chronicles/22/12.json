@@ -5,40 +5,19 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Shelomo",
-      "rationale": "David ka kuma-Selila ye Shelomo maɔ ni dɔnni-sine ye."
-    },
-    {
-      "kind": "elision",
-      "subject": "אך",
-      "rationale": "'Yele de' (afirmasyon ni dan-sigi) — dɔw b'a fɔ 'dɔrɔn de'."
-    }
-  ],
-  "translation": "Yele de, Yawe ka hakili ni dɔnni di i ye, a ka i ɲɛmɛ Isirayeli kan, walasa k'i kɔlɔsi Yawe i Ala ka ⟨את⟩ Tora.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ba88944f0ecad370abea87942c98146394167862aa7fc3ea902e00d2049d0bcb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/22\/9-12.1791948314756.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dɔrɔn: Yawe b'i di hakili ni kunafoni, ani k'a laso i bolo Israyel bolo, walasa i na ⟨את⟩ Yawe i Elohim ka Tora mara.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Yele de"
+      "gloss": "dɔrɔn"
     },
     {
       "surface": "יתן",
-      "gloss": "ka … di"
+      "gloss": "di"
     },
     {
       "surface": "לך",
-      "gloss": "i ye"
+      "gloss": "i ma"
     },
     {
       "surface": "יהוה",
@@ -50,28 +29,28 @@
     },
     {
       "surface": "ובינה",
-      "gloss": "ani dɔnni"
+      "gloss": "kunafoni"
     },
     {
       "surface": "ויצוך",
-      "gloss": "a ka i ɲɛmɛ"
+      "gloss": "laso"
     },
     {
       "surface": "על",
-      "gloss": "…kan"
+      "gloss": "bolo"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayeli"
+      "gloss": "Israyel"
     },
     {
       "surface": "ולשמור",
-      "gloss": "walasa k'i kɔlɔsi"
+      "gloss": "mara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe i Ala ka Tora"
+      "marks": "Yawe i Elohim ka Tora"
     },
     {
       "surface": "תורת",
@@ -83,9 +62,9 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i Ala"
+      "gloss": "i Elohim"
     }
   ],
-  "timestamp": "2026-10-14T03:25:14.757880540Z",
+  "timestamp": "2026-10-20T12:47:45.848654296Z",
   "model": "glm-5.3"
 }

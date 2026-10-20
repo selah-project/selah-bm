@@ -5,45 +5,19 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "npan da la",
-      "rationale": "לפי חרב is literally 'by the mouth of the sword'; rendered as 'at the mouth\/edge of the sword' with da 'mouth' kept."
-    },
-    {
-      "kind": "substitution",
-      "subject": "u niw",
-      "rationale": "נפשם 'their life\/soul' rendered with Bambara ni 'life', per the vocabulary table."
-    },
-    {
-      "kind": "elision",
-      "subject": "כן",
-      "rationale": "ואחרי כן 'after so' is a fixed adverbial pair; the second token is absorbed into 'O kɔfɛ'."
-    }
-  ],
-  "translation": "O kɔfɛ, Yawe ne-ko: An bɛna ⟨את⟩ Tsidikiyahu (Sedekiya), Yuda masakɛ, ni ⟨את⟩ a seriw, ni ⟨את⟩ jamaaw, ani ⟨את⟩ o minnu to len nin dugu in kɔnɔ dɛbɛrɛ la, saala la, npan la, kɔngɔ la — Nebukadretsar (Nebukadnɛzɛr), Babilɔn masakɛ, bolo la, ni u alienw bolo, ani u niw ɲininfɔlaw bolo; a bɛ u bɔ npan da la; a tɛ ɲa u na, a tɛ yiri, a tɛ keelen.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/21\/5-8.1791935512228.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O kɔfɛ, Yawe ka kuma ko: ne bɛna ⟨את⟩ Tsedekiyahu (Sedekiya), Yuda masakɛ, ni ⟨את⟩ a ka somɔgɔw, ani ⟨את⟩ jamaaw, ani ⟨את⟩ o minnu dagalen dugu in kɔnɔ — dɛbɛre la, npan la, kɔngɔ la — di Nebukadnɛtsar (Nabukɔnɛzɔr), Babilɔn masakɛ bolo, ani u ka tɔgɔtɔrɔbagaaw bolo, ani o minnu bɛ u n'i ɲini bolo; a bɛ bɛɛ fo u ye npan da la; a tɛ u lamɛn, a tɛ yen jɔ, a tɛ u balo.",
   "tokens": [
     {
       "surface": "ואחרי",
-      "gloss": "O kɔfɛ"
+      "gloss": "o kɔfɛ"
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "נאם",
-      "gloss": "ne-ko"
+      "gloss": "ka kuma ko"
     },
     {
       "surface": "יהוה",
@@ -51,16 +25,16 @@
     },
     {
       "surface": "אתן",
-      "gloss": "An bɛna … di"
+      "gloss": "ne bɛna … di"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tsidikiyahu"
+      "marks": "Tsedekiyahu, Yuda masakɛ"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Tsidikiyahu (Sedekiya)"
+      "gloss": "Tsedekiyahu"
     },
     {
       "surface": "מלך",
@@ -72,16 +46,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "a seriw"
+      "gloss": "ni ⟨את⟩",
+      "marks": "a ka somɔgɔw"
     },
     {
       "surface": "עבדיו",
-      "gloss": "a seriw"
+      "gloss": "a ka somɔgɔw"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ani ⟨את⟩",
       "marks": "jamaaw"
     },
     {
@@ -90,52 +64,52 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "o minnu to len"
+      "gloss": "ani ⟨את⟩",
+      "marks": "o minnu dagalen"
     },
     {
       "surface": "הנשארים",
-      "gloss": "o minnu to len"
+      "gloss": "o minnu dagalen"
     },
     {
       "surface": "בעיר",
-      "gloss": "dugu … kɔnɔ"
+      "gloss": "dugu in kɔnɔ"
     },
     {
       "surface": "הזאת",
-      "gloss": "nin … in"
+      "gloss": "in"
     },
     {
       "surface": "מן",
-      "gloss": "… la"
+      "gloss": "—"
     },
     {
       "surface": "הדבר",
-      "gloss": "dɛbɛrɛ"
+      "gloss": "dɛbɛre la"
     },
     {
       "surface": "מן",
-      "gloss": "… la"
+      "gloss": "—"
     },
     {
       "surface": "החרב",
-      "gloss": "npan"
+      "gloss": "npan la"
     },
     {
       "surface": "ומן",
-      "gloss": "… la"
+      "gloss": "—"
     },
     {
       "surface": "הרעב",
-      "gloss": "kɔngɔ"
+      "gloss": "kɔngɔ la"
     },
     {
       "surface": "ביד",
-      "gloss": "bolo la"
+      "gloss": "bolo"
     },
     {
       "surface": "נבוכדראצר",
-      "gloss": "Nebukadretsar (Nebukadnɛzɛr)"
+      "gloss": "Nebukadnɛtsar"
     },
     {
       "surface": "מלך",
@@ -147,31 +121,31 @@
     },
     {
       "surface": "וביד",
-      "gloss": "ni … bolo"
+      "gloss": "ani … bolo"
     },
     {
       "surface": "איביהם",
-      "gloss": "u alienw"
+      "gloss": "u ka tɔgɔtɔrɔbagaaw"
     },
     {
       "surface": "וביד",
-      "gloss": "ni … bolo"
+      "gloss": "ani … bolo"
     },
     {
       "surface": "מבקשי",
-      "gloss": "ɲininfɔlaw"
+      "gloss": "o minnu bɛ … ɲini"
     },
     {
       "surface": "נפשם",
-      "gloss": "u niw"
+      "gloss": "u n'i"
     },
     {
       "surface": "והכם",
-      "gloss": "a bɛ u bɔ"
+      "gloss": "a bɛ bɛɛ fo u ye"
     },
     {
       "surface": "לפי",
-      "gloss": "… da la"
+      "gloss": "da la"
     },
     {
       "surface": "חרב",
@@ -179,11 +153,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "a tɛ"
+      "gloss": "tɛ"
     },
     {
       "surface": "יחוס",
-      "gloss": "ɲa … na"
+      "gloss": "u lamɛn"
     },
     {
       "surface": "עליהם",
@@ -195,7 +169,7 @@
     },
     {
       "surface": "יחמל",
-      "gloss": "yiri"
+      "gloss": "yen jɔ"
     },
     {
       "surface": "ולא",
@@ -203,9 +177,9 @@
     },
     {
       "surface": "ירחם",
-      "gloss": "keelen"
+      "gloss": "u balo"
     }
   ],
-  "timestamp": "2026-10-13T23:51:52.230130205Z",
+  "timestamp": "2026-10-20T14:38:06.518364411Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,15 @@
   "book": "jonah",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "חרישית",
-      "rationale": "'min daaminan' — daɲɛ min senumaya Tanaki kɔnɔ o yɔrɔ de dɔrɔn, a bɛ fɔ rafiɲɛ min ka tasuma ye (sirocco)"
-    },
-    {
-      "kind": "substitution",
-      "subject": "נפשו",
-      "rationale": "'a ni' — nefesh ka surun ye ni\/balo ye, a tɛ 'soul' (mɔgɔ ka yɛrɛ-kɔrɔ) ye"
-    },
-    {
-      "kind": "elision",
-      "subject": "ויהי",
-      "gloss": "",
-      "rationale": "waywayboli daɲɛ ('a kɛra') — Bambara tɛ o daɲɛ wajibiya o yɔrɔ la"
-    }
-  ],
-  "translation": "Tile yelebɔra, Elohim ye rafiɲɛ min bɔra kɔrɔyan fɛ, min daaminan, o labɛn; tile ye Yonah kun bɔ, a tunbila, a ye ⟨את⟩ a ni ɲini k'a sa, a ko: ne saya ka ɲi gaari ne balo ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0e885026ef46f46e4231db1b89a3594b4d3d33fe362c6b588dd6e370fb65d332",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jonah\/4\/5-8.1791938778229.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tile nana a bɔli waati la, Elohim ye fiɲɛ dɔ ladilan min bɛ bɔ kɔrɔn fɛ, ka gɛlɛ sanu; tile kunbato Yona kun kan, a faaboya, a y'⟨את⟩ a ni wele ka sa, a ko: n ka saya ka ɲi n ka balo ye.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": ""
+      "gloss": "a kɛra"
     },
     {
       "surface": "כזרח",
-      "gloss": "yelebɔra"
+      "gloss": "tile nana a bɔli waati la"
     },
     {
       "surface": "השמש",
@@ -48,7 +21,7 @@
     },
     {
       "surface": "וימן",
-      "gloss": "ye … labɛn"
+      "gloss": "ye … ladilan"
     },
     {
       "surface": "אלהים",
@@ -56,19 +29,19 @@
     },
     {
       "surface": "רוח",
-      "gloss": "rafiɲɛ"
+      "gloss": "fiɲɛ"
     },
     {
       "surface": "קדים",
-      "gloss": "kɔrɔyan fɛ"
+      "gloss": "min bɛ bɔ kɔrɔn fɛ"
     },
     {
       "surface": "חרישית",
-      "gloss": "min daaminan"
+      "gloss": "ka gɛlɛ sanu"
     },
     {
       "surface": "ותך",
-      "gloss": "ye … bɔ"
+      "gloss": "kunbato"
     },
     {
       "surface": "השמש",
@@ -84,15 +57,15 @@
     },
     {
       "surface": "יונה",
-      "gloss": "Yonah"
+      "gloss": "Yona"
     },
     {
       "surface": "ויתעלף",
-      "gloss": "a tunbila"
+      "gloss": "a faaboya"
     },
     {
       "surface": "וישאל",
-      "gloss": "a ye … ɲini"
+      "gloss": "a ye … wele"
     },
     {
       "surface": "את",
@@ -105,7 +78,7 @@
     },
     {
       "surface": "למות",
-      "gloss": "k'a sa"
+      "gloss": "ka sa"
     },
     {
       "surface": "ויאמר",
@@ -117,13 +90,13 @@
     },
     {
       "surface": "מותי",
-      "gloss": "ne saya"
+      "gloss": "n ka saya"
     },
     {
       "surface": "מחיי",
-      "gloss": "gaari ne balo ye"
+      "gloss": "n ka balo"
     }
   ],
-  "timestamp": "2026-10-14T00:46:18.230832355Z",
+  "timestamp": "2026-10-20T14:53:16.558302617Z",
   "model": "glm-5.3"
 }

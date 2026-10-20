@@ -5,36 +5,15 @@
   "book": "proverbs",
   "lang": "bm",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ובית חבר",
-      "rationale": "'a house of company\/shared house' vs traditional 'a wide house' (KJV\/ASV); ylt keeps the literal 'house of company'."
-    },
-    {
-      "kind": "addition",
-      "subject": "dɛ kelen",
-      "rationale": "Bambara needs 'kelen' (one) after the corner-word; Hebrew has no number."
-    }
-  ],
-  "translation": "Ka segin so sanfɛ dɛ kelen kan, o ka nyi ka tɛmɛ muso min bɛ kɔkɔrɔli kɛ, a ni so min bɛ ka ɲɔgɔn mara ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/proverbs\/21\/9-12.1791942660088.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ka ɲi k'a sigi so sanfɛ deli kan, ka tɛ ni muso min bɛ kɛlɛ tigɛ ye ani ⟨so ɲɔgɔnnyinannen⟩ ye.",
   "tokens": [
     {
       "surface": "טוב",
-      "gloss": "ka nyi"
+      "gloss": "ka ɲi"
     },
     {
       "surface": "לשבת",
-      "gloss": "ka segin"
+      "gloss": "sigi"
     },
     {
       "surface": "על",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "פנת",
-      "gloss": "dɛ (dantigɛ)"
+      "gloss": "deli"
     },
     {
       "surface": "גג",
@@ -50,21 +29,21 @@
     },
     {
       "surface": "מאשת",
-      "gloss": "muso min bɛ kɔkɔrɔli kɛ"
+      "gloss": "muso"
     },
     {
       "surface": "מדינים",
-      "gloss": "kɔkɔrɔli"
+      "gloss": "kɛlɛ tigɛ"
     },
     {
       "surface": "ובית",
-      "gloss": "ani so"
+      "gloss": "so"
     },
     {
       "surface": "חבר",
-      "gloss": "min bɛ ka ɲɔgɔn mara"
+      "gloss": "ɲɔgɔnnyinannen"
     }
   ],
-  "timestamp": "2026-10-14T01:51:00.088994116Z",
+  "timestamp": "2026-10-20T15:30:06.065670518Z",
   "model": "glm-5.3"
 }

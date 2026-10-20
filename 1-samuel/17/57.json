@@ -5,66 +5,45 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "tɛmɛna",
-      "rationale": "Hebrew omits the verb 'was\/in his hand'; Bamanankan needs a verb"
-    },
-    {
-      "kind": "addition",
-      "subject": "tun",
-      "gloss note": "Hebrew infinitive construct with כ ('as\/when') rendered with past-marker tun and ni-clause"
-    }
-  ],
-  "translation": "Ni Dawid tun ye segin ka Filistitɔ (Filisti) nimisi kɔ, Abner (Abiner) ye ⟨את⟩ a ta k'a na Saul ɲɛfɛ, Filistitɔ kun tɛmɛna a bolo la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/17\/57-58.1791930403833.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni Dawud seginna a ka ⟨את⟩ Pelisiti fɔli kɔ, Abnɛr (Abuna) ye ⟨את⟩ minɛ k'a fana Sawulu ɲɛfɛ, ni Pelisiti kun a bolo la.",
   "tokens": [
     {
       "surface": "וכשוב",
-      "gloss": "ni … tun ye segin"
+      "gloss": "ni … seginna"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "Dawud"
     },
     {
       "surface": "מהכות",
-      "gloss": "ka nimisi kɔ"
+      "gloss": "fɔli kɔ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Filistitɔ"
+      "marks": "Pelisiti"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Filistitɔ"
+      "gloss": "Pelisiti"
     },
     {
       "surface": "ויקח",
-      "gloss": "ye ta"
+      "gloss": "ye … minɛ"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "Dawid"
+      "marks": "a (Dawud)"
     },
     {
       "surface": "אבנר",
-      "gloss": "Abner"
+      "gloss": "Abnɛr"
     },
     {
       "surface": "ויבאהו",
-      "gloss": "k'a na"
+      "gloss": "k'a fana"
     },
     {
       "surface": "לפני",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Saul"
+      "gloss": "Sawulu"
     },
     {
       "surface": "וראש",
@@ -80,13 +59,13 @@
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Filistitɔ"
+      "gloss": "Pelisiti"
     },
     {
       "surface": "בידו",
       "gloss": "a bolo la"
     }
   ],
-  "timestamp": "2026-10-13T22:26:43.834901046Z",
+  "timestamp": "2026-10-20T13:02:16.703120540Z",
   "model": "glm-5.3"
 }

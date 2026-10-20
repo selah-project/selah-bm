@@ -5,68 +5,32 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "soɛ",
-      "rationale": "המחנה is military encampment; Bambara 'soɛ' (war camp) is nearest literal picture"
-    },
-    {
-      "kind": "substitution",
-      "subject": "minɛ",
-      "rationale": "לרשת is drive-out-and-possess; 'minɛ' (take\/seize) keeps the taking, loses the dispossessing nuance"
-    },
-    {
-      "kind": "measurement",
-      "subject": "don saba",
-      "rationale": "counting of three days before the crossing"
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "imperatives addressed to the officers and through them to all Israel"
-    },
-    {
-      "kind": "addition",
-      "subject": "aw bɛ taa o minɛ",
-      "rationale": "final infinitive לרשתה restated as finite clause for Bambara flow; Hebrew has only the infinitive"
-    }
-  ],
-  "translation": "Aw kɛra soɛ la, aw ka ⟨את⟩ jama laseli ko: aw ka aw ka dunɛw labɛn; sabu don saba kɔnɔ, aw bɛna ⟨את⟩ Yeriden (Jɔrɔdan) in tɛmɛ, ka na ka ⟨את⟩ dugukolo min Yawe Aw Ala bɛ aw di o minɛ kama, aw bɛ taa o minɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "3190b9a367082073efa68cb26fabfd3b4aa2ab645494765e0586597803cb8c47",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/1\/10-11.1791950104284.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jen ɲɛnamaw kɔnɔ, k'a fɔ ⟨את⟩ jamaa ma ko: aw ye aw ka dumunni labɛn, sabu don saba doron kɔnɔ, aw bɛ ⟨את⟩ Yarden (Jɔrdanɛ) nin ji taabolo kɛ, ka don ka ⟨את⟩ dugukolo minɛ, min de Yawe aw ka Elohim bɛ aw di, aw ka o minɛ.",
   "tokens": [
     {
       "surface": "עברו",
-      "gloss": "aw kɛra … tɛmɛ"
+      "gloss": "Jen"
     },
     {
       "surface": "בקרב",
-      "gloss": "soɛ la"
+      "gloss": "kɔnɔ"
     },
     {
       "surface": "המחנה",
-      "gloss": "soɛ"
+      "gloss": "ɲɛnamaw"
     },
     {
       "surface": "וצוו",
-      "gloss": "aw ka … laseli"
+      "gloss": "k'a fɔ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jama"
+      "marks": "jamaa"
     },
     {
       "surface": "העם",
-      "gloss": "jama"
+      "gloss": "jamaa"
     },
     {
       "surface": "לאמר",
@@ -74,15 +38,15 @@
     },
     {
       "surface": "הכינו",
-      "gloss": "aw ka … labɛn"
+      "gloss": "labɛn"
     },
     {
       "surface": "לכם",
-      "gloss": "aw ka"
+      "gloss": "aw"
     },
     {
       "surface": "צידה",
-      "gloss": "dunɛw"
+      "gloss": "dumunni"
     },
     {
       "surface": "כי",
@@ -90,7 +54,7 @@
     },
     {
       "surface": "בעוד",
-      "gloss": "kɔnɔ"
+      "gloss": "doron"
     },
     {
       "surface": "שלשת",
@@ -98,7 +62,7 @@
     },
     {
       "surface": "ימים",
-      "gloss": "don"
+      "gloss": "donw"
     },
     {
       "surface": "אתם",
@@ -106,24 +70,24 @@
     },
     {
       "surface": "עברים",
-      "gloss": "bɛna tɛmɛ"
+      "gloss": "bɛ taabolo kɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yeriden in"
+      "marks": "Yarden nin ji"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yeriden"
+      "gloss": "Yarden"
     },
     {
       "surface": "הזה",
-      "gloss": "in"
+      "gloss": "nin"
     },
     {
       "surface": "לבוא",
-      "gloss": "ka na"
+      "gloss": "ka don"
     },
     {
       "surface": "לרשת",
@@ -148,7 +112,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Aw Ala"
+      "gloss": "aw ka Elohim"
     },
     {
       "surface": "נתן",
@@ -156,13 +120,13 @@
     },
     {
       "surface": "לכם",
-      "gloss": "aw"
+      "gloss": "aw ma"
     },
     {
       "surface": "לרשתה",
-      "gloss": "o minɛ kama"
+      "gloss": "ka o minɛ"
     }
   ],
-  "timestamp": "2026-10-14T03:55:04.285498149Z",
+  "timestamp": "2026-10-20T14:53:44.126990967Z",
   "model": "glm-5.3"
 }

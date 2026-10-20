@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to the king of Israel",
-      "rationale": "the man of God addresses the king directly, then shifts to plural 'you will know' covering all Israel"
-    },
-    {
-      "kind": "substitution",
-      "subject": "איש האלהים",
-      "rationale": "'man of God' rendered 'Ala ka mɔgɔ'; a prophetic title, not just any man"
-    },
-    {
-      "kind": "crux",
-      "subject": "local gods",
-      "rationale": "the Arameans assume deities are territorial — god of hills vs god of valleys; Yawe's answer refutes the premise, not just the geography"
-    }
-  ],
-  "translation": "Ala ka mɔgɔ nana masakɛ Israyel fɛ, a ko: ninnu ye Yawe kuma: sabu Aramuw y'a fɔ ko Yawe ye kuluw Ala ye, a tɛ danw Ala ye, ne bɛ ⟨את⟩ jamaba ba nin bɛɛ di i bolo, aw bɛna dɔn ko ne ye Yawe ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "dda7015237efff6b35ac886273246967713e63c84c99c8763a843ebac5d11006",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/20\/25-28.1791932457053.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Elohim ka mɔgɔ dɔ nana, k'a fɔ Yisraɛl masakɛ la, a ko: Cogo nin na Yawe ye fɔ: sabu Aramuw y'a fɔ ko Yawe ye kuluw ka Elohim ye, a ye datuguw ka Elohim tɛ ye; ne b'⟨את⟩ nin jama bon bɛɛ bila i bolo ma, aw bɛna dɔn ko ne ye Yawe ye.",
   "tokens": [
     {
       "surface": "ויגש",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Ala ka"
+      "gloss": "Elohim"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a ko"
+      "gloss": "k'a fɔ"
     },
     {
       "surface": "אל",
-      "gloss": "fɛ"
+      "gloss": "… la"
     },
     {
       "surface": "מלך",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Yisraɛl"
     },
     {
       "surface": "ויאמר",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "ninnu"
+      "gloss": "cogo nin"
     },
     {
       "surface": "אמר",
-      "gloss": "ye kuma"
+      "gloss": "fɔra"
     },
     {
       "surface": "יהוה",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "אמרו",
-      "gloss": "y'a fɔ"
+      "gloss": "u y'a fɔ"
     },
     {
       "surface": "ארם",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "ka Elohim"
     },
     {
       "surface": "הרים",
@@ -107,28 +81,28 @@
     },
     {
       "surface": "ולא",
-      "gloss": "a tɛ"
+      "gloss": "tɛ"
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "ka Elohim"
     },
     {
       "surface": "עמקים",
-      "gloss": "danw"
+      "gloss": "datuguw"
     },
     {
       "surface": "הוא",
-      "gloss": "ye"
+      "gloss": "ale"
     },
     {
       "surface": "ונתתי",
-      "gloss": "ne bɛ di"
+      "gloss": "ne bɛ … bila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jamaba ba nin bɛɛ"
+      "marks": "nin jama bon bɛɛ"
     },
     {
       "surface": "כל",
@@ -136,11 +110,11 @@
     },
     {
       "surface": "ההמון",
-      "gloss": "jamaba"
+      "gloss": "jama bon"
     },
     {
       "surface": "הגדול",
-      "gloss": "ba"
+      "gloss": "bon"
     },
     {
       "surface": "הזה",
@@ -167,6 +141,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-13T23:00:57.068164180Z",
+  "timestamp": "2026-10-20T12:55:36.281318716Z",
   "model": "glm-5.3"
 }

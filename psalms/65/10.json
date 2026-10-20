@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 65,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "lajɛ",
-      "rationale": "פקדת: 'visit\/attend' versus 'remember' (JPS); Bambara 'lajɛ' keeps the visit-oversense."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨a⟩",
-      "rationale": "Object pronoun supplied for the second תכין clause; Hebrew verb agrees with the earth feminine."
-    }
-  ],
-  "translation": "I ye dugukolo lajɛ, ji bɛ a ɲɛ falen; i bɛ a fisa ni bonya ye. Elohim ka jibolo bɛ ji la maramaralen. I bɛ ⟨a⟩ sigi kisɛ ye, cogo min na, i bɛ a sigi.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/65\/9-12.1791940432078.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I ye dugukolo ɲini k'a tu, ji bɛ a lamini; i ye a bonya ni sanu ye — Elohim ka juli, ji de bɛ o kɔnɔ; i bɛ ⟨olu⟩ ka sirinyi labɛn, sabu cogo min na i y'a labɛn ⟨nin cogo na⟩.",
   "tokens": [
     {
       "surface": "פקדת",
-      "gloss": "i ye … lajɛ"
+      "gloss": "ɲini k'a tu"
     },
     {
       "surface": "הארץ",
@@ -38,27 +17,27 @@
     },
     {
       "surface": "ותשקקה",
-      "gloss": "ji bɛ a ɲɛ falen"
+      "gloss": "ji bɛ a lamini"
     },
     {
       "surface": "רבת",
-      "gloss": "ni bonya ye"
+      "gloss": "i ye a bonya"
     },
     {
       "surface": "תעשרנה",
-      "gloss": "i bɛ a fisa"
+      "gloss": "ni sanu ye"
     },
     {
       "surface": "פלג",
-      "gloss": "jibolo"
+      "gloss": "juli"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohim ka"
     },
     {
       "surface": "מלא",
-      "gloss": "bɛ ji la maramaralen"
+      "gloss": "ji de bɛ o kɔnɔ"
     },
     {
       "surface": "מים",
@@ -66,21 +45,25 @@
     },
     {
       "surface": "תכין",
-      "gloss": "i bɛ ⟨a⟩ sigi"
+      "gloss": "i bɛ … labɛn"
     },
     {
       "surface": "דגנם",
-      "gloss": "kisɛ ye"
+      "gloss": "olu ka sirinyi"
     },
     {
       "surface": "כי",
-      "gloss": "cogo min na"
+      "gloss": "sabu"
     },
     {
       "surface": "כן",
-      "gloss": "i bɛ a sigi"
+      "gloss": "cogo min na"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "i y'a labɛn"
     }
   ],
-  "timestamp": "2026-10-14T01:13:52.078712282Z",
+  "timestamp": "2026-10-20T15:38:16.346656020Z",
   "model": "glm-5.3"
 }

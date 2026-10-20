@@ -5,41 +5,15 @@
   "book": "isaiah",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Tsevaot",
-      "rationale": "צבאות means 'hosts\/armies' (a title); transliterated per name rule rather than glossed 'soja-jamaw'"
-    },
-    {
-      "kind": "crux",
-      "subject": "כמכת",
-      "rationale": "smiting\/slaughter of Midian at Oreb's rock (Judg 7) — versions split between 'slaughter' and 'plague'; wuliwa (slaughter) chosen"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨a⟩",
-      "rationale": "pronoun object of the whip supplied; Hebrew עליו 'upon him' is rendered a kan"
-    }
-  ],
-  "translation": "Yawe Tsevaot bɛ bacabi jɔ ⟨a⟩ kan, i n'a fɔ Midiyan ka wuliwa Tsur Orev (kabakurun) la; a ka bolokɛnɛ bɛ kɔgɔji kan, a bɛna a jɔ Misira (sira) la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "438a605020493ef5f74ec52fb910c7bb1b24fe4985580ad1fe993c939d1c7771",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/isaiah\/10\/25-28.1791933585223.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe Tsabaot bɛna juba jɔ a kan, i n'a fɔ Madiyen (Madyan) bɔli kɛra cogo min na kabakurun Oreb la; a ka batɔn bɛ kɔgɔji kan, a bɛna a wuli Mitsrayim (Misira) sira fɛ.",
   "tokens": [
     {
       "surface": "ועורר",
-      "gloss": "bɛ … jɔ"
+      "gloss": "bɛna jɔ"
     },
     {
       "surface": "עליו",
-      "gloss": "⟨a⟩ kan"
+      "gloss": "a kan"
     },
     {
       "surface": "יהוה",
@@ -47,31 +21,31 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "Tsabaot"
     },
     {
       "surface": "שוט",
-      "gloss": "bacabi"
+      "gloss": "juba"
     },
     {
       "surface": "כמכת",
-      "gloss": "i n'a fɔ wuliwa"
+      "gloss": "i n'a fɔ … bɔli"
     },
     {
       "surface": "מדין",
-      "gloss": "Midiyan"
+      "gloss": "Madiyen"
     },
     {
       "surface": "בצור",
-      "gloss": "Tsur (kabakurun)"
+      "gloss": "kabakurun"
     },
     {
       "surface": "עורב",
-      "gloss": "Orev"
+      "gloss": "Oreb"
     },
     {
       "surface": "ומטהו",
-      "gloss": "a ka bolokɛnɛ"
+      "gloss": "a ka batɔn"
     },
     {
       "surface": "על",
@@ -83,17 +57,17 @@
     },
     {
       "surface": "ונשאו",
-      "gloss": "bɛna a jɔ"
+      "gloss": "bɛna a wuli"
     },
     {
       "surface": "בדרך",
-      "gloss": "sira la"
+      "gloss": "sira fɛ"
     },
     {
       "surface": "מצרים",
-      "gloss": "Misira"
+      "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-10-13T23:19:45.228644695Z",
+  "timestamp": "2026-10-20T14:26:45.975923110Z",
   "model": "glm-5.3"
 }

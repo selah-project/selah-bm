@@ -5,44 +5,23 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פקדי",
-      "rationale": "'when I visit them' — JPS 'remember', KJV 'visit'; rendered lajɛ 'look upon\/attend to'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "נאם",
-      "rationale": "'oracle\/utterance' rendered as ordinary speech tag 'Yawe ka kuma'"
-    }
-  ],
-  "translation": "U bɛna ta kaka Bavel (Babilɔn), ani u bɛna to fin fo ne bɛ ⟨אתם⟩ lajɛ don ma — Yawe ka kuma — kaban fɔlɔ, ne bɛna u wuli, ka u segin yɔrɔ in na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "54296838c261d222fe26724bace3cab6eee9c0cea1cc7cc912cc1f416913b845",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/27\/21-22.1791935685237.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Babilɔn, u bɛna taa Babilɔn, a kɔnɔ u bɛna tɛmɛ fo don min na ne bɛ ⟨את⟩ u ɲini — Yawe ka kuma; a kɔfɛ ne bɛna u sanun ka na ani ne bɛna u segin yɔrɔ nin na.",
   "tokens": [
     {
       "surface": "בבלה",
-      "gloss": "Bavel"
+      "gloss": "Babilɔn"
     },
     {
       "surface": "יובאו",
-      "gloss": "u bɛna ta kaka"
+      "gloss": "u bɛna taa"
     },
     {
       "surface": "ושמה",
-      "gloss": "ani fin"
+      "gloss": "a kɔnɔ"
     },
     {
       "surface": "יהיו",
-      "gloss": "u bɛna to"
+      "gloss": "u bɛna tɛmɛ"
     },
     {
       "surface": "עד",
@@ -54,12 +33,12 @@
     },
     {
       "surface": "פקדי",
-      "gloss": "ne bɛ … lajɛ"
+      "gloss": "ne bɛ u ɲini"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "u (minɛnw — balolabaw)"
+      "gloss": "⟨את⟩",
+      "marks": "u — sarakadalanw (Yawe ka kuma min b'u lajɛ)"
     },
     {
       "surface": "נאם",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "והעליתים",
-      "gloss": "ne bɛna u wuli"
+      "gloss": "ne bɛna u sanun ka na"
     },
     {
       "surface": "והשיבתים",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ka … (kɔrɔ)"
+      "gloss": "ka"
     },
     {
       "surface": "המקום",
@@ -87,9 +66,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "in"
+      "gloss": "nin"
     }
   ],
-  "timestamp": "2026-10-13T23:54:45.238458950Z",
+  "timestamp": "2026-10-20T14:40:19.147446793Z",
   "model": "glm-5.3"
 }

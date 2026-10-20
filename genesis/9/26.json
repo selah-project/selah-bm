@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨u⟩",
-      "rationale": "למו is a poetic preposition 'to them'; Bambara needs the pronoun u supplied"
-    },
-    {
-      "kind": "substitution",
-      "subject": "blessing",
-      "rationale": "ברוך literally 'blessed\/praised', rendered as blessing-duba"
-    }
-  ],
-  "translation": "A kɔrɔ ko: Yawe, Shem (Semu) Ala, i bɛ duba la; k'a sɔrɔ Kenaan bɛna kɛ ⟨u⟩ jon ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "27204ea4fb7a74f502d72646453072f00b985e7a6468aacc58c4051f88a7e5e7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/genesis\/9\/25-28.1791926844749.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ko: Yawe, Shem ka Elohim, i duba na kɛ; Kenaan na kɛ a julan ye.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a kɔrɔ ko"
+      "gloss": "A ko"
     },
     {
       "surface": "ברוך",
-      "gloss": "i bɛ duba la"
+      "gloss": "i duba na kɛ"
     },
     {
       "surface": "יהוה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "ka Elohim"
     },
     {
       "surface": "שם",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "k'a sɔrɔ … kɛ"
+      "gloss": "na kɛ"
     },
     {
       "surface": "כנען",
@@ -58,13 +37,13 @@
     },
     {
       "surface": "עבד",
-      "gloss": "jon"
+      "gloss": "julan"
     },
     {
       "surface": "למו",
-      "gloss": "⟨u⟩ ye"
+      "gloss": "a ye"
     }
   ],
-  "timestamp": "2026-10-13T21:27:24.750989950Z",
+  "timestamp": "2026-10-20T14:24:16.043953215Z",
   "model": "glm-5.3"
 }

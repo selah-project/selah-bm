@@ -5,54 +5,23 @@
   "book": "micah",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "mɛn",
-      "rationale": "Imperative summons opening the oracle, hear this."
-    },
-    {
-      "kind": "you",
-      "subject": "Yaakov so kuntilenw",
-      "rationale": "Direct address to the heads and rulers of the house of Jacob."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יעקש\/יעקב",
-      "rationale": "yaqosh (pervert) echoes the name Yaakov; the sound-link is lost in Bambara."
-    },
-    {
-      "kind": "elision",
-      "subject": "nin",
-      "rationale": "The particle נא (entreaty) has no exact equivalent and is rendered as a mild 'nin'."
-    }
-  ],
-  "translation": "Nin o mɛn, Yaakov so kuntilenw ani Yisrayeli so ɲɛmɔgɔw, minnu bɛ sariya kanuya-bali, ani ⟨את⟩ tiɲɛ-ɲɛmɔgɔya bɛɛ bɛ fili.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/micah\/3\/9-12.1791938682475.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": " ninin O koya, Yakyabu so sanuw ni Isirayeli so ɲɛmɔgɔw, minnu bɛ sariya-fɔli ɲɛsinnenw ka sɔrɔ, olu bɛ ⟨את⟩ nin bɛɛ ka yɛlɛma ka bɔ tilancogo la.",
   "tokens": [
     {
       "surface": "שמעו",
-      "gloss": "mɛn"
-    },
-    {
-      "surface": "נא",
       "gloss": "nin"
     },
     {
+      "surface": "נא",
+      "gloss": "ninin O koya"
+    },
+    {
       "surface": "זאת",
-      "gloss": "o"
+      "gloss": "nin"
     },
     {
       "surface": "ראשי",
-      "gloss": "kuntilenw"
+      "gloss": "sanuw"
     },
     {
       "surface": "בית",
@@ -60,11 +29,11 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakov"
+      "gloss": "Yakyabu"
     },
     {
       "surface": "וקציני",
-      "gloss": "ani ɲɛmɔgɔw"
+      "gloss": "ni ɲɛmɔgɔw"
     },
     {
       "surface": "בית",
@@ -72,20 +41,20 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrayeli"
+      "gloss": "Isirayeli"
     },
     {
       "surface": "המתעבים",
-      "gloss": "minnu bɛ kanuya-bali"
+      "gloss": "minnu bɛ ɲɛsinnenw ka sɔrɔ"
     },
     {
       "surface": "משפט",
-      "gloss": "sariya"
+      "gloss": "sariya-fɔli"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "tiɲɛ-ɲɛmɔgɔya bɛɛ"
+      "marks": "nin bɛɛ"
     },
     {
       "surface": "כל",
@@ -93,13 +62,13 @@
     },
     {
       "surface": "הישרה",
-      "gloss": "tiɲɛ-ɲɛmɔgɔya"
+      "gloss": "tilancogo"
     },
     {
       "surface": "יעקשו",
-      "gloss": "bɛ fili"
+      "gloss": "bɛ yɛlɛma ka bɔ tilancogo la"
     }
   ],
-  "timestamp": "2026-10-14T00:44:42.476412692Z",
+  "timestamp": "2026-10-20T15:16:15.382093002Z",
   "model": "glm-5.3"
 }

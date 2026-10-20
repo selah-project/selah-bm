@@ -5,59 +5,33 @@
   "book": "judges",
   "lang": "bm",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הכרע \/ הכרעתני",
-      "rationale": "Same root כרע twice — 'bring to the knees' piled in infinitive-absolute force: 'kneel you have knelt me'; Bambara repeats 'sigi' but loses the doubling's violence."
-    },
-    {
-      "kind": "you",
-      "subject": "a denmuso",
-      "rationale": "Jephthah's cry addresses his daughter directly."
-    },
-    {
-      "kind": "crux",
-      "subject": "בעכרי",
-      "rationale": "'You are among my troublers' vs 'you are my troubler'; kept as the plural-membership reading."
-    }
-  ],
-  "translation": "A kɛra, ni a ye ⟨את⟩ a ye, a ye a finw jɛ, a ko: Aya, n'i denmuso, i ye m'sigi, i don n'ka sɔgɔyaw la; ani ne, ne ye n ka da bɔ Yawe ɲɛfɛ, ani n'bɛ se ka segin.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "783af967761d05e6672a006e6bd28308179764abb36068c579e5947a7d4dbae6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/11\/33-36.1791929609148.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y'a to kɛ ko: ni a ye ⟨את⟩ a ye, a ye ⟨את⟩ a dilanjiginnw kele, a ko: Ayi! N denmuso, i ye n kun jigi kosɛbɛ, i don n jiyatigiw la; ani n, n ye n da Yawe ye diyandi, n tɛ se ka segin.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "a kɛra"
+      "gloss": "a y'a to kɛ"
     },
     {
       "surface": "כראותו",
-      "gloss": "ni a ye … ye"
+      "gloss": "ni a ye a ye"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "a (a denmuso)"
+      "marks": "a (denmuso min na kunan na)"
     },
     {
       "surface": "ויקרע",
-      "gloss": "a ye … jɛ"
+      "gloss": "a y'a kele"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a finw (a dɔnniyaw)"
+      "marks": "a dilanjiginnw"
     },
     {
       "surface": "בגדיו",
-      "gloss": "a finw"
+      "gloss": "a dilanjiginnw"
     },
     {
       "surface": "ויאמר",
@@ -65,19 +39,19 @@
     },
     {
       "surface": "אהה",
-      "gloss": "Aya"
+      "gloss": "Ayi"
     },
     {
       "surface": "בתי",
-      "gloss": "n'i denmuso"
+      "gloss": "n denmuso"
     },
     {
       "surface": "הכרע",
-      "gloss": "i ye ma sigi"
+      "gloss": "i ye n kun jigi"
     },
     {
       "surface": "הכרעתני",
-      "gloss": "i ye m'sigi"
+      "gloss": "i ye n jigi kosɛbɛ"
     },
     {
       "surface": "ואת",
@@ -85,27 +59,27 @@
     },
     {
       "surface": "היית",
-      "gloss": "i tun ye"
+      "gloss": "i don"
     },
     {
       "surface": "בעכרי",
-      "gloss": "n'ka sɔgɔyaw la"
+      "gloss": "n jiyatigiw la"
     },
     {
       "surface": "ואנכי",
-      "gloss": "ani ne"
+      "gloss": "ani n"
     },
     {
       "surface": "פציתי",
-      "gloss": "ne ye … bɔ"
+      "gloss": "n ye ... diyandi"
     },
     {
       "surface": "פי",
-      "gloss": "n ka da"
+      "gloss": "n da"
     },
     {
       "surface": "אל",
-      "gloss": "ɲɛfɛ"
+      "gloss": "Yawe ye"
     },
     {
       "surface": "יהוה",
@@ -113,17 +87,17 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ani n'"
+      "gloss": "n tɛ"
     },
     {
       "surface": "אוכל",
-      "gloss": "bɛ se"
+      "gloss": "se"
     },
     {
       "surface": "לשוב",
       "gloss": "ka segin"
     }
   ],
-  "timestamp": "2026-10-13T22:13:29.153270056Z",
+  "timestamp": "2026-10-20T14:59:42.098867749Z",
   "model": "glm-5.3"
 }

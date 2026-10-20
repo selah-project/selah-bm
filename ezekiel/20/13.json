@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "fin bila",
-      "rationale": "חלל root sense is 'to bore\/pierce\/wound'; Bambara idiom 'fin bila' (put dirt on) renders defile, not pierce"
-    },
-    {
-      "kind": "idiom",
-      "subject": "jangu tila",
-      "rationale": "'pour out fury' — Hebrew idiom of liquid wrath, kept literally in Bambara 'tila' (pour)"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Yawe's speech recounts Israel's rebellion, addressed to the exiles through Ezekiel"
-    }
-  ],
-  "translation": "Nka Israeil ka so mɔgɔw ye ne joba ne kan bananko la; u mannin taa ne ka sariyaw la, ani u ye ⟨את⟩ ne ka fɛnw bali, minnu hadamaden bɛ kɛ ka balo a la; ani u ye ⟨את⟩ ne ka Shabatiw fin bila kosɛbɛ. Ani ne ye kuma k'a fɔ ka ne ka jangu tila u kan bananko la, ka u ban.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e87a502bde36b1b95f9a535fced6af0bc075319762f74a35359166fee0b2cca5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/20\/13-16.1791937143224.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nka Yisraɛl so ye bɛnkan kɛ ⟨ne⟩ kan dankun na: u ma taa ne ka sariyaw la, u ye ⟨את⟩ ne ka jatebɔyaw bali — minnu hadamaden bɛ ⟨את⟩ kɛ, o bɛ balo b'u la — ani u ye ⟨את⟩ ne ka Shabatiw jujɔ jɔnjɔn; nko ne b'a ko: ne ka sanuya bɔ u kan dankun na, walasa k'u fa.",
   "tokens": [
     {
       "surface": "וימרו",
-      "gloss": "joba"
+      "gloss": "bɛnkan kɛ"
     },
     {
       "surface": "בי",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israeil"
+      "gloss": "Yisraɛl"
     },
     {
       "surface": "במדבר",
-      "gloss": "bananko la"
+      "gloss": "dankun na"
     },
     {
       "surface": "בחקותי",
-      "gloss": "ne ka sariyaw la"
+      "gloss": "ne ka sariyaw (la)"
     },
     {
       "surface": "לא",
-      "gloss": "mannin"
+      "gloss": "ma"
     },
     {
       "surface": "הלכו",
@@ -68,11 +42,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ne ka fɛnw"
+      "marks": "ne ka jatebɔyaw"
     },
     {
       "surface": "משפטי",
-      "gloss": "ne ka fɛnw"
+      "gloss": "jatebɔyaw"
     },
     {
       "surface": "מאסו",
@@ -89,7 +63,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "hadamaden"
+      "marks": "o (minnu)"
     },
     {
       "surface": "האדם",
@@ -97,11 +71,11 @@
     },
     {
       "surface": "וחי",
-      "gloss": "ani a bɛ balo"
+      "gloss": "balo"
     },
     {
       "surface": "בהם",
-      "gloss": "a la"
+      "gloss": "u la"
     },
     {
       "surface": "ואת",
@@ -110,27 +84,27 @@
     },
     {
       "surface": "שבתתי",
-      "gloss": "ne ka Shabatiw"
+      "gloss": "Shabatiw"
     },
     {
       "surface": "חללו",
-      "gloss": "fin bila"
+      "gloss": "jujɔ"
     },
     {
       "surface": "מאד",
-      "gloss": "kosɛbɛ"
+      "gloss": "jɔnjɔn"
     },
     {
       "surface": "ואמר",
-      "gloss": "ani ne ye kuma k'a fɔ"
+      "gloss": "n'ko"
     },
     {
       "surface": "לשפך",
-      "gloss": "tila"
+      "gloss": "bɔ"
     },
     {
       "surface": "חמתי",
-      "gloss": "ne ka jangu"
+      "gloss": "ne ka sanuya"
     },
     {
       "surface": "עליהם",
@@ -138,13 +112,13 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "bananko la"
+      "gloss": "dankun na"
     },
     {
       "surface": "לכלותם",
-      "gloss": "ka u ban"
+      "gloss": "k'u fa"
     }
   ],
-  "timestamp": "2026-10-14T00:19:03.225379488Z",
+  "timestamp": "2026-10-20T14:02:02.575497544Z",
   "model": "glm-5.3"
 }

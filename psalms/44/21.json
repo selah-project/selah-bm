@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לאל זר",
-      "rationale": "זר dabɔran — Ala min tɛ an ka Ala ye; 'זר' kɔrɔ ka ɲɛ i n'a fɔ 'dannebaga'"
-    },
-    {
-      "kind": "you",
-      "subject": "ko jujɔ",
-      "rationale": "Nabi-yɔrɔ in bɛ jira ko bayɛlɛmabaga bɛ Yawe ka jama kuma da Adonay nɔ fɛ — kuma in bɛ taa Adonay ma (vs 24)"
-    }
-  ],
-  "translation": "Ni an ye an ka Elohim tɔgɔ were, walima an y'an bolow latigɛ Ala dabɔran ma,",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "39d775d0fa7ccc85d3c1cfcd00f8a2c173c10e5de7d71c8ebdd2b36c46e03845",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/44\/21-24.1791940224659.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni an ye an ka Elohim tɔgɔ were, ani an ye an ka bolow jigi ⟨⟨ל⟩⟩ El bankan fɛ,",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "ni"
+      "gloss": "Ni"
     },
     {
       "surface": "שכחנו",
-      "gloss": "an y'an ka … were"
+      "gloss": "an ye … were"
     },
     {
       "surface": "שם",
@@ -42,25 +21,25 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim"
+      "gloss": "an ka Elohim"
     },
     {
       "surface": "ונפרש",
-      "gloss": "walima an y'an bolow latigɛ"
+      "gloss": "ani an ye … jigi"
     },
     {
       "surface": "כפינו",
-      "gloss": "bolo"
+      "gloss": "an ka bolow"
     },
     {
       "surface": "לאל",
-      "gloss": "Ala"
+      "gloss": "El bankan fɛ"
     },
     {
       "surface": "זר",
-      "gloss": "dabɔran"
+      "gloss": "bankan"
     }
   ],
-  "timestamp": "2026-10-14T01:10:24.659543542Z",
+  "timestamp": "2026-10-20T15:37:05.369754473Z",
   "model": "glm-5.3"
 }

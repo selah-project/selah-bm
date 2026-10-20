@@ -5,41 +5,15 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 104,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ka bon",
-      "rationale": "Hebrew גדלת is a verb 'you are great'; Bambara needs the adjective construction"
-    },
-    {
-      "kind": "substitution",
-      "subject": "n ni in",
-      "rationale": "נפשי is 'my life-force\/throat', rendered with Bambara ni"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "Yawe Yawe",
-      "rationale": "the Name stands twice in immediate succession — anaphora marking the address"
-    }
-  ],
-  "translation": "Duba, n ni in, ⟨את⟩ Yawe; Yawe, n Ala, i bonya ka bon kosɛbɛ; i ye danbe ni ɲɛjɛ don.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/104\/1-4.1791941239021.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni ma, i n'i na. Bɛri i na, Yawe! Yawe, ne ka Elohim, i ka bon kosɛbɛ; i y'⟨i yɛrɛ⟩ ɲɛjɛda-bonya ni daraka don.",
   "tokens": [
     {
       "surface": "ברכי",
-      "gloss": "duba"
+      "gloss": "bɛri i na"
     },
     {
       "surface": "נפשי",
-      "gloss": "n ni in"
+      "gloss": "ne ka ni ma"
     },
     {
       "surface": "את",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "n Ala"
+      "gloss": "ne ka Elohim"
     },
     {
       "surface": "גדלת",
-      "gloss": "i bonya ka bon"
+      "gloss": "i ka bon"
     },
     {
       "surface": "מאד",
@@ -68,17 +42,17 @@
     },
     {
       "surface": "הוד",
-      "gloss": "danbe"
+      "gloss": "ɲɛjɛda-bonya"
     },
     {
       "surface": "והדר",
-      "gloss": "ni ɲɛjɛ"
+      "gloss": "ni daraka"
     },
     {
       "surface": "לבשת",
-      "gloss": "i ye … don"
+      "gloss": "i y'... don"
     }
   ],
-  "timestamp": "2026-10-14T01:27:19.021904676Z",
+  "timestamp": "2026-10-20T15:31:34.951284385Z",
   "model": "glm-5.3"
 }

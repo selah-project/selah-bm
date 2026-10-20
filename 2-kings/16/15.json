@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לבקר — ka ɲinini",
-      "rationale": "Sɛbɛnniw bɛ a rende 'ka ɲini' walima 'ka Yawe ɲini' — o bɛ fɔ Ahaz bɛ kɔkɔrɔ sarakabɔlan ba ka divination kɛ — kumasen ka gɛlɛn kosɛbɛ"
-    },
-    {
-      "kind": "addition",
-      "subject": "yɔrɔ",
-      "rationale": "Heburukan לבקר ma yɔrɔ daɲɛ sɔrɔ — Bamanankan de ye a fara a kan"
-    },
-    {
-      "kind": "you",
-      "subject": "Uriya",
-      "rationale": "Masakɛ Ahaz kuma bɛ lasigida sarakalasebaga Uriya ma, kuma bilenbilen ye"
-    }
-  ],
-  "translation": "Masakɛ Ahaz y'a lasigida sarakalasebaga Uriya (Oriya) ma ko: sarakabɔlanba kan, ka sɔgɔma ka tasuma-saraka, wula ka kisɛ-saraka, masakɛ ka tasuma-saraka ni a kisɛ-saraka, dugukolo jamabɛɛ ka tasuma-saraka, u kisɛ-sarakaw ni u ji-sarakaw tɛmɛ; tasuma-sarakaw ka joli bɛɛ ni saraka ka joli bɛɛ, i kana min o kan; kɔkɔrɔ sarakabɔlan na kɛ n'ka ɲinini yɔrɔ ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/16\/13-16.1791933095996.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masakɛ Aḥaz (Ahazi) y'a laadi sarakalasebaga Uriya (Ori) ma ko: sarakabɔlan bɔnbɔn kan, i bɛ ⟨את⟩ sɔgɔma ɲagadon tu, ani ⟨את⟩ wula dɛn, ani ⟨את⟩ masakɛ ɲagadon, ani ⟨את⟩ a dɛn, ani ⟨את⟩ dugukolo mɔgɔw bɛɛ ɲagadon, ani u dɛnw ani u minɛnw; ani ɲagadon joli bɛɛ, ani saraka joli bɛɛ, i bɛ ⟨o⟩ ɲiimi a kan; nɛgɛ sarakabɔlan de bɛna kɛ ne ye ɲɛfɛli la.",
   "tokens": [
     {
       "surface": "ויצוהו",
-      "gloss": "y'a lasigida … ma"
+      "gloss": "y'a laadi"
     },
     {
       "surface": "המלך",
@@ -43,16 +17,16 @@
     },
     {
       "surface": "אחז",
-      "gloss": "Ahaz"
+      "gloss": "Aḥaz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Uriya"
+      "marks": "sarakalasebaga Uriya"
     },
     {
       "surface": "אוריה",
-      "gloss": "Uriya (Oriya)"
+      "gloss": "Uriya"
     },
     {
       "surface": "הכהן",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "על",
-      "gloss": "… kan"
+      "gloss": "kan"
     },
     {
       "surface": "המזבח",
@@ -72,20 +46,20 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "ba"
+      "gloss": "bɔnbɔn"
     },
     {
       "surface": "הקטר",
-      "gloss": "ka tasuma-saraka tɛmɛ"
+      "gloss": "tu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sɔgɔma ka tasuma-saraka"
+      "marks": "sɔgɔma ɲagadon"
     },
     {
       "surface": "עלת",
-      "gloss": "tasuma-saraka"
+      "gloss": "ɲagadon"
     },
     {
       "surface": "הבקר",
@@ -94,11 +68,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "wula ka kisɛ-saraka"
+      "marks": "wula dɛn"
     },
     {
       "surface": "מנחת",
-      "gloss": "kisɛ-saraka"
+      "gloss": "dɛn"
     },
     {
       "surface": "הערב",
@@ -107,11 +81,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "masakɛ ka tasuma-saraka"
+      "marks": "masakɛ ɲagadon"
     },
     {
       "surface": "עלת",
-      "gloss": "tasuma-saraka"
+      "gloss": "ɲagadon"
     },
     {
       "surface": "המלך",
@@ -120,20 +94,20 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "a kisɛ-saraka"
+      "marks": "a dɛn"
     },
     {
       "surface": "מנחתו",
-      "gloss": "a kisɛ-saraka"
+      "gloss": "a dɛn"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "jamabɛɛ ka tasuma-saraka"
+      "marks": "dugukolo mɔgɔw bɛɛ ɲagadon"
     },
     {
       "surface": "עלת",
-      "gloss": "tasuma-saraka"
+      "gloss": "ɲagadon"
     },
     {
       "surface": "כל",
@@ -141,7 +115,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "jama"
+      "gloss": "mɔgɔw"
     },
     {
       "surface": "הארץ",
@@ -149,15 +123,15 @@
     },
     {
       "surface": "ומנחתם",
-      "gloss": "u kisɛ-sarakaw"
+      "gloss": "u dɛnw"
     },
     {
       "surface": "ונסכיהם",
-      "gloss": "u ji-sarakaw"
+      "gloss": "u minɛnw"
     },
     {
       "surface": "וכל",
-      "gloss": "bɛɛ"
+      "gloss": "ani bɛɛ"
     },
     {
       "surface": "דם",
@@ -165,11 +139,11 @@
     },
     {
       "surface": "עלה",
-      "gloss": "tasuma-saraka"
+      "gloss": "ɲagadon"
     },
     {
       "surface": "וכל",
-      "gloss": "bɛɛ"
+      "gloss": "ani bɛɛ"
     },
     {
       "surface": "דם",
@@ -181,33 +155,33 @@
     },
     {
       "surface": "עליו",
-      "gloss": "o kan"
+      "gloss": "a kan"
     },
     {
       "surface": "תזרק",
-      "gloss": "i kana min"
+      "gloss": "ɲiimi"
     },
     {
       "surface": "ומזבח",
-      "gloss": "sarakabɔlan"
+      "gloss": "nɛgɛ sarakabɔlan"
     },
     {
       "surface": "הנחשת",
-      "gloss": "kɔkɔrɔ"
+      "gloss": "nɛgɛ"
     },
     {
       "surface": "יהיה",
-      "gloss": "na kɛ … ye"
+      "gloss": "bɛna kɛ"
     },
     {
       "surface": "לי",
-      "gloss": "n'ka"
+      "gloss": "ne ye"
     },
     {
       "surface": "לבקר",
-      "gloss": "ka ɲinini"
+      "gloss": "ɲɛfɛli la"
     }
   ],
-  "timestamp": "2026-10-13T23:11:36.001827700Z",
+  "timestamp": "2026-10-20T13:18:17.319320646Z",
   "model": "glm-5.3"
 }

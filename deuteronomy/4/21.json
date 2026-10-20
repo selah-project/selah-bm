@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "Ji",
-      "rationale": "Bamanankan b'a fɛ ka Yarden wele kɛ ji ye; Heburukan yɛrɛ t'a fɔ"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dogo-keko",
-      "rationale": "נחלה ye fɛn min di mɔgɔ ye a bɔma fɛ; dogo-keko dumini ye o tiɲɛ dɔ"
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "Moshe bɛ Isirayili jama kan fɔ"
-    }
-  ],
-  "translation": "Yawe fila kunban na ne la aw kumaw la, a k'e sirya k'ne kana tɛmɛ ⟨את⟩ Yarden (Zazeri) Ji kan, ani k'ne kana don dugukolo la min ka ɲi, min ye Yawe aw Ala ye ka a di aw ye n'ka dogo-keko ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "607d27bfe5f5194818b9c4e2d4746637a218101a72ecdf3e26a10a3c58ca252f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/4\/21-24.1791927562317.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe bindira ne la sabu aw kumaw de ye, ani a bɔ-ye ko ne tɛna tɛmɛ ⟨את⟩ Yurdɛn (Jordani) ji kan, ani ko ne tɛna don dugukolo nyuman de la, min na Yawe, aw ka Elohim, bɛ bɛn aw ye kalankan ye.",
   "tokens": [
     {
       "surface": "ויהוה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "התאנף",
-      "gloss": "fila kunban na"
+      "gloss": "bindira"
     },
     {
       "surface": "בי",
@@ -47,44 +21,44 @@
     },
     {
       "surface": "על",
-      "gloss": "sabu"
+      "gloss": "sabu … de ye"
     },
     {
       "surface": "דבריכם",
-      "gloss": "aw kumaw la"
+      "gloss": "aw kumaw"
     },
     {
       "surface": "וישבע",
-      "gloss": "a k'e sirya"
+      "gloss": "bɔ-ye ko"
     },
     {
       "surface": "לבלתי",
-      "gloss": "kana"
+      "gloss": "ko … tɛna"
     },
     {
       "surface": "עברי",
-      "gloss": "ne kana tɛmɛ"
+      "gloss": "ne tɛna tɛmɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yarden Ji"
+      "marks": "Yurdɛn ji"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yarden (Zazeri) Ji"
+      "gloss": "Yurdɛn"
     },
     {
       "surface": "ולבלתי",
-      "gloss": "ani kana"
+      "gloss": "ani ko … tɛna"
     },
     {
       "surface": "בא",
-      "gloss": "don"
+      "gloss": "ne tɛna don"
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "… la"
     },
     {
       "surface": "הארץ",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "הטובה",
-      "gloss": "min ka ɲi"
+      "gloss": "nyuman"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min na"
     },
     {
       "surface": "יהוה",
@@ -104,11 +78,11 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "aw Ala"
+      "gloss": "aw ka Elohim"
     },
     {
       "surface": "נתן",
-      "gloss": "ka a di"
+      "gloss": "bɛ bɛn"
     },
     {
       "surface": "לך",
@@ -116,9 +90,9 @@
     },
     {
       "surface": "נחלה",
-      "gloss": "dogo-keko"
+      "gloss": "kalankan"
     }
   ],
-  "timestamp": "2026-10-13T21:39:22.318090767Z",
+  "timestamp": "2026-10-20T13:45:21.733389892Z",
   "model": "glm-5.3"
 }

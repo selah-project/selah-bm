@@ -5,42 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Isirayeli",
-      "rationale": "direct summons-question 'what does Yawe ask of you?'"
-    },
-    {
-      "kind": "you",
-      "subject": "Isirayeli",
-      "rationale": "second-person address to Israel throughout"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "two-token Hebrew idiom 'except that' rendered with single Bambara 'fo'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ni",
-      "rationale": "נפשך rendered 'i ka ni' — nephesh as life-force, per glossary"
-    }
-  ],
-  "translation": "Sisan, Isirayeli, Yawe i ka Ala bɛ mun de ɲini i bolo? Fo ka ⟨את⟩ Yawe i ka Ala siran, ka taa a sorow bɛɛ la, ka ⟨את⟩ a kanuya, ka Yawe i ka Ala baara kɛ i ka dusukun bɛɛ la ani i ka ni bɛɛ la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "e62f3ec3ade9c0906c2907e177f0bcacb97ab4a2e46019503257bab719fd5d42",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/10\/9-12.1791927722484.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sisan, Isirayeli, Yawe i Elohim bɛ bɔ i fɛ mun ɲini — a tɛ foyi ye fo i ka siran ⟨את⟩ Yawe i Elohim, ka taa a siraw bɛɛ la, ani ka ⟨אתו⟩ a kanuya, ani ka ⟨את⟩ Yawe i Elohim la baara kɛ ni i dusukun bɛɛ ye ani ni i ni bɛɛ ye.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "sisan"
+      "gloss": "Sisan"
     },
     {
       "surface": "ישראל",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "mun de"
+      "gloss": "mun"
     },
     {
       "surface": "יהוה",
@@ -56,19 +25,19 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i ka Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "שאל",
-      "gloss": "bɛ ... ɲini"
+      "gloss": "ka ɲini"
     },
     {
       "surface": "מעמך",
-      "gloss": "i bolo"
+      "gloss": "i fɛ"
     },
     {
       "surface": "כי",
-      "gloss": "fo"
+      "gloss": "a tɛ foyi ye"
     },
     {
       "surface": "אם",
@@ -76,12 +45,12 @@
     },
     {
       "surface": "ליראה",
-      "gloss": "ka ... siran"
+      "gloss": "ka siran"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe i ka Ala"
+      "marks": "Yawe i Elohim"
     },
     {
       "surface": "יהוה",
@@ -89,7 +58,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i ka Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "ללכת",
@@ -97,29 +66,29 @@
     },
     {
       "surface": "בכל",
-      "gloss": "bɛɛ"
+      "gloss": "bɛɛ la"
     },
     {
       "surface": "דרכיו",
-      "gloss": "a sorow"
+      "gloss": "a siraw"
     },
     {
       "surface": "ולאהבה",
-      "gloss": "ka ... kanuya"
+      "gloss": "ani ka a kanuya"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "a (Yawe)"
+      "gloss": "⟨אתו⟩",
+      "marks": "a (kanuya kuntilen-tigi)"
     },
     {
       "surface": "ולעבד",
-      "gloss": "ka ... baara kɛ"
+      "gloss": "ani ka baara kɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe i ka Ala"
+      "marks": "Yawe i Elohim"
     },
     {
       "surface": "יהוה",
@@ -127,7 +96,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i ka Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "בכל",
@@ -135,17 +104,17 @@
     },
     {
       "surface": "לבבך",
-      "gloss": "i ka dusukun ... la"
+      "gloss": "i dusukun"
     },
     {
       "surface": "ובכל",
-      "gloss": "ani ... bɛɛ"
+      "gloss": "ani … bɛɛ"
     },
     {
       "surface": "נפשך",
-      "gloss": "i ka ni ... la"
+      "gloss": "i ni"
     }
   ],
-  "timestamp": "2026-10-13T21:42:02.496296575Z",
+  "timestamp": "2026-10-20T13:38:56.539882589Z",
   "model": "glm-5.3"
 }

@@ -5,46 +5,15 @@
   "book": "esther",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ninnu",
-      "rationale": "נפשם is 'their life\/breath', rendered with Bambara ni (life-force), not a separate soul concept"
-    },
-    {
-      "kind": "measurement",
-      "subject": "seventy-five thousand",
-      "rationale": "Exact empire-wide casualty figure given"
-    },
-    {
-      "kind": "idiom",
-      "subject": "שלחו את ידם",
-      "rationale": "'Sent their hand upon the spoil' = 'lay hand on the plunder'"
-    },
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "Here אֵת is the preposition 'with' within the hand idiom, not the direct-object marker"
-    }
-  ],
-  "translation": "Yehudiw tɔɔrɔbaw minnu bɛ masakɛ ka maraw la, u lajɛra ɲɔgɔn kan ka ɲɛsin u ninnu, ka hɛrɛ sɔrɔ u sankɛtabagaw bolo; u faga u ɲɛnakɛlaw duwolonwula-ni-duru kɛmɛ; bɔnnyɛ kan u ma da ⟨את⟩ u bɔnw.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a71d7e490b0df3f5dac1be1e4aa16c42b292d43eb24b0c6dd471de159389436f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/9\/13-16.1791945685143.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yehudi tɔw minnu bɛ masakɛ ka maraw kɔnɔ, u ye u yeɛrɛ lajɛ ɲɔgɔn kan ka jɔ u ka ni la, ka hɛrɛ sɔrɔ u ka ɲɛkɔrɔbaliw bolo, ka minnu bɛ u jatigɛ u ka ɲɛdɔn la, u ye wolonwula ni wolonwula-fila-ni-tan kɛmɛ (75,000) bɔ'u la; nka bii nɔ na, u ma ⟨את⟩ u ka bolo ci.",
   "tokens": [
     {
       "surface": "ושאר",
-      "gloss": "tɔɔrɔbaw"
+      "gloss": "tɔw"
     },
     {
       "surface": "היהודים",
-      "gloss": "Yehudiw"
+      "gloss": "Yehudi"
     },
     {
       "surface": "אשר",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "במדינות",
-      "gloss": "maraw la"
+      "gloss": "maraw kɔnɔ"
     },
     {
       "surface": "המלך",
@@ -60,19 +29,19 @@
     },
     {
       "surface": "נקהלו",
-      "gloss": "u lajɛra ɲɔgɔn kan"
+      "gloss": "u ye u yeɛrɛ lajɛ ɲɔgɔn kan"
     },
     {
       "surface": "ועמד",
-      "gloss": "ka ɲɛsin"
+      "gloss": "ka jɔ"
     },
     {
       "surface": "על",
-      "gloss": "ye"
+      "gloss": "la"
     },
     {
       "surface": "נפשם",
-      "gloss": "u ninnu"
+      "gloss": "u ka ni"
     },
     {
       "surface": "ונוח",
@@ -80,23 +49,23 @@
     },
     {
       "surface": "מאיביהם",
-      "gloss": "u sankɛtabagaw bolo"
+      "gloss": "u ka ɲɛkɔrɔbaliw bolo"
     },
     {
       "surface": "והרג",
-      "gloss": "u faga"
+      "gloss": "ka bɔ'u la (u ye … fa)"
     },
     {
       "surface": "בשנאיהם",
-      "gloss": "u ɲɛnakɛlaw"
+      "gloss": "minnu bɛ u jatigɛ u ka ɲɛdɔn la"
     },
     {
       "surface": "חמשה",
-      "gloss": "duru"
+      "gloss": "wolonwula"
     },
     {
       "surface": "ושבעים",
-      "gloss": "duwolonwula"
+      "gloss": "wolonwula-fila-ni-tan"
     },
     {
       "surface": "אלף",
@@ -104,7 +73,7 @@
     },
     {
       "surface": "ובבזה",
-      "gloss": "bɔnnyɛ kan"
+      "gloss": "bii nɔ na"
     },
     {
       "surface": "לא",
@@ -112,18 +81,18 @@
     },
     {
       "surface": "שלחו",
-      "gloss": "da"
+      "gloss": "ci"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u bɔnw"
+      "marks": "u ka bolo"
     },
     {
       "surface": "ידם",
-      "gloss": "u bolo"
+      "gloss": "u ka bolo"
     }
   ],
-  "timestamp": "2026-10-14T02:41:25.144661018Z",
+  "timestamp": "2026-10-20T13:49:48.907993198Z",
   "model": "glm-5.3"
 }

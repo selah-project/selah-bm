@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ko",
-      "rationale": "Hebrew ויאמר + object; Bambara speech formula requires ko before quoted speech"
-    },
-    {
-      "kind": "measurement",
-      "subject": "nanananw (fourth generation)",
-      "rationale": "the promise counts generations — a numbered term of the dynasty"
-    },
-    {
-      "kind": "you",
-      "subject": "to Yehu",
-      "rationale": "Yawe addresses Jehu directly with second-person speech"
-    }
-  ],
-  "translation": "Yawe y'a fɔ Yehu fɛ ko: sabu i ye tiɲɛ-kɛli kɛ n ɲɛ na, i n'a fɔ bɛɛ min bɛ n dusukun na i y'o kɛ Achab (Axab) so ye, aw denw nanananw bɛna sigi an bɛɛ la Yisrael masasigilan kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "eae7bf6e90764a7a94240210217a2b214ef0aeb9d4898407740897a2bac93884",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/10\/29-32.1791932824873.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe ye Yehu (Jehu) ko: sabu i ye kɛ ka ɲi ne ɲɛ na, i ye Ahab so kɛ bɛɛ ta ye min bɛ ne dusukun kɔnɔ, i denw ɲɛ naninan bɛna sigin Isirayɛl sigida la.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "y'a fɔ ko"
+      "gloss": "ko"
     },
     {
       "surface": "יהוה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "fɛ"
+      "gloss": "kan na"
     },
     {
       "surface": "יהוא",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "הטיבת",
-      "gloss": "i ye tiɲɛ-kɛli kɛ"
+      "gloss": "i y'a kɛ ka ɲi"
     },
     {
       "surface": "לעשות",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "הישר",
-      "gloss": "tiɲɛ"
+      "gloss": "ka ɲi"
     },
     {
       "surface": "בעיני",
-      "gloss": "n ɲɛ na"
+      "gloss": "ne ɲɛ na"
     },
     {
       "surface": "ככל",
-      "gloss": "i n'a fɔ bɛɛ"
+      "gloss": "bɛɛ ta ye"
     },
     {
       "surface": "אשר",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "בלבבי",
-      "gloss": "n dusukun na"
+      "gloss": "ne dusukun kɔnɔ"
     },
     {
       "surface": "עשית",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "לבית",
-      "gloss": "so"
+      "gloss": "so kama"
     },
     {
       "surface": "אחאב",
-      "gloss": "Achab"
+      "gloss": "Ahab"
     },
     {
       "surface": "בני",
@@ -103,15 +77,15 @@
     },
     {
       "surface": "רבעים",
-      "gloss": "nanananw"
+      "gloss": "naninan"
     },
     {
       "surface": "ישבו",
-      "gloss": "bɛna sigi"
+      "gloss": "bɛna sigin"
     },
     {
       "surface": "לך",
-      "gloss": "an bɛɛ la"
+      "gloss": "i kama"
     },
     {
       "surface": "על",
@@ -119,13 +93,13 @@
     },
     {
       "surface": "כסא",
-      "gloss": "masasigilan"
+      "gloss": "sigida"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Isirayɛl"
     }
   ],
-  "timestamp": "2026-10-13T23:07:04.877859528Z",
+  "timestamp": "2026-10-20T13:16:18.705087225Z",
   "model": "glm-5.3"
 }

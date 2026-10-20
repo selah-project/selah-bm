@@ -5,36 +5,15 @@
   "book": "esther",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "chen",
-      "rationale": "חן is grace\/favor in the eyes; chen borrowed as the closest word"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sanu kulu",
-      "rationale": "שרביט is the royal rod\/scepter; rendered 'gold rod' from its parts"
-    }
-  ],
-  "translation": "Masakɛ ni y'a ye Ester masamuso jɛ dalan kɔnɔ na, a ye chen sɔrɔ a ɲɛ na; masakɛ ye ⟨את⟩ sanu kulu min tun b'a bolo la jɛ Ester ma; Ester y'a fɛ surun, ka k'a ne sanu kulu kun kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "29e3799c896a39bf457a45426151d139dc646025fc5f205c2ec57f6d40267335",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/esther\/5\/1-4.1791945540054.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sira min na, masakɛ y'a ye ⟨את⟩ Esiteri masakɛmuso min durunya so kɔnɔda kɔnɔ, a ye kanuya sɔrɔ a ɲɛ kɔnɔ; masakɛ ye ⟨את⟩ sanu sharbit min ye o bolo la wuli k'o di Esiteri ma; Esiteri naana a kɔrɔ ka tu sanu sharbit kun.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ni"
+      "gloss": "kɛra"
     },
     {
       "surface": "כראות",
-      "gloss": "y'a ye"
+      "gloss": "a ye…ye"
     },
     {
       "surface": "המלך",
@@ -43,23 +22,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ester masamuso"
+      "marks": "Esiteri masakɛmuso"
     },
     {
       "surface": "אסתר",
-      "gloss": "Ester"
+      "gloss": "Esiteri"
     },
     {
       "surface": "המלכה",
-      "gloss": "masamuso"
+      "gloss": "masakɛmuso"
     },
     {
       "surface": "עמדת",
-      "gloss": "jɛ"
+      "gloss": "durunya"
     },
     {
       "surface": "בחצר",
-      "gloss": "dalan kɔnɔ"
+      "gloss": "so kɔnɔda kɔnɔ"
     },
     {
       "surface": "נשאה",
@@ -67,15 +46,15 @@
     },
     {
       "surface": "חן",
-      "gloss": "chen"
+      "gloss": "kanuya"
     },
     {
       "surface": "בעיניו",
-      "gloss": "a ɲɛ na"
+      "gloss": "a ɲɛ kɔnɔ"
     },
     {
       "surface": "ויושט",
-      "gloss": "jɛ … ma"
+      "gloss": "wuli"
     },
     {
       "surface": "המלך",
@@ -83,16 +62,16 @@
     },
     {
       "surface": "לאסתר",
-      "gloss": "Ester"
+      "gloss": "Esiteri ma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sanu kulu"
+      "marks": "sanu sharbit"
     },
     {
       "surface": "שרביט",
-      "gloss": "kulu"
+      "gloss": "sharbit"
     },
     {
       "surface": "הזהב",
@@ -104,19 +83,19 @@
     },
     {
       "surface": "בידו",
-      "gloss": "a bolo"
+      "gloss": "o bolo la"
     },
     {
       "surface": "ותקרב",
-      "gloss": "surun"
+      "gloss": "naana a kɔrɔ"
     },
     {
       "surface": "אסתר",
-      "gloss": "Ester"
+      "gloss": "Esiteri"
     },
     {
       "surface": "ותגע",
-      "gloss": "ne"
+      "gloss": "tu"
     },
     {
       "surface": "בראש",
@@ -124,9 +103,9 @@
     },
     {
       "surface": "השרביט",
-      "gloss": "sanu kulu"
+      "gloss": "sanu sharbit"
     }
   ],
-  "timestamp": "2026-10-14T02:39:00.056545387Z",
+  "timestamp": "2026-10-20T15:45:49.417003799Z",
   "model": "glm-5.3"
 }

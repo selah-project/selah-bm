@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ni",
-      "rationale": "נפש is throat\/breath\/life-force, rendered by the fixed gloss ni"
-    },
-    {
-      "kind": "elision",
-      "subject": "Selah",
-      "rationale": "musical suspension mark, kept as a loanword since it is a structural sign, not a word with a Bambara equivalent"
-    },
-    {
-      "kind": "crux",
-      "subject": "לנפשי",
-      "rationale": "'say to my soul' vs 'say of me' — the preposition ל can carry both; Bambara 'la' keeps the literal 'to'"
-    }
-  ],
-  "translation": "Caman bɛ fɔ ne ka ni la: “Yala yɛlɛma tɛ a ye Elohim (Ala) fɛ.” Selah.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "84bcaba9278bcefbd3e0198ae8979837af0ff2812b8b05b856813628ec9378ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/3\/1-4.1791939527869.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Camanw bɛ fɔ n ka ni ko: dɛmɛ si tɛ yen a ye Elohim kɔnɔ. Selah",
   "tokens": [
     {
       "surface": "רבים",
-      "gloss": "caman"
+      "gloss": "Camanw"
     },
     {
       "surface": "אמרים",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "לנפשי",
-      "gloss": "ne ka ni la"
+      "gloss": "n ka ni"
     },
     {
       "surface": "אין",
-      "gloss": "yala … tɛ"
+      "gloss": "si tɛ yen"
     },
     {
       "surface": "ישועתה",
-      "gloss": "yɛlɛma"
+      "gloss": "dɛmɛ"
     },
     {
       "surface": "לו",
@@ -59,13 +33,13 @@
     },
     {
       "surface": "באלהים",
-      "gloss": "Elohim (Ala) fɛ"
+      "gloss": "Elohim kɔnɔ"
     },
     {
       "surface": "סלה",
       "gloss": "Selah"
     }
   ],
-  "timestamp": "2026-10-14T00:58:47.870705952Z",
+  "timestamp": "2026-10-20T15:36:01.418379830Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,19 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "hadamaden, a bɛ balo",
-      "rationale": "'וָחָי' — 'והאדם חי' (אדם חי גם כשאלוהים מדבר איתו) או 'והוא חי' — חלוקת הפסוק משתנה בין התרגומים."
-    },
-    {
-      "kind": "you",
-      "subject": "aw",
-      "rationale": "דברי בני ישראל המצוטטים פונים אל משה — נותר בגוף שני בציטוט."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ɲɛtigiya",
-      "rationale": "כבוד (משקל, הוד) — 'ɲɛtigiya' (כבוד) מקרב אך מאבד את תמונת המשקל."
-    }
-  ],
-  "translation": "Aw ye ko: Nin ye de! Yawe, an Ala, ye ⟨את⟩ a ɲɛtigiya ɲɛfɔ an ye, ni ⟨את⟩ a bonya; an ye ⟨את⟩ a kan mɛn tasuma kɔnɔ. Bi an ye tiɲɛ ye ko Ala bɛ se ka kuma ni ⟨את⟩ hadamaden ye — ⟨a bɛ balo⟩.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c4344b77523097bd3019e084f42e0ee9fafea487d7e8c92914c798e9b0dc4c70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/5\/21-24.1791927664750.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ko: Nin de ye — Yawe an ka Elohim ye ⟨את⟩ a donya ni ⟨את⟩ a bonba jira an ye; an ye ⟨את⟩ a kan mɛn, a bɔra tasuma kɔnɔ. An ye don in na don ko Elohim bɛ se ka kuma ni ⟨את⟩ hadamaden ye — ani a balora.",
   "tokens": [
     {
       "surface": "ותאמרו",
-      "gloss": "aw ye ko"
+      "gloss": "U ko"
     },
     {
       "surface": "הן",
-      "gloss": "nin ye de"
+      "gloss": "Nin de ye"
     },
     {
       "surface": "הראנו",
-      "gloss": "ɲɛfɔ an ye"
+      "gloss": "jira an ye"
     },
     {
       "surface": "יהוה",
@@ -51,25 +25,25 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "an Ala"
+      "gloss": "an ka Elohim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a ɲɛtigiya"
+      "marks": "a donya"
     },
     {
       "surface": "כבדו",
-      "gloss": "a ɲɛtigiya"
+      "gloss": "a donya"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "a bonya"
+      "marks": "a bonba"
     },
     {
       "surface": "גדלו",
-      "gloss": "a bonya"
+      "gloss": "a bonba"
     },
     {
       "surface": "ואת",
@@ -82,11 +56,11 @@
     },
     {
       "surface": "שמענו",
-      "gloss": "mɛn"
+      "gloss": "an ye … mɛn"
     },
     {
       "surface": "מתוך",
-      "gloss": "kɔnɔ"
+      "gloss": "… kɔnɔ, a bɔra"
     },
     {
       "surface": "האש",
@@ -94,15 +68,15 @@
     },
     {
       "surface": "היום",
-      "gloss": "bi"
+      "gloss": "don in na"
     },
     {
       "surface": "הזה",
-      "gloss": "nin don"
+      "gloss": "in na"
     },
     {
       "surface": "ראינו",
-      "gloss": "an ye ... ye"
+      "gloss": "an ye … don"
     },
     {
       "surface": "כי",
@@ -110,11 +84,11 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "bɛ ka kuma"
+      "gloss": "kuma"
     },
     {
       "surface": "אלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
@@ -127,9 +101,9 @@
     },
     {
       "surface": "וחי",
-      "gloss": "a bɛ balo"
+      "gloss": "ani a balora"
     }
   ],
-  "timestamp": "2026-10-13T21:41:04.752524274Z",
+  "timestamp": "2026-10-20T13:46:39.861733485Z",
   "model": "glm-5.3"
 }

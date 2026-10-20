@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "בן אדם",
-      "rationale": "hadamaden — 'adam-den', Yezekeli ka jamu, kelen-kelen bɛ tɛmɛ"
-    },
-    {
-      "kind": "you",
-      "subject": "hadamaden",
-      "rationale": "Yawe bɛ fɔ Yezekeli ma kɛrɛnkɛrɛn, a b'a wele ko hadamaden"
-    },
-    {
-      "kind": "substitution",
-      "subject": "חקות",
-      "rationale": "sariyaw ye sariya-jatedenw ye; 'ceremonies' (Wycliffe) ye dɔsɔgɔsɔgɔ ye"
-    }
-  ],
-  "translation": "Yawe ko ne ma: hadamaden, bila i dusukun a la, i ɲɛw fɛ ye, i tulow fɛ mɛn ⟨את⟩ bɛɛ min ne bɛ fɔ ⟨את⟩ i ma, Yawe so sariyaw bɛɛ ni a Tora bɛɛ la; a ni, bila i dusukun so donyɛyɔrɔ la, bɔyɔrɔw bɛɛ minnu bɛ senuma so la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b7232a5c3a62eea463e1719a9ef6e111fda037a9dae23d5e5b99297e3c905a21",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/44\/5-8.1791937974201.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe ko ne ma: hadamaden, i bila i dusukun, i ye i ɲɛw ye, i mɛn i tulow ye ⟨את⟩ bɛɛ min ne b'a fɔ ⟨את⟩ i ma — Yawe so sariyaw bɛɛ la, ani a Toraw bɛɛ la; i bila i dusukun so donyɔyɔrɔ la, ani ⟨את⟩ senuma-so bɔyɔrɔw bɛɛ la.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "hadama"
+      "gloss": "hadamaden"
     },
     {
       "surface": "שים",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "וראה",
-      "gloss": "ye"
+      "gloss": "i ye"
     },
     {
       "surface": "בעיניך",
-      "gloss": "i ɲɛw fɛ"
+      "gloss": "i ɲɛw ye"
     },
     {
       "surface": "ובאזניך",
-      "gloss": "i tulow fɛ"
+      "gloss": "i tulow ye"
     },
     {
       "surface": "שמע",
@@ -80,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bɛɛ min ne bɛ fɔ i ma"
+      "marks": "bɛɛ"
     },
     {
       "surface": "כל",
@@ -96,11 +70,12 @@
     },
     {
       "surface": "מדבר",
-      "gloss": "bɛ fɔ"
+      "gloss": "b'a fɔ"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ i ma"
+      "gloss": "⟨את⟩",
+      "marks": "i ma"
     },
     {
       "surface": "לכל",
@@ -112,7 +87,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "Yawe so"
+      "gloss": "so"
     },
     {
       "surface": "יהוה",
@@ -120,15 +95,15 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "ni bɛɛ"
+      "gloss": "ani bɛɛ"
     },
     {
       "surface": "תורתו",
-      "gloss": "a Tora"
+      "gloss": "a Toraw"
     },
     {
       "surface": "ושמת",
-      "gloss": "a ni bila"
+      "gloss": "i bila"
     },
     {
       "surface": "לבך",
@@ -136,7 +111,7 @@
     },
     {
       "surface": "למבוא",
-      "gloss": "donyɛyɔrɔ"
+      "gloss": "so donyɔyɔrɔ la"
     },
     {
       "surface": "הבית",
@@ -144,7 +119,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "bɛɛ"
+      "gloss": "bɛɛ la"
     },
     {
       "surface": "מוצאי",
@@ -152,9 +127,9 @@
     },
     {
       "surface": "המקדש",
-      "gloss": "senuma so"
+      "gloss": "senuma-so"
     }
   ],
-  "timestamp": "2026-10-14T00:32:54.202073319Z",
+  "timestamp": "2026-10-20T14:08:23.337467858Z",
   "model": "glm-5.3"
 }

@@ -5,46 +5,15 @@
   "book": "zechariah",
   "lang": "bm",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "dugu",
-      "rationale": "אחת feminine 'one' — noun 'city' is implied, not present in Hebrew"
-    },
-    {
-      "kind": "crux",
-      "subject": "הלוך",
-      "rationale": "infinitive absolute 'going'; KJV 'speedily', YLT 'diligently', literal 'going-ly going'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "לחלות את פני",
-      "rationale": "literally 'to stroke\/soften the face of', rendered as seeking the face"
-    },
-    {
-      "kind": "invitation",
-      "subject": "נלכה",
-      "rationale": "cohortative summons — 'let us go' drawing others in"
-    }
-  ],
-  "translation": "Dugu kelen sigilenw bɛ ta taa dugu ⟨wɛrɛ⟩ la, k'u fɔ ko: An ka taa, ka yɛrɛ taali ka ⟨את⟩ Yawe ɲɛda ɲini ani ka Yawe Sɛbɛw Tigi ɲini; ne fana, ne bɛ taa.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "4e35478e8b27d2b86e84d849df86f3efec8d738b93e77eead38e446bd4c86d83",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/8\/21-23.1791939294221.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dugu kelen jigodenw bɛna taa dugu kelen la, k'u ko: An ka taa taali-taali, ka bɛn ⟨את⟩ Yawe ka ɲɛda ma, ani ka ⟨את⟩ Yawe Tsavaot ɲini; ne fana, ne bɛ taa.",
   "tokens": [
     {
       "surface": "והלכו",
-      "gloss": "bɛ ta taa"
+      "gloss": "bɛna taa"
     },
     {
       "surface": "ישבי",
-      "gloss": "sigilenw"
+      "gloss": "jigodenw"
     },
     {
       "surface": "אחת",
@@ -52,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "…la"
+      "gloss": "la"
     },
     {
       "surface": "אחת",
-      "gloss": "dugu ⟨wɛrɛ⟩"
+      "gloss": "kelen"
     },
     {
       "surface": "לאמר",
-      "gloss": "k'u fɔ ko"
+      "gloss": "ko"
     },
     {
       "surface": "נלכה",
@@ -68,16 +37,16 @@
     },
     {
       "surface": "הלוך",
-      "gloss": "yɛrɛ taali"
+      "gloss": "taali-taali"
     },
     {
       "surface": "לחלות",
-      "gloss": "ka ɲini"
+      "gloss": "ka bɛn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe ɲɛda"
+      "marks": "Yawe ka ɲɛda"
     },
     {
       "surface": "פני",
@@ -94,7 +63,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yawe Sɛbɛw Tigi"
+      "marks": "Yawe Tsavaot"
     },
     {
       "surface": "יהוה",
@@ -102,7 +71,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Sɛbɛw Tigi"
+      "gloss": "Tsavaot"
     },
     {
       "surface": "אלכה",
@@ -117,6 +86,6 @@
       "gloss": "ne"
     }
   ],
-  "timestamp": "2026-10-14T00:54:54.221848857Z",
+  "timestamp": "2026-10-20T15:42:50.052853532Z",
   "model": "glm-5.3"
 }

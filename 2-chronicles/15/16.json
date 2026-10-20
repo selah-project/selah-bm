@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ba",
-      "rationale": "אם אסא 'mother of Asa': 1 Kgs 15:10 makes Maacah Asa's grandmother (mother of Abijam); 'mother' vs 'grandmother' is a standing disagreement"
-    },
-    {
-      "kind": "substitution",
-      "subject": "nyɛmajugu",
-      "rationale": "מפלצת literally 'a terror, thing causing dread'; rendered 'evil-image' to keep the dread-idol picture"
-    },
-    {
-      "kind": "addition",
-      "subject": "Asa",
-      "rationale": "the subject of הסירה 'he removed' is unnamed in Hebrew; Bambara names Asa to keep the sentence readable"
-    }
-  ],
-  "translation": "A fana, Maakha, Asa masakɛ ka ba, Asa y'a bɔ gegɛntigiya la, sabu a ye nyɛmajugu dilan Ashera kama; Asa ye ⟨את⟩ a ka nyɛmajugu lajɛ, ka a felege, ka a laciri Kidron baji la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "51afa861ce45eb013f3a06037f7a5a4c4bc533205fe8818c5dd894991f7f455c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/15\/13-16.1791949074986.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Asa masakɛ in ba Maaka (Maachah) fana, Asa ye ⟨את⟩ a bɔ a ka masakɛ-muso jɔyɔrɔ la, sabu a ye sɔgɔsɔgɔ-jɔn dɔ dilan Ashera (Ashera ka jɔn) kama; Asa ye ⟨את⟩ o jɔn in ga, k'a fisa, k'a tu Kidron baji kɔnɔ.",
   "tokens": [
     {
       "surface": "וגם",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "מעכה",
-      "gloss": "Maakha"
+      "gloss": "Maaka"
     },
     {
       "surface": "אם",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "הסירה",
-      "gloss": "bɔ"
+      "gloss": "y'a bɔ"
     },
     {
       "surface": "מגבירה",
-      "gloss": "gegɛntigiya"
+      "gloss": "masakɛ-muso jɔyɔrɔ"
     },
     {
       "surface": "אשר",
@@ -67,19 +41,19 @@
     },
     {
       "surface": "עשתה",
-      "gloss": "dilan"
+      "gloss": "a ye … dilan"
     },
     {
       "surface": "לאשרה",
-      "gloss": "Ashera"
+      "gloss": "Ashera kama"
     },
     {
       "surface": "מפלצת",
-      "gloss": "nyɛmajugu"
+      "gloss": "sɔgɔsɔgɔ-jɔn"
     },
     {
       "surface": "ויכרת",
-      "gloss": "lajɛ"
+      "gloss": "ye … ga"
     },
     {
       "surface": "אסא",
@@ -88,29 +62,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a ka nyɛmajugu"
+      "marks": "o jɔn in (a ka sɔgɔsɔgɔ-jɔn)"
     },
     {
       "surface": "מפלצתה",
-      "gloss": "nyɛmajugu"
+      "gloss": "o jɔn in"
     },
     {
       "surface": "וידק",
-      "gloss": "felege"
+      "gloss": "k'a fisa"
     },
     {
       "surface": "וישרף",
-      "gloss": "laciri"
+      "gloss": "k'a tu"
     },
     {
       "surface": "בנחל",
-      "gloss": "baji la"
+      "gloss": "baji kɔnɔ"
     },
     {
       "surface": "קדרון",
       "gloss": "Kidron"
     }
   ],
-  "timestamp": "2026-10-14T03:37:54.987992043Z",
+  "timestamp": "2026-10-20T13:08:28.068640951Z",
   "model": "glm-5.3"
 }

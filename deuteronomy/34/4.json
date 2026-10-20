@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Moshe",
-      "rationale": "Yawe speaks directly to Moshe; direct address of giving and withholding."
-    },
-    {
-      "kind": "crux",
-      "subject": "אתננה tense",
-      "rationale": "Coherent perfect ('I give\/have given it') vs future 'I will give it' — YLT keeps present, most versions future."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kisɛw",
-      "rationale": "זרע is singular 'seed'; Bambara plural kisɛw smooths it, losing the collective singular bound to Abraham's seed."
-    }
-  ],
-  "translation": "Yawe ye kum'a fɔ a ye: “Dugukolo ninnu de ye, ne ye se min bɔ Awraham (Ibrahima), Isak (Isaka) ni Yaaqub (Yakuba) fɔ ko ne bɛna a di i kisɛw ma. Ne y'i lasɔrɔ i yɛrɛ ta ɲɛnamaw ye, nka i kana tugu ka taa a kɔnɔ.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "915f56d21b0ce35b6ec202dd94e7633e5115049bbfadaf86f9de2c7eadd79037",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/34\/1-4.1791928524552.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe ye a ko: nin ye dugukolo de min na ne ye ladonna ni Awraham (Ibrahima), ni Itsik (Isaka), ni Yakub (Yakuba) ye, ko: ne b'o di i kisɛw ma. Ne ye ⟨a⟩ jira i ye i ɲɛnamaw ye, nka i tɛ na a kɔnɔ.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ye kum'a fɔ"
+      "gloss": "a ko"
     },
     {
       "surface": "יהוה",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אליו",
-      "gloss": "a ye"
+      "gloss": "a la"
     },
     {
       "surface": "זאת",
-      "gloss": "ninnu"
+      "gloss": "nin"
     },
     {
       "surface": "הארץ",
@@ -59,19 +33,19 @@
     },
     {
       "surface": "נשבעתי",
-      "gloss": "ne ye se bɔ"
+      "gloss": "ne ye ladonna (ni se fɔ)"
     },
     {
       "surface": "לאברהם",
-      "gloss": "Awraham (Ibrahima) fɔ"
+      "gloss": "Awraham (Ibrahima) ma"
     },
     {
       "surface": "ליצחק",
-      "gloss": "Isak (Isaka) fɔ"
+      "gloss": "Itsik (Isaka) ma"
     },
     {
       "surface": "וליעקב",
-      "gloss": "ni Yaaqub (Yakuba) fɔ"
+      "gloss": "ani Yakub (Yakuba) ma"
     },
     {
       "surface": "לאמר",
@@ -83,29 +57,29 @@
     },
     {
       "surface": "אתננה",
-      "gloss": "ne bɛna a di"
+      "gloss": "ne b'o di"
     },
     {
       "surface": "הראיתיך",
-      "gloss": "ne y'i lasɔrɔ"
+      "gloss": "ne ye ⟨a⟩ jira i ye"
     },
     {
       "surface": "בעיניך",
-      "gloss": "i yɛrɛ ta ɲɛnamaw ye"
+      "gloss": "i ɲɛnamaw ye"
     },
     {
       "surface": "ושמה",
-      "gloss": "a kɔnɔ"
+      "gloss": "nka a kɔnɔ"
     },
     {
       "surface": "לא",
-      "gloss": "kana"
+      "gloss": "tɛ"
     },
     {
       "surface": "תעבר",
-      "gloss": "tugu ka taa"
+      "gloss": "i tɛ na"
     }
   ],
-  "timestamp": "2026-10-13T21:55:24.554084239Z",
+  "timestamp": "2026-10-20T13:45:30.538381576Z",
   "model": "glm-5.3"
 }

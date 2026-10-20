@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "fitiri",
-      "rationale": "ניר 'lamp' as standing metaphor for a continuing dynasty; Bambara fitiri keeps the literal object, the dynastic sense is carried by context"
-    },
-    {
-      "kind": "addition",
-      "subject": "walasa",
-      "rationale": "Hebrew infinitive constructs להקים\/להעמיד read as purpose; Bambara walasa marks the purpose the bare infinitive implies"
-    }
-  ],
-  "translation": "Sabu Dawid nafa kama, Yawe a Ala ye fitiri di a ma Yerushalayim, walasa ka ⟨את⟩ a denkɛ ɲagami a kɔfɛ, ani walasa ka ⟨את⟩ Yerushalayim jɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/15\/1-4.1791932308983.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu Dawid (Dawuda) Yawe, Elohim tɔgɔ ye a ma yeelen-dɔnkili di Yerushalayim (Jerusalɛmu) na, walasa ka ⟨את⟩ a denkɛ jɔ a nɔ na, ani walasa ka ⟨את⟩ Yerushalayim jɔ.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "למען",
-      "gloss": "nafa kama"
+      "gloss": "kun min na \/ kama"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "Dawid (Dawuda)"
     },
     {
       "surface": "נתן",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אלהיו",
-      "gloss": "a Ala"
+      "gloss": "Elohim tɔgɔ"
     },
     {
       "surface": "לו",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "ניר",
-      "gloss": "fitiri"
+      "gloss": "yeelen-dɔnkili"
     },
     {
       "surface": "בירושלם",
-      "gloss": "Yerushalayim"
+      "gloss": "Yerushalayim (Jerusalɛmu) na"
     },
     {
       "surface": "להקים",
-      "gloss": "ɲagami"
+      "gloss": "walasa ka ... jɔ"
     },
     {
       "surface": "את",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "a kɔfɛ"
+      "gloss": "a nɔ na"
     },
     {
       "surface": "ולהעמיד",
-      "gloss": "jɔ"
+      "gloss": "ani walasa ka ... jɔ"
     },
     {
       "surface": "את",
@@ -95,6 +74,6 @@
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-10-13T22:58:28.992305001Z",
+  "timestamp": "2026-10-20T12:54:10.733044654Z",
   "model": "glm-5.3"
 }

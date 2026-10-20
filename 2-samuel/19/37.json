@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "יגמלני \/ הגמולה",
-      "rationale": "verb and noun from one root גמל — 'donyi \/ donyeli' keeps the pairing"
-    },
-    {
-      "kind": "you",
-      "subject": "Barzillai ka kuma",
-      "rationale": "Barzillai bɛ Masa Dawid la kuma directement ye"
-    },
-    {
-      "kind": "crux",
-      "subject": "את המלך",
-      "rationale": "את nin yɔrɔ la ye 'ni masakɛ ye' ye (preposition את), direct-object marker tɛ o ye"
-    }
-  ],
-  "translation": "Dɔɔnin dɔrɔn de, i n dɛmɛtigi bɛna ⟨את⟩ Yareden (Jeliba) ⟨את⟩ ni ⟨את⟩ masakɛ tɛmɛ; munna masakɛ bɛna n donyi donyeli nin ye?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "8d3f5052bdf20f9c72f4ac94cd521f1275c4cae853c8d9d03a50a90675f49602",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/19\/37-40.1791931431595.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I denbaga bɛna dɔɔnin dɔrɔn tɛmɛ ⟨את⟩ Yarden ni ⟨את⟩ masakɛ ye; masakɛ bɛhimin na ka n fila ni duba nin ye?",
   "tokens": [
     {
       "surface": "כמעט",
@@ -43,20 +17,20 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "i n dɛmɛtigi"
+      "gloss": "i denbaga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yareden"
+      "marks": "Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yareden"
+      "gloss": "Yarden"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ni",
+      "gloss": "⟨את⟩",
       "marks": "masakɛ"
     },
     {
@@ -65,11 +39,11 @@
     },
     {
       "surface": "ולמה",
-      "gloss": "munna"
+      "gloss": "bɛhimin na"
     },
     {
       "surface": "יגמלני",
-      "gloss": "bɛna n donyi"
+      "gloss": "ka n fila"
     },
     {
       "surface": "המלך",
@@ -77,13 +51,13 @@
     },
     {
       "surface": "הגמולה",
-      "gloss": "donyeli nin"
+      "gloss": "ni duba"
     },
     {
       "surface": "הזאת",
       "gloss": "nin"
     }
   ],
-  "timestamp": "2026-10-13T22:43:51.596484729Z",
+  "timestamp": "2026-10-20T13:27:11.093984442Z",
   "model": "glm-5.3"
 }

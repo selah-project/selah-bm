@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אש … באש … אש",
-      "rationale": "Tasuma daɲɛ in bɛ zuru kitu surun kumasen in na — a ka tasuma-ko bɔ Yisraɛla so bɛɛ la."
-    },
-    {
-      "kind": "mystery",
-      "subject": "tasuma bɛna bɔ a la",
-      "rationale": "Sigida in bɛ fɔ ko tasuma dɔ bɛna bɔ jiwi fitiniw la ka ta Yisraɛla so bɛɛ la — kumasi min ma a jira cogo min na."
-    }
-  ],
-  "translation": "Olu la, i na dɔ wɛrɛ ta kɔ, k'u bila tasuma kɔnɔ, k'u ɲagami tasuma na; a la, tasuma bɛna bɔ ka taa Yisraɛla so bɛɛ la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "17548a6126bf5336a61917c90a6f6bf5bb50e611114c888e7f05261d8f7e6d3d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/5\/1-4.1791936696680.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olu la, i na kokura ta, ka ⟨את⟩ wuli taa tasuma kɔnɔ, ka ⟨את⟩ togi tasuma kɔnɔ; o lasɔgɔma, tasuma bɛna bɔ ka taa Yisraɛla so bɛɛ la.",
   "tokens": [
     {
       "surface": "ומהם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "kɔ"
+      "gloss": "kokura"
     },
     {
       "surface": "תקח",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "והשלכת",
-      "gloss": "k'u bila"
+      "gloss": "ka … wuli taa"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "dɔ wɛrɛ (jiwiw)"
+      "marks": "tasuma kɔnɔ"
     },
     {
       "surface": "אל",
-      "gloss": "ka taa"
+      "gloss": "taa"
     },
     {
       "surface": "תוך",
@@ -63,24 +42,24 @@
     },
     {
       "surface": "ושרפת",
-      "gloss": "k'u ɲagami"
+      "gloss": "ka … togi"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "dɔ wɛrɛ (jiwiw)"
+      "marks": "tasuma kɔnɔ"
     },
     {
       "surface": "באש",
-      "gloss": "tasuma na"
+      "gloss": "tasuma kɔnɔ"
     },
     {
       "surface": "ממנו",
-      "gloss": "a la"
+      "gloss": "o lasɔgɔma"
     },
     {
       "surface": "תצא",
-      "gloss": "bɛna bɔ ka taa"
+      "gloss": "bɛna bɔ"
     },
     {
       "surface": "אש",
@@ -103,6 +82,6 @@
       "gloss": "Yisraɛla"
     }
   ],
-  "timestamp": "2026-10-14T00:11:36.681721583Z",
+  "timestamp": "2026-10-20T14:09:16.807613678Z",
   "model": "glm-5.3"
 }

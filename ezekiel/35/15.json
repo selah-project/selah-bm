@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "relative particle folded into the sabu-clause, no separate Bambara word"
-    },
-    {
-      "kind": "substitution",
-      "subject": "fadenya",
-      "rationale": "נחלה is inheritance\/occupied heritage; fadenya (family heritage) is the nearest Bambara shape"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שממה",
-      "rationale": "שממה rings three times (vv.14–15); repetition kept with dugujan each time"
-    }
-  ],
-  "translation": "I ye doniya Yisrayɛla so ka fadenya la, sabu o ma jɔ, cogo min na, nin sira de na ne bɛ kɛ i ye — dugujan de ye i ye, Seir kulu ni Edom bɛɛ, kabakomabrɔbali, u na dɔn ko ne de ye Yawe.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "58bdb8b9e6c6602cbe353bf0cd3a4d48a405a819aa45bccfb3eadee6ea54179f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/35\/13-15.1791937609596.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I ka diyon ko kɔnɔ Yisraɛl ka so ka ya'atigiya maaya sababu la cogo min na, o cogo mini n bɛna kɛ i ye: ⟨a⟩ ka kɛ maaya ye, Seir kulu, ani Edom bɛɛ, a bɛɛ yɛrɛ. U na dɔn ko ne ye Yawe ye.",
   "tokens": [
     {
       "surface": "כשמחתך",
-      "gloss": "i ye doniya"
+      "gloss": "i ka diyon ko kɔnɔ"
     },
     {
       "surface": "לנחלת",
-      "gloss": "fadenya la"
+      "gloss": "ya'atigiya"
     },
     {
       "surface": "בית",
@@ -47,27 +21,27 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrayɛla"
+      "gloss": "Yisraɛl"
     },
     {
       "surface": "על",
-      "gloss": "sabu"
+      "gloss": "kan"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "min"
     },
     {
       "surface": "שממה",
-      "gloss": "o ma jɔ"
+      "gloss": "maaya"
     },
     {
       "surface": "כן",
-      "gloss": "cogo min na"
+      "gloss": "o cogo mini"
     },
     {
       "surface": "אעשה",
-      "gloss": "ne bɛ kɛ"
+      "gloss": "n bɛna kɛ"
     },
     {
       "surface": "לך",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "שממה",
-      "gloss": "dugujan"
+      "gloss": "maaya"
     },
     {
       "surface": "תהיה",
-      "gloss": "de ye i ye"
+      "gloss": "⟨a⟩ ka kɛ … ye"
     },
     {
       "surface": "הר",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ni … bɛɛ"
+      "gloss": "ani bɛɛ"
     },
     {
       "surface": "אדום",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "כלה",
-      "gloss": "kabakomabrɔbali"
+      "gloss": "a bɛɛ yɛrɛ"
     },
     {
       "surface": "וידעו",
@@ -111,13 +85,13 @@
     },
     {
       "surface": "אני",
-      "gloss": "ne de"
+      "gloss": "ne"
     },
     {
       "surface": "יהוה",
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-14T00:26:49.597391813Z",
+  "timestamp": "2026-10-20T14:05:32.737768661Z",
   "model": "glm-5.3"
 }

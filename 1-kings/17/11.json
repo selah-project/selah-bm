@@ -5,40 +5,19 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ji",
-      "rationale": "Hebrew says only 'to take'; Bambara supplies the object 'ji' (water) from the previous verse"
-    },
-    {
-      "kind": "elision",
-      "subject": "אליה",
-      "rationale": "'unto her' is absorbed into 'a ye a wele'"
-    }
-  ],
-  "translation": "Muso taara ka taa ji, a ye a wele kɔ, a ko: Ta buru maan dɔ ne ye, i ni sɔrɔ, i bolo la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d8d05319aa93ba74f05cdda76d50a5672a88c8eced2f3b20f12e9c45c4727645",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/17\/9-12.1791932289630.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ta taa ka ta <u>o<\/u>, a ye wele ko: Ta jamana buru dɔ n'i bolo na, i n'safo.",
   "tokens": [
     {
       "surface": "ותלך",
-      "gloss": "a taara"
+      "gloss": "a ta taa"
     },
     {
       "surface": "לקחת",
-      "gloss": "ka taa"
+      "gloss": "ka ta <u>o<\/u>"
     },
     {
       "surface": "ויקרא",
-      "gloss": "a ye a wele"
+      "gloss": "a ye wele"
     },
     {
       "surface": "אליה",
@@ -46,23 +25,23 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "a ko"
+      "gloss": "ko"
     },
     {
       "surface": "לקחי",
-      "gloss": "ta"
+      "gloss": "Ta"
     },
     {
       "surface": "נא",
-      "gloss": "i ni sɔrɔ"
+      "gloss": "i n'safo"
     },
     {
       "surface": "לי",
-      "gloss": "ne ye"
+      "gloss": "jamana"
     },
     {
       "surface": "פת",
-      "gloss": "maan"
+      "gloss": "dɔ"
     },
     {
       "surface": "לחם",
@@ -70,9 +49,9 @@
     },
     {
       "surface": "בידך",
-      "gloss": "i bolo la"
+      "gloss": "n'i bolo na"
     }
   ],
-  "timestamp": "2026-10-13T22:58:09.633855073Z",
+  "timestamp": "2026-10-20T12:53:41.312497304Z",
   "model": "glm-5.3"
 }

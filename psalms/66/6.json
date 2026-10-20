@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 66,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "baji",
-      "rationale": "הנהר with article: tradition reads the Jordan (or Red Sea second crossing); rendered simply 'baji kɔnɔ' without naming the river"
-    },
-    {
-      "kind": "alternative",
-      "subject": "an donya",
-      "rationale": "cohortal 'let us rejoice' (jps) vs past 'we rejoiced' (kjb); Bambara leaves the tense open"
-    }
-  ],
-  "translation": "A ye kɔgɔji yɛlɛma ka kɛ dugukolo yɛrɛyɛrɛ ye; baji kɔnɔ, u ye senw ye taara; yonin, an donya a la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/66\/5-8.1791940470323.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A yera kɔgɔji yɛlɛma ka kɛ gɛn dugukolo ye, baji kɔnɔ u tunnen bolo la, a fan nin na an ye diɲɛw na yen nin o la.",
   "tokens": [
     {
       "surface": "הפך",
-      "gloss": "a y'a yɛlɛma"
+      "gloss": "yɛlɛma"
     },
     {
       "surface": "ים",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ליבשה",
-      "gloss": "dugukolo yɛrɛyɛrɛ"
+      "gloss": "gɛn dugukolo"
     },
     {
       "surface": "בנהר",
@@ -46,25 +25,25 @@
     },
     {
       "surface": "יעברו",
-      "gloss": "u taara"
+      "gloss": "tunnen"
     },
     {
       "surface": "ברגל",
-      "gloss": "ni senw ye"
+      "gloss": "bolo la"
     },
     {
       "surface": "שם",
-      "gloss": "yonin"
+      "gloss": "a fan nin na"
     },
     {
       "surface": "נשמחה",
-      "gloss": "an donya"
+      "gloss": "an ye diɲɛw na"
     },
     {
       "surface": "בו",
-      "gloss": "a la"
+      "gloss": "nin o la"
     }
   ],
-  "timestamp": "2026-10-14T01:14:30.323798344Z",
+  "timestamp": "2026-10-20T15:39:01.238963720Z",
   "model": "glm-5.3"
 }

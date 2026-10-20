@@ -5,46 +5,20 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tanti",
-      "rationale": "האהל ye sutigiyɔrɔ ye; 'tanti' ye Bamanankan daɲɛ dɔnnen ye tanti kama"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tasuma-saraka",
-      "rationale": "עלה kɔrɔ ye saraka min bɛ tasuma na ka bela ka taa"
-    },
-    {
-      "kind": "substitution",
-      "subject": "hɛrɛ-saraka",
-      "rationale": "שלמים kɔrɔ ye hɛrɛ-saraka (ni a bɛɛ taabolo) ye"
-    }
-  ],
-  "translation": "U ye ⟨את⟩ Elohim ka sanda ta na, u ye a sigi tanti kɔnɔ, min ye Dawid (Dawuda) y'a da a ye, ani u ye tasuma-sarakaw ni hɛrɛ-sarakaw di Elohim ɲɛfɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9a9e5ed4dcd96bd925e2d4cc0c38c23b8ef320c4b7d1d81d44e99f001296a5cd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/16\/1-4.1791947981293.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "U ye ⟨את⟩ Elohim ka agasi na, ka a sigi so kɔnɔ, min na Dawid y'a nata ɲɛ; u ye sarakiba ni hɛrɛsaraka jira Elohim ɲɛfɛ.",
   "tokens": [
     {
       "surface": "ויביאו",
-      "gloss": "u ye…na"
+      "gloss": "u ye ... na"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elohim ka sanda"
+      "marks": "Elohim ka agasi"
     },
     {
       "surface": "ארון",
-      "gloss": "sanda"
+      "gloss": "agasi"
     },
     {
       "surface": "האלהים",
@@ -52,12 +26,12 @@
     },
     {
       "surface": "ויציגו",
-      "gloss": "u ye a sigi"
+      "gloss": "ka a sigi"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "a (sanda)"
+      "marks": "so kɔnɔ"
     },
     {
       "surface": "בתוך",
@@ -65,7 +39,7 @@
     },
     {
       "surface": "האהל",
-      "gloss": "tanti"
+      "gloss": "so"
     },
     {
       "surface": "אשר",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "נטה",
-      "gloss": "y'a da"
+      "gloss": "y'a nata"
     },
     {
       "surface": "לו",
@@ -81,19 +55,19 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Dawid (Dawuda)"
+      "gloss": "Dawid"
     },
     {
       "surface": "ויקריבו",
-      "gloss": "u ye…di"
+      "gloss": "u ye ... jira"
     },
     {
       "surface": "עלות",
-      "gloss": "tasuma-sarakaw"
+      "gloss": "sarakiba"
     },
     {
       "surface": "ושלמים",
-      "gloss": "hɛrɛ-sarakaw"
+      "gloss": "hɛrɛsaraka"
     },
     {
       "surface": "לפני",
@@ -104,6 +78,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-14T03:19:41.294476305Z",
+  "timestamp": "2026-10-20T12:46:39.236382152Z",
   "model": "glm-5.3"
 }

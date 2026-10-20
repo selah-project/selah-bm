@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 46,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "datigunyɔrɔ",
-      "rationale": "משגב lit. 'high cliff\/lofty stronghold' — refuge, fortress"
-    },
-    {
-      "kind": "alternative",
-      "subject": "Tshabaot",
-      "rationale": "צבאות 'of hosts\/armies' kept as name-transliteration per D1 ruling"
-    },
-    {
-      "kind": "elision",
-      "subject": "סלה",
-      "rationale": "musical pause marker, rendered as name only"
-    }
-  ],
-  "translation": "Yawe Tshabaot bɛ an ni ⟨a ye⟩; Yaaqob ka Elohim ye an ka datigunyɔrɔ ye. Sela.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/46\/5-8.1791940216712.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe Tɔndenw ka Tigi bɛ an ni an ye, Yaquba Elohim ye an ka datugu-bonyalan ye. Sela.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tshabaot"
+      "gloss": "Tɔndenw"
     },
     {
       "surface": "עמנו",
-      "gloss": "bɛ an ni ⟨a ye⟩"
+      "gloss": "bɛ an ni an ye"
     },
     {
       "surface": "משגב",
-      "gloss": "datigunyɔrɔ"
+      "gloss": "datugu-bonyalan"
     },
     {
       "surface": "לנו",
@@ -55,17 +29,17 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim ka"
+      "gloss": "Elohim"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaaqob"
+      "gloss": "Yaquba"
     },
     {
       "surface": "סלה",
       "gloss": "Sela"
     }
   ],
-  "timestamp": "2026-10-14T01:10:16.713955188Z",
+  "timestamp": "2026-10-20T15:36:55.951514106Z",
   "model": "glm-5.3"
 }

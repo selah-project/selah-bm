@@ -5,40 +5,19 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ka sa",
-      "rationale": "Hebrew מות is a noun 'death of'; Bambara needs the verb"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "preposition folded into the following noun phrase"
-    }
-  ],
-  "translation": "A bɛ tuna o dugu kɔnɔ fo a ka jɔ jama ɲɛna sariya-fɔli la, fo sarakalasebaga kɔrɔtigi min bɛna o donnw la, ka sa. O waati la, min bɔnen bɛna segin ka na a duguw ni a so, dugu min na a bɔra yen.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "c9a82516ad312c8324a31ecaa2a21d66065719f50c192d23e9a0feeb824d09c5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/20\/5-8.1791929079905.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A bɛna sigi dugu in na, fo a ka ɲɛ jira jamaa ɲɛfɛ sariya la, fo sarakalasebaga bɛɛtigi min bɛna o sanw in kɔnɔ, o ka saya lɔɔn; o waati, mɔgɔkilibaga bɛna segin ka na a ka dugu la ni a ka so la, dugu min na a ye o bɔ.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "a bɛ tuna"
+      "gloss": "a bɛna sigi"
     },
     {
       "surface": "בעיר",
-      "gloss": "dugu kɔnɔ"
+      "gloss": "dugu in na"
     },
     {
       "surface": "ההיא",
-      "gloss": "o"
+      "gloss": "in"
     },
     {
       "surface": "עד",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "עמדו",
-      "gloss": "a ka jɔ"
+      "gloss": "a ka ɲɛ jira"
     },
     {
       "surface": "לפני",
-      "gloss": "ɲɛna"
+      "gloss": "ɲɛfɛ"
     },
     {
       "surface": "העדה",
-      "gloss": "jama"
+      "gloss": "jamaa"
     },
     {
       "surface": "למשפט",
-      "gloss": "sariya-fɔli la"
+      "gloss": "sariya la"
     },
     {
       "surface": "עד",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "מות",
-      "gloss": "ka sa"
+      "gloss": "saya"
     },
     {
       "surface": "הכהן",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "kɔrɔtigi"
+      "gloss": "bɛɛtigi"
     },
     {
       "surface": "אשר",
@@ -86,15 +65,15 @@
     },
     {
       "surface": "בימים",
-      "gloss": "donnw"
+      "gloss": "sanw in kɔnɔ"
     },
     {
       "surface": "ההם",
-      "gloss": "o"
+      "gloss": "in"
     },
     {
       "surface": "אז",
-      "gloss": "o waati la"
+      "gloss": "o waati"
     },
     {
       "surface": "ישוב",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "הרוצח",
-      "gloss": "min bɔnen"
+      "gloss": "mɔgɔkilibaga"
     },
     {
       "surface": "ובא",
@@ -110,11 +89,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "la"
     },
     {
       "surface": "עירו",
-      "gloss": "a duguw"
+      "gloss": "a ka dugu"
     },
     {
       "surface": "ואל",
@@ -122,11 +101,11 @@
     },
     {
       "surface": "ביתו",
-      "gloss": "a so"
+      "gloss": "a ka so"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "la"
     },
     {
       "surface": "העיר",
@@ -134,17 +113,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min na"
     },
     {
       "surface": "נס",
-      "gloss": "a bɔra"
+      "gloss": "a ye o bɔ"
     },
     {
       "surface": "משם",
-      "gloss": "yen"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-10-13T22:04:39.907002755Z",
+  "timestamp": "2026-10-20T14:55:07.869343053Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "zechariah",
   "lang": "bm",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kɔkɔrɔ",
-      "rationale": "בור ye kɔkɔrɔ\/ji-kɔkɔrɔ ye (dalu min bɛ kɛ jonyɔrɔ ye), a tɛ 'kɛnɛ' ye"
-    },
-    {
-      "kind": "crux",
-      "subject": "בדם בריתך",
-      "rationale": "'i layidu joli la' — joli min bɛ layidu dalen, walima 'sabu i layidu joli de ye'"
-    },
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "O ye nɔnabila אַתָּה ye (ale lamini), a tɛ aleph-tav daɲɛbɔbaga ye min bɛ sira kan"
-    }
-  ],
-  "translation": "Fana i yɛrɛ, i layidu joli la, N ye i jɔnjonyaw ci ka bɔ kɔkɔrɔ la, min kɔnɔ ji tɛ yen.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "328e896dac3c91815543bee16c2931fb51a08beb9a3eba2c9b8e90d2d2cb3ed7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/zechariah\/9\/9-12.1791939301110.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I fana, ⟨את⟩ i ka layidu joli fɛ, n ye i ka minɛnw ci kɔlɔn la min na ji tɛ yen.",
   "tokens": [
     {
       "surface": "גם",
@@ -39,31 +13,32 @@
     },
     {
       "surface": "את",
-      "gloss": "i yɛrɛ"
+      "gloss": "⟨את⟩",
+      "marks": "i ka layidu joli"
     },
     {
       "surface": "בדם",
-      "gloss": "joli la"
+      "gloss": "joli fɛ"
     },
     {
       "surface": "בריתך",
-      "gloss": "i layidu"
+      "gloss": "i ka layidu"
     },
     {
       "surface": "שלחתי",
-      "gloss": "N ye … ci"
+      "gloss": "n ye … ci"
     },
     {
       "surface": "אסיריך",
-      "gloss": "i jɔnjonyaw"
+      "gloss": "i ka minɛnw"
     },
     {
       "surface": "מבור",
-      "gloss": "ka bɔ kɔkɔrɔ la"
+      "gloss": "kɔlɔn la"
     },
     {
       "surface": "אין",
-      "gloss": "tɛ yen"
+      "gloss": "tɛ"
     },
     {
       "surface": "מים",
@@ -71,9 +46,9 @@
     },
     {
       "surface": "בו",
-      "gloss": "a kɔnɔ"
+      "gloss": "yen"
     }
   ],
-  "timestamp": "2026-10-14T00:55:01.111965955Z",
+  "timestamp": "2026-10-20T15:42:26.751781369Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "⟨את⟩",
-      "rationale": "אֹתָנוֹ and וְאֶת are direct-object markers rendered as the glyph, not as words"
-    },
-    {
-      "kind": "substitution",
-      "subject": "taamasiyɛn",
-      "rationale": "הָאֹתוֹת is 'signals\/omens'; taamasiyɛn keeps the sign-sense"
-    }
-  ],
-  "translation": "Sabu Yawe, an ka Elohim, a de ye min kɛ: min ye ⟨את⟩ an ni ⟨את⟩ an ka aw bɔ Mitsrayim dugukolo la, jonw so la, ani min kɛra an ka ɲɛw ye — taamasiyɛnw koŋw nin — ani min ye an mara sira bɛɛ la min na an taara, ani siyaw bɛɛ kɔnɔ minnu na an talla.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ddfa6e961e9ee9ac254b2062ec70179d9df427332086c57aceced4a5edc15e70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/24\/17-20.1791929192323.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu Yawe, an ka Elohim, ale de ye ⟨את⟩ an ni ⟨את⟩ an ka faamaw bɔ Mitsrayim (Misira) dugukolo la, walɛsɔrɔdɔ so la, ani min kɛra an ɲɛw ye — ⟨את⟩ taamasiyɛn ninnu ka bɛɛba — ani a y'an mara sira bɛɛ min na an taara yen, ani siyaw bɛɛ kɔnɔ minnu kɔnɔ an y'u sunun.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sabu"
+      "gloss": "Sabu"
     },
     {
       "surface": "יהוה",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "a de"
+      "gloss": "ale de"
     },
     {
       "surface": "המעלה",
-      "gloss": "min ye … bɔ"
+      "gloss": "n'a bɔli"
     },
     {
       "surface": "אתנו",
@@ -56,11 +35,11 @@
     {
       "surface": "ואת",
       "gloss": "ni ⟨את⟩",
-      "marks": "an ka aw"
+      "marks": "an ka faamaw"
     },
     {
       "surface": "אבותינו",
-      "gloss": "an ka aw"
+      "gloss": "an ka faamaw"
     },
     {
       "surface": "מארץ",
@@ -68,15 +47,15 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitsrayim (Misira)"
     },
     {
       "surface": "מבית",
-      "gloss": "…so la bɔ"
+      "gloss": "so la"
     },
     {
       "surface": "עבדים",
-      "gloss": "jonw"
+      "gloss": "walɛsɔrɔdɔw"
     },
     {
       "surface": "ואשר",
@@ -88,32 +67,32 @@
     },
     {
       "surface": "לעינינו",
-      "gloss": "an ka ɲɛw ye"
+      "gloss": "an ɲɛw ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taamasiyɛnw koŋw"
+      "marks": "taamasiyɛn ninnu"
     },
     {
       "surface": "האתות",
-      "gloss": "taamasiyɛnw"
+      "gloss": "taamasiyɛn"
     },
     {
       "surface": "הגדלות",
-      "gloss": "koŋw"
+      "gloss": "ka bɛɛba"
     },
     {
       "surface": "האלה",
-      "gloss": "nin"
+      "gloss": "ninnu"
     },
     {
       "surface": "וישמרנו",
-      "gloss": "ani min ye an mara"
+      "gloss": "a y'an mara"
     },
     {
       "surface": "בכל",
-      "gloss": "bɛɛ la"
+      "gloss": "bɛɛ"
     },
     {
       "surface": "הדרך",
@@ -129,11 +108,11 @@
     },
     {
       "surface": "בה",
-      "gloss": "a la"
+      "gloss": "yen"
     },
     {
       "surface": "ובכל",
-      "gloss": "ani bɛɛ la"
+      "gloss": "ani bɛɛ"
     },
     {
       "surface": "העמים",
@@ -145,13 +124,13 @@
     },
     {
       "surface": "עברנו",
-      "gloss": "an talla"
+      "gloss": "an y'u sunun"
     },
     {
       "surface": "בקרבם",
       "gloss": "u kɔnɔ"
     }
   ],
-  "timestamp": "2026-10-13T22:06:32.325618497Z",
+  "timestamp": "2026-10-20T14:56:50.049624878Z",
   "model": "glm-5.3"
 }

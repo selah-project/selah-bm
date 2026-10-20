@@ -5,97 +5,15 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ונשל הברזל מן העץ",
-      "rationale": "Hebrew literally 'the iron slips from the wood (handle)' — Bambara keeps the picture but compresses"
-    },
-    {
-      "kind": "crux",
-      "subject": "הברזל",
-      "rationale": "'the iron' = axe-head; versions render 'head\/blade' — Bambara 'nɛgɛn' keeps the Hebrew's bare 'iron'"
-    }
-  ],
-  "translation": "Min bɛ taa a tɔgɔma fɛ bɔnɔ kɔnɔ ka jiriw ge, a bolo bila npan kan ji kɔrɔso kama, nɛgɛn in bɔra ji in na, o ya a tɔgɔma minɛ, a ko a sa — o bɛna boli k'a yɛrɛ to nin duguw kelen kɔnɔ ka balo.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "af648f85f7503a185dc4d6de2d818085a391e30d70cc50edf2e10e22967e8205",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/19\/5-8.1791928018052.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Min min na ni a tɔgɔma ⟨את⟩ ye dugulen kɔnɔ ka jiriw ge, a bolo y'a to npanminɛn fɛ ka jiri minɛ, ka nɛgɛn da bɔ jiri min na, ka ja ⟨את⟩ a tɔgɔma la, o sa — ale bɛ tooro k'a to a dugu ninnu kelen kɔnɔ, k'a balo.",
   "tokens": [
     {
       "surface": "ואשר",
-      "gloss": "min"
+      "gloss": "Min min"
     },
     {
       "surface": "יבא",
-      "gloss": "ta \/ don"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "a tɔgɔma fɛ"
-    },
-    {
-      "surface": "רעהו",
-      "gloss": "tɔgɔma"
-    },
-    {
-      "surface": "ביער",
-      "gloss": "bɔnɔ kɔnɔ"
-    },
-    {
-      "surface": "לחטב",
-      "gloss": "ge"
-    },
-    {
-      "surface": "עצים",
-      "gloss": "jiriw"
-    },
-    {
-      "surface": "ונדחה",
-      "gloss": "bila"
-    },
-    {
-      "surface": "ידו",
-      "gloss": "bolo"
-    },
-    {
-      "surface": "בגרזן",
-      "gloss": "npan"
-    },
-    {
-      "surface": "לכרת",
-      "gloss": "ji kɔrɔso"
-    },
-    {
-      "surface": "העץ",
-      "gloss": "ji"
-    },
-    {
-      "surface": "ונשל",
-      "gloss": "bɔra"
-    },
-    {
-      "surface": "הברזל",
-      "gloss": "nɛgɛn"
-    },
-    {
-      "surface": "מן",
-      "gloss": "bɔ"
-    },
-    {
-      "surface": "העץ",
-      "gloss": "ji"
-    },
-    {
-      "surface": "ומצא",
-      "gloss": "minɛ \/ ɲini"
+      "gloss": "na"
     },
     {
       "surface": "את",
@@ -104,23 +22,84 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "tɔgɔma"
+      "gloss": "a tɔgɔma"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "dugulen kɔnɔ"
+    },
+    {
+      "surface": "לחטב",
+      "gloss": "ka jiriw ge"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "jiriw"
+    },
+    {
+      "surface": "ונדחה",
+      "gloss": "y'a to"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a bolo"
+    },
+    {
+      "surface": "בגרזן",
+      "gloss": "npanminɛn fɛ"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "ka jiri minɛ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "jiri"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "bɔra"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "nɛgɛn da"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bɔ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "jiri min na"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "ka ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tɔgɔma"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a tɔgɔma"
     },
     {
       "surface": "ומת",
-      "gloss": "sa"
+      "gloss": "o sa"
     },
     {
       "surface": "הוא",
-      "gloss": "o"
+      "gloss": "ale"
     },
     {
       "surface": "ינוס",
-      "gloss": "boli"
+      "gloss": "bɛ tooro"
     },
     {
       "surface": "אל",
-      "gloss": "k'a yɛrɛ to"
+      "gloss": "k'a to"
     },
     {
       "surface": "אחת",
@@ -132,13 +111,13 @@
     },
     {
       "surface": "האלה",
-      "gloss": "nin"
+      "gloss": "ninnu"
     },
     {
       "surface": "וחי",
-      "gloss": "balo"
+      "gloss": "k'a balo"
     }
   ],
-  "timestamp": "2026-10-13T21:46:58.055058153Z",
+  "timestamp": "2026-10-20T13:41:45.055439382Z",
   "model": "glm-5.3"
 }

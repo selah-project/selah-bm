@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סורר ומורה",
-      "rationale": "Hapax pair; renderings range from 'stubborn and rebellious' to 'apostatizing and bitter' — 'kokura-kɛla' (turn-away-doer) keeps the literal picture."
-    },
-    {
-      "kind": "idiom",
-      "subject": "בקול שמע",
-      "rationale": "Hebrew 'hear the voice of' = obey; rendered 'mɛn ... kan' (hear the voice), the idiom kept literally."
-    }
-  ],
-  "translation": "Ni mɔgɔ dɔ ye denkɛ sɔrɔ min ye kokura-kɛla ye, wal'a kunben — o tɛ mɛn a fa kan, wa a ba kan; u y'a laso, nka a mɛn u ye tɛmɛ ⟨a tɛ mɛn u ye⟩.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "7f9b33e846825011d6b9a85bba84a295a422a9d0225b78fe0c8d633417f90a6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/21\/18-19.1791950137639.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni cɛ dɔ bɛ denkɛ sɔrɔ min ye kunbali ye ani min bɛ tɔ, a tɛ mɛn a fa kan, ani a tɛ mɛn a ba kan; ni u ye ⟨את⟩ a cɛya, nka a tɛ mɛn u ye.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "bɛna sɔrɔ"
+      "gloss": "bɛ sɔrɔ"
     },
     {
       "surface": "לאיש",
-      "gloss": "mɔgɔ dɔ"
+      "gloss": "cɛ dɔ"
     },
     {
       "surface": "בן",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "סורר",
-      "gloss": "kokura"
+      "gloss": "kunbali"
     },
     {
       "surface": "ומורה",
-      "gloss": "wa a kunben"
+      "gloss": "tɔli-bali"
     },
     {
       "surface": "איננו",
-      "gloss": "o tɛ"
+      "gloss": "a tɛ"
     },
     {
       "surface": "שמע",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "בקול",
-      "gloss": "kan"
+      "gloss": "kan na"
     },
     {
       "surface": "אביו",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "ובקול",
-      "gloss": "wa ... kan"
+      "gloss": "ani kan na"
     },
     {
       "surface": "אמו",
@@ -78,16 +57,16 @@
     },
     {
       "surface": "ויסרו",
-      "gloss": "u y'a laso"
+      "gloss": "cɛya"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "a (denkɛ in)"
+      "marks": "a (kunbali denkɛ)"
     },
     {
       "surface": "ולא",
-      "gloss": "nka ... tɛ"
+      "gloss": "nka … tɛ"
     },
     {
       "surface": "ישמע",
@@ -98,6 +77,6 @@
       "gloss": "u ye"
     }
   ],
-  "timestamp": "2026-10-14T03:55:37.639956668Z",
+  "timestamp": "2026-10-20T13:42:42.630335692Z",
   "model": "glm-5.3"
 }

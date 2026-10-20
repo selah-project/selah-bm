@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הרואה אתה",
-      "rationale": "'Are you a seer?' (KJV\/ASV\/JPS) vs 'Do you see?' — the participle can be a title (ro'eh, seer) or a plain question"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "rationale": "this is preposition עם 'with you', not the object marker; it keeps the ⟨את⟩ gloss by rule but means 'with'"
-    },
-    {
-      "kind": "you",
-      "subject": "to Tsadok the priest",
-      "rationale": "direct address with imperative שבה and second-person suffixes"
-    }
-  ],
-  "translation": "Masakɛ ko sarakalasebaga Tsadok ye: “I ye ɲɛfɛ-dɔnniba ye wa? Segin dugu la hɛrɛ la; Aximats (Aximasi) i denkɛ, ani Yehonatan (Yonatan) Ewiyatar (Abiyatari) denkɛ — aw denkɛ fila, ⟨את⟩ aw ni aw ye.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cc210c487d4ce651afe49f709d9a132c8e32cef78414f62baffeb3269c679849",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/15\/25-28.1791931333548.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Masakɛ fana ko Tsadok (Sadoku) sarakalasebaga ma: yala i ye ɲɛ-yɛlɛma ye wa? Segin' a kɛ dugu la ni hɛrɛ ye; n'Awimaats (Ahimasi) i denkɛ ni Yehonatan (Yonati) Ebjatar (Abiyatara) denkɛ, aw denkɛ ninnu fila, ⟨את⟩ aw.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ye"
+      "gloss": "ma"
     },
     {
       "surface": "צדוק",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "הרואה",
-      "gloss": "ɲɛfɛ-dɔnniba"
+      "gloss": "ɲɛ-yɛlɛma"
     },
     {
       "surface": "אתה",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "העיר",
-      "gloss": "dugu la"
+      "gloss": "dugu"
     },
     {
       "surface": "בשלום",
-      "gloss": "hɛrɛ la"
+      "gloss": "ni hɛrɛ ye"
     },
     {
       "surface": "ואחימעץ",
-      "gloss": "Aximats"
+      "gloss": "Awimaats"
     },
     {
       "surface": "בנך",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "אביתר",
-      "gloss": "Ewiyatar"
+      "gloss": "Ebjatar"
     },
     {
       "surface": "שני",
@@ -99,14 +73,14 @@
     },
     {
       "surface": "בניכם",
-      "gloss": "aw denkɛw"
+      "gloss": "aw denkɛ ninnu"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "aw (aw ni aw ye)"
+      "marks": "aw"
     }
   ],
-  "timestamp": "2026-10-13T22:42:13.553714236Z",
+  "timestamp": "2026-10-20T13:25:05.973685803Z",
   "model": "glm-5.3"
 }

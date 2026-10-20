@@ -5,53 +5,28 @@
   "book": "judges",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אותי",
-      "rationale": "aleph-tav ni nɔnabila dɔrɔn, Yawe b'a jira a nɔ na"
-    },
-    {
-      "kind": "substitution",
-      "subject": "להושיע",
-      "rationale": "lasigi: kokura daɲɛ bɛ לא אוסיף kɔnɔ, 'n tɛna aw lasigi kokura'"
-    },
-    {
-      "kind": "you",
-      "subject": "Israelya ka jama",
-      "rationale": "Yawe kuma bɛ tɛmɛ Israelya bɛɛ kan, aw fɛ"
-    }
-  ],
-  "translation": "Nka aw yiyɛlɛma Yawe bolo, aw ye batofɛnw wɛrɛw jɔiya, o la n tɛna aw lasigi kokura.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/judges\/10\/13-16.1791929539567.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nka aw y'⟨את⟩ ne bɔ, aw ye alaw wɛrɛw jɔ; o la ne tɛna ⟨את⟩ aw lasagi kokura.",
   "tokens": [
     {
       "surface": "ואתם",
-      "gloss": "aw"
+      "gloss": "Nka aw"
     },
     {
       "surface": "עזבתם",
-      "gloss": "aw yiyɛlɛma…bolo (aw bɔli Yawe la)"
+      "gloss": "aw ye … bɔ"
     },
     {
       "surface": "אותי",
-      "gloss": "Yawe (⟨את⟩ min b'a jira)"
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne"
     },
     {
       "surface": "ותעבדו",
-      "gloss": "aw ye…jɔiya"
+      "gloss": "aw ye … jɔ"
     },
     {
       "surface": "אלהים",
-      "gloss": "batofɛnw"
+      "gloss": "alaw"
     },
     {
       "surface": "אחרים",
@@ -67,17 +42,18 @@
     },
     {
       "surface": "אוסיף",
-      "gloss": "tɛna…kokura"
+      "gloss": "tɛna … kokura"
     },
     {
       "surface": "להושיע",
-      "gloss": "lasigi"
+      "gloss": "lasagi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw"
+      "gloss": "⟨את⟩",
+      "marks": "aw"
     }
   ],
-  "timestamp": "2026-10-13T22:12:19.571044182Z",
+  "timestamp": "2026-10-20T14:59:15.496388240Z",
   "model": "glm-5.3"
 }

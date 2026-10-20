@@ -5,33 +5,7 @@
   "book": "ruth",
   "lang": "bm",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ועשה חיל",
-      "rationale": "'do חיל' = act worthily\/prosper; rendered 'k'i yɛrɛ kɛ ka se' (make yourself able\/strong), the strength sense kept"
-    },
-    {
-      "kind": "addition",
-      "subject": "k'a di",
-      "rationale": "jussive 'may Yawe give' needs a giving-verb frame in Bambara that Hebrew carries in the jussive form itself"
-    },
-    {
-      "kind": "you",
-      "subject": "to Boaz",
-      "rationale": "the people and elders bless Boaz directly in the second person"
-    }
-  ],
-  "translation": "Mɔgɔw bɛɛ min bɛ da la, ani møgɔkɔrɔbaw, u ko: “Anw ye seerew ye. Yawe k'a di: ⟨את⟩ muso min bɛ don i ka so la, a kɛ Rasel (Raseli) i n'a fɔ ani Lea (Leiya) ye, u fila minnu ye ⟨את⟩ Israyɛl (Isirayɛl) ka so jɔ. I k'i yɛrɛ kɛ ka se Efrata kɔnɔ, ani ka tɔgɔ bonya Beti-Lahemu (Betilɛmu) kɔnɔ.”",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f26ac8c083d5a83602c82603c52767dc310490448be8f98ec5d8ce37a3758df8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ruth\/4\/9-12.1791944840576.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jama bɛɛ min dugu da la, ani mɔgɔkɔrɔw, u ko: An ye seerew ye. Yawe hini ⟨את⟩ muso min bɛ don i so la, i n'a fɔ Rasɛl (Rasɛl) ni Lea (Lea), minnu filan ye ⟨את⟩ Isirayili (Isirayili) so ban; i kɛ seba Efrata (Efrata) kɔnɔ, ka tɔgɔ fɔ Betilehem (Betilehem) kɔnɔ.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "mɔgɔw"
+      "gloss": "jama"
     },
     {
       "surface": "אשר",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "בשער",
-      "gloss": "da la"
+      "gloss": "dugu da la"
     },
     {
       "surface": "והזקנים",
-      "gloss": "ani møgɔkɔrɔbaw"
+      "gloss": "ani mɔgɔkɔrɔw"
     },
     {
       "surface": "עדים",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "k'a di"
+      "gloss": "hini"
     },
     {
       "surface": "יהוה",
@@ -72,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "muso min bɛ don i ka so la"
+      "marks": "muso"
     },
     {
       "surface": "האשה",
@@ -84,19 +58,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "ka don"
+      "gloss": "(i so) la"
     },
     {
       "surface": "ביתך",
-      "gloss": "i ka so"
+      "gloss": "i so"
     },
     {
       "surface": "כרחל",
-      "gloss": "Rasel i n'a fɔ"
+      "gloss": "i n'a fɔ Rasɛl"
     },
     {
       "surface": "וכלאה",
-      "gloss": "ani Lea"
+      "gloss": "ni Lea"
     },
     {
       "surface": "אשר",
@@ -104,16 +78,16 @@
     },
     {
       "surface": "בנו",
-      "gloss": "ye … jɔ"
+      "gloss": "ye … ban"
     },
     {
       "surface": "שתיהם",
-      "gloss": "u fila"
+      "gloss": "olu filan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israyɛl ka so"
+      "marks": "Isirayili so"
     },
     {
       "surface": "בית",
@@ -121,15 +95,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyɛl"
+      "gloss": "Isirayili"
     },
     {
       "surface": "ועשה",
-      "gloss": "k'i yɛrɛ kɛ"
+      "gloss": "i kɛ"
     },
     {
       "surface": "חיל",
-      "gloss": "ka se"
+      "gloss": "seba"
     },
     {
       "surface": "באפרתה",
@@ -137,7 +111,7 @@
     },
     {
       "surface": "וקרא",
-      "gloss": "ani ka tɔgɔ bonya"
+      "gloss": "ka tɔgɔ fɔ"
     },
     {
       "surface": "שם",
@@ -145,13 +119,13 @@
     },
     {
       "surface": "בבית",
-      "gloss": "Beti-Lahemu kɔnɔ"
+      "gloss": "Betilehem"
     },
     {
       "surface": "לחם",
-      "gloss": "Beti-Lahemu"
+      "gloss": "(Betilehem kɔnɔ)"
     }
   ],
-  "timestamp": "2026-10-14T02:27:20.580500679Z",
+  "timestamp": "2026-10-20T15:41:21.343659348Z",
   "model": "glm-5.3"
 }

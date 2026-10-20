@@ -5,41 +5,20 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ji",
-      "rationale": "Bamanankan tɔgɔ yɔrɔ de b'a fɛ — 'Yardɛn' ye ji ye; Heburukan tɛ 'ji' fɔ"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ɲɛnamaya",
-      "rationale": "בטח nafa ye 'sanu-yɔrɔ\/refuge' de ye k'a jɔya; Bamanankan fɔ 'ɲɛnamaya' (safety\/peace)"
-    }
-  ],
-  "translation": "Aw na taa ⟨את⟩ Yardɛn (Zorodani) ji, aw na sigi dugukolo la min na Yawe Aw Ala bɛ lasigiden di ⟨את⟩ aw ye, a na aw hɛrɛ bila aw bɛnbagaw bɛɛ la minnu bɛ aw gɔnɔkan, aw na sigi ɲɛnamaya la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2ec8a58b1ab553fa978a28b513715f6ad7cd33f8563c1a1b8ad4f81354d696b1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/12\/9-12.1791927920358.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aw na tɛmɛ ⟨את⟩ Yarden (Yarencɛ) kan, aw na sigi dugukolo la min na Yawe aw ka Elohim b'aw falilila, a na aw bila janya la aw ka tɔbwɛrɛw bɛɛ la minnu bɛ a ganna, aw na sigi hɛrɛ la.",
   "tokens": [
     {
       "surface": "ועברתם",
-      "gloss": "aw na taa"
+      "gloss": "aw na tɛmɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yardɛn ji"
+      "marks": "Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yardɛn (Zorodani)"
+      "gloss": "Yarden"
     },
     {
       "surface": "וישבתם",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min na"
     },
     {
       "surface": "יהוה",
@@ -59,20 +38,20 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Aw Ala"
+      "gloss": "aw ka Elohim"
     },
     {
       "surface": "מנחיל",
-      "gloss": "bɛ lasigiden di"
+      "gloss": "b'aw falilila"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨אתכɛm⟩ → aw",
       "marks": "aw"
     },
     {
       "surface": "והניח",
-      "gloss": "a na aw hɛrɛ bila"
+      "gloss": "a na aw bila janya la"
     },
     {
       "surface": "לכם",
@@ -84,11 +63,11 @@
     },
     {
       "surface": "איביכם",
-      "gloss": "aw bɛnbagaw"
+      "gloss": "aw ka tɔbwɛrɛw"
     },
     {
       "surface": "מסביב",
-      "gloss": "aw gɔnɔkan"
+      "gloss": "minnu bɛ a ganna"
     },
     {
       "surface": "וישבתם",
@@ -96,9 +75,9 @@
     },
     {
       "surface": "בטח",
-      "gloss": "ɲɛnamaya la"
+      "gloss": "hɛrɛ la"
     }
   ],
-  "timestamp": "2026-10-13T21:45:20.360415419Z",
+  "timestamp": "2026-10-20T13:39:08.835040284Z",
   "model": "glm-5.3"
 }

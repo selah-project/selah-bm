@@ -5,59 +5,28 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פלח רכב",
-      "rationale": "'slice of a millstone' (KJV\/JPS) vs YLT literal 'piece of a rider' — רכב elsewhere means rider\/chariot; 'upper millstone' is the standard reading."
-    },
-    {
-      "kind": "hapax",
-      "subject": "פלח",
-      "rationale": "The noun 'slice\/piece' occurs only here in the Tanakh."
-    },
-    {
-      "kind": "you",
-      "subject": "to Joab",
-      "rationale": "David's hypothetical speech addressed to Joab about the messenger's report."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ירובבעל\/ירבשת",
-      "rationale": "Jerubbesheth is a softened form of Gideon's name Jerubbaal ('let Baal contend' → 'let shame contend'), the pun lost in Bambara."
-    }
-  ],
-  "translation": "Jumɛn ye ⟨את⟩ Avimelek (Abimelek), Yerubeshet denkɛ, bɔbɔ? Muso si ma laso ⟨את⟩ sɔgɔ-rɔ dɔ a kan, bɔ jɛ sanfɛ, wa a sa Thebets wa? Mun na aw jolila jɛ la? I na fɔ ko fana: i ka sofɛ Uriya Hetiden sa.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d7f659a7572b0575c16b04a8707bc032d0c41ffb19308971d02220af23e57d49",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/11\/21-24.1791931139817.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jɔgɔ ye min boli ⟨את⟩ Awimelek (Awimelek), Yerubeshet (Yerubeshet) den? Walo muso dɔ ye wɔrɔdɔn kuturu dɔ wili a kan, k'a bɔ dɛgɛ sanfɛ, a sa Tibets (Tibets) la? Munna aw y'a ɲɛfun ka kɛ dɛgɛ fɛ? K'a fɔ ko: i denbaga malo Uriya (Uriya) Hetiden de sa fana.",
   "tokens": [
     {
       "surface": "מי",
-      "gloss": "Jumɛn"
+      "gloss": "jɔgɔ"
     },
     {
       "surface": "הכה",
-      "gloss": "bɔbɔ"
+      "gloss": "boli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Avimelek"
+      "marks": "Awimelek"
     },
     {
       "surface": "אבימלך",
-      "gloss": "Avimelek"
+      "gloss": "Awimelek"
     },
     {
       "surface": "בן",
-      "gloss": "denkɛ"
+      "gloss": "den"
     },
     {
       "surface": "ירבשת",
@@ -65,7 +34,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "wa…wa"
+      "gloss": "walo"
     },
     {
       "surface": "אשה",
@@ -73,7 +42,7 @@
     },
     {
       "surface": "השליכה",
-      "gloss": "laso"
+      "gloss": "wili"
     },
     {
       "surface": "עליו",
@@ -81,11 +50,11 @@
     },
     {
       "surface": "פלח",
-      "gloss": "turu"
+      "gloss": "kuturu"
     },
     {
       "surface": "רכב",
-      "gloss": "sɔgɔ-rɔ"
+      "gloss": "wɔrɔdɔn"
     },
     {
       "surface": "מעל",
@@ -93,7 +62,7 @@
     },
     {
       "surface": "החומה",
-      "gloss": "jɛ sanfɛ"
+      "gloss": "dɛgɛ"
     },
     {
       "surface": "וימת",
@@ -101,27 +70,27 @@
     },
     {
       "surface": "בתבץ",
-      "gloss": "Thebets"
+      "gloss": "Tibets"
     },
     {
       "surface": "למה",
-      "gloss": "mun na"
+      "gloss": "munna"
     },
     {
       "surface": "נגשתם",
-      "gloss": "aw jolila"
+      "gloss": "aw y'a ɲɛfun"
     },
     {
       "surface": "אל",
-      "gloss": "…la"
+      "gloss": "fɛ"
     },
     {
       "surface": "החומה",
-      "gloss": "jɛ"
+      "gloss": "dɛgɛ"
     },
     {
-      "surface": "וימת",
-      "gloss": "i na fɔ"
+      "surface": "ואמרת",
+      "gloss": "k'a fɔ ko"
     },
     {
       "surface": "גם",
@@ -129,7 +98,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "i ka sofɛ"
+      "gloss": "i denbaga malo"
     },
     {
       "surface": "אוריה",
@@ -144,6 +113,6 @@
       "gloss": "sa"
     }
   ],
-  "timestamp": "2026-10-13T22:38:59.818496239Z",
+  "timestamp": "2026-10-20T13:23:52.634608694Z",
   "model": "glm-5.3"
 }

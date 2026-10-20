@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פני",
-      "rationale": "Hebrew 'upon the face of' = in the presence of \/ in preference to; rendered ɲɛ na"
-    },
-    {
-      "kind": "elision",
-      "subject": "את אשר",
-      "rationale": "second את marks a whole clause ('that which he has'), an unusual direct-object scope"
-    }
-  ],
-  "translation": "O bɛna kɛ don min na a bɛna ⟨את⟩ a denw latigɛ fɛn min bɛ a la, a kana se ka ⟨את⟩ kanuya-muso den k'a kɛ fɔlɔ ye, ɲɛbali-muso denkɛ-fɔlɔ ɲɛ na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "2a32c3936654e6efe2a2ca34729192468634b9d0c6e697075eb4efbd5720e432",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/21\/13-16.1791928035257.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A bɛna kɛ a ye: don min na a bɛna ⟨את⟩ a denkɛw di ⟨את⟩ fɛn minnu bɛna bɔ a bolo, o don a tɛ se ka ⟨את⟩ muso-min-kanuyabaga denkɛ fɔ fɔlɔden ye, muso-min-bɔnbaga denkɛ — fɔlɔden de — ɲɛfɛ.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "o bɛna kɛ"
+      "gloss": "a bɛna kɛ a ye"
     },
     {
       "surface": "ביום",
@@ -38,58 +17,58 @@
     },
     {
       "surface": "הנחילו",
-      "gloss": "a bɛna latigɛ"
+      "gloss": "a bɛna … di"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a denw"
+      "marks": "a denkɛw"
     },
     {
       "surface": "בניו",
-      "gloss": "a denw"
+      "gloss": "a denkɛw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fɛn min bɛ a la"
+      "marks": "fɛn minnu"
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "minnu"
     },
     {
       "surface": "יהיה",
-      "gloss": "bɛ"
+      "gloss": "bɛna bɔ"
     },
     {
       "surface": "לו",
-      "gloss": "a la"
+      "gloss": "a bolo"
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "tɛ"
     },
     {
       "surface": "יוכל",
-      "gloss": "a kana se"
+      "gloss": "se"
     },
     {
       "surface": "לבכר",
-      "gloss": "ka fɔlɔya di"
+      "gloss": "ka … fɔ fɔlɔden ye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kanuya-muso den"
+      "marks": "muso-kanuyabaga denkɛ"
     },
     {
       "surface": "בן",
-      "gloss": "den"
+      "gloss": "denkɛ"
     },
     {
       "surface": "האהובה",
-      "gloss": "kanuya-muso"
+      "gloss": "muso-min-kanuyabaga"
     },
     {
       "surface": "על",
@@ -97,7 +76,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "ɲɛ"
+      "gloss": "ɲɛfɛ"
     },
     {
       "surface": "בן",
@@ -105,13 +84,13 @@
     },
     {
       "surface": "השנואה",
-      "gloss": "ɲɛbali-muso"
+      "gloss": "muso-min-bɔnbaga"
     },
     {
       "surface": "הבכר",
-      "gloss": "fɔlɔ"
+      "gloss": "fɔlɔden"
     }
   ],
-  "timestamp": "2026-10-13T21:47:15.263494862Z",
+  "timestamp": "2026-10-20T13:42:15.496702989Z",
   "model": "glm-5.3"
 }

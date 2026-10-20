@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ye",
-      "rationale": "Bambara copula required; Hebrew has no verb between hadamaden and atem."
-    },
-    {
-      "kind": "you",
-      "subject": "anw",
-      "rationale": "direct address to the flock, the people of Israel."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "צאן\/מרעית",
-      "rationale": "shepherd-chapter closes with flock-and-pasture pairing; repetition of צאן keeps the metaphor explicit."
-    }
-  ],
-  "translation": "Anw ye ne ka sagaw ye, ne ka nakɔ sagaw ye, hadamadenw ye anw ⟨ye⟩; ne ye anw Ala ye, Yawe Adonay kuma ko.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "90c6e1b91d0bdf78768a7abc01dced1d94d35a526e78298aa63217f9291f427a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/34\/29-31.1791937614911.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aw ye n sagaw, n sigiyɔrɔ-marabaw, aw ye hadamadenw ye; ne ye aw Elohim ye, Yawe kuma ko: Adonay Yawe fɔra.",
   "tokens": [
     {
       "surface": "ואתן",
-      "gloss": "anw"
+      "gloss": "Aw"
     },
     {
       "surface": "צאני",
-      "gloss": "ne ka sagaw"
+      "gloss": "n sagaw"
     },
     {
       "surface": "צאן",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "מרעיתי",
-      "gloss": "ne ka nakɔ"
+      "gloss": "n sigiyɔrɔ-marabaw"
     },
     {
       "surface": "אדם",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "anw"
+      "gloss": "aw"
     },
     {
       "surface": "אני",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "anw Ala"
+      "gloss": "aw Elohim"
     },
     {
       "surface": "נאם",
-      "gloss": "kuma"
+      "gloss": "kuma ko"
     },
     {
       "surface": "אדני",
@@ -78,6 +52,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-14T00:26:54.912901247Z",
+  "timestamp": "2026-10-20T14:05:46.593567480Z",
   "model": "glm-5.3"
 }

@@ -5,38 +5,7 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "bɔngotigɛbaga den",
-      "rationale": "בן המרצח: 'jagokɛtigi den' walima 'bɔngotigɛbaga den' — KJV\/JPS ye 'son of a murderer'; BSB ye 'murderer' dɔrɔn (ben ka kɔrɔ ye)."
-    },
-    {
-      "kind": "elision",
-      "subject": "ולחצתם",
-      "rationale": "'ni aw ye a da la' — Hebrew ka 'press him at the door' bɛ nɔgɔya Bamanankan na."
-    },
-    {
-      "kind": "idiom",
-      "subject": "מלפניו",
-      "rationale": "'from before him' = masakɛ ka fɛ, 'kɔrɔfanta fɛ' ye a nɔgɔya ye."
-    },
-    {
-      "kind": "you",
-      "subject": "Elisha ye mɔgɔkɔrɔbaw ko",
-      "rationale": "Elisha ka kuma da mɔgɔkɔrɔbaw ma — imperatifu 'aw ye da lagbu'."
-    }
-  ],
-  "translation": "Elisha tun sigilen don a so kɔnɔ, ani mɔgɔkɔrɔbaw sigilen don ni a ye; kɔrɔfanta ye ciden dɔ ci a ma; kabini ciden in ma na fɔlɔ, Elisha y'a fɔ mɔgɔkɔrɔbaw ye ko: Aw ye bɔn wa, masakɛden bɔngotigɛbaga in ye mɔgɔ ci ka ne ka ⟨את⟩ kun bɔ? Aw y'ɲɛ: ni ciden in na, aw ye da lagbu, aw kɛ o da la ⟨a⟩. Yala a matigi ka sen kan tɛ a kɔ fɛ wa?",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "6159a98a1e0689623c1d6eb5a0c2ce326a74a67009fe94fb96770c6b2d8a91f2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/6\/32-32.1791950538019.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Elisha sigilen don a so kɔnɔ, ani mogokɔrɔw sigilen don ⟨את⟩ a ye; a ye mɔgɔ dɔ ci a ɲɛfɛ, b'a na ka ciden ka na a nɔ na, a yɛrɛ ko mogokɔrɔw ye: “Aw ye ye ko murutigi den in ye mɔgɔ ci walasa k'⟨את⟩ ne kun bɔ? Aw ye: ciden ka don na, aw ka da degi, aw ka ⟨את⟩ a ɲɔgɔn da da la. Yala aw ye ma a matigi senw kɔlɔsi o kɔ fɛ wa?”",
   "tokens": [
     {
       "surface": "ואלישע",
@@ -44,7 +13,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "sigilen"
+      "gloss": "sigilen don"
     },
     {
       "surface": "בביתו",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "והזקנים",
-      "gloss": "ani mɔgɔkɔrɔbaw"
+      "gloss": "ani mogokɔrɔw"
     },
     {
       "surface": "ישבים",
@@ -60,59 +29,60 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ni a ye ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "a ye (ni a ye)"
     },
     {
       "surface": "וישלח",
-      "gloss": "ye ciden dɔ ci"
+      "gloss": "a ye mɔgɔ ci"
     },
     {
       "surface": "איש",
-      "gloss": "mɔgɔ"
+      "gloss": "mɔgɔ dɔ"
     },
     {
       "surface": "מלפניו",
-      "gloss": "a ma kɔrɔfanta fɛ"
+      "gloss": "a ɲɛfɛ"
     },
     {
       "surface": "בטרם",
-      "gloss": "kabini … ma na fɔlɔ"
+      "gloss": "b'a na"
     },
     {
       "surface": "יבא",
-      "gloss": "na"
+      "gloss": "ka na"
     },
     {
       "surface": "המלאך",
-      "gloss": "ciden in"
+      "gloss": "ciden"
     },
     {
       "surface": "אליו",
-      "gloss": "a ma"
+      "gloss": "a nɔ na"
     },
     {
       "surface": "והוא",
-      "gloss": "Elisha y'a"
+      "gloss": "a yɛrɛ"
     },
     {
       "surface": "אמר",
-      "gloss": "fɔ"
+      "gloss": "ko"
     },
     {
       "surface": "אל",
-      "gloss": "ye … ko"
+      "gloss": ""
     },
     {
       "surface": "הזקנים",
-      "gloss": "mɔgɔkɔrɔbaw"
+      "gloss": "mogokɔrɔw ye"
     },
     {
       "surface": "הראיתם",
-      "gloss": "aw ye bɔn wa"
+      "gloss": "aw ye ye"
     },
     {
       "surface": "כי",
-      "gloss": "wa"
+      "gloss": "ko"
     },
     {
       "surface": "שלח",
@@ -124,7 +94,7 @@
     },
     {
       "surface": "המרצח",
-      "gloss": "bɔngotigɛbaga"
+      "gloss": "murutigi"
     },
     {
       "surface": "הזה",
@@ -132,32 +102,32 @@
     },
     {
       "surface": "להסיר",
-      "gloss": "ka … bɔ"
+      "gloss": "walasa ka bɔ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ne ka kun"
+      "marks": "ne kun"
     },
     {
       "surface": "ראשי",
-      "gloss": "kun"
+      "gloss": "ne kun"
     },
     {
       "surface": "ראו",
-      "gloss": "aw y'ɲɛ"
+      "gloss": "aw ye"
     },
     {
       "surface": "כבא",
-      "gloss": "ni … na"
+      "gloss": "ka don na"
     },
     {
       "surface": "המלאך",
-      "gloss": "ciden in"
+      "gloss": "ciden"
     },
     {
       "surface": "סגרו",
-      "gloss": "aw ye da lagbu"
+      "gloss": "aw ka da degi"
     },
     {
       "surface": "הדלת",
@@ -165,12 +135,12 @@
     },
     {
       "surface": "ולחצתם",
-      "gloss": "aw kɛ"
+      "gloss": "aw ka ɲɔgɔn da"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ a",
-      "marks": "o"
+      "gloss": "⟨את⟩",
+      "marks": "a (ciden in)"
     },
     {
       "surface": "בדלת",
@@ -182,11 +152,11 @@
     },
     {
       "surface": "קול",
-      "gloss": "kan"
+      "gloss": "kɔlɔsi"
     },
     {
       "surface": "רגלי",
-      "gloss": "sen"
+      "gloss": "senw"
     },
     {
       "surface": "אדניו",
@@ -194,9 +164,9 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "a kɔ fɛ"
+      "gloss": "o kɔ fɛ"
     }
   ],
-  "timestamp": "2026-10-14T04:02:18.020550731Z",
+  "timestamp": "2026-10-20T13:23:24.077606359Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨ye ... ye⟩",
-      "rationale": "Hebrew lacks copula in 'ki hamaqom qadosh'; Bambara equative ye…ye supplied"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קדשי הקדשים",
-      "rationale": "'holy-of-holies' construct repeated twice; the doubling is kept as senumaw-ni-senumaw"
-    }
-  ],
-  "translation": "A fɔra ne ye: saheli sɔrɔdalanw ani worodugu sɔrɔdalanw, minnu bɛ seperenyɔrɔ ɲɛda, olu de ye sɔrɔdalan senumaw ye; sarakalasebagaw minnu bɛ Yawe surun, u bɛ senumaw-ni-senumaw dun yen; yen u bɛna senumaw-ni-senumaw bilala, ani diɲɛ-saraka, ani jurumu-saraka, ani dangalanan-saraka, sabu yɔrɔ in ⟨ye⟩ senumen ⟨ye⟩.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "72ea279afc917057bfb074b066c4b500967484d5743282bda2499e78a0becba5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/42\/13-16.1791937841435.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ko ne ye: saajan sokɔnɔyɔrɔw ni worodugu sokɔnɔyɔrɔw, minnu bɛ dantigɛyɔrɔ ɲɛda fɛ, olu ye senuma sokɔnɔyɔrɔw ye; minnu kɔnɔ sarakalasebagaw minnu surun Yawe ma bɛna senuma-senumaw dun yen. Yen, olu bɛna senuma-senumaw ni kisɛ-saraka ni jurumusaraka ni jurasaraka bila, sabu yɔrɔ in ye ⟨senuma⟩ ye.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a fɔra"
+      "gloss": "a ko"
     },
     {
       "surface": "אלי",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "לשכות",
-      "gloss": "sɔrɔdalanw"
+      "gloss": "sokɔnɔyɔrɔw"
     },
     {
       "surface": "הצפון",
-      "gloss": "saheli"
+      "gloss": "saajan"
     },
     {
       "surface": "לשכות",
-      "gloss": "sɔrɔdalanw"
+      "gloss": "sokɔnɔyɔrɔw"
     },
     {
       "surface": "הדרום",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "bɛ"
+      "gloss": "bɛ … fɛ"
     },
     {
       "surface": "פני",
@@ -66,19 +45,19 @@
     },
     {
       "surface": "הגזרה",
-      "gloss": "seperenyɔrɔ"
+      "gloss": "dantigɛyɔrɔ"
     },
     {
       "surface": "הנה",
-      "gloss": "olu de"
+      "gloss": "olu"
     },
     {
       "surface": "לשכות",
-      "gloss": "sɔrɔdalanw"
+      "gloss": "sokɔnɔyɔrɔw"
     },
     {
       "surface": "הקדש",
-      "gloss": "senumen"
+      "gloss": "senuma"
     },
     {
       "surface": "אשר",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "יאכלו",
-      "gloss": "dun"
+      "gloss": "bɛna dun"
     },
     {
       "surface": "שם",
@@ -106,11 +85,11 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yawe"
+      "gloss": "Yawe ma"
     },
     {
       "surface": "קדשי",
-      "gloss": "senumaw-ni-"
+      "gloss": "senuma"
     },
     {
       "surface": "הקדשים",
@@ -122,11 +101,11 @@
     },
     {
       "surface": "יניחו",
-      "gloss": "bilala"
+      "gloss": "bɛna bila"
     },
     {
       "surface": "קדשי",
-      "gloss": "senumaw-ni-"
+      "gloss": "senuma"
     },
     {
       "surface": "הקדשים",
@@ -134,15 +113,15 @@
     },
     {
       "surface": "והמנחה",
-      "gloss": "ani diɲɛ-saraka"
+      "gloss": "ni kisɛ-saraka"
     },
     {
       "surface": "והחטאת",
-      "gloss": "ani jurumu-saraka"
+      "gloss": "ni jurumusaraka"
     },
     {
       "surface": "והאשם",
-      "gloss": "ani dangalanan-saraka"
+      "gloss": "ni jurasaraka"
     },
     {
       "surface": "כי",
@@ -154,9 +133,9 @@
     },
     {
       "surface": "קדש",
-      "gloss": "senumen"
+      "gloss": "senuma"
     }
   ],
-  "timestamp": "2026-10-14T00:30:41.436382333Z",
+  "timestamp": "2026-10-20T14:08:25.292068Z",
   "model": "glm-5.3"
 }

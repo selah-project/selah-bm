@@ -5,45 +5,24 @@
   "book": "2-chronicles",
   "lang": "bm",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "רגל ישראל",
-      "rationale": "'Isirayeli sen' — sen-ma bɔli ye dunun-yɔrɔ-tili-fɔli ye Heburukan na; Bamanankan b'a lakali cogo la"
-    },
-    {
-      "kind": "you",
-      "subject": "aw bayaw",
-      "rationale": "Yawe ka kuma in bɛ Isirayeli ma ni 'aw' ye — kuma in kɔfɛ dɔgɔkun bɛ a kɔnɔ"
-    }
-  ],
-  "translation": "Ani m'e tɛna Isirayeli sen bɔ dugukolo in na, min n ye ɲɔgɔn sɔrɔ aw bayaw ma; nka fo u bɛna a mara ka bɛɛ ti a kɛ min n y'u la kɛ — Tora bɛɛ ani sariya-jɛnw ani ɲɔgɔnfa-jɛnw cogo min na, Moshe (Musa) bolo fɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "fc9dbf3d838b99badf6acf155bfc92f5cc6b1c9858e3109166ffd1935c7d5a7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-chronicles\/33\/5-8.1791949774039.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ani ne tɛna fara ⟨a⟩ ka bɔli kɛ Israel ka sen na dugukolo la min na ne y'i sigi aw baw ma; nko dɔrɔn, ni u kɔlɔsi ka kɛ ⟨את⟩ min bɛɛ ne y'u fɔ u ye — Tora bɛɛ ani sariyahunuw ani fisa-dɔnniw, Moshe (Musa) bolo fɛ.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ani m'e tɛna"
+      "gloss": "ani ne tɛ"
     },
     {
       "surface": "אוסיף",
-      "gloss": "tɛna … abada"
+      "gloss": "fara"
     },
     {
       "surface": "להסיר",
-      "gloss": "bɔ"
+      "gloss": "ka bɔli kɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Isirayeli sen"
+      "marks": "Israel ka sen"
     },
     {
       "surface": "רגל",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isirayeli"
+      "gloss": "Israel"
     },
     {
       "surface": "מעל",
-      "gloss": "na"
+      "gloss": "dugukolo la bɔ"
     },
     {
       "surface": "האדמה",
@@ -63,36 +42,36 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "min na"
     },
     {
       "surface": "העמדתי",
-      "gloss": "n ye ɲɔgɔn sɔrɔ"
+      "gloss": "ne y'i sigi"
     },
     {
       "surface": "לאבתיכם",
-      "gloss": "aw bayaw ma"
+      "gloss": "aw baw ma"
     },
     {
       "surface": "רק",
-      "gloss": "nka"
+      "gloss": "nko dɔrɔn"
     },
     {
       "surface": "אם",
-      "gloss": "fo"
+      "gloss": "ni"
     },
     {
       "surface": "ישמרו",
-      "gloss": "u bɛna a mara"
+      "gloss": "u kɔlɔsi"
     },
     {
       "surface": "לעשות",
-      "gloss": "ka … kɛ"
+      "gloss": "ka kɛ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bɛɛ"
+      "marks": "min bɛɛ"
     },
     {
       "surface": "כל",
@@ -104,11 +83,11 @@
     },
     {
       "surface": "צויתים",
-      "gloss": "n y'u la kɛ"
+      "gloss": "ne y'u fɔ u ye"
     },
     {
       "surface": "לכל",
-      "gloss": "bɛɛ"
+      "gloss": "Tora bɛɛ la"
     },
     {
       "surface": "התורה",
@@ -116,11 +95,11 @@
     },
     {
       "surface": "והחקים",
-      "gloss": "ani sariya-jɛnw"
+      "gloss": "ani sariyahunuw"
     },
     {
       "surface": "והמשפטים",
-      "gloss": "ani ɲɔgɔnfa-jɛnw"
+      "gloss": "ani fisa-dɔnniw"
     },
     {
       "surface": "ביד",
@@ -128,9 +107,9 @@
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Moshe (Musa)"
     }
   ],
-  "timestamp": "2026-10-14T03:49:34.040667170Z",
+  "timestamp": "2026-10-20T13:14:11.737814712Z",
   "model": "glm-5.3"
 }

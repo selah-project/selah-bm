@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ye",
-      "rationale": "Hebrew verbless clause אתה הוא האלהים needs Bambara copula"
-    },
-    {
-      "kind": "you",
-      "subject": "to Yawe",
-      "rationale": "Hezekiah's prayer addresses Yawe directly in second person"
-    }
-  ],
-  "translation": "Hizikiya ye fɔ Yawe ɲɛfɛ ko: Yawe, Isirayeli Ala, min bɛ sigi kerubuw la — Ala ye i yɛrɛ de, i dɔrɔn de, masamasya bɛɛ la; i ye ⟨את⟩ sankolow ni ⟨את⟩ dugukolo dilan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "cfd5c4226dd0b1eed32ed21ef90266ae0942232603bacbd8db7e45d934a36314",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/19\/13-16.1791933203633.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hizikiya (Ezekiya) y'a ju kun Yawe ɲɛfɛ, a ko: Yawe, Isirayeli (Izirayeli) Elohim, min bɛ sigi kurubuw la, i ye Elohim ye, i yɛrɛ dɔrɔn de, siya bɛɛ masamasya la; i ye ⟨את⟩ sankolow ni ⟨את⟩ dugukolo dilan.",
   "tokens": [
     {
       "surface": "ויתפלל",
-      "gloss": "ye fɔ Yawe ɲɛfɛ"
+      "gloss": "y'a ju kun"
     },
     {
       "surface": "חזקיהו",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "a ko"
     },
     {
       "surface": "יהוה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "ישב",
-      "gloss": "bɛ sigi"
+      "gloss": "min bɛ sigi"
     },
     {
       "surface": "הכרבים",
-      "gloss": "kerubuw la"
+      "gloss": "kurubuw la"
     },
     {
       "surface": "אתה",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Ala"
+      "gloss": "Elohim"
     },
     {
       "surface": "לבדך",
-      "gloss": "i dɔrɔn"
+      "gloss": "i yɛrɛ dɔrɔn de"
     },
     {
       "surface": "לכל",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "dugukolo"
+      "gloss": "dugukolo la"
     },
     {
       "surface": "אתה",
@@ -123,6 +102,6 @@
       "gloss": "dugukolo"
     }
   ],
-  "timestamp": "2026-10-13T23:13:23.643559550Z",
+  "timestamp": "2026-10-20T13:18:50.901450445Z",
   "model": "glm-5.3"
 }

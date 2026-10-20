@@ -5,56 +5,35 @@
   "book": "exodus",
   "lang": "bm",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "tan-ni-kelen",
-      "rationale": "jago jate (11) — jateden sariya"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ba-nin",
-      "rationale": "עזים 'ba (siye) ninw' — ba-nin ninw ka furakɛ dili daɲɛ"
-    }
-  ],
-  "translation": "I bɛna ba-nin jago dilan walasa kɛ da ye min bɛ sigilan kan; jago tan-ni-kelen i bɛna ⟨אתם⟩ dilan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "505dcc2faede235c10f79b09d8c21112796956b5b7033dce6f475a74007984f7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/exodus\/26\/5-8.1791926866837.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I bɛna ⟨את⟩ ba-w ka sikalan minɛnw dilan — sirilenw — walasa ka kɛ so ye min bɛ Mishkan (Yaw e ka dagayɔrɔ) kan; minɛn tan ni kelen, i bɛna ⟨את⟩ olu dilan.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "i bɛna ... dilan"
+      "gloss": "i bɛna … dilan"
     },
     {
       "surface": "יריעת",
-      "gloss": "jago"
+      "gloss": "minɛnw (sirilenw)"
     },
     {
       "surface": "עזים",
-      "gloss": "ba-nin"
+      "gloss": "ba-w"
     },
     {
       "surface": "לאהל",
-      "gloss": "walasa kɛ da ye"
+      "gloss": "walasa ka kɛ so ye"
     },
     {
       "surface": "על",
-      "gloss": "bɛ ... kan"
+      "gloss": "kan"
     },
     {
       "surface": "המשכן",
-      "gloss": "sigilan"
+      "gloss": "Mishkan (dagayɔrɔ)"
     },
     {
       "surface": "עשתי",
-      "gloss": "tan-ni-kelen"
+      "gloss": "tan ni kelen"
     },
     {
       "surface": "עשרה",
@@ -62,18 +41,18 @@
     },
     {
       "surface": "יריעת",
-      "gloss": "jago"
+      "gloss": "minɛnw"
     },
     {
       "surface": "תעשה",
-      "gloss": "i bɛna ... dilan"
+      "gloss": "i bɛna … dilan"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "jago tan-ni-kelen"
+      "gloss": "⟨את⟩",
+      "marks": "minɛnw tan ni kelen (olu)"
     }
   ],
-  "timestamp": "2026-10-13T21:27:46.839700164Z",
+  "timestamp": "2026-10-20T13:54:09.664114502Z",
   "model": "glm-5.3"
 }

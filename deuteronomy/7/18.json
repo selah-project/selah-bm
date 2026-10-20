@@ -5,40 +5,19 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "זכר תזכר",
-      "rationale": "Infinitive-absolute plus finite verb: 'remembering you shall remember' — intensity rendered 'k'a kɔlɔsi ko'."
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Direct second-person command."
-    }
-  ],
-  "translation": "I kana u siran; i k'a kɔlɔsi ko ni Yawe i Ala ye kɛ ⟨את⟩ min Farawo (Paroh) ani Mitsrayim bɛɛ ye:",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "5335b492775e1c5f28846656b568e028f959e43e09e3a020e03fad825df8e9a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/7\/17-20.1791927738066.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I kana u siran; kɔlɔsi ka kɔlɔsi ⟨את⟩ min na Yawe i Elohim kɛra Farawo (Paroh) ni Misira bɛɛ ye,",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "i kana"
+      "gloss": "kana"
     },
     {
       "surface": "תירא",
-      "gloss": "siran"
+      "gloss": "i siran"
     },
     {
       "surface": "מהם",
-      "gloss": "u de na"
+      "gloss": "u"
     },
     {
       "surface": "זכר",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "תזכר",
-      "gloss": "k'a kɔlɔsi ko"
+      "gloss": "ka kɔlɔsi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "min Farawo ani Mitsrayim bɛɛ ye"
+      "marks": "min na"
     },
     {
       "surface": "אשר",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "kɛ"
+      "gloss": "kɛra"
     },
     {
       "surface": "יהוה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "i Ala"
+      "gloss": "i Elohim"
     },
     {
       "surface": "לפרעה",
@@ -75,13 +54,13 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "ani bɛɛ"
+      "gloss": "ni bɛɛ"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Misira"
     }
   ],
-  "timestamp": "2026-10-13T21:42:18.073261273Z",
+  "timestamp": "2026-10-20T13:47:04.461515035Z",
   "model": "glm-5.3"
 }

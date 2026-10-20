@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "bm",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "aw bɛna sa",
-      "rationale": "ואבדתם is 'you will perish\/be destroyed', broader than 'die'; Bamanankan uses sa, the cause of perishing narrowed."
-    },
-    {
-      "kind": "crux",
-      "subject": "והדחתי",
-      "rationale": "First person 'I will drive you out' (Yawe speaking) vs read as the prophets' result; renderings split between 'I should drive you out' (KJV) and 'I have driven you out' (YLT)."
-    }
-  ],
-  "translation": "Sabu telenni de olu bɛ nabiali aw ye, walasa k'aw bɔ ka jan aw dugukolo kan; n bɛna ⟨את⟩ aw boli, aw bɛna sa.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "9d02d0dbadfe838e40d56a5cb38f1ffac1360935d64a8fba51c555d52e925823",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/jeremiah\/27\/9-12.1791935811662.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sabu u bɛ fɔtiyasi nabi-fɔ aw ye, walasa k'aw tunbun bɔ ⟨את⟩ aw ka dugukolo kan; ani ne bɛna ⟨את⟩ aw boli, aw na sa.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "שקר",
-      "gloss": "telenni"
+      "gloss": "fɔtiyasi"
     },
     {
       "surface": "הם",
-      "gloss": "olu"
+      "gloss": "u"
     },
     {
       "surface": "נבאים",
-      "gloss": "bɛ nabiali"
+      "gloss": "nabi-fɔ"
     },
     {
       "surface": "לכם",
@@ -54,35 +33,35 @@
     },
     {
       "surface": "הרחיק",
-      "gloss": "ka bɔ ka jan"
+      "gloss": "tunbubali"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "aw (ka jan bɔli kɛra aw ye)"
+      "marks": "aw — min bɛ tunbun k'a bɔ aw ka dugukolo kan"
     },
     {
       "surface": "מעל",
-      "gloss": "kan"
+      "gloss": "bɔ"
     },
     {
       "surface": "אדמתכם",
-      "gloss": "aw dugukolo"
+      "gloss": "aw ka dugukolo"
     },
     {
       "surface": "והדחתי",
-      "gloss": "n bɛna boli"
+      "gloss": "ani ne bɛna aw boli"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "aw"
+      "marks": "aw — min bɛna boli"
     },
     {
       "surface": "ואבדתם",
-      "gloss": "aw bɛna sa"
+      "gloss": "aw na sa"
     }
   ],
-  "timestamp": "2026-10-13T23:56:51.663316922Z",
+  "timestamp": "2026-10-20T14:40:09.259510039Z",
   "model": "glm-5.3"
 }

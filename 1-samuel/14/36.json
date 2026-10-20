@@ -5,89 +5,63 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "האלהים",
-      "rationale": "'let us draw near here to Elohim' — context (14:37, Saul asks counsel and He answers not) shows it means consulting God, not physical approach."
-    },
-    {
-      "kind": "idiom",
-      "subject": "בעיניך",
-      "rationale": "lit. 'good in your eyes', rendered 'min ka ɲi i ɲɛ na', the same body-part idiom kept literally."
-    },
-    {
-      "kind": "you",
-      "subject": "i",
-      "rationale": "the people answer Shaul with direct address: 'do all that is good in your eyes'."
-    }
-  ],
-  "translation": "Shaul ko: an bɛ tugu Pelisitiw (Filibisiw) bolo su na, ka min n'u la fo sɔgɔma yeelen ta, an kana mɔgɔ kelen bila u kɔnɔ. U ko: fɛn bɛɛ min ka ɲi i ɲɛ na, o kɛ. Sarakalasebaga ko: an bɛn yan Elohim (Ala) la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "7cfc32342f75de7eefb0b4a1fe01cd740a7d761113f124e06367fe259a58c17e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/14\/33-36.1791930381561.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Shaule ye ko: an ka cala Pelistinenw kɔfɛ su la, ka u wote ka se sɔgɔma yeelen ma, ani mɔgɔ kelen m'an to u la. U ye ko: min ka di i ɲɛ na, o kɛ. Sarakalasebaga ye ko: an ka na Elohim fɛ ⟨nin yɔrɔ nin na⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "ye ko"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaul"
+      "gloss": "Shaule"
     },
     {
       "surface": "נרדה",
-      "gloss": "an bɛ tugu"
+      "gloss": "an ka cala"
     },
     {
       "surface": "אחרי",
-      "gloss": "bolo"
+      "gloss": "kɔfɛ"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelisitiw (Filibisiw)"
+      "gloss": "Pelistinenw"
     },
     {
       "surface": "לילה",
-      "gloss": "su na"
+      "gloss": "su la"
     },
     {
       "surface": "ונבזה",
-      "gloss": "ka min n'u la"
+      "gloss": "ka u wote"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yeelen ma"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sɔgɔma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani m"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "an to"
     },
     {
       "surface": "בהם",
       "gloss": "u la"
-    },
-    {
-      "surface": "עד",
-      "gloss": "fo"
-    },
-    {
-      "surface": "אור",
-      "gloss": "yeelen"
-    },
-    {
-      "surface": "הבקר",
-      "gloss": "sɔgɔma ta"
-    },
-    {
-      "surface": "ולא",
-      "gloss": "ka kana"
-    },
-    {
-      "surface": "נשאר",
-      "gloss": "bila"
-    },
-    {
-      "surface": "בהם",
-      "gloss": "u kɔnɔ"
     },
     {
       "surface": "איש",
@@ -95,15 +69,15 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "u ko"
+      "gloss": "u ye ko"
     },
     {
       "surface": "כל",
-      "gloss": "bɛɛ"
+      "gloss": "min"
     },
     {
       "surface": "הטוב",
-      "gloss": "min ka ɲi"
+      "gloss": "ka di"
     },
     {
       "surface": "בעיניך",
@@ -115,29 +89,29 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ko"
+      "gloss": "ye ko"
     },
     {
       "surface": "הכהן",
-      "gloss": "sarakalasebaga"
+      "gloss": "Sarakalasebaga"
     },
     {
       "surface": "נקרבה",
-      "gloss": "an bɛn"
+      "gloss": "an ka na"
     },
     {
       "surface": "הלם",
-      "gloss": "yan"
+      "gloss": "⟨nin yɔrɔ nin na⟩"
     },
     {
       "surface": "אל",
-      "gloss": "ka kuma ... la"
+      "gloss": "fɛ"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim (Ala) la"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-13T22:26:21.562505900Z",
+  "timestamp": "2026-10-20T15:53:34.611722737Z",
   "model": "glm-5.3"
 }

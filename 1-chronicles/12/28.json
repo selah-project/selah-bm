@@ -5,44 +5,23 @@
   "book": "1-chronicles",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ye ... ɲɛ",
-      "rationale": "Hebrew apposition 'Jehoiada the-leader of-Aaron' needs a copula in translation."
-    },
-    {
-      "kind": "measurement",
-      "subject": "priestly muster",
-      "rationale": "Count: 3,700 with Jehoiada, of the Aaron line."
-    }
-  ],
-  "translation": "Ni Yehoyada, min ye Aarɔn (Aron) ɲɛmɔgɔ ye, a bɛɛ bɛ a la — wolonwula saba ɔnɔ ni kɛmɛ wolonwula (7,300 ye).",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d92af168d51f5de5c13f44151ec9e70448356a2d27a67f392f45a43b0cb53124",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-chronicles\/12\/25-28.1791947850218.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni Yehoyada, min ye Aharɔn ka ɲɛmɔgɔ ye, a ni Adamaden saba kɔnɔmɔgɔ damadɔ ni wolonwula dɔ ye u bɛɛ ye.",
   "tokens": [
     {
       "surface": "ויהוידע",
-      "gloss": "ni Yehoyada"
+      "gloss": "Yehoyada"
     },
     {
       "surface": "הנגיד",
-      "gloss": "ɲɛmɔgɔ \/ ɲɛfɔgɔba"
+      "gloss": "ɲɛmɔgɔ"
     },
     {
       "surface": "לאהרן",
-      "gloss": "Aarɔn"
+      "gloss": "Aharɔn"
     },
     {
       "surface": "ועמו",
-      "gloss": "ni a bɛɛ \/ a la"
+      "gloss": "a ni"
     },
     {
       "surface": "שלשת",
@@ -50,17 +29,17 @@
     },
     {
       "surface": "אלפים",
-      "gloss": "ɔnɔ"
+      "gloss": "kɔnɔmɔgɔ"
     },
     {
       "surface": "ושבע",
-      "gloss": "ni wolonwula"
+      "gloss": "wolonwula"
     },
     {
       "surface": "מאות",
-      "gloss": "kɛmɛ"
+      "gloss": "damadɔ"
     }
   ],
-  "timestamp": "2026-10-14T03:17:30.219944642Z",
+  "timestamp": "2026-10-20T12:45:24.265239508Z",
   "model": "glm-5.3"
 }

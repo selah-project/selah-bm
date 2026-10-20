@@ -5,53 +5,27 @@
   "book": "2-samuel",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ערבות",
-      "rationale": "'plains' vs 'the fords (of the Jordan)' — the wilderness steppe or its crossing-points"
-    },
-    {
-      "kind": "substitution",
-      "subject": "yebali",
-      "rationale": "יבלע literally 'be swallowed' — kept as 'yebali' rather than plain 'destroyed'"
-    },
-    {
-      "kind": "you",
-      "subject": "to Tsadoku and Ebjatari",
-      "rationale": "imperatives 'send, tell' address the two priests directly"
-    }
-  ],
-  "translation": "Sisan aw ye taali kɛ ka jo, aw ka Dawida fɔ ko: i kana su latugu pɛnyɔrɔworodugu-yɔrɔw la; i k'i tɛmɛ ka taa ka saa, sani masa ni ⟨את⟩ jamaa minnu bɛ a fɛ bɛɛ ma yebali.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "608551b73c75d213cca981c7ba1a6ff3541865be5c2bd96ff6d9cb065484eda9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-samuel\/17\/13-16.1791931391773.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sisan dun, aw yɛ teliya ka ci ka Dawid (Dawuda) ma k'a fɔ a ye ko: i kana su in tiɣi sajɛgɛn dala, nka fana aw tiijo tɛmɛ teliya, fɔrɔ masakɛ ni jama bɛɛ min bɛ ⟨את⟩ a ni, u bɛna min balen.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "sisan"
+      "gloss": "Sisan dun"
     },
     {
       "surface": "שלחו",
-      "gloss": "aw ye taali kɛ"
+      "gloss": "aw yɛ … ci"
     },
     {
       "surface": "מהרה",
-      "gloss": "ka jo"
+      "gloss": "teliya"
     },
     {
       "surface": "והגידו",
-      "gloss": "aw ka ... fɔ"
+      "gloss": "k'a fɔ"
     },
     {
       "surface": "לדוד",
-      "gloss": "Dawida"
+      "gloss": "Dawid (Dawuda) ma"
     },
     {
       "surface": "לאמר",
@@ -59,23 +33,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "kana"
+      "gloss": "i kana"
     },
     {
       "surface": "תלן",
-      "gloss": "k'a latugu"
+      "gloss": "tiɣi"
     },
     {
       "surface": "הלילה",
-      "gloss": "su"
+      "gloss": "su in"
     },
     {
       "surface": "בערבות",
-      "gloss": "worodugu-yɔrɔw la"
+      "gloss": "dala"
     },
     {
       "surface": "המדבר",
-      "gloss": "pɛnyɔrɔ"
+      "gloss": "sajɛgɛn"
     },
     {
       "surface": "וגם",
@@ -83,41 +57,42 @@
     },
     {
       "surface": "עבור",
-      "gloss": "ka tɛmɛ"
+      "gloss": "tɛmɛ"
     },
     {
       "surface": "תעבור",
-      "gloss": "i k'i tɛmɛ"
+      "gloss": "aw tiijo tɛmɛ"
     },
     {
       "surface": "פן",
-      "gloss": "sani"
+      "gloss": "fɔrɔ"
     },
     {
       "surface": "יבלע",
-      "gloss": "yebali"
+      "gloss": "bɛna min balen"
     },
     {
       "surface": "למלך",
-      "gloss": "masa"
+      "gloss": "masakɛ"
     },
     {
       "surface": "ולכל",
-      "gloss": "ani ... bɛɛ"
+      "gloss": "ni … bɛɛ"
     },
     {
       "surface": "העם",
-      "gloss": "jamaa"
+      "gloss": "jama"
     },
     {
       "surface": "אשר",
-      "gloss": "minnu"
+      "gloss": "min"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ a fɛ"
+      "gloss": "⟨את⟩ a ni",
+      "marks": "a ni (jama min bɛ Dawid ni)"
     }
   ],
-  "timestamp": "2026-10-13T22:43:11.789855523Z",
+  "timestamp": "2026-10-20T13:25:42.612710104Z",
   "model": "glm-5.3"
 }

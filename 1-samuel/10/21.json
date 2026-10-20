@@ -5,44 +5,28 @@
   "book": "1-samuel",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "המטרי",
-      "rationale": " constructs its text exactly as instructed, preserving the logical flow from the prior turn."
-    }
-  ],
-  "translation": "A y'a lamɛn ⟨את⟩ Binjamini jamana a ka denbaya-misensinw la, Matiri denbaya minɛra; Kish den Shaʼul minɛra; u ye a ɲini, a ma yen.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "ee671a96678cb4779c857e04855f218a58b66e975216d6c0b86c63b66c8127c5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-samuel\/10\/21-24.1791930129482.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A y'⟨את⟩ Binyamin denbaya ɲɛsɔrɔ a ka mɔgɔw la, Matri mɔgɔw minɛra, Sawulu Kisuden minɛra, u ye a ɲini nka a ma ye.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "A y'a lamɛn"
+      "gloss": "a y'a ɲɛsɔrɔ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Binjamini jamana"
+      "marks": "Binyamin denbaya"
     },
     {
       "surface": "שבט",
-      "gloss": "jamana"
+      "gloss": "denbaya"
     },
     {
-      "surface": "בנימין",
-      "gloss": "Binjamini"
+      "surface": "בנימן",
+      "gloss": "Binyamin"
     },
     {
       "surface": "למשפחתו",
-      "gloss": "a ka denbaya-misensinw la"
+      "gloss": "a ka mɔgɔw la"
     },
     {
       "surface": "ותלכד",
@@ -50,11 +34,11 @@
     },
     {
       "surface": "משפחת",
-      "gloss": "denbaya"
+      "gloss": "mɔgɔw"
     },
     {
       "surface": "המטרי",
-      "gloss": "Matiri"
+      "gloss": "Matri"
     },
     {
       "surface": "וילכד",
@@ -62,7 +46,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Shaʼul"
+      "gloss": "Sawulu"
     },
     {
       "surface": "בן",
@@ -70,7 +54,7 @@
     },
     {
       "surface": "קיש",
-      "gloss": "Kish"
+      "gloss": "Kis"
     },
     {
       "surface": "ויבקשהו",
@@ -78,13 +62,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "nka a ma"
+      "gloss": "nka"
     },
     {
       "surface": "נמצא",
-      "gloss": "yen"
+      "gloss": "a ma ye"
     }
   ],
-  "timestamp": "2026-10-13T22:22:09.483824045Z",
+  "timestamp": "2026-10-20T15:44:37.623570592Z",
   "model": "glm-5.3"
 }

@@ -5,50 +5,29 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 76,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Shalem",
-      "rationale": "שלם read as place-name 'Salem' (= Jerusalem) vs root 'peace' — kept as the name Shalem"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dɛgɛ",
-      "rationale": "סוך is a hut of entwined boughs, a booth; dɛgɛ keeps the tent-shape"
-    }
-  ],
-  "translation": "A kɛ tiyinɛ: a ka dɛgɛ bɛ Shalem (Shalɛmu) kɔnɔ, a ka siginyɔrɔ bɛ Tsiyon kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/76\/1-4.1791940671152.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A kɛra ko: a ka sukun bɛ Shalem, ani ⟨a ka⟩ so bɛ Tsiyon.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "a kɛ tiyinɛ"
+      "gloss": "a kɛra ko"
     },
     {
       "surface": "בשלם",
-      "gloss": "Shalem kɔnɔ"
+      "gloss": "Shalem"
     },
     {
       "surface": "סכו",
-      "gloss": "a ka dɛgɛ"
+      "gloss": "a ka sukun"
     },
     {
       "surface": "ומעונתו",
-      "gloss": "a ka siginyɔrɔ"
+      "gloss": "a ka so"
     },
     {
       "surface": "בציון",
-      "gloss": "Tsiyon kɔnɔ"
+      "gloss": "Tsiyon"
     }
   ],
-  "timestamp": "2026-10-14T01:17:51.153511117Z",
+  "timestamp": "2026-10-20T15:39:31.128187404Z",
   "model": "glm-5.3"
 }

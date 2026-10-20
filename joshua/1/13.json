@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לאמר",
-      "rationale": "ni a ye kuma-jato-dɔ ye, a bɛ Bamanankan la ko 'ko' dɔrɔn de."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dama",
-      "rationale": "נוח אינו kɔrɔsira ye, א bɛ kɔrɔ ko 'to ɔ la a bɛɛ yɔrɔ la' — dama ni jɔcogo dɔ ye nin ye."
-    },
-    {
-      "kind": "you",
-      "subject": "Rubenidenw, Gadidenw ni Manase tilen-kɛmɛ",
-      "rationale": "Yehoshua ka kuma kɔrɔ ye aw ye — nafa sɔrɔli kuma la min bɛ fɔ min tɛ jira sibiri kɔnɔ."
-    }
-  ],
-  "translation": "Aw ye ⟨את⟩ kuma min lajɛ: min Yawe ka sofɔ Moshe (Musa) fɔ aw ye ko: Yawe, aw ka Elohim, bɛ aw dama, a bɛna ⟨את⟩ dugukolo in di aw ye.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b00f3725aff8b8cb07455fd3574627ec5a02bc7597f46b8b1b1d790b975f1660",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/1\/13-16.1791928539862.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I ka kɔlɔsi kuma min Moshe (Musa), Yawe denbaga, n'in fɔra aw ma ko: Yawe, aw Elohim, bɛ hɛrɛ di aw ma, k'aw di ⟨את⟩ dugukolo nin ye.",
   "tokens": [
     {
       "surface": "זכור",
-      "gloss": "lajɛ"
+      "gloss": "kɔlɔsi"
     },
     {
       "surface": "את",
@@ -52,11 +26,11 @@
     },
     {
       "surface": "צוה",
-      "gloss": "fɔ"
+      "gloss": "n'in fɔra"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw ye"
+      "gloss": "⟨את⟩ aw ma"
     },
     {
       "surface": "משה",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "sofɔ"
+      "gloss": "denbaga"
     },
     {
       "surface": "יהוה",
@@ -80,28 +54,28 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "aw ka Elohim"
+      "gloss": "aw Elohim"
     },
     {
       "surface": "מניח",
-      "gloss": "bɛ … dama"
+      "gloss": "hɛrɛ di"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aw ma"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "k'aw di"
     },
     {
       "surface": "לכם",
       "gloss": "aw"
     },
     {
-      "surface": "ונתן",
-      "gloss": "bɛna … di"
-    },
-    {
-      "surface": "לכם",
-      "gloss": "aw ye"
-    },
-    {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dugukolo in"
+      "marks": "dugukolo"
     },
     {
       "surface": "הארץ",
@@ -109,9 +83,9 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "in"
+      "gloss": "nin ye"
     }
   ],
-  "timestamp": "2026-10-13T21:55:39.865955246Z",
+  "timestamp": "2026-10-20T14:53:13.277696843Z",
   "model": "glm-5.3"
 }

@@ -5,31 +5,10 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "don saba na 'on the third day'",
-      "rationale": "the verse counts days twice, framing the assembly's return"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨Rehavam⟩",
-      "rationale": "proper name needed in Bambara clause after postposition 'ye'; the Hebrew names it in the source"
-    }
-  ],
-  "translation": "Yarobeam ni jama bɛɛ nana ⟨Rehavam⟩ ye don saba na, masakɛ kuma cogo min na ko: aw kana segin n na don saba na.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b1147edd681aa68169446b16a1dd638547de3d893f770010015e9fc1cdfd048d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/12\/9-12.1791932110296.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yarobeam ni jama bɛɛ nana Rehavam fɛ don saba na, i n'a fɔ masakɛ fɔra a ye ko: aw kuni aw na ne fɛ don saba na.",
   "tokens": [
     {
-      "surface": "ויבוא",
+      "surface": "ויבו",
       "gloss": "nana"
     },
     {
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ye"
+      "gloss": "fɛ"
     },
     {
       "surface": "רחבעם",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "cogo min na"
+      "gloss": "i n'a fɔ"
     },
     {
       "surface": "דבר",
-      "gloss": "kuma"
+      "gloss": "fɔra"
     },
     {
       "surface": "המלך",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "שובו",
-      "gloss": "aw kana segin"
+      "gloss": "aw kuni aw na"
     },
     {
       "surface": "אלי",
-      "gloss": "n na"
+      "gloss": "ne fɛ"
     },
     {
       "surface": "ביום",
@@ -93,6 +72,6 @@
       "gloss": "saba"
     }
   ],
-  "timestamp": "2026-10-13T22:55:10.301782260Z",
+  "timestamp": "2026-10-20T12:52:59.240771056Z",
   "model": "glm-5.3"
 }

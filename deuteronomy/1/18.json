@@ -5,36 +5,20 @@
   "book": "deuteronomy",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "בעת ההוא",
-      "rationale": "'at that time' kept literal; Hebrew word order asyndetic, Bambara adds no extra frame."
-    }
-  ],
-  "translation": "Ani ne y'aw laso waati o la, ⟨את⟩ kumaw bɛɛ minnu aw ka kɛ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "de8242910b62f82408b93fa2d4d20e394827557b59eafa809ab4805f55b048f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/deuteronomy\/1\/17-20.1791927472785.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ani o waati la, ne y'aw laseli ⟨את⟩ kuma bɛɛ minnu aw ka kɛ.",
   "tokens": [
     {
       "surface": "ואצוה",
-      "gloss": "ne y'aw laso"
+      "gloss": "ani ne y'aw laseli"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aw",
+      "gloss": "⟨את⟩",
       "marks": "aw"
     },
     {
       "surface": "בעת",
-      "gloss": "waati"
+      "gloss": "o waati la"
     },
     {
       "surface": "ההוא",
@@ -43,7 +27,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kumaw bɛɛ"
+      "marks": "kuma bɛɛ"
     },
     {
       "surface": "כל",
@@ -62,6 +46,6 @@
       "gloss": "aw ka kɛ"
     }
   ],
-  "timestamp": "2026-10-13T21:37:52.791384775Z",
+  "timestamp": "2026-10-20T13:37:52.100369277Z",
   "model": "glm-5.3"
 }

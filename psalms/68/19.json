@@ -5,73 +5,47 @@
   "book": "psalms",
   "lang": "bm",
   "chapter": 68,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שבית שבי",
-      "rationale": "'you-captive captivity' — infinitive plus noun of same root, kept as minɛ minɛya."
-    },
-    {
-      "kind": "crux",
-      "subject": "מתנות באדם",
-      "rationale": "'received gifts among men' vs later tradition 'gave gifts to men' — the Hebrew verb is take."
-    },
-    {
-      "kind": "addition",
-      "subject": "yen",
-      "rationale": "Hebrew has no locative 'there'; supplied for the dwelling clause."
-    }
-  ],
-  "translation": "I nɔgɔya sanfɛ, i minɛ minɛya; i ta sanonyaw hadamadenw la, hali banbaliyaw fana, walasa Ya Elohim ka sigi ⟨yen⟩.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/psalms\/68\/17-20.1791940613337.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨I⟩ tugu sanfɛla la, ⟨I⟩ ye ⟨⟨jonya⟩ ta ka jonw kɛ, ⟨I⟩ ye sanuw ta mɔgɔw la, hali sumayabagaw fana, walasa Ya Elohim ka se ka siginin yen.",
   "tokens": [
     {
       "surface": "עלית",
-      "gloss": "i nɔgɔya"
+      "gloss": "tugu"
     },
     {
       "surface": "למרום",
-      "gloss": "sanfɛ"
+      "gloss": "sanfɛla la"
     },
     {
       "surface": "שבית",
-      "gloss": "i minɛ"
+      "gloss": "ka jon ta"
     },
     {
       "surface": "שבי",
-      "gloss": "minɛya"
+      "gloss": "jonya"
     },
     {
       "surface": "לקחת",
-      "gloss": "i ta"
+      "gloss": "ta"
     },
     {
       "surface": "מתנות",
-      "gloss": "sanonyaw"
+      "gloss": "sanuw"
     },
     {
       "surface": "באדם",
-      "gloss": "hadamadenw la"
+      "gloss": "mɔgɔw la"
     },
     {
       "surface": "ואף",
-      "gloss": "hali … fana"
+      "gloss": "hali"
     },
     {
       "surface": "סוררים",
-      "gloss": "banbaliyaw"
+      "gloss": "sumayabagaw fana"
     },
     {
       "surface": "לשכן",
-      "gloss": "ka sigi"
+      "gloss": "ka siginin"
     },
     {
       "surface": "יה",
@@ -82,6 +56,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-14T01:16:53.338067616Z",
+  "timestamp": "2026-10-20T15:59:45.362724301Z",
   "model": "glm-5.3"
 }

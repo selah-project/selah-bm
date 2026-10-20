@@ -5,45 +5,19 @@
   "book": "1-kings",
   "lang": "bm",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "dɔ · bɛ",
-      "rationale": "Bambara supplies the indefinite ⟨dɔ⟩ and the copula ⟨bɛ⟩ that Hebrew omits"
-    },
-    {
-      "kind": "elision",
-      "subject": "אליה",
-      "rationale": "'unto her' is absorbed into the Bambara verb 'a ye a wele' (he called her)"
-    },
-    {
-      "kind": "you",
-      "subject": "to the widow",
-      "rationale": "Eliyahu addresses the widow with an imperative request"
-    }
-  ],
-  "translation": "A yɛlɛn, a taara Tsarefata; a na dugu da la, ani mira, muso furakɛli ⟨dɔ⟩ ⟨bɛ⟩ yen ka jiriw lajɛ; a ye a wele, a ko: Ta ji fitinni ne ye, i ni sɔrɔ, kuru dɔ kɔnɔ, n bɛna min.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "d8d05319aa93ba74f05cdda76d50a5672a88c8eced2f3b20f12e9c45c4727645",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/1-kings\/17\/9-12.1791932289630.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A yɛ igili, a taa Tsarefat (Sarepta), a na dugu ⟨in⟩ da la, a y'a ye: muso denbilen dɔ ye binbuguriw lajɛ yen; a ye a wele, a ko: “I n'a fɔ n ma, ji dɔw ta kɛnɛ kɔnɔ walasa n ka min.”",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "a yɛlɛn"
+      "gloss": "a yɛ igili"
     },
     {
       "surface": "וילך",
-      "gloss": "a taara"
+      "gloss": "a taa"
     },
     {
       "surface": "צרפתה",
-      "gloss": "Tsarefata"
+      "gloss": "Tsarefat"
     },
     {
       "surface": "ויבא",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "la"
+      "gloss": "<elision: to\/at>"
     },
     {
       "surface": "פתח",
-      "gloss": "dugu da"
+      "gloss": "da"
     },
     {
       "surface": "העיר",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "ani mira"
+      "gloss": "a y'a ye"
     },
     {
       "surface": "שם",
@@ -75,15 +49,15 @@
     },
     {
       "surface": "אלמנה",
-      "gloss": "furakɛli"
+      "gloss": "denbilen"
     },
     {
       "surface": "מקששת",
-      "gloss": "ka ... lajɛ"
+      "gloss": "binbuguriw lajɛ"
     },
     {
       "surface": "עצים",
-      "gloss": "jiriw"
+      "gloss": "binbuguriw"
     },
     {
       "surface": "ויקרא",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "אליה",
-      "gloss": ""
+      "gloss": "<elision: to her>"
     },
     {
       "surface": "ויאמר",
@@ -103,15 +77,15 @@
     },
     {
       "surface": "נא",
-      "gloss": "i ni sɔrɔ"
+      "gloss": "i n'a fɔ"
     },
     {
       "surface": "לי",
-      "gloss": "ne ye"
+      "gloss": "n ma"
     },
     {
       "surface": "מעט",
-      "gloss": "fitinni"
+      "gloss": "dɔw"
     },
     {
       "surface": "מים",
@@ -119,13 +93,13 @@
     },
     {
       "surface": "בכלי",
-      "gloss": "kuru dɔ kɔnɔ"
+      "gloss": "kɛnɛ kɔnɔ"
     },
     {
       "surface": "ואשתה",
-      "gloss": "n bɛna min"
+      "gloss": "walasa n ka min"
     }
   ],
-  "timestamp": "2026-10-13T22:58:09.633181818Z",
+  "timestamp": "2026-10-20T12:53:58.274434082Z",
   "model": "glm-5.3"
 }

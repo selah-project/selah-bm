@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "bm",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "היה היה",
-      "rationale": "Infinitif-absolu ni kanko-kɛcogo fila: kuma in kɛra tiɲɛ-tiɲɛ — “kɛrɛnkɛrɛnnenya la” b'a jira, nka Heburukan ka daɲɛ-filali (rendering with two identical forms) bɛ a yɛrɛ wuli."
-    },
-    {
-      "kind": "you",
-      "subject": "to Ezekiel",
-      "rationale": "Yawe ka kuma kɛra kɛrɛnkɛrɛnnenya la Yehetske'el ma — daɲɛ bɛ tɛmɛ nabi dɔrɔn de kan."
-    }
-  ],
-  "translation": "Yawe ka kuma kɛra kɛrɛnkɛrɛnnenya la, kɛra Yehetske'el (Ezekiyeli) ma, Buwi denkɛ, sarakalasebaga ye, Kashdim dugukolo la, Kewar baji kan; Yawe ka bolo tun bɛ yen a kan.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "4710297e39f25a036018dca90ed2504d53dfafec148b53ef4e774e8f1fc00e0f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/ezekiel\/1\/1-4.1791936578591.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yawe ka kuma tiɲɛ na kɛra Yeketsɛkɛl (Etsɛkiyɛl) ma — Buzi denkɛ, sarakalasebaga — Kashidew dugukolo la, Kebar baji kan; yen Yawe bolo tun bɛ ⟨a⟩ kan.",
   "tokens": [
     {
       "surface": "היה",
-      "gloss": "kɛra"
+      "gloss": "tiɲɛ na"
     },
     {
       "surface": "היה",
-      "gloss": "kɛra kɛrɛnkɛrɛnnenya la"
+      "gloss": "kɛra"
     },
     {
       "surface": "דבר",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "… ma"
+      "gloss": "ma"
     },
     {
       "surface": "יחזקאל",
-      "gloss": "Yehetske'el"
+      "gloss": "Yeketsɛkɛl"
     },
     {
       "surface": "בן",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "בוזי",
-      "gloss": "Buwi"
+      "gloss": "Buzi"
     },
     {
       "surface": "הכהן",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "Kashdim"
+      "gloss": "Kashidew"
     },
     {
       "surface": "על",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "כבר",
-      "gloss": "Kewar"
+      "gloss": "Kebar"
     },
     {
       "surface": "ותהי",
@@ -105,6 +84,6 @@
       "gloss": "Yawe"
     }
   ],
-  "timestamp": "2026-10-14T00:09:38.592175246Z",
+  "timestamp": "2026-10-20T13:59:44.763226844Z",
   "model": "glm-5.3"
 }

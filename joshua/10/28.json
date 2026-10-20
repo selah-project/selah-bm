@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "bm",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ni",
-      "rationale": "הנפש ye 'ni' ye k'a tɛ 'mɔgɔ' ye — kunḱili-ko, ni-ko, min bɛ balo la."
-    },
-    {
-      "kind": "elision",
-      "subject": "herɛm",
-      "rationale": "חרם (herɛm-kɛ) ye Tanaki ka daɲɛ taamasiyɛnnen ye; a tɛ nɔgɔya ka kɛ 'faga bɛɛ' ye dɔrɔn."
-    },
-    {
-      "kind": "idiom",
-      "subject": "npan da",
-      "rationale": "לפי חרב ye 'npan da' ye — Heburukan bɛ 'da' fɔ npan kan."
-    }
-  ],
-  "translation": "Yehoshua ye ⟨את⟩ Makida minɛ don nin na, a ye a segin npan da ye; a ye ⟨את⟩ a masakɛ ani ⟨את⟩ ni bɛɛ min kɛra a kɔnɔ herɛm-kɛ u ye; a ma si mɔgɔ tuna; a ye kɛ Makida masakɛ la cogo min na a ye kɛ Yeriyo masakɛ la.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "0b2b385a6609ab46ebaa07ede73683bb4312d566f9c6e3034dc47c3734906946",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/joshua\/10\/25-28.1791928863687.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Don o don na, Yehoshua ye ⟨את⟩ Makida minɛ, k'o bɔ npan da fɛ, ani ⟨את⟩ a masakɛ — a y'u to danga la, ⟨את⟩ olu ni ⟨את⟩ ni bɛɛ minnu bɛ a kɔnɔ, mɔgɔ min tun-tɔ si ma to; a kɛra Makida masakɛ la i n'a fɔ a ye kɛ Yeriho masakɛ la.",
   "tokens": [
     {
       "surface": "ואת",
@@ -52,19 +26,19 @@
     },
     {
       "surface": "ביום",
-      "gloss": "don"
+      "gloss": "don o don na"
     },
     {
       "surface": "ההוא",
-      "gloss": "nin na"
+      "gloss": "o"
     },
     {
       "surface": "ויכה",
-      "gloss": "segin"
+      "gloss": "bɔ (ni…fɛ)"
     },
     {
       "surface": "לפי",
-      "gloss": "da"
+      "gloss": "da fɛ"
     },
     {
       "surface": "חרב",
@@ -77,21 +51,21 @@
     },
     {
       "surface": "מלכה",
-      "gloss": "a masakɛ"
+      "gloss": "masakɛ"
     },
     {
       "surface": "החרם",
-      "gloss": "herɛm-kɛ"
+      "gloss": "to danga la"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "u (masakɛ ni ni bɛɛ)"
+      "marks": "olu (masakɛ ni dugu mɔgɔw)"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ni bɛɛ"
+      "marks": "ni bɛɛ minnu bɛ a kɔnɔ"
     },
     {
       "surface": "כל",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "min"
+      "gloss": "minnu"
     },
     {
       "surface": "בה",
@@ -111,23 +85,23 @@
     },
     {
       "surface": "לא",
-      "gloss": "ma"
+      "gloss": "si ma"
     },
     {
       "surface": "השאיר",
-      "gloss": "tuna"
+      "gloss": "to"
     },
     {
       "surface": "שריד",
-      "gloss": "si mɔgɔ"
+      "gloss": "mɔgɔ min tun-tɔ"
     },
     {
       "surface": "ויעש",
-      "gloss": "kɛ"
+      "gloss": "kɛra"
     },
     {
       "surface": "למלך",
-      "gloss": "masakɛ"
+      "gloss": "masakɛ la"
     },
     {
       "surface": "מקדה",
@@ -135,21 +109,21 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "cogo min na"
+      "gloss": "i n'a fɔ"
     },
     {
       "surface": "עשה",
-      "gloss": "kɛra"
+      "gloss": "kɛ"
     },
     {
       "surface": "למלך",
-      "gloss": "masakɛ"
+      "gloss": "masakɛ la"
     },
     {
       "surface": "יריחו",
       "gloss": "Yeriho"
     }
   ],
-  "timestamp": "2026-10-13T22:01:03.696421012Z",
+  "timestamp": "2026-10-20T14:54:08.881145320Z",
   "model": "glm-5.3"
 }

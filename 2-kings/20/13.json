@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "bm",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "נכתה",
-      "rationale": "נכתה appears only here in the Tanakh; rendered 'nafaw' (valuables)"
-    },
-    {
-      "kind": "crux",
-      "subject": "בית כליו",
-      "rationale": "'house of his vessels' — KJV\/ASV read 'armour' (kɛlɛkɛ minɛnw), YLT\/JPS read 'vessels\/treasures'; literal shape kept"
-    },
-    {
-      "kind": "measurement",
-      "subject": "treasure inventory",
-      "rationale": "the verse is a total inventory — silver, gold, spices, oil, vessels, storehouses — nothing withheld"
-    }
-  ],
-  "translation": "Khizkiyahu (Hizkiya) y'u mɛn u kan, a y'u ye ⟨את⟩ nafaw bɛɛ min bɛ a ka so kɔnɔ — ⟨את⟩ warigwɛ, ani ⟨את⟩ sanu, ani ⟨את⟩ ɲɛnyumanw, ani ⟨את⟩ tulu nyuman, ani ⟨את⟩ a ka minɛnw so, ani ⟨את⟩ bɛɛ min sɔrɔ a ka marasow la. Fɛn si tun tɛ min Khizkiyahu ma ye u ye, a ka so kɔnɔ walima a ka fanga bɛɛ kɔnɔ.",
-  "provenance": {
-    "system-sha256": "4e476d59c2c78bce5bc5ec731118a39f22bc741b1ed4e980a18e7010d434c4c7",
-    "user-sha256": "f6e64e2d65824a065ae85d3d29728f5935025c8c82149b1a313268e8f56d2416",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/bm\/2-kings\/20\/13-16.1791933236252.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hizikiya ye u kan mɛn, ka u ye ⟨את⟩ a ka fɛn sumaw so bɛɛ jira: ⟨את⟩ warigwɛ ni ⟨את⟩ sanu, ni ⟨את⟩ basamaw, ni ⟨את⟩ tulu nɔgɔman, ani ⟨את⟩ a ka minɛn so, ani ⟨את⟩ fɛn bɛɛ min bɛ a ka lasubagaw kɔnɔ. Fɛn si tun tɛ min Hizikiya ma jira u ye, a so kɔnɔ ani a ka fanga bɛɛ kɔnɔ.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "y'u mɛn"
+      "gloss": "ye u kan mɛn"
     },
     {
       "surface": "עליהם",
@@ -43,16 +17,16 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Khizkiyahu"
+      "gloss": "Hizikiya"
     },
     {
       "surface": "ויראם",
-      "gloss": "a y'u ye"
+      "gloss": "ka u ye … jira"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nafaw bɛɛ min bɛ a ka so kɔnɔ"
+      "marks": "a ka fɛn sumaw so bɛɛ"
     },
     {
       "surface": "כל",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "נכתה",
-      "gloss": "nafaw"
+      "gloss": "fɛn sumaw"
     },
     {
       "surface": "את",
@@ -77,7 +51,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ni ⟨את⟩",
       "marks": "sanu"
     },
     {
@@ -86,17 +60,17 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ɲɛnyumanw"
+      "gloss": "ni ⟨את⟩",
+      "marks": "basamaw"
     },
     {
       "surface": "הבשמים",
-      "gloss": "ɲɛnyumanw"
+      "gloss": "basamaw"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "tulu nyuman"
+      "gloss": "ni ⟨את⟩",
+      "marks": "tulu nɔgɔman"
     },
     {
       "surface": "שמן",
@@ -104,12 +78,12 @@
     },
     {
       "surface": "הטוב",
-      "gloss": "nyuman"
+      "gloss": "nɔgɔman"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "a ka minɛnw so"
+      "gloss": "ani ⟨את⟩",
+      "marks": "a ka minɛn so"
     },
     {
       "surface": "בית",
@@ -117,12 +91,12 @@
     },
     {
       "surface": "כליו",
-      "gloss": "a ka minɛnw"
+      "gloss": "minɛnw"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "bɛɛ min sɔrɔ a ka marasow la"
+      "gloss": "ani ⟨את⟩",
+      "marks": "fɛn bɛɛ"
     },
     {
       "surface": "כל",
@@ -134,11 +108,11 @@
     },
     {
       "surface": "נמצא",
-      "gloss": "sɔrɔ"
+      "gloss": "bɛ"
     },
     {
       "surface": "באוצרתיו",
-      "gloss": "a ka marasow la"
+      "gloss": "a ka lasubagaw kɔnɔ"
     },
     {
       "surface": "לא",
@@ -162,25 +136,25 @@
     },
     {
       "surface": "הראם",
-      "gloss": "ma ye u ye"
+      "gloss": "ma jira u ye"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Khizkiyahu"
+      "gloss": "Hizikiya"
     },
     {
       "surface": "בביתו",
-      "gloss": "a ka so kɔnɔ"
+      "gloss": "a so kɔnɔ"
     },
     {
       "surface": "ובכל",
-      "gloss": "ani … bɛɛ kɔnɔ"
+      "gloss": "ani bɛɛ"
     },
     {
       "surface": "ממשלתו",
       "gloss": "a ka fanga"
     }
   ],
-  "timestamp": "2026-10-13T23:13:56.259861829Z",
+  "timestamp": "2026-10-20T13:20:21.669915126Z",
   "model": "glm-5.3"
 }
