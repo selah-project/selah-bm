@@ -15,7 +15,7 @@ A bɛ di yamaruya nin kɔrɔ: **Creative Commons Attribution-ShareAlike 4.0 Inte
 
 ## Nin sariyaw la
 
-- **A bɔyɔrɔ fɔ** — a fɔ baara bɔra min na (**Selah**, https://selahproject.com), nin yamaruya ka sira
+- **A bɔyɔrɔ fɔ** — a fɔ baara bɔra min na (**Selah**, https://s33k3r.com), nin yamaruya ka sira
   fara a kan, ani a fɔ ni i ye fɛn dɔ yɛlɛma.
 - **A tila cogo kelen na** — i ye min yɛlɛma walima ka min dilan nin baara kan, o jɛnsɛn nin yamaruya
   kelen in kɔrɔ.
